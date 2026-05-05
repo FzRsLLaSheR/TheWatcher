@@ -1,0 +1,746 @@
+[2026-05-05 08:49:32 UTC] [INFO] ============================================================
+[2026-05-05 08:49:32 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-05 08:49:32 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-05 08:49:32 UTC] [INFO] Finestra temporale: ultimi 30 giorni
+[2026-05-05 08:49:32 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-05 08:49:32 UTC] [INFO] ============================================================
+[2026-05-05 08:49:32 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-05 08:49:32 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-05 08:49:34 UTC] [INFO]   → 45 repository trovati in totale
+[2026-05-05 08:49:34 UTC] [NEW]   🆕 45 NUOVI repository:
+[2026-05-05 08:49:34 UTC] [NEW]   📦 t-h-i-n-k-er/orchestra
+     ⭐ 0  🗣 Rust  📅 2026-04-21
+     🔗 https://github.com/t-h-i-n-k-er/orchestra
+     📝 blank
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 RajChowdhury240/AD-Red-Teaming-Claude-Skill
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/RajChowdhury240/AD-Red-Teaming-Claude-Skill
+     📝 a dedicated claude skill for hacking Active Directory
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 MicrosoftARMAssembler/Kunai-Driverless
+     ⭐ 6  🗣 C++  📅 2026-05-04
+     🔗 https://github.com/MicrosoftARMAssembler/Kunai-Driverless
+     📝 Kunai Driverless is a Valorant External using a Driverless to Read/Write Memory
+     🏷  0day, 0day-exploit, 0day-exploits, 1day, 1day-exploit, driverless, kernel, kernel-driver, usermode-bypass, valorant, valorant-assistant, valorant-external
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Securityblanketramification663/kslkatz_bof
+     ⭐ 1  🗣 C  📅 2026-04-26
+     🔗 https://github.com/Securityblanketramification663/kslkatz_bof
+     📝 Extract lsass memory in Havoc C2 with a KslD.sys BYOVD BOF for in-process creden…
+     🏷  active-directory, active-learning, bayesian-optimization, bloodhound, bloodhoundad, bof, c, cheminformatics, cna, cobalt-strike, experimental-design, ldap-query, ldapsearch, multiobjective-optimization, pe-loader, screenshot
+[2026-05-05 08:49:34 UTC] [NEW]   📦 hyper674inquiries-commits/hyper674inquiries-commits
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/hyper674inquiries-commits/hyper674inquiries-commits
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 jaberme/SMI-SMM-ABUSE-detector
+     ⭐ 0  🗣 Python  📅 2026-05-04
+     🔗 https://github.com/jaberme/SMI-SMM-ABUSE-detector
+     📝 Plugin Volatility 3 para detectar artefactos en memoria que sugieran intentos de…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 SimplyAe/osurise-kernel
+     ⭐ 0  🗣 C  📅 2026-05-03
+     🔗 https://github.com/SimplyAe/osurise-kernel
+     📝 Another one, please protect bro :)))
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 C2xorC4/Argus
+     ⭐ 0  🗣 Python  📅 2026-04-30
+     🔗 https://github.com/C2xorC4/Argus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Arqenor/arqenor
+     ⭐ 1  🗣 Rust  📅 2026-04-10
+     🔗 https://github.com/Arqenor/arqenor
+     📝 Open-source cross-platform host & network security analyzer (Rust + Go)
+     🏷  cross-platform, ebpf, edr, golang, host-security, network-security, observability, open-source, rust, security
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Emanuel-Rodrigues-Costa-Albuquerque/ThrottleStop-PPL-Bypass---x64-Assembly-HighlyOptmized
+     ⭐ 0  🗣 Assembly  📅 2026-05-01
+     🔗 https://github.com/Emanuel-Rodrigues-Costa-Albuquerque/ThrottleStop-PPL-Bypass---x64-Assembly-HighlyOptmized
+     📝 Research project exploring low-level Windows internals, kernel interaction techn…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 zencefilefendi/ghost-hook
+     ⭐ 1  🗣 Rust  📅 2026-04-30
+     🔗 https://github.com/zencefilefendi/ghost-hook
+     📝 Operation Entropy Zero - Ephemeral, Polymorphic, and Self-Aware eBPF Defense Arc…
+     🏷  active-defense, anti-forensics, cybersecurity, ebpf, polymorphism, rust, zero-persistence
+[2026-05-05 08:49:34 UTC] [NEW]   📦 sobrinhocdg/AZAZEL_PROTOCOL
+     ⭐ 0  🗣 Shell  📅 2026-04-28
+     🔗 https://github.com/sobrinhocdg/AZAZEL_PROTOCOL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 416rehman/DeepZero
+     ⭐ 388  🗣 Python  📅 2026-04-07
+     🔗 https://github.com/416rehman/DeepZero
+     📝 Find zero-days while you sleep. DeepZero is an automated vulnerability research …
+     🏷  ai, ai-agents, automated-analysis, cybersecurity, deep-agents, deepzero, exploit-development, kernel-drivers, langchain, llm, pipeline, python, reverse-engineering, semgrep, vertex, vertex-ai, vulnerability-research, windows-kernel, zero-day
+[2026-05-05 08:49:34 UTC] [NEW]   📦 0xDbgMan/DrvEye
+     ⭐ 147  🗣 Python  📅 2026-04-27
+     🔗 https://github.com/0xDbgMan/DrvEye
+     📝 Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discov…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 SaltyWaffle/windows-process-harness
+     ⭐ 1  🗣 C++  📅 2026-04-26
+     🔗 https://github.com/SaltyWaffle/windows-process-harness
+     📝 Windows attacker/defender practice harness — paired offensive primitives and det…
+     🏷  anti-debug, detection-engineering, dll-injection, edr, reverse-engineering, security, windows, windows-internals
+[2026-05-05 08:49:34 UTC] [NEW]   📦 AndrewAltimit/exploits
+     ⭐ 1  🗣 Python  📅 2026-04-05
+     🔗 https://github.com/AndrewAltimit/exploits
+     📝 Security research and exploit development: vulnerability analysis, exploit chain…
+     🏷  ai-security, browser-security, credential-harvesting, cve, exploit-development, post-exploitation, proof-of-concept, red-team, reverse-engineering, security-research, streamlit, vulnerability-analysis, worm
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Nimesh-Nakum/windows-kernel-internals-lab
+     ⭐ 0  🗣 C  📅 2026-04-19
+     🔗 https://github.com/Nimesh-Nakum/windows-kernel-internals-lab
+     📝 Hands-on lab to understand Windows kernel internals (drivers, IOCTL, callbacks, …
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Hann1bl3L3ct3r/Hann1bl3L3ct3r
+     ⭐ 0  🗣 N/A  📅 2026-04-08
+     🔗 https://github.com/Hann1bl3L3ct3r/Hann1bl3L3ct3r
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 devianntsec/devianntsec
+     ⭐ 0  🗣 N/A  📅 2026-04-24
+     🔗 https://github.com/devianntsec/devianntsec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 peppel65/threatHunting
+     ⭐ 0  🗣 HTML  📅 2026-04-20
+     🔗 https://github.com/peppel65/threatHunting
+     📝 A collection of Splunk SPL queries and reference material for Windows, Linux, an…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 sugarypumpkin822/Fortnite-Spoofer
+     ⭐ 0  🗣 C  📅 2026-04-15
+     🔗 https://github.com/sugarypumpkin822/Fortnite-Spoofer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Shad0cks/PoisonX-killer
+     ⭐ 1  🗣 C++  📅 2026-04-19
+     🔗 https://github.com/Shad0cks/PoisonX-killer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 BNTB/ssdt-hijacking
+     ⭐ 0  🗣 Zig  📅 2026-04-18
+     🔗 https://github.com/BNTB/ssdt-hijacking
+     📝 kernel execution through ssdt hijacking 
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 ACD421/The_Mimic
+     ⭐ 0  🗣 JavaScript  📅 2026-04-19
+     🔗 https://github.com/ACD421/The_Mimic
+     📝 Autonomous Behavioral Implant Framework. Google VRP: Working As Intended. Educat…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 JohnRyk/Ada-PoisonKiller-BOF
+     ⭐ 1  🗣 C  📅 2026-04-12
+     🔗 https://github.com/JohnRyk/Ada-PoisonKiller-BOF
+     📝 AdaptixC2 BOF implementation of BYOVD attack to terminate PPL-protected EDR proc…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 gxmst/gxFpc
+     ⭐ 0  🗣 C++  📅 2026-04-17
+     🔗 https://github.com/gxmst/gxFpc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Mhacker1020/Mhacker1020
+     ⭐ 0  🗣 N/A  📅 2026-04-16
+     🔗 https://github.com/Mhacker1020/Mhacker1020
+     📝 GitHub profile README
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 buter-chkalova/RvbbitSafe
+     ⭐ 6  🗣 C++  📅 2026-04-15
+     🔗 https://github.com/buter-chkalova/RvbbitSafe
+     📝 A next-generation multi-echelon anti-ransomware fortress for Windows, combining …
+     🏷  cybersecurity, ebpf, kernel-driver, machine-learning, neuro-symbolic-ai, open-source, ransomware, research, research-project, vbs, windows
+[2026-05-05 08:49:34 UTC] [NEW]   📦 FzRsLLaSheR/EBKiller
+     ⭐ 0  🗣 Rust  📅 2026-04-15
+     🔗 https://github.com/FzRsLLaSheR/EBKiller
+     📝 Research tool using a WHQL-signed Windows driver for kernel-level process contro…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Ta709/Vanguard-theoretical-malware
+     ⭐ 1  🗣 C++  📅 2026-04-12
+     🔗 https://github.com/Ta709/Vanguard-theoretical-malware
+     📝 This repo explains and demonstrates techniques for extracting stored passwords f…
+     🏷  cpp, malware-development, theoretical-framework, vanguard
+[2026-05-05 08:49:34 UTC] [NEW]   📦 sai2fast/Vulnerable-Monitors
+     ⭐ 1  🗣 Python  📅 2026-04-13
+     🔗 https://github.com/sai2fast/Vulnerable-Monitors
+     📝 BYOVD: SIVX64, ASTRA64, ArgusMonitor - hardware monitor drivers with kernel phys…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 sai2fast/kdhacker64
+     ⭐ 2  🗣 Python  📅 2026-04-13
+     🔗 https://github.com/sai2fast/kdhacker64
+     📝 BYOVD: kdhacker64_ev.sys (Kingsoft) - EV-signed, kernel heap overflow, no auth r…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 gmh5225/DsArk64
+     ⭐ 6  🗣 N/A  📅 2026-04-13
+     🔗 https://github.com/gmh5225/DsArk64
+     📝 BYOVD: DsArk64.sys (Qihoo 360) - WHQL-signed, process kill from ring 0 + kernel …
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 sai2fast/DsArk64
+     ⭐ 1  🗣 Python  📅 2026-04-13
+     🔗 https://github.com/sai2fast/DsArk64
+     📝 BYOVD: DsArk64.sys (Qihoo 360) - WHQL-signed, process kill from ring 0 + kernel …
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 sai2fast/driverscloud-rw
+     ⭐ 3  🗣 C++  📅 2026-04-13
+     🔗 https://github.com/sai2fast/driverscloud-rw
+     📝 BYOVD: DriversCloud_amd64.sys - arbitrary physical memory read + kernel write vi…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 shovanchakraborty/malware-triage-env
+     ⭐ 0  🗣 Python  📅 2026-04-08
+     🔗 https://github.com/shovanchakraborty/malware-triage-env
+     📝 OpenEnv malware triage environment for AI agent evaluation
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 chen0430tw/ParadexMonitor
+     ⭐ 0  🗣 Python  📅 2026-04-10
+     🔗 https://github.com/chen0430tw/ParadexMonitor
+     📝 Paradex Process Monitor — binary reconstruction & kernel inspection platform
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 briandyy/VGK-HWID-Spoofer
+     ⭐ 0  🗣 C++  📅 2026-04-11
+     🔗 https://github.com/briandyy/VGK-HWID-Spoofer
+     📝 HWID Spoofer using CorMem.sys BYOVD for physical memory access
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 athenasec16/CVE-2026-29923
+     ⭐ 21  🗣 C++  📅 2026-04-10
+     🔗 https://github.com/athenasec16/CVE-2026-29923
+     📝 A newly discovered vulnerable driver, pstrip64.sys (CVE-2026-29923) allows an un…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 nuzydev/BYOVD-DSE-Bypass
+     ⭐ 1  🗣 C++  📅 2026-04-07
+     🔗 https://github.com/nuzydev/BYOVD-DSE-Bypass
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 oxfemale/PoisinX
+     ⭐ 11  🗣 C++  📅 2026-04-07
+     🔗 https://github.com/oxfemale/PoisinX
+     📝 PP/PPL Process Termination via GUID Device Driver
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Muz1K1zuM/PoisonKiller_bof
+     ⭐ 31  🗣 C  📅 2026-04-06
+     🔗 https://github.com/Muz1K1zuM/PoisonKiller_bof
+     📝 Havoc BOF implementation of BYOVD attack to terminate PPL-protected EDR processe…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 Changele08/DEK
+     ⭐ 2  🗣 C  📅 2026-04-06
+     🔗 https://github.com/Changele08/DEK
+     📝 DreamEx_Killer: Remove windows ObCallback & CmCallback & PPL by BYOVD and Kill A…
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 mooolight/BOF-Collections
+     ⭐ 0  🗣 N/A  📅 2026-04-05
+     🔗 https://github.com/mooolight/BOF-Collections
+     📝 BOF collections
+     🏷  —
+[2026-05-05 08:49:34 UTC] [NEW]   📦 wuwowuren/XDriverLoaderGUI
+     ⭐ 0  🗣 N/A  📅 2026-04-05
+     🔗 https://github.com/wuwowuren/XDriverLoaderGUI
+     📝 test Driver LoadDriver Win10-11 without Sign
+     🏷  —
+[2026-05-05 08:49:34 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-05 08:49:34 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-05 08:49:36 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-05 08:49:36 UTC] [NEW]   🆕 50 NUOVI repository:
+[2026-05-05 08:49:36 UTC] [NEW]   📦 EurekaMD-net/eurekamd-denue-analysis
+     ⭐ 0  🗣 TypeScript  📅 2026-05-03
+     🔗 https://github.com/EurekaMD-net/eurekamd-denue-analysis
+     📝 Extractor y analizador de datos DENUE (INEGI) implementado en TypeScript.
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 SecurityRonin/forensicnomicon
+     ⭐ 0  🗣 Rust  📅 2026-04-15
+     🔗 https://github.com/SecurityRonin/forensicnomicon
+     📝 DFIR catalog: 6,551 forensic artifacts, LOL/LOFL binaries, abusable sites — quer…
+     🏷  dfir, digital-forensics, forensic-artifacts, forensics, incident-response, kape, linux-forensics, lolbins, macos-forensics, memory-forensics, mitre-attack, persistence, rust, sigma, soc, threat-hunting, triage, velociraptor, windows-forensics, yara
+[2026-05-05 08:49:36 UTC] [NEW]   📦 miharbilore/SOCGuard-AI
+     ⭐ 0  🗣 TypeScript  📅 2026-05-04
+     🔗 https://github.com/miharbilore/SOCGuard-AI
+     📝 SOCGuard AI enhance the vulnarability of ai based soc 
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 bmlynarczyk-cmyk/edrone-reviews-calculator
+     ⭐ 0  🗣 HTML  📅 2026-05-04
+     🔗 https://github.com/bmlynarczyk-cmyk/edrone-reviews-calculator
+     📝 edrone Reviews — kalkulator cenowy (PL)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 bangsaenai/Bangsaen-BlackHole
+     ⭐ 0  🗣 Python  📅 2026-04-23
+     🔗 https://github.com/bangsaenai/Bangsaen-BlackHole
+     📝 The World's First "Destructive AI" Engine for Mathematical Data Annihilation.
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Terralyp/SunloginLP-Eanalysis-tool
+     ⭐ 0  🗣 C++  📅 2026-04-27
+     🔗 https://github.com/Terralyp/SunloginLP-Eanalysis-tool
+     📝 SunloginLPE is a local verification and analysis tool designed to help researche…
+     🏷  analysis-tool, cve-analysis, documentation, exploit-research, infosec, local-verification, reverse-engineering, security, sunlogin, vulnerability-research, windows-security
+[2026-05-05 08:49:36 UTC] [NEW]   📦 alexandreboutrik/bouclier-bleu
+     ⭐ 2  🗣 Rust  📅 2026-04-10
+     🔗 https://github.com/alexandreboutrik/bouclier-bleu
+     📝 A modular Next-Generation Antivirus (NGAV) and Endpoint Detection & Response (ED…
+     🏷  bpf-lsm, c, ebpf, edr, libbpf, linux-security, ngav, ransomware, runtime-security, rust, security, telemetry
+[2026-05-05 08:49:36 UTC] [NEW]   📦 hiagokinlevi/dfir-attack-lab
+     ⭐ 2  🗣 Python  📅 2026-04-09
+     🔗 https://github.com/hiagokinlevi/dfir-attack-lab
+     📝 DFIR triage kit and attack analysis lab — collect, correlate, and reconstruct in…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 bisma-tech1/100-Days-of-SOC-L1
+     ⭐ 0  🗣 N/A  📅 2026-05-02
+     🔗 https://github.com/bisma-tech1/100-Days-of-SOC-L1
+     📝 A 100-day intensive journey to mastering SOC Analyst L1 skills, documenting dail…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Leo-P-S/python-c2-infrastructure
+     ⭐ 0  🗣 Python  📅 2026-05-04
+     🔗 https://github.com/Leo-P-S/python-c2-infrastructure
+     📝 Prueba de concepto educativa (PoC) que demuestra tácticas de Red Teaming e infra…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 hassanwardhere/hassan-security-lab
+     ⭐ 0  🗣 N/A  📅 2026-04-07
+     🔗 https://github.com/hassanwardhere/hassan-security-lab
+     📝 Personal cybersecurity home lab documenting SOC tools, SIEM deployment, IDS/IPS,…
+     🏷  docker, homelab, linux, siem, soc, ubuntu, wazuh
+[2026-05-05 08:49:36 UTC] [NEW]   📦 InfectedLab/InfectedLab.github.io
+     ⭐ 0  🗣 HTML  📅 2026-04-29
+     🔗 https://github.com/InfectedLab/InfectedLab.github.io
+     📝 Kara Süvari'nin Saha Defteri — Berserk temalı malware & RE blogu
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 MikeDash-Net/network-security-homelab
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/MikeDash-Net/network-security-homelab
+     📝 Documentation behind a real network & security home lab — Cisco ASA, dual-WAN, s…
+     🏷  ccna, cisco, cisco-asa, cybersecurity, homelab, mikrotik, networking, soc, suricata, wazuh
+[2026-05-05 08:49:36 UTC] [NEW]   📦 SecurityRonin/winevt-forensic
+     ⭐ 3  🗣 Rust  📅 2026-05-03
+     🔗 https://github.com/SecurityRonin/winevt-forensic
+     📝 EVTX forensic library suite — carve records from corrupt files, detect tampering…
+     🏷  anti-forensics, blue-team, dfir, digital-forensics, evtx, forensics, hayabusa, incident-response, log-analysis, memory-forensics, rust, security-tools, windows-event-log, windows-forensics, winevt
+[2026-05-05 08:49:36 UTC] [NEW]   📦 beenuar/AiSOC
+     ⭐ 5  🗣 Python  📅 2026-05-02
+     🔗 https://github.com/beenuar/AiSOC
+     📝 AiSOC - AI-Powered Security Operations Center by Cyble. Enterprise-grade open-so…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 KangMe17/mini-edr-powershell
+     ⭐ 0  🗣 Python  📅 2026-05-01
+     🔗 https://github.com/KangMe17/mini-edr-powershell
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 AEGIS402/post-audit
+     ⭐ 0  🗣 TypeScript  📅 2026-04-29
+     🔗 https://github.com/AEGIS402/post-audit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 abussti/cosmic-siem
+     ⭐ 0  🗣 Python  📅 2026-05-05
+     🔗 https://github.com/abussti/cosmic-siem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 61tiger/cozy-bear-emulation
+     ⭐ 0  🗣 Python  📅 2026-04-08
+     🔗 https://github.com/61tiger/cozy-bear-emulation
+     📝 emualting apt29 tactics and customizing them for evasion against elastic edr + w…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 qiuxinliang/edr-agent
+     ⭐ 0  🗣 Makefile  📅 2026-04-22
+     🔗 https://github.com/qiuxinliang/edr-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Xermec/EDR-vs-eBPF-benchmark
+     ⭐ 0  🗣 Python  📅 2026-04-30
+     🔗 https://github.com/Xermec/EDR-vs-eBPF-benchmark
+     📝 EDR болон eBPF - ийн харьцуулсан судалгаа
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Devopstrio/privileged-access-workstation
+     ⭐ 0  🗣 TypeScript  📅 2026-04-27
+     🔗 https://github.com/Devopstrio/privileged-access-workstation
+     📝 Devopstrio Landing Zone Accelerator
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 RYO-1313/home-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/RYO-1313/home-soc-lab
+     📝 A step-by-step guide to building a personal security lab with Splunk as a SIEM a…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Devopstrio/ransomware-response-runbook
+     ⭐ 0  🗣 TypeScript  📅 2026-04-27
+     🔗 https://github.com/Devopstrio/ransomware-response-runbook
+     📝 Devopstrio Landing Zone Accelerator
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 ccelikanil/DFMI
+     ⭐ 24  🗣 Python  📅 2026-04-09
+     🔗 https://github.com/ccelikanil/DFMI
+     📝 Another FAFO project: Weaponizing MSI installers for fileless code execution
+     🏷  cybersecurity, evasion, evasion-techniques, malware, offensive-security, offensive-tradecraft, penetration-testing-tools, redteaming, redteaming-tools, supply-chain-security
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Cyph3rC0nan/ZeroRisk-ITSkillsProject
+     ⭐ 0  🗣 N/A  📅 2026-05-03
+     🔗 https://github.com/Cyph3rC0nan/ZeroRisk-ITSkillsProject
+     📝 MID-TERM Project made for ITSkills bootcamp
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Omkar-562000/EDR09
+     ⭐ 0  🗣 Python  📅 2026-04-23
+     🔗 https://github.com/Omkar-562000/EDR09
+     📝 Second task project of my internship 
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 ManicDevs/hades-soc-v2
+     ⭐ 0  🗣 Go  📅 2026-05-05
+     🔗 https://github.com/ManicDevs/hades-soc-v2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 j-sauer-devs/NIS2-ISMS
+     ⭐ 0  🗣 TypeScript  📅 2026-05-05
+     🔗 https://github.com/j-sauer-devs/NIS2-ISMS
+     📝 NIS2/ISMS compliance consulting portfolio demo — Next.js dashboard + standalone …
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 djwisdom/azure-ops-solo
+     ⭐ 0  🗣 C#  📅 2026-04-27
+     🔗 https://github.com/djwisdom/azure-ops-solo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 ArcenumSystems/Arcenum-Systems-Wazuh-Rules
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/ArcenumSystems/Arcenum-Systems-Wazuh-Rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 a-kamalesh/malware-scan
+     ⭐ 0  🗣 JavaScript  📅 2026-05-05
+     🔗 https://github.com/a-kamalesh/malware-scan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 OAuthSentry/oauthsentry.github.io
+     ⭐ 10  🗣 HTML  📅 2026-04-27
+     🔗 https://github.com/OAuthSentry/oauthsentry.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 eka-gumelar/EDR-ASS
+     ⭐ 0  🗣 JavaScript  📅 2026-05-04
+     🔗 https://github.com/eka-gumelar/EDR-ASS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 shreyjaini2001/SentinelIQ
+     ⭐ 0  🗣 Python  📅 2026-05-05
+     🔗 https://github.com/shreyjaini2001/SentinelIQ
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 petermancina/firealive
+     ⭐ 0  🗣 JavaScript  📅 2026-04-27
+     🔗 https://github.com/petermancina/firealive
+     📝 Open-source SOC analyst burnout prevention platform. AI-driven signal detection,…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 openclaw572/wazuh-llm-agent-poc
+     ⭐ 0  🗣 Python  📅 2026-05-05
+     🔗 https://github.com/openclaw572/wazuh-llm-agent-poc
+     📝 Wazuh alerts.json to LLM analyzer, policy engine, admin-approved AI response age…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 mrndere-tech/Sentinel-EDRMS-Core
+     ⭐ 0  🗣 Python  📅 2026-05-04
+     🔗 https://github.com/mrndere-tech/Sentinel-EDRMS-Core
+     📝 Core backend and data structure for an Electronic Document and Records Managemen…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 jinyimeng01/clawsec
+     ⭐ 0  🗣 Go  📅 2026-05-05
+     🔗 https://github.com/jinyimeng01/clawsec
+     📝 ClawSec - AI-Native Offensive Security CLI Platform
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Balmani12/network-pivoting-attack-simulation
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/Balmani12/network-pivoting-attack-simulation
+     📝 Simulated internal network pivoting attack using Metasploit to access a non-dire…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 axissecuritylabs/axis-security-soc-lab
+     ⭐ 0  🗣 HTML  📅 2026-04-07
+     🔗 https://github.com/axissecuritylabs/axis-security-soc-lab
+     📝 Free, browser-based SOC analyst training platform. 76+ alerts, IR lifecycle simu…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 HoaVanVN/svt-survey-tool
+     ⭐ 0  🗣 JavaScript  📅 2026-04-21
+     🔗 https://github.com/HoaVanVN/svt-survey-tool
+     📝 Infrastructure Sizing & Customer Survey Platform - Web app thay thế Excel khảo s…
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 yifeng2019uwb/ebpf-edr-demo
+     ⭐ 0  🗣 Go  📅 2026-04-16
+     🔗 https://github.com/yifeng2019uwb/ebpf-edr-demo
+     📝 (nessuna descrizione)
+     🏷  c, ebpf, go
+[2026-05-05 08:49:36 UTC] [NEW]   📦 tooluse-labs/wpa-mcp
+     ⭐ 1  🗣 C#  📅 2026-05-03
+     🔗 https://github.com/tooluse-labs/wpa-mcp
+     📝 MCP server analyzing Windows ETW (.etl) traces — 54 tools spanning CPU/wait stac…
+     🏷  claude-code, codex, etw, mcp, mcp-server, perfview, trace-analysis, windows-performance, wpa
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Nivedi-999/Fake-Software-Delivery-Telemetry-Agent
+     ⭐ 0  🗣 HTML  📅 2026-05-05
+     🔗 https://github.com/Nivedi-999/Fake-Software-Delivery-Telemetry-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Mohith3600/rusty-arsenal
+     ⭐ 0  🗣 N/A  📅 2026-04-27
+     🔗 https://github.com/Mohith3600/rusty-arsenal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 t-h-i-n-k-er/orchestra
+     ⭐ 0  🗣 Rust  📅 2026-04-21
+     🔗 https://github.com/t-h-i-n-k-er/orchestra
+     📝 blank
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 Siuirtan/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/Siuirtan/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 ArticGlint76/datagov-edr
+     ⭐ 0  🗣 TypeScript  📅 2026-05-05
+     🔗 https://github.com/ArticGlint76/datagov-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [NEW]   📦 cybertoolbox/htcs6703-iac
+     ⭐ 0  🗣 HCL  📅 2026-05-05
+     🔗 https://github.com/cybertoolbox/htcs6703-iac
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:36 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-05 08:49:36 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-05 08:49:38 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-05 08:49:38 UTC] [NEW]   🆕 50 NUOVI repository:
+[2026-05-05 08:49:38 UTC] [NEW]   📦 bizkut/P2JB
+     ⭐ 0  🗣 JavaScript  📅 2026-05-05
+     🔗 https://github.com/bizkut/P2JB
+     📝 P2JB PS5 kernel exploit (FW 11.00-12.70) with multithreaded ELF leak accelerator
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 aw-junaid/bug-bounty
+     ⭐ 7  🗣 HTML  📅 2026-04-16
+     🔗 https://github.com/aw-junaid/bug-bounty
+     📝 Documenting my security research journey: This repository contains detailed vuln…
+     🏷  bug-bounty, cve, cyber-security, idor, kali-linux, nmap, penetration-testing, python, redteam, sql, vulnerability, xss
+[2026-05-05 08:49:38 UTC] [NEW]   📦 enixCode/light-runner
+     ⭐ 0  🗣 TypeScript  📅 2026-04-18
+     🔗 https://github.com/enixCode/light-runner
+     📝 Run isolated Docker containers from Node.js
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 ShaneIsley/agent-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-05-04
+     🔗 https://github.com/ShaneIsley/agent-sandbox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 TheMursalin/Help_Walkthrough
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/TheMursalin/Help_Walkthrough
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 R00T-Kim/linux-exploit-study
+     ⭐ 0  🗣 Dockerfile  📅 2026-05-02
+     🔗 https://github.com/R00T-Kim/linux-exploit-study
+     📝 2-3인 비공개 스터디. 32주 트랙: Linux userland heap → kernel internals → kernel exploit co…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 gprocunier/blastwall
+     ⭐ 0  🗣 Python  📅 2026-05-01
+     🔗 https://github.com/gprocunier/blastwall
+     📝 SELinux, IdM, and AAP proof of concept for confining privileged automation and d…
+     🏷  ansible, ansible-automation-platform, automation-security, bpf-lsm, calabi, copyfail, ebpf, eigenstate-ipa, exploit-mitigation, freeipa, idm, kernel-security, linux-security, openshift, privileged-automation, red-hat, rhel, security-hardening, selinux, selinux-policy
+[2026-05-05 08:49:38 UTC] [NEW]   📦 AdamFrisby/CodeyBox
+     ⭐ 0  🗣 C#  📅 2026-04-27
+     🔗 https://github.com/AdamFrisby/CodeyBox
+     📝 VM-isolated multi-agent orchestration framework: runs LLM coding agents inside V…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 mikey820/aether-ios
+     ⭐ 0  🗣 Objective-C  📅 2026-05-05
+     🔗 https://github.com/mikey820/aether-ios
+     📝 iOS kernel exploit tool with selectable tweaks
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 SuppartWang/robotics-collection
+     ⭐ 0  🗣 N/A  📅 2026-04-23
+     🔗 https://github.com/SuppartWang/robotics-collection
+     📝 机器人技术、ROS、SLAM、机械臂、人形机器人等相关开源项目合集
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 davilu1649/Poops-PS5-Java
+     ⭐ 0  🗣 Java  📅 2026-04-26
+     🔗 https://github.com/davilu1649/Poops-PS5-Java
+     📝 Provides a Java BD-J PS5 exploit and ELF loader for kernel R/W, root patches, De…
+     🏷  chrome, distributed-systems, ecdsa, emoji, firebase, firestore, formal-methods, nist, react, react-native, remote-access, remote-desktop, rust, schnorr, sewage, typescript, uk-government
+[2026-05-05 08:49:38 UTC] [NEW]   📦 arcovaar3428/Fsociety00_alderson_core.dat
+     ⭐ 0  🗣 Python  📅 2026-04-23
+     🔗 https://github.com/arcovaar3428/Fsociety00_alderson_core.dat
+     📝 Streamline red team operations with a hybrid cloud arsenal for advanced offensiv…
+     🏷  alderson-core, c0deghost, cve, cybersecurity, exploit-development, fsociety, kernel-exploits, linux-security, mr-robot, offensive-security, penetration-testing, post-exploitation, privilege-escalation, red-team, redteam-tools, security-research, windows-security
+[2026-05-05 08:49:38 UTC] [NEW]   📦 gbrobro119-star/darksword-kexploit
+     ⭐ 1  🗣 Objective-C  📅 2026-04-15
+     🔗 https://github.com/gbrobro119-star/darksword-kexploit
+     📝 Reimplements the DarkSword iOS kernel exploit in Objective-C for research and te…
+     🏷  antidarksword, coruna, darksword, dopamine, eolnmsuk, exploit, github-config, ios, ios-development, ios-security-tool, iphone, jailbreak, javascript, jit, roothide, rootless, tweak, tweaks, useragent-parser, webkit
+[2026-05-05 08:49:38 UTC] [NEW]   📦 aixgo-dev/aixgate
+     ⭐ 0  🗣 Go  📅 2026-05-03
+     🔗 https://github.com/aixgo-dev/aixgate
+     📝 A deny-by-default sandbox for AI coding agents (Claude Code, Cursor, Aider, Code…
+     🏷  ai, ai-agents, ai-frameworks, ai-sandbox, ai-security, golang, sandbox
+[2026-05-05 08:49:38 UTC] [NEW]   📦 mecik-arda/linux-command-handbook
+     ⭐ 0  🗣 HTML  📅 2026-05-02
+     🔗 https://github.com/mecik-arda/linux-command-handbook
+     📝 The ultimate CLI reference for Linux power users and security researchers. Cover…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 net1nfect/ctf
+     ⭐ 1  🗣 Python  📅 2026-05-04
+     🔗 https://github.com/net1nfect/ctf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 HasibAlTahsin/contextprivesc
+     ⭐ 1  🗣 Python  📅 2026-04-27
+     🔗 https://github.com/HasibAlTahsin/contextprivesc
+     📝 AI-Powered Linux Privilege Escalation Scanner
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 northnarrow/northnarrow
+     ⭐ 1  🗣 N/A  📅 2026-04-25
+     🔗 https://github.com/northnarrow/northnarrow
+     📝 🛡️ AI-powered EDR for air-gapped environments. Pre-release showcase. Source comi…
+     🏷  air-gapped, cybersecurity, edr, endpoint-security, gemma, llm, local-ai, mitre-attack, rust, security, threat-detection, xdr
+[2026-05-05 08:49:38 UTC] [NEW]   📦 3xploiter0/ccd-academy
+     ⭐ 0  🗣 N/A  📅 2026-04-29
+     🔗 https://github.com/3xploiter0/ccd-academy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 Alanboori/HTB-CPTS-Writeups
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/Alanboori/HTB-CPTS-Writeups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 Alanboori/AD-Attack-Scripts
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/Alanboori/AD-Attack-Scripts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 alanh0vx/copy-fail-demo-docker
+     ⭐ 0  🗣 Python  📅 2026-05-04
+     🔗 https://github.com/alanh0vx/copy-fail-demo-docker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 xrodrigopx/OSCP-Prep-2024-2025
+     ⭐ 1  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/xrodrigopx/OSCP-Prep-2024-2025
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 icco/bugsim
+     ⭐ 0  🗣 Go  📅 2026-05-04
+     🔗 https://github.com/icco/bugsim
+     📝 A flight simulator for developers.
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 hardenedlinux/angband
+     ⭐ 0  🗣 Python  📅 2026-04-26
+     🔗 https://github.com/hardenedlinux/angband
+     📝 Angband - Kernel Exploit Framework
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 rehan-qx/Sr.-Pentester-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/rehan-qx/Sr.-Pentester-Roadmap
+     📝 🛡️ A complete roadmap to become a Senior Penetration Tester — covering networkin…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 Govamarket/LFI-Vulnerability-Assessment-Report
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/Govamarket/LFI-Vulnerability-Assessment-Report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 YashasVM/Sand-box
+     ⭐ 0  🗣 PowerShell  📅 2026-05-04
+     🔗 https://github.com/YashasVM/Sand-box
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 alicangnll/Spectra
+     ⭐ 0  🗣 Python  📅 2026-04-13
+     🔗 https://github.com/alicangnll/Spectra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 0xjaopdc/javelin-framework
+     ⭐ 0  🗣 Java  📅 2026-05-04
+     🔗 https://github.com/0xjaopdc/javelin-framework
+     📝 Enterprise-grade educational C2 framework for cybersecurity training and red tea…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 silomaceff-d0cdcf/auger-link
+     ⭐ 0  🗣 Kotlin  📅 2026-05-03
+     🔗 https://github.com/silomaceff-d0cdcf/auger-link
+     📝 Sovereign mesh-comms messenger over Reticulum/LXMF for off-grid farm-edge deploy…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 msyvr/awesome-agent-sandboxes
+     ⭐ 2  🗣 Python  📅 2026-04-07
+     🔗 https://github.com/msyvr/awesome-agent-sandboxes
+     📝 A comprehensive list of sandboxing options for AI agents. Also, a detailed sandb…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 raindouble/pentest-ai-agents
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/raindouble/pentest-ai-agents
+     📝 Turn Claude Code into your offensive security research assistant. Specialized AI…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 byliu-labs/egress-guard
+     ⭐ 0  🗣 Go  📅 2026-04-30
+     🔗 https://github.com/byliu-labs/egress-guard
+     📝 Stop a malicious pip install from stealing your AWS keys, SSH keys, and .env sec…
+     🏷  egress, firewall, golang, nftables, pf, pii, security, supply-chain
+[2026-05-05 08:49:38 UTC] [NEW]   📦 k-sangster/agent-cubicle
+     ⭐ 0  🗣 Python  📅 2026-05-02
+     🔗 https://github.com/k-sangster/agent-cubicle
+     📝 A minimalistic file-based multi-agent coordination framework
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 securon-buddy/cybersec-mastery-path
+     ⭐ 0  🗣 N/A  📅 2026-05-01
+     🔗 https://github.com/securon-buddy/cybersec-mastery-path
+     📝 An open-source learning path for aspiring security researchers. Covers everythin…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 c0ncerta/TontoJb
+     ⭐ 0  🗣 JavaScript  📅 2026-05-02
+     🔗 https://github.com/c0ncerta/TontoJb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 KyxCy98/Privillage-Escalation-Lab-V2
+     ⭐ 0  🗣 Shell  📅 2026-05-02
+     🔗 https://github.com/KyxCy98/Privillage-Escalation-Lab-V2
+     📝 Privilege escalation lab with docker
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 k1n4mur4/42_Inception
+     ⭐ 0  🗣 Makefile  📅 2026-05-02
+     🔗 https://github.com/k1n4mur4/42_Inception
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 axiomshadow/Protocol-Research
+     ⭐ 0  🗣 C  📅 2026-05-03
+     🔗 https://github.com/axiomshadow/Protocol-Research
+     📝 "Educational research on C memory architecture and Linux kernel module exploitat…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 manuelpenazuniga/ClawCrate
+     ⭐ 1  🗣 Rust  📅 2026-04-09
+     🔗 https://github.com/manuelpenazuniga/ClawCrate
+     📝 Terrified of AI agents executing malicious code? 🦀 ClawCrate is a secure Rust sa…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 pulentoski/CVE-2026-31431
+     ⭐ 0  🗣 Python  📅 2026-05-02
+     🔗 https://github.com/pulentoski/CVE-2026-31431
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 dan-th1/caderno-pentest-python-ia
+     ⭐ 0  🗣 N/A  📅 2026-05-02
+     🔗 https://github.com/dan-th1/caderno-pentest-python-ia
+     📝 Estudo estruturado de Pentest com Python utilizando IA como ferramenta de aprend…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 Matt-Hood/windows-re-skills
+     ⭐ 0  🗣 N/A  📅 2026-05-02
+     🔗 https://github.com/Matt-Hood/windows-re-skills
+     📝 Eight expert Claude Code skills for authorized Windows RE / kernel / driver / me…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 zunor/paro
+     ⭐ 102  🗣 Rust  📅 2026-04-15
+     🔗 https://github.com/zunor/paro
+     📝 An AI-native multi-model database unifying SQL, vector, full-text, graph, and sa…
+     🏷  ai-native, analytical-database, columnar-database, database, full-text-search, graph-database, hnsw, multi-moldel-database, olap, postgresql, rust, sql, sql-pgq, storage-engine, vector-search
+[2026-05-05 08:49:38 UTC] [NEW]   📦 ZHK7508/agent-sandbox
+     ⭐ 0  🗣 Python  📅 2026-05-01
+     🔗 https://github.com/ZHK7508/agent-sandbox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 thxa/deep-researcher
+     ⭐ 3  🗣 N/A  📅 2026-04-09
+     🔗 https://github.com/thxa/deep-researcher
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 guidryheal-create/awesome-offensive-security
+     ⭐ 1  🗣 N/A  📅 2026-05-02
+     🔗 https://github.com/guidryheal-create/awesome-offensive-security
+     📝 an extended list of content good to get as base ressources or tool to learn cybe…
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 Tanvir-2/My-Certification-Journey-From-Training-to-Expertise
+     ⭐ 0  🗣 N/A  📅 2026-05-02
+     🔗 https://github.com/Tanvir-2/My-Certification-Journey-From-Training-to-Expertise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 08:49:38 UTC] [NEW]   📦 Real-Fruit-Snacks/MyNotes_bak
+     ⭐ 0  🗣 N/A  📅 2026-04-27
+     🔗 https://github.com/Real-Fruit-Snacks/MyNotes_bak
+     📝 Tradecraft, written down — a personal pentester's notebook. MkDocs Material site…
+     🏷  catppuccin, catppuccin-mocha, cheatsheet, documentation, github-pages, knowledge-base, mkdocs, mkdocs-material, notes, offensive-security, penetration-testing, pentesting, real-fruit-snacks, red-team
+[2026-05-05 08:49:38 UTC] [INFO] ============================================================
+[2026-05-05 08:49:38 UTC] [INFO] Esecuzione completata — 145 nuovi repo trovati, 0 errori
+[2026-05-05 08:49:38 UTC] [INFO] ============================================================
