@@ -2,15 +2,14 @@ name: GitHub Keyword Watcher
 
 on:
   schedule:
-    # Esegue ogni 6 ore (puoi cambiare la frequenza)
-    # Formato cron: minuto ora giorno mese giorno-settimana
+ 
     - cron: "0 */6 * * *"
 
-  # Permette l'esecuzione manuale dalla tab Actions
+  
   workflow_dispatch:
 
 permissions:
-  contents: write   # necessario per fare commit dei log
+  contents: write   
 
 jobs:
   watch:
@@ -38,9 +37,10 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add previous_results.json previous_results.json.bk monitor.log || true
+          git add previous_results.json monitor.log || true
+          git add previous_results.json.bk 2>/dev/null || true
 
-          # Commit solo se ci sono modifiche reali
+         
           if git diff --cached --quiet; then
             echo "Nessuna modifica da committare."
           else
