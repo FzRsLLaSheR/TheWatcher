@@ -88,7 +88,7 @@ DAYS_LOOKBACK = 1
 Change the schedule in `watcher.yml` (default: every 2h):
 
 ```yaml
-- cron: "0 */2 * * *"   # every 6 hours
+- cron: "0 */2 * * *"   # every 2 hours
 - cron: "0 8 * * *"     # daily at 08:00 UTC
 ```
 
