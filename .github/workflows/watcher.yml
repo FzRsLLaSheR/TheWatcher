@@ -1,0 +1,50 @@
+name: GitHub Keyword Watcher
+
+on:
+  schedule:
+    # Esegue ogni 6 ore (puoi cambiare la frequenza)
+    # Formato cron: minuto ora giorno mese giorno-settimana
+    - cron: "0 */6 * * *"
+
+  # Permette l'esecuzione manuale dalla tab Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write   # necessario per fare commit dei log
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run watcher
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python watcher.py
+
+      - name: Commit aggiornamenti
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add previous_results.json previous_results.json.bk monitor.log || true
+
+          # Commit solo se ci sono modifiche reali
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica da committare."
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "chore: watcher update ${TIMESTAMP}"
+            git push
+          fi
