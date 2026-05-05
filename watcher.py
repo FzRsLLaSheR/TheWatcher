@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-GitHub Keyword Watcher
-Monitora nuovi repository su GitHub tramite query booleane avanzate.
-Salva i risultati in previous_results.json e aggiorna monitor.log.
-"""
 
 import json
 import os
@@ -14,20 +9,7 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 from urllib.parse import quote_plus
 
-# ─────────────────────────────────────────────
-# CONFIGURAZIONE — modifica questi parametri
-# ─────────────────────────────────────────────
 
-# Query avanzate con sintassi GitHub Search:
-#   AND  →  entrambi i termini devono essere presenti
-#   OR   →  almeno uno dei termini
-#   NOT  →  esclude un termine
-#   in:name,description,readme  →  dove cercare
-#   stars:>N  →  filtro stelle
-#
-# Ogni query è un dizionario con:
-#   "name"  → etichetta usata nel log e nel JSON di stato
-#   "q"     → stringa di ricerca (senza data, viene aggiunta automaticamente)
 QUERIES = [
     {
         "name": "byovd-killers",
@@ -41,24 +23,19 @@ QUERIES = [
         "name": "kernel-exploit",
         "q": '"kernel exploit" AND (windows OR driver) in:name,description,readme',
     },
-    # Aggiungi le tue query qui — esempio:
-    # {
-    #     "name": "av-bypass",
-    #     "q": '"antivirus" AND (bypass OR evade) in:name,description',
-    # },
+
 ]
 
-# Quanti giorni indietro guardare per i repo "nuovi"
+
 DAYS_LOOKBACK = 1
 
-# Risultati per query (max 100)
+
 PER_PAGE = 50
 
-# File di stato
+
 RESULTS_FILE = Path("previous_results.json")
 LOG_FILE = Path("monitor.log")
 
-# GitHub API — se hai un token, impostalo come variabile d'ambiente GITHUB_TOKEN
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 # ─────────────────────────────────────────────
 
@@ -73,7 +50,7 @@ def log(message: str, level: str = "INFO"):
 
 
 def github_request(url: str) -> dict:
-    """Esegue una richiesta all'API GitHub con gestione del rate limit."""
+    
     headers = {
         "Accept": "application/vnd.github+json",
         "User-Agent": "github-keyword-watcher/1.0",
@@ -129,7 +106,7 @@ def search_repositories(query_name: str, query_str: str, days: int) -> list[dict
 
 
 def load_previous_results() -> dict:
-    """Carica i risultati precedenti dal file JSON."""
+   
     if not RESULTS_FILE.exists():
         return {}
     with open(RESULTS_FILE, "r", encoding="utf-8") as f:
@@ -141,7 +118,7 @@ def load_previous_results() -> dict:
 
 
 def save_results(results: dict):
-    """Salva i risultati aggiornati nel file JSON."""
+    
     # Backup
     if RESULTS_FILE.exists():
         RESULTS_FILE.rename(RESULTS_FILE.with_suffix(".json.bk"))
@@ -150,7 +127,7 @@ def save_results(results: dict):
 
 
 def format_repo(repo: dict) -> str:
-    """Formatta un repository per il log."""
+    
     desc = repo["description"][:80] + "…" if len(repo["description"]) > 80 else repo["description"]
     topics = ", ".join(repo["topics"]) if repo["topics"] else "—"
     return (
