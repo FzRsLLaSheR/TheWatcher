@@ -744,3 +744,189 @@
 [2026-05-05 08:49:38 UTC] [INFO] ============================================================
 [2026-05-05 08:49:38 UTC] [INFO] Esecuzione completata — 145 nuovi repo trovati, 0 errori
 [2026-05-05 08:49:38 UTC] [INFO] ============================================================
+[2026-05-05 12:02:20 UTC] [INFO] ============================================================
+[2026-05-05 12:02:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-05 12:02:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-05 12:02:20 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-05 12:02:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-05 12:02:20 UTC] [INFO] ============================================================
+[2026-05-05 12:02:20 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-05 12:02:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-05 12:02:21 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-05 12:02:21 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-05 12:02:21 UTC] [NEW]   📦 FzRsLLaSheR/TheWatcher
+     ⭐ 0  🗣 Python  📅 2026-05-05
+     🔗 https://github.com/FzRsLLaSheR/TheWatcher
+     📝 Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit researc…
+     🏷  —
+[2026-05-05 12:02:21 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-05 12:02:21 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-05 12:02:22 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-05 12:02:22 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-05-05 12:02:22 UTC] [NEW]   📦 FzRsLLaSheR/TheWatcher
+     ⭐ 0  🗣 Python  📅 2026-05-05
+     🔗 https://github.com/FzRsLLaSheR/TheWatcher
+     📝 Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit researc…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 PedroMosquera/mac-telemetry-audit
+     ⭐ 0  🗣 Shell  📅 2026-05-05
+     🔗 https://github.com/PedroMosquera/mac-telemetry-audit
+     📝 Read-only macOS audit script to surface telemetry, observability, and monitoring…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 Neuro-Mechatronics-Interfaces/TabletHID
+     ⭐ 0  🗣 Kotlin  📅 2026-05-04
+     🔗 https://github.com/Neuro-Mechatronics-Interfaces/TabletHID
+     📝 App for tablet on Android/iOS to allow easy HID over Gatt for easy toggling of G…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 jolayfield/gromacs-mcp
+     ⭐ 0  🗣 Python  📅 2026-05-05
+     🔗 https://github.com/jolayfield/gromacs-mcp
+     📝 An MCP tool to run gromacs simulations. 
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 Pig-Tail/alpc-toolkit
+     ⭐ 0  🗣 Rust  📅 2026-05-05
+     🔗 https://github.com/Pig-Tail/alpc-toolkit
+     📝 Rust toolkit for Windows ALPC/RPC attack surface reconnaissance — enumerate port…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 willink59/SOC-Zero-Trust
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/willink59/SOC-Zero-Trust
+     📝 Déployer et Manager un SOC
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 edrone/edrone-reviews-calculator
+     ⭐ 0  🗣 HTML  📅 2026-05-05
+     🔗 https://github.com/edrone/edrone-reviews-calculator
+     📝 edrone Reviews — kalkulator cenowy (PL)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 Sandeeppattanaik07/Cyber-Security-Maturity-Assessment-NALCO
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/Sandeeppattanaik07/Cyber-Security-Maturity-Assessment-NALCO
+     📝 Enterprise cybersecurity maturity assessment based on NIST CSF and ISO 27001 con…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 aruxiee/siliconhook
+     ⭐ 0  🗣 Rust  📅 2026-05-05
+     🔗 https://github.com/aruxiee/siliconhook
+     📝 Ring -1 engine for MitM attacks on CPU registers. Leverages $DR0$-$DR7$ for zero…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 aruxiee/sharedtears
+     ⭐ 0  🗣 Rust  📅 2026-05-05
+     🔗 https://github.com/aruxiee/sharedtears
+     📝 PoC for T1055.008 & T1574.002. Performs non-cooperative injection & resource acq…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 aruxiee/memstab
+     ⭐ 0  🗣 Python  📅 2026-05-04
+     🔗 https://github.com/aruxiee/memstab
+     📝 Zero-file, LotL command for memory-resident binary execution. Bypasses EDR vecto…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 amitambekar510/Safehouse-MITRE-Attack-Detection-Rules-Elastic-ELK
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/amitambekar510/Safehouse-MITRE-Attack-Detection-Rules-Elastic-ELK
+     📝 54 production-ready Elastic SIEM detection rules mapped to all MITRE ATT&CK® tac…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 AdnanKhan1010/IT-Security-Automation
+     ⭐ 0  🗣 PowerShell  📅 2026-05-05
+     🔗 https://github.com/AdnanKhan1010/IT-Security-Automation
+     📝 feat: v1.0.0 — full IT security automation suite (Phases 1-5)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 cabaluanedzel-ui/edraGame
+     ⭐ 0  🗣 CSS  📅 2026-05-05
+     🔗 https://github.com/cabaluanedzel-ui/edraGame
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 esmarte1/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/esmarte1/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 abhiexploits/linux-malwares
+     ⭐ 1  🗣 Python  📅 2026-05-05
+     🔗 https://github.com/abhiexploits/linux-malwares
+     📝 Educational Linux malware samples developed by Abhishek. Not real malware - simp…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 jjfc888/demo-solidity-eip7702-account
+     ⭐ 0  🗣 JavaScript  📅 2026-05-04
+     🔗 https://github.com/jjfc888/demo-solidity-eip7702-account
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 JAVL1/JAVL1
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/JAVL1/JAVL1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 motabo51361-byte/build-offline-package
+     ⭐ 0  🗣 PowerShell  📅 2026-05-04
+     🔗 https://github.com/motabo51361-byte/build-offline-package
+     📝 Offline package builder for Azure AI Translator container
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 JhOe1/Threat-Hunt-Report-TH-001
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/JhOe1/Threat-Hunt-Report-TH-001
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 edrikwjya/UTS-I-Made-Edrik-Wilbert-Wijaya
+     ⭐ 0  🗣 Java  📅 2026-05-05
+     🔗 https://github.com/edrikwjya/UTS-I-Made-Edrik-Wilbert-Wijaya
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 RajChowdhury240/AD-Red-Teaming-Claude-Skill
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/RajChowdhury240/AD-Red-Teaming-Claude-Skill
+     📝 a dedicated claude skill for hacking Active Directory
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 suditaha/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/suditaha/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 Sebby1770/aegis-horizon
+     ⭐ 0  🗣 JavaScript  📅 2026-05-05
+     🔗 https://github.com/Sebby1770/aegis-horizon
+     📝 Futuristic defensive cybersecurity dashboard for blue-team resilience forecastin…
+     🏷  blue-team, cybersecurity, dashboard, incident-response, static-site, zero-trust
+[2026-05-05 12:02:22 UTC] [NEW]   📦 taka-taka-z/compass
+     ⭐ 0  🗣 HTML  📅 2026-05-05
+     🔗 https://github.com/taka-taka-z/compass
+     📝 課題起点の逆引きでZscalerによるゼロトラスト実装
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 Ilyanbendo-maker/Projet-de-M1-Refonte-d-un-SI-de-PME
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/Ilyanbendo-maker/Projet-de-M1-Refonte-d-un-SI-de-PME
+     📝 une PME victime d'un grave incident de sécurité a perdu l'intégralité de son SI …
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 viniciusldiniz/-Simulando-Malwares-em-Python
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/viniciusldiniz/-Simulando-Malwares-em-Python
+     📝  Ransomware e Keylogger
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 actions-marketplace-validations/mockdr_mockdr
+     ⭐ 0  🗣 HTML  📅 2026-05-04
+     🔗 https://github.com/actions-marketplace-validations/mockdr_mockdr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 aleanigena/ransonware-e-keylloger-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-04
+     🔗 https://github.com/aleanigena/ransonware-e-keylloger-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-05 12:02:22 UTC] [NEW]   📦 zethw0w/analise-email-soc
+     ⭐ 0  🗣 Python  📅 2026-05-04
+     🔗 https://github.com/zethw0w/analise-email-soc
+     📝 Analise SOC de e-mails maliciosos do dataset email_lab_dataset (FIAP) - parser .…
+     🏷  —
+[2026-05-05 12:02:22 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-05 12:02:22 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-05 12:02:23 UTC] [INFO]   → 17 repository trovati in totale
+[2026-05-05 12:02:23 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-05 12:02:23 UTC] [NEW]   📦 FzRsLLaSheR/TheWatcher
+     ⭐ 0  🗣 Python  📅 2026-05-05
+     🔗 https://github.com/FzRsLLaSheR/TheWatcher
+     📝 Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit researc…
+     🏷  —
+[2026-05-05 12:02:23 UTC] [NEW]   📦 amitambekar510/Safehouse-MITRE-Attack-Detection-Rules-Elastic-ELK
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/amitambekar510/Safehouse-MITRE-Attack-Detection-Rules-Elastic-ELK
+     📝 54 production-ready Elastic SIEM detection rules mapped to all MITRE ATT&CK® tac…
+     🏷  —
+[2026-05-05 12:02:23 UTC] [INFO] ============================================================
+[2026-05-05 12:02:23 UTC] [INFO] Esecuzione completata — 33 nuovi repo trovati, 0 errori
+[2026-05-05 12:02:23 UTC] [INFO] ============================================================
