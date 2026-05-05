@@ -1,12 +1,12 @@
 # 👁️ TheWatcher
 
-> Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 2 hours.
+> Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours.
 
 ---
 
 ## What it does
 
-TheWatcher continuously scans GitHub for newly published repositories matching advanced boolean queries focused on offensive security research. Every 2 hours, GitHub Actions wakes it up, runs the search, compares against the previous state, and logs anything new.
+TheWatcher continuously scans GitHub for newly published repositories matching advanced boolean queries focused on offensive security research. Every 6 hours, GitHub Actions wakes it up, runs the search, compares against the previous state, and logs anything new.
 
 No noise. No duplicates. Just new signal.
 
@@ -27,7 +27,7 @@ Queries are fully customizable in `watcher.py`.
 ## How it works
 
 ```
-GitHub Actions  (every 2h / manual trigger)
+GitHub Actions  (every 6h / manual trigger)
       │
       ▼
   watcher.py
@@ -88,7 +88,7 @@ DAYS_LOOKBACK = 1
 Change the schedule in `watcher.yml` (default: every 2h):
 
 ```yaml
-- cron: "0 */2 * * *"   # every 2 hours
+- cron: "0 */6 * * *"   # every 6 hours
 - cron: "0 8 * * *"     # daily at 08:00 UTC
 ```
 
