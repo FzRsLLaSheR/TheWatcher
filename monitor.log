@@ -1096,3 +1096,294 @@
 [2026-05-05 18:56:06 UTC] [INFO] ============================================================
 [2026-05-05 18:56:06 UTC] [INFO] Esecuzione completata — 29 nuovi repo trovati, 0 errori
 [2026-05-05 18:56:06 UTC] [INFO] ============================================================
+[2026-05-06 15:09:07 UTC] [INFO] ============================================================
+[2026-05-06 15:09:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-06 15:09:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-06 15:09:07 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-06 15:09:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-06 15:09:07 UTC] [INFO] ============================================================
+[2026-05-06 15:09:07 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-06 15:09:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-06 15:09:08 UTC] [INFO]   → 3 repository trovati in totale
+[2026-05-06 15:09:08 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-06 15:09:08 UTC] [NEW]   📦 0xGooseByte/0day-byovd
+     ⭐ 0  🗣 C++  📅 2026-05-06
+     🔗 https://github.com/0xGooseByte/0day-byovd
+     📝 USBHCX
+     🏷  —
+[2026-05-06 15:09:08 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-06 15:09:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-06 15:09:10 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-06 15:09:10 UTC] [NEW]   🆕 44 NUOVI repository:
+[2026-05-06 15:09:10 UTC] [NEW]   📦 kokizzu/edrums
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/kokizzu/edrums
+     📝 edrums recap
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 BilalMasafeh/Quantum_EDR1
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/BilalMasafeh/Quantum_EDR1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Nexusbd30/ZENTHRA.CORE
+     ⭐ 0  🗣 JavaScript  📅 2026-05-05
+     🔗 https://github.com/Nexusbd30/ZENTHRA.CORE
+     📝 ZENITHRA.CORE is a soc tool that´s powered by Nexus , the main goal for the prog…
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 robkersey/bert
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/robkersey/bert
+     📝 BLE profile compliance tester. Verifies a physical Bluetooth Low Energy peripher…
+     🏷  ble, bluetooth, bumble, compliance, gatt, nordic-semiconductor, nrf-sniffer, nrf52840, python, testing
+[2026-05-06 15:09:10 UTC] [NEW]   📦 jeremiephan/tables01-ugv
+     ⭐ 0  🗣 HTML  📅 2026-05-06
+     🔗 https://github.com/jeremiephan/tables01-ugv
+     📝 Tables 01 · UGV - Interactive map of the European UGV market by Starburst
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 crazyainfuture/CYBERSEC_2026
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/crazyainfuture/CYBERSEC_2026
+     📝 這是一個紀錄 2026 年 CyberSec 資安展區與議程的筆記。
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Khalil-secure/routine_job_hunt
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/Khalil-secure/routine_job_hunt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Marcogalazzom/pdfwatch
+     ⭐ 0  🗣 PowerShell  📅 2026-05-06
+     🔗 https://github.com/Marcogalazzom/pdfwatch
+     📝 Surveillance d'un dossier reseau partage avec notification toast Windows. Outil …
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 c4r1n4-sec/Log-Parser
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/c4r1n4-sec/Log-Parser
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 hasith2003/hasith2003
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/hasith2003/hasith2003
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 TPSingidunum/edrive-backend
+     ⭐ 0  🗣 Java  📅 2026-05-06
+     🔗 https://github.com/TPSingidunum/edrive-backend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 MuhammadRafi-cyber/Cybersecurity-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/MuhammadRafi-cyber/Cybersecurity-Home-Lab
+     📝 This project involves the creation of a dedicated, isolated home lab environment…
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 cybernovaacademy/SOC--Wireshark
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/cybernovaacademy/SOC--Wireshark
+     📝 SOC - Wireshark
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Valeriii78/tender360
+     ⭐ 0  🗣 TypeScript  📅 2026-05-05
+     🔗 https://github.com/Valeriii78/tender360
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 rainrambler/awesome-ai-cybersecurity
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/rainrambler/awesome-ai-cybersecurity
+     📝 Awesome AI Agents for Cyber Security
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Natarajan005/ble-wifi-prov-prototype
+     ⭐ 0  🗣 C  📅 2026-05-06
+     🔗 https://github.com/Natarajan005/ble-wifi-prov-prototype
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 P-edrin/P-edrin
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/P-edrin/P-edrin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 0xShyCell/0xShyCell
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/0xShyCell/0xShyCell
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 SoftwareSachin/CyberOPS
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/SoftwareSachin/CyberOPS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 anuj-pandey16/Hands-on-Practice-of-SOC-Mastery
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/anuj-pandey16/Hands-on-Practice-of-SOC-Mastery
+     📝 A Respository for demonstrating my skills of SOC Mastery through hands-on Practi…
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 24zahira/CHE305-Lab-Portfolio
+     ⭐ 0  🗣 DIGITAL Command Language  📅 2026-05-06
+     🔗 https://github.com/24zahira/CHE305-Lab-Portfolio
+     📝 Input files for labs 1-3.
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 ArteimPidaras/Test
+     ⭐ 0  🗣 C++  📅 2026-05-06
+     🔗 https://github.com/ArteimPidaras/Test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 AdityaBhatt3010/SOC-L1-Alert-Reporting-Escalation-Communication
+     ⭐ 1  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/AdityaBhatt3010/SOC-L1-Alert-Reporting-Escalation-Communication
+     📝 SOC Alert Reporting, Escalation & Communication walkthrough covering phishing in…
+     🏷  blue-team, cybersecurity, soc, socl1, thm, tryhackme
+[2026-05-06 15:09:10 UTC] [NEW]   📦 TGCAmisha/gsecurelabs
+     ⭐ 0  🗣 HTML  📅 2026-05-06
+     🔗 https://github.com/TGCAmisha/gsecurelabs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 asfbfh/---30-
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/asfbfh/---30-
+     📝 资源网999it.top
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 seleste3580-dev/Aetheris_Vanguard
+     ⭐ 0  🗣 Rust  📅 2026-05-06
+     🔗 https://github.com/seleste3580-dev/Aetheris_Vanguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 AdityaBhatt3010/SOC-L1-Alert-Triage-From-Events-to-Real-Threat-Detection
+     ⭐ 1  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/AdityaBhatt3010/SOC-L1-Alert-Triage-From-Events-to-Real-Threat-Detection
+     📝 SOC, Alert Triage, SIEM, Blue Teaming: Hands-on SOC L1 alert investigation and p…
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_17
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_17
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 AdityaBhatt3010/Humans-Attack-Vectors-SOC-Perspective
+     ⭐ 1  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/AdityaBhatt3010/Humans-Attack-Vectors-SOC-Perspective
+     📝 Exploring how attackers manipulate the weakest link in cybersecurity — humans — …
+     🏷  blue-team, cybersecurity, soc, thm, tryhackme
+[2026-05-06 15:09:10 UTC] [NEW]   📦 AdityaBhatt3010/SOC-Role-in-Blue-Team-TryHackMe-Walkthrough
+     ⭐ 1  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/AdityaBhatt3010/SOC-Role-in-Blue-Team-TryHackMe-Walkthrough
+     📝 Cybersecurity | Blue Team | SOC | CIRT | TryHackMe | SOC Analyst
+     🏷  blue-team, cirt, cybersecurity, soc, soc-analyst, tryhackme
+[2026-05-06 15:09:10 UTC] [NEW]   📦 rrb11/sentnel
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/rrb11/sentnel
+     📝 EDR for AI Coding Agents — runtime security for tool execution
+     🏷  agentic-ai, ai-security, claude-code, llm-security
+[2026-05-06 15:09:10 UTC] [NEW]   📦 prodlovely88-ux/windows-security-log-triage
+     ⭐ 0  🗣 PowerShell  📅 2026-05-06
+     🔗 https://github.com/prodlovely88-ux/windows-security-log-triage
+     📝 PowerShell SOC triage helper for Windows Security Event ID 4688
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 botkinkrumroy342-pixel/---30-
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/botkinkrumroy342-pixel/---30-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 aruxiee/heartbit
+     ⭐ 0  🗣 Rust  📅 2026-05-06
+     🔗 https://github.com/aruxiee/heartbit
+     📝 PoC for my novel steganography method that hides data in the latency between UDP…
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Robinx0/robinx0.github.io
+     ⭐ 1  🗣 CSS  📅 2026-05-06
+     🔗 https://github.com/Robinx0/robinx0.github.io
+     📝 My Portfolio Site
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 gdf-ai/agent-runtime-guardrail
+     ⭐ 0  🗣 C  📅 2026-05-06
+     🔗 https://github.com/gdf-ai/agent-runtime-guardrail
+     📝 Research prototype: a Windows runtime guardrail that intercepts AI-coding-agent …
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 0xPdaff/incident-response-playbook-generator
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/0xPdaff/incident-response-playbook-generator
+     📝 AI-powered agent that generates customized NIST SP 800-61 incident response play…
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Threathunter-debug/phishing-email-investigation
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/Threathunter-debug/phishing-email-investigation
+     📝 Enterprise SOC phishing investigation involving Microsoft Defender XDR, QRadar S…
+     🏷  blue-team, crowdstrike, cybersecurity, edr, incident-response, kql, microsoft-defender, phishing-analysis, qradar, siem, soc, threat-hunting
+[2026-05-06 15:09:10 UTC] [NEW]   📦 aruxiee/wfpblock
+     ⭐ 0  🗣 Rust  📅 2026-05-05
+     🔗 https://github.com/aruxiee/wfpblock
+     📝 Simple network silencer using Rust & WFP. Bypasses user-mode restrictions to blo…
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Harrison-Wells-Cyber/InternalMonologue
+     ⭐ 2  🗣 PowerShell  📅 2026-05-06
+     🔗 https://github.com/Harrison-Wells-Cyber/InternalMonologue
+     📝 Steal Net-NTLMv1 hashes for logged on users without dumping LSASS
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 tandrlemandrle/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-05-06
+     🔗 https://github.com/tandrlemandrle/Sentinel
+     📝 Windows Sentinel is a transparent, userland-only intrusion detection and endpoin…
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 libyangeek/almuiz_moni
+     ⭐ 0  🗣 TypeScript  📅 2026-05-06
+     🔗 https://github.com/libyangeek/almuiz_moni
+     📝 a
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 ArteimPidaras/NewPatch
+     ⭐ 0  🗣 C++  📅 2026-05-06
+     🔗 https://github.com/ArteimPidaras/NewPatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Valencier/input-lag-fixer
+     ⭐ 1  🗣 Python  📅 2026-05-05
+     🔗 https://github.com/Valencier/input-lag-fixer
+     📝 Fix mouse and keyboard input lag on Windows 10/11 for competitive gaming. Open-s…
+     🏷  fps-booster, gaming-tools, input-lag, performance-optimization, windows-optimization
+[2026-05-06 15:09:10 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-06 15:09:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-06 15:09:10 UTC] [INFO]   → 15 repository trovati in totale
+[2026-05-06 15:09:10 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-05-06 15:09:10 UTC] [NEW]   📦 appl3b0y/edb-40564-mingw-fix
+     ⭐ 0  🗣 C  📅 2026-05-06
+     🔗 https://github.com/appl3b0y/edb-40564-mingw-fix
+     📝 CVE-2011-1249 (MS11-046) AFD privilege escalation — MinGW cross-compilation fix …
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 ArteimPidaras/Test
+     ⭐ 0  🗣 C++  📅 2026-05-06
+     🔗 https://github.com/ArteimPidaras/Test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 Musa-xvi/THM-Linux-Privilege-Escalation
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/Musa-xvi/THM-Linux-Privilege-Escalation
+     📝 A write up for TryHackMe linux privilege escalation lab
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 aster-moonglow/amg-kernel-config
+     ⭐ 0  🗣 Shell  📅 2026-05-06
+     🔗 https://github.com/aster-moonglow/amg-kernel-config
+     📝 This is the repository where I version-control my kernel configuration and share…
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 ArteimPidaras/NewPatch
+     ⭐ 0  🗣 C++  📅 2026-05-06
+     🔗 https://github.com/ArteimPidaras/NewPatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 ekomsSavior/RANGER_C3
+     ⭐ 1  🗣 Go  📅 2026-05-06
+     🔗 https://github.com/ekomsSavior/RANGER_C3
+     📝 Distributed Multi-Node Mesh C2 Framework
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 h0mi3e/ranger_homi3
+     ⭐ 0  🗣 Go  📅 2026-05-05
+     🔗 https://github.com/h0mi3e/ranger_homi3
+     📝 Ranger C3 v3.0.0 - Distributed Multi-Node Mesh C2 Framework (Go native)
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 nafianiaz2/Black_Box-Penetration-Testing
+     ⭐ 0  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/nafianiaz2/Black_Box-Penetration-Testing
+     📝 Black-box penetration test against Jangow01 vulnerable VM — achieving full root …
+     🏷  —
+[2026-05-06 15:09:10 UTC] [NEW]   📦 DuskFal1/p2jb
+     ⭐ 1  🗣 N/A  📅 2026-05-05
+     🔗 https://github.com/DuskFal1/p2jb
+     📝 P2JB PS5 kernel exploit (FW 11.00-12.70) with multithreaded ELF leak accelerator
+     🏷  —
+[2026-05-06 15:09:10 UTC] [INFO] ============================================================
+[2026-05-06 15:09:11 UTC] [INFO] Esecuzione completata — 54 nuovi repo trovati, 0 errori
+[2026-05-06 15:09:11 UTC] [INFO] ============================================================
