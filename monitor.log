@@ -1448,3 +1448,119 @@
 [2026-05-06 17:17:26 UTC] [INFO] ============================================================
 [2026-05-06 17:17:26 UTC] [INFO] Esecuzione completata — 8 nuovi repo trovati, 0 errori
 [2026-05-06 17:17:26 UTC] [INFO] ============================================================
+[2026-05-06 21:44:48 UTC] [INFO] ============================================================
+[2026-05-06 21:44:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-06 21:44:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-06 21:44:48 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-06 21:44:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-06 21:44:48 UTC] [INFO] ============================================================
+[2026-05-06 21:44:48 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-06 21:44:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-06 21:44:48 UTC] [INFO]   → 3 repository trovati in totale
+[2026-05-06 21:44:48 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-06 21:44:48 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-06 21:44:48 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-06 21:44:50 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-06 21:44:50 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-05-06 21:44:50 UTC] [NEW]   📦 ztothez/aegis-ai-test
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/ztothez/aegis-ai-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 SpectralZero/bash_obf
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/SpectralZero/bash_obf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 suares13/PurpleTeam_Simulator
+     ⭐ 1  🗣 HTML  📅 2026-05-06
+     🔗 https://github.com/suares13/PurpleTeam_Simulator
+     📝 Interactive Purple Team simulator built with Python & Flask. Features adversary …
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 sifgamachu/tiket-app
+     ⭐ 0  🗣 TypeScript  📅 2026-05-06
+     🔗 https://github.com/sifgamachu/tiket-app
+     📝 Ticketing 
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 evilele/iEDR
+     ⭐ 0  🗣 C++  📅 2026-05-06
+     🔗 https://github.com/evilele/iEDR
+     📝 A minimized non-intrusive version of EDR Introspection
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 Snakebl/zero-trust-architecture-plan
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/Snakebl/zero-trust-architecture-plan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 suhaibkhan916/splunk-rdp-bruteforce-detection
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/suhaibkhan916/splunk-rdp-bruteforce-detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 Daya39/P2-Bluetooth
+     ⭐ 0  🗣 C  📅 2026-05-06
+     🔗 https://github.com/Daya39/P2-Bluetooth
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 digitalsurgn/CVE-2025-4632_POC
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/digitalsurgn/CVE-2025-4632_POC
+     📝 This repository contains a Python replication script for CVE-2025-4632, an Unaut…
+     🏷  cve-2025-4632, exploit, magicinfo, poc, python, rce, samsung, vulnerability
+[2026-05-06 21:44:50 UTC] [NEW]   📦 bertyom1-art/EDR4
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/bertyom1-art/EDR4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 Stefano251/SOC-HomeLab
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/Stefano251/SOC-HomeLab
+     📝 Work in Progress | Home Lab SOC con Wazuh, pfSense+Suricata, TheHive. Architettu…
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 Lucidmolt/Corrupt-Solutions-Inc
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/Lucidmolt/Corrupt-Solutions-Inc
+     📝 Official architecture blueprints, Agentic Skills, and resources by Corrupt Solut…
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 NatoFer0/cybersecurity-lab-ransomware
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/NatoFer0/cybersecurity-lab-ransomware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 KaramoNjie/karamotech-agent-suite
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/KaramoNjie/karamotech-agent-suite
+     📝 Full-spectrum red-team + Web3 security research agents built on Hermes. Plug-and…
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 cybernovaacademy/SOC-SIEM-Implementation--Deploying-MS-Sentinel-LAW-DEFENDER-XDR-AMA-DCR-
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/cybernovaacademy/SOC-SIEM-Implementation--Deploying-MS-Sentinel-LAW-DEFENDER-XDR-AMA-DCR-
+     📝 SOC - Implementation - Deploying MS Sentinel LAW DEFENDER XDR AMA DCR 
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 Jamo642/bytelockos
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/Jamo642/bytelockos
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 atomicmilkshake/GainsisiOM
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/atomicmilkshake/GainsisiOM
+     📝 GainsisiOM - Everything-inspired desktop search for Windows. Advanced UX: histor…
+     🏷  —
+[2026-05-06 21:44:50 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-06 21:44:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-06 21:44:50 UTC] [INFO]   → 17 repository trovati in totale
+[2026-05-06 21:44:50 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-06 21:44:50 UTC] [NEW]   📦 MartinaStarone/CVE-2026-2441
+     ⭐ 0  🗣 HTML  📅 2026-05-06
+     🔗 https://github.com/MartinaStarone/CVE-2026-2441
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [NEW]   📦 akashslife/SentinelAGI-Sandbox
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/akashslife/SentinelAGI-Sandbox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 21:44:50 UTC] [INFO] ============================================================
+[2026-05-06 21:44:50 UTC] [INFO] Esecuzione completata — 19 nuovi repo trovati, 0 errori
+[2026-05-06 21:44:50 UTC] [INFO] ============================================================
