@@ -1387,3 +1387,64 @@
 [2026-05-06 15:09:10 UTC] [INFO] ============================================================
 [2026-05-06 15:09:11 UTC] [INFO] Esecuzione completata — 54 nuovi repo trovati, 0 errori
 [2026-05-06 15:09:11 UTC] [INFO] ============================================================
+[2026-05-06 17:17:23 UTC] [INFO] ============================================================
+[2026-05-06 17:17:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-06 17:17:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-06 17:17:23 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-06 17:17:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-06 17:17:23 UTC] [INFO] ============================================================
+[2026-05-06 17:17:23 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-06 17:17:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-06 17:17:24 UTC] [INFO]   → 3 repository trovati in totale
+[2026-05-06 17:17:24 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-06 17:17:24 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-06 17:17:24 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-06 17:17:25 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-06 17:17:25 UTC] [NEW]   🆕 8 NUOVI repository:
+[2026-05-06 17:17:25 UTC] [NEW]   📦 d4rken/google-issue-l2capsocket
+     ⭐ 0  🗣 Kotlin  📅 2026-05-06
+     🔗 https://github.com/d4rken/google-issue-l2capsocket
+     📝 Demo Project for the missing L2CAP socket API
+     🏷  —
+[2026-05-06 17:17:25 UTC] [NEW]   📦 HasanLathif/edr
+     ⭐ 0  🗣 HTML  📅 2026-05-06
+     🔗 https://github.com/HasanLathif/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 17:17:25 UTC] [NEW]   📦 BilalMasafeh/Quatnum_edr_Agent
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/BilalMasafeh/Quatnum_edr_Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 17:17:25 UTC] [NEW]   📦 nguyenliem0507/Wazuh-SOC-Homelab
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/nguyenliem0507/Wazuh-SOC-Homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 17:17:25 UTC] [NEW]   📦 edrisjan1998-rgb/edris-weather
+     ⭐ 0  🗣 JavaScript  📅 2026-05-06
+     🔗 https://github.com/edrisjan1998-rgb/edris-weather
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-06 17:17:25 UTC] [NEW]   📦 cybernovaacademy/Incident-Response-Plan
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/cybernovaacademy/Incident-Response-Plan
+     📝 IR Plan
+     🏷  —
+[2026-05-06 17:17:25 UTC] [NEW]   📦 12sub/DeputyEDR
+     ⭐ 0  🗣 TypeScript  📅 2026-05-06
+     🔗 https://github.com/12sub/DeputyEDR
+     📝 A custom made Endpoint Detection and Rseponse project
+     🏷  —
+[2026-05-06 17:17:25 UTC] [NEW]   📦 lixuwei2005-star/sentrygate
+     ⭐ 0  🗣 Python  📅 2026-05-06
+     🔗 https://github.com/lixuwei2005-star/sentrygate
+     📝 面向 MCP Coding Agent 的本地隐私脱敏与行为审计安全网关原型. A local MCP security gateway prototype f…
+     🏷  ai-agent, fastapi, lmstudio, mcp, privacy, python, security
+[2026-05-06 17:17:25 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-06 17:17:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-06 17:17:26 UTC] [INFO]   → 15 repository trovati in totale
+[2026-05-06 17:17:26 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-06 17:17:26 UTC] [INFO] ============================================================
+[2026-05-06 17:17:26 UTC] [INFO] Esecuzione completata — 8 nuovi repo trovati, 0 errori
+[2026-05-06 17:17:26 UTC] [INFO] ============================================================
