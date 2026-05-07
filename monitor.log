@@ -1795,3 +1795,229 @@
 [2026-05-07 09:46:10 UTC] [INFO] ============================================================
 [2026-05-07 09:46:10 UTC] [INFO] Esecuzione completata — 42 nuovi repo trovati, 0 errori
 [2026-05-07 09:46:10 UTC] [INFO] ============================================================
+[2026-05-07 18:01:23 UTC] [INFO] ============================================================
+[2026-05-07 18:01:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-07 18:01:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-07 18:01:23 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-07 18:01:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-07 18:01:23 UTC] [INFO] ============================================================
+[2026-05-07 18:01:23 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-07 18:01:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-07 18:01:23 UTC] [INFO]   → 6 repository trovati in totale
+[2026-05-07 18:01:23 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-07 18:01:23 UTC] [NEW]   📦 CroatiaSecurity/GEdr
+     ⭐ 0  🗣 C#  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/GEdr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:23 UTC] [NEW]   📦 Cr0mb/GSpoof
+     ⭐ 0  🗣 C++  📅 2026-05-07
+     🔗 https://github.com/Cr0mb/GSpoof
+     📝 Undetected Spoofer
+     🏷  —
+[2026-05-07 18:01:23 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-07 18:01:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-07 18:01:25 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-07 18:01:25 UTC] [NEW]   🆕 37 NUOVI repository:
+[2026-05-07 18:01:25 UTC] [NEW]   📦 CroatiaSecurity/LocalEDR
+     ⭐ 0  🗣 C#  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/LocalEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 CroatiaSecurity/GSecurity
+     ⭐ 0  🗣 HTML  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/GSecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 CroatiaSecurity/GIDR
+     ⭐ 0  🗣 C#  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/GIDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 CroatiaSecurity/GEdr
+     ⭐ 0  🗣 C#  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/GEdr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 CroatiaSecurity/EDR
+     ⭐ 0  🗣 PowerShell  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 brittneyleighb/linux-command-line-cheatsheet
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/brittneyleighb/linux-command-line-cheatsheet
+     📝 For ethical hackers/pen testers
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 edrizhedrizh-a11y/ALE-REVIEWER-BY-EDRIZH-INGCO
+     ⭐ 0  🗣 HTML  📅 2026-05-07
+     🔗 https://github.com/edrizhedrizh-a11y/ALE-REVIEWER-BY-EDRIZH-INGCO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 JamesPabon11/Threat-Hunting-Scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/JamesPabon11/Threat-Hunting-Scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 vishnuedavarath/nomad-aws-cluster
+     ⭐ 0  🗣 HCL  📅 2026-05-07
+     🔗 https://github.com/vishnuedavarath/nomad-aws-cluster
+     📝 Terraform-managed Nomad cluster on AWS with autoscaling spot clients, ACL, and S…
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 0xMohammedHassan/0xMohammedHassan
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/0xMohammedHassan/0xMohammedHassan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 CyberEnthusiastic/mdr-triage-bot
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/CyberEnthusiastic/mdr-triage-bot
+     📝 Python and Slack API automation for IOC enrichment and EDR alert triage, reducin…
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 CroatiaSecurity/gorstak-site
+     ⭐ 0  🗣 HTML  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/gorstak-site
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 no-carve-only-pizza/edr-agent
+     ⭐ 0  🗣 C++  📅 2026-05-07
+     🔗 https://github.com/no-carve-only-pizza/edr-agent
+     📝 Lightweight Linux EDR agent using eBPF — monitors process, file, and network eve…
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 Ruby570bocadito/BTY
+     ⭐ 0  🗣 Go  📅 2026-05-07
+     🔗 https://github.com/Ruby570bocadito/BTY
+     📝 C2 Framework — Post-exploitation command & control for red team operations. Go +…
+     🏷  antivirus-evasion, c2, command-and-control, cross-platform, evasion, golang, penetration-testing, post-exploitation, powershell, red-team, security-tools, socks5-proxy, vue3
+[2026-05-07 18:01:25 UTC] [NEW]   📦 aidehualeo/tech-edrcjkid
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/aidehualeo/tech-edrcjkid
+     📝 实战案例精选
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 0xMohammedHassan/SilentLens
+     ⭐ 1  🗣 C++  📅 2026-05-07
+     🔗 https://github.com/0xMohammedHassan/SilentLens
+     📝 WinRT-only screen capture + OCR research tool. Captures windows silently via Win…
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 MinLouisCyber/ransomware-entropy-detector
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/MinLouisCyber/ransomware-entropy-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 TieensDat/edr-powershell
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/TieensDat/edr-powershell
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 ztothez/aegisops-ai
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/ztothez/aegisops-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 TalBenDosa/SOC-Training-platform
+     ⭐ 0  🗣 TypeScript  📅 2026-05-07
+     🔗 https://github.com/TalBenDosa/SOC-Training-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 billy770013/BillyBinder
+     ⭐ 1  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/billy770013/BillyBinder
+     📝 🚀 BillyBinder v2.0 | Advanced Cyber-Payload Hub  BillyBinder est un moteur de fu…
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 mahdi-salmanzade/BeatsBar
+     ⭐ 0  🗣 Swift  📅 2026-05-07
+     🔗 https://github.com/mahdi-salmanzade/BeatsBar
+     📝 Live battery + on-demand heart rate from Powerbeats Pro 2 in the macOS menu bar …
+     🏷  aacp, bluetooth, heart-rate, iobluetooth, macos, menubar, powerbeats, powerbeats-pro-2, reverse-engineering, swift
+[2026-05-07 18:01:25 UTC] [NEW]   📦 CroatiaSecurity/Unhooker
+     ⭐ 0  🗣 PowerShell  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/Unhooker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 CroatiaSecurity/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 asingizwebenite/reverse-shell-cybersec
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/asingizwebenite/reverse-shell-cybersec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 amoamisgatas/Phishing-Incident-Response-Playbooks
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/amoamisgatas/Phishing-Incident-Response-Playbooks
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_18
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_18
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 lokeshmorghade/Pulse-X
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/lokeshmorghade/Pulse-X
+     📝 Side-channel exfiltration framework using RAM-generated EMI.
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 chuahmy/SentinelCore-Autonomous-Threat-Intelligence-Static-Analysis-Engine
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/chuahmy/SentinelCore-Autonomous-Threat-Intelligence-Static-Analysis-Engine
+     📝 A Real-Time File Integrity & Malware Analysis System designed to automate threat…
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 FranckTheMotte/blufizz
+     ⭐ 0  🗣 C++  📅 2026-05-07
+     🔗 https://github.com/FranckTheMotte/blufizz
+     📝 Blufizz is a tool to store the scanned bluetooth and wifi devices.
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 badrap/ce3
+     ⭐ 3  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/badrap/ce3
+     📝 Common Excuse & Evasion Enumeration (CE3) - A taxonomy of vendor dismissal patte…
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 shahbaz234/atlascyber
+     ⭐ 0  🗣 TypeScript  📅 2026-05-07
+     🔗 https://github.com/shahbaz234/atlascyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 Tudie-Tudie/threat-hunting-scenario
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/Tudie-Tudie/threat-hunting-scenario
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 WiLL75G/soc-day09-incident-response-playbook
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/WiLL75G/soc-day09-incident-response-playbook
+     📝 Building a structured incident response playbook for SOC operations
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 vikasswaminh/vikasswaminh
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/vikasswaminh/vikasswaminh
+     📝 Founder, Networkers Home — Dual CCIE #22239 (Security & R&S), ex-Cisco. Building…
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 boughaniLabo/cybersecurity-soc-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/boughaniLabo/cybersecurity-soc-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 18:01:25 UTC] [NEW]   📦 GOP963/The-future-of-cybersecurity
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/GOP963/The-future-of-cybersecurity
+     📝 This means that jobs like SOC will remain for a few more years.
+     🏷  —
+[2026-05-07 18:01:25 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-07 18:01:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-07 18:01:26 UTC] [INFO]   → 10 repository trovati in totale
+[2026-05-07 18:01:26 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-07 18:01:26 UTC] [NEW]   📦 brittneyleighb/linux-command-line-cheatsheet
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/brittneyleighb/linux-command-line-cheatsheet
+     📝 For ethical hackers/pen testers
+     🏷  —
+[2026-05-07 18:01:26 UTC] [NEW]   📦 specimba/nexus-STARS-sync
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/specimba/nexus-STARS-sync
+     📝 easy sync for everyone
+     🏷  —
+[2026-05-07 18:01:26 UTC] [INFO] ============================================================
+[2026-05-07 18:01:26 UTC] [INFO] Esecuzione completata — 41 nuovi repo trovati, 0 errori
+[2026-05-07 18:01:26 UTC] [INFO] ============================================================
