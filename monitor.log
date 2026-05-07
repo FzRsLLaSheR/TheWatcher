@@ -1564,3 +1564,234 @@
 [2026-05-06 21:44:50 UTC] [INFO] ============================================================
 [2026-05-06 21:44:50 UTC] [INFO] Esecuzione completata — 19 nuovi repo trovati, 0 errori
 [2026-05-06 21:44:50 UTC] [INFO] ============================================================
+[2026-05-07 09:46:07 UTC] [INFO] ============================================================
+[2026-05-07 09:46:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-07 09:46:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-07 09:46:07 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-07 09:46:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-07 09:46:07 UTC] [INFO] ============================================================
+[2026-05-07 09:46:07 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-07 09:46:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-07 09:46:08 UTC] [INFO]   → 4 repository trovati in totale
+[2026-05-07 09:46:08 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-07 09:46:08 UTC] [NEW]   📦 Neosprings/neoserv
+     ⭐ 2  🗣 Shell  📅 2026-05-07
+     🔗 https://github.com/Neosprings/neoserv
+     📝 Self-Hosted HTTP drop server for HTB / THM / OffSec / HS labs. Auto-fetches ~90 …
+     🏷  ctfs, hackthebox, htb, htb-scripts, offsec, offsec-tools, oscp
+[2026-05-07 09:46:08 UTC] [NEW]   📦 light0921/skills
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/light0921/skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:08 UTC] [NEW]   📦 Dredsen/advisories
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/Dredsen/advisories
+     📝 Disclosers
+     🏷  —
+[2026-05-07 09:46:08 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-07 09:46:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-07 09:46:09 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-07 09:46:09 UTC] [NEW]   🆕 37 NUOVI repository:
+[2026-05-07 09:46:09 UTC] [NEW]   📦 ferithtools/kernelradar
+     ⭐ 0  🗣 Rust  📅 2026-05-07
+     🔗 https://github.com/ferithtools/kernelradar
+     📝 Behavioral anomaly detection for the Linux kernel via eBPF.
+     🏷  anomaly-detection, bpf, ebpf, intrusion-detection, linux, monitoring, observability, rust, security, siem
+[2026-05-07 09:46:09 UTC] [NEW]   📦 JiangLongLiu/remote-browser-debugging
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/JiangLongLiu/remote-browser-debugging
+     📝 宿主机远程调试企业内网虚拟机浏览器方案 - Host-Only双网卡 + SSH反向隧道 + EDR合规方案
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 KruBro/Car_Black_Box
+     ⭐ 0  🗣 C  📅 2026-05-07
+     🔗 https://github.com/KruBro/Car_Black_Box
+     📝 This project implements a PIC microcontroller-based car black box to log critica…
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 Rainyy27/cultural-heritage-data-space
+     ⭐ 0  🗣 Java  📅 2026-05-07
+     🔗 https://github.com/Rainyy27/cultural-heritage-data-space
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 Neosprings/neoserv
+     ⭐ 2  🗣 Shell  📅 2026-05-07
+     🔗 https://github.com/Neosprings/neoserv
+     📝 Self-Hosted HTTP drop server for HTB / THM / OffSec / HS labs. Auto-fetches ~90 …
+     🏷  ctfs, hackthebox, htb, htb-scripts, offsec, offsec-tools, oscp
+[2026-05-07 09:46:09 UTC] [NEW]   📦 light0921/skills
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/light0921/skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 Zeltoc/wazuh-lsass-credential-access-detection
+     ⭐ 1  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/Zeltoc/wazuh-lsass-credential-access-detection
+     📝 Wazuh SIEM lab detecting lsass credential access using Sysmon Event ID 10 and a …
+     🏷  blue-team, credential-access, detection-engineering, homelab, incident-response, lsass, mitre-attack, siem, sysmon, t1003, wazuh, windows-security
+[2026-05-07 09:46:09 UTC] [NEW]   📦 MDP-Studio/rmm-hunter
+     ⭐ 0  🗣 JavaScript  📅 2026-05-07
+     🔗 https://github.com/MDP-Studio/rmm-hunter
+     📝 Windows desktop scanner for unauthorized remote access tools and living-off-the-…
+     🏷  cybersecurity, electron, endpoint-security, incident-response, powershell, rmm, windows
+[2026-05-07 09:46:09 UTC] [NEW]   📦 edr-22/SmartCPNS
+     ⭐ 0  🗣 JavaScript  📅 2026-05-07
+     🔗 https://github.com/edr-22/SmartCPNS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 eka-gumelar/EDR
+     ⭐ 0  🗣 JavaScript  📅 2026-05-07
+     🔗 https://github.com/eka-gumelar/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 s045pd/umbra-embed-targets
+     ⭐ 0  🗣 JavaScript  📅 2026-05-07
+     🔗 https://github.com/s045pd/umbra-embed-targets
+     📝 Innocuous Chrome MV3 host extensions for Umbra EDR embed packaging. Authorized m…
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 bisma-tech1/Day-03-Human-Process-Technology
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/bisma-tech1/Day-03-Human-Process-Technology
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 edruce23/edruce23
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/edruce23/edruce23
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 ye11oc4t/ocsf-normalizer
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/ye11oc4t/ocsf-normalizer
+     📝 Velociraptor, AWS 보안 로그, SOC 시뮬레이터 이벤트를 OCSF 기반 JSONL로 정규화하여 Wazuh에서 수집·탐지할 수 있도…
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 asunnyboy861/FlashQR
+     ⭐ 0  🗣 Swift  📅 2026-05-07
+     🔗 https://github.com/asunnyboy861/FlashQR
+     📝 FlashQR - QR Code Brightness Enhancer with EDR Technology
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 khoa36015/Adaptive-Blade-ShowCase
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/khoa36015/Adaptive-Blade-ShowCase
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 BIBINRONNIGEORGE/CanaryWard
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/BIBINRONNIGEORGE/CanaryWard
+     📝 A proactive endpoint defense tool that uses deception technology to detect ranso…
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 menviv/mcp-secops
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/menviv/mcp-secops
+     📝 Security operations as conversation. An MCP server connecting 13 security platfo…
+     🏷  ai-security, appsec, claude-code, cspm, devsecops, mcp, model-context-protocol, secops, security, security-automation
+[2026-05-07 09:46:09 UTC] [NEW]   📦 Cr0mb/GSpoof
+     ⭐ 0  🗣 C++  📅 2026-05-07
+     🔗 https://github.com/Cr0mb/GSpoof
+     📝 Undetected Spoofer
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 jamontanac/DeskGhost
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/jamontanac/DeskGhost
+     📝 Your desk, haunted. DeskGhost silently keeps your presence alive on Teams so you…
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 aruxiee/angrylnk
+     ⭐ 0  🗣 Rust  📅 2026-05-07
+     🔗 https://github.com/aruxiee/angrylnk
+     📝 PoC for the LNK Stomping attack in Windows. Hijacks shortcuts to execute a VBScr…
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 iblejan/crowdstrike-integration
+     ⭐ 0  🗣 Starlark  📅 2026-05-07
+     🔗 https://github.com/iblejan/crowdstrike-integration
+     📝 A script in Python to pull hosts and vulnerabilities
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 PaidDues/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/PaidDues/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 yezidajian/YQ9u4EDrTA
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/yezidajian/YQ9u4EDrTA
+     📝 2026旗舰版 Java+Flutter 期货微交易系统源码全开源多语言平台、支持全资产交易与三位一体精准控杀逻辑
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 gfddfhdg/-CTF-3-
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/gfddfhdg/-CTF-3-
+     📝 - [大型资源站xingkeit.top](http://xingkeit.top/)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 sujayadkesar/IR-Agent-Builder
+     ⭐ 3  🗣 Rust  📅 2026-05-07
+     🔗 https://github.com/sujayadkesar/IR-Agent-Builder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 Nicolas-KS24/educational-malware-simulation
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/Nicolas-KS24/educational-malware-simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 00johndoe/ransomware_detect
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/00johndoe/ransomware_detect
+     📝 A real-time file system monitoring and static analysis tool for detecting ransom…
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 Muitamax/Pentesting_Payloads
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/Muitamax/Pentesting_Payloads
+     📝 Python scripted Malware`s and Payloads.
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 cosbey/cybercat
+     ⭐ 0  🗣 JavaScript  📅 2026-05-07
+     🔗 https://github.com/cosbey/cybercat
+     📝 AI-powered SOC triage and incident response assistant
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 talhaahmed21/SIEM-Wazuh-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/talhaahmed21/SIEM-Wazuh-Lab
+     📝 A home lab built to practice deploying a Wazuh SIEM, managing endpoints behind a…
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 AnthonyMoodyII/anthonymoodyii
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/AnthonyMoodyII/anthonymoodyii
+     📝 Anthony Moody Overview
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 haxiaww/Multi-Agent-Debate
+     ⭐ 0  🗣 Go  📅 2026-05-06
+     🔗 https://github.com/haxiaww/Multi-Agent-Debate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 tandrlemandrle/WindowsSentinel
+     ⭐ 0  🗣 C#  📅 2026-05-06
+     🔗 https://github.com/tandrlemandrle/WindowsSentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 canyadike92/Angel-Chidebe-s-Cybersecurity-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-06
+     🔗 https://github.com/canyadike92/Angel-Chidebe-s-Cybersecurity-Portfolio
+     📝 Blueteam beginner building hands-on skills in threat detection, SIEM, and DFIR. …
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 tandrlemandrle/GIDR
+     ⭐ 0  🗣 C#  📅 2026-05-06
+     🔗 https://github.com/tandrlemandrle/GIDR
+     📝 A behavioral intrusion detection system for Windows. Files are innocent until pr…
+     🏷  —
+[2026-05-07 09:46:09 UTC] [NEW]   📦 libyangeek/new
+     ⭐ 0  🗣 TypeScript  📅 2026-05-06
+     🔗 https://github.com/libyangeek/new
+     📝 wen
+     🏷  —
+[2026-05-07 09:46:09 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-07 09:46:09 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-07 09:46:10 UTC] [INFO]   → 8 repository trovati in totale
+[2026-05-07 09:46:10 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-07 09:46:10 UTC] [NEW]   📦 mito753/Kernel-Exploit-Dojo
+     ⭐ 0  🗣 C  📅 2026-05-07
+     🔗 https://github.com/mito753/Kernel-Exploit-Dojo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-07 09:46:10 UTC] [NEW]   📦 Neosprings/neoserv
+     ⭐ 2  🗣 Shell  📅 2026-05-07
+     🔗 https://github.com/Neosprings/neoserv
+     📝 Self-Hosted HTTP drop server for HTB / THM / OffSec / HS labs. Auto-fetches ~90 …
+     🏷  ctfs, hackthebox, htb, htb-scripts, offsec, offsec-tools, oscp
+[2026-05-07 09:46:10 UTC] [INFO] ============================================================
+[2026-05-07 09:46:10 UTC] [INFO] Esecuzione completata — 42 nuovi repo trovati, 0 errori
+[2026-05-07 09:46:10 UTC] [INFO] ============================================================
