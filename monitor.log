@@ -2458,3 +2458,144 @@
 [2026-05-08 16:53:32 UTC] [INFO] ============================================================
 [2026-05-08 16:53:32 UTC] [INFO] Esecuzione completata — 43 nuovi repo trovati, 0 errori
 [2026-05-08 16:53:32 UTC] [INFO] ============================================================
+[2026-05-08 21:36:43 UTC] [INFO] ============================================================
+[2026-05-08 21:36:43 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-08 21:36:43 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-08 21:36:43 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-08 21:36:43 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-08 21:36:43 UTC] [INFO] ============================================================
+[2026-05-08 21:36:43 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-08 21:36:43 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-08 21:36:43 UTC] [INFO]   → 4 repository trovati in totale
+[2026-05-08 21:36:43 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-08 21:36:43 UTC] [NEW]   📦 TishinaVC/Windows11Hammer
+     ⭐ 0  🗣 PowerShell  📅 2026-05-08
+     🔗 https://github.com/TishinaVC/Windows11Hammer
+     📝 WINDSURF POWERED, OPUS DISCOVERED patch to critical windows 11 performance and s…
+     🏷  —
+[2026-05-08 21:36:43 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-08 21:36:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-08 21:36:45 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-08 21:36:45 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-05-08 21:36:45 UTC] [NEW]   📦 jreeseiii-tech/WinGrid11
+     ⭐ 0  🗣 C#  📅 2026-05-08
+     🔗 https://github.com/jreeseiii-tech/WinGrid11
+     📝 Dynamic grid window snapping for Windows 11. Spiritual successor to WindowGrid.
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 isom21/custom-edr
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/isom21/custom-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 route2shell/infrared
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/route2shell/infrared
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 crys1s/RocketIR
+     ⭐ 1  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/crys1s/RocketIR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 thecnical/vajra-terminal
+     ⭐ 0  🗣 Rust  📅 2026-05-08
+     🔗 https://github.com/thecnical/vajra-terminal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 MIRANHAKAPPA/AutoLisp-Local-Enumeration-POC
+     ⭐ 0  🗣 Common Lisp  📅 2026-05-08
+     🔗 https://github.com/MIRANHAKAPPA/AutoLisp-Local-Enumeration-POC
+     📝 PoC defensiva de enumeração local via AutoLISP no AutoCAD, demonstrando leitura …
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 tarcisioalvesleop/desafioMalware
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/tarcisioalvesleop/desafioMalware
+     📝 Simulação de um malware de captura de dados simples em python e Aprendendo a se …
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 Chrisrajasekar/Security-Operation-Centre-Framework-for-Critical-Infrastructure
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/Chrisrajasekar/Security-Operation-Centre-Framework-for-Critical-Infrastructure
+     📝 This GitHub project is designed to be a "living" technical portfolio that demons…
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 Glassto/eDRIVE
+     ⭐ 0  🗣 TypeScript  📅 2026-05-08
+     🔗 https://github.com/Glassto/eDRIVE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 pysh-labs/claude-profile
+     ⭐ 0  🗣 Go  📅 2026-05-08
+     🔗 https://github.com/pysh-labs/claude-profile
+     📝 Profile-as-code for Claude Code. Define organizations as YAML, version them, sha…
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 Barath711/Portfolio
+     ⭐ 0  🗣 JavaScript  📅 2026-05-08
+     🔗 https://github.com/Barath711/Portfolio
+     📝 Portfolio from Vercel
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 azqzazq1/SunnyDayBPF
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/azqzazq1/SunnyDayBPF
+     📝 SunnyDayBPF: eBPF-based post-syscall user-buffer telemetry deception research by…
+     🏷  blue-team, bpf, detection-engineering, ebpf, edr, kernell-security, linux, linux-security, observability, red-team, security-research, siem, telemetry, temeletry-integrity
+[2026-05-08 21:36:45 UTC] [NEW]   📦 jonathancybr/jonathancybr
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/jonathancybr/jonathancybr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 mfaizanarshad/mfaizanarshad
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/mfaizanarshad/mfaizanarshad
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 nexus2sec/Aeon8_Sentinel
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/nexus2sec/Aeon8_Sentinel
+     📝 WbbPage
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 Deepaudit/README.md
+     ⭐ 1  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/Deepaudit/README.md
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 redasadeq1/infrastructure-reseau-securisee
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/redasadeq1/infrastructure-reseau-securisee
+     📝 Déploiement d'une infrastructure réseau d'entreprise sécurisée  et hautement dis…
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 SimoesCTT/CTT-enhanced-Apache-mod_auth_digest-timing-attack-exploit
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/SimoesCTT/CTT-enhanced-Apache-mod_auth_digest-timing-attack-exploit
+     📝 CTT-Enhanced Apache mod_auth_digest Timing Attack — CVE-2026-33006 Remote Digest…
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743
+     📝 CVE-2026-32743 — PX4 Autopilot Stack Buffer Overflow CTT-Enhanced: 33-Layer Temp…
+     🏷  —
+[2026-05-08 21:36:45 UTC] [NEW]   📦 SilentisVox/QuakeSyscalls
+     ⭐ 1  🗣 C  📅 2026-05-08
+     🔗 https://github.com/SilentisVox/QuakeSyscalls
+     📝 Syscall Tampering with Clean Indirect Syscalls.
+     🏷  av-evasion, edr-evasion, indirect-syscalls
+[2026-05-08 21:36:45 UTC] [NEW]   📦 Alexkitsios/Automaton_AI_SOC_Assistant_Demo
+     ⭐ 0  🗣 JavaScript  📅 2026-05-08
+     🔗 https://github.com/Alexkitsios/Automaton_AI_SOC_Assistant_Demo
+     📝 Enterprise SOAR platform and AI Copilot for modern SOCs. Features SIEM telemetry…
+     🏷  ansible, automation, chatops, cybersecurity, docker, fastapi, incident-response, openai, python, siem, soar, soc, wazuh
+[2026-05-08 21:36:45 UTC] [NEW]   📦 marcocarolasec/SAM-EXFIL
+     ⭐ 0  🗣 C  📅 2026-05-08
+     🔗 https://github.com/marcocarolasec/SAM-EXFIL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 21:36:45 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-08 21:36:45 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-08 21:36:45 UTC] [INFO]   → 11 repository trovati in totale
+[2026-05-08 21:36:45 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-08 21:36:45 UTC] [NEW]   📦 EduardoC3677/fenrir
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/EduardoC3677/fenrir
+     📝 Let's control MediaTek's bootchain
+     🏷  —
+[2026-05-08 21:36:45 UTC] [INFO] ============================================================
+[2026-05-08 21:36:45 UTC] [INFO] Esecuzione completata — 24 nuovi repo trovati, 0 errori
+[2026-05-08 21:36:45 UTC] [INFO] ============================================================
