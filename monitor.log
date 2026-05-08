@@ -2021,3 +2021,204 @@
 [2026-05-07 18:01:26 UTC] [INFO] ============================================================
 [2026-05-07 18:01:26 UTC] [INFO] Esecuzione completata — 41 nuovi repo trovati, 0 errori
 [2026-05-07 18:01:26 UTC] [INFO] ============================================================
+[2026-05-08 06:19:10 UTC] [INFO] ============================================================
+[2026-05-08 06:19:10 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-08 06:19:10 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-08 06:19:10 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-08 06:19:10 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-08 06:19:10 UTC] [INFO] ============================================================
+[2026-05-08 06:19:10 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-08 06:19:10 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-08 06:19:11 UTC] [INFO]   → 3 repository trovati in totale
+[2026-05-08 06:19:11 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-08 06:19:11 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-08 06:19:11 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-08 06:19:12 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-08 06:19:12 UTC] [NEW]   🆕 32 NUOVI repository:
+[2026-05-08 06:19:12 UTC] [NEW]   📦 AliArdal/Atmaca_IOC_Local
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/AliArdal/Atmaca_IOC_Local
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 feiyu912/renew_windows
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/feiyu912/renew_windows
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 anuradha-gh/MyPortfolioWeb
+     ⭐ 0  🗣 HTML  📅 2026-05-08
+     🔗 https://github.com/anuradha-gh/MyPortfolioWeb
+     📝 Web Site For Me
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 lord-dubious/incident-response-copilot
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/lord-dubious/incident-response-copilot
+     📝 Local-first incident response copilot for triage timelines, evidence, containmen…
+     🏷  ai-agents, fastapi, incident-response, python, security
+[2026-05-08 06:19:12 UTC] [NEW]   📦 aleens-labs/ALDEENS
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/aleens-labs/ALDEENS
+     📝 Local-first Windows incident triage with evidence-backed reasoning and ATT&CK ma…
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 chineme-code/outershield-sme-soc-framework
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/chineme-code/outershield-sme-soc-framework
+     📝 This project is conducted under Outershield Security LLC, an independent cyberse…
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 Obsidian-Defense-Systems/nyx-overview
+     ⭐ 1  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/Obsidian-Defense-Systems/nyx-overview
+     📝 Consensus-driven operational AI for cybersecurity decision intelligence.
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 capassii/Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/capassii/Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 ElianeCoelho/projeto-malware-python-educacional
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/ElianeCoelho/projeto-malware-python-educacional
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 takibi-lab/agent-loop-control
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/takibi-lab/agent-loop-control
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 veil-protocol/safebreach-attacks
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/veil-protocol/safebreach-attacks
+     📝 Drop-in custom attacks for SafeBreach Visual Attack Studio. Demonstrates dynamic…
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 Moses-cyber444/Detection-and-Manual-Containment-of-a-Brute-Force-Attack-on-Local-Host
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/Moses-cyber444/Detection-and-Manual-Containment-of-a-Brute-Force-Attack-on-Local-Host
+     📝 The attack was simulated on a local host environment to analyse how security eve…
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 xdraceus/file-integrity-monitor
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/xdraceus/file-integrity-monitor
+     📝 Python-based file integrity monitoring system designed to protect the integrity …
+     🏷  blue-team, cybersecurity, cybersecurity-tools, cysa-plus, detection-engineering, dfir, file-integrity, file-integrity-monitoring, fim, hashing, incident-response, python, security-plus, sha256, threat-detection
+[2026-05-08 06:19:12 UTC] [NEW]   📦 simonbbbb/supplant-landing
+     ⭐ 0  🗣 JavaScript  📅 2026-05-07
+     🔗 https://github.com/simonbbbb/supplant-landing
+     📝 Supplant — AI-impersonation detection. Landing page, SDK, and documentation.
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 Anantvarma11/Sentinel-X
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/Anantvarma11/Sentinel-X
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 notfoundsoft/notfoundsoft
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/notfoundsoft/notfoundsoft
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 Code-Geez/SOC-Dashboard
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/Code-Geez/SOC-Dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 smartmet-ee/smartmet-swim-server
+     ⭐ 0  🗣 PLpgSQL  📅 2026-05-07
+     🔗 https://github.com/smartmet-ee/smartmet-swim-server
+     📝 Estonian SWIM SmartMet Server deployment: DB schema, helm values, EDR config and…
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 lalec/agent-plugins
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/lalec/agent-plugins
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 Ume-Habiba-0x/Windows-Srm-Token-Impersonation
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/Ume-Habiba-0x/Windows-Srm-Token-Impersonation
+     📝 Offensive analysis of the Windows SRM: audit evasion,  token impersonation via M…
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 R3n3gade-ai/radar
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/R3n3gade-ai/radar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 tech-tonio-ai/Password-Spray-Threat-Hunt
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/tech-tonio-ai/Password-Spray-Threat-Hunt
+     📝 Hunt 1 :Password-Spray-Threat-Hunt
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 BkNaila/My-Dataset
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/BkNaila/My-Dataset
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 RahulSharma2109/HYDRA
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/RahulSharma2109/HYDRA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 seyifalode-cmd/seyifalode-cmd
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/seyifalode-cmd/seyifalode-cmd
+     📝 GitHub Profile README
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 cruz-bruna/cybersecurity-malware-simulation-lab
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/cruz-bruna/cybersecurity-malware-simulation-lab
+     📝 Projeto desenvolvido para simular o funcionamento de malwares (ransomware e keyl…
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 JulioPanoramaIT/devsecops-observability-playbook
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/JulioPanoramaIT/devsecops-observability-playbook
+     📝 Estrategias de integración de seguridad y observabilidad para entornos modernos.
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 tarun0737/Cybersecurity-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/tarun0737/Cybersecurity-Home-Lab
+     📝 A technical repository documenting my hands-on cybersecurity research, including…
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 seyifalode-cmd/crowdstrike-threat-hunt-portfolio
+     ⭐ 1  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/seyifalode-cmd/crowdstrike-threat-hunt-portfolio
+     📝 CrowdStrike threat hunting portfolio
+     🏷  crowdstrike, cybersecurity, edr, mitre-attack, soc, threat-hunting
+[2026-05-08 06:19:12 UTC] [NEW]   📦 Xor290/Custom-http-module-with-nt-socket
+     ⭐ 0  🗣 Rust  📅 2026-05-07
+     🔗 https://github.com/Xor290/Custom-http-module-with-nt-socket
+     📝 Module Rust pour effectuer des requêtes HTTP/HTTPS sur Windows x64 en appelant d…
+     🏷  —
+[2026-05-08 06:19:12 UTC] [NEW]   📦 Hiroki6/eidolon
+     ⭐ 0  🗣 Zig  📅 2026-05-07
+     🔗 https://github.com/Hiroki6/eidolon
+     📝 Return address spoofing library for Windows x64, implemented in Zig.
+     🏷  edr-evasion, malware-development
+[2026-05-08 06:19:12 UTC] [NEW]   📦 Snol-std/UAC-Bypass-ICMLuaUtil
+     ⭐ 0  🗣 C++  📅 2026-05-07
+     🔗 https://github.com/Snol-std/UAC-Bypass-ICMLuaUtil
+     📝 UAC Bypass via COM Activation Policy & PEB Spoofing
+     🏷  —
+[2026-05-08 06:19:12 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-08 06:19:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-08 06:19:13 UTC] [INFO]   → 8 repository trovati in totale
+[2026-05-08 06:19:13 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-05-08 06:19:13 UTC] [NEW]   📦 32inside/dirtyflag-scanner-clone
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/32inside/dirtyflag-scanner-clone
+     📝 Non-destructive exposure scanner for DirtyFrag-style Linux kernel LPE risk
+     🏷  —
+[2026-05-08 06:19:13 UTC] [NEW]   📦 aerol-ai/microvm
+     ⭐ 0  🗣 Go  📅 2026-05-07
+     🔗 https://github.com/aerol-ai/microvm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 06:19:13 UTC] [NEW]   📦 heysonu/AD-HomeLab
+     ⭐ 0  🗣 N/A  📅 2026-05-07
+     🔗 https://github.com/heysonu/AD-HomeLab
+     📝 AD home lab for pentest simulation.
+     🏷  —
+[2026-05-08 06:19:13 UTC] [NEW]   📦 guiimoraes/copyfail2-py
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/guiimoraes/copyfail2-py
+     📝 One-liner Python LPE for CVE-2026-31431 (CopyFail2). No compilation, no dependen…
+     🏷  —
+[2026-05-08 06:19:13 UTC] [INFO] ============================================================
+[2026-05-08 06:19:13 UTC] [INFO] Esecuzione completata — 36 nuovi repo trovati, 0 errori
+[2026-05-08 06:19:13 UTC] [INFO] ============================================================
