@@ -2222,3 +2222,239 @@
 [2026-05-08 06:19:13 UTC] [INFO] ============================================================
 [2026-05-08 06:19:13 UTC] [INFO] Esecuzione completata — 36 nuovi repo trovati, 0 errori
 [2026-05-08 06:19:13 UTC] [INFO] ============================================================
+[2026-05-08 16:53:30 UTC] [INFO] ============================================================
+[2026-05-08 16:53:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-08 16:53:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-08 16:53:30 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-08 16:53:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-08 16:53:30 UTC] [INFO] ============================================================
+[2026-05-08 16:53:30 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-08 16:53:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-08 16:53:30 UTC] [INFO]   → 3 repository trovati in totale
+[2026-05-08 16:53:30 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-08 16:53:30 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-08 16:53:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-08 16:53:32 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-08 16:53:32 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-05-08 16:53:32 UTC] [NEW]   📦 Beldugan/twinaccident
+     ⭐ 0  🗣 TypeScript  📅 2026-05-08
+     🔗 https://github.com/Beldugan/twinaccident
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 xutaoguo55/CARF
+     ⭐ 1  🗣 R  📅 2026-05-08
+     🔗 https://github.com/xutaoguo55/CARF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 adammckinski/5w-security-framework
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/adammckinski/5w-security-framework
+     📝 The 5W Security Framework by Adam McKinski
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 edrier-eng/edrilab-site
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/edrier-eng/edrilab-site
+     📝 Edri Lab website source
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 SnailSploit/SnailSploit
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/SnailSploit/SnailSploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 CHDevSec/Ubuntu-Kernel-Guardian
+     ⭐ 0  🗣 Shell  📅 2026-05-08
+     🔗 https://github.com/CHDevSec/Ubuntu-Kernel-Guardian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 adr-camacho/RedTeam-Ops-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/adr-camacho/RedTeam-Ops-Roadmap
+     📝 Documentación técnica y metodologías de ataque en Active Directory orientadas a …
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 elmra-rgb/lab12_securite
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/elmra-rgb/lab12_securite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 0xROOTPLS/Cuckoo-Spoofer
+     ⭐ 0  🗣 C  📅 2026-05-08
+     🔗 https://github.com/0xROOTPLS/Cuckoo-Spoofer
+     📝 Return-address spoofer for x64 Windows.
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 ethglobalopenagents/AEGIS402
+     ⭐ 0  🗣 TypeScript  📅 2026-05-08
+     🔗 https://github.com/ethglobalopenagents/AEGIS402
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 SecG3ek/PCPJack-Credential-Stealer
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/SecG3ek/PCPJack-Credential-Stealer
+     📝 PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Syst…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 SecG3ek/Quasar-Linux-RAT
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/SecG3ek/Quasar-Linux-RAT
+     📝 A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is tar…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 tech-tonio-ai/Threat-Hunt-The-Helpdesk-Deception
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/tech-tonio-ai/Threat-Hunt-The-Helpdesk-Deception
+     📝 The Helpdesk Deception
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 Muaz1425/Malicious-Extension-admitab.com-
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/Muaz1425/Malicious-Extension-admitab.com-
+     📝 Writeup about investigation on finding malicious extension being installed on en…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 h970920/AI-Packet-Traffic-Risk-Reviewer
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/h970920/AI-Packet-Traffic-Risk-Reviewer
+     📝 민감한 PCAP 파일을 외부 서버에 업로드하지 않도록 Local Version과 Web Demo Version을 분리했습니다. 공개 Web De…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 clouseren-svg/microrobot-optical-tweezer
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/clouseren-svg/microrobot-optical-tweezer
+     📝 Machine Learning-Based Real-Time Localization and Automatic Trapping of Multiple…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_19
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_19
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 mr-srxl/EDR_Evasion
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/mr-srxl/EDR_Evasion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 anounymous68/Mostafa-tamime
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/anounymous68/Mostafa-tamime
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 tuanctk14/AgenticAI-TI
+     ⭐ 0  🗣 Python  📅 2026-05-07
+     🔗 https://github.com/tuanctk14/AgenticAI-TI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 SimoesCTT/CTT-enhanced-Dirty-Frag-exploit
+     ⭐ 0  🗣 C  📅 2026-05-08
+     🔗 https://github.com/SimoesCTT/CTT-enhanced-Dirty-Frag-exploit
+     📝 CTT Version: Dirty Frag — Universal Linux LPE (33-Layer Temporal Cascade)  CVE: …
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 fernandes8474-security/ciberseguranca-desafio-malware
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/fernandes8474-security/ciberseguranca-desafio-malware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 mr-srxl/Process-Injection
+     ⭐ 0  🗣 C  📅 2026-05-08
+     🔗 https://github.com/mr-srxl/Process-Injection
+     📝 Process injection techniques
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 sahims86/Shahim
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/sahims86/Shahim
+     📝 ## Hi, Shahim, Penetration tester 
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 ChristosKaldanis/Purple-Team-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/ChristosKaldanis/Purple-Team-Home-Lab
+     📝 Purple Team Assessment: Attack Simulation & Detection Engineering with Wazuh SIE…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 blackstreetlight/LLMHips
+     ⭐ 1  🗣 TypeScript  📅 2026-05-08
+     🔗 https://github.com/blackstreetlight/LLMHips
+     📝 Windows HIPS system with LLM-powered process threat analysis
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 gurudeepmallam-cmd/bugtrotter
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/gurudeepmallam-cmd/bugtrotter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 surahwold/PHANTOM
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/surahwold/PHANTOM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 ch0kan/windows-persistence-triage-reporter
+     ⭐ 0  🗣 PowerShell  📅 2026-05-08
+     🔗 https://github.com/ch0kan/windows-persistence-triage-reporter
+     📝 PowerShell triage tool that collects Windows persistence artifacts and generates…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 mmamon-maker/edrone-feed-checker
+     ⭐ 0  🗣 HTML  📅 2026-05-08
+     🔗 https://github.com/mmamon-maker/edrone-feed-checker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 amitsahoo0704/-Backup-and-Disaster-Recovery-BDR-
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/amitsahoo0704/-Backup-and-Disaster-Recovery-BDR-
+     📝 Continuesly collect telemetry from endpoint devices
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 ramazyant/EDRBO
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-08
+     🔗 https://github.com/ramazyant/EDRBO
+     📝 Original implementation for 'Ensemble Distributionally Robust Bayesian Optimisat…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 HZMonama/attack-vector-trading-cards
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/HZMonama/attack-vector-trading-cards
+     📝 A collectible educational card set for learning cybersecurity through adversaria…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 techdeepcode/cybersecurity-iam-proxy-interview-guide
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/techdeepcode/cybersecurity-iam-proxy-interview-guide
+     📝 (nessuna descrizione)
+     🏷  aws-iam, cloud-security, cybersecurity, gdpr, iam, incident-response, interview-support, oauth, proxy-interview, real-time-support, remote-support, siem, technical-interview, usa, zero-trust
+[2026-05-08 16:53:32 UTC] [NEW]   📦 shubhamdarmwal/Free-SOC-Learning-Path
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/shubhamdarmwal/Free-SOC-Learning-Path
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 SCPL-01/Pharma-Data-Guard-21-CFR
+     ⭐ 0  🗣 C#  📅 2026-05-08
+     🔗 https://github.com/SCPL-01/Pharma-Data-Guard-21-CFR
+     📝 A pharma compliance tool that disables copy, paste, cut & delete operations at t…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 Applywizz-git/applywizz-yamini-26199
+     ⭐ 0  🗣 TypeScript  📅 2026-05-08
+     🔗 https://github.com/Applywizz-git/applywizz-yamini-26199
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 neoqmin-pribit/pgEDRAgent
+     ⭐ 0  🗣 Objective-C  📅 2026-05-08
+     🔗 https://github.com/neoqmin-pribit/pgEDRAgent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 ProActive-B/ew-knowledge-base
+     ⭐ 0  🗣 TeX  📅 2026-05-08
+     🔗 https://github.com/ProActive-B/ew-knowledge-base
+     📝 Per-protocol monographs documenting the RF/electromagnetic-warfare attack surfac…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 vaishnavishinde0004/KeySentry-EDR
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/vaishnavishinde0004/KeySentry-EDR
+     📝 Enterprise-style Behavioral Threat Detection Dashboard with Real-Time Telemetry,…
+     🏷  —
+[2026-05-08 16:53:32 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-08 16:53:32 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-08 16:53:32 UTC] [INFO]   → 10 repository trovati in totale
+[2026-05-08 16:53:32 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-08 16:53:32 UTC] [NEW]   📦 thimslugga/kiro-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-05-08
+     🔗 https://github.com/thimslugga/kiro-sandbox
+     📝 Sandbox using bubblewrap for Kiro CLI
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 Ronit-Grover/hangover-ctf-wolfpack-deals
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/Ronit-Grover/hangover-ctf-wolfpack-deals
+     📝 CTF machine themed around The Hangover Part 1 — Blind SQLi, File Upload Bypass, …
+     🏷  —
+[2026-05-08 16:53:32 UTC] [NEW]   📦 meLostyears/darksword-kexploit
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/meLostyears/darksword-kexploit
+     📝 iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
+     🏷  —
+[2026-05-08 16:53:32 UTC] [INFO] ============================================================
+[2026-05-08 16:53:32 UTC] [INFO] Esecuzione completata — 43 nuovi repo trovati, 0 errori
+[2026-05-08 16:53:32 UTC] [INFO] ============================================================
