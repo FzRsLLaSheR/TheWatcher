@@ -2599,3 +2599,104 @@
 [2026-05-08 21:36:45 UTC] [INFO] ============================================================
 [2026-05-08 21:36:45 UTC] [INFO] Esecuzione completata — 24 nuovi repo trovati, 0 errori
 [2026-05-08 21:36:45 UTC] [INFO] ============================================================
+[2026-05-09 07:23:36 UTC] [INFO] ============================================================
+[2026-05-09 07:23:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-09 07:23:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-09 07:23:36 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-09 07:23:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-09 07:23:36 UTC] [INFO] ============================================================
+[2026-05-09 07:23:36 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-09 07:23:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-09 07:23:37 UTC] [INFO]   → 1 repository trovati in totale
+[2026-05-09 07:23:37 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-09 07:23:37 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-09 07:23:37 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-09 07:23:38 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-09 07:23:38 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-05-09 07:23:38 UTC] [NEW]   📦 makhembu/mcpub
+     ⭐ 0  🗣 TypeScript  📅 2026-05-09
+     🔗 https://github.com/makhembu/mcpub
+     📝 The npm for AI Tools — Registry, CLI, and security scanner for 1,574 MCP servers
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 DillanValor/sdl-timeline-rescue-
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/DillanValor/sdl-timeline-rescue-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 Mazukriez/Hydra-Orchestrator-Cybersecurity-Edition
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/Mazukriez/Hydra-Orchestrator-Cybersecurity-Edition
+     📝 Enterprise security operations pack with specialized agents for SOC, SIEM, vulne…
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 jayyanar/openclaw-elastic-aws-agentcore
+     ⭐ 2  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/jayyanar/openclaw-elastic-aws-agentcore
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 AnthonyVerdino99/AllAboutMe
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/AnthonyVerdino99/AllAboutMe
+     📝 Cybersecurity Adventure
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 lusca0x01/WebDAV-Malware-PoC
+     ⭐ 0  🗣 Batchfile  📅 2026-05-09
+     🔗 https://github.com/lusca0x01/WebDAV-Malware-PoC
+     📝 WebDAV-based multi-stage attack PoC for Windows systems. Shows URI handler explo…
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 Corgyy/EDR-Evasion-user-mode
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/Corgyy/EDR-Evasion-user-mode
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 Ahmad-Khallouf/Cybersecurity-Network-Engineering-Projects
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/Ahmad-Khallouf/Cybersecurity-Network-Engineering-Projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 Palmtree890/ESP-pentest-fw
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/Palmtree890/ESP-pentest-fw
+     📝 A micropython program on the micropython firmware that adds headless pentesting …
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 black-hak/feedmind
+     ⭐ 0  🗣 Go  📅 2026-05-08
+     🔗 https://github.com/black-hak/feedmind
+     📝 🧠 Open-source AI-powered RSS briefing — get a daily 5-min digest of CVEs, threat…
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 HolyChico/projeto-final-cyber-dio
+     ⭐ 0  🗣 Python  📅 2026-05-08
+     🔗 https://github.com/HolyChico/projeto-final-cyber-dio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 monaimm1230-star/edrive-privacy
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/monaimm1230-star/edrive-privacy
+     📝 Buy & sell energy peer-to-peer using blockchain technology in Pakistan
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 Laxarat07/NexarStealer-FUD
+     ⭐ 0  🗣 C++  📅 2026-05-08
+     🔗 https://github.com/Laxarat07/NexarStealer-FUD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 isom21/build-infomaniak
+     ⭐ 0  🗣 HCL  📅 2026-05-08
+     🔗 https://github.com/isom21/build-infomaniak
+     📝 builds claude enviroment with infomaniak deployment capabilities
+     🏷  —
+[2026-05-09 07:23:38 UTC] [NEW]   📦 sameernazneen/Security-Lab-Environment
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/sameernazneen/Security-Lab-Environment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 07:23:38 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-09 07:23:38 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-09 07:23:39 UTC] [INFO]   → 6 repository trovati in totale
+[2026-05-09 07:23:39 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-09 07:23:39 UTC] [NEW]   📦 sigma67m4n-art/yeya
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/sigma67m4n-art/yeya
+     📝 fork from fenrir
+     🏷  —
+[2026-05-09 07:23:39 UTC] [INFO] ============================================================
+[2026-05-09 07:23:39 UTC] [INFO] Esecuzione completata — 16 nuovi repo trovati, 0 errori
+[2026-05-09 07:23:39 UTC] [INFO] ============================================================
