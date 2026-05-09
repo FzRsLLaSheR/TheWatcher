@@ -2700,3 +2700,124 @@
 [2026-05-09 07:23:39 UTC] [INFO] ============================================================
 [2026-05-09 07:23:39 UTC] [INFO] Esecuzione completata — 16 nuovi repo trovati, 0 errori
 [2026-05-09 07:23:39 UTC] [INFO] ============================================================
+[2026-05-09 15:15:27 UTC] [INFO] ============================================================
+[2026-05-09 15:15:27 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-09 15:15:27 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-09 15:15:27 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-09 15:15:27 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-09 15:15:27 UTC] [INFO] ============================================================
+[2026-05-09 15:15:27 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-09 15:15:27 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-09 15:15:27 UTC] [INFO]   → 1 repository trovati in totale
+[2026-05-09 15:15:27 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-09 15:15:27 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-09 15:15:27 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-09 15:15:28 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-09 15:15:28 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-05-09 15:15:28 UTC] [NEW]   📦 EpSiLoNPoInTOrI/EpSiLoNPoInTlnk
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/EpSiLoNPoInTOrI/EpSiLoNPoInTlnk
+     📝  CVE-2026-21510 LNK generator PoC
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 mohamed-ai-sec/soc-auto-report-skill
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/mohamed-ai-sec/soc-auto-report-skill
+     📝 SOC Auto-Report Engine v3.1.0 — Principal-grade AI Skill for IR triage, MITRE AT…
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 xXMurallaXx/Enterprise-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/xXMurallaXx/Enterprise-SOC-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 ssa1004/security-log-search
+     ⭐ 0  🗣 Java  📅 2026-05-09
+     🔗 https://github.com/ssa1004/security-log-search
+     📝 SIEM 형태의 보안 로그 수집 / 검색 / 알람 플랫폼 (ECS / OCSF + OpenSearch + ClickHouse + Kafka + …
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 sammydowds/edr
+     ⭐ 0  🗣 TypeScript  📅 2026-05-09
+     🔗 https://github.com/sammydowds/edr
+     📝 A simple EDR PoC 
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 ischyr/rt-operations-center
+     ⭐ 0  🗣 JavaScript  📅 2026-05-09
+     🔗 https://github.com/ischyr/rt-operations-center
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 mvaleei/L3d4on6r4aa4ard45edryo12eer0ty2u6
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/mvaleei/L3d4on6r4aa4ard45edryo12eer0ty2u6
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 Israzuba0023/Malware-Analysis-Lab-DIO
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/Israzuba0023/Malware-Analysis-Lab-DIO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 jlangarica/Sys-Attack-HCG
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/jlangarica/Sys-Attack-HCG
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 jamunachi08/alphax_grc_v2_0_0
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/jamunachi08/alphax_grc_v2_0_0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 javaria-gul/WPBSAM-Process-Monitor
+     ⭐ 0  🗣 C++  📅 2026-05-09
+     🔗 https://github.com/javaria-gul/WPBSAM-Process-Monitor
+     📝 A Real-Time Heuristic EDR Monitor built in C++
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 armagankaratosun/edr-xarray
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/armagankaratosun/edr-xarray
+     📝 Custom xarray backend for Environmental Data Retrieval (EDR) API 
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 IfanClarke1/Security-Notes
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/IfanClarke1/Security-Notes
+     📝 Here are my notes for the Security+ certificate that I am intending on sitting i…
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 Bumchic/BasicEDR
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/Bumchic/BasicEDR
+     📝 Creating a basic EDR with core function
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 Ed31an/Baladad-Edrian---Coin-Collection-Activity-5-
+     ⭐ 0  🗣 ShaderLab  📅 2026-05-09
+     🔗 https://github.com/Ed31an/Baladad-Edrian---Coin-Collection-Activity-5-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 AshikAhmed007/RedTeamOps_Projects
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/AshikAhmed007/RedTeamOps_Projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 MinLouisCyber/ransomware-entropy-detector
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/MinLouisCyber/ransomware-entropy-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 arafatomer66/what-actually-is-fullstack
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/arafatomer66/what-actually-is-fullstack
+     📝 A reference menu of the real software engineering stack — 28 categories, ~400 it…
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 prestanawa/edr_ll8s
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/prestanawa/edr_ll8s
+     📝 Cherish every moment with those around you; let love and support become the corn…
+     🏷  —
+[2026-05-09 15:15:28 UTC] [NEW]   📦 Palcheen02/Stealth-Telegram-C2-Framework-with-Audio-Surveillance-for-Firewall-Evasion
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/Palcheen02/Stealth-Telegram-C2-Framework-with-Audio-Surveillance-for-Firewall-Evasion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 15:15:28 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-09 15:15:28 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-09 15:15:29 UTC] [INFO]   → 6 repository trovati in totale
+[2026-05-09 15:15:29 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-09 15:15:29 UTC] [INFO] ============================================================
+[2026-05-09 15:15:29 UTC] [INFO] Esecuzione completata — 20 nuovi repo trovati, 0 errori
+[2026-05-09 15:15:29 UTC] [INFO] ============================================================
