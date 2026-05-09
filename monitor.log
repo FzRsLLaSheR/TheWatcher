@@ -2821,3 +2821,159 @@
 [2026-05-09 15:15:29 UTC] [INFO] ============================================================
 [2026-05-09 15:15:29 UTC] [INFO] Esecuzione completata — 20 nuovi repo trovati, 0 errori
 [2026-05-09 15:15:29 UTC] [INFO] ============================================================
+[2026-05-09 20:10:04 UTC] [INFO] ============================================================
+[2026-05-09 20:10:04 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-09 20:10:04 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-09 20:10:04 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-09 20:10:04 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-09 20:10:04 UTC] [INFO] ============================================================
+[2026-05-09 20:10:04 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-09 20:10:04 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-09 20:10:04 UTC] [INFO]   → 1 repository trovati in totale
+[2026-05-09 20:10:04 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-09 20:10:04 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-09 20:10:04 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-09 20:10:05 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-09 20:10:05 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-05-09 20:10:05 UTC] [NEW]   📦 archana1122m/HexaGuard-EDR
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/archana1122m/HexaGuard-EDR
+     📝 Advanced behavioral EDR platform for detecting suspicious processes, encoded Pow…
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 JackobAssis/ransomware_lab
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/JackobAssis/ransomware_lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 igorbravim25/Simulador_Malware_Educacional
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/igorbravim25/Simulador_Malware_Educacional
+     📝 Este projeto tem como objetivo demonstrar, na prática, o funcionamento de duas d…
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 ransolo33iq/pelos
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/ransolo33iq/pelos
+     📝 PELOS - Advanced AI-Powered Penetration Testing Framework | Multi-language (Pyth…
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 Aaryam-7d6/SentriAI
+     ⭐ 0  🗣 HTML  📅 2026-05-09
+     🔗 https://github.com/Aaryam-7d6/SentriAI
+     📝 Open-source local endpoint security agent — monitors system behaviour, detects a…
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 MyuriKanao/src-hunter-skill
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/MyuriKanao/src-hunter-skill
+     📝 实战 SRC / 众测 / Bug bounty 漏洞挖掘 Claude Code skill — 19 个攻击类 playbook、305 个结构化 payl…
+     🏷  bug-bounty, claude-code, claude-code-skill, hackerone, owasp, payloads, pentesting, red-team, security, src, vulnerability-hunting, waf-bypass
+[2026-05-09 20:10:05 UTC] [NEW]   📦 Amybaekay/ransomware-incident-investigation
+     ⭐ 1  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/Amybaekay/ransomware-incident-investigation
+     📝 Incidence response case study focused on ransomware investigation, phishing anal…
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 rootdz1337/ps1dzloader
+     ⭐ 0  🗣 C++  📅 2026-05-09
+     🔗 https://github.com/rootdz1337/ps1dzloader
+     📝 ps1dzloader bypass all av with easy Av Blinding Method Downlaoder + Loader 
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 Neerajupadhayay2004/Incident-Response-Simulation-AlfidoTech-Task-04
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/Neerajupadhayay2004/Incident-Response-Simulation-AlfidoTech-Task-04
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 edrock10754/edrock-frontend
+     ⭐ 0  🗣 JavaScript  📅 2026-05-09
+     🔗 https://github.com/edrock10754/edrock-frontend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 rootdz1337/apcjocker
+     ⭐ 0  🗣 C++  📅 2026-05-09
+     🔗 https://github.com/rootdz1337/apcjocker
+     📝 apc injection smart kit 
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 farhanss3/ThreatDetectionPlatform
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/farhanss3/ThreatDetectionPlatform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 xXMurallaXx/OpenSentry-SOAR
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/xXMurallaXx/OpenSentry-SOAR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 ruudeAI/ruudeAI
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/ruudeAI/ruudeAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 cristhina23/edredones-express
+     ⭐ 0  🗣 Svelte  📅 2026-05-09
+     🔗 https://github.com/cristhina23/edredones-express
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 uzairdeveloper223/LightPods
+     ⭐ 0  🗣 Kotlin  📅 2026-05-09
+     🔗 https://github.com/uzairdeveloper223/LightPods
+     📝 Material You companion app for AirPods Pro clones
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 kuroru2/homebrew-fnlightswitch
+     ⭐ 0  🗣 Ruby  📅 2026-05-09
+     🔗 https://github.com/kuroru2/homebrew-fnlightswitch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 lisamorenoit/Ramsomware-LabTest
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/lisamorenoit/Ramsomware-LabTest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 vini-olv123/desafio-keylogger-dio
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/vini-olv123/desafio-keylogger-dio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 edrier-eng/edrier-eng.github.io
+     ⭐ 0  🗣 N/A  📅 2026-05-08
+     🔗 https://github.com/edrier-eng/edrier-eng.github.io
+     📝 Created from HugoBlox Premium template: research-lab
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 usercode-admin/Learn-about-basic-malware
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/usercode-admin/Learn-about-basic-malware
+     📝 Source code and technical documentation for malware research and defensive strat…
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 strawberry-09/CLI-osint-tool
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/strawberry-09/CLI-osint-tool
+     📝 CLI tool for automated IOC triage — queries VirusTotal, Shodan, AbuseIPDB, and U…
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 seginfowell-star/Simulando-comportamento-de-Maweres-com-Python---Educativo-.
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/seginfowell-star/Simulando-comportamento-de-Maweres-com-Python---Educativo-.
+     📝  Projeto prático utilizando Python, simulando o comportamento de malwares em um …
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 DRT23-mod/hardhat-playground
+     ⭐ 0  🗣 TypeScript  📅 2026-05-09
+     🔗 https://github.com/DRT23-mod/hardhat-playground
+     📝 Hardhat development environment with TypeScript, gas reporting and full test cov…
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 AlanStacholski/leviathan-dna
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/AlanStacholski/leviathan-dna
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-09 20:10:05 UTC] [NEW]   📦 cdburgess75/cleansweep
+     ⭐ 0  🗣 PowerShell  📅 2026-05-08
+     🔗 https://github.com/cdburgess75/cleansweep
+     📝 Dave's Cleansweep
+     🏷  —
+[2026-05-09 20:10:05 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-09 20:10:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-09 20:10:06 UTC] [INFO]   → 7 repository trovati in totale
+[2026-05-09 20:10:06 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-09 20:10:06 UTC] [NEW]   📦 h0mi3e/centipede
+     ⭐ 0  🗣 Go  📅 2026-05-09
+     🔗 https://github.com/h0mi3e/centipede
+     📝 Self-replicating Linux worm framework with multi-layer C2, kernel LPE exploits, …
+     🏷  —
+[2026-05-09 20:10:06 UTC] [INFO] ============================================================
+[2026-05-09 20:10:06 UTC] [INFO] Esecuzione completata — 27 nuovi repo trovati, 0 errori
+[2026-05-09 20:10:06 UTC] [INFO] ============================================================
