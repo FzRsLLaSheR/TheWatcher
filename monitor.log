@@ -3294,3 +3294,129 @@
 [2026-05-10 15:33:15 UTC] [INFO] ============================================================
 [2026-05-10 15:33:15 UTC] [INFO] Esecuzione completata — 21 nuovi repo trovati, 0 errori
 [2026-05-10 15:33:15 UTC] [INFO] ============================================================
+[2026-05-10 20:32:16 UTC] [INFO] ============================================================
+[2026-05-10 20:32:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-10 20:32:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-10 20:32:16 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-10 20:32:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-10 20:32:16 UTC] [INFO] ============================================================
+[2026-05-10 20:32:16 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-10 20:32:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-10 20:32:17 UTC] [INFO]   → 2 repository trovati in totale
+[2026-05-10 20:32:17 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-10 20:32:17 UTC] [NEW]   📦 swavezx/RingShift
+     ⭐ 0  🗣 C++  📅 2026-05-10
+     🔗 https://github.com/swavezx/RingShift
+     📝 Driverless kernel memory framework using an SSDT proxy and PreviousMode patch.
+     🏷  —
+[2026-05-10 20:32:17 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-10 20:32:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-10 20:32:18 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-10 20:32:18 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-05-10 20:32:18 UTC] [NEW]   📦 jprandrade97/malware_python
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/jprandrade97/malware_python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 ma-data-view/2026-tm-article-53-decision-aid
+     ⭐ 0  🗣 HTML  📅 2026-05-10
+     🔗 https://github.com/ma-data-view/2026-tm-article-53-decision-aid
+     📝 Decision aid for Article 53 - 2026 Town Meeting
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 Yedidia-Bakuradze/mem-forensics-analysis
+     ⭐ 0  🗣 C  📅 2026-05-10
+     🔗 https://github.com/Yedidia-Bakuradze/mem-forensics-analysis
+     📝 A PoC implementation for the CVE-2025-20700 attack 
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 Amybaekay/risk-assessment
+     ⭐ 1  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/Amybaekay/risk-assessment
+     📝  Cybersecurity Risk Assessment
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 bighound/SanctuarysGate
+     ⭐ 0  🗣 C++  📅 2026-05-10
+     🔗 https://github.com/bighound/SanctuarysGate
+     📝 Beyond Hell and Halos: Descend through the Sanctuary's Gate to EDR evasion
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 Heritu/Atividade_DIO_Ciberseguranca
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/Heritu/Atividade_DIO_Ciberseguranca
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 njaved96-eng/Enterprise_ECommerce_Infrastructure_Security_Assessment
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/njaved96-eng/Enterprise_ECommerce_Infrastructure_Security_Assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 hydra123311/screensharemogger
+     ⭐ 1  🗣 C++  📅 2026-05-10
+     🔗 https://github.com/hydra123311/screensharemogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 carolinanegreiros/malware-simulation-lab
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/carolinanegreiros/malware-simulation-lab
+     📝 Laboratório prático de simulação de malwares (Keylogger e Ransomware) em Python,…
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 mengoh-quandry/Intezer-Detection-Library
+     ⭐ 0  🗣 YARA  📅 2026-05-10
+     🔗 https://github.com/mengoh-quandry/Intezer-Detection-Library
+     📝 Curated detection rule library with validated Sigma rules, MITRE ATT&CK mappings…
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 itaybechor389-sudo/WinEDR
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/itaybechor389-sudo/WinEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 RedV1sion/Healthcare-GRC-Program
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/RedV1sion/Healthcare-GRC-Program
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 MeinardEdrei/MeinardEdrei
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/MeinardEdrei/MeinardEdrei
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 marcelopastorini-dev/cyberseguran-a
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/marcelopastorini-dev/cyberseguran-a
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 PabloSherlock/Simulando-Malware-Captura-dados--DIO
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/PabloSherlock/Simulando-Malware-Captura-dados--DIO
+     📝 Simulado de malware para captura de dados simples em python
+     🏷  —
+[2026-05-10 20:32:18 UTC] [NEW]   📦 ganesh7827/AI-agent-security
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/ganesh7827/AI-agent-security
+     📝 Securing AI agents
+     🏷  —
+[2026-05-10 20:32:18 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-10 20:32:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-10 20:32:19 UTC] [INFO]   → 9 repository trovati in totale
+[2026-05-10 20:32:19 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-05-10 20:32:19 UTC] [NEW]   📦 gprocunier/gprocunier
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/gprocunier/gprocunier
+     📝 GitHub profile README for Greg Procunier
+     🏷  —
+[2026-05-10 20:32:19 UTC] [NEW]   📦 ekomsSavior/Centipede
+     ⭐ 2  🗣 Go  📅 2026-05-10
+     🔗 https://github.com/ekomsSavior/Centipede
+     📝 Self-replicating Linux worm with multi-layer C2 coms
+     🏷  —
+[2026-05-10 20:32:19 UTC] [NEW]   📦 rakshit-pavagadhi/code-engine
+     ⭐ 0  🗣 CSS  📅 2026-05-10
+     🔗 https://github.com/rakshit-pavagadhi/code-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 20:32:19 UTC] [NEW]   📦 sudo-bautista-johansson/Ethical-Hacking-Tooling
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/sudo-bautista-johansson/Ethical-Hacking-Tooling
+     📝 This are Ethical Hacking Tooling, this means that MUST be used in VM-Labs such u…
+     🏷  —
+[2026-05-10 20:32:19 UTC] [INFO] ============================================================
+[2026-05-10 20:32:19 UTC] [INFO] Esecuzione completata — 21 nuovi repo trovati, 0 errori
+[2026-05-10 20:32:19 UTC] [INFO] ============================================================
