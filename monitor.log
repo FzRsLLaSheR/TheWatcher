@@ -2977,3 +2977,194 @@
 [2026-05-09 20:10:06 UTC] [INFO] ============================================================
 [2026-05-09 20:10:06 UTC] [INFO] Esecuzione completata — 27 nuovi repo trovati, 0 errori
 [2026-05-09 20:10:06 UTC] [INFO] ============================================================
+[2026-05-10 07:49:48 UTC] [INFO] ============================================================
+[2026-05-10 07:49:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-10 07:49:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-10 07:49:48 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-10 07:49:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-10 07:49:48 UTC] [INFO] ============================================================
+[2026-05-10 07:49:48 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-10 07:49:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-10 07:49:49 UTC] [INFO]   → 1 repository trovati in totale
+[2026-05-10 07:49:49 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-10 07:49:49 UTC] [NEW]   📦 EitaPreulaJhol/UDDB2B6-Writeup
+     ⭐ 0  🗣 C  📅 2026-05-09
+     🔗 https://github.com/EitaPreulaJhol/UDDB2B6-Writeup
+     📝 A simple writeup of an driver found in the LOLDrivers repository.
+     🏷  byovd, driver-analysis, loldrivers, reverse-engineering, vulnerable-driver, windows-kernel
+[2026-05-10 07:49:49 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-10 07:49:49 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-10 07:49:50 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-10 07:49:50 UTC] [NEW]   🆕 31 NUOVI repository:
+[2026-05-10 07:49:50 UTC] [NEW]   📦 thecnical/nexus-void
+     ⭐ 0  🗣 Go  📅 2026-05-09
+     🔗 https://github.com/thecnical/nexus-void
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 m3rcury3/threat-modeling
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/m3rcury3/threat-modeling
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 ZpjDev/Aluer
+     ⭐ 1  🗣 Java  📅 2026-05-10
+     🔗 https://github.com/ZpjDev/Aluer
+     📝 A Cypersecurity system designed for PaperMC minecraft server.
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 BubenD/Edraw
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/BubenD/Edraw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 caijuren/SecMind
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/caijuren/SecMind
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 skynet-icox11/Malware-RAT-Tools
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/skynet-icox11/Malware-RAT-Tools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 ryojihido/Invisible-Payload-Scanner
+     ⭐ 0  🗣 PowerShell  📅 2026-05-10
+     🔗 https://github.com/ryojihido/Invisible-Payload-Scanner
+     📝 Windows local Web UI for detecting GlassWorm-style invisible Unicode payloads be…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 skynet-icox11/Malware-Threats-Repo
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/skynet-icox11/Malware-Threats-Repo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 dustycheeto/cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/dustycheeto/cybersecurity-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 pranay-root/revpdf
+     ⭐ 1  🗣 Shell  📅 2026-05-09
+     🔗 https://github.com/pranay-root/revpdf
+     📝 RevPDF is windows based wrapper which injects undetectable payload for pentestin…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 afnanalsaleem7/Cybersecurity-Research
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/afnanalsaleem7/Cybersecurity-Research
+     📝 This project provides a comprehensive study of OSSEC (Open Source HIDS SECurity)…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 dsenazah/homelab360-m365-security
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/dsenazah/homelab360-m365-security
+     📝 Microsoft 365 E5 security project — Entra ID, Intune, Defender XDR, Sentinel, Pu…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 brunoeduardocds/Desafio-Cyber
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/brunoeduardocds/Desafio-Cyber
+     📝 Desafio final do curso de Cybersecurit da Dio me
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 SumanthKola/SumanthKola
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/SumanthKola/SumanthKola
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 victorIp01/python-malware-simulation
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/victorIp01/python-malware-simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 SumanthKola/Project-CyberWatch-SOC-Infrastructure-Unified-EDR-Deployment
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/SumanthKola/Project-CyberWatch-SOC-Infrastructure-Unified-EDR-Deployment
+     📝 A full-scale SOC Engineering lab. Built a centralized SIEM pipeline (Linux) to m…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 EliasJose1980/Ransomware-e-Keylogger
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/EliasJose1980/Ransomware-e-Keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 Jcapreol/sentinel
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/Jcapreol/sentinel
+     📝 Open-source multi-agent AI SOC analyst. Drop in an alert, get a defensible verdi…
+     🏷  ai, cybersecurity, open-source, python, soc, threat-hunting
+[2026-05-10 07:49:50 UTC] [NEW]   📦 IyaboUwadiae/OSINT-Threat-Intelligence-Assessment
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/IyaboUwadiae/OSINT-Threat-Intelligence-Assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 dan-th1/Cybersecurity-Attacks-Demo
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/dan-th1/Cybersecurity-Attacks-Demo
+     📝 Projeto educacional em Python que simula comportamentos de malware (ransomware e…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 Jcapreol/soc-hunting-playbook
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/Jcapreol/soc-hunting-playbook
+     📝 Professional SOC threat hunting playbook covering 10 MITRE ATT&CK techniques wit…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 rafa-crypt0/desafios-ciberseguranca-python
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/rafa-crypt0/desafios-ciberseguranca-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 ugbomakyrian5-web/windows-threat-detection-2
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/ugbomakyrian5-web/windows-threat-detection-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 960hersi/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/960hersi/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 Dpadilla85/Alert-Rule-for-Suspicious-Web-Request-Powershell-
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/Dpadilla85/Alert-Rule-for-Suspicious-Web-Request-Powershell-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 busi07k/busi07k
+     ⭐ 0  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/busi07k/busi07k
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 Felix-Oliveira/dio-simulando-um-malware
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/Felix-Oliveira/dio-simulando-um-malware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 JimmyDevvvvv/SOC-Sanitizer
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/JimmyDevvvvv/SOC-Sanitizer
+     📝 A professional-grade security log sanitization tool for Security Operations Cent…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 archana1122m/HexaGuard-EDR
+     ⭐ 0  🗣 Python  📅 2026-05-09
+     🔗 https://github.com/archana1122m/HexaGuard-EDR
+     📝 Advanced behavioral Endpoint Detection and Response (EDR) platform for real-time…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 darioomatos/linux-cgroups-lab
+     ⭐ 1  🗣 Shell  📅 2026-05-09
+     🔗 https://github.com/darioomatos/linux-cgroups-lab
+     📝 Linux Cgroups hardening
+     🏷  cgroups, hardening, linux, shell, systemd
+[2026-05-10 07:49:50 UTC] [NEW]   📦 AdityaBhatt3010/SOC-Workbooks-and-Lookups
+     ⭐ 1  🗣 N/A  📅 2026-05-09
+     🔗 https://github.com/AdityaBhatt3010/SOC-Workbooks-and-Lookups
+     📝 SOC Workbook Lookups, Alert Enrichment, Asset & Identity Investigation: Practica…
+     🏷  cybersecurity, soc, thm, tryhackme, tryhackme-writeups, workbook
+[2026-05-10 07:49:50 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-10 07:49:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-10 07:49:50 UTC] [INFO]   → 4 repository trovati in totale
+[2026-05-10 07:49:50 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-10 07:49:50 UTC] [NEW]   📦 metalx1993/kernel-exploit-intelligence
+     ⭐ 0  🗣 Shell  📅 2026-05-10
+     🔗 https://github.com/metalx1993/kernel-exploit-intelligence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 07:49:50 UTC] [NEW]   📦 mrinterweb/devcontainer-egress
+     ⭐ 0  🗣 Shell  📅 2026-05-09
+     🔗 https://github.com/mrinterweb/devcontainer-egress
+     📝 Hostname-allowlist egress proxy for sandboxed dev environments running coding ag…
+     🏷  —
+[2026-05-10 07:49:50 UTC] [INFO] ============================================================
+[2026-05-10 07:49:50 UTC] [INFO] Esecuzione completata — 34 nuovi repo trovati, 0 errori
+[2026-05-10 07:49:50 UTC] [INFO] ============================================================
