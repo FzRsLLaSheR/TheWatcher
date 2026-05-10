@@ -3168,3 +3168,129 @@
 [2026-05-10 07:49:50 UTC] [INFO] ============================================================
 [2026-05-10 07:49:50 UTC] [INFO] Esecuzione completata — 34 nuovi repo trovati, 0 errori
 [2026-05-10 07:49:50 UTC] [INFO] ============================================================
+[2026-05-10 15:33:13 UTC] [INFO] ============================================================
+[2026-05-10 15:33:13 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-10 15:33:13 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-10 15:33:13 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-10 15:33:13 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-10 15:33:13 UTC] [INFO] ============================================================
+[2026-05-10 15:33:13 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-10 15:33:13 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-10 15:33:13 UTC] [INFO]   → 1 repository trovati in totale
+[2026-05-10 15:33:13 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-10 15:33:13 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-10 15:33:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-10 15:33:14 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-10 15:33:14 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-05-10 15:33:14 UTC] [NEW]   📦 Null0x47/entra-blue-teamers-guide
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/Null0x47/entra-blue-teamers-guide
+     📝 The Blue-Teamer's Guide to Entra ID
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 AhmedCoolProjects/PIDSMakerMine
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/AhmedCoolProjects/PIDSMakerMine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 childrenbill-jpg/nov-md-totco-guia
+     ⭐ 0  🗣 HTML  📅 2026-05-09
+     🔗 https://github.com/childrenbill-jpg/nov-md-totco-guia
+     📝 Referencias 
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 NathanOliboni/Simulacao-Ransomware-e-Keylogger-Python-
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/NathanOliboni/Simulacao-Ransomware-e-Keylogger-Python-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 stonedhawk/gacha-odds-pity-auditor
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/stonedhawk/gacha-odds-pity-auditor
+     📝 An AI-powered auditor for game economy designers to simulate gacha probabilities…
+     🏷  gacha, game-design, game-development, game-economy, monetization, probability
+[2026-05-10 15:33:14 UTC] [NEW]   📦 iotwufei/mirror_image
+     ⭐ 0  🗣 Swift  📅 2026-05-10
+     🔗 https://github.com/iotwufei/mirror_image
+     📝 专门为影像测试打造的对比软件
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 HyperVetted/ad-chaos-agent-v1
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/HyperVetted/ad-chaos-agent-v1
+     📝 A controlled break-and-fix Active Directory homelab using Windows Server 2022 an…
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 shivamsuyal/Rubeus-master
+     ⭐ 0  🗣 C#  📅 2026-05-10
+     🔗 https://github.com/shivamsuyal/Rubeus-master
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 Mahdi-Arashian/Mahdi-Arashian
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/Mahdi-Arashian/Mahdi-Arashian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 rdmgator12/Gemini-Awesome-List-
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/rdmgator12/Gemini-Awesome-List-
+     📝 A curated directory of every extension and connected app across Gemini's two int…
+     🏷  ai, awesome, awesome-list, directory, gemini, gemini-cli, gemini-extensions, google, google-ai, llm, mcp
+[2026-05-10 15:33:14 UTC] [NEW]   📦 ondrejnebus/PredictionDuel
+     ⭐ 0  🗣 TypeScript  📅 2026-05-10
+     🔗 https://github.com/ondrejnebus/PredictionDuel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 akinosora501/ursus-micro-edr
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/akinosora501/ursus-micro-edr
+     📝 This is a small EDR project for education.
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 mohamed-ai-sec/soc-ai-systems
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/mohamed-ai-sec/soc-ai-systems
+     📝 Turning repetitive SOC operations into drop-in AI systems using SKILL.md, AI age…
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 Chrismontin/EDR-System
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/Chrismontin/EDR-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 plumi-cyber/mcp-security-tools
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/plumi-cyber/mcp-security-tools
+     📝 An MCP server exposing security tools to an AI agent: auth log parsing and IP re…
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 zwleoapp/Lunar_ice
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/zwleoapp/Lunar_ice
+     📝 Lunar_ice Explorer on DB
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 monulp/sentinel-soc-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/monulp/sentinel-soc-home-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 KiwKNR/Pentest-Vault
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/KiwKNR/Pentest-Vault
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:14 UTC] [NEW]   📦 eshginallahverdiyev/SOC-Honeypot-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/eshginallahverdiyev/SOC-Honeypot-Lab
+     📝 A hands-on SOC lab featuring a Cowrie SSH honeypot monitored by Splunk SIEM. Inc…
+     🏷  blue-team, cowrie, cybersecurity, honeypot, hydra, rocky-linux, siem, soc, splunk, threat-detection
+[2026-05-10 15:33:14 UTC] [NEW]   📦 UXCentury/spy-detector
+     ⭐ 0  🗣 TypeScript  📅 2026-05-09
+     🔗 https://github.com/UXCentury/spy-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:14 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-10 15:33:14 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-10 15:33:15 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-10 15:33:15 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-10 15:33:15 UTC] [NEW]   📦 amir58/Mobile-Security-Architect-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/amir58/Mobile-Security-Architect-Roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-10 15:33:15 UTC] [INFO] ============================================================
+[2026-05-10 15:33:15 UTC] [INFO] Esecuzione completata — 21 nuovi repo trovati, 0 errori
+[2026-05-10 15:33:15 UTC] [INFO] ============================================================
