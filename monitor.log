@@ -3681,3 +3681,144 @@
 [2026-05-11 11:48:35 UTC] [INFO] ============================================================
 [2026-05-11 11:48:35 UTC] [INFO] Esecuzione completata — 48 nuovi repo trovati, 0 errori
 [2026-05-11 11:48:35 UTC] [INFO] ============================================================
+[2026-05-11 18:24:28 UTC] [INFO] ============================================================
+[2026-05-11 18:24:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-11 18:24:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-11 18:24:28 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-11 18:24:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-11 18:24:28 UTC] [INFO] ============================================================
+[2026-05-11 18:24:28 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-11 18:24:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-11 18:24:29 UTC] [INFO]   → 4 repository trovati in totale
+[2026-05-11 18:24:29 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-11 18:24:29 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-11 18:24:29 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-11 18:24:30 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-11 18:24:30 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-05-11 18:24:30 UTC] [NEW]   📦 praveshini/StarBird
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/praveshini/StarBird
+     📝 Early Bird gets the worm (at least here in this case).
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 wh0ami-hash/wazuh-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/wh0ami-hash/wazuh-lab
+     📝 Домашний SOC с использованием установки Wazuh Server через Docker Compose 
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 ButItWorkz/SolenyaIntegrityEngine
+     ⭐ 1  🗣 PowerShell  📅 2026-05-11
+     🔗 https://github.com/ButItWorkz/SolenyaIntegrityEngine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 joelwilliam2005/kubearmor-linux-edr
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/joelwilliam2005/kubearmor-linux-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 premwadhwani24/Cognitive_Pre-Encryption_Ransomware_Defense_Framework
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/premwadhwani24/Cognitive_Pre-Encryption_Ransomware_Defense_Framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 SobralCybersec/XOREncryptTool
+     ⭐ 1  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/SobralCybersec/XOREncryptTool
+     📝 Advanced cybersecurity research project focused on Windows internals, cryptograp…
+     🏷  assembly, c, low-level, python, xor, xor-encryption, yara
+[2026-05-11 18:24:30 UTC] [NEW]   📦 wremad/Adaptix-EDR-Recon
+     ⭐ 1  🗣 C  📅 2026-05-11
+     🔗 https://github.com/wremad/Adaptix-EDR-Recon
+     📝 EDR / AV Enumeration BOF for Adaptix C2 using Windows Service Control Manager (S…
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 kennethcmc/OnPerm-Infra
+     ⭐ 0  🗣 HCL  📅 2026-05-11
+     🔗 https://github.com/kennethcmc/OnPerm-Infra
+     📝 OnPerm-Infra
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 luckyblake02-svg/s1_compliance
+     ⭐ 0  🗣 PowerShell  📅 2026-05-11
+     🔗 https://github.com/luckyblake02-svg/s1_compliance
+     📝 Check Active Directory and SentinelOne for devices missing EDR. Can be rewritten…
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 AlizehNirmal/CCTV-Network-Traffic-Analysis-and-Security-System-
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/AlizehNirmal/CCTV-Network-Traffic-Analysis-and-Security-System-
+     📝 This project secures a Python/OpenCV video stream by using Snort for strict IP-t…
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 ArronJablonowski/SOCCOM
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/ArronJablonowski/SOCCOM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 grauwolf32/stratsession
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/grauwolf32/stratsession
+     📝 Usefull tools, articles about application & cyber security
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 ODamDam/malware-analysis-detection-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/ODamDam/malware-analysis-detection-portfolio
+     📝 portfolio for malware analysis detection
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 cyr6x/metasploit-exploitation-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/cyr6x/metasploit-exploitation-lab
+     📝 Metasploit exploitation basics lab — vsftpd backdoor, privilege escalation & def…
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 chithralekhamp/Keylogger
+     ⭐ 0  🗣 HTML  📅 2026-05-11
+     🔗 https://github.com/chithralekhamp/Keylogger
+     📝 A functional security research tool designed to demonstrate the mechanics of inp…
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 kaven17/AttackWeaver
+     ⭐ 0  🗣 TypeScript  📅 2026-05-11
+     🔗 https://github.com/kaven17/AttackWeaver
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 DainArtz/n8n-nodes-gravityzone
+     ⭐ 0  🗣 TypeScript  📅 2026-05-11
+     🔗 https://github.com/DainArtz/n8n-nodes-gravityzone
+     📝 Custom n8n node which models the Bitdefender GravityZone public API
+     🏷  bitdefender, gravityzone, n8n, n8n-community-node-package, n8n-node
+[2026-05-11 18:24:30 UTC] [NEW]   📦 BHUVAN2525/AI_Hackers_Complete_Beginners_Guide
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/BHUVAN2525/AI_Hackers_Complete_Beginners_Guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 KHAIRIBO/edropo
+     ⭐ 0  🗣 PHP  📅 2026-05-11
+     🔗 https://github.com/KHAIRIBO/edropo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 yashlingayat23/BridgeKey-Technologies
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/yashlingayat23/BridgeKey-Technologies
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 kabuyebrian/EDRINE-
+     ⭐ 0  🗣 HTML  📅 2026-05-11
+     🔗 https://github.com/kabuyebrian/EDRINE-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:30 UTC] [NEW]   📦 ph7klw76/HessFit
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/ph7klw76/HessFit
+     📝 Performing Hessian FIT based on QM calculation
+     🏷  —
+[2026-05-11 18:24:30 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-11 18:24:30 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-11 18:24:31 UTC] [INFO]   → 13 repository trovati in totale
+[2026-05-11 18:24:31 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-11 18:24:31 UTC] [NEW]   📦 encrypted-execution/encrypted-linux
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/encrypted-execution/encrypted-linux
+     📝 A Linux distribution built with a scrambling GCC, such that programs built outsi…
+     🏷  —
+[2026-05-11 18:24:31 UTC] [NEW]   📦 xiangfeidexiaohuo/ioslara
+     ⭐ 0  🗣 Swift  📅 2026-05-11
+     🔗 https://github.com/xiangfeidexiaohuo/ioslara
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 18:24:31 UTC] [INFO] ============================================================
+[2026-05-11 18:24:31 UTC] [INFO] Esecuzione completata — 24 nuovi repo trovati, 0 errori
+[2026-05-11 18:24:31 UTC] [INFO] ============================================================
