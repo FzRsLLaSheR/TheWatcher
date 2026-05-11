@@ -3420,3 +3420,264 @@
 [2026-05-10 20:32:19 UTC] [INFO] ============================================================
 [2026-05-10 20:32:19 UTC] [INFO] Esecuzione completata — 21 nuovi repo trovati, 0 errori
 [2026-05-10 20:32:19 UTC] [INFO] ============================================================
+[2026-05-11 11:48:32 UTC] [INFO] ============================================================
+[2026-05-11 11:48:32 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-11 11:48:32 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-11 11:48:32 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-11 11:48:32 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-11 11:48:32 UTC] [INFO] ============================================================
+[2026-05-11 11:48:32 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-11 11:48:32 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-11 11:48:33 UTC] [INFO]   → 4 repository trovati in totale
+[2026-05-11 11:48:33 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-11 11:48:33 UTC] [NEW]   📦 Liuxunzhang/BYOVD
+     ⭐ 0  🗣 PowerShell  📅 2026-05-11
+     🔗 https://github.com/Liuxunzhang/BYOVD
+     📝 test
+     🏷  —
+[2026-05-11 11:48:33 UTC] [NEW]   📦 ez4Houdini/Pool_Inject_Varient1
+     ⭐ 0  🗣 C++  📅 2026-05-11
+     🔗 https://github.com/ez4Houdini/Pool_Inject_Varient1
+     📝 TpWorkerFactory
+     🏷  —
+[2026-05-11 11:48:33 UTC] [NEW]   📦 ez4Houdini/AVKillerAndBYOVD
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/ez4Houdini/AVKillerAndBYOVD
+     📝 some techniques about injections and exploit Vulnerable Drivers
+     🏷  —
+[2026-05-11 11:48:33 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-11 11:48:33 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-11 11:48:34 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-11 11:48:34 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Sicaridae/Stru_pipeline
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/Sicaridae/Stru_pipeline
+     📝 Pipeline for a structural bioinformatics project
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 zdnemz/shardveil-contract
+     ⭐ 0  🗣 Solidity  📅 2026-05-11
+     🔗 https://github.com/zdnemz/shardveil-contract
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Inferensys/northwall
+     ⭐ 0  🗣 TypeScript  📅 2026-05-11
+     🔗 https://github.com/Inferensys/northwall
+     📝 GitHub-native multi-agent AppSec orchestration for owned repositories
+     🏷  ai-agents, appsec, code-security, github, multi-agent, security, vulnerability-management
+[2026-05-11 11:48:34 UTC] [NEW]   📦 0xelitesystem/incident-response-runbooks
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/0xelitesystem/incident-response-runbooks
+     📝 Ten incident response runbooks following a common skeleton: trigger, immediate, …
+     🏷  account-takeover, breach-response, ddos, incident-response, on-call, playbook, ransomware, runbooks, security-operations, soc
+[2026-05-11 11:48:34 UTC] [NEW]   📦 darkdisaster08/ctf-writeups
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/darkdisaster08/ctf-writeups
+     📝 Documenting my CTF challenge solutions and penetration testing practice
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 fmidev/smartmet-verify-model-data-loader
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/fmidev/smartmet-verify-model-data-loader
+     📝 SmartMet Verify model data loader: fetches forecasts from SmartMet Server and lo…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 cyr6x/wireshark-traffic-analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/cyr6x/wireshark-traffic-analysis
+     📝 Wireshark malicious traffic analysis lab — PCAP analysis, IOC extraction & threa…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Iterth/Axiom-Internals
+     ⭐ 0  🗣 C++  📅 2026-05-10
+     🔗 https://github.com/Iterth/Axiom-Internals
+     📝 A high-performance EDR and digital forensics suite featuring a low-level C++ eng…
+     🏷  cpp, cybersecurity, edr, forensics, pyside6, python, soc-tools, threat-hunting, virustotal, windows-api
+[2026-05-11 11:48:34 UTC] [NEW]   📦 apryshchepchuk/edr-monitor
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/apryshchepchuk/edr-monitor
+     📝 edr-monitor
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 ahmad4641/n8n-workflow-by-ahmad
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/ahmad4641/n8n-workflow-by-ahmad
+     📝 N8N workflow for all 
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Kico-bot/soc-homelab-ms
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/Kico-bot/soc-homelab-ms
+     📝 Homelab SOC built on Azure. SIEM, EDR, XDR, NDR and Vulnerability Management usi…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 NetSec-Novice/-
+     ⭐ 0  🗣 HTML  📅 2026-05-11
+     🔗 https://github.com/NetSec-Novice/-
+     📝 怎样才能脱颖而出呢？不如来尝试一次项目制作吧
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 chris777x/chris777x
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/chris777x/chris777x
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 karthika149/SOAR---EDR-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/karthika149/SOAR---EDR-Playbook
+     📝 A cybersecurity project integrating SOAR (Tines) and EDR (LimaCharlie) for autom…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Mkjones10/cybr550-nm-enterprise-security
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/Mkjones10/cybr550-nm-enterprise-security
+     📝 Healthcare enterprise cybersecurity program — Purdue Model network architecture,…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 ez4Houdini/Pool_Inject_Varient1
+     ⭐ 0  🗣 C++  📅 2026-05-11
+     🔗 https://github.com/ez4Houdini/Pool_Inject_Varient1
+     📝 TpWorkerFactory
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 muhireDar/edrtfgvbhnjk
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/muhireDar/edrtfgvbhnjk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 eka-gumelar/EDR-ASS-HEDOM
+     ⭐ 0  🗣 JavaScript  📅 2026-05-11
+     🔗 https://github.com/eka-gumelar/EDR-ASS-HEDOM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 prabhatp75/windows-optimize
+     ⭐ 0  🗣 PowerShell  📅 2026-05-11
+     🔗 https://github.com/prabhatp75/windows-optimize
+     📝 A safe, reversible Windows performance optimization skill for Claude Code
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 patryck-renan/malware-python
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/patryck-renan/malware-python
+     📝 Criação de scripts Python para simulação de comportamento de malwares
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 bji-ci0155-I-2026/proj-remote-control-robot
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/bji-ci0155-I-2026/proj-remote-control-robot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 volts-inventory/Solen
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/volts-inventory/Solen
+     📝 Self-hosted EDR-lite: a tiny on-device ML agent for macOS/Linux/Windows plus a F…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 cyberravi76/cMont
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/cyberravi76/cMont
+     📝 Monitor the computerr system if any one is using with permission or without perm…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 winetonjhon/ciberseguran_a
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/winetonjhon/ciberseguran_a
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Vinicius-Taypto/simulado-educacional-de-ransomware-e-keylogger
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/Vinicius-Taypto/simulado-educacional-de-ransomware-e-keylogger
+     📝 Desafio proposto pela DIO
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Rafael-Casemiro/dio-malware-python
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/Rafael-Casemiro/dio-malware-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 yasminsilvacosta/dio-cybersecurity-malware
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/yasminsilvacosta/dio-cybersecurity-malware
+     📝 Projeto de laboratório desenvolvido durante a formação de Cibersegurança da DIO.
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 abreulevi/desafio_dio_cybersecurity2
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/abreulevi/desafio_dio_cybersecurity2
+     📝 Análise Educacional de Ameaças: Ransomware e Keylogger
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Biesenbergerit/BitSec
+     ⭐ 0  🗣 C#  📅 2026-05-11
+     🔗 https://github.com/Biesenbergerit/BitSec
+     📝 Lokaler Security Scanner für BiesenbergerIT Kunden
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Gabriel-Moraes-hub/Desafio_DIO_Simulando_um_Malware_de_Captura_de_Dados
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/Gabriel-Moraes-hub/Desafio_DIO_Simulando_um_Malware_de_Captura_de_Dados
+     📝  Simulando um Malware de Captura de Dados Simples em Python e Aprendendo a se Pr…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 3xploiter0/hack3d
+     ⭐ 1  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/3xploiter0/hack3d
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 PM-CyberSec/PM-CyberSec
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/PM-CyberSec/PM-CyberSec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 bugboilerjr/provisioning-tool
+     ⭐ 0  🗣 PowerShell  📅 2026-05-10
+     🔗 https://github.com/bugboilerjr/provisioning-tool
+     📝 This is a tool that I am using to provision new device with standard software. I…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 sarvesh055/cyber-threat-analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/sarvesh055/cyber-threat-analysis
+     📝 IEEE-style cybersecurity research paper covering modern cyber threats, ransomwar…
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 kskios/mobile-malware-simulation-lab
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/kskios/mobile-malware-simulation-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 ivan-gsguedes/-Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/ivan-gsguedes/-Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Luis9768/Simulacao_Malware
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/Luis9768/Simulacao_Malware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 aheddareamine/hollow-processors-
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/aheddareamine/hollow-processors-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Nacero10/soc-toolkit
+     ⭐ 0  🗣 HTML  📅 2026-05-10
+     🔗 https://github.com/Nacero10/soc-toolkit
+     📝 A collection of browser-based, offline-first security analyst tools.
+     🏷  —
+[2026-05-11 11:48:34 UTC] [NEW]   📦 Feliips/simulador-malwares
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/Feliips/simulador-malwares
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:34 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-11 11:48:34 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-11 11:48:35 UTC] [INFO]   → 11 repository trovati in totale
+[2026-05-11 11:48:35 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-05-11 11:48:35 UTC] [NEW]   📦 gilesknap/claude-sandbox2
+     ⭐ 0  🗣 Python  📅 2026-05-10
+     🔗 https://github.com/gilesknap/claude-sandbox2
+     📝 Add a sandboxed claude code to any debian (for now) based devcontainer
+     🏷  —
+[2026-05-11 11:48:35 UTC] [NEW]   📦 D-rank-developer/CTF
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/D-rank-developer/CTF
+     📝 Various capture the flag from different cyber paths 
+     🏷  —
+[2026-05-11 11:48:35 UTC] [NEW]   📦 uday-kasturi/ENPM664-Final-Project-Group-1
+     ⭐ 0  🗣 C  📅 2026-05-11
+     🔗 https://github.com/uday-kasturi/ENPM664-Final-Project-Group-1
+     📝 KernelBreach
+     🏷  —
+[2026-05-11 11:48:35 UTC] [NEW]   📦 3xploiter0/hack3d
+     ⭐ 1  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/3xploiter0/hack3d
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:35 UTC] [NEW]   📦 jddelgado95/cyber-course
+     ⭐ 0  🗣 N/A  📅 2026-05-10
+     🔗 https://github.com/jddelgado95/cyber-course
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-11 11:48:35 UTC] [INFO] ============================================================
+[2026-05-11 11:48:35 UTC] [INFO] Esecuzione completata — 48 nuovi repo trovati, 0 errori
+[2026-05-11 11:48:35 UTC] [INFO] ============================================================
