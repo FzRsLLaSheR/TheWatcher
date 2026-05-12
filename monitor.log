@@ -4053,3 +4053,224 @@
 [2026-05-12 10:03:19 UTC] [INFO] ============================================================
 [2026-05-12 10:03:19 UTC] [INFO] Esecuzione completata — 42 nuovi repo trovati, 0 errori
 [2026-05-12 10:03:19 UTC] [INFO] ============================================================
+[2026-05-12 18:25:57 UTC] [INFO] ============================================================
+[2026-05-12 18:25:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-12 18:25:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-12 18:25:57 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-12 18:25:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-12 18:25:57 UTC] [INFO] ============================================================
+[2026-05-12 18:25:57 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-12 18:25:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-12 18:25:57 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-12 18:25:57 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-12 18:25:57 UTC] [NEW]   📦 Klaurx/ExLoader
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/Klaurx/ExLoader
+     📝 Exposing cheaters and all their techniques in deep detail. Why you might ask, i …
+     🏷  —
+[2026-05-12 18:25:57 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-12 18:25:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-12 18:25:59 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-12 18:25:59 UTC] [NEW]   🆕 38 NUOVI repository:
+[2026-05-12 18:25:59 UTC] [NEW]   📦 MichaelKirbyIT/ThreatHuntingScenarioTor
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/MichaelKirbyIT/ThreatHuntingScenarioTor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 Klaurx/ExLoader
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/Klaurx/ExLoader
+     📝 Exposing cheaters and all their techniques in deep detail. Why you might ask, i …
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 linuxnicola007/SentinelLite
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/linuxnicola007/SentinelLite
+     📝 A beginner-friendly, educational malware detection framework built with Python &…
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 Ohdele/Ohdele
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/Ohdele/Ohdele
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 Ashwatha4502/lastpass-soc2-assessment
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/Ashwatha4502/lastpass-soc2-assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 mondherouledahmed-ai/edr-training
+     ⭐ 0  🗣 HTML  📅 2026-05-12
+     🔗 https://github.com/mondherouledahmed-ai/edr-training
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 thyrn90/phantommapper
+     ⭐ 0  🗣 C++  📅 2026-05-12
+     🔗 https://github.com/thyrn90/phantommapper
+     📝 Lightweight x64 stealth manual mapper featuring thread hijacking and header wipi…
+     🏷  cpp, cybersecurity, manual-mapping, reverse-engineering, stealth, thread-hijacking, windows-internals, x64
+[2026-05-12 18:25:59 UTC] [NEW]   📦 v3nomtech/Threat_hunting
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/v3nomtech/Threat_hunting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 CyberCam31/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/CyberCam31/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 DJenkTheITGoat/home-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/DJenkTheITGoat/home-soc-lab
+     📝 Self-hosted security operations lab for SOC analysts skill development 
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 6ermvH/log-parser
+     ⭐ 0  🗣 Go  📅 2026-05-11
+     🔗 https://github.com/6ermvH/log-parser
+     📝 Task for YADRO internship
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 RUTHRAN-SEC/threat-analysis-valleyrat-huggingface
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/RUTHRAN-SEC/threat-analysis-valleyrat-huggingface
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 joshnck/typst_resume_generator
+     ⭐ 4  🗣 Typst  📅 2026-05-12
+     🔗 https://github.com/joshnck/typst_resume_generator
+     📝 A Typst-based resume generator for cybersecurity professionals. Write your bulle…
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 XiaoChu-1208/codelang
+     ⭐ 3  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/XiaoChu-1208/codelang
+     📝 给代码和开发小白以及互联网大厂刚入职的人员使用的landing工具
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 Terminalkid09/aegis-ecosystem
+     ⭐ 0  🗣 Java  📅 2026-05-12
+     🔗 https://github.com/Terminalkid09/aegis-ecosystem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 monobrau/browserscan
+     ⭐ 0  🗣 PowerShell  📅 2026-05-12
+     🔗 https://github.com/monobrau/browserscan
+     📝 PowerShell browser history and artifact collector for offline analysis
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 Asliddin-Jumayev/Ransomware
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/Asliddin-Jumayev/Ransomware
+     📝 Ransomware hujumi  va uni oldini olish simulatsiyasi
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 cyr6x/password-cracking-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/cyr6x/password-cracking-lab
+     📝 Hands-on password cracking lab using Hashcat and John the Ripper — MD5, SHA1, NT…
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 nabeel323/soc-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/nabeel323/soc-roadmap
+     📝 Complete roadmap for becoming a SOC Analyst from beginner to advanced.
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 JohnEarl20/shieldscan-ai-protection
+     ⭐ 1  🗣 JavaScript  📅 2026-05-12
+     🔗 https://github.com/JohnEarl20/shieldscan-ai-protection
+     📝 AI-powered scam protection browser extension with WireGuard VPN
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 DuverneyCM/ESP32
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/DuverneyCM/ESP32
+     📝 All that you need to work with ESP32, both with arduino and ESP-IDF baremetal co…
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 cthulberg/airmini.js
+     ⭐ 0  🗣 TypeScript  📅 2026-05-12
+     🔗 https://github.com/cthulberg/airmini.js
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 fredyquito/BypassEDR
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/fredyquito/BypassEDR
+     📝 script y pasos para saltarse el EDR
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 cemini23/Cybersecurity-wiki
+     ⭐ 1  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/cemini23/Cybersecurity-wiki
+     📝 Local knowledge hub for cybersecurity research, training, and offensive/defensiv…
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 ChiaraOS/Seshat
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/ChiaraOS/Seshat
+     📝 An AI based SOC Assistant
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 AsaadFethallah/Moteur-de-Priorisation-des-Alertes-SOC-bas-sur-le-Machine-Learning-dans-Le-Cloud-AWS
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/AsaadFethallah/Moteur-de-Priorisation-des-Alertes-SOC-bas-sur-le-Machine-Learning-dans-Le-Cloud-AWS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 Domenka/EdRepo
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/Domenka/EdRepo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 JO1CaRE/PE64-Revenant
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/JO1CaRE/PE64-Revenant
+     📝 PE64 entry-point redirection research utility for controlled reverse engineering…
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 Bumchic/BasicEDRAgent
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/Bumchic/BasicEDRAgent
+     📝 This is the agent for BasicEDR
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 aabdullah2201-wq/AI-SOC-Analyst
+     ⭐ 0  🗣 TypeScript  📅 2026-05-12
+     🔗 https://github.com/aabdullah2201-wq/AI-SOC-Analyst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 MichaelDouglas-tech/GRC-Risk-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/MichaelDouglas-tech/GRC-Risk-Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 Therety/ghost-locker
+     ⭐ 0  🗣 C  📅 2026-05-12
+     🔗 https://github.com/Therety/ghost-locker
+     📝 Educational Windows API proof-of-concept written in C. Demonstrates file locking…
+     🏷  c, ghost-lock, malware, malware-analysis, persistence, windows, windows-api
+[2026-05-12 18:25:59 UTC] [NEW]   📦 Jerushax/watchtower
+     ⭐ 0  🗣 Go  📅 2026-05-12
+     🔗 https://github.com/Jerushax/watchtower
+     📝 WatchTower is a lightweight behavioral endpoint monitoring tool written in Go, f…
+     🏷  blue-team, cybersecurity, endpoint-security, golang, malware-analysis, sysmon, telemetry, windows
+[2026-05-12 18:25:59 UTC] [NEW]   📦 ersimix/soc-analyst-course
+     ⭐ 0  🗣 Shell  📅 2026-05-12
+     🔗 https://github.com/ersimix/soc-analyst-course
+     📝 Complete SOC Analyst Training Course — 18 modules, 54 exercises, covering Wazuh,…
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 jessehaemmerle/mini-siem
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/jessehaemmerle/mini-siem
+     📝 SIEM für kleine Projekte
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 CallumSweetmanCS/Malware-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/CallumSweetmanCS/Malware-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 RonNnNNNNnnnnn/emt
+     ⭐ 0  🗣 HTML  📅 2026-05-12
+     🔗 https://github.com/RonNnNNNNnnnnn/emt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 18:25:59 UTC] [NEW]   📦 vetementsvmnts/EDR-Evasion-Framework
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/vetementsvmnts/EDR-Evasion-Framework
+     📝 Critical concepts: API unhooking, direct syscalls, indirect syscalls Process inj…
+     🏷  —
+[2026-05-12 18:25:59 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-12 18:25:59 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-12 18:26:00 UTC] [INFO]   → 8 repository trovati in totale
+[2026-05-12 18:26:00 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-12 18:26:00 UTC] [NEW]   📦 sergefdrv/claude-code-linux-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-05-12
+     🔗 https://github.com/sergefdrv/claude-code-linux-sandbox
+     📝 Run Claude Code inside a sandbox on Linux
+     🏷  —
+[2026-05-12 18:26:00 UTC] [INFO] ============================================================
+[2026-05-12 18:26:00 UTC] [INFO] Esecuzione completata — 40 nuovi repo trovati, 0 errori
+[2026-05-12 18:26:00 UTC] [INFO] ============================================================
