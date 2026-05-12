@@ -3822,3 +3822,234 @@
 [2026-05-11 18:24:31 UTC] [INFO] ============================================================
 [2026-05-11 18:24:31 UTC] [INFO] Esecuzione completata — 24 nuovi repo trovati, 0 errori
 [2026-05-11 18:24:31 UTC] [INFO] ============================================================
+[2026-05-12 10:03:16 UTC] [INFO] ============================================================
+[2026-05-12 10:03:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-12 10:03:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-12 10:03:16 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-12 10:03:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-12 10:03:16 UTC] [INFO] ============================================================
+[2026-05-12 10:03:16 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-12 10:03:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-12 10:03:17 UTC] [INFO]   → 4 repository trovati in totale
+[2026-05-12 10:03:17 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-12 10:03:17 UTC] [NEW]   📦 BlackSnufkin/CredsHunter
+     ⭐ 1  🗣 Rust  📅 2026-05-12
+     🔗 https://github.com/BlackSnufkin/CredsHunter
+     📝 PoC for CVE-2026-3609 - XIGNCODE3 xhunter1.sys handle leak enabling PPL bypass a…
+     🏷  —
+[2026-05-12 10:03:17 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-12 10:03:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-12 10:03:18 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-12 10:03:18 UTC] [NEW]   🆕 37 NUOVI repository:
+[2026-05-12 10:03:18 UTC] [NEW]   📦 musicofthings/stealershield
+     ⭐ 0  🗣 C#  📅 2026-05-12
+     🔗 https://github.com/musicofthings/stealershield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 cr0nx/linux-attack-detection-forensics-v2.0-preview-labs
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/cr0nx/linux-attack-detection-forensics-v2.0-preview-labs
+     📝 Publicly available lab sections / demos of Linux Attack, Detection and Forensics…
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 yunhai666/ai-redteam-notes
+     ⭐ 2  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/yunhai666/ai-redteam-notes
+     📝 AI 驱动的红队免杀知识库 — AI-generated red team evasion notes
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 MohammedAlAreqi01/respecg_project
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-12
+     🔗 https://github.com/MohammedAlAreqi01/respecg_project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 saugat50/soc-lab
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/saugat50/soc-lab
+     📝 Semi-Autonomous SIEM–SOAR Framework with Human-in-the-Loop Learning
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 ibsoft/xPhylax
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/ibsoft/xPhylax
+     📝 xPhylax EDR for Linux
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 snirazulay/malware-detector
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/snirazulay/malware-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 MuhammedEnesGurkan/bitirmeprojesi
+     ⭐ 0  🗣 TypeScript  📅 2026-05-12
+     🔗 https://github.com/MuhammedEnesGurkan/bitirmeprojesi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 rida-lab-org/red-tesmTools
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/rida-lab-org/red-tesmTools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 janerikmai/a6ylkt1edrunhgjsgc
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/janerikmai/a6ylkt1edrunhgjsgc
+     📝 Sha1-Hulud: The Second Coming.
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 desledishant10/mcp-scan
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/desledishant10/mcp-scan
+     📝 Security scanner for Model Context Protocol servers and AI agents
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_21
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_21
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 sergmudrea/triad-ecosystem
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/sergmudrea/triad-ecosystem
+     📝 triad-ecosystem
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 viacheslavkovalev/vibecoding_contest_2
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/viacheslavkovalev/vibecoding_contest_2
+     📝 Dashboard аналитики инцидентов
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 Luscious8/PyCrypt
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/Luscious8/PyCrypt
+     📝 Cross-platform payload generator that compiles XOR-obfuscated C# stagers directl…
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 chins-xing/Argus
+     ⭐ 0  🗣 Go  📅 2026-05-12
+     🔗 https://github.com/chins-xing/Argus
+     📝 Argus —— 持续安全可接受性评估框架。量化、验证并证明系统面对 APT 威胁与合规基线的安全状态。
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 dcar2121/detect-mware_app
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/dcar2121/detect-mware_app
+     📝 System scanner for identifying malware, using multipole procedures to  quarantin…
+     🏷  cybersecurity, detection-model, malware
+[2026-05-12 10:03:18 UTC] [NEW]   📦 ganguls/Anti-Keylogger-Defense-System
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/ganguls/Anti-Keylogger-Defense-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 amnex-security/Crowdstrike-falcon-edr-implementation
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/amnex-security/Crowdstrike-falcon-edr-implementation
+     📝 CrowdStrike Falcon EDR implementation and endpoint security configuration projec…
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 edrak99e-a11y/edrak99e-a11y.github.io
+     ⭐ 0  🗣 HTML  📅 2026-05-12
+     🔗 https://github.com/edrak99e-a11y/edrak99e-a11y.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 kelian-git/cyna-frontend
+     ⭐ 0  🗣 JavaScript  📅 2026-05-11
+     🔗 https://github.com/kelian-git/cyna-frontend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 RYO-1313/Home-Lab-Simulations
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/RYO-1313/Home-Lab-Simulations
+     📝 A documented security lab featuring real attack simulations, Splunk dashboards, …
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 odhjustingabriel/ioc-triage-tool
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/odhjustingabriel/ioc-triage-tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 dan-fk-cyb/dan-fk-cyb.github.io
+     ⭐ 0  🗣 HTML  📅 2026-05-11
+     🔗 https://github.com/dan-fk-cyb/dan-fk-cyb.github.io
+     📝 Meu site
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 h0mi3e/c2-websocket-abuse
+     ⭐ 0  🗣 Go  📅 2026-05-11
+     🔗 https://github.com/h0mi3e/c2-websocket-abuse
+     📝 C2 via websocket-abuse
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 h0mi3e/c2-sni-spoof
+     ⭐ 0  🗣 Go  📅 2026-05-11
+     🔗 https://github.com/h0mi3e/c2-sni-spoof
+     📝 C2 via sni-spoof
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 OscarLlamas6/cyber-ops-playground
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/OscarLlamas6/cyber-ops-playground
+     📝 Hands-on playground to learn Red/Blue Teaming
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 samiabbasi-sec/SOC-Analyst-Training-Notes
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/samiabbasi-sec/SOC-Analyst-Training-Notes
+     📝 Notes and hands-on learning progress from SOC analyst and cybersecurity training…
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 Youssefzdb/bypass-av
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/Youssefzdb/bypass-av
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 JamesPabon11/JamesPabon11
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/JamesPabon11/JamesPabon11
+     📝 James Pabon's IT and Cybersecurity Project Portfolio 🔐
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 SergiLara7/SergiLara7-
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/SergiLara7/SergiLara7-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 Yamen1294/Basic_Reverse_Shell
+     ⭐ 2  🗣 C  📅 2026-05-11
+     🔗 https://github.com/Yamen1294/Basic_Reverse_Shell
+     📝 Basic Reverse Shell in C and WinAPI and Sockets 
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 antonioabreuu/network-traffic-analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/antonioabreuu/network-traffic-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 X-3306/EltonRAT-Multi-Stage-MaaS-and-Developer-Supply-Chain-Infection-Analysis
+     ⭐ 0  🗣 YARA  📅 2026-05-11
+     🔗 https://github.com/X-3306/EltonRAT-Multi-Stage-MaaS-and-Developer-Supply-Chain-Infection-Analysis
+     📝 The analyzed materials describe a coordinated MaaS operation with an entire camp…
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 krish-foren6/huggingface-ai-supply-chain-attack-analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/krish-foren6/huggingface-ai-supply-chain-attack-analysis
+     📝 Security analysis of the Hugging Face Malicious Repository Campaign — how attack…
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 RealTenzo/Tenzo-X-DSI
+     ⭐ 3  🗣 C++  📅 2026-05-11
+     🔗 https://github.com/RealTenzo/Tenzo-X-DSI
+     📝 Direct syscall DLL injector. Bypasses API hooks via Halo's Gate SSN recovery, RW…
+     🏷  —
+[2026-05-12 10:03:18 UTC] [NEW]   📦 fotografm/bluetooth-monitor
+     ⭐ 0  🗣 HTML  📅 2026-05-11
+     🔗 https://github.com/fotografm/bluetooth-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:18 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-12 10:03:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-12 10:03:19 UTC] [INFO]   → 8 repository trovati in totale
+[2026-05-12 10:03:19 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-05-12 10:03:19 UTC] [NEW]   📦 vetementsvmnts/-Active-Directory-Kill-Chain-
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/vetementsvmnts/-Active-Directory-Kill-Chain-
+     📝 Critical concepts demonstrated: Kerberoasting, AS-REP roasting, DCSync BloodHoun…
+     🏷  —
+[2026-05-12 10:03:19 UTC] [NEW]   📦 xl337x/linprivesc
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/xl337x/linprivesc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-12 10:03:19 UTC] [NEW]   📦 woreksami/TrollInstallerX-iOS26
+     ⭐ 0  🗣 C  📅 2026-05-11
+     🔗 https://github.com/woreksami/TrollInstallerX-iOS26
+     📝 TrollInstallerX - BUT For iOS26 (Supports 26.1 - the only version I tested on!)
+     🏷  —
+[2026-05-12 10:03:19 UTC] [NEW]   📦 OscarLlamas6/cyber-ops-playground
+     ⭐ 0  🗣 N/A  📅 2026-05-11
+     🔗 https://github.com/OscarLlamas6/cyber-ops-playground
+     📝 Hands-on playground to learn Red/Blue Teaming
+     🏷  —
+[2026-05-12 10:03:19 UTC] [INFO] ============================================================
+[2026-05-12 10:03:19 UTC] [INFO] Esecuzione completata — 42 nuovi repo trovati, 0 errori
+[2026-05-12 10:03:19 UTC] [INFO] ============================================================
