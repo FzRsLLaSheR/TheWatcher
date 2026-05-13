@@ -4274,3 +4274,249 @@
 [2026-05-12 18:26:00 UTC] [INFO] ============================================================
 [2026-05-12 18:26:00 UTC] [INFO] Esecuzione completata — 40 nuovi repo trovati, 0 errori
 [2026-05-12 18:26:00 UTC] [INFO] ============================================================
+[2026-05-13 10:01:29 UTC] [INFO] ============================================================
+[2026-05-13 10:01:29 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-13 10:01:29 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-13 10:01:29 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-13 10:01:29 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-13 10:01:29 UTC] [INFO] ============================================================
+[2026-05-13 10:01:29 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-13 10:01:29 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-13 10:01:29 UTC] [INFO]   → 3 repository trovati in totale
+[2026-05-13 10:01:29 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-13 10:01:29 UTC] [NEW]   📦 Liuxunzhang/BYOVD_proc_dump
+     ⭐ 0  🗣 C  📅 2026-05-13
+     🔗 https://github.com/Liuxunzhang/BYOVD_proc_dump
+     📝 byovd
+     🏷  —
+[2026-05-13 10:01:29 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-13 10:01:29 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-13 10:01:31 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-13 10:01:31 UTC] [NEW]   🆕 41 NUOVI repository:
+[2026-05-13 10:01:31 UTC] [NEW]   📦 NicolasGounotEsiea/phonecontrol
+     ⭐ 0  🗣 Kotlin  📅 2026-05-13
+     🔗 https://github.com/NicolasGounotEsiea/phonecontrol
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Higor1912/TLOA-Framework
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Higor1912/TLOA-Framework
+     📝 A personal cybersecurity framework built around threat intelligence-driven attac…
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 stevenvanuytsel/SMF_oSCR_Analysis_mature
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/stevenvanuytsel/SMF_oSCR_Analysis_mature
+     📝 Analysis pipeline for simultaneous oSCR and SMF
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Duamrt/edr-crm
+     ⭐ 0  🗣 HTML  📅 2026-05-13
+     🔗 https://github.com/Duamrt/edr-crm
+     📝 EDR CRM MCMV — Gestão de famílias e esteira de financiamento
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Madhanrajsekar/SOC-Roadmap-
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Madhanrajsekar/SOC-Roadmap-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 systemguard-io/systemguard
+     ⭐ 0  🗣 Rust  📅 2026-05-12
+     🔗 https://github.com/systemguard-io/systemguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 j3susangar1ca/NeverTrstMePdf
+     ⭐ 0  🗣 Assembly  📅 2026-05-13
+     🔗 https://github.com/j3susangar1ca/NeverTrstMePdf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 rusdy-cyber/roadmap-cyber-security
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/rusdy-cyber/roadmap-cyber-security
+     📝 belajar cyber security dari 0
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 smaltsev75-sudo/CALC_INFRA
+     ⭐ 0  🗣 JavaScript  📅 2026-05-13
+     🔗 https://github.com/smaltsev75-sudo/CALC_INFRA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 prabathjayatissa/Molecular_Dynamic_-_Simulation
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/prabathjayatissa/Molecular_Dynamic_-_Simulation
+     📝 MD Simulation
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 cfs0x/PowerBreaker
+     ⭐ 0  🗣 PowerShell  📅 2026-05-13
+     🔗 https://github.com/cfs0x/PowerBreaker
+     📝  Implementation and analysis of PowerShell evasion techniques and sandbox escape…
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 KangMe17/MiniEDR-AMSI-PowerShell-Defense
+     ⭐ 0  🗣 C++  📅 2026-05-13
+     🔗 https://github.com/KangMe17/MiniEDR-AMSI-PowerShell-Defense
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 HarshithaNakkala/TSAE-MODEL
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-13
+     🔗 https://github.com/HarshithaNakkala/TSAE-MODEL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 azfar3altaf/behav_guard
+     ⭐ 0  🗣 JavaScript  📅 2026-05-13
+     🔗 https://github.com/azfar3altaf/behav_guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 joneslufkin504-lab/Asenal
+     ⭐ 0  🗣 PowerShell  📅 2026-05-13
+     🔗 https://github.com/joneslufkin504-lab/Asenal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 kien6nguyen/Safe-Keylogger-Detection-Demo
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/kien6nguyen/Safe-Keylogger-Detection-Demo
+     📝 Trong dự án này, nhóm chúng tôi đã phát triển ứng dụng "Safe Keylogger Detection…
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 velascoedrianlloyd/CSR-Technical-Assessment-Edrian-Velasco
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/velascoedrianlloyd/CSR-Technical-Assessment-Edrian-Velasco
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 MuhammadDanyall/EDrop
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/MuhammadDanyall/EDrop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 lyw-xz/JAVA-edrzvltzca-Python
+     ⭐ 0  🗣 Java  📅 2026-05-13
+     🔗 https://github.com/lyw-xz/JAVA-edrzvltzca-Python
+     📝 基于微信小程序(django)的基于微信小程序的智慧物业管理系统python
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Bigred97/asic-mcp
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/Bigred97/asic-mcp
+     📝 MCP server for Australian Securities and Investments Commission registers. Plain…
+     🏷  afs-licensee, asic, australia, claude, compliance, credit-licensee, data-gov-au, fastmcp, financial-advisers, fintech, mcp, mcp-server, registers, regtech
+[2026-05-13 10:01:31 UTC] [NEW]   📦 brianashman/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/brianashman/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 OmniSpectre-Sec/CyberAgent-Technical-Showcase
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/OmniSpectre-Sec/CyberAgent-Technical-Showcase
+     📝 Deep dive into the AI-driven core and multi-domain security capabilities of Cybe…
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 HO1601/HE-TP
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/HO1601/HE-TP
+     📝  Repositorio usado para el curso de Hacking Ético, para realizar un keylogger
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Alex-Tech-lab/Nessus-Vulnerability-Scanning
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Alex-Tech-lab/Nessus-Vulnerability-Scanning
+     📝 Scanning vulnerabilities in Nessus.
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 feng9254/2311B-AC6323A4-IP-Pencil---Hall---30min
+     ⭐ 0  🗣 Makefile  📅 2026-05-13
+     🔗 https://github.com/feng9254/2311B-AC6323A4-IP-Pencil---Hall---30min
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 anafe03/RL_agents
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/anafe03/RL_agents
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 DervisUludag/Qualys_EDR_Splunk_Ingestion
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/DervisUludag/Qualys_EDR_Splunk_Ingestion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Fabian-R/Forensic-Analysis-of-the-2017-NotPetya-Cyberattack
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/Fabian-R/Forensic-Analysis-of-the-2017-NotPetya-Cyberattack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 ddos100/AEGIS
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/ddos100/AEGIS
+     📝 AEGIS
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Fromdes/Fromdes
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/Fromdes/Fromdes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 dmknght/GravityzoneLPE_0day
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/dmknght/GravityzoneLPE_0day
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 notarsenaldev/Arsenal
+     ⭐ 0  🗣 C++  📅 2026-05-12
+     🔗 https://github.com/notarsenaldev/Arsenal
+     📝 SCM
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 molaa/soc-alert-llm-triage
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/molaa/soc-alert-llm-triage
+     📝 Minimal Python tool to triage SOC alerts using a local or hosted LLM (Ollama, An…
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Serhyi/AuditSample-Pro-2.0
+     ⭐ 0  🗣 TypeScript  📅 2026-05-12
+     🔗 https://github.com/Serhyi/AuditSample-Pro-2.0
+     📝 AuditSample Pro 2.0
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 frankarmah-tech/cybersecurity-notes
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/frankarmah-tech/cybersecurity-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Ahed11/diplom_project
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/Ahed11/diplom_project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 oponder2000/SILENT-CORRIDOR-Proactive-Threat-Hunt
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/oponder2000/SILENT-CORRIDOR-Proactive-Threat-Hunt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 ChunkyMonkey11/tawasolpay-ai-cyber-risk-assistant
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/ChunkyMonkey11/tawasolpay-ai-cyber-risk-assistant
+     📝 AI-powered cyber risk prioritization assistant for TawasolPay: ranks top 5 risks…
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 amunim12/ai_soc
+     ⭐ 0  🗣 Python  📅 2026-05-12
+     🔗 https://github.com/amunim12/ai_soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 mujtabasidd1/Endpoint-Security-Threat-Monitoring-using-Wazuh-EDR
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/mujtabasidd1/Endpoint-Security-Threat-Monitoring-using-Wazuh-EDR
+     📝 Endpoint Detection and Response (EDR) deployment and security monitoring task fo…
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 eddyraz/CS50-edrk1976
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/eddyraz/CS50-edrk1976
+     📝 Course progress on Harvard CS50 edx course
+     🏷  —
+[2026-05-13 10:01:31 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-13 10:01:31 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-13 10:01:31 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-13 10:01:31 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-13 10:01:31 UTC] [NEW]   📦 Salik921/Lord-Of-The-Root---VulnHub-Walkthrough
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Salik921/Lord-Of-The-Root---VulnHub-Walkthrough
+     📝 Exploited a SQL Injection vulnerability to bypass authentication, dumped databas…
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 kdcyber1994/1000-Hours-Of-Cyber
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/kdcyber1994/1000-Hours-Of-Cyber
+     📝 Documenting my 1000 hour journey of R&D
+     🏷  —
+[2026-05-13 10:01:31 UTC] [NEW]   📦 DariodelBarrio/ctf-writeups
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/DariodelBarrio/ctf-writeups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 10:01:31 UTC] [INFO] ============================================================
+[2026-05-13 10:01:31 UTC] [INFO] Esecuzione completata — 45 nuovi repo trovati, 0 errori
+[2026-05-13 10:01:31 UTC] [INFO] ============================================================
