@@ -4520,3 +4520,244 @@
 [2026-05-13 10:01:31 UTC] [INFO] ============================================================
 [2026-05-13 10:01:31 UTC] [INFO] Esecuzione completata — 45 nuovi repo trovati, 0 errori
 [2026-05-13 10:01:31 UTC] [INFO] ============================================================
+[2026-05-13 18:29:49 UTC] [INFO] ============================================================
+[2026-05-13 18:29:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-13 18:29:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-13 18:29:49 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-13 18:29:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-13 18:29:49 UTC] [INFO] ============================================================
+[2026-05-13 18:29:49 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-13 18:29:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-13 18:29:49 UTC] [INFO]   → 2 repository trovati in totale
+[2026-05-13 18:29:49 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-13 18:29:49 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-13 18:29:49 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-13 18:29:50 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-13 18:29:50 UTC] [NEW]   🆕 44 NUOVI repository:
+[2026-05-13 18:29:50 UTC] [NEW]   📦 imightbeakira/history-stealer
+     ⭐ 0  🗣 HTML  📅 2026-05-13
+     🔗 https://github.com/imightbeakira/history-stealer
+     📝 Malicious VPN Extension
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 24362424/edr-railway
+     ⭐ 0  🗣 HTML  📅 2026-05-13
+     🔗 https://github.com/24362424/edr-railway
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 trevormorg/tech-lreujvuji
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/trevormorg/tech-lreujvuji
+     📝 技术资源汇总
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 trevormorg/tech-dabannsmm
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/trevormorg/tech-dabannsmm
+     📝 编程参考文档
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 trevormorg/tech-leswchhjh
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/trevormorg/tech-leswchhjh
+     📝 技术资源汇总
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 harshnelson100719/endpoint-security-runbook
+     ⭐ 0  🗣 HTML  📅 2026-05-13
+     🔗 https://github.com/harshnelson100719/endpoint-security-runbook
+     📝 Endpoint Security Standard Project
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 xinhao888/WSL-Zombie-Killer
+     ⭐ 0  🗣 PowerShell  📅 2026-05-13
+     🔗 https://github.com/xinhao888/WSL-Zombie-Killer
+     📝 Auto-detect and kill zombie wslservice.exe processes on WSL2. No reboot required…
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 ani-m-al/vlan-inventory-reconciler
+     ⭐ 0  🗣 PowerShell  📅 2026-05-13
+     🔗 https://github.com/ani-m-al/vlan-inventory-reconciler
+     📝 Automates VLAN IP reconciliation across vCenter, firewalls, IPAM, ping status, a…
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 Sharma1104/SOC-EDR-Splunk-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Sharma1104/SOC-EDR-Splunk-Lab
+     📝 Hands-on SOC analyst lab focused on SIEM configuration, endpoint telemetry, log …
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 trevormorg/tech-fpvzdchie
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/trevormorg/tech-fpvzdchie
+     📝 学习资料整理
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 acarsaw/Aigis-X
+     ⭐ 0  🗣 HTML  📅 2026-05-13
+     🔗 https://github.com/acarsaw/Aigis-X
+     📝 Aigis-X is a comprehensive Blue Team defense platform for Windows operating syst…
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 trevormorg/tech-vptaqhoka
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/trevormorg/tech-vptaqhoka
+     📝 编程参考文档
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 spcl/suet
+     ⭐ 2  🗣 C  📅 2026-05-13
+     🔗 https://github.com/spcl/suet
+     📝 SUET: Software Ultra Ethernet Transport provider
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 trevormorg/tech-bamboswgw
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/trevormorg/tech-bamboswgw
+     📝 学习资料整理
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 jamescndubuisi/Pentest-Guide
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/jamescndubuisi/Pentest-Guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 SamTBalogh/CAI6-Consulta2
+     ⭐ 0  🗣 Java  📅 2026-05-13
+     🔗 https://github.com/SamTBalogh/CAI6-Consulta2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 Symon510/Ransomware-attack-and-mitigation-project
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Symon510/Ransomware-attack-and-mitigation-project
+     📝 A Detection and Incident Response pipeline for Ransomware behavior. CSCE 5550 (I…
+     🏷  academic-project, cybersecurity, incident-response, malware-analysis, python, ransomware
+[2026-05-13 18:29:50 UTC] [NEW]   📦 GbengaCyber/RMM-Attack-Simulation-and-Defense-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/GbengaCyber/RMM-Attack-Simulation-and-Defense-Lab
+     📝 RMM Attack Simulation and Defense Lab
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 TheCyberDefenseGuy/adversary-defense-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/TheCyberDefenseGuy/adversary-defense-lab
+     📝 Real adversary emulation, detection and defense in a complete cycle
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 trevormorg/tech-dubbcyfjq
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/trevormorg/tech-dubbcyfjq
+     📝 编程参考文档
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 trevormorg/tech-tjobhivoy
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/trevormorg/tech-tjobhivoy
+     📝 开发工具集合
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 ekomsSavior/hades_gate
+     ⭐ 1  🗣 C  📅 2026-05-13
+     🔗 https://github.com/ekomsSavior/hades_gate
+     📝 constructing direct syscall stubs at runtime by resolving native API (Nt*) funct…
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 h0mi3e/hades-gate
+     ⭐ 0  🗣 C  📅 2026-05-13
+     🔗 https://github.com/h0mi3e/hades-gate
+     📝 Extension of Jake Swiz's PEB-walking shellcode methodology — point the same engi…
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 bc250400983aal-glitch/nextjs-proto
+     ⭐ 0  🗣 TypeScript  📅 2026-05-13
+     🔗 https://github.com/bc250400983aal-glitch/nextjs-proto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 LiloBennardo/LabGOADLight
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/LiloBennardo/LabGOADLight
+     📝 LabGOADLight
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 Relax1205/Relax1205
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Relax1205/Relax1205
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 Nicohoyoz/enterprise-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Nicohoyoz/enterprise-soc-lab
+     📝 Production-grade SOC infrastructure demonstrating enterprise threat detection an…
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 gulingling1018/rag_deepseek_v4
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/gulingling1018/rag_deepseek_v4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 0x4E4558/terminus
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/0x4E4558/terminus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 kboykov/wazuh-sentinelone
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/kboykov/wazuh-sentinelone
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 trevormorg/tech-peavoxnd
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/trevormorg/tech-peavoxnd
+     📝 实用代码示例
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 arunsakthi2802-star/SOC-ANALYST-ROADMAP
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/arunsakthi2802-star/SOC-ANALYST-ROADMAP
+     📝 🛡️ Complete SOC Analyst Roadmap for Beginners to Advanced — Learn Networking, Li…
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 memoverflow/kiro
+     ⭐ 0  🗣 Go  📅 2026-05-12
+     🔗 https://github.com/memoverflow/kiro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 jusso-dev/Tawny
+     ⭐ 0  🗣 C#  📅 2026-05-13
+     🔗 https://github.com/jusso-dev/Tawny
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 katerpii/edr-module-for-linux
+     ⭐ 0  🗣 N/A  📅 2026-05-12
+     🔗 https://github.com/katerpii/edr-module-for-linux
+     📝 EDR module for endpoint security and incident response
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 d3fuse99/WinSentry
+     ⭐ 0  🗣 PowerShell  📅 2026-05-13
+     🔗 https://github.com/d3fuse99/WinSentry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 Mayank3613/Probable-Octo-Palm-Tree
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Mayank3613/Probable-Octo-Palm-Tree
+     📝 Self-Healing Hidden Hosting Attribution Platform
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 TPSingidunum/edrive-frontend
+     ⭐ 0  🗣 Vue  📅 2026-05-13
+     🔗 https://github.com/TPSingidunum/edrive-frontend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 PankajSecurity/PankajSecurity
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/PankajSecurity/PankajSecurity
+     📝 Pankaj Kumar | Aspiring SOC Analyst | Cybersecurity Enthusiast
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 natanaelhx/whatsapp-mcp-local-kit
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/natanaelhx/whatsapp-mcp-local-kit
+     📝 Windows tray kit and docs for running an unofficial local WhatsApp MCP bridge wi…
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 mohmadhisham68-hub/siem-incident-response
+     ⭐ 0  🗣 PowerShell  📅 2026-05-12
+     🔗 https://github.com/mohmadhisham68-hub/siem-incident-response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 Amatetzu/YaMi-Edrys
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/Amatetzu/YaMi-Edrys
+     📝 uni Projekt edrys lab
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 tom-miy/secure-dev-hooks
+     ⭐ 0  🗣 Shell  📅 2026-05-13
+     🔗 https://github.com/tom-miy/secure-dev-hooks
+     📝 AIコーディングエージェントの危険コマンド、機密ファイルアクセス、ネットワーク送信、誤操作を防ぐための再利用可能な開発フック集
+     🏷  —
+[2026-05-13 18:29:50 UTC] [NEW]   📦 ArfaouiBadi/hannibal-ai-trainer
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/ArfaouiBadi/hannibal-ai-trainer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-13 18:29:50 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-13 18:29:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-13 18:29:51 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-13 18:29:51 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-13 18:29:51 UTC] [INFO] ============================================================
+[2026-05-13 18:29:51 UTC] [INFO] Esecuzione completata — 44 nuovi repo trovati, 0 errori
+[2026-05-13 18:29:51 UTC] [INFO] ============================================================
