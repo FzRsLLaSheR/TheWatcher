@@ -5027,3 +5027,154 @@
 [2026-05-14 09:39:46 UTC] [INFO] ============================================================
 [2026-05-14 09:39:46 UTC] [INFO] Esecuzione completata — 49 nuovi repo trovati, 0 errori
 [2026-05-14 09:39:46 UTC] [INFO] ============================================================
+[2026-05-14 18:23:08 UTC] [INFO] ============================================================
+[2026-05-14 18:23:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-14 18:23:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-14 18:23:08 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-14 18:23:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-14 18:23:08 UTC] [INFO] ============================================================
+[2026-05-14 18:23:08 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-14 18:23:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-14 18:23:08 UTC] [INFO]   → 1 repository trovati in totale
+[2026-05-14 18:23:08 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-14 18:23:08 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-14 18:23:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-14 18:23:10 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-14 18:23:10 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-05-14 18:23:10 UTC] [NEW]   📦 djsparks16/SmartboxSecurityDasher3000
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/djsparks16/SmartboxSecurityDasher3000
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 Neena-spec/cybersecurity
+     ⭐ 0  🗣 TypeScript  📅 2026-05-14
+     🔗 https://github.com/Neena-spec/cybersecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 koonisme/coderr
+     ⭐ 0  🗣 C  📅 2026-05-14
+     🔗 https://github.com/koonisme/coderr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 brindatenn/threat-intel-dashboard
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/brindatenn/threat-intel-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 cybermurphy5480-ship-it/Endpoint-Detection-and-Response
+     ⭐ 0  🗣 JavaScript  📅 2026-05-14
+     🔗 https://github.com/cybermurphy5480-ship-it/Endpoint-Detection-and-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 Nandini6002/Aegisguard
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/Nandini6002/Aegisguard
+     📝 AegisGuard is an AI-powered Endpoint Detection and Response (EDR) system designe…
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 JO1CaRE/killerservice
+     ⭐ 0  🗣 C  📅 2026-05-14
+     🔗 https://github.com/JO1CaRE/killerservice
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 rashmivanneladas-arch/SOCIAL-ENGINEERING-RESEARCH
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/rashmivanneladas-arch/SOCIAL-ENGINEERING-RESEARCH
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 giaosoissomsm/malicious-hash
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/giaosoissomsm/malicious-hash
+     📝 Agregação de listas de hashes maliciosos de malware que podem ser integradas a f…
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 rulearena/agentic-soc-agents
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/rulearena/agentic-soc-agents
+     📝 SOC 專業角色 AI agent 庫 — L1 到 SOC Manager 各層級的思維、工作流程、技術交付物、升級鏈條，可作為 Claude Code / …
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 Prince-newhub/Reskross_01
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/Prince-newhub/Reskross_01
+     📝 MITRE ATTACK_C0023
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 Souufiann/lightweight-EPM
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/Souufiann/lightweight-EPM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 ivancabrera02/RemoteEDRDetector
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/ivancabrera02/RemoteEDRDetector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 richard-skerritt/sentinel-soc-tier1-lab
+     ⭐ 0  🗣 TypeScript  📅 2026-05-13
+     🔗 https://github.com/richard-skerritt/sentinel-soc-tier1-lab
+     📝 Realistic desk simulation for entry-level Microsoft Sentinel / SOC Tier 1 analys…
+     🏷  blue-team, cybersecurity, education, elevenlabs, kql, microsoft-sentinel, mitre-attack, react, security-training, siem, simulation, soc, threat-hunting, typescript, vite
+[2026-05-14 18:23:10 UTC] [NEW]   📦 Samithajude/-SOC-Threat-Triage-Console
+     ⭐ 0  🗣 HTML  📅 2026-05-14
+     🔗 https://github.com/Samithajude/-SOC-Threat-Triage-Console
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 mhamze04/TryHackMe-SOC-Level-1
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/mhamze04/TryHackMe-SOC-Level-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 bhoomiwadke-cpu/RedKross_01
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/bhoomiwadke-cpu/RedKross_01
+     📝 MITRE ATT&CK_C0014
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 DarkWebHunter99/secshrimp-kb
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/DarkWebHunter99/secshrimp-kb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 0xSteph/patient-zero
+     ⭐ 0  🗣 JavaScript  📅 2026-05-14
+     🔗 https://github.com/0xSteph/patient-zero
+     📝 Supply-chain attack scanner for the agent era. Triage in 30s with `npx patient-z…
+     🏷  agent-security, cli, dependabot-alternative, install-blocking, ioc-scanner, javascript, mcp, npm, precommit-hook, pypi, sarif, security, shai-hulud, supply-chain-security
+[2026-05-14 18:23:10 UTC] [NEW]   📦 GlobalOneDigital/GlobalOneDigital
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/GlobalOneDigital/GlobalOneDigital
+     📝 B2B SEO and automation agency for Series A-C SaaS in the US and EU. development-…
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 djsparks16/SecurityDahboard4API
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/djsparks16/SecurityDahboard4API
+     📝 This is my test security dashboard for pulling API Data from Graph, Datto, Ubiqu…
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 corastate/corastate
+     ⭐ 0  🗣 TypeScript  📅 2026-05-13
+     🔗 https://github.com/corastate/corastate
+     📝 Open-source device health aggregation engine. Read-only correlation across endpo…
+     🏷  —
+[2026-05-14 18:23:10 UTC] [NEW]   📦 s3ec/public
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/s3ec/public
+     📝 some of the tools
+     🏷  —
+[2026-05-14 18:23:10 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-14 18:23:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-14 18:23:10 UTC] [INFO]   → 9 repository trovati in totale
+[2026-05-14 18:23:10 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-14 18:23:10 UTC] [NEW]   📦 imxde-code/red-team-cheatsheets
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/imxde-code/red-team-cheatsheets
+     📝 Red team & penetration testing command references — enumeration, privilege escal…
+     🏷  active-directory, cheatsheet, ctf, cybersecurity, oscp, penetration-testing, privilege-escalation, red-team
+[2026-05-14 18:23:10 UTC] [NEW]   📦 uliyach45/linux-privilege-escalation-lab8
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/uliyach45/linux-privilege-escalation-lab8
+     📝 TryHackMe linprivesc — Linux Privilege Escalation Lab | Kernel Exploit, SUID, Su…
+     🏷  ctf, cybersecurity, ethical-hacking, gtfobins, john-the-ripper, kali-linux, linux, post-exploitation, privilege-escalation, tryhackme
+[2026-05-14 18:23:10 UTC] [NEW]   📦 fahmipentest/va-nessus-metasploitable2
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/fahmipentest/va-nessus-metasploitable2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 18:23:10 UTC] [INFO] ============================================================
+[2026-05-14 18:23:10 UTC] [INFO] Esecuzione completata — 26 nuovi repo trovati, 0 errori
+[2026-05-14 18:23:10 UTC] [INFO] ============================================================
