@@ -4761,3 +4761,269 @@
 [2026-05-13 18:29:51 UTC] [INFO] ============================================================
 [2026-05-13 18:29:51 UTC] [INFO] Esecuzione completata — 44 nuovi repo trovati, 0 errori
 [2026-05-13 18:29:51 UTC] [INFO] ============================================================
+[2026-05-14 09:39:44 UTC] [INFO] ============================================================
+[2026-05-14 09:39:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-14 09:39:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-14 09:39:44 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-14 09:39:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-14 09:39:44 UTC] [INFO] ============================================================
+[2026-05-14 09:39:44 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-14 09:39:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-14 09:39:44 UTC] [INFO]   → 1 repository trovati in totale
+[2026-05-14 09:39:44 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-14 09:39:44 UTC] [NEW]   📦 franzjeger/framesage-win
+     ⭐ 0  🗣 Rust  📅 2026-05-14
+     🔗 https://github.com/franzjeger/framesage-win
+     📝 Foreground-aware scheduler supervisor for Windows. Better-than-Process-Lasso def…
+     🏷  —
+[2026-05-14 09:39:44 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-14 09:39:44 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-14 09:39:46 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-14 09:39:46 UTC] [NEW]   🆕 43 NUOVI repository:
+[2026-05-14 09:39:46 UTC] [NEW]   📦 pritishpatel/Tracepoint
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/pritishpatel/Tracepoint
+     📝 AI-native SecOps platform for vulnerability triage, investigation, remediation t…
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 EduardoRochaFernandes/ioc-checker
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/EduardoRochaFernandes/ioc-checker
+     📝 IOC triage tool made in 1ºDegree 1ºSemesyter using VirusTotal + AbuseIPDB
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 choiyounggi/cliclaw
+     ⭐ 0  🗣 TypeScript  📅 2026-05-13
+     🔗 https://github.com/choiyounggi/cliclaw
+     📝 Drive Claude Code, Codex, Pi, and Gemini from your Telegram chat — macOS bot wit…
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 AngelFrieren/ccguard
+     ⭐ 0  🗣 Go  📅 2026-05-13
+     🔗 https://github.com/AngelFrieren/ccguard
+     📝 File integrity + behavioral monitor for Claude Code. Detects unauthorized hook m…
+     🏷  auditd, claude-code, ebpf, file-integrity-monitoring, fim, golang, security, supply-chain-security, wsl2
+[2026-05-14 09:39:46 UTC] [NEW]   📦 7inaydas-cmyk/zovark-runtime
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/7inaydas-cmyk/zovark-runtime
+     📝 Zovark greenfield runtime skeleton and contract snapshot
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 x0verFl0w/SxSHADOW
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/x0verFl0w/SxSHADOW
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 test-rhaap-portal/edrygl0t
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/test-rhaap-portal/edrygl0t
+     📝 testing EE environment [SCM] edrygl0t
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 noppadonra2nshh/britdefenderEDR
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/noppadonra2nshh/britdefenderEDR
+     📝 britdefenderEDR
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 aroshfer/NeuralShield
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/aroshfer/NeuralShield
+     📝 EDR/XDR Solution 
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 CuteCuteYu/onnx_shellcode_loade
+     ⭐ 0  🗣 C++  📅 2026-05-14
+     🔗 https://github.com/CuteCuteYu/onnx_shellcode_loade
+     📝 onnx_shellcode_loade
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 DenSecMan/Default-Template
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/DenSecMan/Default-Template
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 tannerharris0n/FortiSearch
+     ⭐ 0  🗣 JavaScript  📅 2026-05-14
+     🔗 https://github.com/tannerharris0n/FortiSearch
+     📝 Fortinet product intelligence for SEs and practitioners. Fuzzy search the full F…
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 JO1CaRE/ThreadPort
+     ⭐ 0  🗣 C  📅 2026-05-14
+     🔗 https://github.com/JO1CaRE/ThreadPort
+     📝 ThreadPort - минимальный Windows x64 CLI-инструмент для контролируемых лаборатор…
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 venkatavishnuvardhana/Wazuh-SOC-Automation-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/venkatavishnuvardhana/Wazuh-SOC-Automation-Lab
+     📝 SOC Analyst Lab: Implemented end-to-end security monitoring using Wazuh SIEM and…
+     🏷  cybersecurity, incident-response, siem, soc-analyst, sysmon, threat-hunting, wazuh
+[2026-05-14 09:39:46 UTC] [NEW]   📦 redroot97/Cobalt_Strike_BOFs
+     ⭐ 0  🗣 C  📅 2026-05-13
+     🔗 https://github.com/redroot97/Cobalt_Strike_BOFs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 jasont15/Threat-Hunting-Scenario-TOR
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/jasont15/Threat-Hunting-Scenario-TOR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 Anders-Sec/foundry
+     ⭐ 0  🗣 JavaScript  📅 2026-05-14
+     🔗 https://github.com/Anders-Sec/foundry
+     📝 Open-core platform for managing custom detections and incident response document…
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 JaiSharma004/GoofEDR
+     ⭐ 0  🗣 C++  📅 2026-05-14
+     🔗 https://github.com/JaiSharma004/GoofEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 Yelsmeky/apple-threat-watch-codex
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/Yelsmeky/apple-threat-watch-codex
+     📝 Prompt-only Codex workflow for daily Apple malware and zero-day threat watching
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 OmniSpectre-Sec/CyberAgent-AI-Engine-Preview
+     ⭐ 1  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/OmniSpectre-Sec/CyberAgent-AI-Engine-Preview
+     📝 A sanitized preview of the AI-driven decision logic and adaptive mutation engine…
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 bomberoxenviosdosruedas/a4canvas
+     ⭐ 0  🗣 TypeScript  📅 2026-05-14
+     🔗 https://github.com/bomberoxenviosdosruedas/a4canvas
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 xiayi2012/xjtools
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/xiayi2012/xjtools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 ravindranath11818/Windows-pentest-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/ravindranath11818/Windows-pentest-lab
+     📝 Penetration testing and vulnerability assessment  on windows 7 
+     🏷  cve, cybersecurity, ethical-hacking, kali-linux, metasploit, nmap, penetration-testing, vulnerability-assessment, windows-security
+[2026-05-14 09:39:46 UTC] [NEW]   📦 FordTruckMonth/joeys-world
+     ⭐ 0  🗣 C++  📅 2026-05-14
+     🔗 https://github.com/FordTruckMonth/joeys-world
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 conwilso92/cysaplus-study-guide
+     ⭐ 0  🗣 HTML  📅 2026-05-14
+     🔗 https://github.com/conwilso92/cysaplus-study-guide
+     📝 About Comprehensive study guide for CompTIA Linux+ (CS0-003) — synthesized from …
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 eriklacson/leansec-claude-code-boilerplate
+     ⭐ 0  🗣 Shell  📅 2026-05-14
+     🔗 https://github.com/eriklacson/leansec-claude-code-boilerplate
+     📝 Claude Code Boilerplate for Creating Extensions for the LeanSecurity Ecosystem
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 AaronW-Cipher/silent-corridor-x-threat-hunt
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/AaronW-Cipher/silent-corridor-x-threat-hunt
+     📝 Microsoft Sentinel threat hunt report covering credential theft, WMI lateral mov…
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 aarondutton-grc/pasta-and-fair-threat-modeling
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/aarondutton-grc/pasta-and-fair-threat-modeling
+     📝 Threat modeling case study applying PASTA (7-stage) and FAIR (Monte Carlo) to qu…
+     🏷  fair, grc, healthcare-security, monte-carlo-simulation, pasta, ransomware, risk-quantification, security-portfolio, threat-modeling
+[2026-05-14 09:39:46 UTC] [NEW]   📦 FordTruckMonth/RedSun-POC
+     ⭐ 0  🗣 C++  📅 2026-05-14
+     🔗 https://github.com/FordTruckMonth/RedSun-POC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 ed-gomez/gromacs-pipeline
+     ⭐ 0  🗣 Shell  📅 2026-05-14
+     🔗 https://github.com/ed-gomez/gromacs-pipeline
+     📝 A bash script that will prepare a pdb file for a MD run and handle minimization,…
+     🏷  chemistry, computational-chemistry, molecular-dynamics
+[2026-05-14 09:39:46 UTC] [NEW]   📦 FordTruckMonth/phantomrpc-poc
+     ⭐ 0  🗣 C  📅 2026-05-14
+     🔗 https://github.com/FordTruckMonth/phantomrpc-poc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 aboova1/PCDoc
+     ⭐ 0  🗣 C#  📅 2026-05-13
+     🔗 https://github.com/aboova1/PCDoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 roderi18/edr-mobile
+     ⭐ 0  🗣 JavaScript  📅 2026-05-14
+     🔗 https://github.com/roderi18/edr-mobile
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 cklingmann3/cklingmann3-Cybersecurity-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/cklingmann3/cklingmann3-Cybersecurity-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 aferapokitaysky/browser-injector
+     ⭐ 0  🗣 C  📅 2026-05-13
+     🔗 https://github.com/aferapokitaysky/browser-injector
+     📝 browser elevator for cookies logs passes and other
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 fsoc-ghost-0x/Fsociety_Operations_Logs.dat
+     ⭐ 1  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/fsoc-ghost-0x/Fsociety_Operations_Logs.dat
+     📝 > Hello, friend. Advanced Persistent Threat (APT) operational archives. Featurin…
+     🏷  active-directory, ai-red-teaming, apt, c0deghost, cyber-kill-chain, digital-forensics, edr-evasion, exploit-development, fsociety, hackthebox, malware-analysis, mr-robot, offensive-security, red-team, threat-hunting, threat-intelligence, ttps, underground
+[2026-05-14 09:39:46 UTC] [NEW]   📦 Nelsonluwoye/ServiceNow--security-enrichment
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/Nelsonluwoye/ServiceNow--security-enrichment
+     📝 ServiceNow security incident auto-enrichment — integrates CMDB, vulnerability sc…
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 vasquja/det-eng
+     ⭐ 0  🗣 C  📅 2026-05-13
+     🔗 https://github.com/vasquja/det-eng
+     📝 Personal detection engineering research
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 felipos/mini-shai-hulud-scanner
+     ⭐ 0  🗣 JavaScript  📅 2026-05-13
+     🔗 https://github.com/felipos/mini-shai-hulud-scanner
+     📝 Shai hulud vulns scanner
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 MitchellGulledge3/jamf-sentinel-mcp-demo-ui
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/MitchellGulledge3/jamf-sentinel-mcp-demo-ui
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 jealarue/Incident-Response-Training-Simulator
+     ⭐ 0  🗣 HTML  📅 2026-05-13
+     🔗 https://github.com/jealarue/Incident-Response-Training-Simulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 irt-mercadolibre/challenge_rafaelsorgato_dfir_automation
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/irt-mercadolibre/challenge_rafaelsorgato_dfir_automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 adeel-moh/keylogger
+     ⭐ 0  🗣 Python  📅 2026-05-13
+     🔗 https://github.com/adeel-moh/keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-14 09:39:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-14 09:39:46 UTC] [INFO]   → 6 repository trovati in totale
+[2026-05-14 09:39:46 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-05-14 09:39:46 UTC] [NEW]   📦 a0x14D/a0x14D
+     ⭐ 0  🗣 N/A  📅 2026-05-14
+     🔗 https://github.com/a0x14D/a0x14D
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 sergefdrv/emacs-linux-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-05-13
+     🔗 https://github.com/sergefdrv/emacs-linux-sandbox
+     📝 Run PGTK GNU Emacs inside a sandbox on Linux
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 vasquja/det-eng
+     ⭐ 0  🗣 C  📅 2026-05-13
+     🔗 https://github.com/vasquja/det-eng
+     📝 Personal detection engineering research
+     🏷  —
+[2026-05-14 09:39:46 UTC] [NEW]   📦 nicsanchezr/awesome-cyber-skills-es
+     ⭐ 0  🗣 N/A  📅 2026-05-13
+     🔗 https://github.com/nicsanchezr/awesome-cyber-skills-es
+     📝 Lista curada de entornos para practicar ciberseguridad de forma legal y gratuita…
+     🏷  awesome-list, chile, ctf, cybersecurity, espanol, ethical-hacking, hacking, latam, pentest, spanish, wargames
+[2026-05-14 09:39:46 UTC] [NEW]   📦 Joshua-Ba/agent-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-05-13
+     🔗 https://github.com/Joshua-Ba/agent-sandbox
+     📝 A local, isolated execution environment for LLM agents. Model runs on the host, …
+     🏷  —
+[2026-05-14 09:39:46 UTC] [INFO] ============================================================
+[2026-05-14 09:39:46 UTC] [INFO] Esecuzione completata — 49 nuovi repo trovati, 0 errori
+[2026-05-14 09:39:46 UTC] [INFO] ============================================================
