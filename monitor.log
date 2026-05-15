@@ -5550,3 +5550,119 @@
 [2026-05-15 14:11:20 UTC] [INFO] ============================================================
 [2026-05-15 14:11:20 UTC] [INFO] Esecuzione completata — 17 nuovi repo trovati, 0 errori
 [2026-05-15 14:11:20 UTC] [INFO] ============================================================
+[2026-05-15 19:40:55 UTC] [INFO] ============================================================
+[2026-05-15 19:40:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-15 19:40:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-15 19:40:55 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-15 19:40:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-15 19:40:55 UTC] [INFO] ============================================================
+[2026-05-15 19:40:55 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-15 19:40:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-15 19:40:55 UTC] [INFO]   → 2 repository trovati in totale
+[2026-05-15 19:40:55 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-15 19:40:55 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-15 19:40:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-15 19:40:57 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-15 19:40:57 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-05-15 19:40:57 UTC] [NEW]   📦 mabuikhzam/Edrak-Backend
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/mabuikhzam/Edrak-Backend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 blumind/benchmark
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/blumind/benchmark
+     📝 Public benchmark for AI models applied to water treatment plant operations. v1.0…
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 wcoreiron-rgb/regentclaw
+     ⭐ 1  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/wcoreiron-rgb/regentclaw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 ahmvdbadawy/CoEDR
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/ahmvdbadawy/CoEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 abdalazizhakam/EDRAK_Dashbord
+     ⭐ 0  🗣 TypeScript  📅 2026-05-15
+     🔗 https://github.com/abdalazizhakam/EDRAK_Dashbord
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 Subodh057/crowdstrike-falcon-edr-investigation-study
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/Subodh057/crowdstrike-falcon-edr-investigation-study
+     📝 Screenshot-based CrowdStrike Falcon EDR investigation study covering detection t…
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 SynapCores/sentryGraph
+     ⭐ 0  🗣 TypeScript  📅 2026-05-15
+     🔗 https://github.com/SynapCores/sentryGraph
+     📝 Real-time threat detection on a single SQL surface — phish → credential stuffing…
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 Aero-IT-Inc/KBI-IP-LIST
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/Aero-IT-Inc/KBI-IP-LIST
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 s-s12n/watchdog-rs
+     ⭐ 0  🗣 Rust  📅 2026-05-15
+     🔗 https://github.com/s-s12n/watchdog-rs
+     📝 Linux-only process watchdog written in Rust
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 mr-edr/librarymgmt
+     ⭐ 0  🗣 Java  📅 2026-05-15
+     🔗 https://github.com/mr-edr/librarymgmt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 andy-broyles/weavewhatever
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/andy-broyles/weavewhatever
+     📝 Live IT control plane CLI — works with reality instead of fighting it. 16 live m…
+     🏷  cli, devops, identity-management, it-operations, live-state, mdm, meraki, observability, okta, python, terraform-alternative, typer
+[2026-05-15 19:40:57 UTC] [NEW]   📦 FabioD95/XDRPeak
+     ⭐ 0  🗣 Swift  📅 2026-05-15
+     🔗 https://github.com/FabioD95/XDRPeak
+     📝 Peak XDR brightness for your Mac display — 1600 nits on supported Apple displays
+     🏷  apple-silicon, brightness, edr, hdr, macos, menubar, metal, swift, xdr
+[2026-05-15 19:40:57 UTC] [NEW]   📦 mesasunnybabu/mesasunnybabu
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/mesasunnybabu/mesasunnybabu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 19:40:57 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-15 19:40:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-15 19:40:57 UTC] [INFO]   → 16 repository trovati in totale
+[2026-05-15 19:40:57 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-05-15 19:40:57 UTC] [NEW]   📦 anatemnein/astaroth
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/anatemnein/astaroth
+     📝 Red Team MCP Consultant
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 lengye666/TrollInstallerX-4-29
+     ⭐ 0  🗣 C  📅 2026-05-15
+     🔗 https://github.com/lengye666/TrollInstallerX-4-29
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 H4zaz/DirtyFrag-Linux-Kernel-Local-Privilege-Escalation-Educational-Mirror-
+     ⭐ 0  🗣 C  📅 2026-05-15
+     🔗 https://github.com/H4zaz/DirtyFrag-Linux-Kernel-Local-Privilege-Escalation-Educational-Mirror-
+     📝 Linux Kernel exploit 2026
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 a398275770-ctrl/ctf-skills
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/a398275770-ctrl/ctf-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 Lazarus409/pwndrive-academy-writeup
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/Lazarus409/pwndrive-academy-writeup
+     📝 Documented a full Windows web exploitation walkthrough on GitHub involving: • En…
+     🏷  —
+[2026-05-15 19:40:57 UTC] [NEW]   📦 grabesec/XCP_ng_CVE-2026-43284_tester
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/grabesec/XCP_ng_CVE-2026-43284_tester
+     📝 Tester for CVE-2026-43284
+     🏷  —
+[2026-05-15 19:40:57 UTC] [INFO] ============================================================
+[2026-05-15 19:40:57 UTC] [INFO] Esecuzione completata — 19 nuovi repo trovati, 0 errori
+[2026-05-15 19:40:57 UTC] [INFO] ============================================================
