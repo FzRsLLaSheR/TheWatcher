@@ -5444,3 +5444,109 @@
 [2026-05-15 10:01:15 UTC] [INFO] ============================================================
 [2026-05-15 10:01:15 UTC] [INFO] Esecuzione completata — 49 nuovi repo trovati, 0 errori
 [2026-05-15 10:01:15 UTC] [INFO] ============================================================
+[2026-05-15 14:11:16 UTC] [INFO] ============================================================
+[2026-05-15 14:11:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-15 14:11:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-15 14:11:16 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-15 14:11:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-15 14:11:16 UTC] [INFO] ============================================================
+[2026-05-15 14:11:16 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-15 14:11:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-15 14:11:16 UTC] [INFO]   → 2 repository trovati in totale
+[2026-05-15 14:11:16 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-15 14:11:16 UTC] [NEW]   📦 Hacky4212/reverse_cli_app
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/Hacky4212/reverse_cli_app
+     📝 逆向工具（命令行版）+（APP版）
+     🏷  —
+[2026-05-15 14:11:16 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-15 14:11:16 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-15 14:11:19 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-15 14:11:19 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-05-15 14:11:19 UTC] [NEW]   📦 zzqsec/zzqsec
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/zzqsec/zzqsec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 Waqarahmd222/windows-security-monitor
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/Waqarahmd222/windows-security-monitor
+     📝 🛡️ Real-time Windows endpoint security monitor with stealth mode — detects brute…
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 dotm5/LumaHEIC
+     ⭐ 0  🗣 TypeScript  📅 2026-05-15
+     🔗 https://github.com/dotm5/LumaHEIC
+     📝 Open-source Apple HDR gain-map HEIC generator with local WASM encoding, base+gai…
+     🏷  browser, hdr, heic, local-first, wasm
+[2026-05-15 14:11:19 UTC] [NEW]   📦 n0081183/siwz-rag-v3
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/n0081183/siwz-rag-v3
+     📝 SecOps SIWZ/RFP Assistant — offline RAG app
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 Hunter529787/BKY
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/Hunter529787/BKY
+     📝 정보보안 시스템 개발테스트중....
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 BhavikaBhoir/RansomGuard
+     ⭐ 0  🗣 CSS  📅 2026-05-15
+     🔗 https://github.com/BhavikaBhoir/RansomGuard
+     📝 A real-time behavior-based ransomware detection tool that monitors filesystem ac…
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 Leiruz/resume
+     ⭐ 0  🗣 CSS  📅 2026-05-14
+     🔗 https://github.com/Leiruz/resume
+     📝 Zuriel's Resume Website
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 MoonHamster024/KILLKITT----The-offensive-toolkit
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/MoonHamster024/KILLKITT----The-offensive-toolkit
+     📝 Killkit — all-in-one Kali Linux pentest + OSINT toolkit. FUD payload builder (AS…
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 yahyaBoubaker/cyna
+     ⭐ 0  🗣 PHP  📅 2026-05-15
+     🔗 https://github.com/yahyaBoubaker/cyna
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 Sagarvara909/soc-analyst-ai
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/Sagarvara909/soc-analyst-ai
+     📝  AI-powered SOC analyst — anomaly detection, MITRE ATT&CK classification, Claude…
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 wedikcz/EDGE
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/wedikcz/EDGE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 cobaltstrike2026/Public-release
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/cobaltstrike2026/Public-release
+     📝 Cobalt Strike is a legitimate penetration testing and red team tool used by cybe…
+     🏷  cobalt-cm-ai, cobalt-cm-pom, cobalt-cm-supported, cobalt-strike, cobalt-tools, cobalt2, cobaltstrike-cna
+[2026-05-15 14:11:19 UTC] [NEW]   📦 Refka286/PhishShield-SOC
+     ⭐ 0  🗣 Python  📅 2026-05-14
+     🔗 https://github.com/Refka286/PhishShield-SOC
+     📝 PhishShield SOC est une application Python/Streamlit de détection et scoring des…
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 leelasagar881/SOC-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/leelasagar881/SOC-Home-Lab
+     📝 Enterprise SOC Lab — Wazuh + Splunk + Suricata on GCP
+     🏷  —
+[2026-05-15 14:11:19 UTC] [NEW]   📦 HeapHopper/incodenito_edr
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/HeapHopper/incodenito_edr
+     📝 An EDR created by following a walkthrough from the Incodenito YouTube Channel
+     🏷  —
+[2026-05-15 14:11:19 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-15 14:11:19 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-15 14:11:20 UTC] [INFO]   → 10 repository trovati in totale
+[2026-05-15 14:11:20 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-15 14:11:20 UTC] [NEW]   📦 sbose78/tizen-watch-internals
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/sbose78/tizen-watch-internals
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-15 14:11:20 UTC] [INFO] ============================================================
+[2026-05-15 14:11:20 UTC] [INFO] Esecuzione completata — 17 nuovi repo trovati, 0 errori
+[2026-05-15 14:11:20 UTC] [INFO] ============================================================
