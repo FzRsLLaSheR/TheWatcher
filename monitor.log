@@ -5908,3 +5908,144 @@
 [2026-05-16 08:06:59 UTC] [INFO] ============================================================
 [2026-05-16 08:06:59 UTC] [INFO] Esecuzione completata — 14 nuovi repo trovati, 0 errori
 [2026-05-16 08:06:59 UTC] [INFO] ============================================================
+[2026-05-16 13:26:14 UTC] [INFO] ============================================================
+[2026-05-16 13:26:14 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-16 13:26:14 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-16 13:26:14 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-16 13:26:14 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-16 13:26:14 UTC] [INFO] ============================================================
+[2026-05-16 13:26:14 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-16 13:26:14 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-16 13:26:14 UTC] [INFO]   → 2 repository trovati in totale
+[2026-05-16 13:26:14 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-16 13:26:14 UTC] [NEW]   📦 Vu2n/Helios
+     ⭐ 1  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/Vu2n/Helios
+     📝 A LLM based BYOVD pipeline for single/mass driver ZeroDay/Exploit hunting
+     🏷  —
+[2026-05-16 13:26:14 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-16 13:26:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-16 13:26:16 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-16 13:26:16 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-05-16 13:26:16 UTC] [NEW]   📦 chiragjaiswar0814/Reg-Hunter
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/chiragjaiswar0814/Reg-Hunter
+     📝 Reg-Hunter is a Python-based Windows Registry forensics tool that scans common m…
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 70174381-web/SOC-console
+     ⭐ 0  🗣 TypeScript  📅 2026-05-16
+     🔗 https://github.com/70174381-web/SOC-console
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 juraijmughal378-png/Cyberster-Red-Team-Internship-Week-09-AV-EDR-evasion-and-defensive-bypassing-techniques
+     ⭐ 1  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/juraijmughal378-png/Cyberster-Red-Team-Internship-Week-09-AV-EDR-evasion-and-defensive-bypassing-techniques
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 limo57640-crypto/cpanel-cve-41940-detector
+     ⭐ 0  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/limo57640-crypto/cpanel-cve-41940-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 gunba/office-tools
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/gunba/office-tools
+     📝 Claude Code + Codex plugin: xlsx/docx/pptx skills and the ATO legal corpus MCP s…
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 fahmipentest/soc-analyst-case-study
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/fahmipentest/soc-analyst-case-study
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 DorianGallo/hack-skills-local
+     ⭐ 1  🗣 CSS  📅 2026-05-16
+     🔗 https://github.com/DorianGallo/hack-skills-local
+     📝 (Local repo) Helping AI Agent become an awesome practical hacker!
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 WiLL75G/soc-day17-social-engineering-awareness
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/WiLL75G/soc-day17-social-engineering-awareness
+     📝 Identifying and analyzing social engineering attack techniques
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 Aseel-Koraliyadan/Wazuh-Home-Lab
+     ⭐ 0  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/Aseel-Koraliyadan/Wazuh-Home-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 alf5813/obfusguard
+     ⭐ 1  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/alf5813/obfusguard
+     📝 Static PE malware analysis engine and explainable verdicts without execution
+     🏷  dfir, entropy, malware-analysis, malware-detection, packer-detection, pe-analysis, security-tools, static-analysis, threat-intelligence, yara
+[2026-05-16 13:26:16 UTC] [NEW]   📦 alfisyahry/incidentkit
+     ⭐ 2  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/alfisyahry/incidentkit
+     📝 Local incident response collection toolkit for Linux systems.
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 alfisyahry/multisync
+     ⭐ 2  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/alfisyahry/multisync
+     📝 Multi-remote backup copy tool powered by rclone.
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 alfisyahry/ghostbackup
+     ⭐ 2  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/alfisyahry/ghostbackup
+     📝 Encrypted backup workflow with protected secure deletion for sensitive files.
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 alfisyahry/backupverify
+     ⭐ 2  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/alfisyahry/backupverify
+     📝 Automated backup restore and integrity verification tool.
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 alfisyahry/keyvault
+     ⭐ 2  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/alfisyahry/keyvault
+     📝 Local SSH key inventory, backup, rotation, and revoke helper for developers and …
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 alfisyahry/secuaudit
+     ⭐ 2  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/alfisyahry/secuaudit
+     📝 Fast Linux server security audit script for sysadmins and DevOps workflows.
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 alfisyahry/ransomguard
+     ⭐ 2  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/alfisyahry/ransomguard
+     📝 Defensive file activity monitor for detecting suspicious ransomware-like behavio…
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 alfisyahry/oneshotbackup
+     ⭐ 2  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/alfisyahry/oneshotbackup
+     📝 Encrypted local and cloud backup tool for Linux servers and developer workstatio…
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 Sampath1232/GuardianPI
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/Sampath1232/GuardianPI
+     📝 Modern edge security platform with EDR/XDR capabilities, real-time monitoring, a…
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 Sonic8080/Binary-Encryption
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/Sonic8080/Binary-Encryption
+     📝  Binary Encrypter & Shellcode Obfuscator
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 Maveera/MavizOS
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/Maveera/MavizOS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 13:26:16 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-16 13:26:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-16 13:26:16 UTC] [INFO]   → 16 repository trovati in totale
+[2026-05-16 13:26:16 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-16 13:26:16 UTC] [NEW]   📦 maamooon/potato-ctf-privilege-escalation
+     ⭐ 0  🗣 C  📅 2026-05-16
+     🔗 https://github.com/maamooon/potato-ctf-privilege-escalation
+     📝 A full penetration test writeup against the Potato CTF virtual machine. The exer…
+     🏷  —
+[2026-05-16 13:26:16 UTC] [NEW]   📦 DorianGallo/hack-skills-local
+     ⭐ 1  🗣 CSS  📅 2026-05-16
+     🔗 https://github.com/DorianGallo/hack-skills-local
+     📝 (Local repo) Helping AI Agent become an awesome practical hacker!
+     🏷  —
+[2026-05-16 13:26:16 UTC] [INFO] ============================================================
+[2026-05-16 13:26:16 UTC] [INFO] Esecuzione completata — 24 nuovi repo trovati, 0 errori
+[2026-05-16 13:26:16 UTC] [INFO] ============================================================
