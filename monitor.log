@@ -5817,3 +5817,94 @@
 [2026-05-16 03:23:53 UTC] [INFO] ============================================================
 [2026-05-16 03:23:53 UTC] [INFO] Esecuzione completata — 26 nuovi repo trovati, 0 errori
 [2026-05-16 03:23:53 UTC] [INFO] ============================================================
+[2026-05-16 08:06:57 UTC] [INFO] ============================================================
+[2026-05-16 08:06:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-16 08:06:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-16 08:06:57 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-16 08:06:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-16 08:06:57 UTC] [INFO] ============================================================
+[2026-05-16 08:06:57 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-16 08:06:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-16 08:06:57 UTC] [INFO]   → 1 repository trovati in totale
+[2026-05-16 08:06:57 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-16 08:06:57 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-16 08:06:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-16 08:06:58 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-16 08:06:58 UTC] [NEW]   🆕 12 NUOVI repository:
+[2026-05-16 08:06:58 UTC] [NEW]   📦 VidyaBodepudi/Windows-PenTest-Kit
+     ⭐ 0  🗣 PowerShell  📅 2026-05-16
+     🔗 https://github.com/VidyaBodepudi/Windows-PenTest-Kit
+     📝 Small toolchain setup so IT admins can run an "internal pentest" to get them to …
+     🏷  —
+[2026-05-16 08:06:58 UTC] [NEW]   📦 DakshataBhende/DakshataBhende
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/DakshataBhende/DakshataBhende
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 08:06:58 UTC] [NEW]   📦 risha463/SOC-Analyst-Journey
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/risha463/SOC-Analyst-Journey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 08:06:58 UTC] [NEW]   📦 Iii3pl/dingwave
+     ⭐ 0  🗣 Go  📅 2026-05-16
+     🔗 https://github.com/Iii3pl/dingwave
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 08:06:58 UTC] [NEW]   📦 boniyeamincse/keylogger
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/boniyeamincse/keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 08:06:58 UTC] [NEW]   📦 DFKHelper/token-goat
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/DFKHelper/token-goat
+     📝 Hook-based token optimizer for Claude Code and Codex CLI. Auto-shrinks images, p…
+     🏷  claude-code, codex-cli, context-window, hooks, linux, llm-tools, python, token-optimization, windows, wsl
+[2026-05-16 08:06:58 UTC] [NEW]   📦 SyntaKing/sentinel-x
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/SyntaKing/sentinel-x
+     📝 A lightweight, Python-based Endpoint Detection & Response System (EDR) featuring…
+     🏷  —
+[2026-05-16 08:06:58 UTC] [NEW]   📦 Zeltoc/ad-kerberoasting-detection
+     ⭐ 1  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/Zeltoc/ad-kerberoasting-detection
+     📝 SOC detection lab — full kill chain analysis of Kerberoasting against a service …
+     🏷  active-directory, blue-team, cybersecurity, detection-engineering, homelab, incident-response, kerberoasting, mitre-attack, security-operations, siem, soc-analyst, sysmon, threat-detection, wazuh, windows-security
+[2026-05-16 08:06:58 UTC] [NEW]   📦 SidharthKriplani/agentreliabilitylab
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/SidharthKriplani/agentreliabilitylab
+     📝 LangGraph agent for cyber alert triage — hybrid RAG over MITRE ATT&CK / NIST CSF…
+     🏷  —
+[2026-05-16 08:06:58 UTC] [NEW]   📦 Kendryck-Garcia/FileIntegrityMonitor
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/Kendryck-Garcia/FileIntegrityMonitor
+     📝 An event-driven host intrusion detection system built in Python using SHA-256 ha…
+     🏷  —
+[2026-05-16 08:06:58 UTC] [NEW]   📦 CyberSenseLabs/policy-context-generator
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/CyberSenseLabs/policy-context-generator
+     📝 Machine-readable schema for codifying organisational context to feed ISO/IEC 270…
+     🏷  —
+[2026-05-16 08:06:58 UTC] [NEW]   📦 vineet-kaur-gh/Threat-Hunting-Scenario-Tor
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/vineet-kaur-gh/Threat-Hunting-Scenario-Tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 08:06:58 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-16 08:06:58 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-16 08:06:59 UTC] [INFO]   → 14 repository trovati in totale
+[2026-05-16 08:06:59 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-16 08:06:59 UTC] [NEW]   📦 morgan7street/cyber_lab
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/morgan7street/cyber_lab
+     📝 academy cybersécurité
+     🏷  —
+[2026-05-16 08:06:59 UTC] [NEW]   📦 ericklml/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/ericklml/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 08:06:59 UTC] [INFO] ============================================================
+[2026-05-16 08:06:59 UTC] [INFO] Esecuzione completata — 14 nuovi repo trovati, 0 errori
+[2026-05-16 08:06:59 UTC] [INFO] ============================================================
