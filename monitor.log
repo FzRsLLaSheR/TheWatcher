@@ -6049,3 +6049,164 @@
 [2026-05-16 13:26:16 UTC] [INFO] ============================================================
 [2026-05-16 13:26:16 UTC] [INFO] Esecuzione completata — 24 nuovi repo trovati, 0 errori
 [2026-05-16 13:26:16 UTC] [INFO] ============================================================
+[2026-05-16 19:07:18 UTC] [INFO] ============================================================
+[2026-05-16 19:07:18 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-16 19:07:18 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-16 19:07:18 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-16 19:07:18 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-16 19:07:18 UTC] [INFO] ============================================================
+[2026-05-16 19:07:18 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-16 19:07:18 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-16 19:07:18 UTC] [INFO]   → 4 repository trovati in totale
+[2026-05-16 19:07:18 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-16 19:07:18 UTC] [NEW]   📦 overtimepog/byovd-cli
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/overtimepog/byovd-cli
+     📝 Agent-native CLI for Hyper-V BYOVD VM management and kernel driver testing
+     🏷  —
+[2026-05-16 19:07:18 UTC] [NEW]   📦 zencefilefendi/Operation-Molasses
+     ⭐ 5  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/zencefilefendi/Operation-Molasses
+     📝 🍯 Operation Molasses: Zencefil Efendi's Cyber Dowry Chest. A state-actor level t…
+     🏷  apt, cybersecurity, evasion, infrastructure-as-code, offensive-security, pentesting, red-team
+[2026-05-16 19:07:18 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-16 19:07:18 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-16 19:07:20 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-16 19:07:20 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-05-16 19:07:20 UTC] [NEW]   📦 ZTMY0/LKM-Rootkit-Detector
+     ⭐ 0  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/ZTMY0/LKM-Rootkit-Detector
+     📝 Cross-view LKM rootkit detector — proves Elastic Security EDR misses a hidden ke…
+     🏷  diamorphine, edr, forensics, kernel, linux, lkm-rootkit, rootkit, security
+[2026-05-16 19:07:20 UTC] [NEW]   📦 MichaelKirbyIT/New-Zero-Day-Announced-on-News-PwnCrypt-ransomware-
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/MichaelKirbyIT/New-Zero-Day-Announced-on-News-PwnCrypt-ransomware-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 0x9reedark/codex-cybersecurity-skills
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/0x9reedark/codex-cybersecurity-skills
+     📝  A practical Codex cybersecurity skills cheatsheet for red team, blue team, purp…
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 MichaelKirbyIT/Suspected-Data-Exfiltration-from-PIPd-Employee
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/MichaelKirbyIT/Suspected-Data-Exfiltration-from-PIPd-Employee
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 Mahmutekremacar/edrpublicsource
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/Mahmutekremacar/edrpublicsource
+     📝 edr publicsource for PROXMOX
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 MichaelKirbyIT/Sudden-Network-Slowdowns
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/MichaelKirbyIT/Sudden-Network-Slowdowns
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 Adhamhany7/Building-and-operating-a-mini-SOC-system---DEPI-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/Adhamhany7/Building-and-operating-a-mini-SOC-system---DEPI-Project
+     📝 A lightweight, production-inspired Security Operations Center (SOC) built using …
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 studen-compence/Netguard
+     ⭐ 3  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/studen-compence/Netguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 pragatipramod788-coder/campas
+     ⭐ 0  🗣 TypeScript  📅 2026-05-16
+     🔗 https://github.com/pragatipramod788-coder/campas
+     📝 Gasless Web3 credential platform built with UGF on Base Sepolia, enabling studen…
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 MichaelKirbyIT/Devices-Accidentally-Exposed-to-the-Internet
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/MichaelKirbyIT/Devices-Accidentally-Exposed-to-the-Internet
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 sebastienmiro/mde-foundations
+     ⭐ 0  🗣 PowerShell  📅 2026-05-16
+     🔗 https://github.com/sebastienmiro/mde-foundations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 cihan-demir/edr_research
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/cihan-demir/edr_research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 Evandabest/Radiant
+     ⭐ 0  🗣 TypeScript  📅 2026-05-16
+     🔗 https://github.com/Evandabest/Radiant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 zencefilefendi/Operation-Molasses
+     ⭐ 5  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/zencefilefendi/Operation-Molasses
+     📝 🍯 Operation Molasses: Zencefil Efendi's Cyber Dowry Chest. A state-actor level t…
+     🏷  apt, cybersecurity, evasion, infrastructure-as-code, offensive-security, pentesting, red-team
+[2026-05-16 19:07:20 UTC] [NEW]   📦 1837620622/codex-red-team-prompt
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/1837620622/codex-red-team-prompt
+     📝 Advanced reverse engineering and red team security system prompt for OpenAI Code…
+     🏷  binary-patching, bug-bounty, c2-framework, codex, ctf, cybersecurity, edr-bypass, exploit-development, kernel-exploitation, malware-analysis, mobile-security, penetration-testing, pentesting, red-team, reverse-engineering, security-research, vulnerability-research
+[2026-05-16 19:07:20 UTC] [NEW]   📦 JAKSecurity/cybersecurity-requirements-traceability
+     ⭐ 0  🗣 HTML  📅 2026-05-16
+     🔗 https://github.com/JAKSecurity/cybersecurity-requirements-traceability
+     📝 Cybersecurity Requirements Traceability Matrix — 1004 sub-element security requi…
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 rambabu-debug/ThreatAnalysisSystem
+     ⭐ 0  🗣 Java  📅 2026-05-16
+     🔗 https://github.com/rambabu-debug/ThreatAnalysisSystem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 nafeesniflar/WAZUH_DOCUMENTATION
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/nafeesniflar/WAZUH_DOCUMENTATION
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 ibrahim-1-ciftci/silim
+     ⭐ 0  🗣 C  📅 2026-05-16
+     🔗 https://github.com/ibrahim-1-ciftci/silim
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 dev0558/Triage-0
+     ⭐ 0  🗣 CSS  📅 2026-05-16
+     🔗 https://github.com/dev0558/Triage-0
+     📝 Autonomous tier 1 SOC analyst. Agentic loop with tool calls, 5 staged alert scen…
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 shwetabh18s/MirrorX
+     ⭐ 1  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/shwetabh18s/MirrorX
+     📝 File-Less Malware & EDR 
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 amssidds/Detection-Engineering-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/amssidds/Detection-Engineering-Lab
+     📝 Centralized endpoint security monitoring for 25+ Windows workstations using open…
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 zrssec/blue-team
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/zrssec/blue-team
+     📝 Cybersecurity blue team notes.
+     🏷  —
+[2026-05-16 19:07:20 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-16 19:07:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-16 19:07:20 UTC] [INFO]   → 19 repository trovati in totale
+[2026-05-16 19:07:20 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-16 19:07:20 UTC] [NEW]   📦 andrewdkennedy1/ps4linux
+     ⭐ 0  🗣 PowerShell  📅 2026-05-16
+     🔗 https://github.com/andrewdkennedy1/ps4linux
+     📝 PS4 Linux workspace for CUH-7015B Belize
+     🏷  —
+[2026-05-16 19:07:20 UTC] [NEW]   📦 1837620622/codex-red-team-prompt
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/1837620622/codex-red-team-prompt
+     📝 Advanced reverse engineering and red team security system prompt for OpenAI Code…
+     🏷  binary-patching, bug-bounty, c2-framework, codex, ctf, cybersecurity, edr-bypass, exploit-development, kernel-exploitation, malware-analysis, mobile-security, penetration-testing, pentesting, red-team, reverse-engineering, security-research, vulnerability-research
+[2026-05-16 19:07:20 UTC] [NEW]   📦 iumangkaushik/TRY_HACK_ME-ROOMS
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/iumangkaushik/TRY_HACK_ME-ROOMS
+     📝 A hand-picked, topic-segmented collection of 300+ free TryHackMe rooms organised…
+     🏷  —
+[2026-05-16 19:07:20 UTC] [INFO] ============================================================
+[2026-05-16 19:07:20 UTC] [INFO] Esecuzione completata — 28 nuovi repo trovati, 0 errori
+[2026-05-16 19:07:20 UTC] [INFO] ============================================================
