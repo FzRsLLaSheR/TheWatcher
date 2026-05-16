@@ -5666,3 +5666,154 @@
 [2026-05-15 19:40:57 UTC] [INFO] ============================================================
 [2026-05-15 19:40:57 UTC] [INFO] Esecuzione completata — 19 nuovi repo trovati, 0 errori
 [2026-05-15 19:40:57 UTC] [INFO] ============================================================
+[2026-05-16 03:23:50 UTC] [INFO] ============================================================
+[2026-05-16 03:23:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-16 03:23:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-16 03:23:50 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-16 03:23:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-16 03:23:50 UTC] [INFO] ============================================================
+[2026-05-16 03:23:50 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-16 03:23:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-16 03:23:51 UTC] [INFO]   → 1 repository trovati in totale
+[2026-05-16 03:23:51 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-16 03:23:51 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-16 03:23:51 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-16 03:23:52 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-16 03:23:52 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-05-16 03:23:52 UTC] [NEW]   📦 mrgbells/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/mrgbells/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 niiobdavid/Threat-Hunting-Scenario-Tor
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/niiobdavid/Threat-Hunting-Scenario-Tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 BPayneCodes/Wazuh-Server
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/BPayneCodes/Wazuh-Server
+     📝 This home lab will incorporate Wazuh as the EDR inspecting packets that are depl…
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 S4muel-Rodriguez/analizis-de-red-nac
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/S4muel-Rodriguez/analizis-de-red-nac
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 Hi-FullHouse/CyberSecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/Hi-FullHouse/CyberSecurity-Skills
+     📝 一个由AI运维的网络安全Skill知识库
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 jasonmbongho/resume-interview-coach-gpt
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/jasonmbongho/resume-interview-coach-gpt
+     📝 AI powered resume review and interview preparation assistant that provides ATS o…
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 delsinm/fleetdm-kandji
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/delsinm/fleetdm-kandji
+     📝 Python script to check endpoints against FleetDM policies and perform remediatio…
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 arnaudcammas/vim3-mainline-setup
+     ⭐ 0  🗣 C  📅 2026-05-16
+     🔗 https://github.com/arnaudcammas/vim3-mainline-setup
+     📝 Khadas VIM3 mainline 7.0.6 — retrogaming + streaming + Milkdrop audio viz. Mali …
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 tiennm99/mv3-detection-markers
+     ⭐ 0  🗣 JavaScript  📅 2026-05-16
+     🔗 https://github.com/tiennm99/mv3-detection-markers
+     📝 Benign Chrome MV3 detection markers for validating browser-extension security sc…
+     🏷  chrome-extension, defensive-security, detection-engineering, educational, extension-security, manifest-v3, security-testing
+[2026-05-16 03:23:52 UTC] [NEW]   📦 ASHOKREDDY7377/Cybersecurity_portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/ASHOKREDDY7377/Cybersecurity_portfolio
+     📝 A collection of my Hands-on works.
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 Arc-Cyber-Arsenal/Agentic-Blue-Team
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/Arc-Cyber-Arsenal/Agentic-Blue-Team
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 RRSWSEC/TheRedBook
+     ⭐ 0  🗣 HTML  📅 2026-05-15
+     🔗 https://github.com/RRSWSEC/TheRedBook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 sewernoodle/nothing_headphones_assistant_button_remapper
+     ⭐ 0  🗣 PowerShell  📅 2026-05-15
+     🔗 https://github.com/sewernoodle/nothing_headphones_assistant_button_remapper
+     📝 Remap the Nothing Headphones (1) voice assistant button to any keystroke on Wind…
+     🏷  avrcp, bluetooth, key-remapper, key-remapping, nothing-headphones, powershell, push-to-talk, reverse-engineering, tray-app, windows, wireshark
+[2026-05-16 03:23:52 UTC] [NEW]   📦 BrianSantiago-GRC/microsoft-defender-endpoint-investigation
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/BrianSantiago-GRC/microsoft-defender-endpoint-investigation
+     📝 Completed junior endpoint investigation walkthrough using Windows Security, Defe…
+     🏷  cybersecurity, endpoint-security, incident-response, microsoft-defender, portfolio, soc, windows-security
+[2026-05-16 03:23:52 UTC] [NEW]   📦 iblonded/SOC-Lab-Nmap-Detection
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/iblonded/SOC-Lab-Nmap-Detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 SeifMoussa/host-based-intrusion-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/SeifMoussa/host-based-intrusion-detection-lab
+     📝 Defensive host-based intrusion detection lab using Python, synthetic host-event …
+     🏷  alert-triage, blue-team, codeql, cybersecurity, detection-engineering, file-integrity-monitoring, github-actions, hids, host-based-intrusion-detection, incident-response, portfolio, pytest, python, ruff, soc
+[2026-05-16 03:23:52 UTC] [NEW]   📦 RonaldoSMelo/Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/RonaldoSMelo/Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     📝 Simulando um Malware de Captura de Dados Simples em Python e Aprendendo a se Pro…
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 dfir-g0blin/Detection-Engineering-Portfolio
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/dfir-g0blin/Detection-Engineering-Portfolio
+     📝 A sanitized portfolio of high-fidelity detection logic, automated response playb…
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 laurenceday/wildcat-git-incident
+     ⭐ 2  🗣 Shell  📅 2026-05-15
+     🔗 https://github.com/laurenceday/wildcat-git-incident
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 rubaomari/MalwareSamples
+     ⭐ 0  🗣 N/A  📅 2026-05-15
+     🔗 https://github.com/rubaomari/MalwareSamples
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 AmandaChirino/cerebellum_main_SPANISH
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/AmandaChirino/cerebellum_main_SPANISH
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 avelinofaco/sistemas_distribuidos_delivery_RMI
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/avelinofaco/sistemas_distribuidos_delivery_RMI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [NEW]   📦 appiahkubis14/mars-gully-change-detection
+     ⭐ 0  🗣 Python  📅 2026-05-15
+     🔗 https://github.com/appiahkubis14/mars-gully-change-detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:52 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-16 03:23:52 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-16 03:23:53 UTC] [INFO]   → 12 repository trovati in totale
+[2026-05-16 03:23:53 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-16 03:23:53 UTC] [NEW]   📦 rauljvc8/Exploit-Dirty-Cow
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/rauljvc8/Exploit-Dirty-Cow
+     📝 Escalamiento de privilegios! usando Kernel exploit DirtyCow
+     🏷  —
+[2026-05-16 03:23:53 UTC] [NEW]   📦 vanessavillagrana24-oss/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/vanessavillagrana24-oss/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     📝 Resolución del proyecto: Escalamiento de Privilegios usando el Kernel Exploit Di…
+     🏷  —
+[2026-05-16 03:23:53 UTC] [NEW]   📦 Samagna-Pandiri/uni-pentest-project
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/Samagna-Pandiri/uni-pentest-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-16 03:23:53 UTC] [INFO] ============================================================
+[2026-05-16 03:23:53 UTC] [INFO] Esecuzione completata — 26 nuovi repo trovati, 0 errori
+[2026-05-16 03:23:53 UTC] [INFO] ============================================================
