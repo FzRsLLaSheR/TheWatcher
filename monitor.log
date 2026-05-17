@@ -6548,3 +6548,149 @@
 [2026-05-17 13:24:27 UTC] [INFO] ============================================================
 [2026-05-17 13:24:27 UTC] [INFO] Esecuzione completata — 12 nuovi repo trovati, 0 errori
 [2026-05-17 13:24:27 UTC] [INFO] ============================================================
+[2026-05-17 19:12:33 UTC] [INFO] ============================================================
+[2026-05-17 19:12:33 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-17 19:12:33 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-17 19:12:33 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-17 19:12:33 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-17 19:12:33 UTC] [INFO] ============================================================
+[2026-05-17 19:12:33 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-17 19:12:33 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-17 19:12:33 UTC] [INFO]   → 6 repository trovati in totale
+[2026-05-17 19:12:33 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-17 19:12:33 UTC] [NEW]   📦 hnsh3in/Threat_Intel_Digest
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/hnsh3in/Threat_Intel_Digest
+     📝 Automated AI-powered threat intelligence pipeline — n8n + Claude API. Twice-dail…
+     🏷  —
+[2026-05-17 19:12:33 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-17 19:12:33 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-17 19:12:35 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-17 19:12:35 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-05-17 19:12:35 UTC] [NEW]   📦 botz-pillar/codex-tour
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/botz-pillar/codex-tour
+     📝 Friendly onboarding tour for the OpenAI Codex CLI — built for IT and InfoSec fol…
+     🏷  ai-agents, beginners, codex-cli, codex-plugin, grc, infosec, onboarding, openai, soc, tutorial
+[2026-05-17 19:12:35 UTC] [NEW]   📦 irfanm46/siem-simulator
+     ⭐ 0  🗣 HTML  📅 2026-05-17
+     🔗 https://github.com/irfanm46/siem-simulator
+     📝 Interactive SIEM training platform - 100 SOC analyst challenges with complete wo…
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 wee1124dev/chrome-148-exploit-poc
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/wee1124dev/chrome-148-exploit-poc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 aishamjad33-ux/Malware-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/aishamjad33-ux/Malware-Analysis
+     📝 Static malware analysis methodology, IOC extraction, packing and obfuscation ana…
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 K4lig/iso27001-email-risk-assessment
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/K4lig/iso27001-email-risk-assessment
+     📝 Assessment of the corporate email infrastructure, information transfer workflows…
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 CodeByLuiz/simple-edr
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/CodeByLuiz/simple-edr
+     📝 EDR (Endpoint Detection and Response) desenvolvido em Python
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 shuvo8000/Cyber-Security-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/shuvo8000/Cyber-Security-Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 EmnaAllegui/Full-incident-analysis-of-data-exfiltration-and-internal-compromise
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/EmnaAllegui/Full-incident-analysis-of-data-exfiltration-and-internal-compromise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 avencan/Aventen-Kypros
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/avencan/Aventen-Kypros
+     📝 Aventen Kypros The most powerful Arduino-compatible board ever made.
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 Aditya223-lab/ai-powered-system-in-ai
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/Aditya223-lab/ai-powered-system-in-ai
+     📝 this is my collab project in python for system monitoring
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 admin1230000/EDR-System
+     ⭐ 0  🗣 C#  📅 2026-05-17
+     🔗 https://github.com/admin1230000/EDR-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 felix3224/soc-wazuh-homelab
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/felix3224/soc-wazuh-homelab
+     📝 Laboratório prático de SOC utilizando Wazuh (SIEM/EDR), Windows 10 e Kali Linux …
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 moulguir/enterprise-security-assessment-toolkit
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/moulguir/enterprise-security-assessment-toolkit
+     📝 A modular CLI toolkit for defensive security assessment, web security checks, ri…
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 yogeshcyb/cybershield
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/yogeshcyb/cybershield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 azdcf3dpp6j/wondershare-edrawmind-2026
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/azdcf3dpp6j/wondershare-edrawmind-2026
+     📝 Grab Wondershare Edrawmind Full Build - Works Out of the Box, Windows 10 11
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 am8t5dnc5rn/wondershare-edrawmax-setup
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/am8t5dnc5rn/wondershare-edrawmax-setup
+     📝 Grab Wondershare Edrawmax Full Build - Works Out of the Box, Windows 10 11
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 raspberryhusky/fscan-rs
+     ⭐ 0  🗣 Rust  📅 2026-05-17
+     🔗 https://github.com/raspberryhusky/fscan-rs
+     📝 内网综合安全扫描工具 — Go fscan v2.1.3 完全重写为 Rust，纯 AI 生成
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 skynet-icox11/Evading-IDS-IPS-and-Firewall
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/skynet-icox11/Evading-IDS-IPS-and-Firewall
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 Mahesh-Kete/monorepo
+     ⭐ 0  🗣 Go  📅 2026-05-17
+     🔗 https://github.com/Mahesh-Kete/monorepo
+     📝 Hackathon 2026 
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 sujalbthapa/CEHSystemCleanRansomware
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/sujalbthapa/CEHSystemCleanRansomware
+     📝 A simple ransomware software developed for my CEH class.
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 flybywind2/manual_video_generator
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/flybywind2/manual_video_generator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 SonFire03/pocketsoc-termux
+     ⭐ 1  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/SonFire03/pocketsoc-termux
+     📝 Lightweight defensive SOC toolkit for Android Termux: local monitoring, triage, …
+     🏷  —
+[2026-05-17 19:12:35 UTC] [NEW]   📦 Taisiy190/edr
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/Taisiy190/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 19:12:35 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-17 19:12:35 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-17 19:12:36 UTC] [INFO]   → 16 repository trovati in totale
+[2026-05-17 19:12:36 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-17 19:12:36 UTC] [NEW]   📦 egedemirkapi/ai-intel-pipeline
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/egedemirkapi/ai-intel-pipeline
+     📝 Self-hosted AI ecosystem monitor that emails a curated digest every 2 hours. Fre…
+     🏷  ai, ai-agents, anthropic, claude, digest, founders, hacker-news, llm, monitoring, news-aggregator, open-source, pipeline, python, reddit, resend
+[2026-05-17 19:12:36 UTC] [INFO] ============================================================
+[2026-05-17 19:12:36 UTC] [INFO] Esecuzione completata — 25 nuovi repo trovati, 0 errori
+[2026-05-17 19:12:36 UTC] [INFO] ============================================================
