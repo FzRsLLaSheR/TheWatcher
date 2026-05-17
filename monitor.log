@@ -6210,3 +6210,159 @@
 [2026-05-16 19:07:20 UTC] [INFO] ============================================================
 [2026-05-16 19:07:20 UTC] [INFO] Esecuzione completata — 28 nuovi repo trovati, 0 errori
 [2026-05-16 19:07:20 UTC] [INFO] ============================================================
+[2026-05-17 03:38:18 UTC] [INFO] ============================================================
+[2026-05-17 03:38:18 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-17 03:38:18 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-17 03:38:18 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-17 03:38:18 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-17 03:38:18 UTC] [INFO] ============================================================
+[2026-05-17 03:38:18 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-17 03:38:18 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-17 03:38:19 UTC] [INFO]   → 4 repository trovati in totale
+[2026-05-17 03:38:19 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-17 03:38:19 UTC] [NEW]   📦 ahmvdbadawy/CoEDR
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/ahmvdbadawy/CoEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:19 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-17 03:38:19 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-17 03:38:20 UTC] [INFO]   → 48 repository trovati in totale
+[2026-05-17 03:38:20 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-05-17 03:38:20 UTC] [NEW]   📦 OmarDLLFile/OmarDLLFile
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/OmarDLLFile/OmarDLLFile
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 dakshvarun/cybernexus
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/dakshvarun/cybernexus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 HailBytes/mssp-onboarding-checklist
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/HailBytes/mssp-onboarding-checklist
+     📝 A practical 30-day MSSP client onboarding checklist with templates and tooling g…
+     🏷  checklist, cybersecurity, hailbytes, managed-security, mssp, onboarding, security-operations
+[2026-05-17 03:38:20 UTC] [NEW]   📦 SaiKamalaksha/UncommonHacks-Agra
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/SaiKamalaksha/UncommonHacks-Agra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 h0mi3e/greenplasma-ctf-analysis
+     ⭐ 1  🗣 C++  📅 2026-05-17
+     🔗 https://github.com/h0mi3e/greenplasma-ctf-analysis
+     📝 GreenPlasma CTF Analysis — the missing SYSTEM shell piece
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 DIT-Eangcon/edrael-portfolio
+     ⭐ 0  🗣 CSS  📅 2026-05-17
+     🔗 https://github.com/DIT-Eangcon/edrael-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 randallt21/monarch-money-mcp
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/randallt21/monarch-money-mcp
+     📝 Autonomous Monarch Money management toolkit
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 masterfrequency/BlueLinux
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/masterfrequency/BlueLinux
+     📝 BlueLinux Repository
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 Sid00011/zerotrust-evasion-detection
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/Sid00011/zerotrust-evasion-detection
+     📝 Rapport de recherche - Évasion de détection dans les environnements Zero-Trust :…
+     🏷  cybersecurity, mitre-attack, siem, zero-trust
+[2026-05-17 03:38:20 UTC] [NEW]   📦 officemexel-hash/sylion_pentest
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/officemexel-hash/sylion_pentest
+     📝 Pentest Platform
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 ahmvdbadawy/CoEDR
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/ahmvdbadawy/CoEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 Edgardo-Ramirez-Canales/edrVoz
+     ⭐ 0  🗣 Rust  📅 2026-05-16
+     🔗 https://github.com/Edgardo-Ramirez-Canales/edrVoz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 mauritaniacoder99/ShadowRing
+     ⭐ 0  🗣 C  📅 2026-05-17
+     🔗 https://github.com/mauritaniacoder99/ShadowRing
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 powersofgamers/Mysterious_thumb
+     ⭐ 1  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/powersofgamers/Mysterious_thumb
+     📝 ​👁️ Mysterious Thumb: O detetive do terminal! Um script leve de Fingerprint em P…
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 botz-pillar/NewClauder
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/botz-pillar/NewClauder
+     📝 Friendly, role-aware onboarding tour for people brand-new to Claude Code.
+     🏷  ai-agents, beginners, claude-code, claude-code-plugin, claude-code-skill, infosec, onboarding, tutorial
+[2026-05-17 03:38:20 UTC] [NEW]   📦 omcyber10/Endpoint-Detection-and-Response-EDR-LimaCharlie
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/omcyber10/Endpoint-Detection-and-Response-EDR-LimaCharlie
+     📝 Hands-on Endpoint Detection & Response (EDR) lab using LimaCharlie to simulate a…
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 HexKermit/phishing-attack-simulation-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/HexKermit/phishing-attack-simulation-lab
+     📝 Phishing attack simulation and post-compromise investigation workflow using SET …
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 Alexc-projects/Proyecto-Master-Ciberseguridad-Evolve-AlejandroCongil
+     ⭐ 0  🗣 HTML  📅 2026-05-16
+     🔗 https://github.com/Alexc-projects/Proyecto-Master-Ciberseguridad-Evolve-AlejandroCongil
+     📝 Cybersecurity portfolio — SOC Analyst L2 building Red Team AI intelligence
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 MPotter84/MPotter84
+     ⭐ 0  🗣 N/A  📅 2026-05-16
+     🔗 https://github.com/MPotter84/MPotter84
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 ShivamPatel8800/endpoint-security-framework
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/ShivamPatel8800/endpoint-security-framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 vidhihshah25-commits/ad-lab
+     ⭐ 0  🗣 Shell  📅 2026-05-16
+     🔗 https://github.com/vidhihshah25-commits/ad-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 vidhihshah25-commits/phishing-analysis
+     ⭐ 0  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/vidhihshah25-commits/phishing-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-17 03:38:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-17 03:38:20 UTC] [INFO]   → 12 repository trovati in totale
+[2026-05-17 03:38:20 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-17 03:38:20 UTC] [NEW]   📦 Gabzkk/BinFinder
+     ⭐ 1  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/Gabzkk/BinFinder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 rockylabs-dev/TrollInstallerDark
+     ⭐ 1  🗣 C  📅 2026-05-17
+     🔗 https://github.com/rockylabs-dev/TrollInstallerDark
+     📝 TrollInstallerDark is a modification of Alfie's TrollInstallerX to use the DarkS…
+     🏷  —
+[2026-05-17 03:38:20 UTC] [NEW]   📦 shatter9652/lara-ssh
+     ⭐ 0  🗣 Swift  📅 2026-05-16
+     🔗 https://github.com/shatter9652/lara-ssh
+     📝 testing lara and ssh
+     🏷  —
+[2026-05-17 03:38:20 UTC] [INFO] ============================================================
+[2026-05-17 03:38:20 UTC] [INFO] Esecuzione completata — 27 nuovi repo trovati, 0 errori
+[2026-05-17 03:38:20 UTC] [INFO] ============================================================
