@@ -6366,3 +6366,104 @@
 [2026-05-17 03:38:20 UTC] [INFO] ============================================================
 [2026-05-17 03:38:20 UTC] [INFO] Esecuzione completata — 27 nuovi repo trovati, 0 errori
 [2026-05-17 03:38:20 UTC] [INFO] ============================================================
+[2026-05-17 08:23:50 UTC] [INFO] ============================================================
+[2026-05-17 08:23:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-17 08:23:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-17 08:23:50 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-17 08:23:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-17 08:23:50 UTC] [INFO] ============================================================
+[2026-05-17 08:23:50 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-17 08:23:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-17 08:23:50 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-17 08:23:50 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-17 08:23:50 UTC] [NEW]   📦 huzun1/reflection-notes
+     ⭐ 0  🗣 C++  📅 2026-05-17
+     🔗 https://github.com/huzun1/reflection-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 08:23:50 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-17 08:23:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-17 08:23:51 UTC] [INFO]   → 48 repository trovati in totale
+[2026-05-17 08:23:51 UTC] [NEW]   🆕 12 NUOVI repository:
+[2026-05-17 08:23:51 UTC] [NEW]   📦 b1gdog/Beacon-Loader
+     ⭐ 0  🗣 C++  📅 2026-05-17
+     🔗 https://github.com/b1gdog/Beacon-Loader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 GhostTerminal-coder/GhostTerminal-coder
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/GhostTerminal-coder/GhostTerminal-coder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 forgehk/darkforge-edr
+     ⭐ 0  🗣 Go  📅 2026-05-17
+     🔗 https://github.com/forgehk/darkforge-edr
+     📝 Lightweight endpoint detection agent in Go. Process telemetry, YAML rule engine …
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 forgehk/forgehk
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/forgehk/forgehk
+     📝 Computer Science · AI engineer · Founder, DarkForge AI
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 willgoo777/vstool
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/willgoo777/vstool
+     📝 文件夹对比工具（Windows）：按文件名一一配对，生成 Word/Excel 差异文件
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 doom-fish/coreanimation-rs
+     ⭐ 0  🗣 Rust  📅 2026-05-16
+     🔗 https://github.com/doom-fish/coreanimation-rs
+     📝 Safe Rust bindings for Apple's QuartzCore/CoreAnimation framework on macOS
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 ChallaSamhith/home-soc
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/ChallaSamhith/home-soc
+     📝 A production-style Home Security Operations Center (SOC) built with Proxmox, pfS…
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 Edrik-152/edrik-ecommerce
+     ⭐ 0  🗣 Java  📅 2026-05-17
+     🔗 https://github.com/Edrik-152/edrik-ecommerce
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 ZoeLoveHGJ/Project_EDRCT
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/ZoeLoveHGJ/Project_EDRCT
+     📝 The data and code of EDRCT
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 huzun1/reflection-notes
+     ⭐ 0  🗣 C++  📅 2026-05-17
+     🔗 https://github.com/huzun1/reflection-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 gowthamadhitya/Eternalblue-ms17-010-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/gowthamadhitya/Eternalblue-ms17-010-lab
+     📝  Exploiting MS17-010 EternalBlue on Windows 7 using Nmap & Metasploit — TryHackM…
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 richvincent/threat-hunt-silent-corridor
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/richvincent/threat-hunt-silent-corridor
+     📝 Threat hunt writeup: Operation Silent Corridor — LOG(N) Pacific Cyber Range Hunt…
+     🏷  —
+[2026-05-17 08:23:51 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-17 08:23:51 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-17 08:23:51 UTC] [INFO]   → 15 repository trovati in totale
+[2026-05-17 08:23:51 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-17 08:23:51 UTC] [NEW]   📦 Spirited-Coder/THM-Jr-Penetration-Tester-Journey
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/Spirited-Coder/THM-Jr-Penetration-Tester-Journey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 aka5hh/pentest-lab-project
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/aka5hh/pentest-lab-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 08:23:51 UTC] [NEW]   📦 ujjwalredd/meerkat
+     ⭐ 0  🗣 Go  📅 2026-05-17
+     🔗 https://github.com/ujjwalredd/meerkat
+     📝 Meerkat is a local CLI security wrapper.
+     🏷  —
+[2026-05-17 08:23:51 UTC] [INFO] ============================================================
+[2026-05-17 08:23:51 UTC] [INFO] Esecuzione completata — 16 nuovi repo trovati, 0 errori
+[2026-05-17 08:23:51 UTC] [INFO] ============================================================
