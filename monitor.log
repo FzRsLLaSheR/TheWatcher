@@ -6467,3 +6467,84 @@
 [2026-05-17 08:23:51 UTC] [INFO] ============================================================
 [2026-05-17 08:23:51 UTC] [INFO] Esecuzione completata — 16 nuovi repo trovati, 0 errori
 [2026-05-17 08:23:51 UTC] [INFO] ============================================================
+[2026-05-17 13:24:25 UTC] [INFO] ============================================================
+[2026-05-17 13:24:25 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-17 13:24:25 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-17 13:24:25 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-17 13:24:25 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-17 13:24:25 UTC] [INFO] ============================================================
+[2026-05-17 13:24:25 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-17 13:24:25 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-17 13:24:26 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-17 13:24:26 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-17 13:24:26 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-17 13:24:26 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-17 13:24:27 UTC] [INFO]   → 48 repository trovati in totale
+[2026-05-17 13:24:27 UTC] [NEW]   🆕 12 NUOVI repository:
+[2026-05-17 13:24:27 UTC] [NEW]   📦 ekomsSavior/Green_plasma_ctf
+     ⭐ 0  🗣 C++  📅 2026-05-17
+     🔗 https://github.com/ekomsSavior/Green_plasma_ctf
+     📝 Solving green plasma
+     🏷  —
+[2026-05-17 13:24:27 UTC] [NEW]   📦 gotr00t0day/LDFIR
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/gotr00t0day/LDFIR
+     📝 Linux Digital Forensics & Incident Response (LDFIR)
+     🏷  —
+[2026-05-17 13:24:27 UTC] [NEW]   📦 mohamadyaghoobii/SafeAtomic
+     ⭐ 0  🗣 PowerShell  📅 2026-05-17
+     🔗 https://github.com/mohamadyaghoobii/SafeAtomic
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 13:24:27 UTC] [NEW]   📦 varengaurav15-avg/ThreatlensAI-2.0
+     ⭐ 0  🗣 HTML  📅 2026-05-17
+     🔗 https://github.com/varengaurav15-avg/ThreatlensAI-2.0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 13:24:27 UTC] [NEW]   📦 Ajjurock150/Ajjurock150-Network_Traffic_Analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/Ajjurock150/Ajjurock150-Network_Traffic_Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 13:24:27 UTC] [NEW]   📦 samikhan94pk/Universal-NetDiag
+     ⭐ 0  🗣 PowerShell  📅 2026-05-17
+     🔗 https://github.com/samikhan94pk/Universal-NetDiag
+     📝 An advanced, autonomous network diagnostic suite for Systems Engineers
+     🏷  automation, cybersecurity, diagnostics, networking, powershell, powershell-script, sysadmin
+[2026-05-17 13:24:27 UTC] [NEW]   📦 admin1230000/EDR-Kontrol-Paneli
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/admin1230000/EDR-Kontrol-Paneli
+     📝 Uç Nokta Tespit ve Müdahele Sistemi
+     🏷  —
+[2026-05-17 13:24:27 UTC] [NEW]   📦 mattp8638/Matthew-Palmer
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/mattp8638/Matthew-Palmer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 13:24:27 UTC] [NEW]   📦 AnandJogawade/RedTeam-PowerShell-AMSI-Bypass
+     ⭐ 1  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/AnandJogawade/RedTeam-PowerShell-AMSI-Bypass
+     📝 PowerShell AMSI Bypass 
+     🏷  amsi, amsi-bypass, amsi-evasion, amsi-patch, amsi-wrapper, amsibypass, amsiscanbuffer, antimalware-scan-interface, antivirus, antivirusbypass, avbypass, powershell, powershell-scipts, powershellscripts
+[2026-05-17 13:24:27 UTC] [NEW]   📦 rootwithkhandal/RemoteKeystream
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/rootwithkhandal/RemoteKeystream
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 13:24:27 UTC] [NEW]   📦 starsalmon/BT-A2DP-Source-HiGrow
+     ⭐ 0  🗣 C++  📅 2026-05-17
+     🔗 https://github.com/starsalmon/BT-A2DP-Source-HiGrow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-17 13:24:27 UTC] [NEW]   📦 kdg-recon/kdg-recon
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/kdg-recon/kdg-recon
+     📝 Technicien IT en transition vers l'administration systèmes & réseaux. Je documen…
+     🏷  —
+[2026-05-17 13:24:27 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-17 13:24:27 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-17 13:24:27 UTC] [INFO]   → 15 repository trovati in totale
+[2026-05-17 13:24:27 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-17 13:24:27 UTC] [INFO] ============================================================
+[2026-05-17 13:24:27 UTC] [INFO] Esecuzione completata — 12 nuovi repo trovati, 0 errori
+[2026-05-17 13:24:27 UTC] [INFO] ============================================================
