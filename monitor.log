@@ -7036,3 +7036,124 @@
 [2026-05-18 10:08:37 UTC] [INFO] ============================================================
 [2026-05-18 10:08:37 UTC] [INFO] Esecuzione completata — 23 nuovi repo trovati, 0 errori
 [2026-05-18 10:08:37 UTC] [INFO] ============================================================
+[2026-05-18 15:36:48 UTC] [INFO] ============================================================
+[2026-05-18 15:36:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-18 15:36:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-18 15:36:48 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-18 15:36:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-18 15:36:48 UTC] [INFO] ============================================================
+[2026-05-18 15:36:48 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-18 15:36:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-18 15:36:49 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-18 15:36:49 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-18 15:36:49 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-18 15:36:49 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-18 15:36:50 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-18 15:36:50 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-05-18 15:36:50 UTC] [NEW]   📦 wa7a4h/dr0na
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/wa7a4h/dr0na
+     📝 "The greatest warrior is one who protects without being asked."
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 sneha8kumari/SSOL
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/sneha8kumari/SSOL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 azqzazq1/LID
+     ⭐ 7  🗣 C  📅 2026-05-17
+     🔗 https://github.com/azqzazq1/LID
+     📝 LID — Linux Integrity Drift: Bypassing AppArmor via eBPF pathname rewriting. Pre…
+     🏷  apparmor, bpf, ebpf, kernel, linux-security, lsm, red-team, security-research
+[2026-05-18 15:36:50 UTC] [NEW]   📦 adaraydinoglu/EDR-System
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/adaraydinoglu/EDR-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 chithralekhamp/Keylogger
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/chithralekhamp/Keylogger
+     📝 functional security research tool designed to demonstrate the mechanics of input…
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 unblog/Microsoft-Defender-Linux
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/unblog/Microsoft-Defender-Linux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 tsuyoshi-otake/rmssd-ad8232
+     ⭐ 0  🗣 C++  📅 2026-05-18
+     🔗 https://github.com/tsuyoshi-otake/rmssd-ad8232
+     📝 M5Stack Basic + AD8232 ECG / HRV (RMSSD) viewer with graphical LCD UI
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 MapokgoleSemoshwe/Ubuntu-IT-Support
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/MapokgoleSemoshwe/Ubuntu-IT-Support
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 dotcom64/EDR-tests
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/dotcom64/EDR-tests
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 ChaoXu1997/awesome-claude-code
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/ChaoXu1997/awesome-claude-code
+     📝 Auto-aggregated awesome list for the Claude Code ecosystem. Updated daily from G…
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 kinarix/axon
+     ⭐ 0  🗣 Rust  📅 2026-05-18
+     🔗 https://github.com/kinarix/axon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 ALMASONYH/MasonProtector
+     ⭐ 5  🗣 C#  📅 2026-05-18
+     🔗 https://github.com/ALMASONYH/MasonProtector
+     📝 .NET assembly hardener built on dnlib, with fifty-plus independent protection la…
+     🏷  crypt, crypter, encode, encrypt, encryption, obsfucation, obsfucator, obsfuscation, protect, protection, protector
+[2026-05-18 15:36:50 UTC] [NEW]   📦 bilalkhallouk/edr-ebpf-agent
+     ⭐ 0  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/bilalkhallouk/edr-ebpf-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 VithuSivam97/Windows-Data-Exfiltration-Monitor
+     ⭐ 0  🗣 C  📅 2026-05-18
+     🔗 https://github.com/VithuSivam97/Windows-Data-Exfiltration-Monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 venkatavishnuvardhana/Phishing-Malware-Triage-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/venkatavishnuvardhana/Phishing-Malware-Triage-Lab
+     📝 Corporate phishing incident response and malware triage lab using cloud-hosted s…
+     🏷  any-run, blue-team, cybersecurity-portfolio, dfir, forensics, incident-response, indicators-of-compromise, malware-analysis, phishing-analysis, soc-analyst, threat-intelligence, virustotal
+[2026-05-18 15:36:50 UTC] [NEW]   📦 JiriHybl/check-MDEOnboarding
+     ⭐ 0  🗣 PowerShell  📅 2026-05-18
+     🔗 https://github.com/JiriHybl/check-MDEOnboarding
+     📝 Checks if the device is onboarded to MDE. Is optimized for Intune remediation, o…
+     🏷  —
+[2026-05-18 15:36:50 UTC] [NEW]   📦 kguradillo548474/edroso-dental-system2
+     ⭐ 0  🗣 PHP  📅 2026-05-18
+     🔗 https://github.com/kguradillo548474/edroso-dental-system2
+     📝 backup
+     🏷  —
+[2026-05-18 15:36:50 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-18 15:36:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-18 15:36:51 UTC] [INFO]   → 18 repository trovati in totale
+[2026-05-18 15:36:51 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-18 15:36:51 UTC] [NEW]   📦 DXC-0/linux-lpe-sigma
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/DXC-0/linux-lpe-sigma
+     📝 Sigma rules for kernel exploit detection (copy.fail, dirty.frag, fragnesia...)
+     🏷  auditd, cve-2026-31431, cve-2026-31431-lpe-exploit, linux, lpe, siem, sigma, sigma-rules
+[2026-05-18 15:36:51 UTC] [NEW]   📦 gitkhayrol/gitkhayrol
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/gitkhayrol/gitkhayrol
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 15:36:51 UTC] [NEW]   📦 trinetra-1308/PwnKit-
+     ⭐ 1  🗣 C  📅 2026-05-18
+     🔗 https://github.com/trinetra-1308/PwnKit-
+     📝 This repository provides proof of concept (PoC) for the CVE-2021-4034
+     🏷  —
+[2026-05-18 15:36:51 UTC] [INFO] ============================================================
+[2026-05-18 15:36:51 UTC] [INFO] Esecuzione completata — 20 nuovi repo trovati, 0 errori
+[2026-05-18 15:36:51 UTC] [INFO] ============================================================
