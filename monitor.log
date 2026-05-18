@@ -7157,3 +7157,144 @@
 [2026-05-18 15:36:51 UTC] [INFO] ============================================================
 [2026-05-18 15:36:51 UTC] [INFO] Esecuzione completata — 20 nuovi repo trovati, 0 errori
 [2026-05-18 15:36:51 UTC] [INFO] ============================================================
+[2026-05-18 19:46:37 UTC] [INFO] ============================================================
+[2026-05-18 19:46:37 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-18 19:46:37 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-18 19:46:37 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-18 19:46:37 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-18 19:46:37 UTC] [INFO] ============================================================
+[2026-05-18 19:46:37 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-18 19:46:37 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-18 19:46:38 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-18 19:46:38 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-18 19:46:38 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-18 19:46:38 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-18 19:46:39 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-18 19:46:39 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-05-18 19:46:39 UTC] [NEW]   📦 AssyaELM/malware-analysis-cerber-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/AssyaELM/malware-analysis-cerber-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 pvbalaji05/keylogger-detector
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/pvbalaji05/keylogger-detector
+     📝 A lightweight desktop security tool built with Python that scans all running pro…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 abdtaiba/EDR-XDR-Research
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/abdtaiba/EDR-XDR-Research
+     📝 A comprehensive research report analyzing and comparing Endpoint Detection and R…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 claude-yu/cc-base
+     ⭐ 0  🗣 PowerShell  📅 2026-05-18
+     🔗 https://github.com/claude-yu/cc-base
+     📝 基于 cc-connect创建的一个微信/飞书的自己使用的工具，搭载对话学习learning和grillme的能力
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 fagera99/AegisNova-OS
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/fagera99/AegisNova-OS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 psychedelic-theory/SOC-Analyst-Labs
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/psychedelic-theory/SOC-Analyst-Labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 tdganna/Modifications-to-the-DeTT-CT-
+     ⭐ 0  🗣 SCSS  📅 2026-05-18
+     🔗 https://github.com/tdganna/Modifications-to-the-DeTT-CT-
+     📝 Every change made to the DeTT&CT working tree (based on upstream rabobank-cdc/De…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 mileiter/cybersecurity-lab-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/mileiter/cybersecurity-lab-portfolio
+     📝 CyberSecurity IT infrastructure portfolio
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 RedHatPentester/Vehicle-Forensics-E01
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/RedHatPentester/Vehicle-Forensics-E01
+     📝 A forensic-grade E01 disk image designed for vehicle digital forensics investiga…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 sai-teja-girimaji/attack-coverage-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-05-18
+     🔗 https://github.com/sai-teja-girimaji/attack-coverage-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 akshat448/Cyber-Risk-Assistant
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/akshat448/Cyber-Risk-Assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 abhishek-khadse/soc-to-offensive-notes
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/abhishek-khadse/soc-to-offensive-notes
+     📝 What enterprise SOC tools detect + how attackers evade them. Built during Futuri…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 siddharth2440/edr
+     ⭐ 0  🗣 Zig  📅 2026-05-18
+     🔗 https://github.com/siddharth2440/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 princ0301/Hive-Pro-AI
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/princ0301/Hive-Pro-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 AshrithaUppala03/Canary-Kill-Switch-EDR
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/AshrithaUppala03/Canary-Kill-Switch-EDR
+     📝 A distributed anti-ransomware EDR prototype that uses honey-folders to trigger a…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 marianelarojas30-alt/aegisloop-guardian
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/marianelarojas30-alt/aegisloop-guardian
+     📝 Defensive AI security agent for detecting malware indicators, fraud patterns, ph…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 EngAbbasy/Incident-Response-Playbook-Development-V2
+     ⭐ 0  🗣 Shell  📅 2026-05-18
+     🔗 https://github.com/EngAbbasy/Incident-Response-Playbook-Development-V2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 Harshk7771/Project-Chakravyuh
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/Harshk7771/Project-Chakravyuh
+     📝 Next-Generation Autonomous SOC Platform · Made in India
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 pedropasinn/win-runner
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/pedropasinn/win-runner
+     📝 Task runner Windows-native (sem WSL, sem admin): filas .md → Claude/Gemini CLIs,…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 MichaelDouglas-tech/Risk-assessment-and-compliance-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/MichaelDouglas-tech/Risk-assessment-and-compliance-Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 KamilSlodki/seguridad-pc-hardening-showcase
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/KamilSlodki/seguridad-pc-hardening-showcase
+     📝 Showcase metodológico: framework defensivo para endpoint personal Windows 11 Hom…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 Toolcee/AI-Windows-Security-Monitor
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/Toolcee/AI-Windows-Security-Monitor
+     📝 Herramienta de monitoreo de seguridad para Windows orientada a detectar activida…
+     🏷  —
+[2026-05-18 19:46:39 UTC] [NEW]   📦 delsinm/fleetdm-operations
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/delsinm/fleetdm-operations
+     📝 Operations health checks for FleetDM
+     🏷  —
+[2026-05-18 19:46:39 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-18 19:46:39 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-18 19:46:40 UTC] [INFO]   → 18 repository trovati in totale
+[2026-05-18 19:46:40 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-18 19:46:40 UTC] [NEW]   📦 DXC-0/linux-lpe-sigma
+     ⭐ 1  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/DXC-0/linux-lpe-sigma
+     📝 Sigma rules for kernel exploit detection (copy.fail, dirty.frag, fragnesia...)
+     🏷  copyfail, cve-2026-43284, cve-2026-43500, detection-engineering, dirtyfrag, linux, linux-kernel, linux-lpe-cve-2026-31431, siem, sigma, sigma-rules
+[2026-05-18 19:46:40 UTC] [INFO] ============================================================
+[2026-05-18 19:46:40 UTC] [INFO] Esecuzione completata — 24 nuovi repo trovati, 0 errori
+[2026-05-18 19:46:40 UTC] [INFO] ============================================================
