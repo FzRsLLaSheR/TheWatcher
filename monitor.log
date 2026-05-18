@@ -6694,3 +6694,209 @@
 [2026-05-17 19:12:36 UTC] [INFO] ============================================================
 [2026-05-17 19:12:36 UTC] [INFO] Esecuzione completata — 25 nuovi repo trovati, 0 errori
 [2026-05-17 19:12:36 UTC] [INFO] ============================================================
+[2026-05-18 03:53:00 UTC] [INFO] ============================================================
+[2026-05-18 03:53:00 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-18 03:53:00 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-18 03:53:00 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-18 03:53:00 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-18 03:53:00 UTC] [INFO] ============================================================
+[2026-05-18 03:53:00 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-18 03:53:00 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-18 03:53:00 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-18 03:53:00 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-18 03:53:00 UTC] [NEW]   📦 MaliParag/windows-security-talks
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/MaliParag/windows-security-talks
+     📝 A curated, theme-clustered index of Windows-security talks across DEF CON, BH US…
+     🏷  —
+[2026-05-18 03:53:00 UTC] [NEW]   📦 wzambranos/DeepZero
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/wzambranos/DeepZero
+     📝 Ciber Seguridad
+     🏷  —
+[2026-05-18 03:53:00 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-18 03:53:00 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-18 03:53:01 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-18 03:53:01 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-05-18 03:53:01 UTC] [NEW]   📦 agentsattack/saster-harness
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/agentsattack/saster-harness
+     📝 Wire-level Agentic Detection and Response (ADR) for the SASTER taxonomy. 9 detec…
+     🏷  adr, agent-security, ai-agents, ai-security, llm-security
+[2026-05-18 03:53:01 UTC] [NEW]   📦 MaliParag/windows-security-talks
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/MaliParag/windows-security-talks
+     📝 A curated, theme-clustered index of Windows-security talks across DEF CON, BH US…
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 SkyCyborgNet/EdiMarkWeb-EDRF
+     ⭐ 0  🗣 JavaScript  📅 2026-05-18
+     🔗 https://github.com/SkyCyborgNet/EdiMarkWeb-EDRF
+     📝 EdiMarkWeb-EDRF
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 jainamh029/MVPX
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/jainamh029/MVPX
+     📝 MVPX Sports Economy Index — backtest and stress test
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 0xhexobfusc/NtDll_Unhooking
+     ⭐ 0  🗣 C  📅 2026-05-17
+     🔗 https://github.com/0xhexobfusc/NtDll_Unhooking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 capture0x/AdAgent
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/capture0x/AdAgent
+     📝   AI-powered Active Directory attack orchestrator — 59 tools, 139 techniques, Ol…
+     🏷  active-directory, ad-attack, agent, ai, ai-powered-tools, ai-tool, hacking-tool, ntlm, red-team, redteam-tools
+[2026-05-18 03:53:01 UTC] [NEW]   📦 spfcraze/codered
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/spfcraze/codered
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 mkboch/EDRPSS
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/mkboch/EDRPSS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 ItsNotPaths/Edrawk
+     ⭐ 0  🗣 Nim  📅 2026-05-18
+     🔗 https://github.com/ItsNotPaths/Edrawk
+     📝 smal luigi based text editor.
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 mamoudou94/hybrid-enterprise-m365-security-lab
+     ⭐ 1  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/mamoudou94/hybrid-enterprise-m365-security-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 REstorninho/Local-Vulnerabilities-Check
+     ⭐ 0  🗣 PowerShell  📅 2026-05-18
+     🔗 https://github.com/REstorninho/Local-Vulnerabilities-Check
+     📝 Local Vulnerabilities Check windows and linux
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 r3d-sparr0w/forerunner-io
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/r3d-sparr0w/forerunner-io
+     📝 Static page for retreving the signed binaries for installation of the Forerunner…
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 adaraydinoglu/EDR-System
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/adaraydinoglu/EDR-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 shayantataloo7/https-github.com-edrisranjbar-g2ray
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/shayantataloo7/https-github.com-edrisranjbar-g2ray
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 maisareis/hackers-do-bem-especializado-blueteam
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/maisareis/hackers-do-bem-especializado-blueteam
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 nTune1030/hunt_malware
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/nTune1030/hunt_malware
+     📝 Host-based threat hunting tool that scans for IOCs using keyword/signature match…
+     🏷  blue-team, ioc-scanner, malware-detection, python, security, threat-hunting
+[2026-05-18 03:53:01 UTC] [NEW]   📦 forgehk/darkforge-edr-dashboard
+     ⭐ 0  🗣 TypeScript  📅 2026-05-17
+     🔗 https://github.com/forgehk/darkforge-edr-dashboard
+     📝 Next.js 14 alert console for the darkforge-edr endpoint agent. Filters, MITRE AT…
+     🏷  blue-team, dashboard, edr, nextjs, security, soc, typescript
+[2026-05-18 03:53:01 UTC] [NEW]   📦 IAhmed99/Ahmed-Ayman
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/IAhmed99/Ahmed-Ayman
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 aomcq9wn3c/wondershare-edrawmax-pc
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/aomcq9wn3c/wondershare-edrawmax-pc
+     📝 Grab Wondershare Edrawmax Full Build - Works Out of the Box, Windows 10 11
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 Muktaditbf/Cyber-Security-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/Muktaditbf/Cyber-Security-Project
+     📝 Penetration testing
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 Beatrice-Hodson/threat-hunting-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/Beatrice-Hodson/threat-hunting-portfolio
+     📝 Threat hunting investigations, IR analysis, and detection engineering portfolio
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 CyberStrategyInstitute/crypto-shield
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/CyberStrategyInstitute/crypto-shield
+     📝 Open-source, sovereignty-first crypto security framework: 42 threats, 95 control…
+     🏷  blockchain, crypto-security, cybersecurity, defi-security, open-source, sovereignty
+[2026-05-18 03:53:01 UTC] [NEW]   📦 Biaald/TelecomRMI
+     ⭐ 0  🗣 Java  📅 2026-05-17
+     🔗 https://github.com/Biaald/TelecomRMI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 ostefka/M365-InventoryReport
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/ostefka/M365-InventoryReport
+     📝 Excel inventory report for Microsoft 365 tenants - first step in tenant-to-tenan…
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 TomPi22/Hybrid-SOC-BlueTeam-Ops
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/TomPi22/Hybrid-SOC-BlueTeam-Ops
+     📝 A production-grade Blue Team portfolio focused on Hybrid SOC operations, Threat …
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 Youneskc/SMB-Pentest-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/Youneskc/SMB-Pentest-Lab
+     📝 SMB Penetration Testing Lab — Educational Purpose
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 MostafaS/monotonic-math
+     ⭐ 0  🗣 Solidity  📅 2026-05-17
+     🔗 https://github.com/MostafaS/monotonic-math
+     📝 A provably floor-preserving tokenomic primitive for revenue-bearing on-chain ass…
+     🏷  —
+[2026-05-18 03:53:01 UTC] [NEW]   📦 moneyutkarsh/SSOL
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/moneyutkarsh/SSOL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:01 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-18 03:53:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-18 03:53:02 UTC] [INFO]   → 13 repository trovati in totale
+[2026-05-18 03:53:02 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-05-18 03:53:02 UTC] [NEW]   📦 MaliParag/windows-security-talks
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/MaliParag/windows-security-talks
+     📝 A curated, theme-clustered index of Windows-security talks across DEF CON, BH US…
+     🏷  —
+[2026-05-18 03:53:02 UTC] [NEW]   📦 CyberSecAndy/siem-detection-threat-hunting
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/CyberSecAndy/siem-detection-threat-hunting
+     📝 Detection engineering & hunting queries
+     🏷  —
+[2026-05-18 03:53:02 UTC] [NEW]   📦 REstorninho/Local-Vulnerabilities-Check
+     ⭐ 0  🗣 PowerShell  📅 2026-05-18
+     🔗 https://github.com/REstorninho/Local-Vulnerabilities-Check
+     📝 Local Vulnerabilities Check windows and linux
+     🏷  —
+[2026-05-18 03:53:02 UTC] [NEW]   📦 NadeyarS/PSFree
+     ⭐ 0  🗣 JavaScript  📅 2026-05-18
+     🔗 https://github.com/NadeyarS/PSFree
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:02 UTC] [NEW]   📦 0DayKitty/0DayKitty
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/0DayKitty/0DayKitty
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 03:53:02 UTC] [NEW]   📦 Iamishfaq07/OSCP-AutoPwn-Framework
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/Iamishfaq07/OSCP-AutoPwn-Framework
+     📝 ⚠️ AUTHORIZED LAB USE ONLY — This tool is exclusively for OSCP labs, CTF competi…
+     🏷  —
+[2026-05-18 03:53:02 UTC] [NEW]   📦 hanwen/runclaude
+     ⭐ 0  🗣 Go  📅 2026-05-17
+     🔗 https://github.com/hanwen/runclaude
+     📝 A sandbox for Claude
+     🏷  —
+[2026-05-18 03:53:02 UTC] [INFO] ============================================================
+[2026-05-18 03:53:02 UTC] [INFO] Esecuzione completata — 37 nuovi repo trovati, 0 errori
+[2026-05-18 03:53:02 UTC] [INFO] ============================================================
