@@ -6900,3 +6900,139 @@
 [2026-05-18 03:53:02 UTC] [INFO] ============================================================
 [2026-05-18 03:53:02 UTC] [INFO] Esecuzione completata — 37 nuovi repo trovati, 0 errori
 [2026-05-18 03:53:02 UTC] [INFO] ============================================================
+[2026-05-18 10:08:34 UTC] [INFO] ============================================================
+[2026-05-18 10:08:34 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-18 10:08:34 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-18 10:08:34 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-18 10:08:34 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-18 10:08:34 UTC] [INFO] ============================================================
+[2026-05-18 10:08:34 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-18 10:08:34 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-18 10:08:34 UTC] [INFO]   → 5 repository trovati in totale
+[2026-05-18 10:08:34 UTC] [INFO]   ✓ Nessuna novità rispetto all'ultima esecuzione
+[2026-05-18 10:08:34 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-18 10:08:34 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-18 10:08:36 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-18 10:08:36 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-05-18 10:08:36 UTC] [NEW]   📦 rogerg6/AX788FTF
+     ⭐ 0  🗣 C  📅 2026-05-18
+     🔗 https://github.com/rogerg6/AX788FTF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 keraattin/Red-Team-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/keraattin/Red-Team-Roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 sailingbikeruk/RecycleBin
+     ⭐ 0  🗣 PowerShell  📅 2026-05-18
+     🔗 https://github.com/sailingbikeruk/RecycleBin
+     📝 Scripts to identify files in the recycle bin and ownership of the various bins
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 Mahesh-Kete/citadel
+     ⭐ 0  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/Mahesh-Kete/citadel
+     📝 Runtime EDR for CI/CD runners — eBPF agent + Go backend + Python detector + Next…
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 alemayewfite-cmyk/edr1
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/alemayewfite-cmyk/edr1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 alemayewfite-cmyk/edr
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/alemayewfite-cmyk/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 mz-6/CyberGuardAgent
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/mz-6/CyberGuardAgent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 light0921/light_zwh_IR-Forensics
+     ⭐ 0  🗣 PowerShell  📅 2026-05-18
+     🔗 https://github.com/light0921/light_zwh_IR-Forensics
+     📝 windows应急响应取证工具
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 light0921/emerge_collect
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/light0921/emerge_collect
+     📝 linux应急响应取证工具
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 RHRafi2003/EDGE-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-17
+     🔗 https://github.com/RHRafi2003/EDGE-Project
+     📝 A complete, documented penetration testing engagement against Metasploitable2 in…
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 edrickchang13/edrickchang13
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/edrickchang13/edrickchang13
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 tkgundoor/SOC-System
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/tkgundoor/SOC-System
+     📝 SOC System
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 Emerole7/SOC-Automation-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/Emerole7/SOC-Automation-Project
+     📝 A home lab project demonstrating end-to-end SOC automation using open-source too…
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 kfcain/cmmc-raci
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/kfcain/cmmc-raci
+     📝 CMMC Information Security Responsibility Matrix tool for Claude Code
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 meharehsaan/soc-prep
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/meharehsaan/soc-prep
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 sawadogoibrahim56/bobdoS-curit
+     ⭐ 0  🗣 TypeScript  📅 2026-05-18
+     🔗 https://github.com/sawadogoibrahim56/bobdoS-curit
+     📝 Une application Anti pirate et anarque 
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 riturajkumar2002/SOAR_EDR
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/riturajkumar2002/SOAR_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 a-enterprise-ch/Microsoft-Defender-Linux
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/a-enterprise-ch/Microsoft-Defender-Linux
+     📝 Microsoft Defender für Linux: Architektur, Effektivität und kritische Bewertung
+     🏷  wdavdaemon
+[2026-05-18 10:08:36 UTC] [NEW]   📦 edr-22/movies-dataset
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/edr-22/movies-dataset
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 vmoebriiha/JAVA-edrxexdgpa-Python
+     ⭐ 0  🗣 Java  📅 2026-05-18
+     🔗 https://github.com/vmoebriiha/JAVA-edrxexdgpa-Python
+     📝 基于微信小程序的基于微信小程序的高校就业招聘系统的设计与实现+springboot
+     🏷  —
+[2026-05-18 10:08:36 UTC] [NEW]   📦 edr-22/TFIDFKompas
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/edr-22/TFIDFKompas
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:36 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-18 10:08:36 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-18 10:08:37 UTC] [INFO]   → 15 repository trovati in totale
+[2026-05-18 10:08:37 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-18 10:08:37 UTC] [NEW]   📦 keraattin/Red-Team-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/keraattin/Red-Team-Roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:37 UTC] [NEW]   📦 peter1965p/aether-shield-desktop
+     ⭐ 0  🗣 Slint  📅 2026-05-18
+     🔗 https://github.com/peter1965p/aether-shield-desktop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-18 10:08:37 UTC] [INFO] ============================================================
+[2026-05-18 10:08:37 UTC] [INFO] Esecuzione completata — 23 nuovi repo trovati, 0 errori
+[2026-05-18 10:08:37 UTC] [INFO] ============================================================
