@@ -7585,3 +7585,95 @@
 [2026-05-19 09:49:33 UTC] [INFO] ============================================================
 [2026-05-19 09:49:33 UTC] [INFO] Esecuzione completata — 20 nuovi repo trovati, 0 errori
 [2026-05-19 09:49:33 UTC] [INFO] ============================================================
+[2026-05-19 11:58:44 UTC] [INFO] ============================================================
+[2026-05-19 11:58:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-19 11:58:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-19 11:58:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-19 11:58:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-19 11:58:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-19 11:58:44 UTC] [INFO] ============================================================
+[2026-05-19 11:58:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-19 11:58:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-19 11:58:47 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-19 11:58:47 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-19 11:58:47 UTC] [NEW]   🆕 📦 cfs0x/ShadowByte
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/cfs0x/ShadowByte
+     📝 is a PoC tool for demonstrating BYOVD class vulnerabilities (Bring Your Own Vuln…
+     🏷  —
+[2026-05-19 11:58:47 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-19 11:58:47 UTC] [UPD]   📢 📦 redteamfortress/PhantomKiller
+     ⭐ 12  🗣 C++  📅 2026-05-19
+     🔗 https://github.com/redteamfortress/PhantomKiller
+     📝 Another BYOVD process killer. works on all EDR's. fully signed.
+     🏷  byovd, edr, edr-bypass, edr-evasion, redteaming
+     🔄 Motivo: repo recente (0gg) | +4 ⭐
+[2026-05-19 11:58:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-19 11:58:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-19 11:58:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_26
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_26
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 📦 ErenYeager29/Win-AD
+     ⭐ 1  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/ErenYeager29/Win-AD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 📦 cryptdefender323/phantom
+     ⭐ 0  🗣 Go  📅 2026-05-19
+     🔗 https://github.com/cryptdefender323/phantom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 📦 WiLL75G/soc-day20-soc-interview-preparation
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/WiLL75G/soc-day20-soc-interview-preparation
+     📝 SOC interview questions, answers, and preparation guide
+     🏷  —
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 📦 hozcanshield/soc-incident-response-notes
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/hozcanshield/soc-incident-response-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 📦 LakshyaJ1/HivePro_Assignment
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/LakshyaJ1/HivePro_Assignment
+     📝 An evidence-first, automated cybersecurity risk assessment system that ingests m…
+     🏷  —
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 📦 maha-iyad/mini-edr-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-05-19
+     🔗 https://github.com/maha-iyad/mini-edr-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 📦 aishamjad33-ux/SIEM-AI-Assisted-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/aishamjad33-ux/SIEM-AI-Assisted-Detection-Lab
+     📝 SOC Blue Team Lab — SIEM + AI-assisted log analysis covering Windows Event IDs, …
+     🏷  —
+[2026-05-19 11:58:50 UTC] [NEW]   🆕 📦 nyxCore-Systems/nyx-sec-scanner
+     ⭐ 0  🗣 Shell  📅 2026-05-19
+     🔗 https://github.com/nyxCore-Systems/nyx-sec-scanner
+     📝 sec scanners 
+     🏷  —
+[2026-05-19 11:58:50 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-19 11:58:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-19 11:58:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-19 11:58:52 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-19 11:58:52 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-19 11:58:52 UTC] [NEW]   🆕 📦 Umit-MHL/webkit-cve-2024-23222
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Umit-MHL/webkit-cve-2024-23222
+     📝 CVE-2024-23222 WebKit type confusion → iOS 16.4.1 sandbox escape. Full chain: JS…
+     🏷  —
+[2026-05-19 11:58:52 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-19 11:58:52 UTC] [UPD]   📢 📦 hypnguyen1209/offensive-claude
+     ⭐ 1  🗣 Shell  📅 2026-05-19
+     🔗 https://github.com/hypnguyen1209/offensive-claude
+     📝 Offensive security toolkit for Claude Code covering red team, exploit dev, AD at…
+     🏷  claude-code, claude-code-skills, exploit-development, offensive-security, redteam
+     🔄 Motivo: repo recente (0gg)
+[2026-05-19 11:58:52 UTC] [INFO] ============================================================
+[2026-05-19 11:58:52 UTC] [INFO] Completato — 11 nuovi, 2 aggiornati, 0 errori
+[2026-05-19 11:58:52 UTC] [INFO] ============================================================
