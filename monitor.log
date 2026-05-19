@@ -385,3 +385,156 @@
 [2026-05-19 16:37:26 UTC] [INFO] ============================================================
 [2026-05-19 16:37:26 UTC] [INFO] Completato — 72 nuovi, 0 aggiornati, 0 errori
 [2026-05-19 16:37:26 UTC] [INFO] ============================================================
+[2026-05-19 19:53:57 UTC] [INFO] ============================================================
+[2026-05-19 19:53:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-19 19:53:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-19 19:53:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-19 19:53:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-19 19:53:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-19 19:53:57 UTC] [INFO] ============================================================
+[2026-05-19 19:53:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-19 19:53:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-19 19:53:58 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-19 19:53:58 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-19 19:53:58 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-19 19:53:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-19 19:53:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-19 19:54:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 FortisecValidation/Micro-Stager
+     ⭐ 0  🗣 PowerShell  📅 2026-05-19
+     🔗 https://github.com/FortisecValidation/Micro-Stager
+     📝 Proof of Concept (PoC) for ETW Threat Intelligence and AMSI evasion in managed e…
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 heymichael85/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/heymichael85/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 psychedelic-theory/SOC-Analyst-Labs
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/psychedelic-theory/SOC-Analyst-Labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 Tino0rcg/EDR-sentinel-x
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/Tino0rcg/EDR-sentinel-x
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 n0081183/cortex-presales
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/n0081183/cortex-presales
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 fagera99/AegisNova-OS
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/fagera99/AegisNova-OS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 h3ad-sec/INSIGHT-AI
+     ⭐ 0  🗣 JavaScript  📅 2026-05-19
+     🔗 https://github.com/h3ad-sec/INSIGHT-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 MitchellGulledge3/upwind-sentinel-mcp-demo
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/MitchellGulledge3/upwind-sentinel-mcp-demo
+     📝 Upwind × Microsoft Sentinel — 6 custom MCP tools (CNAPP triage) + live demo pres…
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 Fathiah-0/Threat-Actor-Investigation-Profiling
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/Fathiah-0/Threat-Actor-Investigation-Profiling
+     📝 MISP-based threat intelligence investigation profiling El Machete (APT-C-43), a …
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 erwinmagielda/sondar
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/erwinmagielda/sondar
+     📝 Network visibility workflow for host discovery, service inventory, and change de…
+     🏷  change-detection, cli-tool, cybersecuirty, network-inventory, network-scanning, nmap, python, security-tools, windows, xml-parsing
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 ItsNotPaths/Edrawk
+     ⭐ 0  🗣 Nim  📅 2026-05-18
+     🔗 https://github.com/ItsNotPaths/Edrawk
+     📝 smal luigi based text editor.
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 lionelmsango/defender-for-endpoint-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/lionelmsango/defender-for-endpoint-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 padmas-arch/Octic-ai
+     ⭐ 0  🗣 TypeScript  📅 2026-05-18
+     🔗 https://github.com/padmas-arch/Octic-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:01 UTC] [NEW]   🆕 📦 yErkaa/edr_project
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/yErkaa/edr_project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:01 UTC] [UPD]   📢 7 repository AGGIORNATI:
+[2026-05-19 19:54:01 UTC] [UPD]   📢 📦 Serhyi/AuditSample-Pro-2.0
+     ⭐ 0  🗣 TypeScript  📅 2026-05-12
+     🔗 https://github.com/Serhyi/AuditSample-Pro-2.0
+     📝 AuditSample Pro 2.0
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-19 19:54:01 UTC] [UPD]   📢 📦 aring87/Encoded-Command-Analyzer
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/aring87/Encoded-Command-Analyzer
+     📝 Python utility for decoding and analyzing encoded commands used in suspicious Po…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-19 19:54:01 UTC] [UPD]   📢 📦 pedroivobraga/LogiSwitch
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/pedroivobraga/LogiSwitch
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-19 19:54:01 UTC] [UPD]   📢 📦 odhjustingabriel/ioc-triage-tool
+     ⭐ 0  🗣 Python  📅 2026-05-11
+     🔗 https://github.com/odhjustingabriel/ioc-triage-tool
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-05-19 19:54:01 UTC] [UPD]   📢 📦 resper1965/itsm-projetc
+     ⭐ 0  🗣 TypeScript  📅 2026-05-19
+     🔗 https://github.com/resper1965/itsm-projetc
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-19 19:54:01 UTC] [UPD]   📢 📦 axon42/manifold
+     ⭐ 1  🗣 JavaScript  📅 2026-05-17
+     🔗 https://github.com/axon42/manifold
+     📝 project0 
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-19 19:54:01 UTC] [UPD]   📢 📦 0xSteph/patient-zero
+     ⭐ 2  🗣 JavaScript  📅 2026-05-14
+     🔗 https://github.com/0xSteph/patient-zero
+     📝 Supply-chain attack scanner for the agent era. Triage in 30s with `npx patient-z…
+     🏷  agent-security, cli, dependabot-alternative, install-blocking, ioc-scanner, javascript, mcp, npm, precommit-hook, pypi, sarif, security, shai-hulud, supply-chain-security
+     🔄 Motivo: repo recente (5gg)
+[2026-05-19 19:54:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-19 19:54:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-19 19:54:04 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-19 19:54:04 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-19 19:54:04 UTC] [NEW]   🆕 📦 34306/ios-exploit-starterpack
+     ⭐ 1  🗣 CSS  📅 2026-05-19
+     🔗 https://github.com/34306/ios-exploit-starterpack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:04 UTC] [NEW]   🆕 📦 meerzulee/OrbiX
+     ⭐ 0  🗣 C  📅 2026-05-18
+     🔗 https://github.com/meerzulee/OrbiX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 19:54:04 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-19 19:54:04 UTC] [UPD]   📢 📦 Vehicle-Security/PoCLab
+     ⭐ 0  🗣 C  📅 2026-05-17
+     🔗 https://github.com/Vehicle-Security/PoCLab
+     📝 Reproduce and defend against kernel vulnerabilities
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-19 19:54:04 UTC] [INFO] ============================================================
+[2026-05-19 19:54:04 UTC] [INFO] Completato — 16 nuovi, 8 aggiornati, 0 errori
+[2026-05-19 19:54:04 UTC] [INFO] ============================================================
