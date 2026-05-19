@@ -35,9 +35,8 @@ DAYS_LOOKBACK = 1
 DAYS_MONITOR_UPDATES = 30
 
 # Soglie per considerare un aggiornamento "rilevante"
-UPDATE_MIN_HOURS = 1          # aggiornato almeno 1 ora dopo l'ultima rilevazione
-UPDATE_MIN_STAR_INCREASE = 3  # oppure almeno 3 stelle in più
-UPDATE_MAX_AGE_DAYS = 7       # oppure aggiornato negli ultimi 7 giorni (repo recente)
+UPDATE_MIN_HOURS = 1      # aggiornato almeno 1 ora dopo l'ultima rilevazione
+UPDATE_MAX_AGE_DAYS = 7   # repo recente (giorni dalla creazione)
 
 # Risultati per query (max 100)
 PER_PAGE = 50
@@ -131,7 +130,7 @@ def _parse_items(items: list, query_name: str) -> list[dict]:
 
 
 def detect_updates(current: list[dict], previous_map: dict) -> list[dict]:
-    """Rileva repo già noti che hanno avuto aggiornamenti rilevanti."""
+    """Rileva repo già noti che hanno avuto aggiornamenti rilevanti al codice."""
     updated = []
     now = datetime.now(timezone.utc)
 
@@ -141,34 +140,28 @@ def detect_updates(current: list[dict], previous_map: dict) -> list[dict]:
             continue  # repo nuovo, gestito altrove
 
         prev = previous_map[url]
-        cur_updated = parse_time(repo.get("updated_at"))
-        prev_updated = parse_time(prev.get("updated_at"))
+        cur_pushed = parse_time(repo.get("pushed_at"))
+        prev_pushed = parse_time(prev.get("pushed_at"))
 
-        if not cur_updated or not prev_updated:
+        if not cur_pushed or not prev_pushed:
             continue
 
-        time_diff = cur_updated - prev_updated
-        star_increase = repo.get("stars", 0) - prev.get("stars", 0)
+        # Usa pushed_at (push di codice) invece di updated_at
+        # per ignorare cambi di stelle, fork, ecc.
+        push_diff = cur_pushed - prev_pushed
+
         cur_topics = set(repo.get("topics", []))
         prev_topics = set(prev.get("topics", []))
         new_topics = cur_topics - prev_topics
         repo_age = now - (parse_time(repo.get("created_at")) or now)
 
-        # È rilevante se:
-        # - aggiornato significativamente rispetto all'ultima rilevazione
-        # - oppure stelle cresciute velocemente
-        # - oppure repo recente con qualsiasi aggiornamento
-        if time_diff >= timedelta(hours=UPDATE_MIN_HOURS):
-            if (
-                repo_age.days <= UPDATE_MAX_AGE_DAYS
-                or star_increase >= UPDATE_MIN_STAR_INCREASE
-                or new_topics
-            ):
+        # È rilevante solo se c'è stato un push effettivo dall'ultima rilevazione
+        # e il repo è recente, oppure ha nuovi topic
+        if push_diff >= timedelta(hours=UPDATE_MIN_HOURS):
+            if repo_age.days <= UPDATE_MAX_AGE_DAYS or new_topics:
                 repo["_update_reason"] = []
                 if repo_age.days <= UPDATE_MAX_AGE_DAYS:
                     repo["_update_reason"].append(f"repo recente ({repo_age.days}gg)")
-                if star_increase >= UPDATE_MIN_STAR_INCREASE:
-                    repo["_update_reason"].append(f"+{star_increase} ⭐")
                 if new_topics:
                     repo["_update_reason"].append(f"nuovi topic: {', '.join(new_topics)}")
                 updated.append(repo)
@@ -250,7 +243,7 @@ def main():
             # Repo davvero nuovi (non visti prima)
             new_repos = [r for r in new_repos_all if str(r["id"]) not in prev_ids]
 
-            # Repo aggiornati (già noti ma con cambiamenti)
+            # Repo aggiornati (già noti ma con push effettivi)
             updated_repos = detect_updates(updated_repos_all, prev_map)
             # Escludi quelli che sono già "nuovi" (evita duplicati)
             new_urls = {r["url"] for r in new_repos}
