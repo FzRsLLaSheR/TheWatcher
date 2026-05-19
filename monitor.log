@@ -7298,3 +7298,169 @@
 [2026-05-18 19:46:40 UTC] [INFO] ============================================================
 [2026-05-18 19:46:40 UTC] [INFO] Esecuzione completata — 24 nuovi repo trovati, 0 errori
 [2026-05-18 19:46:40 UTC] [INFO] ============================================================
+[2026-05-19 03:43:19 UTC] [INFO] ============================================================
+[2026-05-19 03:43:19 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-19 03:43:19 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-19 03:43:19 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-19 03:43:19 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-19 03:43:19 UTC] [INFO] ============================================================
+[2026-05-19 03:43:19 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-19 03:43:19 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-19 03:43:20 UTC] [INFO]   → 2 repository trovati in totale
+[2026-05-19 03:43:20 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-19 03:43:20 UTC] [NEW]   📦 MrNeJ1stFun/ctx3-hwid-parser
+     ⭐ 0  🗣 C++  📅 2026-05-19
+     🔗 https://github.com/MrNeJ1stFun/ctx3-hwid-parser
+     📝 A modern C++20 header-only Windows HWID parser & environment integrity engine. C…
+     🏷  —
+[2026-05-19 03:43:20 UTC] [NEW]   📦 Yenn503/AdPack
+     ⭐ 0  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/Yenn503/AdPack
+     📝 State-aware Active Directory attack orchestration for penetration testing and re…
+     🏷  —
+[2026-05-19 03:43:20 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-19 03:43:20 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-19 03:43:21 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-19 03:43:21 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-05-19 03:43:21 UTC] [NEW]   📦 Tino0rcg/EDR-sentinel-x
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/Tino0rcg/EDR-sentinel-x
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 ghostbreachh/Aegis-Logistics-Breach-Simulation-
+     ⭐ 1  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/ghostbreachh/Aegis-Logistics-Breach-Simulation-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 padmas-arch/Octic-ai
+     ⭐ 0  🗣 TypeScript  📅 2026-05-18
+     🔗 https://github.com/padmas-arch/Octic-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 Yenn503/AdPack
+     ⭐ 0  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/Yenn503/AdPack
+     📝 State-aware Active Directory attack orchestration for penetration testing and re…
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 Husssam-Hamdan/edra-frontend
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Husssam-Hamdan/edra-frontend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 uhLawY/Cloud-EDR-Adversary-Simulation-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/uhLawY/Cloud-EDR-Adversary-Simulation-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 AymanTaman/SOC-LAB
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/AymanTaman/SOC-LAB
+     📝 Home SOC lab: Wazuh SIEM + Sysmon threat detection, MITRE ATT&CK simulations, an…
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 makfnbackboneud2024leak/troubleshooting
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/makfnbackboneud2024leak/troubleshooting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 lisamorenoit/EDRvsAntivurs-LabTest
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/lisamorenoit/EDRvsAntivurs-LabTest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 SecOpsMike-bit/cybersecurity-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/SecOpsMike-bit/cybersecurity-home-lab
+     📝 Documenting my cybersecurity home lab - Splunk SIEM, Elastic EDR, Wireshark, Nma…
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 contingens-defi/mortalis
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/contingens-defi/mortalis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 Rithvik1124/EDRLite
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/Rithvik1124/EDRLite
+     📝 A lightweight EDR
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 tw1nklexx/edra
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/tw1nklexx/edra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 kelian-git/cyna-angular
+     ⭐ 0  🗣 TypeScript  📅 2026-05-18
+     🔗 https://github.com/kelian-git/cyna-angular
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 deekshithreddyk/k8s-supply-chain-security
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/deekshithreddyk/k8s-supply-chain-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 HimanshuJain-2004/tawasol-risk-assistant
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/HimanshuJain-2004/tawasol-risk-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 whoshush/Malware-Analysis-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/whoshush/Malware-Analysis-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 deekshithreddyk/deekshithreddyk
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/deekshithreddyk/deekshithreddyk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 OLIPZZZ/NEGATIVE-RINGS-HYPERV-ARCHITECTURE
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/OLIPZZZ/NEGATIVE-RINGS-HYPERV-ARCHITECTURE
+     📝 Deep dive into x86 privilege rings (-3 to 0), Intel ME, SMM and Microsoft Hyper-…
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 OLIPZZZ/IA-CYBERSECURITY-WORKFORCE
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/OLIPZZZ/IA-CYBERSECURITY-WORKFORCE
+     📝 Research on how AI is transforming cybersecurity jobs, SOCs and threat automatio…
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 RedHatPentester/Vehicle-Forensics-E01
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/RedHatPentester/Vehicle-Forensics-E01
+     📝 CASE STUDY
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 whitefoxcybersec-blurp/Rootkit-linux-windows
+     ⭐ 0  🗣 C++  📅 2026-05-18
+     🔗 https://github.com/whitefoxcybersec-blurp/Rootkit-linux-windows
+     📝 Rootkit User-Mode (Linux/Windows) para estudos de segurança forense. Demonstra o…
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 RogerioHenrique1403/Keylogger
+     ⭐ 0  🗣 Python  📅 2026-05-18
+     🔗 https://github.com/RogerioHenrique1403/Keylogger
+     📝 Experimento prático para criação de malware
+     🏷  —
+[2026-05-19 03:43:21 UTC] [NEW]   📦 abdtaiba/EDR-XDR-Research
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/abdtaiba/EDR-XDR-Research
+     📝 A comprehensive research report analyzing and comparing Endpoint Detection and R…
+     🏷  —
+[2026-05-19 03:43:21 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-19 03:43:21 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-19 03:43:22 UTC] [INFO]   → 10 repository trovati in totale
+[2026-05-19 03:43:22 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-19 03:43:22 UTC] [NEW]   📦 u8650912672-ui/Project-Android-sandstorm
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/u8650912672-ui/Project-Android-sandstorm
+     📝 Project sandcastle but now we jailbreak the androids :3
+     🏷  —
+[2026-05-19 03:43:22 UTC] [NEW]   📦 DXC-0/linux-lpe-sigma
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/DXC-0/linux-lpe-sigma
+     📝  Sigma rules for kernel exploit detection (copy.fail, dirty.frag, fragnesia...) 
+     🏷  copyfail, cve-2026-43284, cybersecurity, detection-engineering, dirtyfrag, fragnesia, linux, linux-kernel, linux-lpe-cve-2026-31431, ruleset, security, siem, sigma, sigma-rules, soc
+[2026-05-19 03:43:22 UTC] [NEW]   📦 TestingDesyncBugWithVuln/vuln-repoo-1
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/TestingDesyncBugWithVuln/vuln-repoo-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 03:43:22 UTC] [INFO] ============================================================
+[2026-05-19 03:43:22 UTC] [INFO] Esecuzione completata — 29 nuovi repo trovati, 0 errori
+[2026-05-19 03:43:22 UTC] [INFO] ============================================================
