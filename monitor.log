@@ -7677,3 +7677,186 @@
 [2026-05-19 11:58:52 UTC] [INFO] ============================================================
 [2026-05-19 11:58:52 UTC] [INFO] Completato — 11 nuovi, 2 aggiornati, 0 errori
 [2026-05-19 11:58:52 UTC] [INFO] ============================================================
+[2026-05-19 15:28:41 UTC] [INFO] ============================================================
+[2026-05-19 15:28:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-19 15:28:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-19 15:28:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-19 15:28:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-19 15:28:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-19 15:28:41 UTC] [INFO] ============================================================
+[2026-05-19 15:28:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-19 15:28:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-19 15:28:44 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-19 15:28:44 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-19 15:28:44 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-19 15:28:44 UTC] [UPD]   📢 📦 Yenn503/AdPack
+     ⭐ 1  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/Yenn503/AdPack
+     📝 State-aware Active Directory attack orchestration for penetration testing and re…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-19 15:28:44 UTC] [UPD]   📢 📦 MaliParag/windows-security-talks
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/MaliParag/windows-security-talks
+     📝 A curated, theme-clustered index of Windows-security talks across DEF CON, BH US…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-19 15:28:44 UTC] [UPD]   📢 📦 redteamfortress/PhantomKiller
+     ⭐ 26  🗣 C++  📅 2026-05-19
+     🔗 https://github.com/redteamfortress/PhantomKiller
+     📝 Another BYOVD process killer. works on all EDR's. fully signed.
+     🏷  byovd, edr, edr-bypass, edr-evasion, redteaming
+     🔄 Motivo: repo recente (0gg) | +14 ⭐
+[2026-05-19 15:28:44 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-19 15:28:44 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-19 15:28:47 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 Scopophage/Intune-Winget-Commander
+     ⭐ 0  🗣 PowerShell  📅 2026-05-19
+     🔗 https://github.com/Scopophage/Intune-Winget-Commander
+     📝 Ce projet centralise la mise à jour, exclut les applications critiques (comme le…
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 resper1965/itsm-projetc
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/resper1965/itsm-projetc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 CYG66/-security_agent
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/CYG66/-security_agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 pedroivobraga/LogiSwitch
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/pedroivobraga/LogiSwitch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 n0081183/cortex-presales
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/n0081183/cortex-presales
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 313-Kilobytes/IT-Support-Capstone
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/313-Kilobytes/IT-Support-Capstone
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 costrict-plugins-repo/mukul975-anthropic-cybersecurity-skills-cybersecurity-skills
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/costrict-plugins-repo/mukul975-anthropic-cybersecurity-skills-cybersecurity-skills
+     📝 costrict-plugins mirror of mukul975-anthropic-cybersecurity-skills-cybersecurity…
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 kidlong/delta-force-ga
+     ⭐ 0  🗣 C++  📅 2026-05-19
+     🔗 https://github.com/kidlong/delta-force-ga
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 OmerFarukkavugubuyuk/Example_Virus_and_Anti_Virus_Program_on_Regedit
+     ⭐ 0  🗣 C#  📅 2026-05-19
+     🔗 https://github.com/OmerFarukkavugubuyuk/Example_Virus_and_Anti_Virus_Program_on_Regedit
+     📝 An antivirus program that detects viruses via the regedit and a test virus that …
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 dhouha-kthiri/automotive-security
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/dhouha-kthiri/automotive-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 Consistent-0786/Threat-Hunting-Scenario-Tor
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/Consistent-0786/Threat-Hunting-Scenario-Tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 Maxime288/CyberSec-Awareness
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/Maxime288/CyberSec-Awareness
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 emreefedogan/SGB-USOMFeedService
+     ⭐ 3  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/emreefedogan/SGB-USOMFeedService
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 Maxime288/Malware-Awareness
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/Maxime288/Malware-Awareness
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 Danielnwachukwu/VitalCloud-GRC-ISO27001-HIPAA
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/Danielnwachukwu/VitalCloud-GRC-ISO27001-HIPAA
+     📝 Enterprise healthcare GRC implementation project aligned with ISO 27001:2022 and…
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 Dangel165/Erebus
+     ⭐ 0  🗣 C++  📅 2026-05-19
+     🔗 https://github.com/Dangel165/Erebus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 hozcanshield/rapid7-vulnerability-management
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/hozcanshield/rapid7-vulnerability-management
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:47 UTC] [NEW]   🆕 📦 arnodkaka-cloud/brutoforce-seed-v13.5.1
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/arnodkaka-cloud/brutoforce-seed-v13.5.1
+     📝 wallet finder
+     🏷  —
+[2026-05-19 15:28:47 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-19 15:28:47 UTC] [UPD]   📢 📦 Yenn503/AdPack
+     ⭐ 1  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/Yenn503/AdPack
+     📝 State-aware Active Directory attack orchestration for penetration testing and re…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-19 15:28:47 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-19 15:28:47 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-19 15:28:50 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-19 15:28:50 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-05-19 15:28:50 UTC] [NEW]   🆕 📦 n9nepwn/n9nepwn
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/n9nepwn/n9nepwn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 15:28:50 UTC] [NEW]   🆕 📦 wahyunugroho-lab/web_pentest
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/wahyunugroho-lab/web_pentest
+     📝 cheatsheet
+     🏷  —
+[2026-05-19 15:28:50 UTC] [NEW]   🆕 📦 tyx-git/ctf-agents-team
+     ⭐ 1  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/tyx-git/ctf-agents-team
+     📝 A unified CTF challenge-solving orchestration system for Claude Code. Provides r…
+     🏷  —
+[2026-05-19 15:28:50 UTC] [NEW]   🆕 📦 HVMI-Kernel-Vision-QUAD/hvmi_one
+     ⭐ 0  🗣 C  📅 2026-05-19
+     🔗 https://github.com/HVMI-Kernel-Vision-QUAD/hvmi_one
+     📝 Used to maintain and update the hvmi project, code maintenance, and version upda…
+     🏷  —
+[2026-05-19 15:28:50 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-19 15:28:50 UTC] [UPD]   📢 📦 Umit-MHL/webkit-cve-2024-23222
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Umit-MHL/webkit-cve-2024-23222
+     📝 CVE-2024-23222 WebKit type confusion → iOS 16.4.1 sandbox escape. Full chain: JS…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-19 15:28:50 UTC] [UPD]   📢 📦 u8650912672-ui/Project-Android-sandstorm
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/u8650912672-ui/Project-Android-sandstorm
+     📝 Project sandcastle but now we jailbreak the androids :3
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-19 15:28:50 UTC] [UPD]   📢 📦 Londopy/capture-bypass
+     ⭐ 17  🗣 Rust  📅 2026-05-14
+     🔗 https://github.com/Londopy/capture-bypass
+     📝 DLL injection tool to bypass screen-capture protection on Windows 10/11
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-19 15:28:50 UTC] [UPD]   📢 📦 mito753/Kernel-Exploit-Dojo
+     ⭐ 106  🗣 C  📅 2026-05-07
+     🔗 https://github.com/mito753/Kernel-Exploit-Dojo
+     📝 CTF kernel exploitation notes, PoCs, exploits, and writeups.
+     🏷  ctf, ctf-writeups, dirty-pipe, ebpf, kernel-exploitation, kernel-pwn, kernel-rop, kpti, linux-kernel, linux-kernel-exploitation, modprobe-path, msg-msg, pipe-buffer, pwn, qemu, smap, smep-bypass, uaf, userfaultfd
+     🔄 Motivo: +12 ⭐
+[2026-05-19 15:28:50 UTC] [INFO] ============================================================
+[2026-05-19 15:28:50 UTC] [INFO] Completato — 22 nuovi, 8 aggiornati, 0 errori
+[2026-05-19 15:28:50 UTC] [INFO] ============================================================
