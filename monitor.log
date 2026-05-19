@@ -7464,3 +7464,124 @@
 [2026-05-19 03:43:22 UTC] [INFO] ============================================================
 [2026-05-19 03:43:22 UTC] [INFO] Esecuzione completata — 29 nuovi repo trovati, 0 errori
 [2026-05-19 03:43:22 UTC] [INFO] ============================================================
+[2026-05-19 09:49:30 UTC] [INFO] ============================================================
+[2026-05-19 09:49:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-19 09:49:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-19 09:49:30 UTC] [INFO] Finestra temporale: ultimi 1 giorni
+[2026-05-19 09:49:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-19 09:49:30 UTC] [INFO] ============================================================
+[2026-05-19 09:49:30 UTC] [INFO] Ricerca query: 'byovd-killers'
+[2026-05-19 09:49:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-19 09:49:31 UTC] [INFO]   → 3 repository trovati in totale
+[2026-05-19 09:49:31 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-19 09:49:31 UTC] [NEW]   📦 redteamfortress/PhantomKiller
+     ⭐ 8  🗣 C++  📅 2026-05-19
+     🔗 https://github.com/redteamfortress/PhantomKiller
+     📝 Another BYOVD process killer. works on all EDR's. fully signed.
+     🏷  byovd, edr, edr-bypass, edr-evasion, redteaming
+[2026-05-19 09:49:31 UTC] [INFO] Ricerca query: 'edr-evasion'
+[2026-05-19 09:49:31 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-19 09:49:33 UTC] [INFO]   → 50 repository trovati in totale
+[2026-05-19 09:49:33 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-05-19 09:49:33 UTC] [NEW]   📦 yujiajian34-blip/BiEDRN-MHA
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/yujiajian34-blip/BiEDRN-MHA
+     📝 ICICS2026投稿数据集
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 maha-iyad/mini-edr-backend
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/maha-iyad/mini-edr-backend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 arendtszshonil/Memory-Inspector
+     ⭐ 1  🗣 C  📅 2026-05-18
+     🔗 https://github.com/arendtszshonil/Memory-Inspector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 Mahesh-Kete/victim-app
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/Mahesh-Kete/victim-app
+     📝 Test app for Citadel runtime EDR demos
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 hypnguyen1209/offensive-claude
+     ⭐ 0  🗣 Shell  📅 2026-05-19
+     🔗 https://github.com/hypnguyen1209/offensive-claude
+     📝 Offensive security toolkit for Claude Code covering red team, exploit dev, AD at…
+     🏷  claude-code, claude-code-skills, exploit-development, offensive-security, redteam
+[2026-05-19 09:49:33 UTC] [NEW]   📦 Tochiughasoro/threat-hunting-scenario-tor-
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/Tochiughasoro/threat-hunting-scenario-tor-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 rhythmcare/edrotx
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/rhythmcare/edrotx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 redteamfortress/PhantomKiller
+     ⭐ 8  🗣 C++  📅 2026-05-19
+     🔗 https://github.com/redteamfortress/PhantomKiller
+     📝 Another BYOVD process killer. works on all EDR's. fully signed.
+     🏷  byovd, edr, edr-bypass, edr-evasion, redteaming
+[2026-05-19 09:49:33 UTC] [NEW]   📦 Willie-Conway/CySA-Reference-Dossier-Interactive-Study-Guide
+     ⭐ 1  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Willie-Conway/CySA-Reference-Dossier-Interactive-Study-Guide
+     📝 CySA+ Reference Dossier is an interactive, browser-based study guide for the Com…
+     🏷  certification, comptia, cs0-003, cybersecurity, cybersecurity-training, cysa-plus, exam-prep, glossary, incident-response, interactive-learning, reference, security-analyst, security-operations, security-terms, soc-analyst, study-guide, threat-detection, threat-hunting, vulnerability-management
+[2026-05-19 09:49:33 UTC] [NEW]   📦 Yoonas18/SentinelTrap-Sensor
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/Yoonas18/SentinelTrap-Sensor
+     📝 Compact network deception sensor with fake HTTP/SSH/FTP/Telnet services, protect…
+     🏷  cybersecurity, deception-technology, honeypot, network-security
+[2026-05-19 09:49:33 UTC] [NEW]   📦 whitefoxcybersec-blurp/Malware-analysis
+     ⭐ 0  🗣 C  📅 2026-05-19
+     🔗 https://github.com/whitefoxcybersec-blurp/Malware-analysis
+     📝 Este projeto demonstra os conceitos básicos por trás do empacotamento de arquivo…
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 mayanklau/Darkweb-monitoring.---Agentic-AI
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/mayanklau/Darkweb-monitoring.---Agentic-AI
+     📝 Darkweb monitoring. - Agentic AI
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 edrianecabunot65-design/edriane-allyson
+     ⭐ 0  🗣 TypeScript  📅 2026-05-19
+     🔗 https://github.com/edrianecabunot65-design/edriane-allyson
+     📝 website
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 B1r4FS/cyber-security-daily-ops
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/B1r4FS/cyber-security-daily-ops
+     📝 Animated cybersecurity operations platform simulating real-world defensive secur…
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 charitha-98/windows-ransomware-behavioral-blocker
+     ⭐ 0  🗣 C  📅 2026-05-19
+     🔗 https://github.com/charitha-98/windows-ransomware-behavioral-blocker
+     📝 A high-performance Pure C endpoint detection and response (EDR) prototype that a…
+     🏷  —
+[2026-05-19 09:49:33 UTC] [INFO] Ricerca query: 'kernel-exploit'
+[2026-05-19 09:49:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-19 09:49:33 UTC] [INFO]   → 13 repository trovati in totale
+[2026-05-19 09:49:33 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-05-19 09:49:33 UTC] [NEW]   📦 Ruby570bocadito/peekaboo
+     ⭐ 0  🗣 Go  📅 2026-05-19
+     🔗 https://github.com/Ruby570bocadito/peekaboo
+     📝 Linux Privilege Escalation Auto-Exploiter — single binary, zero deps, auto-root
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 hypnguyen1209/offensive-claude
+     ⭐ 0  🗣 Shell  📅 2026-05-19
+     🔗 https://github.com/hypnguyen1209/offensive-claude
+     📝 Offensive security toolkit for Claude Code covering red team, exploit dev, AD at…
+     🏷  claude-code, claude-code-skills, exploit-development, offensive-security, redteam
+[2026-05-19 09:49:33 UTC] [NEW]   📦 HVMI-Kernel-Vision-QUAD/hvmi
+     ⭐ 2  🗣 C  📅 2026-05-19
+     🔗 https://github.com/HVMI-Kernel-Vision-QUAD/hvmi
+     📝 Used to maintain and update the hvmi project, code maintenance, and version upda…
+     🏷  —
+[2026-05-19 09:49:33 UTC] [NEW]   📦 BadAiTeam/BadAi
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/BadAiTeam/BadAi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-19 09:49:33 UTC] [INFO] ============================================================
+[2026-05-19 09:49:33 UTC] [INFO] Esecuzione completata — 20 nuovi repo trovati, 0 errori
+[2026-05-19 09:49:33 UTC] [INFO] ============================================================
