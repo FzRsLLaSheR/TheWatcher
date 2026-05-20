@@ -744,3 +744,153 @@
 [2026-05-20 03:45:39 UTC] [INFO] ============================================================
 [2026-05-20 03:45:39 UTC] [INFO] Completato — 23 nuovi, 11 aggiornati, 0 errori
 [2026-05-20 03:45:39 UTC] [INFO] ============================================================
+[2026-05-20 09:37:49 UTC] [INFO] ============================================================
+[2026-05-20 09:37:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-20 09:37:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-20 09:37:49 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-20 09:37:49 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-20 09:37:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-20 09:37:49 UTC] [INFO] ============================================================
+[2026-05-20 09:37:49 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-20 09:37:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-20 09:37:52 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-20 09:37:52 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-20 09:37:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-20 09:37:52 UTC] [UPD]   📢 📦 cfs0x/ShadowByte
+     ⭐ 1  🗣 C++  📅 2026-05-19
+     🔗 https://github.com/cfs0x/ShadowByte
+     📝 is a PoC tool for demonstrating BYOVD class vulnerabilities (Bring Your Own Vuln…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 09:37:52 UTC] [UPD]   📢 📦 RMS2D/omnomfeeds
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/RMS2D/omnomfeeds
+     📝 A self-hostable, keyboard-driven security news terminal. RSS + Reddit + Bluesky …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 09:37:52 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-20 09:37:52 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-20 09:37:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 SilvioTormen/Active-Directory-Privilege-Map-
+     ⭐ 0  🗣 Go Template  📅 2026-05-19
+     🔗 https://github.com/SilvioTormen/Active-Directory-Privilege-Map-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 Mas0nShi/MacFSW
+     ⭐ 0  🗣 Swift  📅 2026-05-20
+     🔗 https://github.com/Mas0nShi/MacFSW
+     📝 a macOS file-system behavior analyzer for DEV and VR.
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 alemayewfite-cmyk/edr3
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/alemayewfite-cmyk/edr3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 priyanshirajawat8-eng/mini-edr
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/priyanshirajawat8-eng/mini-edr
+     📝 Mini EDR project using Python and psutil for process monitoring and threat detec…
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 alemayewfite-cmyk/edr2
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/alemayewfite-cmyk/edr2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 Renio-wow/hijack-test
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/Renio-wow/hijack-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 Forest-Isle/Forest-Isle
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/Forest-Isle/Forest-Isle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 nadhiffahranizadiaka-sudo/edr-wazuh-project
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/nadhiffahranizadiaka-sudo/edr-wazuh-project
+     📝 EDR Implementation using Wazuh + Sysmon - Blue Team Project 2026
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 haha150/rustpack
+     ⭐ 0  🗣 Rust  📅 2026-05-20
+     🔗 https://github.com/haha150/rustpack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 Yusbad09/Dual-Channel-Incident-Alert-Notification-System
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/Yusbad09/Dual-Channel-Incident-Alert-Notification-System
+     📝 A two-way incident alert notification system implemented in a live enterprise SO…
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 lokeshkumar80/Car-Black-Box
+     ⭐ 0  🗣 Makefile  📅 2026-05-20
+     🔗 https://github.com/lokeshkumar80/Car-Black-Box
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 srujal-patil/EntropyShield
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-20
+     🔗 https://github.com/srujal-patil/EntropyShield
+     📝 An AI-driven, behavioral anti-ransomware prototype built in Python
+     🏷  cybersecurity, machine-learning, malware-analysis, python, scikit-learn
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 Gaurav189822/EDR-LITE
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/Gaurav189822/EDR-LITE
+     📝 EDR-LITE is an AI-powered Endpoint Detection and Response (EDR) system designed …
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 aymanfouad22/DESI-Transformer
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-20
+     🔗 https://github.com/aymanfouad22/DESI-Transformer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 ingwaltergomez/cybershield-soc-automation
+     ⭐ 0  🗣 Shell  📅 2026-05-20
+     🔗 https://github.com/ingwaltergomez/cybershield-soc-automation
+     📝 Automated multi-tenant SOC platform using Wazuh - Reducing deployment from hours…
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 GreyNOC/DMZ
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/GreyNOC/DMZ
+     📝 Detection Management Zone  A controlled cyber range for validating detections, t…
+     🏷  —
+[2026-05-20 09:37:56 UTC] [NEW]   🆕 📦 bhupenderbhardwaj83/scanner-axios-tanstack-node-ipc
+     ⭐ 0  🗣 Shell  📅 2026-05-20
+     🔗 https://github.com/bhupenderbhardwaj83/scanner-axios-tanstack-node-ipc
+     📝 scan your Macbook for 3 malicious supply chain attacked packages axios, tanstack…
+     🏷  —
+[2026-05-20 09:37:56 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-20 09:37:56 UTC] [UPD]   📢 📦 nefesec/kali-toolkit
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/nefesec/kali-toolkit
+     📝 All-in-one CLI pentest toolkit for Kali Linux — 42 tools across 6 categories + m…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 09:37:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-20 09:37:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-20 09:37:59 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-20 09:37:59 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-20 09:37:59 UTC] [NEW]   🆕 📦 TestDiscrepBugWithVulnerabilities/repo-with-vuln-1
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/TestDiscrepBugWithVulnerabilities/repo-with-vuln-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 09:37:59 UTC] [NEW]   🆕 📦 bolavinh/command-cheatsheet
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/bolavinh/command-cheatsheet
+     📝 cheat sheet all the things
+     🏷  —
+[2026-05-20 09:37:59 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-20 09:37:59 UTC] [UPD]   📢 📦 HVMI-Kernel-Vision-QUAD/hvmi_one
+     ⭐ 2  🗣 C  📅 2026-05-19
+     🔗 https://github.com/HVMI-Kernel-Vision-QUAD/hvmi_one
+     📝 Support windows virtual machine. Used to maintain and update the hvmi project, c…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 09:37:59 UTC] [UPD]   📢 📦 xsxs18-dev/Jailed-iOS-18x-26-customisation-tools
+     ⭐ 14  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/xsxs18-dev/Jailed-iOS-18x-26-customisation-tools
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 09:37:59 UTC] [INFO] ============================================================
+[2026-05-20 09:37:59 UTC] [INFO] Completato — 19 nuovi, 5 aggiornati, 0 errori
+[2026-05-20 09:37:59 UTC] [INFO] ============================================================
