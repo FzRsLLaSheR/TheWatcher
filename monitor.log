@@ -1095,3 +1095,169 @@
 [2026-05-20 15:25:43 UTC] [INFO] ============================================================
 [2026-05-20 15:25:43 UTC] [INFO] Completato — 28 nuovi, 6 aggiornati, 0 errori
 [2026-05-20 15:25:43 UTC] [INFO] ============================================================
+[2026-05-20 20:20:41 UTC] [INFO] ============================================================
+[2026-05-20 20:20:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-20 20:20:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-20 20:20:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-20 20:20:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-20 20:20:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-20 20:20:41 UTC] [INFO] ============================================================
+[2026-05-20 20:20:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-20 20:20:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-20 20:20:44 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-20 20:20:44 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-20 20:20:44 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-20 20:20:44 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-20 20:20:44 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-20 20:20:47 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 MichaelKirbyIT/Threat-Hunt-Report-Ghost-In-The-Stack-Threat-Hunt
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Ghost-In-The-Stack-Threat-Hunt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 PauGarza/Movilidad-Social-y-Educacion
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/PauGarza/Movilidad-Social-y-Educacion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 Nano8963/windows-edr-lite
+     ⭐ 0  🗣 C  📅 2026-05-20
+     🔗 https://github.com/Nano8963/windows-edr-lite
+     📝 A personal lite edr project
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 threatcraft-co/wardex
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/threatcraft-co/wardex
+     📝 Warden for your extensions. macOS daemon that enforces publisher trust at instal…
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 shubham5027/Agent_Dynatrace
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/shubham5027/Agent_Dynatrace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 AliensToEarth/kitty-checker
+     ⭐ 0  🗣 Shell  📅 2026-05-20
+     🔗 https://github.com/AliensToEarth/kitty-checker
+     📝 Lightweight detection tool for the Nx Console kitty backdoor (May 2026)
+     🏷  bash, incident-response, ioc-detection, kitty-backdoor, malware-detection, nx-console, powershell, security, supply-chain-security, vulnerability-scanner
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 davidzon84-sketch/SentinelOps_OS
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/davidzon84-sketch/SentinelOps_OS
+     📝 plataforma de seguridad basada en linux y docker
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 roethlar/vela
+     ⭐ 0  🗣 Rust  📅 2026-05-20
+     🔗 https://github.com/roethlar/vela
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 Tanishaagarwal28/hivepro-ai-cyber-risk-assistant
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/Tanishaagarwal28/hivepro-ai-cyber-risk-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 nandu007715/RAKSHAK-EDR
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/nandu007715/RAKSHAK-EDR
+     📝 SOC-style Endpoint Detection & Response Dashboard using Flask and Scapy
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 Muts256/CTI_Projects
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/Muts256/CTI_Projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 agustus9/Security-Operations-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/agustus9/Security-Operations-Incident-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 bl4cksku11/bl4cksku11
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/bl4cksku11/bl4cksku11
+     📝 me lol
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 ihssanezaoui19-star/DFIR-Compromised-System-Analysis-WeatherZero-Malware
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/ihssanezaoui19-star/DFIR-Compromised-System-Analysis-WeatherZero-Malware
+     📝 DFIR — Compromised System Analysis: WeatherZero Malware
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 k-edr/let-me-gemini-it-for-you
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/k-edr/let-me-gemini-it-for-you
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 wincura/mini-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/wincura/mini-soc-lab
+     📝 A home lab built for security monitoring, deploying Elastic Stack for Security I…
+     🏷  —
+[2026-05-20 20:20:47 UTC] [NEW]   🆕 📦 gundamz44/CSW
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/gundamz44/CSW
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:47 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-20 20:20:47 UTC] [UPD]   📢 📦 NB-LOGOsoft/ISA-Cyberrisiko-Check
+     ⭐ 0  🗣 TypeScript  📅 2026-05-20
+     🔗 https://github.com/NB-LOGOsoft/ISA-Cyberrisiko-Check
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 20:20:47 UTC] [UPD]   📢 📦 404SecNotFound/Active-Directory-Pentest-Detection-Pack
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/404SecNotFound/Active-Directory-Pentest-Detection-Pack
+     📝 106 team-reviewed Sigma rules detecting the full Active Directory attack chain: …
+     🏷  active-directory, blue-team, detection-engineering, dfir, mitre-attack, siem, sigma, threat-detection
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 20:20:47 UTC] [UPD]   📢 📦 rudranpatra/vetokernel
+     ⭐ 0  🗣 Go  📅 2026-05-20
+     🔗 https://github.com/rudranpatra/vetokernel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 20:20:47 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-20 20:20:47 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-20 20:20:50 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-20 20:20:50 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-05-20 20:20:50 UTC] [NEW]   🆕 📦 vetementsvmnts/Ubuntu-OS-Penetration-Testing
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/vetementsvmnts/Ubuntu-OS-Penetration-Testing
+     📝  A curated toolkit and methodology for ethical security assessments on Ubuntu sy…
+     🏷  cybersecurity, kali-linux, offensive-security, operating-system, penetration-testing, ubuntu, virtual-machine
+[2026-05-20 20:20:50 UTC] [NEW]   🆕 📦 fogazi42/htb-writeups
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/fogazi42/htb-writeups
+     📝 HackTheBox box writeups - practice solves.
+     🏷  —
+[2026-05-20 20:20:50 UTC] [NEW]   🆕 📦 clogan9019-dotcom/StikDebug
+     ⭐ 0  🗣 Swift  📅 2026-05-20
+     🔗 https://github.com/clogan9019-dotcom/StikDebug
+     📝 StikDebug iOS JIT enabler with DarkSword kernel exploit support
+     🏷  —
+[2026-05-20 20:20:50 UTC] [NEW]   🆕 📦 Lazarus409/FullMounty---Writeup-PrivilegeEscalation
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/Lazarus409/FullMounty---Writeup-PrivilegeEscalation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 20:20:50 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-20 20:20:50 UTC] [UPD]   📢 📦 Umit-MHL/webkit-cve-2024-23222
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Umit-MHL/webkit-cve-2024-23222
+     📝 CVE-2024-23222 WebKit type confusion → iOS 16.4.1 sandbox escape. Full chain: JS…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-20 20:20:50 UTC] [UPD]   📢 📦 xsxs18-dev/Jailed-iOS-18x-26-customisation-tools
+     ⭐ 20  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/xsxs18-dev/Jailed-iOS-18x-26-customisation-tools
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 20:20:50 UTC] [UPD]   📢 📦 Poellie01/PentestCompanion
+     ⭐ 23  🗣 HTML  📅 2026-05-16
+     🔗 https://github.com/Poellie01/PentestCompanion
+     📝 The ultimate pentesting companion. Keep all your pentesting artifacts in one pla…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-20 20:20:50 UTC] [INFO] ============================================================
+[2026-05-20 20:20:50 UTC] [INFO] Completato — 21 nuovi, 6 aggiornati, 0 errori
+[2026-05-20 20:20:50 UTC] [INFO] ============================================================
