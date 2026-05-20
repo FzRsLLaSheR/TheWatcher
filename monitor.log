@@ -538,3 +538,209 @@
 [2026-05-19 19:54:04 UTC] [INFO] ============================================================
 [2026-05-19 19:54:04 UTC] [INFO] Completato — 16 nuovi, 8 aggiornati, 0 errori
 [2026-05-19 19:54:04 UTC] [INFO] ============================================================
+[2026-05-20 03:45:32 UTC] [INFO] ============================================================
+[2026-05-20 03:45:32 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-20 03:45:32 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-20 03:45:32 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-20 03:45:32 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-20 03:45:32 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-20 03:45:32 UTC] [INFO] ============================================================
+[2026-05-20 03:45:32 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-20 03:45:32 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-20 03:45:34 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-20 03:45:34 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-20 03:45:34 UTC] [NEW]   🆕 📦 RMS2D/omnomfeeds
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/RMS2D/omnomfeeds
+     📝 A self-hostable, keyboard-driven security news terminal. RSS + Reddit + Bluesky …
+     🏷  —
+[2026-05-20 03:45:34 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-20 03:45:34 UTC] [UPD]   📢 📦 Yenn503/AdPack
+     ⭐ 2  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/Yenn503/AdPack
+     📝 State-aware Active Directory attack orchestration for penetration testing and re…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-20 03:45:34 UTC] [UPD]   📢 📦 MaliParag/windows-security-talks
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/MaliParag/windows-security-talks
+     📝 A curated, theme-clustered index of Windows-security talks across DEF CON, BH US…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-20 03:45:34 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-20 03:45:34 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-20 03:45:37 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 Blaakpearl/security-portfolio-30days
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/Blaakpearl/security-portfolio-30days
+     📝 30-Day Security Research Portfolio — Threat Hunting, OSINT, Forensics, Purple Te…
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 wenkeji/CGflow
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/wenkeji/CGflow
+     📝 PG CO-OP
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 masterfrequency/Termux-Slayer
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/masterfrequency/Termux-Slayer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 Husssam-Hamdan/edra-frontend
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Husssam-Hamdan/edra-frontend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 RMS2D/omnomfeeds
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/RMS2D/omnomfeeds
+     📝 A self-hostable, keyboard-driven security news terminal. RSS + Reddit + Bluesky …
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 gabrielmeir53/iphonebridge
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/gabrielmeir53/iphonebridge
+     📝 A native Linux desktop bridge for a paired iPhone over Bluetooth.
+     🏷  bluetooth, bluetooth-low-energy, bluez, dbus, gnome, imessage, iphone, linux, map-profile, pop-os, python, sms, systemd
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 LucasRoder/Complete-EDR-System
+     ⭐ 1  🗣 Java  📅 2026-05-20
+     🔗 https://github.com/LucasRoder/Complete-EDR-System
+     📝 Complete EDR system different user and alert types 
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 RaihnForge/aerocms-redesign-mockup
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/RaihnForge/aerocms-redesign-mockup
+     📝 AeroCMS website redesign mockup - static HTML/CSS demo. Not production.
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 KarnikaKuruba/Microsoft-defender-endpoint-threat-investigation
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/KarnikaKuruba/Microsoft-defender-endpoint-threat-investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 dRam51/autonomous-soc-platform
+     ⭐ 1  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/dRam51/autonomous-soc-platform
+     📝 AI-powered Security Operations Center — multi-agent system using LangGraph, Clau…
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 besan-alkasabreh/mini-edr-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-05-19
+     🔗 https://github.com/besan-alkasabreh/mini-edr-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 ArtemCyberLab/Projeto---Investigate-EDR-Alerts
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/ArtemCyberLab/Projeto---Investigate-EDR-Alerts
+     📝 To perform triage and initial analysis of medium and high-severity alerts within…
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 riflower001/MDEReportingUserContext
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/riflower001/MDEReportingUserContext
+     📝 MDE Reporting using the logged in user to pull information from the MDE API's. O…
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 p4ckets/HookScan
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/p4ckets/HookScan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 Triadeia/edrive-go-proposal
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Triadeia/edrive-go-proposal
+     📝 eDrive GO Commercial Proposal
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 MgnCoding2020/windows-triage-toolbox
+     ⭐ 0  🗣 PowerShell  📅 2026-05-19
+     🔗 https://github.com/MgnCoding2020/windows-triage-toolbox
+     📝 PowerShell scripts and redacted evidence samples for safety-first Windows triage…
+     🏷  blue-team, continuous-monitoring, defender, dfir, event-logs, incident-response, powershell, windows
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 gromerosec/google-secops-claude-skill
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/gromerosec/google-secops-claude-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 ryandavidrussell/c3-icm-domain-packs
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/ryandavidrussell/c3-icm-domain-packs
+     📝 Authority-aware routing domain packs for agentic AI governance in SOC and accoun…
+     🏷  accounting, agentic-ai, ai-governance, ai-safety, cybersecurity, governance, human-in-the-loop, llm-security, prompt-injection, responsible-ai, soc, sqlite, synthetic-data
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 nefesec/kali-toolkit
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/nefesec/kali-toolkit
+     📝 All-in-one CLI pentest toolkit for Kali Linux — 42 tools across 6 categories + m…
+     🏷  —
+[2026-05-20 03:45:37 UTC] [NEW]   🆕 📦 n0081183/cortex-presales
+     ⭐ 0  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/n0081183/cortex-presales
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 03:45:37 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-20 03:45:37 UTC] [UPD]   📢 📦 axon42/manifold
+     ⭐ 1  🗣 JavaScript  📅 2026-05-17
+     🔗 https://github.com/axon42/manifold
+     📝 project0 
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-20 03:45:37 UTC] [UPD]   📢 📦 Yenn503/AdPack
+     ⭐ 2  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/Yenn503/AdPack
+     📝 State-aware Active Directory attack orchestration for penetration testing and re…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-20 03:45:37 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-20 03:45:37 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-20 03:45:39 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-20 03:45:39 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-20 03:45:39 UTC] [NEW]   🆕 📦 xsxs18-dev/Jailed-iOS-18x-26-customisation-tools
+     ⭐ 6  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/xsxs18-dev/Jailed-iOS-18x-26-customisation-tools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 03:45:39 UTC] [NEW]   🆕 📦 farukhasdemir/-Awesome-Hacking
+     ⭐ 0  🗣 N/A  📅 2026-05-19
+     🔗 https://github.com/farukhasdemir/-Awesome-Hacking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-20 03:45:39 UTC] [UPD]   📢 7 repository AGGIORNATI:
+[2026-05-20 03:45:39 UTC] [UPD]   📢 📦 HK-AI-Security-Lab/Qiang-AgentRL-Attack-Defense
+     ⭐ 0  🗣 HTML  📅 2026-05-13
+     🔗 https://github.com/HK-AI-Security-Lab/Qiang-AgentRL-Attack-Defense
+     📝 Heuristic Learning + RL + Attack&Defense
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-20 03:45:39 UTC] [UPD]   📢 📦 Umit-MHL/webkit-cve-2024-23222
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Umit-MHL/webkit-cve-2024-23222
+     📝 CVE-2024-23222 WebKit type confusion → iOS 16.4.1 sandbox escape. Full chain: JS…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 03:45:39 UTC] [UPD]   📢 📦 HVMI-Kernel-Vision-QUAD/hvmi_one
+     ⭐ 1  🗣 C  📅 2026-05-19
+     🔗 https://github.com/HVMI-Kernel-Vision-QUAD/hvmi_one
+     📝 Support windows virtual machine. Used to maintain and update the hvmi project, c…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-20 03:45:39 UTC] [UPD]   📢 📦 CyberSecAndy/siem-detection-threat-hunting
+     ⭐ 0  🗣 N/A  📅 2026-05-18
+     🔗 https://github.com/CyberSecAndy/siem-detection-threat-hunting
+     📝 Detection engineering & hunting queries
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-20 03:45:39 UTC] [UPD]   📢 📦 MaliParag/windows-security-talks
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/MaliParag/windows-security-talks
+     📝 A curated, theme-clustered index of Windows-security talks across DEF CON, BH US…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-20 03:45:39 UTC] [UPD]   📢 📦 REstorninho/Local-Vulnerabilities-Check
+     ⭐ 0  🗣 PowerShell  📅 2026-05-18
+     🔗 https://github.com/REstorninho/Local-Vulnerabilities-Check
+     📝 Local Vulnerabilities Check windows and linux
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-20 03:45:39 UTC] [UPD]   📢 📦 Londopy/capture-bypass
+     ⭐ 18  🗣 Rust  📅 2026-05-14
+     🔗 https://github.com/Londopy/capture-bypass
+     📝 DLL injection tool to bypass screen-capture protection on Windows 10/11
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-20 03:45:39 UTC] [INFO] ============================================================
+[2026-05-20 03:45:39 UTC] [INFO] Completato — 23 nuovi, 11 aggiornati, 0 errori
+[2026-05-20 03:45:39 UTC] [INFO] ============================================================
