@@ -1738,3 +1738,176 @@
 [2026-05-21 15:32:38 UTC] [INFO] ============================================================
 [2026-05-21 15:32:38 UTC] [INFO] Completato — 28 nuovi, 8 aggiornati, 0 errori
 [2026-05-21 15:32:38 UTC] [INFO] ============================================================
+[2026-05-21 19:55:38 UTC] [INFO] ============================================================
+[2026-05-21 19:55:38 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-21 19:55:38 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-21 19:55:38 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-21 19:55:38 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-21 19:55:38 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-21 19:55:38 UTC] [INFO] ============================================================
+[2026-05-21 19:55:38 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-21 19:55:38 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-21 19:55:40 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-21 19:55:40 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-21 19:55:40 UTC] [NEW]   🆕 📦 omar0fattah/Metasploit-dictionary
+     ⭐ 1  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/omar0fattah/Metasploit-dictionary
+     📝 A metasploit dictionary from beginner level the advanced level including most of…
+     🏷  —
+[2026-05-21 19:55:40 UTC] [NEW]   🆕 📦 SamCollins1327/Download-More-RAM
+     ⭐ 0  🗣 C++  📅 2026-05-21
+     🔗 https://github.com/SamCollins1327/Download-More-RAM
+     📝 Download More RAM Attack
+     🏷  —
+[2026-05-21 19:55:40 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-21 19:55:40 UTC] [UPD]   📢 📦 RMS2D/omnomfeeds
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/RMS2D/omnomfeeds
+     📝 A self-hostable, keyboard-driven security news terminal. RSS + Reddit + Bluesky …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-21 19:55:40 UTC] [UPD]   📢 📦 franzjeger/framesage-win
+     ⭐ 0  🗣 Rust  📅 2026-05-14
+     🔗 https://github.com/franzjeger/framesage-win
+     📝 FrameSage — better-than-Process-Lasso scheduler supervisor for Windows. Live pro…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-05-21 19:55:40 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-21 19:55:40 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-21 19:55:43 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 AI-1409/resume
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/AI-1409/resume
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 Issah233/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/Issah233/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 fborge9/ai-pentest-assistant
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/fborge9/ai-pentest-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 mateusm1403/LogIntel
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/mateusm1403/LogIntel
+     📝 Pipeline de alta performance em Python para processamento massivo e streaming de…
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 murdok1982/MCCEoperative-system
+     ⭐ 0  🗣 Shell  📅 2026-05-20
+     🔗 https://github.com/murdok1982/MCCEoperative-system
+     📝 Joint cyberdefense meta-platform for the Spanish Joint Cyberspace Command (MCCE)…
+     🏷  cybersecurity, python, security, system
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 Ikechukwu135/THREAT-INTELLEGENCE-PROJECT
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/Ikechukwu135/THREAT-INTELLEGENCE-PROJECT
+     📝 This threat intelligence project is centered on NHS Tayside (nhstayside.scot.nhs…
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 jonathankgoadi/jonathankgoadi
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/jonathankgoadi/jonathankgoadi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 Ikechukwu135/SOC-Analysis-Project-On-Unauthorized-Process-Detection
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/Ikechukwu135/SOC-Analysis-Project-On-Unauthorized-Process-Detection
+     📝 This project aims to strengthen 10ALYTICS-DC  security monitoring by leveraging …
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 Andre3671/VeckansVader
+     ⭐ 0  🗣 TypeScript  📅 2026-05-21
+     🔗 https://github.com/Andre3671/VeckansVader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 at0m-b0mb/C2-Server
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/at0m-b0mb/C2-Server
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 omar0fattah/Metasploit-dictionary
+     ⭐ 1  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/omar0fattah/Metasploit-dictionary
+     📝 A metasploit dictionary from beginner level the advanced level including most of…
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 nogamenolife12/Merge
+     ⭐ 0  🗣 JavaScript  📅 2026-05-21
+     🔗 https://github.com/nogamenolife12/Merge
+     📝 Merge translates an organization's security posture into board-level financial r…
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 SamCollins1327/Download-More-RAM
+     ⭐ 0  🗣 C++  📅 2026-05-21
+     🔗 https://github.com/SamCollins1327/Download-More-RAM
+     📝 Download More RAM Attack
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 Robelcarioca/FTIS
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/Robelcarioca/FTIS
+     📝 Flight Turbulance Intelligence System 
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 Muh-Adam/CyberLab
+     ⭐ 0  🗣 HTML  📅 2026-05-21
+     🔗 https://github.com/Muh-Adam/CyberLab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 19:55:43 UTC] [NEW]   🆕 📦 GeeZiX84/InfoSecAnalysis
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/GeeZiX84/InfoSecAnalysis
+     📝 Big data technologies for information security event correlation pet project
+     🏷  —
+[2026-05-21 19:55:43 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-21 19:55:43 UTC] [UPD]   📢 📦 yaconsult/bluetooth-dualboot
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/yaconsult/bluetooth-dualboot
+     📝 Sync Bluetooth mouse keys between Fedora Linux and Windows 11 for seamless dual-…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-21 19:55:43 UTC] [UPD]   📢 📦 RMS2D/omnomfeeds
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/RMS2D/omnomfeeds
+     📝 A self-hostable, keyboard-driven security news terminal. RSS + Reddit + Bluesky …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-21 19:55:43 UTC] [UPD]   📢 📦 MatheusDamacena/secopsestimate
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/MatheusDamacena/secopsestimate
+     📝 This is a repository for SecOps estimator tools
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-21 19:55:43 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-21 19:55:43 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-21 19:55:45 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-21 19:55:45 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-21 19:55:45 UTC] [NEW]   🆕 📦 clogan9019-dotcom/ios-location-spoofer
+     ⭐ 0  🗣 Objective-C  📅 2026-05-21
+     🔗 https://github.com/clogan9019-dotcom/ios-location-spoofer
+     📝 Personal iOS location spoofing app using NEPacketTunnelProvider
+     🏷  —
+[2026-05-21 19:55:45 UTC] [NEW]   🆕 📦 PR2034/Kexren-IOS
+     ⭐ 0  🗣 Objective-C  📅 2026-05-21
+     🔗 https://github.com/PR2034/Kexren-IOS
+     📝 iOS kernel research tool for educational use on personally owned devices. No gam…
+     🏷  —
+[2026-05-21 19:55:45 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-21 19:55:45 UTC] [UPD]   📢 📦 Umit-MHL/webkit-cve-2024-23222
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Umit-MHL/webkit-cve-2024-23222
+     📝 CVE-2024-23222 WebKit type confusion → iOS 16.4.1 sandbox escape. Full chain: JS…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-21 19:55:45 UTC] [UPD]   📢 📦 omar0fattah/Metasploit-dictionary
+     ⭐ 1  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/omar0fattah/Metasploit-dictionary
+     📝 A metasploit dictionary from beginner level the advanced level including most of…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-21 19:55:45 UTC] [UPD]   📢 📦 ribamarsaraiva/ps5-jailbreak
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/ribamarsaraiva/ps5-jailbreak
+     📝 Informações sobre jailbreak do PS5
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-21 19:55:45 UTC] [INFO] ============================================================
+[2026-05-21 19:55:45 UTC] [INFO] Completato — 20 nuovi, 8 aggiornati, 0 errori
+[2026-05-21 19:55:45 UTC] [INFO] ============================================================
