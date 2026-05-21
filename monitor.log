@@ -1261,3 +1261,147 @@
 [2026-05-20 20:20:50 UTC] [INFO] ============================================================
 [2026-05-20 20:20:50 UTC] [INFO] Completato — 21 nuovi, 6 aggiornati, 0 errori
 [2026-05-20 20:20:50 UTC] [INFO] ============================================================
+[2026-05-21 03:55:55 UTC] [INFO] ============================================================
+[2026-05-21 03:55:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-21 03:55:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-21 03:55:55 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-21 03:55:55 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-21 03:55:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-21 03:55:55 UTC] [INFO] ============================================================
+[2026-05-21 03:55:55 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-21 03:55:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-21 03:55:57 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-21 03:55:57 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-21 03:55:57 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-21 03:55:57 UTC] [UPD]   📢 📦 MaliParag/windows-security-talks
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/MaliParag/windows-security-talks
+     📝 A curated, theme-clustered index of Windows-security talks across DEF CON, BH US…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-21 03:55:57 UTC] [UPD]   📢 📦 Yenn503/AdPack
+     ⭐ 3  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/Yenn503/AdPack
+     📝 State-aware Active Directory attack orchestration for penetration testing and re…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-21 03:55:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-21 03:55:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-21 03:56:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 Entr0pyArchitect/Project_OMEGA
+     ⭐ 0  🗣 Rust  📅 2026-05-21
+     🔗 https://github.com/Entr0pyArchitect/Project_OMEGA
+     📝 Local-first Rust security utility for high-entropy passphrase generation, authen…
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 MatheusDamacena/secopsestimate
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/MatheusDamacena/secopsestimate
+     📝 This is a repository for SecOps estimator tools
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 yaconsult/bluetooth-dualboot
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/yaconsult/bluetooth-dualboot
+     📝 Sync Bluetooth mouse keys between Fedora Linux and Windows 11 for seamless dual-…
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 kimduyminh/ProEDR
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/kimduyminh/ProEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 just-zeynep/Integrated-Mini-SOC-Ecosystem
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/just-zeynep/Integrated-Mini-SOC-Ecosystem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 iamsaad640/soc-ai-operator
+     ⭐ 0  🗣 TypeScript  📅 2026-05-21
+     🔗 https://github.com/iamsaad640/soc-ai-operator
+     📝 SOC AI Operator — autonomous 4-agent SOC console for Google Antigravity Hackatho…
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 billytown/compliance-extension
+     ⭐ 0  🗣 JavaScript  📅 2026-05-21
+     🔗 https://github.com/billytown/compliance-extension
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 lorenashfield/wiimote-1
+     ⭐ 0  🗣 C  📅 2026-05-21
+     🔗 https://github.com/lorenashfield/wiimote-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 jpedrof04/Vite-API-HackerNews-Edriano-Etec
+     ⭐ 0  🗣 CSS  📅 2026-05-20
+     🔗 https://github.com/jpedrof04/Vite-API-HackerNews-Edriano-Etec
+     📝 interface que carrega a API hacker news no front, com 4 temas de livre escolha p…
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 bnvaidya20/portfolio_ot_security
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/bnvaidya20/portfolio_ot_security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 QuentinRSmith/Incident-Response-Process
+     ⭐ 1  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/QuentinRSmith/Incident-Response-Process
+     📝 This project shows me going through the Incident Response Process in Tryhackme a…
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 nikicat/cr2dep
+     ⭐ 0  🗣 TypeScript  📅 2026-05-20
+     🔗 https://github.com/nikicat/cr2dep
+     📝 PoC: TRON CREATE2 calldata-bound proxy deployer
+     🏷  create2, deployer, smart-contracts, tron
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 V33RU/seraph
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/V33RU/seraph
+     📝 Bluetooth and IoT protocol fuzzer on boofuzz.
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 Sage-Infrastructure-Solutions-Group-Inc/Test-LolbinEgress
+     ⭐ 0  🗣 PowerShell  📅 2026-05-20
+     🔗 https://github.com/Sage-Infrastructure-Solutions-Group-Inc/Test-LolbinEgress
+     📝 PowerShell utility that validates Windows Defender Firewall rules are actually b…
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 nsirivolu27/edrevel-video-ai
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/nsirivolu27/edrevel-video-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 RonMercier/cloud-security-checklist
+     ⭐ 0  🗣 Shell  📅 2026-05-20
+     🔗 https://github.com/RonMercier/cloud-security-checklist
+     📝 A practical, engineer-built security checklist for cloud infrastructure and smal…
+     🏷  backup, bash, checklist, cloud-security, cybersecurity, incident-response, linux, mfa, phishing, security, small-business
+[2026-05-21 03:56:00 UTC] [NEW]   🆕 📦 moha2255/AutoSOC-System
+     ⭐ 0  🗣 N/A  📅 2026-05-20
+     🔗 https://github.com/moha2255/AutoSOC-System
+     📝 An Intelligent Platform for Automated Incident Response and Threat Management (S…
+     🏷  —
+[2026-05-21 03:56:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-21 03:56:00 UTC] [UPD]   📢 📦 Tino0rcg/EDR-sentinel-x
+     ⭐ 0  🗣 HTML  📅 2026-05-18
+     🔗 https://github.com/Tino0rcg/EDR-sentinel-x
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-21 03:56:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-21 03:56:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-21 03:56:02 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-21 03:56:02 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-21 03:56:02 UTC] [NEW]   🆕 📦 omar0fattah/Metasploit-dictionary
+     ⭐ 1  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/omar0fattah/Metasploit-dictionary
+     📝 A metasploit dictionary from beginner level the advanced level including most of…
+     🏷  —
+[2026-05-21 03:56:02 UTC] [NEW]   🆕 📦 vajradevam/whale
+     ⭐ 0  🗣 C  📅 2026-05-20
+     🔗 https://github.com/vajradevam/whale
+     📝 A minimal container runtime in C which uses Linux namespaces, cgroups, seccomp, …
+     🏷  —
+[2026-05-21 03:56:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-21 03:56:02 UTC] [UPD]   📢 📦 Umit-MHL/webkit-cve-2024-23222
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Umit-MHL/webkit-cve-2024-23222
+     📝 CVE-2024-23222 WebKit type confusion → iOS 16.4.1 sandbox escape. Full chain: JS…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-21 03:56:02 UTC] [INFO] ============================================================
+[2026-05-21 03:56:02 UTC] [INFO] Completato — 19 nuovi, 4 aggiornati, 0 errori
+[2026-05-21 03:56:02 UTC] [INFO] ============================================================
