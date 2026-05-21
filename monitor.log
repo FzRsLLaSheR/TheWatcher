@@ -1405,3 +1405,123 @@
 [2026-05-21 03:56:02 UTC] [INFO] ============================================================
 [2026-05-21 03:56:02 UTC] [INFO] Completato — 19 nuovi, 4 aggiornati, 0 errori
 [2026-05-21 03:56:02 UTC] [INFO] ============================================================
+[2026-05-21 09:44:57 UTC] [INFO] ============================================================
+[2026-05-21 09:44:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-21 09:44:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-21 09:44:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-21 09:44:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-21 09:44:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-21 09:44:57 UTC] [INFO] ============================================================
+[2026-05-21 09:44:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-21 09:44:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-21 09:44:59 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-21 09:44:59 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-21 09:44:59 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-21 09:44:59 UTC] [UPD]   📢 📦 Whispergate/BinjaKernelTools
+     ⭐ 3  🗣 Python  📅 2026-05-16
+     🔗 https://github.com/Whispergate/BinjaKernelTools
+     📝 A collection of plugins for Binary Ninja to assist with Kernel Vulnerability Exp…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-21 09:44:59 UTC] [UPD]   📢 📦 RMS2D/omnomfeeds
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/RMS2D/omnomfeeds
+     📝 A self-hostable, keyboard-driven security news terminal. RSS + Reddit + Bluesky …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-21 09:44:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-21 09:44:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-21 09:45:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 JiDian93/mouse_zoom-drag
+     ⭐ 0  🗣 C++  📅 2026-05-21
+     🔗 https://github.com/JiDian93/mouse_zoom-drag
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 pecorio-dev/Ultria-box
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/pecorio-dev/Ultria-box
+     📝 Ultria — Windows & Android Pentest Toolkit  A multi-tool framework designed for …
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 rizaust/ios-raw2hdr
+     ⭐ 0  🗣 Swift  📅 2026-05-21
+     🔗 https://github.com/rizaust/ios-raw2hdr
+     📝 iOS 18+ app: convert RAW photos to HEIF with HDR gain map (Apple + ISO 21496-1).…
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 1renad1/erp-test
+     ⭐ 0  🗣 TypeScript  📅 2026-05-21
+     🔗 https://github.com/1renad1/erp-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 fireapple1/Velxor
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/fireapple1/Velxor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 alemayewfite-cmyk/edrfirefix
+     ⭐ 0  🗣 HTML  📅 2026-05-21
+     🔗 https://github.com/alemayewfite-cmyk/edrfirefix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 alemayewfite-cmyk/edrfire
+     ⭐ 0  🗣 HTML  📅 2026-05-21
+     🔗 https://github.com/alemayewfite-cmyk/edrfire
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 SAMREEN111-hash/cybertriage
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/SAMREEN111-hash/cybertriage
+     📝 Automated MDR security alert triage platform — FastAPI, MITRE ATT&CK, JWT auth, …
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 can-onur/Windows-11-Hardening
+     ⭐ 0  🗣 PowerShell  📅 2026-05-20
+     🔗 https://github.com/can-onur/Windows-11-Hardening
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 ritterm779/ritterm779-github.io
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/ritterm779/ritterm779-github.io
+     📝 Free CompTIA Resources
+     🏷  —
+[2026-05-21 09:45:03 UTC] [NEW]   🆕 📦 Yuvvi01/Portable-Detection-Content
+     ⭐ 0  🗣 PowerShell  📅 2026-05-20
+     🔗 https://github.com/Yuvvi01/Portable-Detection-Content
+     📝 Vendor-neutral detection engineering library with portable SOC rules, hunting qu…
+     🏷  —
+[2026-05-21 09:45:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-21 09:45:03 UTC] [UPD]   📢 📦 iamsaad640/soc-ai-operator
+     ⭐ 0  🗣 TypeScript  📅 2026-05-21
+     🔗 https://github.com/iamsaad640/soc-ai-operator
+     📝 SOC AI Operator — autonomous 4-agent SOC console for Google Antigravity Hackatho…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-21 09:45:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-21 09:45:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-21 09:45:06 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-21 09:45:06 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-21 09:45:06 UTC] [NEW]   🆕 📦 daker52/opensource-pentest-toolkit
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/daker52/opensource-pentest-toolkit
+     📝 Curated guide to 35+ open-source penetration testing tools on GitHub
+     🏷  bug-bounty, hacking-tools, open-source, osint, owasp, penetration-testing, pentest, red-team, security
+[2026-05-21 09:45:06 UTC] [NEW]   🆕 📦 umitkacar/meshterm
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/umitkacar/meshterm
+     📝 WezTerm-aware terminal automation toolkit and mesh-* CLI suite for the mesh-hexa…
+     🏷  ai-orchestration, claude-code, mesh-federation, python, ssh, terminal-automation, tmux, wezterm
+[2026-05-21 09:45:06 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-21 09:45:06 UTC] [UPD]   📢 📦 Umit-MHL/webkit-cve-2024-23222
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Umit-MHL/webkit-cve-2024-23222
+     📝 CVE-2024-23222 WebKit type confusion → iOS 16.4.1 sandbox escape. Full chain: JS…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-21 09:45:06 UTC] [UPD]   📢 📦 toshiyuki-igarashi/TEAL
+     ⭐ 0  🗣 Rust  📅 2026-05-14
+     🔗 https://github.com/toshiyuki-igarashi/TEAL
+     📝 Trusted Execution & Authorization Layer (TEAL)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-05-21 09:45:06 UTC] [INFO] ============================================================
+[2026-05-21 09:45:06 UTC] [INFO] Completato — 13 nuovi, 5 aggiornati, 0 errori
+[2026-05-21 09:45:06 UTC] [INFO] ============================================================
