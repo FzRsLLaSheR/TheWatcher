@@ -1911,3 +1911,219 @@
 [2026-05-21 19:55:45 UTC] [INFO] ============================================================
 [2026-05-21 19:55:45 UTC] [INFO] Completato — 20 nuovi, 8 aggiornati, 0 errori
 [2026-05-21 19:55:45 UTC] [INFO] ============================================================
+[2026-05-22 03:52:14 UTC] [INFO] ============================================================
+[2026-05-22 03:52:14 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-22 03:52:14 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-22 03:52:14 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-22 03:52:14 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-22 03:52:14 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-22 03:52:14 UTC] [INFO] ============================================================
+[2026-05-22 03:52:14 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-22 03:52:14 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-22 03:52:16 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-22 03:52:16 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-22 03:52:16 UTC] [NEW]   🆕 📦 Satejp10/Lenovo-E16-AMD-fan-control-gui-2.0
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/Satejp10/Lenovo-E16-AMD-fan-control-gui-2.0
+     📝 ThinkPad E16 fan control GUI — v2.0 with safety watchdog, thermal failsafe, and …
+     🏷  —
+[2026-05-22 03:52:16 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-22 03:52:16 UTC] [UPD]   📢 📦 RMS2D/omnomfeeds
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/RMS2D/omnomfeeds
+     📝 A self-hostable, keyboard-driven security news terminal. RSS + Reddit + Bluesky …
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-22 03:52:16 UTC] [UPD]   📢 📦 SamCollins1327/Download-More-RAM
+     ⭐ 0  🗣 C++  📅 2026-05-21
+     🔗 https://github.com/SamCollins1327/Download-More-RAM
+     📝 Download More RAM Attack
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-22 03:52:16 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-22 03:52:16 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-22 03:52:20 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 vetacode/diamant-edrink
+     ⭐ 0  🗣 TypeScript  📅 2026-05-22
+     🔗 https://github.com/vetacode/diamant-edrink
+     📝 mock up web landing page premium
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 cimeng66/mimo-threat-intel
+     ⭐ 0  🗣 TypeScript  📅 2026-05-22
+     🔗 https://github.com/cimeng66/mimo-threat-intel
+     📝 AI powered real-time security threat analysis with multi-agent architecture, pow…
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 jamal-soc21/Weekly-Breach-Investigation--008
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/jamal-soc21/Weekly-Breach-Investigation--008
+     📝 “Showboat is a newly discovered modular Linux malware linked to China‑based grou…
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 tinkthemaker/detectsmith
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/tinkthemaker/detectsmith
+     📝 Detection-as-code workbench for Sigma-style rule linting, regression testing, AT…
+     🏷  cybersecurity, detection-engineering, detections-as-code, mitre-attack, portfolio, python, sigma
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 ndcunha08/Cybersecurity-Capstone-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/ndcunha08/Cybersecurity-Capstone-Project
+     📝 Cybersecurity capstone project focused on healthcare security, phishing incident…
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 RothecaMyricoides/edrfreeze-shellcode
+     ⭐ 2  🗣 Assembly  📅 2026-05-22
+     🔗 https://github.com/RothecaMyricoides/edrfreeze-shellcode
+     📝 This repository contains a shellcode-based research artifact for studying the ED…
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 binRick/packet-gen
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/binRick/packet-gen
+     📝 Synthetic office network traffic generator. Simulated personas (knowledge worker…
+     🏷  asyncio, fastapi, network-simulation, packet-capture, synthetic-traffic
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 cacarrascal/malware-recognition-lab
+     ⭐ 0  🗣 JavaScript  📅 2026-05-22
+     🔗 https://github.com/cacarrascal/malware-recognition-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 zachwilke/tierzero-go
+     ⭐ 0  🗣 Go  📅 2026-05-22
+     🔗 https://github.com/zachwilke/tierzero-go
+     📝 AI IT support team MVP with guarded execution, skills, and React console
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 JunaidAbrar/virkud-sentinel-extension
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-22
+     🔗 https://github.com/JunaidAbrar/virkud-sentinel-extension
+     📝 Reproduction and extension of Virkud et al. (USENIX Security 2024) — adds Micros…
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 lightofbaldr/mojo-yara
+     ⭐ 0  🗣 Mojo  📅 2026-05-21
+     🔗 https://github.com/lightofbaldr/mojo-yara
+     📝 Mojo-native YARA-style rule engine for fast content scanning.
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 lightofbaldr/mojo-multimatch
+     ⭐ 0  🗣 Mojo  📅 2026-05-21
+     🔗 https://github.com/lightofbaldr/mojo-multimatch
+     📝 Multi-pattern substring scanner with SIMD acceleration, pure Mojo.
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 sp4ir/detection-codex
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/sp4ir/detection-codex
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 secure-cake/endpoint-threat-hunting
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/secure-cake/endpoint-threat-hunting
+     📝 Endpoint Threat Hunting with Native (mostly!) Tools
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 NarminFatullayeva/Acme-Corp-SOC-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/NarminFatullayeva/Acme-Corp-SOC-Investigation
+     📝 SOC Investigation reports and analysis for Acme-Corp project
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 IgorGanapolsky/devhook-scan
+     ⭐ 0  🗣 Shell  📅 2026-05-21
+     🔗 https://github.com/IgorGanapolsky/devhook-scan
+     📝 Read-only audit of dev-env npm/.git/hooks/.vscode/MCP persistence vectors. Post-…
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 Rashwani/threat-hunting-Dead-in-the-Water
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/Rashwani/threat-hunting-Dead-in-the-Water
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 edrlxyz/edrlxyz
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/edrlxyz/edrlxyz
+     📝 Portada perfil
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 johnautomates117/atlas-mdr-automation-lab
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/johnautomates117/atlas-mdr-automation-lab
+     📝 Local-first AI-assisted SOAR workflow and MDR automation lab
+     🏷  fastapi, mdr, mitre-attack, security-automation, siem, soar, streamlit
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 Leo-prog-ca/AuthGuard
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/Leo-prog-ca/AuthGuard
+     📝 Linux security log and connection analyzer built with Python
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 jadhavyash/Jadhavyash
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/jadhavyash/Jadhavyash
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 03:52:20 UTC] [NEW]   🆕 📦 SiwyBandzior/Ransomware_Tripwire
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/SiwyBandzior/Ransomware_Tripwire
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 03:52:20 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-22 03:52:20 UTC] [UPD]   📢 📦 yaconsult/bluetooth-dualboot
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/yaconsult/bluetooth-dualboot
+     📝 Sync Bluetooth mouse keys between Fedora Linux and Windows 11 for seamless dual-…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-22 03:52:20 UTC] [UPD]   📢 📦 cvonfeldt/microsoft-sentinel-investigations
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/cvonfeldt/microsoft-sentinel-investigations
+     📝 Microsoft Sentinel SOC investigations using KQL across CrowdStrike EDR, Palo Alt…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-22 03:52:20 UTC] [UPD]   📢 📦 mateusm1403/LogIntel
+     ⭐ 0  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/mateusm1403/LogIntel
+     📝 Pipeline de alta performance em Python para processamento massivo e streaming de…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-22 03:52:20 UTC] [UPD]   📢 📦 JiDian93/mouse_zoom-drag
+     ⭐ 0  🗣 C++  📅 2026-05-21
+     🔗 https://github.com/JiDian93/mouse_zoom-drag
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-22 03:52:20 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-22 03:52:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-22 03:52:22 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-22 03:52:22 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-22 03:52:22 UTC] [NEW]   🆕 📦 darkanonyrnous/privilege-escalation-notes
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/darkanonyrnous/privilege-escalation-notes
+     📝 Personal notes and cheatsheets for TryHackMe Jr Pentester — Privilege Escalation…
+     🏷  —
+[2026-05-22 03:52:22 UTC] [NEW]   🆕 📦 KillerR9/Learning
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/KillerR9/Learning
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 03:52:22 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-05-22 03:52:22 UTC] [UPD]   📢 📦 Vehicle-Security/PoCLab
+     ⭐ 0  🗣 C  📅 2026-05-17
+     🔗 https://github.com/Vehicle-Security/PoCLab
+     📝 Reproduce and defend against kernel vulnerabilities
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-22 03:52:22 UTC] [UPD]   📢 📦 clogan9019-dotcom/ios-location-spoofer
+     ⭐ 0  🗣 Objective-C  📅 2026-05-21
+     🔗 https://github.com/clogan9019-dotcom/ios-location-spoofer
+     📝 Personal iOS location spoofing app using NEPacketTunnelProvider
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-22 03:52:22 UTC] [UPD]   📢 📦 ribamarsaraiva/ps5-jailbreak
+     ⭐ 0  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/ribamarsaraiva/ps5-jailbreak
+     📝 Informações sobre jailbreak do PS5
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-22 03:52:22 UTC] [UPD]   📢 📦 Umit-MHL/webkit-cve-2024-23222
+     ⭐ 0  🗣 HTML  📅 2026-05-19
+     🔗 https://github.com/Umit-MHL/webkit-cve-2024-23222
+     📝 CVE-2024-23222 WebKit type confusion → iOS 16.4.1 sandbox escape. Full chain: JS…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-22 03:52:22 UTC] [UPD]   📢 📦 matem6/P2JB-Y2JB-Porting
+     ⭐ 76  🗣 JavaScript  📅 2026-05-21
+     🔗 https://github.com/matem6/P2JB-Y2JB-Porting
+     📝 PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-22 03:52:22 UTC] [INFO] ============================================================
+[2026-05-22 03:52:22 UTC] [INFO] Completato — 25 nuovi, 11 aggiornati, 0 errori
+[2026-05-22 03:52:22 UTC] [INFO] ============================================================
