@@ -2264,3 +2264,170 @@
 [2026-05-22 09:29:37 UTC] [INFO] ============================================================
 [2026-05-22 09:29:37 UTC] [INFO] Completato — 20 nuovi, 2 aggiornati, 0 errori
 [2026-05-22 09:29:37 UTC] [INFO] ============================================================
+[2026-05-22 14:42:51 UTC] [INFO] ============================================================
+[2026-05-22 14:42:51 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-22 14:42:51 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-22 14:42:51 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-22 14:42:51 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-22 14:42:51 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-22 14:42:51 UTC] [INFO] ============================================================
+[2026-05-22 14:42:51 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-22 14:42:51 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-22 14:42:53 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-22 14:42:53 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-22 14:42:53 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-22 14:42:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-22 14:42:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-22 14:42:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 Dron342/DiplomGuard
+     ⭐ 0  🗣 C++  📅 2026-05-22
+     🔗 https://github.com/Dron342/DiplomGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 molsen517/panther-udm-content-pack
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/molsen517/panther-udm-content-pack
+     📝 Building CDMs for EDR, Identity & Auth, Collaboration, Network & Firewall
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 mohamed-ai-sec/soc-detection-engineer-skill
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/mohamed-ai-sec/soc-detection-engineer-skill
+     📝 AI-assisted detection engineering skill that generates structured multi-platform…
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 th3vib3coder/RevEng
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/th3vib3coder/RevEng
+     📝 Portable Codex and Claude Code plugin for static-first reverse engineering workf…
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 Lockbits-ESGI/main
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/Lockbits-ESGI/main
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 zavetsec/zavetsec-dlp
+     ⭐ 1  🗣 C#  📅 2026-05-22
+     🔗 https://github.com/zavetsec/zavetsec-dlp
+     📝 Self-hosted endpoint activity auditing platform for insider threat monitoring
+     🏷  blue-team, cybersecurity, dlp, forensics-tools, soc
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 jeffmes3/ip_traf_analyzer
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/jeffmes3/ip_traf_analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 OMAR61-eng/BOTSv2-TAEDONGGANG-APT-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/OMAR61-eng/BOTSv2-TAEDONGGANG-APT-Incident-Response
+     📝 A comprehensive Incident Response report analyzing a multi-stage APT attack, Ses…
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 alemayewfite-cmyk/edrscengineering
+     ⭐ 0  🗣 HTML  📅 2026-05-22
+     🔗 https://github.com/alemayewfite-cmyk/edrscengineering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 Alice-l0/AlertPilot
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/Alice-l0/AlertPilot
+     📝 Multi-Agent Security Alert Correlation and Response System
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 dsadsasdaddas/opentunnel
+     ⭐ 0  🗣 Go  📅 2026-05-22
+     🔗 https://github.com/dsadsasdaddas/opentunnel
+     📝 Go TCP port scanner with connect and SYN modes
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 pulsaride/h7-demo-kit
+     ⭐ 0  🗣 Shell  📅 2026-05-21
+     🔗 https://github.com/pulsaride/h7-demo-kit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 Fz0x00/vscode-extension-security
+     ⭐ 1  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/Fz0x00/vscode-extension-security
+     📝 VS Code Extension Supply Chain Security: From EDR Logs to MDM Allowlists
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 wallpa99/EDRY
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/wallpa99/EDRY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 Cheart17/EDRALIN_IT201WMT_LABACT1_FINAL
+     ⭐ 0  🗣 C#  📅 2026-05-22
+     🔗 https://github.com/Cheart17/EDRALIN_IT201WMT_LABACT1_FINAL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 salahalsabhi/SOC-Role-in-Blue-Team---TryHackMe---Cybersecurity-Learning-Journey
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/salahalsabhi/SOC-Role-in-Blue-Team---TryHackMe---Cybersecurity-Learning-Journey
+     📝 I just completed SOC Role in Blue Team room on TryHackMe! Discover security role…
+     🏷  —
+[2026-05-22 14:42:56 UTC] [NEW]   🆕 📦 mayankfct/RC
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/mayankfct/RC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 14:42:56 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-22 14:42:56 UTC] [UPD]   📢 📦 TFT444/RetailShield
+     ⭐ 1  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/TFT444/RetailShield
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-22 14:42:56 UTC] [UPD]   📢 📦 joshuaashley-web/edralpatgh
+     ⭐ 0  🗣 JavaScript  📅 2026-05-22
+     🔗 https://github.com/joshuaashley-web/edralpatgh
+     📝 sales and distribution of tires and other commodities like rice oils can foods a…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-22 14:42:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-22 14:42:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-22 14:42:58 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-22 14:42:58 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-22 14:42:58 UTC] [NEW]   🆕 📦 rahmanhsim/awesome-skill
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/rahmanhsim/awesome-skill
+     📝 ✦ 110+ structured AI Agent security skills — SKILL.md toolkit for bug bounty, pe…
+     🏷  —
+[2026-05-22 14:42:58 UTC] [NEW]   🆕 📦 davidbrown-sec/cybersecurity-homelab
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/davidbrown-sec/cybersecurity-homelab
+     📝 Cybersecurity home lab build — Active Directory, ADCS, Linux attacks, Kubernetes…
+     🏷  —
+[2026-05-22 14:42:58 UTC] [NEW]   🆕 📦 Nisarg2615/Malware_detection
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-22
+     🔗 https://github.com/Nisarg2615/Malware_detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-22 14:42:58 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-05-22 14:42:58 UTC] [UPD]   📢 📦 jmaillot/umtx2
+     ⭐ 0  🗣 JavaScript  📅 2026-05-18
+     🔗 https://github.com/jmaillot/umtx2
+     📝 Customized host for personal needs.
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-22 14:42:58 UTC] [UPD]   📢 📦 Vehicle-Security/PoCLab
+     ⭐ 0  🗣 C  📅 2026-05-17
+     🔗 https://github.com/Vehicle-Security/PoCLab
+     📝 Reproduce and defend against kernel vulnerabilities
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-22 14:42:58 UTC] [UPD]   📢 📦 clogan9019-dotcom/ios-location-spoofer
+     ⭐ 0  🗣 Objective-C  📅 2026-05-21
+     🔗 https://github.com/clogan9019-dotcom/ios-location-spoofer
+     📝 Personal iOS location spoofing app using NEPacketTunnelProvider
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-22 14:42:58 UTC] [UPD]   📢 📦 Poellie01/PentestCompanion
+     ⭐ 29  🗣 HTML  📅 2026-05-16
+     🔗 https://github.com/Poellie01/PentestCompanion
+     📝 The ultimate pentesting companion. Keep all your pentesting artifacts in one pla…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-22 14:42:58 UTC] [UPD]   📢 📦 matem6/P2JB-Y2JB-Porting
+     ⭐ 96  🗣 JavaScript  📅 2026-05-21
+     🔗 https://github.com/matem6/P2JB-Y2JB-Porting
+     📝 PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-22 14:42:58 UTC] [INFO] ============================================================
+[2026-05-22 14:42:58 UTC] [INFO] Completato — 20 nuovi, 7 aggiornati, 0 errori
+[2026-05-22 14:42:58 UTC] [INFO] ============================================================
