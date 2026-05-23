@@ -3062,3 +3062,177 @@
 [2026-05-23 13:39:22 UTC] [INFO] ============================================================
 [2026-05-23 13:39:22 UTC] [INFO] Completato — 45 nuovi, 4 aggiornati, 0 errori
 [2026-05-23 13:39:22 UTC] [INFO] ============================================================
+[2026-05-23 19:13:14 UTC] [INFO] ============================================================
+[2026-05-23 19:13:14 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-23 19:13:14 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-23 19:13:14 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-23 19:13:14 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-23 19:13:14 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-23 19:13:14 UTC] [INFO] ============================================================
+[2026-05-23 19:13:14 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-23 19:13:14 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-23 19:13:15 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-23 19:13:15 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-23 19:13:15 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-23 19:13:15 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-23 19:13:15 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-23 19:13:18 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 ilolokerry/Hack-the-box-Labs
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/ilolokerry/Hack-the-box-Labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 Atharv675/MINI---EDR-
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/Atharv675/MINI---EDR-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 jianga0801-ui/SentinelPilot
+     ⭐ 1  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/jianga0801-ui/SentinelPilot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 zerkor/secure-arch-3d-explorer
+     ⭐ 0  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/zerkor/secure-arch-3d-explorer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 Alexrshut/forensic-agent-v3.1-cryptoforensics
+     ⭐ 0  🗣 C#  📅 2026-05-23
+     🔗 https://github.com/Alexrshut/forensic-agent-v3.1-cryptoforensics
+     📝 EDR-агент построен на базе асинхронного, событийно-ориентированного многопоточно…
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 kuyaburi/Cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/kuyaburi/Cybersecurity-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 Shawn-Nichol/Lets-Defend-Phishing-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/Shawn-Nichol/Lets-Defend-Phishing-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 0xRevware/NtDll_Unhooking
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/0xRevware/NtDll_Unhooking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 ayoublabhihds-coder/threat-hunting-framework-ares2026
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/ayoublabhihds-coder/threat-hunting-framework-ares2026
+     📝 Replication package for "Democratizing Threat Hunting" — ARES 
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 knightmare2600/UnDefend
+     ⭐ 0  🗣 C++  📅 2026-05-23
+     🔗 https://github.com/knightmare2600/UnDefend
+     📝 Forked from https://github.com/Nightmare-Eclipse/UnDefend
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 Peter-Kintu/bytgaurd
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/Peter-Kintu/bytgaurd
+     📝 bytgaurd
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 vlongo404/crisp-soc
+     ⭐ 0  🗣 JavaScript  📅 2026-05-23
+     🔗 https://github.com/vlongo404/crisp-soc
+     📝 CRISP NG-SOC Platform — SOC de proxima geracao com FortiGate, Wazuh, Zeek, Ollam…
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 JDPierson/grc-soc2-framework
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/JDPierson/grc-soc2-framework
+     📝 Built and operated as Director of GRC / de facto CISO at a Series B fintech (reg…
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 Muts256/SIEM-QRadar
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/Muts256/SIEM-QRadar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 Alexrshut/CollectorModule
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/Alexrshut/CollectorModule
+     📝 EDR-агент построен на базе асинхронного, событийно-ориентированного многопоточно…
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 whiteweeb/edr_pznf
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/whiteweeb/edr_pznf
+     📝 Every tiny change becomes extraordinary through the accumulation of time; be gra…
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 maidennless/injector
+     ⭐ 0  🗣 Rust  📅 2026-05-23
+     🔗 https://github.com/maidennless/injector
+     📝 Process Injector made in RUST. 
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 MaazKamal08/MaazKamal08
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/MaazKamal08/MaazKamal08
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 abidranesh/AI-powered_cyber_risk_assistant
+     ⭐ 0  🗣 HTML  📅 2026-05-22
+     🔗 https://github.com/abidranesh/AI-powered_cyber_risk_assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 22314713/Micro-EDR-SIEM
+     ⭐ 0  🗣 C++  📅 2026-05-23
+     🔗 https://github.com/22314713/Micro-EDR-SIEM
+     📝 A lightweight, C++ based Endpoint Detection and Response (EDR) agent with an aut…
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 jkramer5103/whisperpair-cli
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/jkramer5103/whisperpair-cli
+     📝 Linux CLI for authorized WhisperPair/Fast Pair testing
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 NovaTeamt/Novinjector
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/NovaTeamt/Novinjector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 Subhadeep-47/TryHackMe-SOC-Rooms
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/Subhadeep-47/TryHackMe-SOC-Rooms
+     📝 Free SOC and Blue Team rooms available on TryHackMe
+     🏷  blue-team, free-soc-rooms, tryhackme, tryhackme-ctf
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 kandulashivani99/hawkeye-red-blue-purple-team-analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/kandulashivani99/hawkeye-red-blue-purple-team-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 19:13:18 UTC] [NEW]   🆕 📦 edojapatricia/security-cost-optimizer
+     ⭐ 0  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/edojapatricia/security-cost-optimizer
+     📝 AI-powered security stack rationalization for SMEs — find overlaps, redundancies…
+     🏷  —
+[2026-05-23 19:13:18 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-23 19:13:18 UTC] [UPD]   📢 📦 agentsattack/saster-harness
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/agentsattack/saster-harness
+     📝 Wire-level Agentic Detection and Response (ADR) for the SASTER taxonomy. 9 detec…
+     🏷  adr, agent-security, ai-agents, ai-security, llm-security
+     🔄 Motivo: repo recente (5gg)
+[2026-05-23 19:13:18 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-23 19:13:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-23 19:13:20 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-23 19:13:20 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-23 19:13:20 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-23 19:13:20 UTC] [UPD]   📢 📦 0hardik1/agentmoat
+     ⭐ 0  🗣 Go  📅 2026-05-22
+     🔗 https://github.com/0hardik1/agentmoat
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-23 19:13:20 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (0gg)
+[2026-05-23 19:13:20 UTC] [UPD]   📢 📦 accountname291203/asdasd
+     ⭐ 0  🗣 Makefile  📅 2026-05-23
+     🔗 https://github.com/accountname291203/asdasd
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-23 19:13:20 UTC] [INFO] ============================================================
+[2026-05-23 19:13:20 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
+[2026-05-23 19:13:20 UTC] [INFO] ============================================================
