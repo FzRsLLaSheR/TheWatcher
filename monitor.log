@@ -2614,3 +2614,177 @@
 [2026-05-22 19:49:09 UTC] [INFO] ============================================================
 [2026-05-22 19:49:09 UTC] [INFO] Completato — 22 nuovi, 8 aggiornati, 0 errori
 [2026-05-22 19:49:09 UTC] [INFO] ============================================================
+[2026-05-23 03:28:06 UTC] [INFO] ============================================================
+[2026-05-23 03:28:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-23 03:28:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-23 03:28:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-23 03:28:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-23 03:28:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-23 03:28:06 UTC] [INFO] ============================================================
+[2026-05-23 03:28:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-23 03:28:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-23 03:28:08 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-23 03:28:08 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-23 03:28:08 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-23 03:28:08 UTC] [UPD]   📢 📦 Yenn503/AdPack
+     ⭐ 3  🗣 Go  📅 2026-05-18
+     🔗 https://github.com/Yenn503/AdPack
+     📝 State-aware Active Directory attack orchestration for penetration testing and re…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-23 03:28:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-23 03:28:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-23 03:28:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 edrawardhana/edrawardhana
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/edrawardhana/edrawardhana
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 735meis/4edred
+     ⭐ 0  🗣 JavaScript  📅 2026-05-23
+     🔗 https://github.com/735meis/4edred
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 codefoundry140/agentic-soc-platform
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/codefoundry140/agentic-soc-platform
+     📝 Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric autom…
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 anton-martin-osint/CISCO-Junior-Analyst
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/anton-martin-osint/CISCO-Junior-Analyst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 bajigurngenah/threathunter
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/bajigurngenah/threathunter
+     📝 AI-Powered Threat Detection & Response Platform - 6 Specialized Agents, Real-tim…
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 devguilhrm/Simulador-Keylogger-Golang
+     ⭐ 0  🗣 Go  📅 2026-05-23
+     🔗 https://github.com/devguilhrm/Simulador-Keylogger-Golang
+     📝 Este projeto possui finalidade exclusivamente educacional. O laboratório simula …
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 turjoyunleash/Edroll-Mockup
+     ⭐ 0  🗣 HTML  📅 2026-05-23
+     🔗 https://github.com/turjoyunleash/Edroll-Mockup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 turjoyunleash/Edroll-Test
+     ⭐ 0  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/turjoyunleash/Edroll-Test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 mialmashahreh22/windows-filesystem-guide
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/mialmashahreh22/windows-filesystem-guide
+     📝 A colorful beginner-to-advanced guide explaining the Windows filesystem, PowerSh…
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 eakraj10/network-anomaly-detector
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/eakraj10/network-anomaly-detector
+     📝 Live network traffic analyzer that detects port scans, ARP spoofing, and DNS ano…
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 psechoPATH/enicab
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/psechoPATH/enicab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 murayefeskamus/Nisan-2026-PDF-Abuse
+     ⭐ 0  🗣 JavaScript  📅 2026-05-22
+     🔗 https://github.com/murayefeskamus/Nisan-2026-PDF-Abuse
+     📝 çoktan patch almis birşey paylaşmak istedim inanılmaz zekice bir payload bunca y…
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 zunaidhasan/2026-05-xworm-hta-loader-analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/zunaidhasan/2026-05-xworm-hta-loader-analysis
+     📝 Professional malware analysis of a sophisticated XWorm/WinosStager loader delive…
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 aitarurachel/splunk-siem-and-log-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/aitarurachel/splunk-siem-and-log-Analysis
+     📝 Splunk SIEM pipeline on Azure. Universal Forwarder → Splunk Enterprise on Ubuntu…
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 ayushkevich/witcher-medallion-esp32
+     ⭐ 0  🗣 C++  📅 2026-05-22
+     🔗 https://github.com/ayushkevich/witcher-medallion-esp32
+     📝 Witcher medallion firmware for ESP32
+     🏷  —
+[2026-05-23 03:28:10 UTC] [NEW]   🆕 📦 AliAgarz81/EDR
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/AliAgarz81/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-23 03:28:10 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-23 03:28:10 UTC] [UPD]   📢 📦 akvaithi/portfolio
+     ⭐ 0  🗣 TypeScript  📅 2026-05-22
+     🔗 https://github.com/akvaithi/portfolio
+     📝 Personal portfolio — chemical engineer, control systems, photography. Built with…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-23 03:28:10 UTC] [UPD]   📢 📦 apurvtyagi/security-asset-correlator
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/apurvtyagi/security-asset-correlator
+     📝 Cross-tool canonical asset correlation engine for security operations
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-23 03:28:10 UTC] [UPD]   📢 📦 Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat
+     📝 Analyze forensic blueprints and offensive threat intelligence data from intrusio…
+     🏷  active-directory, ai-red-teaming, alderson-core, apt, c0deghost, cyber-kill-chain, digital-forensics, edr-evasion, exploit-development, fsociety, hackthebox, malware-analysis, mr-robot, offensive-security, operations, red-team, threat-hunting, threat-intelligence, ttps, underground
+     🔄 Motivo: repo recente (0gg)
+[2026-05-23 03:28:10 UTC] [UPD]   📢 📦 dsadsasdaddas/opentunnel
+     ⭐ 0  🗣 Go  📅 2026-05-22
+     🔗 https://github.com/dsadsasdaddas/opentunnel
+     📝 Go TCP port scanner with connect and SYN modes
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-23 03:28:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-23 03:28:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-23 03:28:11 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-23 03:28:11 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-23 03:28:11 UTC] [NEW]   🆕 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+[2026-05-23 03:28:11 UTC] [NEW]   🆕 📦 ridhinva/Infra-Security-Toolkit
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/ridhinva/Infra-Security-Toolkit
+     📝 Infrastructure security toolkit - Linux, Windows, AD, Kubernetes, Docker, Cloud …
+     🏷  —
+[2026-05-23 03:28:11 UTC] [NEW]   🆕 📦 n9nepwn/RTCore64-DKOM-Exploit
+     ⭐ 0  🗣 C++  📅 2026-05-22
+     🔗 https://github.com/n9nepwn/RTCore64-DKOM-Exploit
+     📝 dkom rtcore64 driver (my first kernel exploit on a real driver), for learning
+     🏷  —
+[2026-05-23 03:28:11 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-23 03:28:11 UTC] [UPD]   📢 📦 clogan9019-dotcom/controller
+     ⭐ 0  🗣 Objective-C  📅 2026-05-22
+     🔗 https://github.com/clogan9019-dotcom/controller
+     📝 iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-23 03:28:11 UTC] [UPD]   📢 📦 Poellie01/PentestCompanion
+     ⭐ 29  🗣 HTML  📅 2026-05-16
+     🔗 https://github.com/Poellie01/PentestCompanion
+     📝 The ultimate pentesting companion. Keep all your pentesting artifacts in one pla…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-23 03:28:11 UTC] [UPD]   📢 📦 0hardik1/agentmoat
+     ⭐ 0  🗣 Go  📅 2026-05-22
+     🔗 https://github.com/0hardik1/agentmoat
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-23 03:28:11 UTC] [UPD]   📢 📦 hanwen/runclaude
+     ⭐ 1  🗣 Go  📅 2026-05-17
+     🔗 https://github.com/hanwen/runclaude
+     📝 A sandbox for Claude
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-23 03:28:11 UTC] [INFO] ============================================================
+[2026-05-23 03:28:11 UTC] [INFO] Completato — 19 nuovi, 9 aggiornati, 0 errori
+[2026-05-23 03:28:11 UTC] [INFO] ============================================================
