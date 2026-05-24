@@ -3236,3 +3236,148 @@
 [2026-05-23 19:13:20 UTC] [INFO] ============================================================
 [2026-05-23 19:13:20 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
 [2026-05-23 19:13:20 UTC] [INFO] ============================================================
+[2026-05-24 03:49:27 UTC] [INFO] ============================================================
+[2026-05-24 03:49:27 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-24 03:49:27 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-24 03:49:27 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-24 03:49:27 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-24 03:49:27 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-24 03:49:27 UTC] [INFO] ============================================================
+[2026-05-24 03:49:27 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-24 03:49:27 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-24 03:49:29 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-24 03:49:29 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-24 03:49:29 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-24 03:49:29 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-24 03:49:29 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-24 03:49:32 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 Ozark-Security-Labs/Tallow
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/Ozark-Security-Labs/Tallow
+     📝 Self-hosted dependency release surveillance and malicious package tripwire
+     🏷  dependency-security, npm, osv, package-security, pypi, self-hosted, supply-chain-security
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 alexlux58/AWS-CVE-DIGEST
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexlux58/AWS-CVE-DIGEST
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 api-evangelist/cybereason
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/api-evangelist/cybereason
+     📝 Cybereason — XDR + EDR + MalOp threat detection
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 ekomsSavior/wu_noise
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/ekomsSavior/wu_noise
+     📝 Creates legitimate Windows Update activity to obscure red team actions
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 zahanzo/NoSTD-Framework
+     ⭐ 1  🗣 C  📅 2026-05-24
+     🔗 https://github.com/zahanzo/NoSTD-Framework
+     📝 EN: A zero-dependency, bare-metal x86_64 execution framework. Bypasses glibc for…
+     🏷  abstraction, bare-metal, linux-kernel, low-level, syscall, system-programming, x86-64, zero-dependency
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 altperfect/apc-tandem-bof
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/altperfect/apc-tandem-bof
+     📝 BoF for APC Tandem technique
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 marklee2026-ai/Shield
+     ⭐ 0  🗣 HTML  📅 2026-05-23
+     🔗 https://github.com/marklee2026-ai/Shield
+     📝 Splashtop Shield -- AV / EDR / Parental Control -- Protect your family & busines…
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 hannah-adam/Why-Conduct-Cyberattack-Cyber-Drill-Simulations-for-Your-Organization-
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/hannah-adam/Why-Conduct-Cyberattack-Cyber-Drill-Simulations-for-Your-Organization-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 d3vobed/EtwScope
+     ⭐ 0  🗣 HTML  📅 2026-05-23
+     🔗 https://github.com/d3vobed/EtwScope
+     📝 ETW-based Windows telemetry and threat detection framework.
+     🏷  etw-monitoring-threads, rust
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 Vasconcellos-cipher/Blue-Team-Operations-Labs
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/Vasconcellos-cipher/Blue-Team-Operations-Labs
+     📝 Hands-on Blue Team security operations labs focused on SOC analysis, threat dete…
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 HakanO342610/EdremitMerkezPilotGarage
+     ⭐ 0  🗣 Astro  📅 2026-05-23
+     🔗 https://github.com/HakanO342610/EdremitMerkezPilotGarage
+     📝 Edremit Merkez Pilot Garage
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 liliyke/powershell-telemetry-detection-automation
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/liliyke/powershell-telemetry-detection-automation
+     📝 PowerShell Telemetry, Detection & Automation
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 liliyke/python-telemetry-detection-automation
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/liliyke/python-telemetry-detection-automation
+     📝 Python Telemetry, Detection & Automation
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 Gregy677/purpleghost
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/Gregy677/purpleghost
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 solomonneas/hotwash
+     ⭐ 0  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/solomonneas/hotwash
+     📝 SOC playbook parser with mermaid diagram generation
+     🏷  automation, blue-team, cybersecurity, incident-response, playbooks, security-operations, soar
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 l0h1nth/mini-linux-edr
+     ⭐ 0  🗣 Rust  📅 2026-05-23
+     🔗 https://github.com/l0h1nth/mini-linux-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 03:49:32 UTC] [NEW]   🆕 📦 kgalappatti-aegis/GUARDIAN
+     ⭐ 0  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/kgalappatti-aegis/GUARDIAN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 03:49:32 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-24 03:49:32 UTC] [UPD]   📢 📦 Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat
+     ⭐ 0  🗣 N/A  📅 2026-05-22
+     🔗 https://github.com/Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat
+     📝 Analyze forensic blueprints and offensive threat intelligence data from intrusio…
+     🏷  active-directory, ai-red-teaming, alderson-core, apt, c0deghost, cyber-kill-chain, digital-forensics, edr-evasion, exploit-development, fsociety, hackthebox, malware-analysis, mr-robot, offensive-security, operations, red-team, threat-hunting, threat-intelligence, ttps, underground
+     🔄 Motivo: repo recente (1gg)
+[2026-05-24 03:49:32 UTC] [UPD]   📢 📦 davidzon84-sketch/SentinelOps_OS
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/davidzon84-sketch/SentinelOps_OS
+     📝 plataforma de seguridad basada en linux y docker
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-24 03:49:32 UTC] [UPD]   📢 📦 ictechgy/multi-account-tool
+     ⭐ 0  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/ictechgy/multi-account-tool
+     📝 Switch between multiple AI CLI accounts (Claude Code, Codex, Gemini/Antigravity)…
+     🏷  account-switcher, ai, claude, cli, codex, gemini, ink, nodejs, profile, tui, typescript
+     🔄 Motivo: repo recente (0gg)
+[2026-05-24 03:49:32 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-24 03:49:32 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-24 03:49:34 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-24 03:49:34 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-24 03:49:34 UTC] [NEW]   🆕 📦 ingchrist/kali-linux-cheatsheet
+     ⭐ 1  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/ingchrist/kali-linux-cheatsheet
+     📝 Kali Linux Cheatsheet
+     🏷  —
+[2026-05-24 03:49:34 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-24 03:49:34 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (1gg)
+[2026-05-24 03:49:34 UTC] [UPD]   📢 📦 Efo-YU/yu-song-museum
+     ⭐ 0  🗣 Shell  📅 2026-05-23
+     🔗 https://github.com/Efo-YU/yu-song-museum
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-24 03:49:34 UTC] [INFO] ============================================================
+[2026-05-24 03:49:34 UTC] [INFO] Completato — 18 nuovi, 5 aggiornati, 0 errori
+[2026-05-24 03:49:34 UTC] [INFO] ============================================================
