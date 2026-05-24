@@ -3703,3 +3703,186 @@
 [2026-05-24 13:39:24 UTC] [INFO] ============================================================
 [2026-05-24 13:39:24 UTC] [INFO] Completato — 29 nuovi, 4 aggiornati, 0 errori
 [2026-05-24 13:39:24 UTC] [INFO] ============================================================
+[2026-05-24 19:19:50 UTC] [INFO] ============================================================
+[2026-05-24 19:19:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-24 19:19:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-24 19:19:50 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-24 19:19:50 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-24 19:19:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-24 19:19:50 UTC] [INFO] ============================================================
+[2026-05-24 19:19:50 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-24 19:19:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-24 19:19:52 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-24 19:19:52 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-24 19:19:52 UTC] [NEW]   🆕 📦 mr4dot/rt-toolkit
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/mr4dot/rt-toolkit
+     📝 Curated red team toolkit catalog — 251 tools, 22 categories, 64-step engagement …
+     🏷  —
+[2026-05-24 19:19:52 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-24 19:19:52 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-24 19:19:52 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-24 19:19:54 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 m10ust/machscope
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/m10ust/machscope
+     📝 macOS IPC, launchd, Mach-O, and trust relationship explorer — zero-dependency te…
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 jallen-6386/edr-workbook-builder
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/jallen-6386/edr-workbook-builder
+     📝 Combine CrowdStrike EDR CSV exports into a single formatted Excel workbook for C…
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 isotk/maderov3
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/isotk/maderov3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 aryantomar898-gif/RansomOps-C2
+     ⭐ 0  🗣 JavaScript  📅 2026-05-24
+     🔗 https://github.com/aryantomar898-gif/RansomOps-C2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 anaslabrini/VORYNEX
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/anaslabrini/VORYNEX
+     📝 Dual-engine Purple Team framework. VERTEX maps internal network topology & scans…
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 dinesh3690/-soc-home-lab1
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/dinesh3690/-soc-home-lab1
+     📝 Home SOC lab with Splunk SIEM, Sysmon endpoint monitoring, brute force and port …
+     🏷  blue-team, cybersecurity, home-lab, kali-linux, soc-analyst, splunk, sysmon, threat-detection
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 leojaguaribe/pentest-agents-claude
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/leojaguaribe/pentest-agents-claude
+     📝 Reusable Claude Code extension kit for authorized offensive security testing. Sp…
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 xFabiian/chatgpt-trial-stealer-analysis
+     ⭐ 0  🗣 YARA  📅 2026-05-24
+     🔗 https://github.com/xFabiian/chatgpt-trial-stealer-analysis
+     📝 Analysis, IOCs, detection rules, and removal scripts for the ChatGPT Plus Free T…
+     🏷  amos-stealer, chatgpt-scam, clickfix, credential-theft, cybersecurity, deno, info-stealer, ioc, macos-malware, malware-analysis, malware-removal, mitre-attack, reverse-engineering, security-research, sigma-rules, threat-intelligence, windows-malware, yara-rules
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 MehrabShaheen/CyberSecurity-Practice
+     ⭐ 0  🗣 N/A  📅 2026-05-23
+     🔗 https://github.com/MehrabShaheen/CyberSecurity-Practice
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 TrinityBerserker/NEMESIS
+     ⭐ 1  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/TrinityBerserker/NEMESIS
+     📝 Autonomous Red Team Agent — LangGraph · Kali Linux · Claude
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 mathuryashash/ThreatLens
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/mathuryashash/ThreatLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 WulStack/gargoyle-crystalpalace-loader
+     ⭐ 1  🗣 C  📅 2026-05-24
+     🔗 https://github.com/WulStack/gargoyle-crystalpalace-loader
+     📝 PoC of a very basic UDRL using Gargoyle and based on Cystal Palace
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 mr4dot/rt-toolkit
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/mr4dot/rt-toolkit
+     📝 Curated red team toolkit catalog — 251 tools, 22 categories, 64-step engagement …
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 Dharmik1854/STHE-Design-Simulation-HYSYS-EDR-HTRI
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/Dharmik1854/STHE-Design-Simulation-HYSYS-EDR-HTRI
+     📝 Design and Simulation of Shell and Tube Heat Exchanger using Aspen HYSYS V10, ED…
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 juraijmughal378-png/Cyberster-Red-Team-Internship-Week-12-Capstone-project
+     ⭐ 1  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/juraijmughal378-png/Cyberster-Red-Team-Internship-Week-12-Capstone-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 danipri12/Portfolio-activities
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/danipri12/Portfolio-activities
+     📝 The completed portfolio activities from Google's Cybersecurity Professional Cert…
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 wochaotom/grill-for-vitals
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/wochaotom/grill-for-vitals
+     📝 Review skill for grilling catastrophic system vitals: secrets, PII, auth, money,…
+     🏷  agent-safety, appsec, compliance, developer-tools, llm-security, privacy, risk-management, security-review, source-routing, threat-modeling
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 MaviaAdil/soc-analyst-lab
+     ⭐ 0  🗣 Shell  📅 2026-05-24
+     🔗 https://github.com/MaviaAdil/soc-analyst-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 SG1unitis/Simple_File_Integrity_Checker
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/SG1unitis/Simple_File_Integrity_Checker
+     📝 SIFIC est un outil en ligne de commande écrit en Python pour vérifier l’intégrit…
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 pratheekshahariharan/Governance_Layer_For_SOC_Agent
+     ⭐ 0  🗣 TypeScript  📅 2026-05-24
+     🔗 https://github.com/pratheekshahariharan/Governance_Layer_For_SOC_Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 RAHULKATARA1/SOC-Alert-Enrichment-Pipeline
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/RAHULKATARA1/SOC-Alert-Enrichment-Pipeline
+     📝 SOC Alert Enrichment Pipeline - Automated threat intelligence enrichment for sec…
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 josephmusambi2-ai/edr
+     ⭐ 0  🗣 CSS  📅 2026-05-24
+     🔗 https://github.com/josephmusambi2-ai/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 maxtattonbrown/sundial
+     ⭐ 0  🗣 Swift  📅 2026-05-24
+     🔗 https://github.com/maxtattonbrown/sundial
+     📝 A macOS menu-bar app that makes your laptop screen usable outdoors — reactive ED…
+     🏷  brightness, edr, macbook-pro, macos, menu-bar, metal, open-source, outdoor, swift, swiftui
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 WiLL75G/soc-23-zero-trust-architecture-soc-framework
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/WiLL75G/soc-23-zero-trust-architecture-soc-framework
+     📝 Zero Trust Architecture framework with SOC detection rules and MITRE ATT&CK mapp…
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 jesterbustamante-code/Brute-Force-Reverse-Shell-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/jesterbustamante-code/Brute-Force-Reverse-Shell-Investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [NEW]   🆕 📦 englander1996-boop/xr_apps
+     ⭐ 0  🗣 TypeScript  📅 2026-05-24
+     🔗 https://github.com/englander1996-boop/xr_apps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 19:19:54 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-24 19:19:54 UTC] [UPD]   📢 📦 MZ1-co/test-workflow
+     ⭐ 0  🗣 JavaScript  📅 2026-05-23
+     🔗 https://github.com/MZ1-co/test-workflow
+     📝 NPM supply chain test
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-24 19:19:54 UTC] [UPD]   📢 📦 DennisKontic/cybersecurity-lab-portfolio
+     ⭐ 1  🗣 SCSS  📅 2026-05-24
+     🔗 https://github.com/DennisKontic/cybersecurity-lab-portfolio
+     📝 DonkeySec Technical Content: DonkeySec is my cybersecurity education brand where…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-24 19:19:54 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-24 19:19:54 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-24 19:19:56 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-24 19:19:56 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-24 19:19:56 UTC] [NEW]   🆕 📦 notmaj0r/CheatRunner
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/notmaj0r/CheatRunner
+     📝 CheatRunner is a PS5 Cheat Trainer for jailbroken consoles.
+     🏷  —
+[2026-05-24 19:19:56 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-24 19:19:56 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (1gg)
+[2026-05-24 19:19:56 UTC] [INFO] ============================================================
+[2026-05-24 19:19:56 UTC] [INFO] Completato — 28 nuovi, 3 aggiornati, 0 errori
+[2026-05-24 19:19:56 UTC] [INFO] ============================================================
