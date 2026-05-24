@@ -3381,3 +3381,131 @@
 [2026-05-24 03:49:34 UTC] [INFO] ============================================================
 [2026-05-24 03:49:34 UTC] [INFO] Completato — 18 nuovi, 5 aggiornati, 0 errori
 [2026-05-24 03:49:34 UTC] [INFO] ============================================================
+[2026-05-24 08:31:50 UTC] [INFO] ============================================================
+[2026-05-24 08:31:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-24 08:31:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-24 08:31:50 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-24 08:31:50 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-24 08:31:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-24 08:31:50 UTC] [INFO] ============================================================
+[2026-05-24 08:31:50 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-24 08:31:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-24 08:31:52 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-24 08:31:52 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-24 08:31:52 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-24 08:31:52 UTC] [UPD]   📢 📦 kernullist/kn-live-dbg
+     ⭐ 28  🗣 C++  📅 2026-05-17
+     🔗 https://github.com/kernullist/kn-live-dbg
+     📝 Windows kernel research tool. Looks like a debugger, but it is not a debugger. I…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-05-24 08:31:52 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-24 08:31:52 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-24 08:31:54 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 prakashkasinathuni-source/Malware-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/prakashkasinathuni-source/Malware-Investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 sowiwia/EdR-TP2
+     ⭐ 0  🗣 Java  📅 2026-05-24
+     🔗 https://github.com/sowiwia/EdR-TP2
+     📝 TP2 de Algoritmos y Estructuras de Datos 2
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 aswath00/KEEG
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/aswath00/KEEG
+     📝 Mathematical runtime behavioral security framework using entropy kinetics, EPSD …
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 kshimonoj/mcast-generator
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kshimonoj/mcast-generator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 NomanNasirMinhas/nanga
+     ⭐ 0  🗣 C  📅 2026-05-24
+     🔗 https://github.com/NomanNasirMinhas/nanga
+     📝 Windows SSDT hook framework for full-spectrum syscall, file, registry, and netwo…
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 y0xhz/y0xhz
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/y0xhz/y0xhz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 Anilk880/BPFense_ai_core
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/Anilk880/BPFense_ai_core
+     📝 Behavioral AI Runtime SDK for local behavioral threat detection and anomaly anal…
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 DavidLSaulsberry/Active-Directory-Cybersecurity-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/DavidLSaulsberry/Active-Directory-Cybersecurity-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 starlenk/AvEvasion
+     ⭐ 0  🗣 C#  📅 2026-05-24
+     🔗 https://github.com/starlenk/AvEvasion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 JooHyeongHan-88/svelte-fastapi-exe
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/JooHyeongHan-88/svelte-fastapi-exe
+     📝 Vite-Svelte로 빌드한 LLM AI Agent 채팅 UI/UX를 FastAPI가 serving하는 exe 패키지
+     🏷  —
+[2026-05-24 08:31:54 UTC] [NEW]   🆕 📦 velosodev7/EdroFood_v2
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/velosodev7/EdroFood_v2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-24 08:31:54 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-24 08:31:54 UTC] [UPD]   📢 📦 zhaomin1995/video_player
+     ⭐ 0  🗣 Swift  📅 2026-05-23
+     🔗 https://github.com/zhaomin1995/video_player
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-24 08:31:54 UTC] [UPD]   📢 📦 ictechgy/multi-account-tool
+     ⭐ 0  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/ictechgy/multi-account-tool
+     📝 Switch between multiple AI CLI accounts (Claude Code, Codex, Gemini/Antigravity)…
+     🏷  account-switcher, ai, claude, cli, codex, gemini, ink, nodejs, profile, tui, typescript
+     🔄 Motivo: repo recente (0gg)
+[2026-05-24 08:31:54 UTC] [UPD]   📢 📦 flybywind2/manual_video_generator
+     ⭐ 0  🗣 Python  📅 2026-05-17
+     🔗 https://github.com/flybywind2/manual_video_generator
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-24 08:31:54 UTC] [UPD]   📢 📦 davidzon84-sketch/SentinelOps_OS
+     ⭐ 0  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/davidzon84-sketch/SentinelOps_OS
+     📝 plataforma de seguridad basada en linux y docker
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-24 08:31:54 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-24 08:31:54 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-24 08:31:56 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-24 08:31:56 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-24 08:31:56 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-24 08:31:56 UTC] [UPD]   📢 📦 hanwen/runclaude
+     ⭐ 1  🗣 Go  📅 2026-05-17
+     🔗 https://github.com/hanwen/runclaude
+     📝 A sandbox for Claude
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-24 08:31:56 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (1gg)
+[2026-05-24 08:31:56 UTC] [UPD]   📢 📦 Efo-YU/yu-song-museum
+     ⭐ 0  🗣 Shell  📅 2026-05-23
+     🔗 https://github.com/Efo-YU/yu-song-museum
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-24 08:31:56 UTC] [INFO] ============================================================
+[2026-05-24 08:31:56 UTC] [INFO] Completato — 11 nuovi, 8 aggiornati, 0 errori
+[2026-05-24 08:31:56 UTC] [INFO] ============================================================
