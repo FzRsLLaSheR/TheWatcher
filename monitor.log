@@ -3886,3 +3886,235 @@
 [2026-05-24 19:19:56 UTC] [INFO] ============================================================
 [2026-05-24 19:19:56 UTC] [INFO] Completato — 28 nuovi, 3 aggiornati, 0 errori
 [2026-05-24 19:19:56 UTC] [INFO] ============================================================
+[2026-05-25 04:00:53 UTC] [INFO] ============================================================
+[2026-05-25 04:00:53 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-25 04:00:53 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-25 04:00:53 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-25 04:00:53 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-25 04:00:53 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-25 04:00:53 UTC] [INFO] ============================================================
+[2026-05-25 04:00:53 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-25 04:00:53 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-25 04:00:55 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 04:00:55 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-25 04:00:55 UTC] [NEW]   🆕 📦 sujan1-3/redcrab-rt
+     ⭐ 0  🗣 Rust  📅 2026-05-24
+     🔗 https://github.com/sujan1-3/redcrab-rt
+     📝 Windows x64 red team implant framework — authorized engagement tooling only
+     🏷  —
+[2026-05-25 04:00:55 UTC] [NEW]   🆕 📦 lagorceclovis-ship-it/reverse-engineering-byovd-kernel-zero-day
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/lagorceclovis-ship-it/reverse-engineering-byovd-kernel-zero-day
+     📝 Malware analysis — BYOVD chain, Kernel Zero-Day & EAC bypass research
+     🏷  —
+[2026-05-25 04:00:55 UTC] [NEW]   🆕 📦 ShacharLF/Multi-Stage-Memory-Poisoning---Logs-Research-Challenge
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/ShacharLF/Multi-Stage-Memory-Poisoning---Logs-Research-Challenge
+     📝 An advanced threat hunting dataset focused on kernel-level bypasses and fileless…
+     🏷  —
+[2026-05-25 04:00:55 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-25 04:00:55 UTC] [UPD]   📢 📦 RMS2D/omnomfeeds
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/RMS2D/omnomfeeds
+     📝 A self-hostable, keyboard-driven security news terminal. RSS + Reddit + Bluesky …
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-25 04:00:55 UTC] [UPD]   📢 📦 omar0fattah/Metasploit-dictionary
+     ⭐ 1  🗣 N/A  📅 2026-05-21
+     🔗 https://github.com/omar0fattah/Metasploit-dictionary
+     📝 A metasploit dictionary from beginner level the advanced level including most of…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-25 04:00:55 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-25 04:00:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-25 04:00:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 0xgu1/Stage-Early-Bird-Injection
+     ⭐ 0  🗣 C  📅 2026-05-25
+     🔗 https://github.com/0xgu1/Stage-Early-Bird-Injection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 TITAN-Softwork-Solutions/BLIND
+     ⭐ 0  🗣 C++  📅 2026-05-25
+     🔗 https://github.com/TITAN-Softwork-Solutions/BLIND
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 gromerosec/adaptive-detection-governance
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/gromerosec/adaptive-detection-governance
+     📝 Adaptive Detection Governance (ADG): a vendor-neutral framework for governing te…
+     🏷  cybersecurity, detection-engineering, detection-governance, secops, security-operations, siem
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 ctrl-sagesh/SentinelForge
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/ctrl-sagesh/SentinelForge
+     📝 Autonomous AI Cyber Defense Agent Framework — LangGraph-powered SOC automation w…
+     🏷  ai-agents, constitutional-ai, cybersecurity, fastapi, incident-response, langgraph, mitre-attack, python, soc-automation, threat-detection
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 vCSO-ai/cyber-ale-calculator
+     ⭐ 0  🗣 JavaScript  📅 2026-05-25
+     🔗 https://github.com/vCSO-ai/cyber-ale-calculator
+     📝 Calculate Annual Loss Expectancy (ALE), Single Loss Expectancy (SLE), and risk r…
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 bagleykristian/threat-hunting-scenario
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/bagleykristian/threat-hunting-scenario
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 shanemckenney/CySA--SOC-Simulator
+     ⭐ 0  🗣 HTML  📅 2026-05-25
+     🔗 https://github.com/shanemckenney/CySA--SOC-Simulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 sujan1-3/redcrab-rt
+     ⭐ 0  🗣 Rust  📅 2026-05-24
+     🔗 https://github.com/sujan1-3/redcrab-rt
+     📝 Windows x64 red team implant framework — authorized engagement tooling only
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 amrutanshu2003/Threat-Intelligence-Aggregator
+     ⭐ 1  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/amrutanshu2003/Threat-Intelligence-Aggregator
+     📝 Threat Intelligence Aggregator
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 yo-yo-yo-jbo/macho_structure
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/yo-yo-yo-jbo/macho_structure
+     📝 Mach-O file structure
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 polografiti/bt-hid-bridge
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/polografiti/bt-hid-bridge
+     📝 ESP32 Bluetooth HID Host to Wi-Fi bridge — keyboard/mouse over UDP to Python PC …
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 SS-Sauron/crowpanel-standalone
+     ⭐ 0  🗣 C  📅 2026-05-24
+     🔗 https://github.com/SS-Sauron/crowpanel-standalone
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 rico0x0/POC-for-EDR-evasion
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/rico0x0/POC-for-EDR-evasion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 0xDiyor/Void-Kit
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/0xDiyor/Void-Kit
+     📝 A modular and intuitive framework for Cybersecurity and Networking tools. 
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 mazouzpy/antivirus_evasion_techniques
+     ⭐ 1  🗣 C  📅 2026-05-24
+     🔗 https://github.com/mazouzpy/antivirus_evasion_techniques
+     📝 edecation research repository exploring varios techniques for AV/EDR evasion and…
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 Faysal92/axiom-proof-warrant-protocol
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/Faysal92/axiom-proof-warrant-protocol
+     📝 Proof-warrant protocol for critical AI actions: no action beyond proportional pr…
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 yankywilson/gamybear
+     ⭐ 0  🗣 Go  📅 2026-05-24
+     🔗 https://github.com/yankywilson/gamybear
+     📝 First public reverse engineering of GAMYBEAR, the Go backdoor used by UAC-0241 a…
+     🏷  apt, gamybear, malware-analysis, reverse-engineering
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 eddwithers/hermes-security-watchdog
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/eddwithers/hermes-security-watchdog
+     📝 Silent-by-default nightly security probe for Hermes Agent — macOS posture, secre…
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 aruser2212/attck-top10-crosslayer-detections
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/aruser2212/attck-top10-crosslayer-detections
+     📝 SIEM-agnostic ATT&CK Top-10 cross-layer detection engineering portfolio: Sigma, …
+     🏷  blue-team, detection-engineering, dfir, mitre-attack, portfolio, security-operations-center, siem-agnostic, sigma-rules, suricata-rules, threat-hunting, yara-rules
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 X-3306/Project-Onyx
+     ⭐ 0  🗣 C  📅 2026-05-24
+     🔗 https://github.com/X-3306/Project-Onyx
+     📝 Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx i…
+     🏷  ai, chain, cpp, cryptography, edr-evasion, in-memory-execution, malware-development, monolithic, onnx, onnxruntime, redteam, reverse-engineering, runtime-loading, security-research, systems-security, wasm, webassembly, windows
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 MaxTop60/infobes
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/MaxTop60/infobes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 ritapira/EDR-XDR-FINAL
+     ⭐ 0  🗣 C#  📅 2026-05-24
+     🔗 https://github.com/ritapira/EDR-XDR-FINAL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 Ndeshh/Un-defend
+     ⭐ 0  🗣 C++  📅 2026-05-24
+     🔗 https://github.com/Ndeshh/Un-defend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 vishvacyber/Claude-Bughunter
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/vishvacyber/Claude-Bughunter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 reninjk/soc-automation
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/reninjk/soc-automation
+     📝 SOC security automation scripts for alert triage, IOC enrichment, and incident r…
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 ritapira/EDR-XDR
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/ritapira/EDR-XDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 reninjk/soc-incident-response
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/reninjk/soc-incident-response
+     📝 SOC Incident Response playbooks, runbooks, IR templates, and escalation procedur…
+     🏷  —
+[2026-05-25 04:00:57 UTC] [NEW]   🆕 📦 rogeriosantos/hacker-game
+     ⭐ 0  🗣 C#  📅 2026-05-24
+     🔗 https://github.com/rogeriosantos/hacker-game
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-25 04:00:57 UTC] [UPD]   📢 📦 ictechgy/multi-account-tool
+     ⭐ 0  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/ictechgy/multi-account-tool
+     📝 Switch between multiple AI CLI accounts (Claude Code, Codex, Gemini/Antigravity)…
+     🏷  account-switcher, ai, claude, cli, codex, gemini, ink, nodejs, profile, tui, typescript
+     🔄 Motivo: repo recente (1gg)
+[2026-05-25 04:00:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-25 04:00:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-25 04:00:59 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 04:00:59 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-25 04:00:59 UTC] [NEW]   🆕 📦 Wigglez-sudo/The-PS5-12.40-Master-Guide-Stability-Jailbreak-Guide
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/Wigglez-sudo/The-PS5-12.40-Master-Guide-Stability-Jailbreak-Guide
+     📝 This guide provides a robust path for firmware 12.40 users to achieve a stable j…
+     🏷  —
+[2026-05-25 04:00:59 UTC] [NEW]   🆕 📦 tylahibeb/umtx2
+     ⭐ 0  🗣 JavaScript  📅 2026-05-24
+     🔗 https://github.com/tylahibeb/umtx2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 04:00:59 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-25 04:00:59 UTC] [UPD]   📢 📦 Efo-YU/yu-song-museum
+     ⭐ 0  🗣 Shell  📅 2026-05-23
+     🔗 https://github.com/Efo-YU/yu-song-museum
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-25 04:00:59 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (2gg)
+[2026-05-25 04:00:59 UTC] [UPD]   📢 📦 NotionAlpha/gauntlet
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/NotionAlpha/gauntlet
+     📝 Integration suite for Agentic AI capabilities
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-25 04:00:59 UTC] [UPD]   📢 📦 matem6/P2JB-Y2JB-Porting
+     ⭐ 152  🗣 JavaScript  📅 2026-05-21
+     🔗 https://github.com/matem6/P2JB-Y2JB-Porting
+     📝 PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-25 04:00:59 UTC] [INFO] ============================================================
+[2026-05-25 04:00:59 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
+[2026-05-25 04:00:59 UTC] [INFO] ============================================================
