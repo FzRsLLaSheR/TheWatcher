@@ -4118,3 +4118,154 @@
 [2026-05-25 04:00:59 UTC] [INFO] ============================================================
 [2026-05-25 04:00:59 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
 [2026-05-25 04:00:59 UTC] [INFO] ============================================================
+[2026-05-25 10:10:58 UTC] [INFO] ============================================================
+[2026-05-25 10:10:58 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-25 10:10:58 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-25 10:10:58 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-25 10:10:58 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-25 10:10:58 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-25 10:10:58 UTC] [INFO] ============================================================
+[2026-05-25 10:10:58 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-25 10:10:58 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-25 10:11:01 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 10:11:01 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-25 10:11:01 UTC] [NEW]   🆕 📦 redteamfortress/PPLShade
+     ⭐ 3  🗣 C  📅 2026-05-25
+     🔗 https://github.com/redteamfortress/PPLShade
+     📝 BYOVD tool for manipulating Windows Protected Process Light (PPL) protection at …
+     🏷  byovd, edr, edr-bypass, edr-evasion, kernel-driver
+[2026-05-25 10:11:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-25 10:11:01 UTC] [UPD]   📢 📦 sujan1-3/redcrab-rt
+     ⭐ 0  🗣 Rust  📅 2026-05-24
+     🔗 https://github.com/sujan1-3/redcrab-rt
+     📝 Windows x64 red team implant framework — authorized engagement tooling only
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-25 10:11:01 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-25 10:11:01 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-25 10:11:04 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 rootaccessgranted/noobak
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/rootaccessgranted/noobak
+     📝 notes
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 MKMithun2806/ShellCraft
+     ⭐ 0  🗣 Go  📅 2026-05-25
+     🔗 https://github.com/MKMithun2806/ShellCraft
+     📝 A lightweight, interactive Go CLI tool for generating obfuscated, multi-platform…
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 mohsinnazir967/30-day-soc-analyst-challenge.
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/mohsinnazir967/30-day-soc-analyst-challenge.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 ph7klw76/BDDM-TIP3-GROMACS-Simulation
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/ph7klw76/BDDM-TIP3-GROMACS-Simulation
+     📝 BDDM/TIP3 GROMACS Simulation and Membrane-Analysis Workflows
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 redteamfortress/PPLShade
+     ⭐ 3  🗣 C  📅 2026-05-25
+     🔗 https://github.com/redteamfortress/PPLShade
+     📝 BYOVD tool for manipulating Windows Protected Process Light (PPL) protection at …
+     🏷  byovd, edr, edr-bypass, edr-evasion, kernel-driver
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 achuvijayakumar/ProcSentry
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/achuvijayakumar/ProcSentry
+     📝 Lightweight Linux process intelligence and duplicate detection
+     🏷  devops, fastapi, htmx, linux, monitoring, observability, process-monitor, python, server-monitoring, sqlite, system-monitor, vps
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 ApertaCodex/article-agentic-ai-for-cybersecurity-autonomous-threat-detection-and
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/ApertaCodex/article-agentic-ai-for-cybersecurity-autonomous-threat-detection-and
+     📝 Agentic AI for Cybersecurity: Autonomous Threat Detection and Response | Publish…
+     🏷  agentic-ai, autonomous-response, cybersecurity, soar, threat-detection
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 sakrss/ShieldBreaker
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/sakrss/ShieldBreaker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 akorir08y/wazuh-siem-homelab
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/akorir08y/wazuh-siem-homelab
+     📝 Host your own SIEM. Fend off cybersecurity attacks with your homelab
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 omnithium/article-agentic-ai-for-cybersecurity-autonomous-threat-detection-and
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/omnithium/article-agentic-ai-for-cybersecurity-autonomous-threat-detection-and
+     📝 Agentic AI for Cybersecurity: Autonomous Threat Detection and Response | Publish…
+     🏷  agentic-ai, autonomous-response, cybersecurity, soar, threat-detection
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 ChaitanyaJoshi1769/SentinelOS
+     ⭐ 0  🗣 TypeScript  📅 2026-05-25
+     🔗 https://github.com/ChaitanyaJoshi1769/SentinelOS
+     📝 Autonomous AI-Native Cybersecurity Operations Platform
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 EDR-for-junhyeong/LinuxAgent
+     ⭐ 0  🗣 CMake  📅 2026-05-25
+     🔗 https://github.com/EDR-for-junhyeong/LinuxAgent
+     📝 EDR for LinuxAgent
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 rifkiedrian10-dev/edrian
+     ⭐ 0  🗣 HTML  📅 2026-05-25
+     🔗 https://github.com/rifkiedrian10-dev/edrian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 sanchezbelitocalet-ctrl/PA2-Calet-Edriam-Sanchez-Belito
+     ⭐ 0  🗣 HTML  📅 2026-05-25
+     🔗 https://github.com/sanchezbelitocalet-ctrl/PA2-Calet-Edriam-Sanchez-Belito
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 10:11:04 UTC] [NEW]   🆕 📦 yoopeace/file-integrity-checker
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/yoopeace/file-integrity-checker
+     📝 SHA-256 기반 파일 변조 탐지 도구 (디지털 포렌식)
+     🏷  —
+[2026-05-25 10:11:04 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-25 10:11:04 UTC] [UPD]   📢 📦 sujan1-3/redcrab-rt
+     ⭐ 0  🗣 Rust  📅 2026-05-24
+     🔗 https://github.com/sujan1-3/redcrab-rt
+     📝 Windows x64 red team implant framework — authorized engagement tooling only
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-25 10:11:04 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-25 10:11:04 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-25 10:11:07 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 10:11:07 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-25 10:11:07 UTC] [NEW]   🆕 📦 vepsala/colimander
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/vepsala/colimander
+     📝 macOS-local agent orchestration on Colima with a credential-firewalling proxy
+     🏷  —
+[2026-05-25 10:11:07 UTC] [NEW]   🆕 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Shell  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+[2026-05-25 10:11:07 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-25 10:11:07 UTC] [UPD]   📢 📦 matem6/P2JB-Y2JB-Porting
+     ⭐ 159  🗣 JavaScript  📅 2026-05-21
+     🔗 https://github.com/matem6/P2JB-Y2JB-Porting
+     📝 PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-25 10:11:07 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (2gg)
+[2026-05-25 10:11:07 UTC] [UPD]   📢 📦 Efo-YU/yu-song-museum
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/Efo-YU/yu-song-museum
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-25 10:11:07 UTC] [UPD]   📢 📦 Wigglez-sudo/The-PS5-12.40-Master-Guide-Stability-Jailbreak-Guide
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/Wigglez-sudo/The-PS5-12.40-Master-Guide-Stability-Jailbreak-Guide
+     📝 This guide provides a robust path for firmware 12.40 users to achieve a stable j…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-25 10:11:07 UTC] [INFO] ============================================================
+[2026-05-25 10:11:07 UTC] [INFO] Completato — 18 nuovi, 6 aggiornati, 0 errori
+[2026-05-25 10:11:07 UTC] [INFO] ============================================================
