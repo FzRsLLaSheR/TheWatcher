@@ -4438,3 +4438,165 @@
 [2026-05-25 14:56:44 UTC] [INFO] ============================================================
 [2026-05-25 14:56:44 UTC] [INFO] Completato — 24 nuovi, 4 aggiornati, 0 errori
 [2026-05-25 14:56:44 UTC] [INFO] ============================================================
+[2026-05-25 19:43:11 UTC] [INFO] ============================================================
+[2026-05-25 19:43:11 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-25 19:43:11 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-25 19:43:11 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-25 19:43:11 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-25 19:43:11 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-25 19:43:11 UTC] [INFO] ============================================================
+[2026-05-25 19:43:11 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-25 19:43:11 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-25 19:43:13 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 19:43:13 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-25 19:43:13 UTC] [NEW]   🆕 📦 pawangyawali-69/IntegrityMonitor
+     ⭐ 0  🗣 Rust  📅 2026-05-24
+     🔗 https://github.com/pawangyawali-69/IntegrityMonitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 19:43:13 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-25 19:43:13 UTC] [UPD]   📢 📦 RMS2D/omnomfeeds
+     ⭐ 0  🗣 HTML  📅 2026-05-20
+     🔗 https://github.com/RMS2D/omnomfeeds
+     📝 A self-hostable, keyboard-driven security news terminal. RSS + Reddit + Bluesky …
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-25 19:43:13 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-25 19:43:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-25 19:43:15 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 agentstation/ripley
+     ⭐ 0  🗣 Rust  📅 2026-05-25
+     🔗 https://github.com/agentstation/ripley
+     📝 Supply chain defense for developers. System tray app + package manager guard.
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 jbanday808/Enterprise-Threat-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/jbanday808/Enterprise-Threat-Hunting
+     📝 Enterprise threat hunting and malware analysis platform powered by Splunk, Sysmo…
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 vaddify/contoso-fis-foundry-security
+     ⭐ 0  🗣 PowerShell  📅 2026-05-25
+     🔗 https://github.com/vaddify/contoso-fis-foundry-security
+     📝 Reproducible FSI zero-trust + Microsoft Foundry + Sentinel reference lab
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 alloct/trailmark
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/alloct/trailmark
+     📝 Forensic browser-history viewer for MDR analysts
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 curtishoughton/MS16-032-Cobalt-Strike-LPE-BOF
+     ⭐ 0  🗣 C  📅 2026-05-25
+     🔗 https://github.com/curtishoughton/MS16-032-Cobalt-Strike-LPE-BOF
+     📝 A Cobalt Strike Beacon Object File (BOF) implementation of the MS16-032 local pr…
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 wesmar/VaultGuard
+     ⭐ 1  🗣 Assembly  📅 2026-05-25
+     🔗 https://github.com/wesmar/VaultGuard
+     📝 Folder & file protection via kernel FSFilter minifilter - pure x64 MASM assembly…
+     🏷  file-lock, file-protection, folder-locker, folder-protection, fsfilter-minifilter, hiding-files, hiding-folders, read-only-protection
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 mohilamin/ai-soc-telemetry-triage-platform
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/mohilamin/ai-soc-telemetry-triage-platform
+     📝 AI-assisted SOC telemetry triage platform with synthetic security logs, Sigma-st…
+     🏷  ai-security, cybersecurity, detection-engineering, duckdb, fastapi, incident-response, mitre-attack, portfolio-project, python, security-analytics, security-data-engineering, siem, sigma-rules, soc, streamlit
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 utk2103/reusable-regex
+     ⭐ 1  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/utk2103/reusable-regex
+     📝 can be used in data processing, cleaning logs in production enviornments, used a…
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 robgrame/IntuneAssignmentViewer
+     ⭐ 0  🗣 C#  📅 2026-05-25
+     🔗 https://github.com/robgrame/IntuneAssignmentViewer
+     📝 🛡️ Modern Blazor web portal to view all Microsoft Intune assignments (policies, …
+     🏷  aspnet-core, autopilot, azure-ad, azure-app-service, blazor, blazor-server, device-management, dotnet, endpoint-management, endpoint-security, entra-id, graph-api, iis, intune, intune-assignments, managed-identity, mdm, microsoft-graph, microsoft-intune, on-premises
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 l0h1nth/l0h1nth
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/l0h1nth/l0h1nth
+     📝 know about me
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 FifteenChain26/Portable-MC
+     ⭐ 0  🗣 C#  📅 2026-05-25
+     🔗 https://github.com/FifteenChain26/Portable-MC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 LevaAverGit/mini-siem-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/LevaAverGit/mini-siem-detection-lab
+     📝 Mini SIEM-like detection lab: log ingestion, normalization, 9 detection rules, a…
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 sairam-bathini/application-security-course
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/sairam-bathini/application-security-course
+     📝 This course is end-to-end Application Security concepts.
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 hblack5676/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/hblack5676/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 Dpadilla85/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/Dpadilla85/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 sinanzayn6677-cmyk/Linux-Windows-Wazuh-SIEM-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/sinanzayn6677-cmyk/Linux-Windows-Wazuh-SIEM-Lab
+     📝 A cross-platform Blue Team lab deploying Wazuh SIEM to monitor Windows 11 endpoi…
+     🏷  —
+[2026-05-25 19:43:15 UTC] [NEW]   🆕 📦 vuongnv3389-sec/AI-Agent-DFIR-Hospital
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/vuongnv3389-sec/AI-Agent-DFIR-Hospital
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 19:43:15 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-25 19:43:15 UTC] [UPD]   📢 📦 ChaitanyaJoshi1769/SentinelOS
+     ⭐ 0  🗣 TypeScript  📅 2026-05-25
+     🔗 https://github.com/ChaitanyaJoshi1769/SentinelOS
+     📝 Autonomous AI-Native Cybersecurity Operations Platform
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-25 19:43:15 UTC] [UPD]   📢 📦 HakanO342610/EdremitMerkezPilotGarage
+     ⭐ 0  🗣 Astro  📅 2026-05-23
+     🔗 https://github.com/HakanO342610/EdremitMerkezPilotGarage
+     📝 Edremit Merkez Pilot Garage
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-25 19:43:15 UTC] [UPD]   📢 📦 theoreticalhacker/theoreticalhacker
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/theoreticalhacker/theoreticalhacker
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-25 19:43:15 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-25 19:43:15 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-25 19:43:17 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 19:43:17 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-25 19:43:17 UTC] [NEW]   🆕 📦 kayareyouokay/Linux-Container-in-500-LOC
+     ⭐ 0  🗣 C  📅 2026-05-25
+     🔗 https://github.com/kayareyouokay/Linux-Container-in-500-LOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 19:43:17 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-25 19:43:17 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Shell  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-25 19:43:17 UTC] [UPD]   📢 📦 matem6/P2JB-Y2JB-Porting
+     ⭐ 166  🗣 JavaScript  📅 2026-05-21
+     🔗 https://github.com/matem6/P2JB-Y2JB-Porting
+     📝 PS5 jailbreak via the Y2JB. Ports Gezine's p2jb kqueueex cr_ref overflow
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-25 19:43:17 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (2gg)
+[2026-05-25 19:43:17 UTC] [INFO] ============================================================
+[2026-05-25 19:43:17 UTC] [INFO] Completato — 19 nuovi, 7 aggiornati, 0 errori
+[2026-05-25 19:43:17 UTC] [INFO] ============================================================
