@@ -4269,3 +4269,172 @@
 [2026-05-25 10:11:07 UTC] [INFO] ============================================================
 [2026-05-25 10:11:07 UTC] [INFO] Completato — 18 nuovi, 6 aggiornati, 0 errori
 [2026-05-25 10:11:07 UTC] [INFO] ============================================================
+[2026-05-25 14:56:36 UTC] [INFO] ============================================================
+[2026-05-25 14:56:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-25 14:56:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-25 14:56:36 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-25 14:56:36 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-25 14:56:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-25 14:56:36 UTC] [INFO] ============================================================
+[2026-05-25 14:56:36 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-25 14:56:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-25 14:56:39 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 14:56:39 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-25 14:56:39 UTC] [NEW]   🆕 📦 ika-carve/dora-sample
+     ⭐ 0  🗣 PLpgSQL  📅 2026-05-25
+     🔗 https://github.com/ika-carve/dora-sample
+     📝 DORA Contract Intelligence - demo implementation on UiPath Automation Suite
+     🏷  —
+[2026-05-25 14:56:39 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-25 14:56:39 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-25 14:56:39 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-25 14:56:42 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 exploiter-taz/WfpAtlas
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/exploiter-taz/WfpAtlas
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 Alleyaaa/Triage-SOC
+     ⭐ 0  🗣 TypeScript  📅 2026-05-25
+     🔗 https://github.com/Alleyaaa/Triage-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 api-evangelist/factorial-hr
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/api-evangelist/factorial-hr
+     📝 Factorial - all-in-one HR, payroll, time, talent, finance, and IT platform (Barc…
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 LevaAverGit/Log-incident-analyzer
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/LevaAverGit/Log-incident-analyzer
+     📝 Rule-based Python CLI tool for Linux auth, Nginx, and syslog incident triage wit…
+     🏷  cli, cybersecurity, incident-response, json, linux, log-analysis, nginx, pytest, python, security-monitoring, soc
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/CHUKZ2000/Incident-Response-Report-MidnightSwap-Multi-Stage-Attack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 kkkkof2025/Agent-Shield
+     ⭐ 1  🗣 TypeScript  📅 2026-05-25
+     🔗 https://github.com/kkkkof2025/Agent-Shield
+     📝 AgentShield Runtime is a local AI CLI wrapper for Codex CLI, OpenClaw, Claude Co…
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 MrFlashAccount/RayXDR
+     ⭐ 0  🗣 Swift  📅 2026-05-25
+     🔗 https://github.com/MrFlashAccount/RayXDR
+     📝 A Raycast extension for toggling extra brightness on MacBook XDR displays
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 adnansabbir/tryhackme
+     ⭐ 0  🗣 JavaScript  📅 2026-05-25
+     🔗 https://github.com/adnansabbir/tryhackme
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 Laporsh077/Screenconnect---smartscreen-bypass
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/Laporsh077/Screenconnect---smartscreen-bypass
+     📝 Screen connect - RMM , EV bypass - smartscreen bypass - 
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 theoreticalhacker/theoreticalhacker
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/theoreticalhacker/theoreticalhacker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 creedalene/CompTIA-SecurityX-Domain3.Security-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/creedalene/CompTIA-SecurityX-Domain3.Security-Engineering
+     📝 This domain makes up approximately **25%** of the SecurityX exam and focuses on …
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_29
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_29
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 SamChawla/devsecops-coral
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/SamChawla/devsecops-coral
+     📝 One SQL query across your entire security & DevOps stack — powered by Coral
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 ADZYYYY/H002-wmi-event-subscription-persistence
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/ADZYYYY/H002-wmi-event-subscription-persistence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 H3llKa1ser/Agentic-AI-Security-Workflows
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/H3llKa1ser/Agentic-AI-Security-Workflows
+     📝 This is a project that demonstrates the usage of agentic AI for security related…
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 Valko0418/EDR
+     ⭐ 0  🗣 HTML  📅 2026-05-25
+     🔗 https://github.com/Valko0418/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 Valko0418/EDR-Radio
+     ⭐ 0  🗣 HTML  📅 2026-05-25
+     🔗 https://github.com/Valko0418/EDR-Radio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 Sreevasamr/red-team-arsenal
+     ⭐ 0  🗣 PowerShell  📅 2026-05-25
+     🔗 https://github.com/Sreevasamr/red-team-arsenal
+     📝 Red team scripts for recon, exploitation, and post-exploitation
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 OrwaMian/Network-Sentinel
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/OrwaMian/Network-Sentinel
+     📝 Host-based intrusion detection and response tool for Windows 11. Detects port sc…
+     🏷  blue-team, cybersecurity, ids, intrusion-detection, network-security, portfolio, python, security, soc, windows
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 malatm1/aac2-experiments
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/malatm1/aac2-experiments
+     📝 Experimental artefacts for AAC 2.0 paper — IEEE 2026
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-OOP
+     ⭐ 0  🗣 Java  📅 2026-05-25
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-OOP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 WiLL75G/soc-24-digital-forensics-investigation-lab
+     ⭐ 1  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/WiLL75G/soc-24-digital-forensics-investigation-lab
+     📝 Perform basic digital forensic investigation of security incidents
+     🏷  —
+[2026-05-25 14:56:42 UTC] [NEW]   🆕 📦 wiedymi/swift-moonlight
+     ⭐ 0  🗣 Swift  📅 2026-05-25
+     🔗 https://github.com/wiedymi/swift-moonlight
+     📝 Pure Swift Moonlight-compatible client stack for Apple platforms.
+     🏷  apollo, apple-platforms, game-streaming, gamestream, ios, macos, metal, moonlight, opus, sunshine, swift, tvos, videotoolbox
+[2026-05-25 14:56:42 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-25 14:56:42 UTC] [UPD]   📢 📦 MaxTop60/infobes
+     ⭐ 0  🗣 N/A  📅 2026-05-24
+     🔗 https://github.com/MaxTop60/infobes
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-25 14:56:42 UTC] [UPD]   📢 📦 ChaitanyaJoshi1769/SentinelOS
+     ⭐ 0  🗣 TypeScript  📅 2026-05-25
+     🔗 https://github.com/ChaitanyaJoshi1769/SentinelOS
+     📝 Autonomous AI-Native Cybersecurity Operations Platform
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-25 14:56:42 UTC] [UPD]   📢 📦 HakanO342610/EdremitMerkezPilotGarage
+     ⭐ 0  🗣 Astro  📅 2026-05-23
+     🔗 https://github.com/HakanO342610/EdremitMerkezPilotGarage
+     📝 Edremit Merkez Pilot Garage
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-25 14:56:42 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-25 14:56:42 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-25 14:56:44 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-25 14:56:44 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-25 14:56:44 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-25 14:56:44 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (2gg)
+[2026-05-25 14:56:44 UTC] [INFO] ============================================================
+[2026-05-25 14:56:44 UTC] [INFO] Completato — 24 nuovi, 4 aggiornati, 0 errori
+[2026-05-25 14:56:44 UTC] [INFO] ============================================================
