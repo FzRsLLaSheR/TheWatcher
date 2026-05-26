@@ -5197,3 +5197,205 @@
 [2026-05-26 15:36:58 UTC] [INFO] ============================================================
 [2026-05-26 15:36:58 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
 [2026-05-26 15:36:58 UTC] [INFO] ============================================================
+[2026-05-26 20:10:55 UTC] [INFO] ============================================================
+[2026-05-26 20:10:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-26 20:10:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-26 20:10:55 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-26 20:10:55 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-26 20:10:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-26 20:10:55 UTC] [INFO] ============================================================
+[2026-05-26 20:10:55 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-26 20:10:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-26 20:10:57 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-26 20:10:57 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-26 20:10:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-26 20:10:57 UTC] [UPD]   📢 📦 ruleaker/awesome-edr-evasion
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/ruleaker/awesome-edr-evasion
+     📝 A curated list of resources for EDR/AV evasion research and red team tradecraft.
+     🏷  awesome, awesome-list, edr, edr-bypass, edr-evasion, malware-development, offensive-security, red-team, windows-internals
+     🔄 Motivo: repo recente (0gg) | nuovi topic: awesome-list, edr-bypass, red-team, malware-development, offensive-security, edr-evasion, edr, awesome, windows-internals
+[2026-05-26 20:10:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-26 20:10:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-26 20:11:04 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 nileshmali15/nileshmali15.github.io
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/nileshmali15/nileshmali15.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 RohanNaidu14/mars-terrain-traversability
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-26
+     🔗 https://github.com/RohanNaidu14/mars-terrain-traversability
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 ruancarlosrc/PFSense-Firewall-Lab-2
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/ruancarlosrc/PFSense-Firewall-Lab-2
+     📝 A more sophisticated and in-depth hands-on pfSense lab.
+     🏷  blue-team, cibersecurity, firewall, hands-on, nmap, pfsense, soc, suricata
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 neil9bailey/diiac-patchforge
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/neil9bailey/diiac-patchforge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 TioXin/windows11-inplace-upgrade-tool
+     ⭐ 0  🗣 Batchfile  📅 2026-05-26
+     🔗 https://github.com/TioXin/windows11-inplace-upgrade-tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 DANGAL159/edr-daemon-c
+     ⭐ 0  🗣 C  📅 2026-05-26
+     🔗 https://github.com/DANGAL159/edr-daemon-c
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 CJSR05/Net-Eng-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/CJSR05/Net-Eng-Portfolio
+     📝 Articles on network engineering topics relevant to CCNA and related studies
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 RedteamNotes/SharpADIDNS
+     ⭐ 1  🗣 C#  📅 2026-05-25
+     🔗 https://github.com/RedteamNotes/SharpADIDNS
+     📝 C# command-line tool for reading and modifying Active Directory-Integrated DNS (…
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 tyrenker/Pythia-CTI
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/tyrenker/Pythia-CTI
+     📝 Open-source cyber threat intelligence platform for tracking actors, TTPs, indica…
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 grv456/Portfolio
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/grv456/Portfolio
+     📝 This is about me and my personal portfolio highlighting my experiences and skill…
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 lokilokith/windows-ioc-scanner
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/lokilokith/windows-ioc-scanner
+     📝 Windows IOC Scanner is a lightweight SOC-focused security utility built with Pyt…
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 JunaidAbrar/virkud-sentinel-extension
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-26
+     🔗 https://github.com/JunaidAbrar/virkud-sentinel-extension
+     📝 Reproduction and extension of Virkud et al. (USENIX Security 2024) - Adding Micr…
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 sseaan1013/CybersecurityLabs
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/sseaan1013/CybersecurityLabs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 Tr00jan99/Snake-Tank-Security-Suite
+     ⭐ 0  🗣 PowerShell  📅 2026-05-26
+     🔗 https://github.com/Tr00jan99/Snake-Tank-Security-Suite
+     📝 A 100% portable, zero-dependency, native Windows security auditing, threat hunti…
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 EmnaAllegui/In-memory-Mimikatz-execution-and-powershell-obfuscation-detection-using-Sysmon
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/EmnaAllegui/In-memory-Mimikatz-execution-and-powershell-obfuscation-detection-using-Sysmon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 20:11:04 UTC] [NEW]   🆕 📦 chanda84/HID-Mouse-Jiggler-for-Security-Telemetry-MDR-Testing
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/chanda84/HID-Mouse-Jiggler-for-Security-Telemetry-MDR-Testing
+     📝 This project was created to understand how operating systems, endpoint security …
+     🏷  —
+[2026-05-26 20:11:04 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-26 20:11:04 UTC] [UPD]   📢 📦 edrbroker/EDR-real-estate-mastery
+     ⭐ 0  🗣 HTML  📅 2026-05-25
+     🔗 https://github.com/edrbroker/EDR-real-estate-mastery
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-26 20:11:04 UTC] [UPD]   📢 📦 ruleaker/awesome-edr-evasion
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/ruleaker/awesome-edr-evasion
+     📝 A curated list of resources for EDR/AV evasion research and red team tradecraft.
+     🏷  awesome, awesome-list, edr, edr-bypass, edr-evasion, malware-development, offensive-security, red-team, windows-internals
+     🔄 Motivo: repo recente (0gg) | nuovi topic: awesome-list, edr-bypass, red-team, malware-development, offensive-security, edr-evasion, edr, awesome, windows-internals
+[2026-05-26 20:11:04 UTC] [UPD]   📢 📦 agentstation/ripley
+     ⭐ 0  🗣 Rust  📅 2026-05-25
+     🔗 https://github.com/agentstation/ripley
+     📝 Supply chain defense for developers. System tray app + package manager guard.
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-26 20:11:04 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-26 20:11:04 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-26 20:11:07 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-26 20:11:07 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-05-26 20:11:07 UTC] [NEW]   🆕 📦 copyleftdev/micro-containers
+     ⭐ 0  🗣 Go  📅 2026-05-26
+     🔗 https://github.com/copyleftdev/micro-containers
+     📝 One Go HTTP server. Five isolation runtimes. gVisor, Kata, Firecracker, and WASM…
+     🏷  —
+[2026-05-26 20:11:07 UTC] [NEW]   🆕 📦 mikey820/phantom-tweaks
+     ⭐ 0  🗣 Objective-C  📅 2026-05-26
+     🔗 https://github.com/mikey820/phantom-tweaks
+     📝 iOS SpringBoard tweaks via DarkSword kernel exploit (iOS 17–18.7.6)
+     🏷  —
+[2026-05-26 20:11:07 UTC] [NEW]   🆕 📦 Booda0119/ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-05-26
+     🔗 https://github.com/Booda0119/ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 20:11:07 UTC] [NEW]   🆕 📦 powerman/sandbox-ai-dev
+     ⭐ 0  🗣 Shell  📅 2026-05-26
+     🔗 https://github.com/powerman/sandbox-ai-dev
+     📝 Secure AND convenient sandbox for local development with AI Agents on Linux
+     🏷  —
+[2026-05-26 20:11:07 UTC] [NEW]   🆕 📦 Craveirorj/REAPER
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/Craveirorj/REAPER
+     📝 Pentest framework for Kali Linux — 7-step guided methodology with attack decisio…
+     🏷  —
+[2026-05-26 20:11:07 UTC] [UPD]   📢 8 repository AGGIORNATI:
+[2026-05-26 20:11:07 UTC] [UPD]   📢 📦 ruleaker/awesome-edr-evasion
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/ruleaker/awesome-edr-evasion
+     📝 A curated list of resources for EDR/AV evasion research and red team tradecraft.
+     🏷  awesome, awesome-list, edr, edr-bypass, edr-evasion, malware-development, offensive-security, red-team, windows-internals
+     🔄 Motivo: repo recente (0gg) | nuovi topic: awesome-list, edr-bypass, red-team, malware-development, offensive-security, edr-evasion, edr, awesome, windows-internals
+[2026-05-26 20:11:07 UTC] [UPD]   📢 📦 ppfuark/cyber_roadmap
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/ppfuark/cyber_roadmap
+     📝 sudo rm -rf  *
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-26 20:11:07 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Shell  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-26 20:11:07 UTC] [UPD]   📢 📦 clogan9019-dotcom/controller
+     ⭐ 2  🗣 Objective-C  📅 2026-05-22
+     🔗 https://github.com/clogan9019-dotcom/controller
+     📝 iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-26 20:11:07 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (3gg)
+[2026-05-26 20:11:07 UTC] [UPD]   📢 📦 sedat4ras/reconflow
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/sedat4ras/reconflow
+     📝 Single-file pentest & CTF reconnaissance cheat sheet — 28 tools, offline, no dep…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-26 20:11:07 UTC] [UPD]   📢 📦 tyx-git/ctf-agents-team
+     ⭐ 1  🗣 Python  📅 2026-05-19
+     🔗 https://github.com/tyx-git/ctf-agents-team
+     📝 A unified CTF challenge-solving orchestration system for Claude Code. Provides r…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-05-26 20:11:07 UTC] [UPD]   📢 📦 vepsala/colimander
+     ⭐ 0  🗣 Go  📅 2026-05-25
+     🔗 https://github.com/vepsala/colimander
+     📝 macOS-local agent orchestration on Colima with a credential-firewalling proxy
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-26 20:11:07 UTC] [INFO] ============================================================
+[2026-05-26 20:11:07 UTC] [INFO] Completato — 21 nuovi, 12 aggiornati, 0 errori
+[2026-05-26 20:11:07 UTC] [INFO] ============================================================
