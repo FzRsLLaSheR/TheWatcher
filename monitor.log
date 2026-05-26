@@ -4991,3 +4991,209 @@
 [2026-05-26 09:59:49 UTC] [INFO] ============================================================
 [2026-05-26 09:59:49 UTC] [INFO] Completato — 27 nuovi, 4 aggiornati, 0 errori
 [2026-05-26 09:59:49 UTC] [INFO] ============================================================
+[2026-05-26 15:36:49 UTC] [INFO] ============================================================
+[2026-05-26 15:36:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-26 15:36:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-26 15:36:49 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-26 15:36:49 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-26 15:36:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-26 15:36:49 UTC] [INFO] ============================================================
+[2026-05-26 15:36:49 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-26 15:36:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-26 15:36:52 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-26 15:36:52 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-26 15:36:52 UTC] [NEW]   🆕 📦 ArtfulDodger10/sysmon-mirage-v2
+     ⭐ 0  🗣 C  📅 2026-05-26
+     🔗 https://github.com/ArtfulDodger10/sysmon-mirage-v2
+     📝 Adversary emulation and detection engineering research for T1055 process injecti…
+     🏷  —
+[2026-05-26 15:36:52 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-26 15:36:52 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-26 15:36:52 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-26 15:36:55 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 shaheedazaad/auto-zcurve
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/shaheedazaad/auto-zcurve
+     📝 Automatically extract and z-curve effects from PDFs
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 liliyke/miccmac-zt-readiness
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/liliyke/miccmac-zt-readiness
+     📝 Open-source toolkit for assessing device readiness for Zero Trust Architecture, …
+     🏷  cybersecurity, defensible-architecture, device-readiness, dfir, miccmac, security-assessment, zero-trust
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 nityansh10/nexus-shield-threat-intelligence
+     ⭐ 0  🗣 JavaScript  📅 2026-05-26
+     🔗 https://github.com/nityansh10/nexus-shield-threat-intelligence
+     📝 Hybrid fine-tuned SLM adapter weights + NIST RAG policy engine for real-time cyb…
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 iotasigmabot-dev/Lumina---TID
+     ⭐ 0  🗣 Shell  📅 2026-05-26
+     🔗 https://github.com/iotasigmabot-dev/Lumina---TID
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 kamarkamsib/Peurise
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/kamarkamsib/Peurise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 Alexrshut/forensic_edr-agent-v3.1-server
+     ⭐ 0  🗣 PHP  📅 2026-05-26
+     🔗 https://github.com/Alexrshut/forensic_edr-agent-v3.1-server
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 schurerlab/pymacs
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/schurerlab/pymacs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 EmnaAllegui/C2-beacon-detection-using-RITA-
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/EmnaAllegui/C2-beacon-detection-using-RITA-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 3noP/warlog-spec
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/3noP/warlog-spec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 rainfantry/GeoDefend
+     ⭐ 0  🗣 PowerShell  📅 2026-05-26
+     🔗 https://github.com/rainfantry/GeoDefend
+     📝 Blue team mobile dashboard — React Native Expo app consuming Windows Defender LP…
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_30
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_30
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 druserx/geminus
+     ⭐ 0  🗣 C  📅 2026-05-26
+     🔗 https://github.com/druserx/geminus
+     📝 BLE MITM relay — clona o advertising do dispositivo e intercepta PDUs ATT em tem…
+     🏷  att-protocol, ble, bluetooth, bluez, c, hardware-hacking, mitm, pentest, relay, security-tools
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 vitalijus-soc/Reverse-Shell-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/vitalijus-soc/Reverse-Shell-Detection-Lab
+     📝 Meterpreter reverse shell via msfvenom, detection with Sysmon EID 1/3, Wazuh MIT…
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 druserx/nervus
+     ⭐ 0  🗣 C  📅 2026-05-26
+     🔗 https://github.com/druserx/nervus
+     📝 BLE GATT fuzzer — conecta via ATT/L2CAP e fuzz todas as caracteristicas com perm…
+     🏷  ble, bluetooth, bluez, c, fuzzer, gatt, hardware-hacking, iot-security, pentest, security-tools
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 JarthurLabs/Network-Traffic-Analysis-Suspicious-DNS
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/JarthurLabs/Network-Traffic-Analysis-Suspicious-DNS
+     📝 Traffic analysis lab reviewing suspicious DNS activity, possible beaconing behav…
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 NGGomes/TesteDeep5
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/NGGomes/TesteDeep5
+     📝 CISO Intelligence Dashboard — Automated Threat Clustering, Kill Chain Correlatio…
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 huuthanhvan3-svg/lacia-memory
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/huuthanhvan3-svg/lacia-memory
+     📝 Lacia Extended Memory — Knowledge base, patterns, decisions, and evolution engin…
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 Fatihmaull/ouroboros
+     ⭐ 1  🗣 C  📅 2026-05-26
+     🔗 https://github.com/Fatihmaull/ouroboros
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 shwethamk457/Car-Black-Box
+     ⭐ 0  🗣 C  📅 2026-05-26
+     🔗 https://github.com/shwethamk457/Car-Black-Box
+     📝 CAR BLACK BOX
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 TEJ119SOC/SOC-TRIAGE-PLAYBOOK
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/TEJ119SOC/SOC-TRIAGE-PLAYBOOK
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 Tobbyabk/github-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/Tobbyabk/github-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:55 UTC] [NEW]   🆕 📦 x4n-pentest/x4n-rs
+     ⭐ 1  🗣 C++  📅 2026-05-26
+     🔗 https://github.com/x4n-pentest/x4n-rs
+     📝 C++ FUD Reverse Shell
+     🏷  —
+[2026-05-26 15:36:55 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-26 15:36:55 UTC] [UPD]   📢 📦 12vethamithran/NOCTRA-AI-Autonomous-SOC-Platform
+     ⭐ 1  🗣 Python  📅 2026-05-21
+     🔗 https://github.com/12vethamithran/NOCTRA-AI-Autonomous-SOC-Platform
+     📝 NOCTRA AI — Browser-based SOC platform that ingests raw logs (CSV/JSON/syslog/EV…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-26 15:36:55 UTC] [UPD]   📢 📦 Peter-Kintu/bytgaurd
+     ⭐ 0  🗣 JavaScript  📅 2026-05-23
+     🔗 https://github.com/Peter-Kintu/bytgaurd
+     📝 bytgaurd
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-26 15:36:55 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-26 15:36:55 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-26 15:36:58 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-26 15:36:58 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-05-26 15:36:58 UTC] [NEW]   🆕 📦 Booda0119/ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-05-26
+     🔗 https://github.com/Booda0119/ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:58 UTC] [NEW]   🆕 📦 ameerpornillos/InfraGauntlet
+     ⭐ 1  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/ameerpornillos/InfraGauntlet
+     📝 InfraGauntlet is a Docker-compatible Linux infrastructure penetration-testing be…
+     🏷  —
+[2026-05-26 15:36:58 UTC] [NEW]   🆕 📦 sedat4ras/reconflow
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/sedat4ras/reconflow
+     📝 Single-file pentest & CTF reconnaissance cheat sheet — 28 tools, offline, no dep…
+     🏷  —
+[2026-05-26 15:36:58 UTC] [NEW]   🆕 📦 AzDevops143/cyberesecassign1
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/AzDevops143/cyberesecassign1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:58 UTC] [NEW]   🆕 📦 2740333519-coder/TrollInstallerXkaifa
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/2740333519-coder/TrollInstallerXkaifa
+     📝 A TrollStore installer for iOS 14.0 - 16.6.1
+     🏷  —
+[2026-05-26 15:36:58 UTC] [NEW]   🆕 📦 G25ait2026/cybersecurity
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/G25ait2026/cybersecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 15:36:58 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-26 15:36:58 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Shell  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-26 15:36:58 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (3gg)
+[2026-05-26 15:36:58 UTC] [UPD]   📢 📦 omar0fattah/privesc-commands-dictionary
+     ⭐ 1  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/omar0fattah/privesc-commands-dictionary
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-26 15:36:58 UTC] [UPD]   📢 📦 vepsala/colimander
+     ⭐ 0  🗣 Go  📅 2026-05-25
+     🔗 https://github.com/vepsala/colimander
+     📝 macOS-local agent orchestration on Colima with a credential-firewalling proxy
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-26 15:36:58 UTC] [INFO] ============================================================
+[2026-05-26 15:36:58 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
+[2026-05-26 15:36:58 UTC] [INFO] ============================================================
