@@ -4600,3 +4600,210 @@
 [2026-05-25 19:43:17 UTC] [INFO] ============================================================
 [2026-05-25 19:43:17 UTC] [INFO] Completato — 19 nuovi, 7 aggiornati, 0 errori
 [2026-05-25 19:43:17 UTC] [INFO] ============================================================
+[2026-05-26 03:44:20 UTC] [INFO] ============================================================
+[2026-05-26 03:44:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-26 03:44:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-26 03:44:20 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-26 03:44:20 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-26 03:44:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-26 03:44:20 UTC] [INFO] ============================================================
+[2026-05-26 03:44:20 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-26 03:44:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-26 03:44:21 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-26 03:44:21 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-26 03:44:21 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-26 03:44:21 UTC] [UPD]   📢 📦 pawangyawali-69/IntegrityMonitor
+     ⭐ 0  🗣 Rust  📅 2026-05-24
+     🔗 https://github.com/pawangyawali-69/IntegrityMonitor
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-26 03:44:21 UTC] [UPD]   📢 📦 ika-carve/dora-sample
+     ⭐ 0  🗣 PLpgSQL  📅 2026-05-25
+     🔗 https://github.com/ika-carve/dora-sample
+     📝 DORA Contract Intelligence - demo implementation on UiPath Automation Suite
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-26 03:44:21 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-26 03:44:21 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-26 03:44:24 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 Threathunter-debug/Enterprise-SOC-Investigation-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/Threathunter-debug/Enterprise-SOC-Investigation-Lab
+     📝 Enterprise SOC investigation workflows leveraging QRadar, CrowdStrike, Tanium, a…
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 rohitsalesforce132/LogAnalysis
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/rohitsalesforce132/LogAnalysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 Xermec/ebpf-hunter
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/Xermec/ebpf-hunter
+     📝 ebpf-hunter
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 forensicdave/exportEventLogs
+     ⭐ 0  🗣 Go  📅 2026-05-25
+     🔗 https://github.com/forensicdave/exportEventLogs
+     📝 Useful windows standalone binary to export Windows eventlogs - for forensicators…
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 YumanBlazer/SOAR-EDR-Incident-Response-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/YumanBlazer/SOAR-EDR-Incident-Response-Lab
+     📝 Automated Incident Response Lab using Tines (SOAR) + LimaCharlie (EDR) — detects…
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 p4ckets/HookScan
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/p4ckets/HookScan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 k09323/EDR-detection-test-SOP
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/k09323/EDR-detection-test-SOP
+     📝 EDR detection test SOP
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 ernestablankson-beep/Risk-Acceptance-Governance
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/ernestablankson-beep/Risk-Acceptance-Governance
+     📝 A practical cybersecurity risk acceptance governance framework designed to help …
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 ernestablankson-beep/Cybersecurity-Risk-Metrics-Program
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/ernestablankson-beep/Cybersecurity-Risk-Metrics-Program
+     📝 An end-to-end Cybersecurity Risk Metrics Program designed for security leaders w…
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 multidimensionalinteractive/soc-analyst-labs
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/multidimensionalinteractive/soc-analyst-labs
+     📝 SOC Analyst hands-on labs and portfolio writeups
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 BonAcqui-LLC/exomcp
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/BonAcqui-LLC/exomcp
+     📝 ExoMCP — AI Tool-Call Security & Behavioral Integrity. Independent monitoring la…
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 neuregex/nodeguard
+     ⭐ 1  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/neuregex/nodeguard
+     📝 Security scanner for ComfyUI custom nodes and node-based workflow plugins. Stati…
+     🏷  cli, comfyui, diffusion-models, malware-detection, ml-security, python, security, stable-diffusion, static-analysis, supply-chain-security
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 ebalogunGRC/enterprise-risk-register
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/ebalogunGRC/enterprise-risk-register
+     📝 Enterprise risk register built using NIST RMF and ISO 31000. Covers 15 risks acr…
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 alidakwar/SOC-Analyst-Investigation-Writeups
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/alidakwar/SOC-Analyst-Investigation-Writeups
+     📝 SOC analyst investigation writeups and blue team labs focused on incident respon…
+     🏷  blue-team, cybersecurity, event-logs, incident-response, letsdefend, mitre-attack, security-analysis, siem, soc, soc-analyst, splunk, threat-detection, threat-hunting, wireshark
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 Nightmare-EclipseEx/UnDefend
+     ⭐ 0  🗣 C++  📅 2026-05-26
+     🔗 https://github.com/Nightmare-EclipseEx/UnDefend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 3682699784/uqEDRLgNsR
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/3682699784/uqEDRLgNsR
+     📝 【Python计算机毕业设计分享】基于Python医疗预约管理系统，MySQL Python开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 Samarjeet-Singhh/SOC
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/Samarjeet-Singhh/SOC
+     📝 Cyber Defense & SOC analyst learning journey. TryHackMe, HackTheBox, etc; Cyber …
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 sanchezbelitocalet-ctrl/PA2-Calet-Edriam-Sanchez-Belito
+     ⭐ 0  🗣 HTML  📅 2026-05-25
+     🔗 https://github.com/sanchezbelitocalet-ctrl/PA2-Calet-Edriam-Sanchez-Belito
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 devansh-tadhani/SOC-Level-1-TryHackMe
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/devansh-tadhani/SOC-Level-1-TryHackMe
+     📝 SOC Analyst Training
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 jessefmoore/offensive-claude-code
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/jessefmoore/offensive-claude-code
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 eakraj10/endpoint-telemetry-agent
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/eakraj10/endpoint-telemetry-agent
+     📝 Study-scale EDR: host agent ships process/file/network telemetry to a collector …
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 hectorx1777/ClickForOnceHalfClass
+     ⭐ 0  🗣 C#  📅 2026-05-25
+     🔗 https://github.com/hectorx1777/ClickForOnceHalfClass
+     📝 A Half Evasive Class for Clickonce Payloads
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 marez8505/spyguard
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/marez8505/spyguard
+     📝 Cross-platform local anti-spyware scanner for Windows, macOS, and Linux
+     🏷  —
+[2026-05-26 03:44:24 UTC] [NEW]   🆕 📦 hiteshus816/Metasploit-SMB-Exploitation-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/hiteshus816/Metasploit-SMB-Exploitation-Lab
+     📝 Full attack simulation using Metasploit: SMB exploitation, post-exploitation, an…
+     🏷  client-side-attack-simulation, credential-based-smb-attack, file-transfer-and-persistence, metasploit-exploitation, meterpreter-post-exploitation, msfvenom-payload-generation, netcat-port-forwarding, network-pivoting-techniques, reverse-shell-and-payload-execution, smb-pivoting-and-lateral-movement, windows-event-log-analysis, windows-privilege-escalation-validation
+[2026-05-26 03:44:24 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-26 03:44:24 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-26 03:44:24 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-26 03:44:27 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-26 03:44:27 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-05-26 03:44:27 UTC] [NEW]   🆕 📦 HANSAJA122/OS-KERNEL-SECURITY-TESTING-PLATFORM
+     ⭐ 0  🗣 JavaScript  📅 2026-05-26
+     🔗 https://github.com/HANSAJA122/OS-KERNEL-SECURITY-TESTING-PLATFORM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 03:44:27 UTC] [NEW]   🆕 📦 SeerBench/hermes-multiuser-web-service
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/SeerBench/hermes-multiuser-web-service
+     📝 Multi-user web chat service built on top of NousResearch/hermes-agent. Per-user …
+     🏷  —
+[2026-05-26 03:44:27 UTC] [NEW]   🆕 📦 ppfuark/cyber_roadmap
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/ppfuark/cyber_roadmap
+     📝 sudo rm -rf  *
+     🏷  —
+[2026-05-26 03:44:27 UTC] [NEW]   🆕 📦 jessefmoore/offensive-claude-code
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/jessefmoore/offensive-claude-code
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-26 03:44:27 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-05-26 03:44:27 UTC] [UPD]   📢 📦 Efo-YU/yu-song-museum
+     ⭐ 0  🗣 Shell  📅 2026-05-23
+     🔗 https://github.com/Efo-YU/yu-song-museum
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-26 03:44:27 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (3gg)
+[2026-05-26 03:44:27 UTC] [UPD]   📢 📦 NotionAlpha/gauntlet
+     ⭐ 0  🗣 Python  📅 2026-05-22
+     🔗 https://github.com/NotionAlpha/gauntlet
+     📝 Integration suite for Agentic AI capabilities
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-26 03:44:27 UTC] [UPD]   📢 📦 Wigglez-sudo/The-PS5-12.40-Master-Guide-Stability-Jailbreak-Guide
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/Wigglez-sudo/The-PS5-12.40-Master-Guide-Stability-Jailbreak-Guide
+     📝 This guide provides a robust path for firmware 12.40 users to achieve a stable j…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-26 03:44:27 UTC] [UPD]   📢 📦 tylahibeb/umtx2
+     ⭐ 0  🗣 JavaScript  📅 2026-05-24
+     🔗 https://github.com/tylahibeb/umtx2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-26 03:44:27 UTC] [INFO] ============================================================
+[2026-05-26 03:44:27 UTC] [INFO] Completato — 28 nuovi, 7 aggiornati, 0 errori
+[2026-05-26 03:44:27 UTC] [INFO] ============================================================
