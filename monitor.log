@@ -5695,3 +5695,170 @@
 [2026-05-27 09:55:25 UTC] [INFO] ============================================================
 [2026-05-27 09:55:25 UTC] [INFO] Completato — 14 nuovi, 8 aggiornati, 0 errori
 [2026-05-27 09:55:25 UTC] [INFO] ============================================================
+[2026-05-27 15:49:16 UTC] [INFO] ============================================================
+[2026-05-27 15:49:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-27 15:49:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-27 15:49:16 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-27 15:49:16 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-27 15:49:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-27 15:49:16 UTC] [INFO] ============================================================
+[2026-05-27 15:49:16 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-27 15:49:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-27 15:49:19 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 15:49:19 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-27 15:49:19 UTC] [NEW]   🆕 📦 mein-0/cve-2026-0828
+     ⭐ 0  🗣 C  📅 2026-05-27
+     🔗 https://github.com/mein-0/cve-2026-0828
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:19 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-27 15:49:19 UTC] [UPD]   📢 📦 kwpwn/mtgt
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kwpwn/mtgt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-27 15:49:19 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-27 15:49:19 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-27 15:49:22 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 conwilso92/cloudplus-study-guide
+     ⭐ 0  🗣 HTML  📅 2026-05-27
+     🔗 https://github.com/conwilso92/cloudplus-study-guide
+     📝 About Comprehensive study guide for CompTIA Cloud+ (CV0-004) — synthesized from …
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 mein-0/cve-2026-0828
+     ⭐ 0  🗣 C  📅 2026-05-27
+     🔗 https://github.com/mein-0/cve-2026-0828
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 cybermukesh/ai-soc-soar-mvp
+     ⭐ 0  🗣 HTML  📅 2026-05-27
+     🔗 https://github.com/cybermukesh/ai-soc-soar-mvp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 mycelos-ai/bumblebee-skill
+     ⭐ 0  🗣 Shell  📅 2026-05-27
+     🔗 https://github.com/mycelos-ai/bumblebee-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 cybersecwoman/Kiro-BugHunter
+     ⭐ 1  🗣 Shell  📅 2026-05-27
+     🔗 https://github.com/cybersecwoman/Kiro-BugHunter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 sai-teja-girimaji/soc-blind-spot-auditor
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/sai-teja-girimaji/soc-blind-spot-auditor
+     📝 Free CLI tool to find MITRE ATT&CK detection gaps caused by missing SIEM log sou…
+     🏷  blue-team, cli, cybersecurity, detection-engineering, mitre-attack, python, siem, soc, threat-detection
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 georgearun1585/Brute-Force-Detection-Incident-Response-Microsoft-Sentinel-MDE-
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/georgearun1585/Brute-Force-Detection-Incident-Response-Microsoft-Sentinel-MDE-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 PratikT33/Threat-Intelligence-Aggregator
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/PratikT33/Threat-Intelligence-Aggregator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 baktiarnurlanuulu85-coder/MetalForge
+     ⭐ 2  🗣 Swift  📅 2026-05-26
+     🔗 https://github.com/baktiarnurlanuulu85-coder/MetalForge
+     📝 High-performance, zero-copy video processing engine for iOS & macOS. Built with …
+     🏷  3d-lut, avfoundation, compute-shaders, gpu-pipeline, hdr-video, ios, macos, metal, swift-package-manager, swift6, video-processing
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 2233admin/reverse-skill-evolver
+     ⭐ 2  🗣 PowerShell  📅 2026-05-27
+     🔗 https://github.com/2233admin/reverse-skill-evolver
+     📝 Self-evolving reverse/security skill routing pack with GOAL contracts, capabilit…
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 AbrahamOP/AbrahamOP
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/AbrahamOP/AbrahamOP
+     📝 GitHub profile README
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 sharmaharish/edrader
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/sharmaharish/edrader
+     📝 Educational trading application
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 The-SNEK-Initiative/SNEK_Equinox
+     ⭐ 1  🗣 C++  📅 2026-05-27
+     🔗 https://github.com/The-SNEK-Initiative/SNEK_Equinox
+     📝 Repository hosting a hypothetical EDR Spoofer, as discovered originally by Night…
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 CYPHERLYNX/SOAR-EDR-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/CYPHERLYNX/SOAR-EDR-Playbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 stonyango294/splunk-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/stonyango294/splunk-soc-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 AlDawli/IOC-Harvester
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/AlDawli/IOC-Harvester
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [NEW]   🆕 📦 Looprxone/Perplexity-Bumblebee-
+     ⭐ 0  🗣 Go  📅 2026-05-27
+     🔗 https://github.com/Looprxone/Perplexity-Bumblebee-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:22 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-27 15:49:22 UTC] [UPD]   📢 📦 neil9bailey/diiac-patchforge
+     ⭐ 0  🗣 JavaScript  📅 2026-05-26
+     🔗 https://github.com/neil9bailey/diiac-patchforge
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-27 15:49:22 UTC] [UPD]   📢 📦 RedteamNotes/SharpADIDNS
+     ⭐ 3  🗣 C#  📅 2026-05-25
+     🔗 https://github.com/RedteamNotes/SharpADIDNS
+     📝 A C# CLI tool for reading and modifying AD-Integrated DNS records over LDAP, bui…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-27 15:49:22 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-27 15:49:22 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-27 15:49:25 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 15:49:25 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-27 15:49:25 UTC] [NEW]   🆕 📦 gapilongo/pentest-copilot
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/gapilongo/pentest-copilot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 15:49:25 UTC] [NEW]   🆕 📦 2233admin/reverse-skill-evolver
+     ⭐ 2  🗣 PowerShell  📅 2026-05-27
+     🔗 https://github.com/2233admin/reverse-skill-evolver
+     📝 Self-evolving reverse/security skill routing pack with GOAL contracts, capabilit…
+     🏷  —
+[2026-05-27 15:49:25 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-27 15:49:25 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Shell  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-27 15:49:25 UTC] [UPD]   📢 📦 sedat4ras/reconflow
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/sedat4ras/reconflow
+     📝 Single-file pentest & CTF reconnaissance cheat sheet — 28 tools, offline, no dep…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-27 15:49:25 UTC] [UPD]   📢 📦 kwpwn/mtgt
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kwpwn/mtgt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-27 15:49:25 UTC] [UPD]   📢 📦 powerman/sandbox-ai-dev
+     ⭐ 0  🗣 Shell  📅 2026-05-26
+     🔗 https://github.com/powerman/sandbox-ai-dev
+     📝 Secure AND convenient sandbox for local development with AI Agents on Linux
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 15:49:25 UTC] [INFO] ============================================================
+[2026-05-27 15:49:25 UTC] [INFO] Completato — 20 nuovi, 7 aggiornati, 0 errori
+[2026-05-27 15:49:25 UTC] [INFO] ============================================================
