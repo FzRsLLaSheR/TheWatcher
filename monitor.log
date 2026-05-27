@@ -5552,3 +5552,146 @@
 [2026-05-27 04:00:32 UTC] [INFO] ============================================================
 [2026-05-27 04:00:32 UTC] [INFO] Completato — 16 nuovi, 8 aggiornati, 0 errori
 [2026-05-27 04:00:32 UTC] [INFO] ============================================================
+[2026-05-27 09:55:15 UTC] [INFO] ============================================================
+[2026-05-27 09:55:15 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-27 09:55:15 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-27 09:55:15 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-27 09:55:15 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-27 09:55:15 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-27 09:55:15 UTC] [INFO] ============================================================
+[2026-05-27 09:55:15 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-27 09:55:15 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-27 09:55:18 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 09:55:18 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-27 09:55:18 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-27 09:55:18 UTC] [UPD]   📢 📦 pawangyawali-69/IntegrityMonitor
+     ⭐ 0  🗣 Rust  📅 2026-05-24
+     🔗 https://github.com/pawangyawali-69/IntegrityMonitor
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-27 09:55:18 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-27 09:55:18 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-27 09:55:22 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 OB2UKT/Malware-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/OB2UKT/Malware-Project
+     📝 Đây là một đồ án của môn tấn công mạng, repo này nhầm mục đích ghi lại những ngh…
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 5yn7hp0w3r/LOLBAS-RUSSIAN
+     ⭐ 1  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/5yn7hp0w3r/LOLBAS-RUSSIAN
+     📝 Русскоязычная адаптация проекта LOLBAS: 400+ техник «Living off the Land» в Exce…
+     🏷  blueteam, dfir, living-off-the-land, lolbas, lolbas-russian, lolbins, lolscripts, purpleteam, redteam
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 Tural00/alert-triage-engine
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/Tural00/alert-triage-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 0xsyr0/Security-Awareness-Calculator
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/0xsyr0/Security-Awareness-Calculator
+     📝 Security awareness tooling demonstrating VSCode extension abuse, reverse shell d…
+     🏷  ai, ai-generated, c2, command-and-control, obfuscation, penetration-testing, pentesting, red-team, red-teaming, reverse-shell, security-awareness, security-awareness-training, token-theft, vscode, vscode-extension
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 Abbayipyip/soc-analyst-homelab
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/Abbayipyip/soc-analyst-homelab
+     📝 SOC Analyst Home Lab - Attack Simulation & Detection Engineering with LimaCharli…
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 PranayP21/SOC-Home-Tool
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/PranayP21/SOC-Home-Tool
+     📝 Pi E-Ink Command Centre is a Raspberry Pi dashboard for a 2.13" e-ink display. I…
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 Mohitkumar1322/ShadowOne-EDR
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/Mohitkumar1322/ShadowOne-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 sunilselvaraj1/threat-hunting-apt-intrusion-mde
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/sunilselvaraj1/threat-hunting-apt-intrusion-mde
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 varsha-ky12/Browser-Detection-and-Response
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/varsha-ky12/Browser-Detection-and-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 Arizonal8/Lumma-Steeler-Project
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/Arizonal8/Lumma-Steeler-Project
+     📝 **Lumma Stealer CTI investigation: PCAP forensic analysis, MITRE ATT&CK mapping …
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 jeffrey1205/Anthropic-Cybersecurity-Skills-cn
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/jeffrey1205/Anthropic-Cybersecurity-Skills-cn
+     📝 Anthropic-Cybersecurity-Skills 中文翻译
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 aakash0780/enterprise_soc
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/aakash0780/enterprise_soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 09:55:22 UTC] [NEW]   🆕 📦 ha7son/Core-Null-Framework
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/ha7son/Core-Null-Framework
+     📝 Advanced low-level subsystems, cryptographic obfuscation modules, and network au…
+     🏷  —
+[2026-05-27 09:55:22 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-27 09:55:22 UTC] [UPD]   📢 📦 yellowCornSalad/RFP-Targeter
+     ⭐ 1  🗣 Python  📅 2026-05-20
+     🔗 https://github.com/yellowCornSalad/RFP-Targeter
+     📝 엔키에 맞는 제안서 자동 탐색
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-05-27 09:55:22 UTC] [UPD]   📢 📦 RedteamNotes/SharpADIDNS
+     ⭐ 1  🗣 C#  📅 2026-05-25
+     🔗 https://github.com/RedteamNotes/SharpADIDNS
+     📝 A C# CLI tool for reading and modifying AD-Integrated DNS records over LDAP, bui…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-27 09:55:22 UTC] [UPD]   📢 📦 neil9bailey/diiac-patchforge
+     ⭐ 0  🗣 JavaScript  📅 2026-05-26
+     🔗 https://github.com/neil9bailey/diiac-patchforge
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 09:55:22 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-27 09:55:22 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-27 09:55:25 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 09:55:25 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-27 09:55:25 UTC] [NEW]   🆕 📦 nikita22panwar/THM-Creative
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/nikita22panwar/THM-Creative
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 09:55:25 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-27 09:55:25 UTC] [UPD]   📢 📦 sedat4ras/reconflow
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/sedat4ras/reconflow
+     📝 Single-file pentest & CTF reconnaissance cheat sheet — 28 tools, offline, no dep…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 09:55:25 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Shell  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-27 09:55:25 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (4gg)
+[2026-05-27 09:55:25 UTC] [UPD]   📢 📦 AzDevops143/cyberesecassign1
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/AzDevops143/cyberesecassign1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 09:55:25 UTC] [INFO] ============================================================
+[2026-05-27 09:55:25 UTC] [INFO] Completato — 14 nuovi, 8 aggiornati, 0 errori
+[2026-05-27 09:55:25 UTC] [INFO] ============================================================
