@@ -5399,3 +5399,156 @@
 [2026-05-26 20:11:07 UTC] [INFO] ============================================================
 [2026-05-26 20:11:07 UTC] [INFO] Completato — 21 nuovi, 12 aggiornati, 0 errori
 [2026-05-26 20:11:07 UTC] [INFO] ============================================================
+[2026-05-27 04:00:24 UTC] [INFO] ============================================================
+[2026-05-27 04:00:24 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-27 04:00:24 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-27 04:00:24 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-27 04:00:24 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-27 04:00:24 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-27 04:00:24 UTC] [INFO] ============================================================
+[2026-05-27 04:00:24 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-27 04:00:24 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-27 04:00:26 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 04:00:26 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-27 04:00:26 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-27 04:00:26 UTC] [UPD]   📢 📦 kwpwn/mtgt
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kwpwn/mtgt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-27 04:00:26 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-27 04:00:26 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-27 04:00:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 ericaghdz/threat-hunting-scenario-publicly-exposed-vm
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/ericaghdz/threat-hunting-scenario-publicly-exposed-vm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 orfevre-34/linetracer-omni
+     ⭐ 0  🗣 C++  📅 2026-05-27
+     🔗 https://github.com/orfevre-34/linetracer-omni
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 petrolal/ble_load_test
+     ⭐ 0  🗣 C  📅 2026-05-27
+     🔗 https://github.com/petrolal/ble_load_test
+     📝 BLE tool to test the load with multiple packages ble
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 Samuelaliu/AWS-Security-Operations-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/Samuelaliu/AWS-Security-Operations-Home-Lab
+     📝 End-to-end cloud security operations environment built on AWS free tier,  coveri…
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 northstar-drive/edr
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/northstar-drive/edr
+     📝 Browser-rendered markdown reader with lifecycle awareness, change prediction, an…
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 millieealtman02/millieealtman02
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/millieealtman02/millieealtman02
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 bejsovec/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/bejsovec/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 dcambronero/soc-copilot-agentic-ai-kong-lakera-langgraph
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/dcambronero/soc-copilot-agentic-ai-kong-lakera-langgraph
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 p3ta00/p3ta-tricks-offline-no-binaries
+     ⭐ 0  🗣 CSS  📅 2026-05-26
+     🔗 https://github.com/p3ta00/p3ta-tricks-offline-no-binaries
+     📝 p3ta-tricks-offline with binaries/ stripped — safe for EDR-monitored test enviro…
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 anaPerezGhiglia/repro-hh-eip712-include-scope
+     ⭐ 0  🗣 Solidity  📅 2026-05-26
+     🔗 https://github.com/anaPerezGhiglia/repro-hh-eip712-include-scope
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 ocanaChris2/KernelGuard
+     ⭐ 0  🗣 C  📅 2026-05-26
+     🔗 https://github.com/ocanaChris2/KernelGuard
+     📝 KernelGuard is a Windows 11 x64 Ring 0 driver that detects and mitigates side-ch…
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 MaximilianArns/MaxiPacker
+     ⭐ 0  🗣 C++  📅 2026-05-26
+     🔗 https://github.com/MaximilianArns/MaxiPacker
+     📝 Offensive Packer Development
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 adridlug/VBSStager
+     ⭐ 0  🗣 VBScript  📅 2026-05-26
+     🔗 https://github.com/adridlug/VBSStager
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 x-lga/live-security-operations-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-26
+     🔗 https://github.com/x-lga/live-security-operations-lab
+     📝 Fully operational open-source SOC - Wazuh, Suricata, Zeek, TheHive, OpenVAS,  an…
+     🏷  —
+[2026-05-27 04:00:29 UTC] [NEW]   🆕 📦 dhawaldesai/-pypi-supply-chain-hunter
+     ⭐ 0  🗣 Shell  📅 2026-05-26
+     🔗 https://github.com/dhawaldesai/-pypi-supply-chain-hunter
+     📝 Org-wide GitHub hunter for trojanized PyPI packages - scans manifests,  lockfile…
+     🏷  —
+[2026-05-27 04:00:29 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-27 04:00:29 UTC] [UPD]   📢 📦 RedteamNotes/SharpADIDNS
+     ⭐ 1  🗣 C#  📅 2026-05-25
+     🔗 https://github.com/RedteamNotes/SharpADIDNS
+     📝 C# command-line tool for reading and modifying Active Directory-Integrated DNS (…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-27 04:00:29 UTC] [UPD]   📢 📦 neil9bailey/diiac-patchforge
+     ⭐ 0  🗣 JavaScript  📅 2026-05-26
+     🔗 https://github.com/neil9bailey/diiac-patchforge
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 04:00:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-27 04:00:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-27 04:00:32 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 04:00:32 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-27 04:00:32 UTC] [NEW]   🆕 📦 yayalingo/kali-pentest-agent
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/yayalingo/kali-pentest-agent
+     📝 AI-powered penetration testing agent for Kali Linux, built on Hermes Agent archi…
+     🏷  —
+[2026-05-27 04:00:32 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-05-27 04:00:32 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (4gg)
+[2026-05-27 04:00:32 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Shell  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-27 04:00:32 UTC] [UPD]   📢 📦 mikey820/phantom-tweaks
+     ⭐ 0  🗣 Objective-C  📅 2026-05-26
+     🔗 https://github.com/mikey820/phantom-tweaks
+     📝 iOS SpringBoard tweaks via DarkSword kernel exploit (iOS 17–18.7.6)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 04:00:32 UTC] [UPD]   📢 📦 kwpwn/mtgt
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kwpwn/mtgt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-27 04:00:32 UTC] [UPD]   📢 📦 sedat4ras/reconflow
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/sedat4ras/reconflow
+     📝 Single-file pentest & CTF reconnaissance cheat sheet — 28 tools, offline, no dep…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 04:00:32 UTC] [INFO] ============================================================
+[2026-05-27 04:00:32 UTC] [INFO] Completato — 16 nuovi, 8 aggiornati, 0 errori
+[2026-05-27 04:00:32 UTC] [INFO] ============================================================
