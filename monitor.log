@@ -5862,3 +5862,150 @@
 [2026-05-27 15:49:25 UTC] [INFO] ============================================================
 [2026-05-27 15:49:25 UTC] [INFO] Completato — 20 nuovi, 7 aggiornati, 0 errori
 [2026-05-27 15:49:25 UTC] [INFO] ============================================================
+[2026-05-27 20:20:55 UTC] [INFO] ============================================================
+[2026-05-27 20:20:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-27 20:20:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-27 20:20:55 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-27 20:20:55 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-27 20:20:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-27 20:20:55 UTC] [INFO] ============================================================
+[2026-05-27 20:20:55 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-27 20:20:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-27 20:20:57 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 20:20:57 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-27 20:20:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-27 20:20:57 UTC] [UPD]   📢 📦 mein-0/cve-2026-0828
+     ⭐ 0  🗣 C  📅 2026-05-27
+     🔗 https://github.com/mein-0/cve-2026-0828
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 20:20:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-27 20:20:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-27 20:21:02 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 philipp-volgger/bluez-irk-extractor
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/philipp-volgger/bluez-irk-extractor
+     📝 IRK extractor for Home Assistant Bermuda / Private BLE Device, using a Linux Blu…
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 MSDLA/soc-platform-integrated
+     ⭐ 0  🗣 Makefile  📅 2026-05-27
+     🔗 https://github.com/MSDLA/soc-platform-integrated
+     📝 Professional SOC platform with Security Onion, Wazuh & ISO/IEC 2700
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 frank26080115/thefly-framework-arduinoespressif32-libs
+     ⭐ 0  🗣 C  📅 2026-05-27
+     🔗 https://github.com/frank26080115/thefly-framework-arduinoespressif32-libs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 Mosec2525/learn-soc-with-me-lab-04-new-local-admin-user
+     ⭐ 0  🗣 JavaScript  📅 2026-05-27
+     🔗 https://github.com/Mosec2525/learn-soc-with-me-lab-04-new-local-admin-user
+     📝 Learn SOC With Me Lab 04: Windows local admin account creation triage lab with s…
+     🏷  blue-team, cybersecurity, detection-engineering, mitre-attack, soc, windows-security
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 nobleatele/swiftsend
+     ⭐ 0  🗣 TypeScript  📅 2026-05-27
+     🔗 https://github.com/nobleatele/swiftsend
+     📝 Open-source multi-tenant transactional email platform. Features a modern Next.js…
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 chandrapati/csw-logs-check
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/chandrapati/csw-logs-check
+     📝 Cursor Agent Skill: analyze Cisco Secure Workload (CSW) agent diagnostic log bun…
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 MacWarriorrr/EDR_Ganzenbord
+     ⭐ 0  🗣 TypeScript  📅 2026-05-27
+     🔗 https://github.com/MacWarriorrr/EDR_Ganzenbord
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 chins-xing/SSAM
+     ⭐ 0  🗣 Go  📅 2026-05-27
+     🔗 https://github.com/chins-xing/SSAM
+     📝 SSAM Security Scoring & Acceptability Model — 安全风险求值语言运行时
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 Mosec2525/learn-soc-with-me-lab-02-suspicious-powershell
+     ⭐ 0  🗣 JavaScript  📅 2026-05-27
+     🔗 https://github.com/Mosec2525/learn-soc-with-me-lab-02-suspicious-powershell
+     📝 Learn SOC With Me Lab 02: suspicious PowerShell endpoint triage lab with synthet…
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 ms-pabloar/Azure-Tenant-Assessment
+     ⭐ 0  🗣 PowerShell  📅 2026-05-27
+     🔗 https://github.com/ms-pabloar/Azure-Tenant-Assessment
+     📝 Automated Azure tenant-wide analysis aligned with the Microsoft Azure Well-Archi…
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 Chiefff-Kiefff/argus-agent
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/Chiefff-Kiefff/argus-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 svaughan2005/svaughan_SQ_W3
+     ⭐ 0  🗣 JavaScript  📅 2026-05-27
+     🔗 https://github.com/svaughan2005/svaughan_SQ_W3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 DeveloperSatya119/eDrushti_Exam-Public
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/DeveloperSatya119/eDrushti_Exam-Public
+     📝 eDrushti_Exam-Public
+     🏷  —
+[2026-05-27 20:21:02 UTC] [NEW]   🆕 📦 OB2UKT/Research-and-Deployment-of-EDR
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/OB2UKT/Research-and-Deployment-of-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-27 20:21:02 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-27 20:21:02 UTC] [UPD]   📢 📦 mein-0/cve-2026-0828
+     ⭐ 0  🗣 C  📅 2026-05-27
+     🔗 https://github.com/mein-0/cve-2026-0828
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 20:21:02 UTC] [UPD]   📢 📦 0xsyr0/Security-Awareness-Calculator
+     ⭐ 1  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/0xsyr0/Security-Awareness-Calculator
+     📝 Security awareness tooling demonstrating VSCode extension abuse, reverse shell d…
+     🏷  ai, ai-generated, c2, command-and-control, obfuscation, penetration-testing, pentesting, red-team, red-teaming, reverse-shell, security-awareness, security-awareness-training, token-theft, vscode, vscode-extension
+     🔄 Motivo: repo recente (0gg)
+[2026-05-27 20:21:02 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-27 20:21:02 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-27 20:21:06 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-27 20:21:06 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-27 20:21:06 UTC] [NEW]   🆕 📦 mothanae/dragon-legion
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/mothanae/dragon-legion
+     📝 Dragon Legion — Cross-Platform Universal Mobile Penetration Testing Platform. Th…
+     🏷  —
+[2026-05-27 20:21:06 UTC] [NEW]   🆕 📦 3xecutablefile/opencode-rev-forensics
+     ⭐ 0  🗣 Java  📅 2026-05-27
+     🔗 https://github.com/3xecutablefile/opencode-rev-forensics
+     📝 opencode config: reversing & forensics skills, no Docker MCPs
+     🏷  —
+[2026-05-27 20:21:06 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-27 20:21:06 UTC] [UPD]   📢 📦 clogan9019-dotcom/controller
+     ⭐ 3  🗣 Objective-C  📅 2026-05-22
+     🔗 https://github.com/clogan9019-dotcom/controller
+     📝 iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-27 20:21:06 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (4gg)
+[2026-05-27 20:21:06 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Shell  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-27 20:21:06 UTC] [UPD]   📢 📦 powerman/sandbox-ai-dev
+     ⭐ 0  🗣 Shell  📅 2026-05-26
+     🔗 https://github.com/powerman/sandbox-ai-dev
+     📝 Secure AND convenient sandbox for local development with AI Agents on Linux
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-27 20:21:06 UTC] [INFO] ============================================================
+[2026-05-27 20:21:06 UTC] [INFO] Completato — 16 nuovi, 7 aggiornati, 0 errori
+[2026-05-27 20:21:06 UTC] [INFO] ============================================================
