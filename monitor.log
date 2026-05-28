@@ -6009,3 +6009,194 @@
 [2026-05-27 20:21:06 UTC] [INFO] ============================================================
 [2026-05-27 20:21:06 UTC] [INFO] Completato — 16 nuovi, 7 aggiornati, 0 errori
 [2026-05-27 20:21:06 UTC] [INFO] ============================================================
+[2026-05-28 03:49:25 UTC] [INFO] ============================================================
+[2026-05-28 03:49:25 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-28 03:49:25 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-28 03:49:25 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-28 03:49:25 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-28 03:49:25 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-28 03:49:25 UTC] [INFO] ============================================================
+[2026-05-28 03:49:25 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-28 03:49:25 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-28 03:49:26 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-28 03:49:26 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-28 03:49:26 UTC] [NEW]   🆕 📦 GrijalvoMarcoLaboral/GrijalvoMarcoLaboral
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/GrijalvoMarcoLaboral/GrijalvoMarcoLaboral
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:26 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-28 03:49:26 UTC] [UPD]   📢 📦 kwpwn/mtgt
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kwpwn/mtgt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-28 03:49:26 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-28 03:49:26 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-28 03:49:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 CodeGuardian21/threat-hunt-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/CodeGuardian21/threat-hunt-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 cyncate2000/Action1_EDR
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/cyncate2000/Action1_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 sanguoshashuhsndajiangjun/shuize
+     ⭐ 2  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/sanguoshashuhsndajiangjun/shuize
+     📝 水泽资产探测
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 toddupshawdevops-design/SOC_Threat_Detection
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/toddupshawdevops-design/SOC_Threat_Detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 dodge107/CiscoPublicDataSets
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/dodge107/CiscoPublicDataSets
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 CesarSann/Plan-de-respuesta-a-incidente-de-ransomware-basado-en-NIST
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/CesarSann/Plan-de-respuesta-a-incidente-de-ransomware-basado-en-NIST
+     📝 Este ejercicio se centra en el desarrollo de un Plan de Respuesta a Incidente de…
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 ebrown-599te/edrnih
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/ebrown-599te/edrnih
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 matheussantsx/UltimateBR-SIEM-Rules
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/matheussantsx/UltimateBR-SIEM-Rules
+     📝 Rules based on real-world operations in SIEM
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 puck-security/puck-oss
+     ⭐ 1  🗣 Go  📅 2026-05-27
+     🔗 https://github.com/puck-security/puck-oss
+     📝 Autonomous, read-only endpoint investigation via MCP. Ask a question about your …
+     🏷  ai, ai-security, endpoint-security, golang, incident-response, mcp, rust, security, threat-hunting
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 VikramPadala/Threat_playbook-AI
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/VikramPadala/Threat_playbook-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 ryan-mf-eloy/Notchly
+     ⭐ 0  🗣 Swift  📅 2026-05-28
+     🔗 https://github.com/ryan-mf-eloy/Notchly
+     📝 Native macOS meeting assistant that lives near the MacBook notch.
+     🏷  ai, macos, meetings, notchly, swift, swiftui
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 theviolatorx/ESP32-com-Firmware-MicroPython
+     ⭐ 0  🗣 Batchfile  📅 2026-05-28
+     🔗 https://github.com/theviolatorx/ESP32-com-Firmware-MicroPython
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 negrete-8/wazuh-edr-deployment
+     ⭐ 1  🗣 Shell  📅 2026-05-27
+     🔗 https://github.com/negrete-8/wazuh-edr-deployment
+     📝 Wazuh EDR deployment guide - Docker single-node manager with Linux agents, activ…
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 acerafiasi/edrtbv
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/acerafiasi/edrtbv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 phyathai2-dental/edr-audit
+     ⭐ 0  🗣 HTML  📅 2026-05-27
+     🔗 https://github.com/phyathai2-dental/edr-audit
+     📝 ระบบตรวจสอบ EDR แผนกทันตกรรม รพ.พญาไท 2
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 dotkvr/Threat-Intel_CNABHunter
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/dotkvr/Threat-Intel_CNABHunter
+     📝 Análise Forense de Malware Brasileiro Direcionado ao Padrão Bancário (Nuikita).
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 rafatyazdani/security-issues-prioritization
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/rafatyazdani/security-issues-prioritization
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 dmntwilliams-art/incident-response-playbook
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/dmntwilliams-art/incident-response-playbook
+     📝 A practitioner-built Incident Response Playbook aligned with NIST SP 800-61. Cov…
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 Arondy/GOST-7.1-2003-CSL
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/Arondy/GOST-7.1-2003-CSL
+     📝 CSL-стиль для оформления библиографии по ГОСТ 7.1-2003 в Typst
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 GNV30/identification-C2
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/GNV30/identification-C2
+     📝 проект для выявления Command-and-Control каналов в зашифрованном сетевом трафике…
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 Habibskizo/NetSentinel
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/Habibskizo/NetSentinel
+     📝 AI-powered Network Intrusion Detection System with dual-model ML, automated SOAR…
+     🏷  bgp, cybersecurity, grafana, isolation-forest, kafka, machine-learning, network-security, nids, soar, xgboost
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 SreejithReji/cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/SreejithReji/cybersecurity-portfolio
+     📝 Cybersecurity portfolio — MSc Cyber Security | CEH | Security+. Python SOC tools…
+     🏷  blue-team, cybersecurity, kql, portfolio, python, security-analyst, soc, spl
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 rahutre/edrymg
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/rahutre/edrymg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 03:49:29 UTC] [NEW]   🆕 📦 praetorian-inc/reduce-golang-detections-skill
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/praetorian-inc/reduce-golang-detections-skill
+     📝 Claude Code skill for systematically reducing VirusTotal/EDR detection rates on …
+     🏷  —
+[2026-05-28 03:49:29 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-28 03:49:29 UTC] [UPD]   📢 📦 tyrenker/Pythia-CTI
+     ⭐ 0  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/tyrenker/Pythia-CTI
+     📝 Open-source cyber threat intelligence platform for tracking actors, TTPs, indica…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-28 03:49:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-28 03:49:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-28 03:49:30 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-28 03:49:30 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-28 03:49:30 UTC] [NEW]   🆕 📦 Sheri98/exploit-lab
+     ⭐ 0  🗣 C  📅 2026-05-27
+     🔗 https://github.com/Sheri98/exploit-lab
+     📝 Exploit Development Lab: 12 progressive classes from stack buffer overflow to Wi…
+     🏷  —
+[2026-05-28 03:49:30 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-28 03:49:30 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-28 03:49:30 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (5gg)
+[2026-05-28 03:49:30 UTC] [UPD]   📢 📦 kwpwn/mtgt
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kwpwn/mtgt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-28 03:49:30 UTC] [UPD]   📢 📦 gapilongo/pentest-copilot
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/gapilongo/pentest-copilot
+     📝 Self-hosted pentest copilot. Substrate-first (technique catalog + playbooks + RA…
+     🏷  active-directory, adcs, ai-security, cisa-kev, fastapi, llm, mitre-attack, offensive-security, operator-tooling, pentest, purple-team, qwen, rag, react, security, self-hosted, vllm
+     🔄 Motivo: repo recente (0gg)
+[2026-05-28 03:49:30 UTC] [INFO] ============================================================
+[2026-05-28 03:49:30 UTC] [INFO] Completato — 26 nuovi, 6 aggiornati, 0 errori
+[2026-05-28 03:49:30 UTC] [INFO] ============================================================
