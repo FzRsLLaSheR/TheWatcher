@@ -6376,3 +6376,211 @@
 [2026-05-28 10:05:47 UTC] [INFO] ============================================================
 [2026-05-28 10:05:47 UTC] [INFO] Completato — 23 nuovi, 6 aggiornati, 0 errori
 [2026-05-28 10:05:47 UTC] [INFO] ============================================================
+[2026-05-28 16:02:41 UTC] [INFO] ============================================================
+[2026-05-28 16:02:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-28 16:02:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-28 16:02:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-28 16:02:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-28 16:02:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-28 16:02:41 UTC] [INFO] ============================================================
+[2026-05-28 16:02:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-28 16:02:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-28 16:02:43 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-28 16:02:43 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-28 16:02:43 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-28 16:02:43 UTC] [UPD]   📢 📦 kwpwn/mtgt
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kwpwn/mtgt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-28 16:02:43 UTC] [UPD]   📢 📦 GrijalvoMarcoLaboral/GrijalvoMarcoLaboral
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/GrijalvoMarcoLaboral/GrijalvoMarcoLaboral
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-28 16:02:43 UTC] [UPD]   📢 📦 maximchinazesov-beep/BYOVD
+     ⭐ 0  🗣 C++  📅 2026-05-28
+     🔗 https://github.com/maximchinazesov-beep/BYOVD
+     📝 My reversed drivers pack (aka lessons)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-28 16:02:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-28 16:02:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-28 16:02:47 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 mohaShire12/SOC-Analyst-Home-Lab-
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/mohaShire12/SOC-Analyst-Home-Lab-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 JoseQuinteroDev/JoseQuinteroDev
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/JoseQuinteroDev/JoseQuinteroDev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 BraIke/project-cross-border-heavy-vehicle-forensics
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/BraIke/project-cross-border-heavy-vehicle-forensics
+     📝 Vehicle digital forensics reconstruction from an E01 image using Autopsy, GPS lo…
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 tomppi/airpods-control-probe
+     ⭐ 0  🗣 Java  📅 2026-05-28
+     🔗 https://github.com/tomppi/airpods-control-probe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 Haruhiyuki/vision-mcp
+     ⭐ 3  🗣 TypeScript  📅 2026-05-27
+     🔗 https://github.com/Haruhiyuki/vision-mcp
+     📝 Agent 高性能桌面软件交互框架。通过沉淀指令化操作方法，改善桌面 GUI 操作的性能与长期成本。 -- 包含 skill + MCP server + he…
+     🏷  accessibility, agent, ai-agent, anthropic, claude, claude-code, claude-skill, computer-use, desktop-automation, gui-automation, llm, macos, mcp, mcp-server, model-context-protocol, ocr, typescript, ui-automation, windows, workflow-automation
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 khushikandhela/behavioural-engine-
+     ⭐ 0  🗣 JavaScript  📅 2026-05-28
+     🔗 https://github.com/khushikandhela/behavioural-engine-
+     📝 made a behaviour ML engine for the logai xdr
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 frenesyyyyy/SentinellaEDR
+     ⭐ 0  🗣 Rust  📅 2026-05-28
+     🔗 https://github.com/frenesyyyyy/SentinellaEDR
+     📝 High-Performance Cloud-Native Runtime Security Sensor (eBPF + Rust)
+     🏷  cnapp, cybersecurity, ebpf, edr, mitre-attack, react, rust, tauri
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 ECA-D/ecad_rodeo_demo
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/ECA-D/ecad_rodeo_demo
+     📝 Demonstration of ECA&D RODEO EDR API
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 taylortn/ai-soc-prompt-engineering-framework
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/taylortn/ai-soc-prompt-engineering-framework
+     📝 A security-focused prompt engineering framework for AI-assisted SOC alert triage…
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 yeriej77/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/yeriej77/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 sierengowskisierengowski-cpu/Bifrost
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/sierengowskisierengowski-cpu/Bifrost
+     📝 Bifrost is a portable, AI-powered autonomous security sentinel for Linux. Combin…
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 Earney-IT/n8n-nodes-datto-edr
+     ⭐ 0  🗣 TypeScript  📅 2026-05-28
+     🔗 https://github.com/Earney-IT/n8n-nodes-datto-edr
+     📝 Datto EDR (Infocyte / Pulse API) node for n8n — endpoints, threats/alerts, scans…
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 AIIM-Group/RIRBench
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/AIIM-Group/RIRBench
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 whlandy/edr-wd
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/whlandy/edr-wd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 michspenz/Cross-border-heavy-forensic-report
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/michspenz/Cross-border-heavy-forensic-report
+     📝 My complete forensic solution for Cross-Border Heavy CTF (Hive Consult & RedHat …
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 vuvannam-sec/praxis
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/vuvannam-sec/praxis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 Maxime288/MITRE-ATT-CK-Expliqu-Simplement
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/Maxime288/MITRE-ATT-CK-Expliqu-Simplement
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 Jotav-code/metasploit
+     ⭐ 0  🗣 N/A  📅 2026-05-27
+     🔗 https://github.com/Jotav-code/metasploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 jeongyoonlee2015/paper-260528
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/jeongyoonlee2015/paper-260528
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 dam1rtech/Sigma-rules
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/dam1rtech/Sigma-rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 hwxrqz/badusb-http-downloader
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/hwxrqz/badusb-http-downloader
+     📝 local network lab for exploring AV detection logic
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 davly/limitless-cybersec
+     ⭐ 0  🗣 Rust  📅 2026-05-28
+     🔗 https://github.com/davly/limitless-cybersec
+     📝 UK cybersec compliance gate: NCSC CAF v3.1 + NIS 2018 + EU DORA + ISO 27001:2022…
+     🏷  —
+[2026-05-28 16:02:47 UTC] [NEW]   🆕 📦 savva643/cybergraph
+     ⭐ 0  🗣 TypeScript  📅 2026-05-27
+     🔗 https://github.com/savva643/cybergraph
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:47 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-28 16:02:47 UTC] [UPD]   📢 📦 ictechgy/multi-account-tool
+     ⭐ 1  🗣 TypeScript  📅 2026-05-23
+     🔗 https://github.com/ictechgy/multi-account-tool
+     📝 Switch between multiple AI CLI accounts (Claude Code, Codex, Gemini/Antigravity)…
+     🏷  account-switcher, ai, claude, cli, codex, gemini, ink, nodejs, profile, tui, typescript
+     🔄 Motivo: repo recente (5gg)
+[2026-05-28 16:02:47 UTC] [UPD]   📢 📦 ryan-mf-eloy/Notchly
+     ⭐ 0  🗣 Swift  📅 2026-05-28
+     🔗 https://github.com/ryan-mf-eloy/Notchly
+     📝 Native macOS meeting assistant that lives near the MacBook notch.
+     🏷  ai, macos, meetings, notchly, swift, swiftui
+     🔄 Motivo: repo recente (0gg)
+[2026-05-28 16:02:47 UTC] [UPD]   📢 📦 DFIR-Hawk/windows-dfir-toolkit
+     ⭐ 1  🗣 PowerShell  📅 2026-05-28
+     🔗 https://github.com/DFIR-Hawk/windows-dfir-toolkit
+     📝 Professional Windows IR Evidence Collection Toolkit
+     🏷  blue-team, cybersecurity, dfir, forensics, incident-response, powershell, threat-hunting, windows
+     🔄 Motivo: repo recente (0gg)
+[2026-05-28 16:02:47 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-28 16:02:47 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-28 16:02:50 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-28 16:02:50 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-05-28 16:02:50 UTC] [NEW]   🆕 📦 reponsekdz3/omnsecience
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/reponsekdz3/omnsecience
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:50 UTC] [NEW]   🆕 📦 q7c/PS4-5JB-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/q7c/PS4-5JB-roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:50 UTC] [NEW]   🆕 📦 Booda0119/ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-05-28
+     🔗 https://github.com/Booda0119/ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:50 UTC] [NEW]   🆕 📦 Maxime288/MITRE-ATT-CK-Expliqu-Simplement
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/Maxime288/MITRE-ATT-CK-Expliqu-Simplement
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-28 16:02:50 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-28 16:02:50 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-28 16:02:50 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (5gg)
+[2026-05-28 16:02:50 UTC] [INFO] ============================================================
+[2026-05-28 16:02:50 UTC] [INFO] Completato — 27 nuovi, 8 aggiornati, 0 errori
+[2026-05-28 16:02:50 UTC] [INFO] ============================================================
