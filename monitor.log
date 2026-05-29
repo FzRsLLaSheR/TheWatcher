@@ -6776,3 +6776,181 @@
 [2026-05-28 20:25:59 UTC] [INFO] ============================================================
 [2026-05-28 20:25:59 UTC] [INFO] Completato — 25 nuovi, 7 aggiornati, 0 errori
 [2026-05-28 20:25:59 UTC] [INFO] ============================================================
+[2026-05-29 03:50:52 UTC] [INFO] ============================================================
+[2026-05-29 03:50:52 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-29 03:50:52 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-29 03:50:52 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-29 03:50:52 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-29 03:50:52 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-29 03:50:52 UTC] [INFO] ============================================================
+[2026-05-29 03:50:52 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-29 03:50:52 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-29 03:50:53 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 03:50:53 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-29 03:50:53 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-29 03:50:53 UTC] [UPD]   📢 📦 kwpwn/mtgt
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kwpwn/mtgt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-29 03:50:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-29 03:50:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-29 03:50:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 Jest-Test-Team/Agentless-Monitoring-and-EDR-HIDS-integration
+     ⭐ 0  🗣 Shell  📅 2026-05-29
+     🔗 https://github.com/Jest-Test-Team/Agentless-Monitoring-and-EDR-HIDS-integration
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 xiarongwen/cybersec-skill-router
+     ⭐ 0  🗣 Shell  📅 2026-05-29
+     🔗 https://github.com/xiarongwen/cybersec-skill-router
+     📝 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / C…
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 WangXuezhang0522/src-hunter-codex-skill
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/WangXuezhang0522/src-hunter-codex-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 ykmanish/ykmanish
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/ykmanish/ykmanish
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 0xvanguard/PentagenSec
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/0xvanguard/PentagenSec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-CLASSES
+     ⭐ 0  🗣 Java  📅 2026-05-29
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-CLASSES
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 AfterglowLionNel/network-topology-mapper
+     ⭐ 0  🗣 PowerShell  📅 2026-05-29
+     🔗 https://github.com/AfterglowLionNel/network-topology-mapper
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 serpico11/monterrey-smishing-iocs
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/serpico11/monterrey-smishing-iocs
+     📝 Indicadores de compromiso sanitizados relacionados con campaña de smishing/phish…
+     🏷  financial-fraud, ioc, iocs, monterrey, osint, phishing, smishing, threat-hunting, threat-intelligence
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 tanakayoshiki1-oss/dataspace-poc
+     ⭐ 0  🗣 PowerShell  📅 2026-05-29
+     🔗 https://github.com/tanakayoshiki1-oss/dataspace-poc
+     📝 Data Space PoC based on Eclipse EDC / IDSA
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 raysin2019-x/Secure_Network_Design
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/raysin2019-x/Secure_Network_Design
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 aiyalxn/defensive-security-notes
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/aiyalxn/defensive-security-notes
+     📝 Defensive cybersecurity resources and blue team notes
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 iosif-castrucci-hub/n8n-security-incident-response
+     ⭐ 1  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/iosif-castrucci-hub/n8n-security-incident-response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 TaoTheReaper/soc-analyst-prep
+     ⭐ 0  🗣 HTML  📅 2026-05-28
+     🔗 https://github.com/TaoTheReaper/soc-analyst-prep
+     📝 Interactive SOC Analyst L1 — triage scenarios, MITRE ATT&CK, 100 ports, OSI exer…
+     🏷  blue-team, cybersecurity, soc, soc-analyst
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 sonejin/Retail_Nova
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/sonejin/Retail_Nova
+     📝 Simulated enterprise cybersecurity risk assessment for RetailNova Pty Ltd, a fic…
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 sirjan5666/edrafter-b2b
+     ⭐ 0  🗣 JavaScript  📅 2026-05-28
+     🔗 https://github.com/sirjan5666/edrafter-b2b
+     📝 eDrafter B2B - Client + Server monorepo
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 Itsmhmod/agentic-soc-platform
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/Itsmhmod/agentic-soc-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 sirjan5666/edrafter
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/sirjan5666/edrafter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 StackedTEN/Containment-Command-Lab
+     ⭐ 0  🗣 TypeScript  📅 2026-05-28
+     🔗 https://github.com/StackedTEN/Containment-Command-Lab
+     📝 Agentic AI containment decision support for Incident Commanders. Machine-speed c…
+     🏷  agentic-ai, ai-security, containment, cyber-resilience, cybersecurity, incident-commander, incident-response
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 0xvanguard/job-search-roadmap
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/0xvanguard/job-search-roadmap
+     📝  🎯 Personal roadmap and tracker for remote tech job search — DevSecOps & Securit…
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 NOX-Theteenager/NEXUS_SOC
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/NOX-Theteenager/NEXUS_SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [NEW]   🆕 📦 MuhittinYilmazer/the-malware-inc
+     ⭐ 0  🗣 TypeScript  📅 2026-05-28
+     🔗 https://github.com/MuhittinYilmazer/the-malware-inc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 03:50:56 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-29 03:50:56 UTC] [UPD]   📢 📦 sierengowskisierengowski-cpu/Bifrost
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/sierengowskisierengowski-cpu/Bifrost
+     📝 Bifrost is a portable, AI-powered autonomous security sentinel for Linux. Combin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-29 03:50:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-29 03:50:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-29 03:50:58 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 03:50:58 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-29 03:50:58 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-05-29 03:50:58 UTC] [UPD]   📢 📦 openlegion-ai/openlegion
+     ⭐ 98  🗣 Python  📅 2026-02-19
+     🔗 https://github.com/openlegion-ai/openlegion
+     📝 Secure autonomous AI agent framework and platform. Build AI teams by describing …
+     🏷  agent-framework, agent-orchestration, agentic-ai, ai-agent, ai-agent-security, ai-agents, autonomous-agents, docker, docker-sandbox, generative-ai, hermes-agent, hermes-agent-alternative, litellm, llm, llm-agents, mcp, multi-agent, openclaw, openclaw-alternative, self-hosted
+     🔄 Motivo: nuovi topic: generative-ai, litellm, agent-orchestration, docker, ai-agent-security, hermes-agent-alternative, ai-agent, llm, agentic-ai, mcp
+[2026-05-29 03:50:58 UTC] [UPD]   📢 📦 yayalingo/kali-pentest-agent
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/yayalingo/kali-pentest-agent
+     📝 AI-powered penetration testing agent for Kali Linux, built on Hermes Agent archi…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-29 03:50:58 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (6gg)
+[2026-05-29 03:50:58 UTC] [UPD]   📢 📦 kwpwn/mtgt
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/kwpwn/mtgt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-29 03:50:58 UTC] [UPD]   📢 📦 clogan9019-dotcom/controller
+     ⭐ 3  🗣 Objective-C  📅 2026-05-22
+     🔗 https://github.com/clogan9019-dotcom/controller
+     📝 iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-29 03:50:58 UTC] [UPD]   📢 📦 ppfuark/cyber_roadmap
+     ⭐ 0  🗣 Python  📅 2026-05-25
+     🔗 https://github.com/ppfuark/cyber_roadmap
+     📝 sudo rm -rf  *
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-05-29 03:50:58 UTC] [INFO] ============================================================
+[2026-05-29 03:50:58 UTC] [INFO] Completato — 21 nuovi, 8 aggiornati, 0 errori
+[2026-05-29 03:50:58 UTC] [INFO] ============================================================
