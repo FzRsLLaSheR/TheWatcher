@@ -7319,3 +7319,136 @@
 [2026-05-29 15:39:09 UTC] [INFO] ============================================================
 [2026-05-29 15:39:09 UTC] [INFO] Completato — 29 nuovi, 7 aggiornati, 0 errori
 [2026-05-29 15:39:09 UTC] [INFO] ============================================================
+[2026-05-29 20:28:08 UTC] [INFO] ============================================================
+[2026-05-29 20:28:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-29 20:28:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-29 20:28:08 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-29 20:28:08 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-29 20:28:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-29 20:28:08 UTC] [INFO] ============================================================
+[2026-05-29 20:28:08 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-29 20:28:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-29 20:28:10 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 20:28:10 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-29 20:28:10 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-29 20:28:10 UTC] [UPD]   📢 📦 Barnes70/TLCTC
+     ⭐ 2  🗣 HTML  📅 2026-02-14
+     🔗 https://github.com/Barnes70/TLCTC
+     📝 Top Level Cyber Threat Clusters Reference
+     🏷  cyber, cyber-threat-intelligence, cybersec, cyberthreats, mitre-attack, mitre-cwe, nist-csf, risk-management, soar, sonarcloud, sonarqube
+     🔄 Motivo: nuovi topic: sonarcloud, sonarqube
+[2026-05-29 20:28:10 UTC] [UPD]   📢 📦 maximchinazesov-beep/BYOVD
+     ⭐ 1  🗣 C++  📅 2026-05-28
+     🔗 https://github.com/maximchinazesov-beep/BYOVD
+     📝 My reversed drivers pack (aka lessons)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-29 20:28:10 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-29 20:28:10 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-29 20:28:13 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 akhanna222/Resume-Fraud
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/akhanna222/Resume-Fraud
+     📝 resume-fraud
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 SpeedQwerty/SpeedQwerty
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/SpeedQwerty/SpeedQwerty
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 safernandez666/device-normalizer-demo
+     ⭐ 0  🗣 TypeScript  📅 2026-05-29
+     🔗 https://github.com/safernandez666/device-normalizer-demo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 superbulbs/edrgsd
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/superbulbs/edrgsd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 dkchaiv/python-keylogger-edu
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/dkchaiv/python-keylogger-edu
+     📝 A minimal Python keylogger for cybersecurity education — includes case study on …
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 noddenhoang/ai-malware-watch
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/noddenhoang/ai-malware-watch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 ThomphoT/ARGUS
+     ⭐ 0  🗣 HTML  📅 2026-05-28
+     🔗 https://github.com/ThomphoT/ARGUS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 kamureii/kamureii
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/kamureii/kamureii
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 Danish-spidy/Danish-spidy
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/Danish-spidy/Danish-spidy
+     📝 Profile README
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 Stux6-Technology/StuxNet
+     ⭐ 0  🗣 C  📅 2026-05-29
+     🔗 https://github.com/Stux6-Technology/StuxNet
+     📝 Detailed reverse engineering analysis, source code reconstruction (C/C++), and r…
+     🏷  —
+[2026-05-29 20:28:13 UTC] [NEW]   🆕 📦 enderairstudio/Edr
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/enderairstudio/Edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 20:28:13 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-29 20:28:13 UTC] [UPD]   📢 📦 Chiefff-Kiefff/argus-agent
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/Chiefff-Kiefff/argus-agent
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-29 20:28:13 UTC] [UPD]   📢 📦 franspretorius28-debug/edrick-study-tests
+     ⭐ 0  🗣 HTML  📅 2026-05-29
+     🔗 https://github.com/franspretorius28-debug/edrick-study-tests
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-29 20:28:13 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-29 20:28:13 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-29 20:28:16 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 20:28:16 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-29 20:28:16 UTC] [NEW]   🆕 📦 Sagar2366/secure-ai-agents-docker-sandboxes
+     ⭐ 0  🗣 Shell  📅 2026-05-29
+     🔗 https://github.com/Sagar2366/secure-ai-agents-docker-sandboxes
+     📝 Guide: Secure AI Coding Agents with Docker Sandboxes — meetup talk material by S…
+     🏷  —
+[2026-05-29 20:28:16 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-29 20:28:16 UTC] [UPD]   📢 📦 mattiapertusati/TryHackMe-Writeups
+     ⭐ 0  🗣 N/A  📅 2026-05-25
+     🔗 https://github.com/mattiapertusati/TryHackMe-Writeups
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-29 20:28:16 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-29 20:28:16 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (6gg)
+[2026-05-29 20:28:16 UTC] [UPD]   📢 📦 clogan9019-dotcom/controller
+     ⭐ 3  🗣 Objective-C  📅 2026-05-22
+     🔗 https://github.com/clogan9019-dotcom/controller
+     📝 iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-05-29 20:28:16 UTC] [INFO] ============================================================
+[2026-05-29 20:28:16 UTC] [INFO] Completato — 12 nuovi, 8 aggiornati, 0 errori
+[2026-05-29 20:28:16 UTC] [INFO] ============================================================
