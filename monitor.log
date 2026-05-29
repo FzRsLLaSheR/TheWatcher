@@ -7107,3 +7107,215 @@
 [2026-05-29 09:57:18 UTC] [INFO] ============================================================
 [2026-05-29 09:57:18 UTC] [INFO] Completato — 22 nuovi, 3 aggiornati, 0 errori
 [2026-05-29 09:57:18 UTC] [INFO] ============================================================
+[2026-05-29 15:38:59 UTC] [INFO] ============================================================
+[2026-05-29 15:38:59 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-29 15:38:59 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-29 15:38:59 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-29 15:38:59 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-29 15:38:59 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-29 15:38:59 UTC] [INFO] ============================================================
+[2026-05-29 15:38:59 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-29 15:38:59 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-29 15:39:02 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 15:39:02 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-29 15:39:02 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-29 15:39:02 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-29 15:39:02 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-29 15:39:06 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 icancodetoo-hue/palo-alto-networks-pse-cortex-free-sample-questions
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/icancodetoo-hue/palo-alto-networks-pse-cortex-free-sample-questions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 rbabiarz/CTOC
+     ⭐ 0  🗣 TypeScript  📅 2026-05-29
+     🔗 https://github.com/rbabiarz/CTOC
+     📝 Cyber Threat Operations Center command dashboard prototype
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 Townrain/Block-SMB-Quick-Access
+     ⭐ 0  🗣 C++  📅 2026-05-29
+     🔗 https://github.com/Townrain/Block-SMB-Quick-Access
+     📝 Block SMB Quick Access
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-COLLECTION
+     ⭐ 0  🗣 Java  📅 2026-05-29
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-COLLECTION
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-LAMDA2
+     ⭐ 0  🗣 Java  📅 2026-05-29
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-LAMDA2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 SamuelSor/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/SamuelSor/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-LAMBDA1
+     ⭐ 0  🗣 Java  📅 2026-05-29
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-LAMBDA1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 franspretorius28-debug/edrick-study-tests
+     ⭐ 0  🗣 HTML  📅 2026-05-29
+     🔗 https://github.com/franspretorius28-debug/edrick-study-tests
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 aliray-yan/secureops
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/aliray-yan/secureops
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 icancodetoo-hue/microsoft-md-102-free-sample-questions
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/icancodetoo-hue/microsoft-md-102-free-sample-questions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 UnderDefense/agentic-ai-soc-knowledge-base
+     ⭐ 1  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/UnderDefense/agentic-ai-soc-knowledge-base
+     📝 Open knowledge base on Agentic AI SOC — what it is, how it compares to tradition…
+     🏷  agentic-ai-soc, agentic-soc, ai-security, ai-soc, awesome-list, blueteam, cybersecurity, edr, incident-response, llm-security, managed-detection-and-response, mdr, security-knowledge-base, security-operations, siem, soar, soc, threat-detection, underdefense, vendor-comparison
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 icancodetoo-hue/google-gcp-psoe-free-sample-questions
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/icancodetoo-hue/google-gcp-psoe-free-sample-questions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 AnishKajan/Mlejhas-EDR
+     ⭐ 0  🗣 Rust  📅 2026-05-29
+     🔗 https://github.com/AnishKajan/Mlejhas-EDR
+     📝 Learning attempt to recreate EDRs using Rust (Full XDR comes later with Azure in…
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 0xDemetri/cybersec-resources
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/0xDemetri/cybersec-resources
+     📝 Cybersecurity knowledge base
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 italoantunes/italoantunes
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/italoantunes/italoantunes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 AMFeedlyCustomerScripts/Feedly_Threat_Actor_IOC_Extractor
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/AMFeedlyCustomerScripts/Feedly_Threat_Actor_IOC_Extractor
+     📝 Extract IOCs (IPs, domains, hashes) for any threat actor tracked by Feedly — res…
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 DominDev/DominDev-KeepOn
+     ⭐ 0  🗣 C#  📅 2026-05-28
+     🔗 https://github.com/DominDev/DominDev-KeepOn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 0victorr/tfc-cyberdefense
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/0victorr/tfc-cyberdefense
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 AmariNoa/LM-Studio-MCP-Proxy
+     ⭐ 0  🗣 TypeScript  📅 2026-05-29
+     🔗 https://github.com/AmariNoa/LM-Studio-MCP-Proxy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 catsec/cdr
+     ⭐ 0  🗣 Shell  📅 2026-05-29
+     🔗 https://github.com/catsec/cdr
+     📝 Catsec Document Relay — hardened SMB-watched CDR appliance built around Dangerzo…
+     🏷  cdr, content-disarm-reconstruction, cybersecurity, dangerzone, gvisor, smb, ubuntu
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 alexrochas/macos-remote-access-audit
+     ⭐ 0  🗣 Shell  📅 2026-05-29
+     🔗 https://github.com/alexrochas/macos-remote-access-audit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 icancodetoo-hue/fortinet-nse5-edr-5-0-free-sample-questions
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/icancodetoo-hue/fortinet-nse5-edr-5-0-free-sample-questions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 icancodetoo-hue/comptia-sy0-601-free-sample-questions
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/icancodetoo-hue/comptia-sy0-601-free-sample-questions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 icancodetoo-hue/comptia-cs0-003-free-sample-questions
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/icancodetoo-hue/comptia-cs0-003-free-sample-questions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 icancodetoo-hue/comptia-cas-004-free-sample-questions
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/icancodetoo-hue/comptia-cas-004-free-sample-questions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 LevaAverGit/log-incident-analyzer-v2
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/LevaAverGit/log-incident-analyzer-v2
+     📝 Python CLI log analyzer for auth/nginx/syslog patterns, brute-force indicators, …
+     🏷  ci, cli, incident-response, log-analysis, mitre-attack, pytest, python, security, soc
+[2026-05-29 15:39:06 UTC] [NEW]   🆕 📦 api-evangelist/ipinfo
+     ⭐ 0  🗣 N/A  📅 2026-05-28
+     🔗 https://github.com/api-evangelist/ipinfo
+     📝 Another simple IP Address API
+     🏷  apis-json, development, naftiko, public-apis
+[2026-05-29 15:39:06 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-05-29 15:39:06 UTC] [UPD]   📢 📦 sounditsolutions/soundit-psa
+     ⭐ 0  🗣 PHP  📅 2026-05-28
+     🔗 https://github.com/sounditsolutions/soundit-psa
+     📝 Self-hosted Professional Services Automation (PSA) for managed service providers…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-29 15:39:06 UTC] [UPD]   📢 📦 radegast-edr/radegast-web
+     ⭐ 0  🗣 SCSS  📅 2026-05-29
+     🔗 https://github.com/radegast-edr/radegast-web
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-29 15:39:06 UTC] [UPD]   📢 📦 DFIR-Hawk/windows-dfir-toolkit
+     ⭐ 1  🗣 PowerShell  📅 2026-05-28
+     🔗 https://github.com/DFIR-Hawk/windows-dfir-toolkit
+     📝 Professional Windows IR Evidence Collection Toolkit
+     🏷  blue-team, cybersecurity, dfir, forensics, incident-response, powershell, threat-hunting, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-05-29 15:39:06 UTC] [UPD]   📢 📦 sierengowskisierengowski-cpu/Bifrost
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/sierengowskisierengowski-cpu/Bifrost
+     📝 Bifrost is a portable, AI-powered autonomous security sentinel for Linux. Combin…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-29 15:39:06 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-29 15:39:06 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-29 15:39:09 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 15:39:09 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-29 15:39:09 UTC] [NEW]   🆕 📦 icancodetoo-hue/palo-alto-networks-pcdra-free-sample-questions
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/icancodetoo-hue/palo-alto-networks-pcdra-free-sample-questions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 15:39:09 UTC] [NEW]   🆕 📦 TushaeBXN/kerrigan-fantasma
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/TushaeBXN/kerrigan-fantasma
+     📝 Custom security LLM on a Recurrent-Depth Transformer. Writes exploit harnesses, …
+     🏷  exploit-development, fuzzing, hardware-security, llm, machine-learning, security, transformer, vulnerability-research
+[2026-05-29 15:39:09 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-29 15:39:09 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (6gg)
+[2026-05-29 15:39:09 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-05-29 15:39:09 UTC] [UPD]   📢 📦 Efo-YU/yu-song-museum
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/Efo-YU/yu-song-museum
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-29 15:39:09 UTC] [INFO] ============================================================
+[2026-05-29 15:39:09 UTC] [INFO] Completato — 29 nuovi, 7 aggiornati, 0 errori
+[2026-05-29 15:39:09 UTC] [INFO] ============================================================
