@@ -6954,3 +6954,156 @@
 [2026-05-29 03:50:58 UTC] [INFO] ============================================================
 [2026-05-29 03:50:58 UTC] [INFO] Completato — 21 nuovi, 8 aggiornati, 0 errori
 [2026-05-29 03:50:58 UTC] [INFO] ============================================================
+[2026-05-29 09:57:09 UTC] [INFO] ============================================================
+[2026-05-29 09:57:09 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-29 09:57:09 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-29 09:57:09 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-29 09:57:09 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-29 09:57:09 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-29 09:57:09 UTC] [INFO] ============================================================
+[2026-05-29 09:57:09 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-29 09:57:09 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-29 09:57:11 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 09:57:11 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-29 09:57:11 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-29 09:57:11 UTC] [UPD]   📢 📦 maximchinazesov-beep/BYOVD
+     ⭐ 1  🗣 C++  📅 2026-05-28
+     🔗 https://github.com/maximchinazesov-beep/BYOVD
+     📝 My reversed drivers pack (aka lessons)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-29 09:57:11 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-29 09:57:11 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-29 09:57:15 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 radegast-edr/radegast-web
+     ⭐ 0  🗣 SCSS  📅 2026-05-29
+     🔗 https://github.com/radegast-edr/radegast-web
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 KAMANOI/zee
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/KAMANOI/zee
+     📝 Zee — post-intrusion defense layer for the machine-speed attack era. Free & open…
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 LevaAverGit/mini-siem-detection-lab-v2
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/LevaAverGit/mini-siem-detection-lab-v2
+     📝 (nessuna descrizione)
+     🏷  ci, detection-engineering, fastapi, mitre-attack, pytest, python, security, siem, sigma, soc
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 ebubekirbastama/ebs-android-forensics
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/ebubekirbastama/ebs-android-forensics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 sharathkumar2026/EDR_FRDM_code
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/sharathkumar2026/EDR_FRDM_code
+     📝 Bootloader UDS stack code 
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 subramaniankkd-dev/subramaniankkd-dev
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/subramaniankkd-dev/subramaniankkd-dev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 afoor07/Linux-Ransomware-Simulator
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/afoor07/Linux-Ransomware-Simulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 salahalsabhi/Pyramid-of-Pain--TryHackMe--Cybersecurity-Learning-Journey
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/salahalsabhi/Pyramid-of-Pain--TryHackMe--Cybersecurity-Learning-Journey
+     📝 A comprehensive walkthrough and conceptual breakdown of the **Pyramid of Pain** …
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 arubara2021/Phalanx
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/arubara2021/Phalanx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 yujinkim-pm/edr-srs
+     ⭐ 0  🗣 HTML  📅 2026-05-29
+     🔗 https://github.com/yujinkim-pm/edr-srs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 MyoungSoo7/vaccine
+     ⭐ 0  🗣 Go  📅 2026-05-29
+     🔗 https://github.com/MyoungSoo7/vaccine
+     📝 Lightweight endpoint threat detector for macOS/Linux — VirusTotal · YARA · eBPF …
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 makan-huang/edrvxr
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/makan-huang/edrvxr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 stuxve/hookmapper
+     ⭐ 0  🗣 C#  📅 2026-05-29
+     🔗 https://github.com/stuxve/hookmapper
+     📝 Tool for mapping functions in DLLs hooked by EDRs in userland
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 Harmansainii/SENTINEL-Adversarial-Simulation-Lab-ASL-Wazuh-Based-Attack-Detection-and-Validation-Platform
+     ⭐ 0  🗣 JavaScript  📅 2026-05-29
+     🔗 https://github.com/Harmansainii/SENTINEL-Adversarial-Simulation-Lab-ASL-Wazuh-Based-Attack-Detection-and-Validation-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 ZM-Edrei/ZM-Edrei.github.io
+     ⭐ 0  🗣 HTML  📅 2026-05-29
+     🔗 https://github.com/ZM-Edrei/ZM-Edrei.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 arcspots/atlascore-ERP
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/arcspots/atlascore-ERP
+     📝 Multi-tenant ERP backend built with FastAPI and Clean Architecture.
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 MuhammadDanyall/EDropWeb
+     ⭐ 0  🗣 JavaScript  📅 2026-05-29
+     🔗 https://github.com/MuhammadDanyall/EDropWeb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 VinnieSands928/pPXF_DESI-EDR
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/VinnieSands928/pPXF_DESI-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [NEW]   🆕 📦 SoftwareSachin/Network-Security
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/SoftwareSachin/Network-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:15 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-29 09:57:15 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-29 09:57:15 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-29 09:57:18 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-29 09:57:18 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-29 09:57:18 UTC] [NEW]   🆕 📦 lz-anonz/Y2X
+     ⭐ 0  🗣 JavaScript  📅 2026-05-29
+     🔗 https://github.com/lz-anonz/Y2X
+     📝 Y2eXploit (Y2X) - Y2JB Autoloader
+     🏷  —
+[2026-05-29 09:57:18 UTC] [NEW]   🆕 📦 ShashankD210/Awesome-Hacking
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/ShashankD210/Awesome-Hacking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:18 UTC] [NEW]   🆕 📦 SoftwareSachin/Network-Security
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/SoftwareSachin/Network-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-29 09:57:18 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-29 09:57:18 UTC] [UPD]   📢 📦 Efo-YU/yu-song-museum
+     ⭐ 0  🗣 Python  📅 2026-05-23
+     🔗 https://github.com/Efo-YU/yu-song-museum
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-29 09:57:18 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (6gg)
+[2026-05-29 09:57:18 UTC] [INFO] ============================================================
+[2026-05-29 09:57:18 UTC] [INFO] Completato — 22 nuovi, 3 aggiornati, 0 errori
+[2026-05-29 09:57:18 UTC] [INFO] ============================================================
