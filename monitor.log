@@ -7778,3 +7778,132 @@
 [2026-05-30 08:30:01 UTC] [INFO] ============================================================
 [2026-05-30 08:30:01 UTC] [INFO] Completato — 19 nuovi, 4 aggiornati, 0 errori
 [2026-05-30 08:30:01 UTC] [INFO] ============================================================
+[2026-05-30 13:42:59 UTC] [INFO] ============================================================
+[2026-05-30 13:42:59 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-30 13:42:59 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-30 13:42:59 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-30 13:42:59 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-30 13:42:59 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-30 13:42:59 UTC] [INFO] ============================================================
+[2026-05-30 13:42:59 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-30 13:42:59 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-30 13:43:00 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-30 13:43:00 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-30 13:43:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-30 13:43:00 UTC] [UPD]   📢 📦 wzx442/NDSS-2026-Papers
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/wzx442/NDSS-2026-Papers
+     📝 The NDSS 2026 paper collection uses the deepseek-v4-flash model to perform a sim…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-30 13:43:00 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-30 13:43:00 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-30 13:43:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 zachariashin/Shinje-Cybersecurity-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/zachariashin/Shinje-Cybersecurity-Portfolio
+     📝 Cybersecurity portfolio featuring threat hunting, incident investigations, KQL,S…
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 ansfidine/flipper-zero-toolkit
+     ⭐ 0  🗣 C  📅 2026-05-30
+     🔗 https://github.com/ansfidine/flipper-zero-toolkit
+     📝 Flipper Zero custom apps and tools — BadUSB, RF, BLE, GPIO
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 forsetius/rekindle
+     ⭐ 0  🗣 TypeScript  📅 2026-05-30
+     🔗 https://github.com/forsetius/rekindle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 utkarshdudeja830/atlas
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/utkarshdudeja830/atlas
+     📝 A secure AI agent that acts as a security analyst, triaging threats autonomously…
+     🏷  ai-agent, cybersecurity, incident-response, langgraph, llm, ollama, soc, suricata, threat-intelligence, wazuh
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 Oliver0804/ubertooth-mcp
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/Oliver0804/ubertooth-mcp
+     📝 MCP server to drive an Ubertooth One from an LLM — BLE / Bluetooth Classic sniff…
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 radegast-edr/.github
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/radegast-edr/.github
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 MANOJ-MESTA/EDR_Defender_Lab_Project
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/MANOJ-MESTA/EDR_Defender_Lab_Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 elsafex/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/elsafex/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 linta-varghese-cyber/Wazuh-SIEM-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/linta-varghese-cyber/Wazuh-SIEM-Home-Lab
+     📝 Enterprise SOC logging and threat detection simulation lab
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 Barath711/Barath711
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/Barath711/Barath711
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 Sam-Verma/Sam-Verma
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/Sam-Verma/Sam-Verma
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 0xhrfugu3/soc-analyst-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/0xhrfugu3/soc-analyst-portfolio
+     📝 This repository will document my hands-on SOC training and investigation write-u…
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 nidishavengers-cloud/nidishavengers-cloud
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/nidishavengers-cloud/nidishavengers-cloud
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 13:43:03 UTC] [NEW]   🆕 📦 Prospal/secops-hub
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/Prospal/secops-hub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 13:43:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-30 13:43:03 UTC] [UPD]   📢 📦 KAMANOI/zee
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/KAMANOI/zee
+     📝 Open project that helps organizations and individuals move from concern to prepa…
+     🏷  deception, mit, open-source, post-intrusion, security, tripwire
+     🔄 Motivo: repo recente (1gg) | nuovi topic: mit, deception, open-source, tripwire, security, post-intrusion
+[2026-05-30 13:43:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-30 13:43:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-30 13:43:04 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-30 13:43:04 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-30 13:43:04 UTC] [NEW]   🆕 📦 wzx442/CCS-2025-Papers
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/wzx442/CCS-2025-Papers
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 13:43:04 UTC] [NEW]   🆕 📦 matem6/YarP2JB
+     ⭐ 8  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/matem6/YarP2JB
+     📝 A P2JB port for the Yarpe userland exploit
+     🏷  —
+[2026-05-30 13:43:04 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-30 13:43:04 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (7gg)
+[2026-05-30 13:43:04 UTC] [UPD]   📢 📦 wzx442/NDSS-2026-Papers
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/wzx442/NDSS-2026-Papers
+     📝 The NDSS 2026 paper collection uses the deepseek-v4-flash model to perform a sim…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-30 13:43:04 UTC] [INFO] ============================================================
+[2026-05-30 13:43:04 UTC] [INFO] Completato — 16 nuovi, 4 aggiornati, 0 errori
+[2026-05-30 13:43:04 UTC] [INFO] ============================================================
