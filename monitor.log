@@ -7452,3 +7452,185 @@
 [2026-05-29 20:28:16 UTC] [INFO] ============================================================
 [2026-05-29 20:28:16 UTC] [INFO] Completato — 12 nuovi, 8 aggiornati, 0 errori
 [2026-05-29 20:28:16 UTC] [INFO] ============================================================
+[2026-05-30 03:35:55 UTC] [INFO] ============================================================
+[2026-05-30 03:35:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-30 03:35:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-30 03:35:55 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-30 03:35:55 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-30 03:35:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-30 03:35:55 UTC] [INFO] ============================================================
+[2026-05-30 03:35:55 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-30 03:35:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-30 03:35:57 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-30 03:35:57 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-30 03:35:57 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-30 03:35:57 UTC] [UPD]   📢 📦 GrijalvoMarcoLaboral/GrijalvoMarcoLaboral
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/GrijalvoMarcoLaboral/GrijalvoMarcoLaboral
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-05-30 03:35:57 UTC] [UPD]   📢 📦 Sutaigne/alibi
+     ⭐ 0  🗣 HTML  📅 2026-05-26
+     🔗 https://github.com/Sutaigne/alibi
+     📝 Read-only Windows forensic kit. Run alibi, hand the report to a third party, pro…
+     🏷  activision, anti-cheat, byovd, call-of-duty, cheat-detection, cybersecurity, dfir, dma, forensics, gaming, portable, powershell, python, registry-forensics, ricochet, security, threat-hunting, windows
+     🔄 Motivo: repo recente (3gg)
+[2026-05-30 03:35:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-30 03:35:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-30 03:36:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 logic-coder/windows-anti-debug-lab
+     ⭐ 0  🗣 C++  📅 2026-05-30
+     🔗 https://github.com/logic-coder/windows-anti-debug-lab
+     📝 This project collects small Windows x86 probes for studying debugger and virtual…
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 geilson25/caderno-cti-clifford-stoll
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/geilson25/caderno-cti-clifford-stoll
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 ericaghdz/threat-hunting-scenario-sudden-network-slowdowns
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/ericaghdz/threat-hunting-scenario-sudden-network-slowdowns
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 millie-altman/millie-altman
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/millie-altman/millie-altman
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 PsychoKarasu/MIRAI
+     ⭐ 0  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/PsychoKarasu/MIRAI
+     📝 Multi-agent Intelligence for Real-time Alert Investigation
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 SynapCores/synapcores-aml
+     ⭐ 1  🗣 TypeScript  📅 2026-05-30
+     🔗 https://github.com/SynapCores/synapcores-aml
+     📝 Open-core AML transaction-monitoring + SAR-drafting on SynapCores. Behavioral de…
+     🏷  aml, anti-money-laundering, compliance, fincen, mcp, nextjs, open-core, regtech, sar, synapcores, transaction-monitoring, typescript
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 edvyszrdime/edrcvw
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/edvyszrdime/edrcvw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 maux339-cpu/pombocyber-skills-cybersec
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/maux339-cpu/pombocyber-skills-cybersec
+     📝 pombocyber skills cybersec
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 aidanhearth/threat-research
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/aidanhearth/threat-research
+     📝 Independent defensive threat research & detection rules — Aidan Hearth
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 DonatoReis/rino-sentinel
+     ⭐ 0  🗣 TypeScript  📅 2026-05-29
+     🔗 https://github.com/DonatoReis/rino-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 cyncate2000/ShuffleSOAR
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/cyncate2000/ShuffleSOAR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 TheOneEyedArgus/theoneeyedargus.github.io
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/TheOneEyedArgus/theoneeyedargus.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 SynapCores/synapcores-soar
+     ⭐ 1  🗣 TypeScript  📅 2026-05-29
+     🔗 https://github.com/SynapCores/synapcores-soar
+     📝 Open-core SOAR platform for the autonomous SOC. Tier-1 triage agents, immutable …
+     🏷  ai-agents, crowdstrike, incident-response, mcp, okta, open-core, security-automation, sentinel, siem, soar, splunk, synapcores
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 intelligexhq/argus
+     ⭐ 0  🗣 Go  📅 2026-05-29
+     🔗 https://github.com/intelligexhq/argus
+     📝 Headless AI-agent discovery utility. Finds all agents running on the mashine and…
+     🏷  agentic-engineering, agents, discovery, golang, intelligex-argus
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 leoziondev/ai-supply-chain-audit
+     ⭐ 0  🗣 PowerShell  📅 2026-05-29
+     🔗 https://github.com/leoziondev/ai-supply-chain-audit
+     📝 Evidence-first prompt toolkit for AI-assisted supply chain security audits acros…
+     🏷  ai-prompts, appsec, ci-cd-security, composer-security, container-security, data-breach, devsecops, github-actions, incident-response, lgpd, malware-analysis, nextjs, npm-security, prompt-engineering, saas-security, security-audit, supply-chain-security, tanstack, threat-hunting, vercel
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 ryczypior/edrpg-for-foundry-vtt
+     ⭐ 0  🗣 SCSS  📅 2026-05-29
+     🔗 https://github.com/ryczypior/edrpg-for-foundry-vtt
+     📝 Elite Dangerous RPG for Foundry VTT
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 george7979/mpp-viewer
+     ⭐ 0  🗣 C#  📅 2026-05-29
+     🔗 https://github.com/george7979/mpp-viewer
+     📝 Portable MS Project .mpp file viewer for Windows (no installation required)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 JAxTeller8/NeuroShield
+     ⭐ 0  🗣 HTML  📅 2026-05-29
+     🔗 https://github.com/JAxTeller8/NeuroShield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 Noejimgre/home-lab-cyber-noe
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/Noejimgre/home-lab-cyber-noe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 kireimbhapto/edrdop
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/kireimbhapto/edrdop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [NEW]   🆕 📦 rawleyc/28-days-of-cyber
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/rawleyc/28-days-of-cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:00 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-30 03:36:00 UTC] [UPD]   📢 📦 safernandez666/device-normalizer-demo
+     ⭐ 0  🗣 TypeScript  📅 2026-05-29
+     🔗 https://github.com/safernandez666/device-normalizer-demo
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-30 03:36:00 UTC] [UPD]   📢 📦 sierengowskisierengowski-cpu/Bifrost
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/sierengowskisierengowski-cpu/Bifrost
+     📝 Bifrost is a portable, AI-powered autonomous security sentinel for Linux. Combin…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-30 03:36:00 UTC] [UPD]   📢 📦 whlandy/edr-wd
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/whlandy/edr-wd
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-05-30 03:36:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-30 03:36:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-30 03:36:02 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-30 03:36:02 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-30 03:36:02 UTC] [NEW]   🆕 📦 AnalyticETH/chronomaly-webos
+     ⭐ 2  🗣 C  📅 2026-05-30
+     🔗 https://github.com/AnalyticETH/chronomaly-webos
+     📝 CVE-2025-38352 kernel exploit for LG webOS Smart TVs (ARM64). Achieves persisten…
+     🏷  arm64, cve-2025-38352, kernel-exploit, lg-tv, lg-webos, linux-kernel, lpe, privilege-escalation, security-research, webos
+[2026-05-30 03:36:02 UTC] [NEW]   🆕 📦 MoxitPanchal/Hermes-VAPT-FTW
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/MoxitPanchal/Hermes-VAPT-FTW
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 03:36:02 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-30 03:36:02 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (7gg)
+[2026-05-30 03:36:02 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-30 03:36:02 UTC] [INFO] ============================================================
+[2026-05-30 03:36:02 UTC] [INFO] Completato — 23 nuovi, 7 aggiornati, 0 errori
+[2026-05-30 03:36:02 UTC] [INFO] ============================================================
