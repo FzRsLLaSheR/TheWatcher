@@ -7634,3 +7634,147 @@
 [2026-05-30 03:36:02 UTC] [INFO] ============================================================
 [2026-05-30 03:36:02 UTC] [INFO] Completato — 23 nuovi, 7 aggiornati, 0 errori
 [2026-05-30 03:36:02 UTC] [INFO] ============================================================
+[2026-05-30 08:29:56 UTC] [INFO] ============================================================
+[2026-05-30 08:29:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-30 08:29:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-30 08:29:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-30 08:29:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-30 08:29:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-30 08:29:56 UTC] [INFO] ============================================================
+[2026-05-30 08:29:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-30 08:29:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-30 08:29:57 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-30 08:29:57 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-30 08:29:57 UTC] [NEW]   🆕 📦 wzx442/NDSS-2026-Papers
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/wzx442/NDSS-2026-Papers
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:29:57 UTC] [NEW]   🆕 📦 m3f157O/Malware-Analysis-Security-Summit-2024
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/m3f157O/Malware-Analysis-Security-Summit-2024
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:29:57 UTC] [NEW]   🆕 📦 m3f157O/BYOVD-Security-Summit-2023
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/m3f157O/BYOVD-Security-Summit-2023
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:29:57 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-30 08:29:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-30 08:29:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-30 08:30:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 giullare/fApparacchiature-AOU
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/giullare/fApparacchiature-AOU
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 subramaniankkd-dev/detection-engineering-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-29
+     🔗 https://github.com/subramaniankkd-dev/detection-engineering-portfolio
+     📝 Detection rules in Sigma, mapped to MITRE ATT&CK, with conversions to KQL (Senti…
+     🏷  —
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 eshlomo1/github_offsec
+     ⭐ 0  🗣 Shell  📅 2026-05-30
+     🔗 https://github.com/eshlomo1/github_offsec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 m3f157O/Malware-Analysis-Security-Summit-2024
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/m3f157O/Malware-Analysis-Security-Summit-2024
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 m3f157O/BYOVD-Security-Summit-2023
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/m3f157O/BYOVD-Security-Summit-2023
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 Adimchukwunobi/zx-deception
+     ⭐ 0  🗣 Rust  📅 2026-05-30
+     🔗 https://github.com/Adimchukwunobi/zx-deception
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 chandruthehacker/soc-homelab
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/chandruthehacker/soc-homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 codenik01/SentinelX-Cloud-EDR-SOC-Security-Orchestration-Platform
+     ⭐ 0  🗣 TypeScript  📅 2026-05-30
+     🔗 https://github.com/codenik01/SentinelX-Cloud-EDR-SOC-Security-Orchestration-Platform
+     📝 SentinelX is a complete, enterprise-grade Endpoint Detection and Response (EDR) …
+     🏷  cloud, cloudsecurity, dashboard, docker, edr, soc
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 waviga/edrjoq
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/waviga/edrjoq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 raluanosike981-SA/Cybersecurity-prompt-dataset1
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-05-30
+     🔗 https://github.com/raluanosike981-SA/Cybersecurity-prompt-dataset1
+     📝 20 prompt-response pairs covering core cybersecurity concepts for AI training an…
+     🏷  —
+[2026-05-30 08:30:00 UTC] [NEW]   🆕 📦 bbrookhart/multi-agent-AI-SOC-analyst
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/bbrookhart/multi-agent-AI-SOC-analyst
+     📝 A multi-agent system that triages security alerts end to end — enrich → hunt → d…
+     🏷  —
+[2026-05-30 08:30:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-30 08:30:00 UTC] [UPD]   📢 📦 intelligexhq/argus
+     ⭐ 0  🗣 Go  📅 2026-05-29
+     🔗 https://github.com/intelligexhq/argus
+     📝 Headless AI-agent discovery utility. Finds all agents running on the mashine and…
+     🏷  agentic-engineering, agents, discovery, golang, intelligex-argus
+     🔄 Motivo: repo recente (0gg)
+[2026-05-30 08:30:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-30 08:30:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-30 08:30:01 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-30 08:30:01 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-05-30 08:30:01 UTC] [NEW]   🆕 📦 wzx442/NDSS-2026-Papers
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/wzx442/NDSS-2026-Papers
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:01 UTC] [NEW]   🆕 📦 m3f157O/Malware-Analysis-Security-Summit-2024
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/m3f157O/Malware-Analysis-Security-Summit-2024
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:01 UTC] [NEW]   🆕 📦 m3f157O/BYOVD-Security-Summit-2023
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/m3f157O/BYOVD-Security-Summit-2023
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:01 UTC] [NEW]   🆕 📦 WaheedX-code/fireops-siem-lab
+     ⭐ 1  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/WaheedX-code/fireops-siem-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:01 UTC] [NEW]   🆕 📦 Booda0119/ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-05-30
+     🔗 https://github.com/Booda0119/ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-30 08:30:01 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-05-30 08:30:01 UTC] [UPD]   📢 📦 TushaeBXN/kerrigan-fantasma
+     ⭐ 1  🗣 Python  📅 2026-05-29
+     🔗 https://github.com/TushaeBXN/kerrigan-fantasma
+     📝 Custom security LLM on a Recurrent-Depth Transformer. Writes exploit harnesses, …
+     🏷  exploit-development, fuzzing, hardware-security, llm, machine-learning, security, transformer, vulnerability-research
+     🔄 Motivo: repo recente (0gg)
+[2026-05-30 08:30:01 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-05-30 08:30:01 UTC] [UPD]   📢 📦 aaushtripathi/TrollInstallerDark
+     ⭐ 0  🗣 C  📅 2026-05-23
+     🔗 https://github.com/aaushtripathi/TrollInstallerDark
+     📝 Install TrollStore on arm64 devices running iOS 15.7.2 through 15.8.x using the …
+     🏷  anarchy, apk, betterdiscord, distro, dylib-injection, electron-app, jailbreak, laravel, linux, operating-system, packaging, sideload, sideloading, svelte, tweak, xposed
+     🔄 Motivo: repo recente (7gg)
+[2026-05-30 08:30:01 UTC] [INFO] ============================================================
+[2026-05-30 08:30:01 UTC] [INFO] Completato — 19 nuovi, 4 aggiornati, 0 errori
+[2026-05-30 08:30:01 UTC] [INFO] ============================================================
