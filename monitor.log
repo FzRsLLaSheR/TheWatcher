@@ -8181,3 +8181,111 @@
 [2026-05-31 04:02:20 UTC] [INFO] ============================================================
 [2026-05-31 04:02:20 UTC] [INFO] Completato — 24 nuovi, 2 aggiornati, 0 errori
 [2026-05-31 04:02:20 UTC] [INFO] ============================================================
+[2026-05-31 08:48:20 UTC] [INFO] ============================================================
+[2026-05-31 08:48:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-31 08:48:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-31 08:48:20 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-31 08:48:20 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-31 08:48:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-31 08:48:20 UTC] [INFO] ============================================================
+[2026-05-31 08:48:20 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-31 08:48:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-31 08:48:21 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-31 08:48:21 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-05-31 08:48:21 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-31 08:48:21 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-31 08:48:21 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-31 08:48:24 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 nandini-vk-w/sentinel-rs
+     ⭐ 0  🗣 Rust  📅 2026-05-31
+     🔗 https://github.com/nandini-vk-w/sentinel-rs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 ekaznyra/ekaznyra
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/ekaznyra/ekaznyra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 wzx442/USENIX-Security-25-Cycle-1-Accepted-Papers
+     ⭐ 0  🗣 Python  📅 2026-05-31
+     🔗 https://github.com/wzx442/USENIX-Security-25-Cycle-1-Accepted-Papers
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 mohitkr05/CISSP-notes
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/mohitkr05/CISSP-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 venomx001/opensoc-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/venomx001/opensoc-lab
+     📝 Open-source SOC home lab — Wazuh SIEM, Sysmon, MITRE ATT&CK
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 WebzioInfo/edrops
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/WebzioInfo/edrops
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 gibson7390/GTFOGuard
+     ⭐ 0  🗣 Python  📅 2026-05-31
+     🔗 https://github.com/gibson7390/GTFOGuard
+     📝 Real-time Linux GTFOBins and Living-Off-The-Land behavioral detection tool.
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 haolipeng/ai-agent-securiy-study
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/haolipeng/ai-agent-securiy-study
+     📝 ai agent安全知识学习
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 s0suk3/lolmap
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/s0suk3/lolmap
+     📝 Most red teamers manually cross-reference what's on a system against LOLBAS/GTFO…
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 saeedmfat/SOC-Analyst-Knowledge-Base-and-Glossary
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/saeedmfat/SOC-Analyst-Knowledge-Base-and-Glossary
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 08:48:24 UTC] [NEW]   🆕 📦 psychetailorpierce/disk-cloning-utility
+     ⭐ 0  🗣 Python  📅 2026-05-31
+     🔗 https://github.com/psychetailorpierce/disk-cloning-utility
+     📝 Clone drives effortlessly with this fast, reliable disk imaging tool.
+     🏷  backup, bootable-usb, clone-tool, command-line-tool, data-migration, disk-cloning, disk-copy, disk-imaging, disk-management, disk-utility, disk-wipe, forensic-imaging, hard-drive-cloning, linux, partition-cloning, restore, ssd-cloning, storage, system-backup, windows
+[2026-05-31 08:48:24 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-05-31 08:48:24 UTC] [UPD]   📢 📦 yunaunion/esp32s3-dongle-starter
+     ⭐ 0  🗣 C  📅 2026-05-31
+     🔗 https://github.com/yunaunion/esp32s3-dongle-starter
+     📝 ESP32-S3 BLE HID dongle starter with Web Serial pairing manager
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-31 08:48:24 UTC] [UPD]   📢 📦 rsn9454/soc-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/rsn9454/soc-home-lab
+     📝 SOC analyst lab: threat detection, brute force alerting, C2 attack simulation, a…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-31 08:48:24 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-31 08:48:24 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-31 08:48:26 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-31 08:48:26 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-05-31 08:48:26 UTC] [NEW]   🆕 📦 wzx442/USENIX-Security-25-Cycle-1-Accepted-Papers
+     ⭐ 0  🗣 Python  📅 2026-05-31
+     🔗 https://github.com/wzx442/USENIX-Security-25-Cycle-1-Accepted-Papers
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 08:48:26 UTC] [NEW]   🆕 📦 SahilChauhan-alpha/TryHackMe-Lab-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/SahilChauhan-alpha/TryHackMe-Lab-Portfolio
+     📝 A collection of detailed walkthroughs, technical notes, and methodologies from T…
+     🏷  —
+[2026-05-31 08:48:26 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-31 08:48:26 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-31 08:48:26 UTC] [INFO] ============================================================
+[2026-05-31 08:48:26 UTC] [INFO] Completato — 13 nuovi, 3 aggiornati, 0 errori
+[2026-05-31 08:48:26 UTC] [INFO] ============================================================
