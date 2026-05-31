@@ -8024,3 +8024,160 @@
 [2026-05-30 19:19:28 UTC] [INFO] ============================================================
 [2026-05-30 19:19:28 UTC] [INFO] Completato — 16 nuovi, 2 aggiornati, 0 errori
 [2026-05-30 19:19:28 UTC] [INFO] ============================================================
+[2026-05-31 04:02:14 UTC] [INFO] ============================================================
+[2026-05-31 04:02:14 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-05-31 04:02:14 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-05-31 04:02:14 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-05-31 04:02:14 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-05-31 04:02:14 UTC] [INFO] Token GitHub: ✓ presente
+[2026-05-31 04:02:14 UTC] [INFO] ============================================================
+[2026-05-31 04:02:14 UTC] [INFO] Query: 'byovd-killers'
+[2026-05-31 04:02:14 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-05-31 04:02:16 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-31 04:02:16 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-05-31 04:02:16 UTC] [NEW]   🆕 📦 kraloveckey/cybersecurity-handbook
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/kraloveckey/cybersecurity-handbook
+     📝 🛡️ All-in-one cybersecurity guide: structured roadmap, glossary, learning and ca…
+     🏷  abbreviations, blue-team, career-path, ciso, cyber-security, cybersecurity, cybersecurity-education, cybersecurity-learning, glossary, hacking, handbook, information-security, infosec, learning, pentest, red-team, roadmap, security, security-handbook, security-roadmap
+[2026-05-31 04:02:16 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-05-31 04:02:16 UTC] [INFO] Query: 'edr-evasion'
+[2026-05-31 04:02:16 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-05-31 04:02:18 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 yunaunion/esp32s3-dongle-starter
+     ⭐ 0  🗣 C  📅 2026-05-31
+     🔗 https://github.com/yunaunion/esp32s3-dongle-starter
+     📝 ESP32-S3 BLE HID dongle starter with Web Serial pairing manager
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 cyberhavox/cybersec-career-coach
+     ⭐ 0  🗣 JavaScript  📅 2026-05-31
+     🔗 https://github.com/cyberhavox/cybersec-career-coach
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 erikh/pax
+     ⭐ 0  🗣 Rust  📅 2026-05-31
+     🔗 https://github.com/erikh/pax
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 kellymayrd/edrd-index
+     ⭐ 0  🗣 JavaScript  📅 2026-05-31
+     🔗 https://github.com/kellymayrd/edrd-index
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 kosmickaiju/ad-homelab-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/kosmickaiju/ad-homelab-portfolio
+     📝 Notes and documentation from my AD homelab.
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 mepossamai/dio-multiagente-de-seguranca
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/mepossamai/dio-multiagente-de-seguranca
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 EitaPreulaJhol/BootRepair-Writeup
+     ⭐ 0  🗣 C  📅 2026-05-30
+     🔗 https://github.com/EitaPreulaJhol/BootRepair-Writeup
+     📝 Another writeup from an driver from LOLDrivers. This time, Lenovo's BootRepair.s…
+     🏷  byovd, ida, poc, windows-drivers
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 JoedersonN/thm-writeups
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/JoedersonN/thm-writeups
+     📝 Writeups técnicos dos labs realizados no TryHackMe. Blue Team · SOC · Exploitati…
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 basst800/Script-de-bloqueio-forte-do-arquivo
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/basst800/Script-de-bloqueio-forte-do-arquivo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 yah00204052/windows-process-scanner
+     ⭐ 0  🗣 Python  📅 2026-05-31
+     🔗 https://github.com/yah00204052/windows-process-scanner
+     📝 Transparent, rule-based behavioral scanner for Windows. Runs from WSL via PowerS…
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 NullPtr-Sec/PanicPwnicorn
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/NullPtr-Sec/PanicPwnicorn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 Lordsammm/cida
+     ⭐ 0  🗣 Python  📅 2026-05-30
+     🔗 https://github.com/Lordsammm/cida
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 ninjainvictuz/https-github.com-yourusername-ai-red-team-investigator
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/ninjainvictuz/https-github.com-yourusername-ai-red-team-investigator
+     📝 AI Red Team Investigator uses Bright Data web intelligence to discover external …
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 Mohammed-11cyber/Sysmon-Threat-Hunting-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/Mohammed-11cyber/Sysmon-Threat-Hunting-Investigation
+     📝 Proactive threat hunt investigating an EDR bypass to uncover Base64 obfuscated P…
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 MTFUCF/TraceIQ
+     ⭐ 0  🗣 TypeScript  📅 2026-05-30
+     🔗 https://github.com/MTFUCF/TraceIQ
+     📝 loginsight application 
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 faada23/diplom-project
+     ⭐ 0  🗣 C++  📅 2026-05-30
+     🔗 https://github.com/faada23/diplom-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 Acloran/Mac-Apps
+     ⭐ 0  🗣 Makefile  📅 2026-05-30
+     🔗 https://github.com/Acloran/Mac-Apps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 mcnmi03/Cybersecurity-PortfolioAG
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/mcnmi03/Cybersecurity-PortfolioAG
+     📝 For my assignment, I will create an improved version as soon as possible.
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 Elikon0106/C-loader-LLVM-
+     ⭐ 0  🗣 C++  📅 2026-05-30
+     🔗 https://github.com/Elikon0106/C-loader-LLVM-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-05-31 04:02:18 UTC] [NEW]   🆕 📦 kraloveckey/cybersecurity-handbook
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/kraloveckey/cybersecurity-handbook
+     📝 🛡️ All-in-one cybersecurity guide: structured roadmap, glossary, learning and ca…
+     🏷  abbreviations, blue-team, career-path, ciso, cyber-security, cybersecurity, cybersecurity-education, cybersecurity-learning, glossary, hacking, handbook, information-security, infosec, learning, pentest, red-team, roadmap, security, security-handbook, security-roadmap
+[2026-05-31 04:02:18 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-31 04:02:18 UTC] [UPD]   📢 📦 ansfidine/flipper-zero-toolkit
+     ⭐ 0  🗣 C  📅 2026-05-30
+     🔗 https://github.com/ansfidine/flipper-zero-toolkit
+     📝 Flipper Zero custom apps and tools — BadUSB, RF, BLE, GPIO
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-05-31 04:02:18 UTC] [INFO] Query: 'kernel-exploit'
+[2026-05-31 04:02:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-05-31 04:02:20 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-05-31 04:02:20 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-05-31 04:02:20 UTC] [NEW]   🆕 📦 quytrum102/umtx2local
+     ⭐ 0  🗣 JavaScript  📅 2026-05-31
+     🔗 https://github.com/quytrum102/umtx2local
+     📝 Customized host for personal needs.
+     🏷  —
+[2026-05-31 04:02:20 UTC] [NEW]   🆕 📦 0xZ3n0x/zenpatcher
+     ⭐ 0  🗣 C++  📅 2026-05-30
+     🔗 https://github.com/0xZ3n0x/zenpatcher
+     📝 Runtime patch daemon for PS5 — applies game patches from XML files on launch
+     🏷  —
+[2026-05-31 04:02:20 UTC] [NEW]   🆕 📦 kraloveckey/cybersecurity-handbook
+     ⭐ 0  🗣 N/A  📅 2026-05-30
+     🔗 https://github.com/kraloveckey/cybersecurity-handbook
+     📝 🛡️ All-in-one cybersecurity guide: structured roadmap, glossary, learning and ca…
+     🏷  abbreviations, blue-team, career-path, ciso, cyber-security, cybersecurity, cybersecurity-education, cybersecurity-learning, glossary, hacking, handbook, information-security, infosec, learning, pentest, red-team, roadmap, security, security-handbook, security-roadmap
+[2026-05-31 04:02:20 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-05-31 04:02:20 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-05-31 04:02:20 UTC] [INFO] ============================================================
+[2026-05-31 04:02:20 UTC] [INFO] Completato — 24 nuovi, 2 aggiornati, 0 errori
+[2026-05-31 04:02:20 UTC] [INFO] ============================================================
