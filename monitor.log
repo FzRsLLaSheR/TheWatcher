@@ -9278,3 +9278,144 @@
 [2026-06-01 17:44:18 UTC] [INFO] ============================================================
 [2026-06-01 17:44:18 UTC] [INFO] Completato — 37 nuovi, 2 aggiornati, 0 errori
 [2026-06-01 17:44:18 UTC] [INFO] ============================================================
+[2026-06-01 21:35:09 UTC] [INFO] ============================================================
+[2026-06-01 21:35:09 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-01 21:35:09 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-01 21:35:09 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-01 21:35:09 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-01 21:35:09 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-01 21:35:09 UTC] [INFO] ============================================================
+[2026-06-01 21:35:09 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-01 21:35:09 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-01 21:35:11 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-01 21:35:11 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-01 21:35:11 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-01 21:35:11 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-01 21:35:11 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-01 21:35:14 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 ameda-natasha/soc-analyst-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/ameda-natasha/soc-analyst-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 JDeep1234/Vyuha_Documentation
+     ⭐ 0  🗣 CSS  📅 2026-06-01
+     🔗 https://github.com/JDeep1234/Vyuha_Documentation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 jasarjibran/detection-engineering-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/jasarjibran/detection-engineering-home-lab
+     📝 Production-style SOC environment for detection engineering, threat hunting, and …
+     🏷  blue-team, cybersecurity, detection-engineering, incident-response, mitre-attack, sigma, soc-analyst, splunk, sysmon, threat-hunting
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 OmarAK-Git/praetor
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/OmarAK-Git/praetor
+     📝 Post-detection disposition-policy engine for a SOC
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 testinglimit/edr
+     ⭐ 0  🗣 JavaScript  📅 2026-06-01
+     🔗 https://github.com/testinglimit/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 cerberus8484/OpenThreadTriage
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/cerberus8484/OpenThreadTriage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 neoprehn/pyfair-cam
+     ⭐ 0  🗣 Python  📅 2026-05-31
+     🔗 https://github.com/neoprehn/pyfair-cam
+     📝 Monte Carlo Simulator (Wurtsmaschine) for FAIR-CAM (Control Analytics Model) bas…
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 CyberAgora17/falcon-tuner
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/CyberAgora17/falcon-tuner
+     📝 Script en Python para automatizar el triage y tuning de IoCs exportados de Crowd…
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 so1iman/security-engineering-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/so1iman/security-engineering-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 so1iman/so1iman
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/so1iman/so1iman
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 FatimaEzzahraNaimi/wazuh-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/FatimaEzzahraNaimi/wazuh-soc-lab
+     📝 Mini SOC Cloud using Wazuh SIEM for Linux monitoring and threat detection
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 ggutierrez2551/ggutierrez2551
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/ggutierrez2551/ggutierrez2551
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 skausky/cybersecurity-portfolio
+     ⭐ 0  🗣 PowerShell  📅 2026-06-01
+     🔗 https://github.com/skausky/cybersecurity-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 frangelbarrera/awesome-ai-agents
+     ⭐ 1  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/frangelbarrera/awesome-ai-agents
+     📝 A curated list of state-of-the-art AI Agents, frameworks, and autonomous workflo…
+     🏷  2026, ai, ai-agents, artificial-intelligence, autonomous-agents, awesome-list, llm, osint
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 Trivexqbn/iMonitor-System-Activity-Monitor
+     ⭐ 0  🗣 C++  📅 2026-06-01
+     🔗 https://github.com/Trivexqbn/iMonitor-System-Activity-Monitor
+     📝 powerful endpoint behavior analysis system and system activity monitor real-time…
+     🏷  cybersecurity, edr, endpoint-behavior-analysis, endpoint-monitoring, endpoint-security, endpoint-telemetry-suite, imonitor-system-activity-monitor, live-process-inspector, low-level-system-monitor, malware-analysis, process-monitoring, process-telemetry-tool, reverse-engineering, runtime-inspection, security-tools, system-activity, system-activity-monitor, telemetry, windows-security
+[2026-06-01 21:35:14 UTC] [NEW]   🆕 📦 lightmache/lend-pipeline
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/lightmache/lend-pipeline
+     📝 NASA data
+     🏷  —
+[2026-06-01 21:35:14 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-01 21:35:14 UTC] [UPD]   📢 📦 erikh/pax
+     ⭐ 0  🗣 Rust  📅 2026-05-31
+     🔗 https://github.com/erikh/pax
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-01 21:35:14 UTC] [UPD]   📢 📦 BeardedInfoSec/t1agentics
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/BeardedInfoSec/t1agentics
+     📝 Open-source, self-hosted, multi-tenant SOC platform with AI-assisted triage. Run…
+     🏷  docker-compose, incident-response, multi-tenant, open-source, security, self-hosted, siem, soc
+     🔄 Motivo: repo recente (0gg)
+[2026-06-01 21:35:14 UTC] [UPD]   📢 📦 slim92code/purple-team-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/slim92code/purple-team-lab
+     📝 Purple Team Home Lab — AD attack chain with Splunk detection engineering, Sigma …
+     🏷  active-directory, detection-engineering, mitre-attack, purple-team, sigma, soc-analyst, splunk, sysmon
+     🔄 Motivo: repo recente (0gg)
+[2026-06-01 21:35:14 UTC] [UPD]   📢 📦 andrefernandes86/trendai-enablement-lab
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/andrefernandes86/trendai-enablement-lab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-01 21:35:14 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-01 21:35:14 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-01 21:35:17 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-01 21:35:17 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-01 21:35:17 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-01 21:35:17 UTC] [UPD]   📢 📦 lz-anonz/Y2X
+     ⭐ 16  🗣 JavaScript  📅 2026-05-29
+     🔗 https://github.com/lz-anonz/Y2X
+     📝 Y2eXploit (Y2X) - Y2JB Autoloader
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-01 21:35:17 UTC] [UPD]   📢 📦 haimbar/loopmonitor
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/haimbar/loopmonitor
+     📝 On-demand inspection and control of long-running loops in Python
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-01 21:35:17 UTC] [INFO] ============================================================
+[2026-06-01 21:35:17 UTC] [INFO] Completato — 16 nuovi, 6 aggiornati, 0 errori
+[2026-06-01 21:35:17 UTC] [INFO] ============================================================
