@@ -8866,3 +8866,193 @@
 [2026-06-01 04:16:39 UTC] [INFO] ============================================================
 [2026-06-01 04:16:39 UTC] [INFO] Completato — 28 nuovi, 5 aggiornati, 0 errori
 [2026-06-01 04:16:39 UTC] [INFO] ============================================================
+[2026-06-01 11:39:02 UTC] [INFO] ============================================================
+[2026-06-01 11:39:02 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-01 11:39:02 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-01 11:39:02 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-01 11:39:02 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-01 11:39:02 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-01 11:39:02 UTC] [INFO] ============================================================
+[2026-06-01 11:39:02 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-01 11:39:02 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-01 11:39:05 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-01 11:39:05 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-01 11:39:05 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-01 11:39:05 UTC] [UPD]   📢 📦 ekomsSavior/CHURCH
+     ⭐ 1  🗣 C  📅 2026-06-01
+     🔗 https://github.com/ekomsSavior/CHURCH
+     📝 WINDOWS BYPASS FRAMEWORK W/C2
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-01 11:39:05 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-01 11:39:05 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-01 11:39:08 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 neevets/argus
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/neevets/argus
+     📝 An intelligent EDR designed for maximum visibility, detection, and response
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 liudehua1128/tech-edrpcuau
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/liudehua1128/tech-edrpcuau
+     📝 算法题解整理
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 n33r4j1910/trust-sentinel
+     ⭐ 0  🗣 Rust  📅 2026-06-01
+     🔗 https://github.com/n33r4j1910/trust-sentinel
+     📝 Lightweight device integrity guardian with rotating trust token
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 henryuney/sn360
+     ⭐ 0  🗣 TypeScript  📅 2026-06-01
+     🔗 https://github.com/henryuney/sn360
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 0x1john/detection
+     ⭐ 0  🗣 HTML  📅 2026-06-01
+     🔗 https://github.com/0x1john/detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 mmamon-maker/edrone-subscribe-picker
+     ⭐ 0  🗣 HTML  📅 2026-06-01
+     🔗 https://github.com/mmamon-maker/edrone-subscribe-picker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 savitha1311/ADVANCED-TECHNIQUES-FOR-DETECTING-ANOMALIES-IN-EDR-LOGS-FOR-CYBERSECURITY
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/savitha1311/ADVANCED-TECHNIQUES-FOR-DETECTING-ANOMALIES-IN-EDR-LOGS-FOR-CYBERSECURITY
+     📝 Developed an AI-based anomaly detection framework using the Isolation Forest alg…
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 ralphiecodes/TKH_Phase_1
+     ⭐ 1  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/ralphiecodes/TKH_Phase_1
+     📝 Cybersecurity 8 week extensive labs portfolio
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 Loran29/gdpr-sentinel
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/Loran29/gdpr-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 SamTang0/SecOps-AI-Framework
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/SamTang0/SecOps-AI-Framework
+     📝 一个通过统一适配器层解耦底层安全产品、上层以 AI Agent 和 Python 自动化引擎驱动安全运营的开放式可插拔架构。
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 d3struc70r/ThreatHunting
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/d3struc70r/ThreatHunting
+     📝 This repository contain detection rules to tighten up your existing security sol…
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 forensicdave/reds-client
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/forensicdave/reds-client
+     📝 Command-line client for the RationalEdge DataSet (REDS) API
+     🏷  dfir, incident-response, malware-analysis, reverse-engineering, threat-intelligence
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 d3fuse99/Behavior-Watch
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/d3fuse99/Behavior-Watch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 GeorgiFidanov/mvd-trace-dashboard
+     ⭐ 0  🗣 TypeScript  📅 2026-06-01
+     🔗 https://github.com/GeorgiFidanov/mvd-trace-dashboard
+     📝 Trace and debug Eclipse EDC MinimumViableDataspace catalog, negotiation, transfe…
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 shangdi-w/-skills
+     ⭐ 3  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/shangdi-w/-skills
+     📝 Hermes Agent 红队技能库 | 全平台反编译(18类) + 免杀对抗(18章入门到专家) | 仅供授权安全测试使用
+     🏷  av-evasion, decompile, hermes-agent, pentesting, redteam, reverse-engineering, security
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 Quantika14/Bash_history_forensic
+     ⭐ 1  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/Quantika14/Bash_history_forensic
+     📝 Herramienta forense en Python para adquirir y analizar .bash_history y registros…
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 Ojoinioluwa/ThreatHunter-Detection-Platform
+     ⭐ 0  🗣 PowerShell  📅 2026-06-01
+     🔗 https://github.com/Ojoinioluwa/ThreatHunter-Detection-Platform
+     📝 Lightweight PowerShell SIEM/EDR orchestration engine that performs Windows telem…
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 botkinkrumroy342-pixel/--IT---
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/botkinkrumroy342-pixel/--IT---
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 Masriyan/Obscura-Threat-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/Masriyan/Obscura-Threat-Investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 actions-marketplace-validations/neuregex_nodesafe
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/actions-marketplace-validations/neuregex_nodesafe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 darmayo/Blue-Team
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/darmayo/Blue-Team
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 anuj0224/window-security-report-genertor
+     ⭐ 0  🗣 PowerShell  📅 2026-06-01
+     🔗 https://github.com/anuj0224/window-security-report-genertor
+     📝 Windows Security Assessment Report Generator  A PowerShell-based Windows Securit…
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 Leeseungmin0912/Ransomware-Defender
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/Leeseungmin0912/Ransomware-Defender
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 EdRomel/EdRomel
+     ⭐ 1  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/EdRomel/EdRomel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 Amine-M07/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/Amine-M07/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [NEW]   🆕 📦 Amine-M07/threat-hunting-scenario-tor-event-creation.md
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/Amine-M07/threat-hunting-scenario-tor-event-creation.md
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:08 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-01 11:39:08 UTC] [UPD]   📢 📦 osamaalhaik/ai-enhanced-linux-process-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-05-31
+     🔗 https://github.com/osamaalhaik/ai-enhanced-linux-process-sandbox
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-01 11:39:08 UTC] [UPD]   📢 📦 AntoineWHR/Lynceus
+     ⭐ 0  🗣 Python  📅 2026-05-31
+     🔗 https://github.com/AntoineWHR/Lynceus
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-01 11:39:08 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-01 11:39:08 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-01 11:39:11 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-01 11:39:11 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-01 11:39:11 UTC] [NEW]   🆕 📦 AzDevops143/Dirtycowstages
+     ⭐ 0  🗣 HTML  📅 2026-06-01
+     🔗 https://github.com/AzDevops143/Dirtycowstages
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-01 11:39:11 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-01 11:39:11 UTC] [UPD]   📢 📦 alexander-turner/secure-claude-code-defaults
+     ⭐ 0  🗣 Python  📅 2026-05-24
+     🔗 https://github.com/alexander-turner/secure-claude-code-defaults
+     📝 You've probably been using Claude irresponsibly. Today, you can turn a new leaf.
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-01 11:39:11 UTC] [UPD]   📢 📦 SahilChauhan-alpha/TryHackMe-Lab-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-05-31
+     🔗 https://github.com/SahilChauhan-alpha/TryHackMe-Lab-Portfolio
+     📝 A collection of detailed walkthroughs, technical notes, and methodologies from T…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-01 11:39:11 UTC] [INFO] ============================================================
+[2026-06-01 11:39:11 UTC] [INFO] Completato — 27 nuovi, 5 aggiornati, 0 errori
+[2026-06-01 11:39:11 UTC] [INFO] ============================================================
