@@ -9419,3 +9419,145 @@
 [2026-06-01 21:35:17 UTC] [INFO] ============================================================
 [2026-06-01 21:35:17 UTC] [INFO] Completato — 16 nuovi, 6 aggiornati, 0 errori
 [2026-06-01 21:35:17 UTC] [INFO] ============================================================
+[2026-06-02 04:09:51 UTC] [INFO] ============================================================
+[2026-06-02 04:09:51 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-02 04:09:51 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-02 04:09:51 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-02 04:09:51 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-02 04:09:51 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-02 04:09:51 UTC] [INFO] ============================================================
+[2026-06-02 04:09:51 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-02 04:09:51 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-02 04:09:54 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-02 04:09:54 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-02 04:09:54 UTC] [NEW]   🆕 📦 CroatiaSecurity/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-06-01
+     🔗 https://github.com/CroatiaSecurity/Sentinel
+     📝 Windows Sentinel is a userland endpoint detection and response (EDR) tool for Wi…
+     🏷  —
+[2026-06-02 04:09:54 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-02 04:09:54 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-02 04:09:54 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-02 04:09:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 josecarvalhon/cadastro-unico
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/josecarvalhon/cadastro-unico
+     📝 Plataforma unificada de cadastros — Data Lakehouse com arquitetura medalhão (Bro…
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 CycleCoreTech/pq-sift-defender
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/CycleCoreTech/pq-sift-defender
+     📝 Autonomous IR triage agent with PQ-signed audit trail — CPU-only, 1.5B model, de…
+     🏷  ai-security, audit-trail, cpu-only, dfir, hackathon, incident-response, post-quantum, prompt-injection
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 NattapongECOP/detection-rules
+     ⭐ 1  🗣 Makefile  📅 2026-06-02
+     🔗 https://github.com/NattapongECOP/detection-rules
+     📝 🛡️ Open-source Sigma rules, Sysmon config & IR playbooks for Thai/ASEAN SOC team…
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 R00t-Reaper/SOC-Incident-Casebook
+     ⭐ 1  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/R00t-Reaper/SOC-Incident-Casebook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 DisaWdcba/Windows-Enclave-API-Abuse
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/DisaWdcba/Windows-Enclave-API-Abuse
+     📝 演示如何通过 Windows 未公开的 LdrCallEnclave API 执行内存中的 shellcode，并探讨此类技术的检测与防御方法。
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 Kruti3101/huntops
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/Kruti3101/huntops
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 jfdawson20/wirepath_asset_portal
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/jfdawson20/wirepath_asset_portal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 NEED-Programming/Tokenizer
+     ⭐ 0  🗣 C  📅 2026-06-02
+     🔗 https://github.com/NEED-Programming/Tokenizer
+     📝 A clean, single-file utility to duplicate a target process's token
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 VincentLindsay/VincentLindsay
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/VincentLindsay/VincentLindsay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 BPhuc246/IE105_MalwareDectionAndPrevention
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-02
+     🔗 https://github.com/BPhuc246/IE105_MalwareDectionAndPrevention
+     📝 Multi-class malware family classification using Bi-LSTM and dynamic API sequence…
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 CroatiaSecurity/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-06-01
+     🔗 https://github.com/CroatiaSecurity/Sentinel
+     📝 Windows Sentinel is a userland endpoint detection and response (EDR) tool for Wi…
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 Harshk7771/Project-Chakravyuh
+     ⭐ 1  🗣 HTML  📅 2026-06-01
+     🔗 https://github.com/Harshk7771/Project-Chakravyuh
+     📝 Next-Generation Autonomous SOC Platform · Made in India · Designed and Developed…
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 capo-dev/m365-defender-hunting
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/capo-dev/m365-defender-hunting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 victormatuk/diablo-4-damage-calculator
+     ⭐ 0  🗣 HTML  📅 2026-06-01
+     🔗 https://github.com/victormatuk/diablo-4-damage-calculator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 Spookybonxs/spookybonxs.github.io
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/Spookybonxs/spookybonxs.github.io
+     📝 I am a junior ethical hacker and this is some of my work 
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 0xBlackash/CVE-2026-20841
+     ⭐ 0  🗣 JavaScript  📅 2026-06-01
+     🔗 https://github.com/0xBlackash/CVE-2026-20841
+     📝 CVE-2026-20841
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 Bantuson/pollen
+     ⭐ 0  🗣 Go  📅 2026-06-01
+     🔗 https://github.com/Bantuson/pollen
+     📝 Windows-compatible inventory layer for Beekeeper — a bounded Apache-2.0 fork of …
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 ChadiBlal/Educational_worm_pfe
+     ⭐ 0  🗣 C++  📅 2026-06-01
+     🔗 https://github.com/ChadiBlal/Educational_worm_pfe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 04:09:57 UTC] [NEW]   🆕 📦 DanEmmanuel1/nids-attack-classifier
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/DanEmmanuel1/nids-attack-classifier
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 04:09:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-02 04:09:57 UTC] [UPD]   📢 📦 sierengowskisierengowski-cpu/Bifrost
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/sierengowskisierengowski-cpu/Bifrost
+     📝 Bifrost is a portable, AI-powered autonomous security sentinel for Linux. Combin…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-02 04:09:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-02 04:09:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-02 04:10:00 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-02 04:10:00 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-02 04:10:00 UTC] [NEW]   🆕 📦 imt-it/CLD6001
+     ⭐ 0  🗣 Shell  📅 2026-06-01
+     🔗 https://github.com/imt-it/CLD6001
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 04:10:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-02 04:10:00 UTC] [UPD]   📢 📦 haimbar/loopmonitor
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/haimbar/loopmonitor
+     📝 On-demand inspection and control of long-running loops in Python
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-02 04:10:00 UTC] [INFO] ============================================================
+[2026-06-02 04:10:00 UTC] [INFO] Completato — 21 nuovi, 2 aggiornati, 0 errori
+[2026-06-02 04:10:00 UTC] [INFO] ============================================================
