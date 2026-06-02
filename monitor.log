@@ -9946,3 +9946,165 @@
 [2026-06-02 16:29:08 UTC] [INFO] ============================================================
 [2026-06-02 16:29:08 UTC] [INFO] Completato — 39 nuovi, 3 aggiornati, 0 errori
 [2026-06-02 16:29:08 UTC] [INFO] ============================================================
+[2026-06-02 20:51:36 UTC] [INFO] ============================================================
+[2026-06-02 20:51:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-02 20:51:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-02 20:51:36 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-02 20:51:36 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-02 20:51:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-02 20:51:36 UTC] [INFO] ============================================================
+[2026-06-02 20:51:36 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-02 20:51:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-02 20:51:37 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-02 20:51:37 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-02 20:51:37 UTC] [NEW]   🆕 📦 2L1nks/is_iu
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/2L1nks/is_iu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:37 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-02 20:51:37 UTC] [UPD]   📢 📦 CroatiaSecurity/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-06-01
+     🔗 https://github.com/CroatiaSecurity/Sentinel
+     📝 Windows Sentinel is a userland endpoint detection and response (EDR) tool for Wi…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-02 20:51:37 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-02 20:51:37 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-02 20:51:40 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 hemmhjn87/psadt_secure
+     ⭐ 0  🗣 Python  📅 2026-06-01
+     🔗 https://github.com/hemmhjn87/psadt_secure
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 mohaShire12/Malware-Detection-Pipeline-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/mohaShire12/Malware-Detection-Pipeline-Investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 Lynnadel/Lynnadel
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Lynnadel/Lynnadel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 CyberLav/Multi-Framework_Control_Matrix
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/CyberLav/Multi-Framework_Control_Matrix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 perinpatel2610/ai-cybersecurity-threat-analyzer
+     ⭐ 0  🗣 JavaScript  📅 2026-06-02
+     🔗 https://github.com/perinpatel2610/ai-cybersecurity-threat-analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 kayrozen/ESP-Web-Car
+     ⭐ 0  🗣 C++  📅 2026-06-02
+     🔗 https://github.com/kayrozen/ESP-Web-Car
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 Kacpergabalewicz-bit/Command-AV-Antivirus
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/Kacpergabalewicz-bit/Command-AV-Antivirus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 shivanipoosarla/mssp-threat-modeling
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/shivanipoosarla/mssp-threat-modeling
+     📝 Threat-modeling and detection-engineering for a simulated MSSP, with attack path…
+     🏷  cybersecurity, detection-engineering, incident-response, mitre-attack, risk-management, security-operations, siem, soar, soc, threat-modeling
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 AndreyKartsev-hub/caveman_edr
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/AndreyKartsev-hub/caveman_edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 ufukulaserdem/HijackHunter
+     ⭐ 0  🗣 Rust  📅 2026-06-02
+     🔗 https://github.com/ufukulaserdem/HijackHunter
+     📝 A PoC memory scanner and YARA rules for detecting stealthy process injection tec…
+     🏷  malware-analysis, memory-forensics, process-injection, rust, yara
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 chakradhar-madishetty/key-logger
+     ⭐ 0  🗣 C  📅 2026-06-02
+     🔗 https://github.com/chakradhar-madishetty/key-logger
+     📝 Its a linux based key logger developed in c++
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 TahaNynth/TIDE-Threat-Intelligence-Detection-Engine
+     ⭐ 0  🗣 TypeScript  📅 2026-06-02
+     🔗 https://github.com/TahaNynth/TIDE-Threat-Intelligence-Detection-Engine
+     📝 An Automated Threat Intelligence-to-Detection Engineering Platform for Cyber Def…
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 VISHNU0906/bastion
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/VISHNU0906/bastion
+     📝 SRE for security infrastructure: turns security signals (cert expiry, CVEs, auth…
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 2L1nks/is_iu
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/2L1nks/is_iu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 HAMIDOUOUMAR/CyberShield
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/HAMIDOUOUMAR/CyberShield
+     📝 Endpoint Detection and Response (EDR) educational project
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 cOmrade-r010/cOmrade-r010
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/cOmrade-r010/cOmrade-r010
+     📝 My story, my page !!
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 Miguel-R13/BlueTeam-Lab-Analisis-de-Malware-Spear-Phishing-VBA-Downloader
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Miguel-R13/BlueTeam-Lab-Analisis-de-Malware-Spear-Phishing-VBA-Downloader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 alvarolacar-cloud/edrems-skyscanner
+     ⭐ 0  🗣 HTML  📅 2026-06-02
+     🔗 https://github.com/alvarolacar-cloud/edrems-skyscanner
+     📝 Web local de presencia digital para sectores, oportunidades y casos reales
+     🏷  —
+[2026-06-02 20:51:40 UTC] [NEW]   🆕 📦 Mab-cybersecurity/offensive-security-methodology
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Mab-cybersecurity/offensive-security-methodology
+     📝 Metodología propia de seguridad ofensiva  en 11 fases para entornos enterprise h…
+     🏷  —
+[2026-06-02 20:51:40 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-02 20:51:40 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-02 20:51:40 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-02 20:51:43 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-02 20:51:43 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-06-02 20:51:43 UTC] [NEW]   🆕 📦 Pvl718/GameBuzz
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Pvl718/GameBuzz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:43 UTC] [NEW]   🆕 📦 2L1nks/is_iu
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/2L1nks/is_iu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-02 20:51:43 UTC] [NEW]   🆕 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+[2026-06-02 20:51:43 UTC] [NEW]   🆕 📦 cOmrade-r010/cOmrade-r010
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/cOmrade-r010/cOmrade-r010
+     📝 My story, my page !!
+     🏷  —
+[2026-06-02 20:51:43 UTC] [NEW]   🆕 📦 Mayur-0012/kernel-sentinel
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/Mayur-0012/kernel-sentinel
+     📝 eBPF-powered kernel IDS for syscall-level anomaly detection and exploit behavior…
+     🏷  —
+[2026-06-02 20:51:43 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-02 20:51:43 UTC] [UPD]   📢 📦 Usioboh/linux-privilege-escalation-notes
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Usioboh/linux-privilege-escalation-notes
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-02 20:51:43 UTC] [INFO] ============================================================
+[2026-06-02 20:51:43 UTC] [INFO] Completato — 25 nuovi, 2 aggiornati, 0 errori
+[2026-06-02 20:51:43 UTC] [INFO] ============================================================
