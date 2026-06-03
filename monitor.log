@@ -10580,3 +10580,144 @@
 [2026-06-03 16:52:34 UTC] [INFO] ============================================================
 [2026-06-03 16:52:34 UTC] [INFO] Completato — 17 nuovi, 8 aggiornati, 0 errori
 [2026-06-03 16:52:34 UTC] [INFO] ============================================================
+[2026-06-03 20:57:36 UTC] [INFO] ============================================================
+[2026-06-03 20:57:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-03 20:57:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-03 20:57:36 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-03 20:57:36 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-03 20:57:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-03 20:57:36 UTC] [INFO] ============================================================
+[2026-06-03 20:57:36 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-03 20:57:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-03 20:57:38 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 20:57:38 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-03 20:57:38 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-03 20:57:38 UTC] [UPD]   📢 📦 sudosoc/SUDOSOC-C2
+     ⭐ 1  🗣 Go  📅 2026-05-31
+     🔗 https://github.com/sudosoc/SUDOSOC-C2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-03 20:57:38 UTC] [UPD]   📢 📦 highdevian/combatroblox
+     ⭐ 1  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/highdevian/combatroblox
+     📝 Ferramenta forense local para verificação (SS) em comunidades de Roblox. 50 scan…
+     🏷  anti-cheat, forensics, incident-response, pe-analysis, python, roblox, screenshare, security-tools, ss-tool, windows-forensics
+     🔄 Motivo: repo recente (7gg)
+[2026-06-03 20:57:38 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-03 20:57:38 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-03 20:57:41 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 YDSantos12/blast-radius
+     ⭐ 0  🗣 Go  📅 2026-06-03
+     🔗 https://github.com/YDSantos12/blast-radius
+     📝 Post-compromise forensic tool for developer workstations
+     🏷  blue-team, credential-exposure, developer-security, dfir, forensics, golang, incident-response, python, supply-chain-security, threat-emulation
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 thomas-doan3024/TruOps
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/thomas-doan3024/TruOps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 EatBagel/Wazuh-Caldera-Sysmon-and-AI-Logs-Analysis-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/EatBagel/Wazuh-Caldera-Sysmon-and-AI-Logs-Analysis-Lab
+     📝 This project involved building a SOC cybersecurity home lab where simulated usin…
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 fanhefeng/portreaper
+     ⭐ 0  🗣 Rust  📅 2026-06-03
+     🔗 https://github.com/fanhefeng/portreaper
+     📝 Hunt down orphaned dev-server zombies squatting on your ports — macOS menubar & …
+     🏷  devtools, macos, menubar, port-killer, react, rust, tauri, windows
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 pogmooney/consulting_structure_s88
+     ⭐ 0  🗣 HTML  📅 2026-06-03
+     🔗 https://github.com/pogmooney/consulting_structure_s88
+     📝 consulting_structure_s88
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 n08976/ai-protect
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/n08976/ai-protect
+     📝 AI security scanning pipeline (SAST/DAST adapters, intel feeds, manifest-gated o…
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 ozzyag9-cloud/sentinel-x-platform
+     ⭐ 0  🗣 HTML  📅 2026-06-03
+     🔗 https://github.com/ozzyag9-cloud/sentinel-x-platform
+     📝 SENTINEL-X adapts the breakthrough vulnerability discovery capabilities demonstr…
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 hiikariri/respiratory-rate-estimation
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-03
+     🔗 https://github.com/hiikariri/respiratory-rate-estimation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 Sean-Khorasani/Janus_CryptoBOM
+     ⭐ 0  🗣 Rust  📅 2026-06-03
+     🔗 https://github.com/Sean-Khorasani/Janus_CryptoBOM
+     📝 Janus CryptoBOM is an enterprise-grade, post-quantum cryptographic posture manag…
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 lxtsst/FortiEDR_rsdb_import_reputation_dumps
+     ⭐ 0  🗣 Shell  📅 2026-06-03
+     🔗 https://github.com/lxtsst/FortiEDR_rsdb_import_reputation_dumps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 inkman97/task-scheduler-nul-persistence
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/inkman97/task-scheduler-nul-persistence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 asii-mov/doomla-extended-elastic
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/asii-mov/doomla-extended-elastic
+     📝 EDR-vs-LLM-agent eval framework using Elastic Defend on the Doomla cyber-range. …
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 stevenasturias2007/Hybrid-Identity-SIEM-EDR-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/stevenasturias2007/Hybrid-Identity-SIEM-EDR-Lab
+     📝 This lab builds upon my previous Active Directory lab, I Implemented a Hybrid Id…
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 goldynlabs/remote-commands
+     ⭐ 0  🗣 HTML  📅 2026-06-03
+     🔗 https://github.com/goldynlabs/remote-commands
+     📝 Share and synchronize commands across multiple devices.
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 laurovfigueiredo/aisoc
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/laurovfigueiredo/aisoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 20:57:41 UTC] [NEW]   🆕 📦 pasha6063/SDA-Pro
+     ⭐ 0  🗣 Java  📅 2026-06-03
+     🔗 https://github.com/pasha6063/SDA-Pro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 20:57:41 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-03 20:57:41 UTC] [UPD]   📢 📦 STDevSec/STnoesvirus
+     ⭐ 0  🗣 Rust  📅 2026-06-02
+     🔗 https://github.com/STDevSec/STnoesvirus
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-03 20:57:41 UTC] [UPD]   📢 📦 SirRuggie/Vivre
+     ⭐ 0  🗣 C#  📅 2026-05-27
+     🔗 https://github.com/SirRuggie/Vivre
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-03 20:57:41 UTC] [UPD]   📢 📦 yopazerbot/cybergame
+     ⭐ 0  🗣 TypeScript  📅 2026-06-03
+     🔗 https://github.com/yopazerbot/cybergame
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-03 20:57:41 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-03 20:57:41 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-03 20:57:44 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 20:57:44 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-03 20:57:44 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-03 20:57:44 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (1gg)
+[2026-06-03 20:57:44 UTC] [INFO] ============================================================
+[2026-06-03 20:57:44 UTC] [INFO] Completato — 16 nuovi, 6 aggiornati, 0 errori
+[2026-06-03 20:57:44 UTC] [INFO] ============================================================
