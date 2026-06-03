@@ -10422,3 +10422,161 @@
 [2026-06-03 11:03:20 UTC] [INFO] ============================================================
 [2026-06-03 11:03:20 UTC] [INFO] Completato — 22 nuovi, 4 aggiornati, 0 errori
 [2026-06-03 11:03:20 UTC] [INFO] ============================================================
+[2026-06-03 16:52:25 UTC] [INFO] ============================================================
+[2026-06-03 16:52:25 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-03 16:52:25 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-03 16:52:25 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-03 16:52:25 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-03 16:52:25 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-03 16:52:25 UTC] [INFO] ============================================================
+[2026-06-03 16:52:25 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-03 16:52:25 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-03 16:52:28 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 16:52:28 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-03 16:52:28 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-03 16:52:28 UTC] [UPD]   📢 📦 BenjiTrapp/ForestGump.sh
+     ⭐ 2  🗣 Shell  📅 2026-06-02
+     🔗 https://github.com/BenjiTrapp/ForestGump.sh
+     📝 ForestGump.sh is a lightweight, helper that runs through your filesystem like Fo…
+     🏷  docker, docker-image, kubernetes-deployment, pentesting, redteam-tools, redteaming
+     🔄 Motivo: repo recente (1gg)
+[2026-06-03 16:52:28 UTC] [UPD]   📢 📦 zavetsec/ZavetSec-EVTXHunter
+     ⭐ 1  🗣 PowerShell  📅 2026-06-02
+     🔗 https://github.com/zavetsec/ZavetSec-EVTXHunter
+     📝 Advanced Windows Event Log threat hunter in pure PowerShell — Sigma-subset detec…
+     🏷  blue-team, detection-engineering, dfir, digital-forensics, event-log-analysis, evtx, incident-response, log-analysis, mitre-attack, powershell, security-tools, sigma, soc, threat-detection, threat-hunting, windows-event-logs, windows-security, zavetsec
+     🔄 Motivo: repo recente (1gg)
+[2026-06-03 16:52:28 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-03 16:52:28 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-03 16:52:31 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 pasha6063/SDA
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/pasha6063/SDA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 RabbaniSOC/Microsoft-Defender-EDR-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/RabbaniSOC/Microsoft-Defender-EDR-Lab
+     📝 Microsoft Defender EDR Investigation Lab demonstrating malware detection, alert …
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 yopazerbot/cybergame
+     ⭐ 0  🗣 TypeScript  📅 2026-06-03
+     🔗 https://github.com/yopazerbot/cybergame
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 PatchRequest/CallGhost
+     ⭐ 0  🗣 Rust  📅 2026-06-03
+     🔗 https://github.com/PatchRequest/CallGhost
+     📝 Direct syscall framework for Rust on Windows x86_64. Bypasses usermode API hooks…
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 carlosparra/MacGuard
+     ⭐ 0  🗣 Rust  📅 2026-06-03
+     🔗 https://github.com/carlosparra/MacGuard
+     📝 Rust-based macOS endpoint detection agent. Real-time filesystem monitoring with …
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 edr-i/matchboxd
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/edr-i/matchboxd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 QmFkLVBp/MIMEXOR
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/QmFkLVBp/MIMEXOR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 gururajseethur/smb-cybersecurity-framework
+     ⭐ 0  🗣 Shell  📅 2026-06-03
+     🔗 https://github.com/gururajseethur/smb-cybersecurity-framework
+     📝 Defense-in-depth cybersecurity framework for small businesses — built on free / …
+     🏷  capstone, ceh, cis-controls, clamav, cybersecurity, ddos-protection, defense-in-depth, fail2ban, iptables, lynis, nmap, open-source-security, security-policies, smb, suricata
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 Cyber-05/Cyber-Sphere
+     ⭐ 0  🗣 TypeScript  📅 2026-06-03
+     🔗 https://github.com/Cyber-05/Cyber-Sphere
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 miabfben-a11y/EschatonKeyloggerProtocol
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/miabfben-a11y/EschatonKeyloggerProtocol
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 Raphasha27/kirov-malware-analysis-lab
+     ⭐ 0  🗣 Dockerfile  📅 2026-06-03
+     🔗 https://github.com/Raphasha27/kirov-malware-analysis-lab
+     📝 Kirov Security Labs - kirov-malware-analysis-lab
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 Raphasha27/kirov-security-dashboard
+     ⭐ 0  🗣 Dockerfile  📅 2026-06-03
+     🔗 https://github.com/Raphasha27/kirov-security-dashboard
+     📝 Kirov Security Labs - kirov-security-dashboard
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 stephennotw/SigmaForge
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/stephennotw/SigmaForge
+     📝 Universal Detection Rule Converter — YARA ↔ Sigma ↔ Suricata with Multi-SIEM Out…
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 Ajayadhithyan/soc_dash
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/Ajayadhithyan/soc_dash
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 16:52:31 UTC] [NEW]   🆕 📦 viveksingh8290/viveksingh8290
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/viveksingh8290/viveksingh8290
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 16:52:31 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-03 16:52:31 UTC] [UPD]   📢 📦 g-edr-uh/g-edr-uh.github.io
+     ⭐ 0  🗣 CSS  📅 2026-06-03
+     🔗 https://github.com/g-edr-uh/g-edr-uh.github.io
+     📝 Professional portfolio
+     🏷  professional-portfolio
+     🔄 Motivo: repo recente (0gg)
+[2026-06-03 16:52:31 UTC] [UPD]   📢 📦 radegast-edr/radegast-console-backend
+     ⭐ 0  🗣 Python  📅 2026-05-27
+     🔗 https://github.com/radegast-edr/radegast-console-backend
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-03 16:52:31 UTC] [UPD]   📢 📦 radegast-edr/radegast-console-web
+     ⭐ 0  🗣 Svelte  📅 2026-05-27
+     🔗 https://github.com/radegast-edr/radegast-console-web
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-03 16:52:31 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-03 16:52:31 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-03 16:52:34 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 16:52:34 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-03 16:52:34 UTC] [NEW]   🆕 📦 sco-sec/CPTS-PREP-NOTES
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/sco-sec/CPTS-PREP-NOTES
+     📝 A repository for my CPTS Preparation Notes
+     🏷  —
+[2026-06-03 16:52:34 UTC] [NEW]   🆕 📦 miabfben-a11y/EschatonKeyloggerProtocol
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/miabfben-a11y/EschatonKeyloggerProtocol
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 16:52:34 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-03 16:52:34 UTC] [UPD]   📢 📦 zeroxjf/cyanide
+     ⭐ 76  🗣 Objective-C  📅 2026-05-30
+     🔗 https://github.com/zeroxjf/cyanide
+     📝 Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-03 16:52:34 UTC] [UPD]   📢 📦 Usioboh/linux-privilege-escalation-notes
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Usioboh/linux-privilege-escalation-notes
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-03 16:52:34 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (0gg)
+[2026-06-03 16:52:34 UTC] [INFO] ============================================================
+[2026-06-03 16:52:34 UTC] [INFO] Completato — 17 nuovi, 8 aggiornati, 0 errori
+[2026-06-03 16:52:34 UTC] [INFO] ============================================================
