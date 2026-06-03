@@ -10108,3 +10108,158 @@
 [2026-06-02 20:51:43 UTC] [INFO] ============================================================
 [2026-06-02 20:51:43 UTC] [INFO] Completato — 25 nuovi, 2 aggiornati, 0 errori
 [2026-06-02 20:51:43 UTC] [INFO] ============================================================
+[2026-06-03 04:19:48 UTC] [INFO] ============================================================
+[2026-06-03 04:19:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-03 04:19:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-03 04:19:48 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-03 04:19:48 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-03 04:19:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-03 04:19:48 UTC] [INFO] ============================================================
+[2026-06-03 04:19:48 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-03 04:19:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-03 04:19:50 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 04:19:50 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-03 04:19:50 UTC] [NEW]   🆕 📦 sujan1-3/nimcrab-rt
+     ⭐ 0  🗣 Nim  📅 2026-06-02
+     🔗 https://github.com/sujan1-3/nimcrab-rt
+     📝 Windows x64 red team implant framework — Nim rewrite with full evasion stack, in…
+     🏷  —
+[2026-06-03 04:19:50 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-03 04:19:50 UTC] [UPD]   📢 📦 CroatiaSecurity/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-05-07
+     🔗 https://github.com/CroatiaSecurity/Sentinel
+     📝 Userland IDS/EDR for Windows — behavioral threat detection and response
+     🏷  csharp, dotnet, edr, ids, malware, security, threat-detection, windows
+     🔄 Motivo: nuovi topic: edr, malware, dotnet, security, ids, windows, csharp, threat-detection
+[2026-06-03 04:19:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-03 04:19:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-03 04:19:52 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 SynthicsoftLabs/SynthicSecurity-Pipeline-Windows-Edition-
+     ⭐ 0  🗣 PowerShell  📅 2026-06-03
+     🔗 https://github.com/SynthicsoftLabs/SynthicSecurity-Pipeline-Windows-Edition-
+     📝 Autonomous Windows endpoint protection suite featuring real-time threat detectio…
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 Rookid21/SOC-Homelab
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/Rookid21/SOC-Homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 Kruti3101/ThreatAttack
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/Kruti3101/ThreatAttack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 Kruti3101/Socwatch
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/Kruti3101/Socwatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 mercadoalex/OllinAI-
+     ⭐ 0  🗣 TypeScript  📅 2026-06-02
+     🔗 https://github.com/mercadoalex/OllinAI-
+     📝 OllinAI is Change Intelligence and Deployment Risk platform — from webhook inges…
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 5brothersghz-glitch/Siem-With-Wazuh
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/5brothersghz-glitch/Siem-With-Wazuh
+     📝 Built a cybersecurity lab using Wazuh, MITRE Caldera, and AI-powered log analysi…
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 DrDavid31/doguiweb
+     ⭐ 0  🗣 CSS  📅 2026-06-02
+     🔗 https://github.com/DrDavid31/doguiweb
+     📝 doguiweb
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 jorgetoqu/monorepo-pdv
+     ⭐ 0  🗣 TypeScript  📅 2026-06-03
+     🔗 https://github.com/jorgetoqu/monorepo-pdv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 arzhrd/EdReel
+     ⭐ 0  🗣 Dart  📅 2026-06-03
+     🔗 https://github.com/arzhrd/EdReel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 sujan1-3/nimcrab-rt
+     ⭐ 0  🗣 Nim  📅 2026-06-02
+     🔗 https://github.com/sujan1-3/nimcrab-rt
+     📝 Windows x64 red team implant framework — Nim rewrite with full evasion stack, in…
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-COLLECTION-CLEAN
+     ⭐ 0  🗣 Java  📅 2026-06-02
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-COLLECTION-CLEAN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 gustavosamuelbrabo-art/sedsds
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/gustavosamuelbrabo-art/sedsds
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 credkellar-boop/Mon-XDR
+     ⭐ 0  🗣 Go  📅 2026-06-02
+     🔗 https://github.com/credkellar-boop/Mon-XDR
+     📝 a Go-based Extended Detection and Response (XDR) architecture unifying high-spee…
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-COLLECTION-DIRTY
+     ⭐ 0  🗣 Java  📅 2026-06-02
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-COLLECTION-DIRTY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 yankywilson/lynx-ransomware-cti
+     ⭐ 0  🗣 YARA  📅 2026-06-02
+     🔗 https://github.com/yankywilson/lynx-ransomware-cti
+     📝 Full-chain CTI investigation of Lynx ransomware (INC lineage) — binary RE, crypt…
+     🏷  curve25519, inc-ransomware, lynx-ransomware, threat-intelligence
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 jaradat13/DMS
+     ⭐ 0  🗣 Python  📅 2026-06-02
+     🔗 https://github.com/jaradat13/DMS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 SamTang0/Exposed-Solution
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/SamTang0/Exposed-Solution
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [NEW]   🆕 📦 RaphaelDaSilvaDev/SOC-Analyst-Learning-Notes
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/RaphaelDaSilvaDev/SOC-Analyst-Learning-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:52 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-03 04:19:52 UTC] [UPD]   📢 📦 TahaNynth/TIDE-Threat-Intelligence-Detection-Engine
+     ⭐ 0  🗣 TypeScript  📅 2026-06-02
+     🔗 https://github.com/TahaNynth/TIDE-Threat-Intelligence-Detection-Engine
+     📝 An Automated Threat Intelligence-to-Detection Engineering Platform for Cyber Def…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-03 04:19:52 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-03 04:19:52 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-03 04:19:54 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 04:19:54 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-03 04:19:54 UTC] [NEW]   🆕 📦 mhmad1230/3
+     ⭐ 0  🗣 JavaScript  📅 2026-06-02
+     🔗 https://github.com/mhmad1230/3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 04:19:54 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-03 04:19:54 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (0gg)
+[2026-06-03 04:19:54 UTC] [UPD]   📢 📦 zeroxjf/cyanide
+     ⭐ 62  🗣 Objective-C  📅 2026-05-30
+     🔗 https://github.com/zeroxjf/cyanide
+     📝 Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-03 04:19:54 UTC] [UPD]   📢 📦 lz-anonz/PS5-JB-SUITE
+     ⭐ 0  🗣 JavaScript  📅 2026-06-01
+     🔗 https://github.com/lz-anonz/PS5-JB-SUITE
+     📝 A repository with all the latest/updated files & tools you may need or want, to …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-03 04:19:54 UTC] [INFO] ============================================================
+[2026-06-03 04:19:54 UTC] [INFO] Completato — 20 nuovi, 5 aggiornati, 0 errori
+[2026-06-03 04:19:54 UTC] [INFO] ============================================================
