@@ -10263,3 +10263,162 @@
 [2026-06-03 04:19:54 UTC] [INFO] ============================================================
 [2026-06-03 04:19:54 UTC] [INFO] Completato — 20 nuovi, 5 aggiornati, 0 errori
 [2026-06-03 04:19:54 UTC] [INFO] ============================================================
+[2026-06-03 11:03:12 UTC] [INFO] ============================================================
+[2026-06-03 11:03:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-03 11:03:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-03 11:03:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-03 11:03:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-03 11:03:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-03 11:03:12 UTC] [INFO] ============================================================
+[2026-06-03 11:03:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-03 11:03:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-03 11:03:14 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 11:03:14 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-03 11:03:14 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-03 11:03:14 UTC] [UPD]   📢 📦 zavetsec/ZavetSec-EVTXHunter
+     ⭐ 1  🗣 PowerShell  📅 2026-06-02
+     🔗 https://github.com/zavetsec/ZavetSec-EVTXHunter
+     📝 Advanced Windows Event Log threat hunter in pure PowerShell — Sigma-subset detec…
+     🏷  blue-team, detection-engineering, dfir, digital-forensics, event-log-analysis, evtx, incident-response, log-analysis, mitre-attack, powershell, security-tools, sigma, soc, threat-detection, threat-hunting, windows-event-logs, windows-security, zavetsec
+     🔄 Motivo: repo recente (1gg) | nuovi topic: dfir, mitre-attack, event-log-analysis, detection-engineering, threat-detection, log-analysis, evtx, zavetsec, windows-event-logs, windows-security, soc, incident-response, digital-forensics, sigma, powershell, security-tools, threat-hunting, blue-team
+[2026-06-03 11:03:14 UTC] [UPD]   📢 📦 sujan1-3/nimcrab-rt
+     ⭐ 0  🗣 Nim  📅 2026-06-02
+     🔗 https://github.com/sujan1-3/nimcrab-rt
+     📝 Windows x64 red team implant framework — Nim rewrite with full evasion stack, in…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-03 11:03:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-03 11:03:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-03 11:03:18 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 durgeshk-oss/Ai-sentinel
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/durgeshk-oss/Ai-sentinel
+     📝 Standard Endpoint Detection and Response (EDR) platforms capture system calls, f…
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 g-edr-uh/g-edr-uh.github.io
+     ⭐ 0  🗣 CSS  📅 2026-06-03
+     🔗 https://github.com/g-edr-uh/g-edr-uh.github.io
+     📝 Professional portfolio
+     🏷  professional-portfolio
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 ax-iv/amber_esp32_gps_lite
+     ⭐ 0  🗣 C++  📅 2026-06-03
+     🔗 https://github.com/ax-iv/amber_esp32_gps_lite
+     📝 ESP32-WROOM32 project for Amberauto A5 Bluetooth GPS receiver
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 a3ubakarr/wazuh-siem-homelab
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/a3ubakarr/wazuh-siem-homelab
+     📝 Home SOC Lab using Wazuh SIEM - Ubuntu Server, Kali Linux, Windows 10
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 Rohit-Yadav123/Rohit-Yadav123
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/Rohit-Yadav123/Rohit-Yadav123
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 netzilo/aidr-sigma
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/netzilo/aidr-sigma
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 carlosparra/Mac-Guard
+     ⭐ 0  🗣 Rust  📅 2026-06-03
+     🔗 https://github.com/carlosparra/Mac-Guard
+     📝  Rust-based macOS endpoint detection agent. Real-time filesystem monitoring with…
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 carlosparra/CyberSignal
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-03
+     🔗 https://github.com/carlosparra/CyberSignal
+     📝 CyberSignal monitors X/Twitter for cybersecurity buying signals. It detects comp…
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 STDevSec/STnoesvirus
+     ⭐ 0  🗣 Rust  📅 2026-06-02
+     🔗 https://github.com/STDevSec/STnoesvirus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 faizalwahyu/CA
+     ⭐ 0  🗣 Shell  📅 2026-06-03
+     🔗 https://github.com/faizalwahyu/CA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 rexlim820220/SentinelLite-EDR
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/rexlim820220/SentinelLite-EDR
+     📝 A lightweight user-space Endpoint Detection and Response (EDR) proof-of-concept …
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_34
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_34
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 willcel/xr-display-physics-engineering
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/willcel/xr-display-physics-engineering
+     📝 从物理光子到图形管线的硬核解构：色彩科学、HDR架构、DPU/DDIC芯片管线、XR光学透镜与渲染时序的第一性原理全记录
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 Pareo-AI/pythia-edc
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/Pareo-AI/pythia-edc
+     📝 Ask your Gaia-X data space in plain language. MCP-native Python SDK for Eclipse …
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 InKu0721/malware-re-skills
+     ⭐ 1  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/InKu0721/malware-re-skills
+     📝 一行命令，从样本加载到完整分析报告，全流程自动化。覆盖 Windows PE / Linux ELF / macOS Mach-O 三平台，映射 MITRE A…
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 trie0000/MdMd
+     ⭐ 0  🗣 CSS  📅 2026-06-03
+     🔗 https://github.com/trie0000/MdMd
+     📝 Offline PWA markdown editor (zero external network, vendor-bundled)
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 Kaboombafoo/AWS-Wazuh-SOAR-With-Ansible
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/Kaboombafoo/AWS-Wazuh-SOAR-With-Ansible
+     📝 I recreated my Oracle homelab and setup Wazuh again. I used ansible to configure…
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 Slatetrialternator64/repo-6p5b5edr
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/Slatetrialternator64/repo-6p5b5edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 nludd25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/nludd25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 11:03:18 UTC] [NEW]   🆕 📦 yashraj280718/jules-1
+     ⭐ 0  🗣 JavaScript  📅 2026-06-02
+     🔗 https://github.com/yashraj280718/jules-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-03 11:03:18 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-03 11:03:18 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-03 11:03:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-03 11:03:20 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-03 11:03:20 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-03 11:03:20 UTC] [NEW]   🆕 📦 bazzal99/Decoder-Free-Turbo-mHD_Estimator
+     ⭐ 0  🗣 C  📅 2026-06-03
+     🔗 https://github.com/bazzal99/Decoder-Free-Turbo-mHD_Estimator
+     📝 Decoder-independent minimum Hamming distance estimator for LTE Turbo Codes (ZT a…
+     🏷  channel-coding, error-correcting-codes, lte, minimum-distance, qpp-interleaver, return-to-zero, turbo-codes
+[2026-06-03 11:03:20 UTC] [NEW]   🆕 📦 MuelNova/NoKrnDocker
+     ⭐ 0  🗣 Shell  📅 2026-06-03
+     🔗 https://github.com/MuelNova/NoKrnDocker
+     📝 docker for kernel debugging
+     🏷  —
+[2026-06-03 11:03:20 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-03 11:03:20 UTC] [UPD]   📢 📦 zeroxjf/cyanide
+     ⭐ 70  🗣 Objective-C  📅 2026-05-30
+     🔗 https://github.com/zeroxjf/cyanide
+     📝 Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-03 11:03:20 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (0gg)
+[2026-06-03 11:03:20 UTC] [INFO] ============================================================
+[2026-06-03 11:03:20 UTC] [INFO] Completato — 22 nuovi, 4 aggiornati, 0 errori
+[2026-06-03 11:03:20 UTC] [INFO] ============================================================
