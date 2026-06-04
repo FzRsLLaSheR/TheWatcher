@@ -11043,3 +11043,164 @@
 [2026-06-04 10:01:43 UTC] [INFO] ============================================================
 [2026-06-04 10:01:43 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
 [2026-06-04 10:01:43 UTC] [INFO] ============================================================
+[2026-06-04 15:19:49 UTC] [INFO] ============================================================
+[2026-06-04 15:19:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-04 15:19:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-04 15:19:49 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-04 15:19:49 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-04 15:19:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-04 15:19:49 UTC] [INFO] ============================================================
+[2026-06-04 15:19:49 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-04 15:19:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-04 15:19:51 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 15:19:51 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-04 15:19:51 UTC] [NEW]   🆕 📦 whosstyler/Type2-AMD-HV
+     ⭐ 2  🗣 C  📅 2026-06-04
+     🔗 https://github.com/whosstyler/Type2-AMD-HV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 15:19:51 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-04 15:19:51 UTC] [UPD]   📢 📦 sudosoc/SUDOSOC-C2
+     ⭐ 1  🗣 Go  📅 2026-05-31
+     🔗 https://github.com/sudosoc/SUDOSOC-C2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-04 15:19:51 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-04 15:19:51 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-04 15:19:54 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 The-Abhishek1/XCLOAK-SECURITY-SUITE
+     ⭐ 1  🗣 Go  📅 2026-06-04
+     🔗 https://github.com/The-Abhishek1/XCLOAK-SECURITY-SUITE
+     📝 XCloak Security Suite is a self-hosted, open-architecture security operations pl…
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 mabuikhzam/edrak
+     ⭐ 0  🗣 PHP  📅 2026-06-04
+     🔗 https://github.com/mabuikhzam/edrak
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 mybeYsr/SOC-Automation
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/mybeYsr/SOC-Automation
+     📝 SOC Automation Project using Wazuh SIEM and Shuffle SOAR for SSH Brute Force Det…
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-EXAM
+     ⭐ 0  🗣 Java  📅 2026-06-04
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-EXAM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 Chadianscorp/enterprise-compliance-mapping
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/Chadianscorp/enterprise-compliance-mapping
+     📝 Cross-framework control matrix mapping enterprise assets to NIST SP 800-53, ISO/…
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 chaserswordshanty/win-debloat-2026-edr8
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/chaserswordshanty/win-debloat-2026-edr8
+     📝 Windows 11/10: debloat и ускорение — один клик, без переустановки системы
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 spacewolf0305/jarvis-assistant
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/spacewolf0305/jarvis-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 Systech2021-1952/SOC-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/Systech2021-1952/SOC-Roadmap
+     📝 A complete roadmap for becoming a SOC Analyst from beginner to advanced with rea…
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 jaybinks/CTF
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/jaybinks/CTF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 cromop1/TP-1-nuevas-tecnologias
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/cromop1/TP-1-nuevas-tecnologias
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 PatchRequest/BusyWork
+     ⭐ 1  🗣 Rust  📅 2026-06-04
+     🔗 https://github.com/PatchRequest/BusyWork
+     📝 Sleep replacement that executes real, varied work to break behavioral pattern ma…
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 bluefox32/-
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/bluefox32/-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 razbearr/shellknight
+     ⭐ 1  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/razbearr/shellknight
+     📝 AI-assisted terminal security monitor with real-time command interception, behav…
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 lolisys/EDRINE-SAJJABI-950USD-GOVTAX-OTovUSA
+     ⭐ 0  🗣 HTML  📅 2026-06-04
+     🔗 https://github.com/lolisys/EDRINE-SAJJABI-950USD-GOVTAX-OTovUSA
+     📝 Received And payment 
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 forefy/JXA-Persistency
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/forefy/JXA-Persistency
+     📝 Old JXA based MacOS persistency for EDR bypass security testing
+     🏷  —
+[2026-06-04 15:19:54 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-BEAN
+     ⭐ 0  🗣 Java  📅 2026-06-04
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-BEAN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 15:19:54 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-04 15:19:54 UTC] [UPD]   📢 📦 hasamba/DFIR-Companion
+     ⭐ 0  🗣 TypeScript  📅 2026-06-02
+     🔗 https://github.com/hasamba/DFIR-Companion
+     📝 Localhost DFIR companion: MV3 capture extension + Node/TS server that turns scre…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-04 15:19:54 UTC] [UPD]   📢 📦 yopazerbot/cybergame
+     ⭐ 0  🗣 TypeScript  📅 2026-06-03
+     🔗 https://github.com/yopazerbot/cybergame
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-04 15:19:54 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-04 15:19:54 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-04 15:19:56 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 15:19:56 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-04 15:19:56 UTC] [NEW]   🆕 📦 LeoMichel-10/test
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/LeoMichel-10/test
+     📝 CopyStation Jailbreak 9.00 SIN USB / PSfree WebKit Exploit & Lapse Kernel Exploi…
+     🏷  —
+[2026-06-04 15:19:56 UTC] [NEW]   🆕 📦 Sud4ka/CellInspector
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/Sud4ka/CellInspector
+     📝 CellInspector - Mobile Device Security Auditor via ADB
+     🏷  —
+[2026-06-04 15:19:56 UTC] [NEW]   🆕 📦 vn-lazyming/gef_mcp
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/vn-lazyming/gef_mcp
+     📝 gef mcp for https://github.com/bata24/gef
+     🏷  —
+[2026-06-04 15:19:56 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-04 15:19:56 UTC] [UPD]   📢 📦 sudosoc/SUDOSOC-C2
+     ⭐ 1  🗣 Go  📅 2026-05-31
+     🔗 https://github.com/sudosoc/SUDOSOC-C2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-04 15:19:56 UTC] [UPD]   📢 📦 Usioboh/linux-privilege-escalation-notes
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Usioboh/linux-privilege-escalation-notes
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-04 15:19:56 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (1gg)
+[2026-06-04 15:19:56 UTC] [INFO] ============================================================
+[2026-06-04 15:19:56 UTC] [INFO] Completato — 20 nuovi, 6 aggiornati, 0 errori
+[2026-06-04 15:19:56 UTC] [INFO] ============================================================
