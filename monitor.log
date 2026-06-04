@@ -10721,3 +10721,151 @@
 [2026-06-03 20:57:44 UTC] [INFO] ============================================================
 [2026-06-03 20:57:44 UTC] [INFO] Completato — 16 nuovi, 6 aggiornati, 0 errori
 [2026-06-03 20:57:44 UTC] [INFO] ============================================================
+[2026-06-04 04:13:58 UTC] [INFO] ============================================================
+[2026-06-04 04:13:58 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-04 04:13:58 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-04 04:13:58 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-04 04:13:58 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-04 04:13:58 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-04 04:13:58 UTC] [INFO] ============================================================
+[2026-06-04 04:13:58 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-04 04:13:58 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-04 04:14:00 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 04:14:00 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-04 04:14:00 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-04 04:14:00 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-04 04:14:00 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-04 04:14:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 KanakSasak/Antitesa
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/KanakSasak/Antitesa
+     📝 In critical theory and philosophy, the antitesa (antithesis) represents the oppo…
+     🏷  adversarial-emulation, aev, purple-teaming
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 ericklml/NIST-Ransomware
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/ericklml/NIST-Ransomware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 PASTA760/HPE_TDI
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/PASTA760/HPE_TDI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 just-zeynep/SOC-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/just-zeynep/SOC-Home-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 edrobeda/edrobeda
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/edrobeda/edrobeda
+     📝 👋 Olá, eu sou Edrobeda 🚀 Desenvolvedor Full Stack Sênior | Transformando ideias …
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 Jmead55/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/Jmead55/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 tpetgrave12-dotcom/tkh-cybersecurity-journey
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/tpetgrave12-dotcom/tkh-cybersecurity-journey
+     📝 12 weeks of real cybersecurity work built at The Knowledge House — explained for…
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 viscom-tongji/EDG-diagnosis-and-reporting
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/viscom-tongji/EDG-diagnosis-and-reporting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 sonx4444/Aegis
+     ⭐ 0  🗣 C  📅 2026-06-04
+     🔗 https://github.com/sonx4444/Aegis
+     📝 Aegis — a Windows kernel-mode EDR built from scratch
+     🏷  edr, endpoint-security, kernel, windows
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 sheehanmunim/react-native-bluetooth-ble
+     ⭐ 1  🗣 Kotlin  📅 2026-06-04
+     🔗 https://github.com/sheehanmunim/react-native-bluetooth-ble
+     📝 React Native Bluetooth: BLE central/peripheral, Expo, L2CAP, Android Classic Blu…
+     🏷  android, ble, ble-central, ble-peripheral, bluetooth, bluetooth-classic, bluetooth-low-energy, bluetooth-peripheral, central, expo, gatt, ios, l2cap, multipeer-connectivity, nitro-modules, peripheral, react-native, react-native-bluetooth, react-native-bluetooth-peripheral, typescript
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 rashidaalexander/LogSentinelX.
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/rashidaalexander/LogSentinelX.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 Dmokom1/blue-team-career-path
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/Dmokom1/blue-team-career-path
+     📝 6-Phase 0-5 Years Blue Team Training Curriculum with Hands-On Labs
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 SavonMasters/Limacharlie-endpoint-investigation
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/SavonMasters/Limacharlie-endpoint-investigation
+     📝 Limacharlie endpoint investigation 
+     🏷  commandline, endpoint, investigation, limacharlie
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 Kruti3101/MalwareScope
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/Kruti3101/MalwareScope
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 Philotheephilix/zerotrust
+     ⭐ 0  🗣 TypeScript  📅 2026-06-03
+     🔗 https://github.com/Philotheephilix/zerotrust
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 Kruti3101/Forensiq
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/Kruti3101/Forensiq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 m4raUbunt4/TTA_Project
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/m4raUbunt4/TTA_Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 synacktiv/Metamorph
+     ⭐ 0  🗣 C  📅 2026-06-03
+     🔗 https://github.com/synacktiv/Metamorph
+     📝 A command-line utility for Windows written in C that creates and configures pers…
+     🏷  —
+[2026-06-04 04:14:03 UTC] [NEW]   🆕 📦 sm91518162b-ai/spyder
+     ⭐ 1  🗣 C++  📅 2026-06-03
+     🔗 https://github.com/sm91518162b-ai/spyder
+     📝 Этот антивирус заставит все вирусы плакать, пока вы будете смеяться и учиться. r…
+     🏷  —
+[2026-06-04 04:14:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-04 04:14:03 UTC] [UPD]   📢 📦 Ajayadhithyan/soc_dash
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/Ajayadhithyan/soc_dash
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-04 04:14:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-04 04:14:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-04 04:14:05 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 04:14:05 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-04 04:14:05 UTC] [NEW]   🆕 📦 CesarSann/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/CesarSann/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 04:14:05 UTC] [NEW]   🆕 📦 pradippandey555/Ethical-Hacking-Uni-Project---Hands-on-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/pradippandey555/Ethical-Hacking-Uni-Project---Hands-on-Lab
+     📝 Only for Education Purposes
+     🏷  —
+[2026-06-04 04:14:05 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-04 04:14:05 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (1gg)
+[2026-06-04 04:14:05 UTC] [UPD]   📢 📦 kmsmith137/ch_top
+     ⭐ 0  🗣 Python  📅 2026-05-31
+     🔗 https://github.com/kmsmith137/ch_top
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-04 04:14:05 UTC] [INFO] ============================================================
+[2026-06-04 04:14:05 UTC] [INFO] Completato — 21 nuovi, 3 aggiornati, 0 errori
+[2026-06-04 04:14:05 UTC] [INFO] ============================================================
