@@ -10869,3 +10869,177 @@
 [2026-06-04 04:14:05 UTC] [INFO] ============================================================
 [2026-06-04 04:14:05 UTC] [INFO] Completato — 21 nuovi, 3 aggiornati, 0 errori
 [2026-06-04 04:14:05 UTC] [INFO] ============================================================
+[2026-06-04 10:01:35 UTC] [INFO] ============================================================
+[2026-06-04 10:01:35 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-04 10:01:35 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-04 10:01:35 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-04 10:01:35 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-04 10:01:35 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-04 10:01:35 UTC] [INFO] ============================================================
+[2026-06-04 10:01:35 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-04 10:01:35 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-04 10:01:37 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 10:01:37 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-04 10:01:37 UTC] [NEW]   🆕 📦 0xtamseel/wkl-odpc
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/0xtamseel/wkl-odpc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 10:01:37 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-04 10:01:37 UTC] [UPD]   📢 📦 sudosoc/SUDOSOC-C2
+     ⭐ 1  🗣 Go  📅 2026-05-31
+     🔗 https://github.com/sudosoc/SUDOSOC-C2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-04 10:01:37 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-04 10:01:37 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-04 10:01:40 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 nithyananthantechy/NexusAI
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/nithyananthantechy/NexusAI
+     📝 NEw project
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 nick-saini/rdvr
+     ⭐ 0  🗣 HTML  📅 2026-06-04
+     🔗 https://github.com/nick-saini/rdvr
+     📝 RDVR v2.1 - Enterprise RDP Session Monitoring with hardware encoding, CCTV live …
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 moe1112025/Malware-Analyst-Key-Logger-
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/moe1112025/Malware-Analyst-Key-Logger-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 antoniosilia-stack/futura-pensioen
+     ⭐ 0  🗣 HTML  📅 2026-06-04
+     🔗 https://github.com/antoniosilia-stack/futura-pensioen
+     📝 calcolo pensione
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 Jean-Regis-M/SentinelML
+     ⭐ 1  🗣 TypeScript  📅 2026-06-04
+     🔗 https://github.com/Jean-Regis-M/SentinelML
+     📝 Production-grade eBPF runtime security for AI workloads, delivering low-latency …
+     🏷  ai-security, cloud-security, containers, cybersecurity, detection-engineering, devsecops, ebpf, grafana, kernel-security, kubernetes, libbpf, linux, mlops, observability, open-source, prometheus, runtime-security, rust, systems-programming, threat-detection
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 dij0o/EDR
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/dij0o/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 antoniosilia-stack/pensione
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/antoniosilia-stack/pensione
+     📝 calcolatore pensione 
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 littleleeks/LeekShell
+     ⭐ 2  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/littleleeks/LeekShell
+     📝 LeekShell 是一款完全自研的轻量级C2框架，采用 Python + C++ 架构，舍弃部分冗余功能以换取更高的隐蔽性与可控性。
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 0xtamseel/wkl-odpc
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/0xtamseel/wkl-odpc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 rafaelhernandezrios/Phobias-ATR
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/rafaelhernandezrios/Phobias-ATR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 yduduu/elastic-siem-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-03
+     🔗 https://github.com/yduduu/elastic-siem-home-lab
+     📝 Built a SIEM Home Lab using Elasticsearch, Kibana, Docker and Winlogbeat. Collec…
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 fgtegjh/----it
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/fgtegjh/----it
+     📝 大型资源网97it.top
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 SmartPoqueira/EDRS-Extremity-Density-Representative-Selection-for-SSL
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/SmartPoqueira/EDRS-Extremity-Density-Representative-Selection-for-SSL
+     📝 Extremity-Density Representative Selection for Semi-Supervised Learning on imbal…
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 vulnquest58/kali_master
+     ⭐ 0  🗣 Shell  📅 2026-06-04
+     🔗 https://github.com/vulnquest58/kali_master
+     📝 Offensive Security Platform — v6.6.1   Bug Bounty | Red Team | RE | CTF | Malwar…
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 SayantanSardar-commits/SOC-L1-Homelab-Splunk
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/SayantanSardar-commits/SOC-L1-Homelab-Splunk
+     📝 End-to-end SOC home lab | Attack simulation & threat detection using Splunk SIEM…
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 sachinkumar-gg/mini-edr
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/sachinkumar-gg/mini-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 ssongkim03/powershell-malware-analysis
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/ssongkim03/powershell-malware-analysis
+     📝 PowerShell 악성코드 정적/동적 분석 실습 보고서
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 jobthadeus/AI-logs-analyser
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/jobthadeus/AI-logs-analyser
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 achnouri/achnouri
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/achnouri/achnouri
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 abhishektrade3-cloud/Graphene-Water-Interface-MD-Simulation-GROMACS
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-04
+     🔗 https://github.com/abhishektrade3-cloud/Graphene-Water-Interface-MD-Simulation-GROMACS
+     📝 Atomistic molecular dynamics of a water slab on a graphene surface — built, simu…
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 sunilgentyala/OmniRed
+     ⭐ 0  🗣 PowerShell  📅 2026-06-04
+     🔗 https://github.com/sunilgentyala/OmniRed
+     📝 OmniRed: Multi-AI offensive security skills library for Claude, ChatGPT, Gemini …
+     🏷  ai-security, bug-bounty, chatgpt, claude-skills, gemini, llm-security, mcp-security, microsoft-copilot, mitre-atlas, offensive-security, owasp-llm-top10, penetration-testing, prompt-injection, rag-poisoning, red-team
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 BryanDanielMartinezCabezas/DS.15_demostracion
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/BryanDanielMartinezCabezas/DS.15_demostracion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 10:01:40 UTC] [NEW]   🆕 📦 Bataas/Automated-SOC-LAB
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/Bataas/Automated-SOC-LAB
+     📝 A cloud-based SOC lab integrating Wazuh SIEM, Shuffle SOAR, DFIR-IRIS, Grafana, …
+     🏷  —
+[2026-06-04 10:01:40 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-04 10:01:40 UTC] [UPD]   📢 📦 ComradeCosmos/EUD-Compliance-Dash
+     ⭐ 0  🗣 HTML  📅 2026-05-28
+     🔗 https://github.com/ComradeCosmos/EUD-Compliance-Dash
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-04 10:01:40 UTC] [UPD]   📢 📦 fanhefeng/portreaper
+     ⭐ 0  🗣 Rust  📅 2026-06-03
+     🔗 https://github.com/fanhefeng/portreaper
+     📝 Hunt down orphaned dev-server zombies squatting on your ports — macOS menubar & …
+     🏷  devtools, macos, menubar, port-killer, react, rust, tauri, windows
+     🔄 Motivo: repo recente (0gg)
+[2026-06-04 10:01:40 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-04 10:01:40 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-04 10:01:43 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 10:01:43 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-04 10:01:43 UTC] [NEW]   🆕 📦 Jelvantrix/SENTINEL
+     ⭐ 0  🗣 Rust  📅 2026-06-04
+     🔗 https://github.com/Jelvantrix/SENTINEL
+     📝 SENTINEL is a modular, offline-sovereign, zero-budget cyber defense operating en…
+     🏷  —
+[2026-06-04 10:01:43 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-04 10:01:43 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (1gg)
+[2026-06-04 10:01:43 UTC] [INFO] ============================================================
+[2026-06-04 10:01:43 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
+[2026-06-04 10:01:43 UTC] [INFO] ============================================================
