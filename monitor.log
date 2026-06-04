@@ -11204,3 +11204,157 @@
 [2026-06-04 15:19:56 UTC] [INFO] ============================================================
 [2026-06-04 15:19:56 UTC] [INFO] Completato — 20 nuovi, 6 aggiornati, 0 errori
 [2026-06-04 15:19:56 UTC] [INFO] ============================================================
+[2026-06-04 20:07:42 UTC] [INFO] ============================================================
+[2026-06-04 20:07:42 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-04 20:07:42 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-04 20:07:42 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-04 20:07:42 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-04 20:07:42 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-04 20:07:42 UTC] [INFO] ============================================================
+[2026-06-04 20:07:42 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-04 20:07:42 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-04 20:07:45 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 20:07:45 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-04 20:07:45 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-04 20:07:45 UTC] [UPD]   📢 📦 sudosoc/SUDOSOC-C2
+     ⭐ 1  🗣 Go  📅 2026-05-31
+     🔗 https://github.com/sudosoc/SUDOSOC-C2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-04 20:07:45 UTC] [UPD]   📢 📦 whosstyler/Type2-AMD-HV
+     ⭐ 4  🗣 C  📅 2026-06-04
+     🔗 https://github.com/whosstyler/Type2-AMD-HV
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-04 20:07:45 UTC] [UPD]   📢 📦 BenjiTrapp/ForestGump.sh
+     ⭐ 2  🗣 Shell  📅 2026-06-02
+     🔗 https://github.com/BenjiTrapp/ForestGump.sh
+     📝 ForestGump.sh is a lightweight, helper that runs through your filesystem like Fo…
+     🏷  docker, docker-image, kubernetes-deployment, pentesting, redteam-tools, redteaming
+     🔄 Motivo: repo recente (2gg)
+[2026-06-04 20:07:45 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-04 20:07:45 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-04 20:07:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 Mumar-dev/SDA-Pro
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/Mumar-dev/SDA-Pro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 Enricrypto/software-security-agentic-pipeline
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/Enricrypto/software-security-agentic-pipeline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 JonsDebug/testing-remote21
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/JonsDebug/testing-remote21
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 glynnlymasanga/Power-Electronics-Modelling-of-the-BMW-eDrive35-Gran-Coupe
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/glynnlymasanga/Power-Electronics-Modelling-of-the-BMW-eDrive35-Gran-Coupe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 Dhare2006/edr-enterprise
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/Dhare2006/edr-enterprise
+     📝 Enterprise EDR Lite - Endpoint Detection & Response System with real-time monito…
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 cliftonwwyeager/malanalysis
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/cliftonwwyeager/malanalysis
+     📝 8B parameter model for executable analysis
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 RoyCampos/polymorphic-samples
+     ⭐ 0  🗣 PowerShell  📅 2026-06-04
+     🔗 https://github.com/RoyCampos/polymorphic-samples
+     📝 Polymorphic Samples just to test and learning. Any use of theses samples are out…
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 netwkg07/digital-forensics
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/netwkg07/digital-forensics
+     📝 A Digital Forensics lab for evidence handling, chain of custody, forensic timeli…
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 habrok-21/Endpoint-Detection-Response-EDR-Simulation-Attack-Ingestion-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/habrok-21/Endpoint-Detection-Response-EDR-Simulation-Attack-Ingestion-Lab
+     📝 This project demonstrates the end-to-end implementation of a defensive logging p…
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 bernisnukic/airprowl
+     ⭐ 1  🗣 Rust  📅 2026-06-04
+     🔗 https://github.com/bernisnukic/airprowl
+     📝 Real-time Bluetooth, WiFi, and Sub-GHz wireless scanner TUI for Linux
+     🏷  bluetooth, linux, ratatui, recon, rust, scanner, sub-ghz, tui, wifi, wireless
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 drg-src/drg-src
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/drg-src/drg-src
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 besan-alkasabreh/Mini-edr-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/besan-alkasabreh/Mini-edr-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 fjsilva80/dio.me
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/fjsilva80/dio.me
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 besan-alkasabreh/mini-edr-backend
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/besan-alkasabreh/mini-edr-backend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 20:07:49 UTC] [NEW]   🆕 📦 aanyoti/redmine_snow_sync
+     ⭐ 0  🗣 Ruby  📅 2026-06-04
+     🔗 https://github.com/aanyoti/redmine_snow_sync
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-04 20:07:49 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-04 20:07:49 UTC] [UPD]   📢 📦 hasamba/DFIR-Companion
+     ⭐ 0  🗣 TypeScript  📅 2026-06-02
+     🔗 https://github.com/hasamba/DFIR-Companion
+     📝 AI-assisted DFIR triage companion — turns investigation screenshots & artifacts …
+     🏷  ai, blue-team, dfir, digital-forensics, incident-response, security, threat-intelligence, velociraptor
+     🔄 Motivo: repo recente (2gg) | nuovi topic: dfir, security, blue-team, incident-response, ai, threat-intelligence, digital-forensics, velociraptor
+[2026-06-04 20:07:49 UTC] [UPD]   📢 📦 yopazerbot/cybergame
+     ⭐ 0  🗣 TypeScript  📅 2026-06-03
+     🔗 https://github.com/yopazerbot/cybergame
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-04 20:07:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-04 20:07:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-04 20:07:52 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-04 20:07:52 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-04 20:07:52 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-04 20:07:52 UTC] [UPD]   📢 📦 sudosoc/SUDOSOC-C2
+     ⭐ 1  🗣 Go  📅 2026-05-31
+     🔗 https://github.com/sudosoc/SUDOSOC-C2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-04 20:07:52 UTC] [UPD]   📢 📦 Sud4ka/CellInspector
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/Sud4ka/CellInspector
+     📝 CellInspector - Mobile Device Security Auditor via ADB
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-04 20:07:52 UTC] [UPD]   📢 📦 LeoMichel-10/test
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/LeoMichel-10/test
+     📝 CopyStation Jailbreak 9.00 SIN USB / PSfree WebKit Exploit & Lapse Kernel Exploi…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-04 20:07:52 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (2gg)
+[2026-06-04 20:07:52 UTC] [INFO] ============================================================
+[2026-06-04 20:07:52 UTC] [INFO] Completato — 15 nuovi, 9 aggiornati, 0 errori
+[2026-06-04 20:07:52 UTC] [INFO] ============================================================
