@@ -11554,3 +11554,151 @@
 [2026-06-05 03:58:16 UTC] [INFO] ============================================================
 [2026-06-05 03:58:16 UTC] [INFO] Completato — 27 nuovi, 6 aggiornati, 0 errori
 [2026-06-05 03:58:16 UTC] [INFO] ============================================================
+[2026-06-05 09:54:24 UTC] [INFO] ============================================================
+[2026-06-05 09:54:24 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-05 09:54:24 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-05 09:54:24 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-05 09:54:24 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-05 09:54:24 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-05 09:54:24 UTC] [INFO] ============================================================
+[2026-06-05 09:54:24 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-05 09:54:24 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-05 09:54:26 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-05 09:54:26 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-05 09:54:26 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-05 09:54:26 UTC] [UPD]   📢 📦 BenjiTrapp/ForestGump.sh
+     ⭐ 2  🗣 Shell  📅 2026-06-02
+     🔗 https://github.com/BenjiTrapp/ForestGump.sh
+     📝 ForestGump.sh is a lightweight, helper that runs through your filesystem like Fo…
+     🏷  docker, docker-image, kubernetes-deployment, pentesting, redteam-tools, redteaming
+     🔄 Motivo: repo recente (3gg)
+[2026-06-05 09:54:26 UTC] [UPD]   📢 📦 zavetsec/ZavetSec-EVTXHunter
+     ⭐ 1  🗣 PowerShell  📅 2026-06-02
+     🔗 https://github.com/zavetsec/ZavetSec-EVTXHunter
+     📝 Advanced Windows Event Log threat hunter in pure PowerShell — Sigma-subset detec…
+     🏷  blue-team, detection-engineering, dfir, digital-forensics, event-log-analysis, evtx, incident-response, log-analysis, mitre-attack, powershell, security-tools, sigma, soc, threat-detection, threat-hunting, windows-event-logs, windows-security, zavetsec
+     🔄 Motivo: repo recente (2gg)
+[2026-06-05 09:54:26 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-05 09:54:26 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-05 09:54:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 botkinkrumroy342-pixel/WebRTC--IT-
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/botkinkrumroy342-pixel/WebRTC--IT-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 0xJBsec/keylogger
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/0xJBsec/keylogger
+     📝 Proof-of-Concept (PoC) developed in Python using the pynput library to simulate …
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 jagsan-cyber/telemetry-verification-tool
+     ⭐ 0  🗣 HTML  📅 2026-06-05
+     🔗 https://github.com/jagsan-cyber/telemetry-verification-tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 hanifa657/malware-signature-scanner
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/hanifa657/malware-signature-scanner
+     📝 Python-based malware signature scanner for SOC Analyst portfolio.
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 T4riiiiq/ArtifactLens
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/T4riiiiq/ArtifactLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 RedWaffle007/mori
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/RedWaffle007/mori
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 Z41D-K/BerserkX-Enterprise-Forensic-Pipeline-EDR
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/Z41D-K/BerserkX-Enterprise-Forensic-Pipeline-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 3dpcc/EDRIC
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/3dpcc/EDRIC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 hanlin-afk/structural-detectors
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/hanlin-afk/structural-detectors
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 seyifalode-cmd/soar-playbooks
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/seyifalode-cmd/soar-playbooks
+     📝 SOAR playbooks for a modern SOC — phishing, suspicious login, malware, and cloud…
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 mahesh-bollineni/RedTeamTools
+     ⭐ 1  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/mahesh-bollineni/RedTeamTools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 thelostme/CallStackSpoofingPOC
+     ⭐ 0  🗣 C  📅 2026-06-05
+     🔗 https://github.com/thelostme/CallStackSpoofingPOC
+     📝  Builds a synthetic stack using return address gadgets resolved from ntdll.dll f…
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 swetaandroid/eDrive-Customer
+     ⭐ 0  🗣 Kotlin  📅 2026-06-05
+     🔗 https://github.com/swetaandroid/eDrive-Customer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 TSHR-cyber/Red-Team-Todo
+     ⭐ 0  🗣 HTML  📅 2026-06-05
+     🔗 https://github.com/TSHR-cyber/Red-Team-Todo
+     📝 Red-Team Todo help you to track your progress and give roadmap
+     🏷  offensive-security, red-team, roadmap, todolist
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 KonGianniou/SOC-Local-Centralized-Guidelines-Portal
+     ⭐ 0  🗣 HTML  📅 2026-06-05
+     🔗 https://github.com/KonGianniou/SOC-Local-Centralized-Guidelines-Portal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [NEW]   🆕 📦 16-Bytes/Overflow
+     ⭐ 0  🗣 C  📅 2026-06-05
+     🔗 https://github.com/16-Bytes/Overflow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:29 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-05 09:54:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-05 09:54:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-05 09:54:31 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-05 09:54:31 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-06-05 09:54:31 UTC] [NEW]   🆕 📦 Machiavelliethan/Machiavelliethan
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/Machiavelliethan/Machiavelliethan
+     📝 ✨ Profile README
+     🏷  —
+[2026-06-05 09:54:31 UTC] [NEW]   🆕 📦 lilith1228/Red-Team-KillChain
+     ⭐ 0  🗣 JavaScript  📅 2026-06-05
+     🔗 https://github.com/lilith1228/Red-Team-KillChain
+     📝 Interactive Red Team Kill Chain Visualizer — MITRE ATT&CK mapped attack phases f…
+     🏷  —
+[2026-06-05 09:54:31 UTC] [NEW]   🆕 📦 rbresjer/claude-isolated
+     ⭐ 0  🗣 Shell  📅 2026-06-05
+     🔗 https://github.com/rbresjer/claude-isolated
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:31 UTC] [NEW]   🆕 📦 it4chi409/Kernel-Dojo-Labs
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/it4chi409/Kernel-Dojo-Labs
+     📝 AI-assisted Lab for kernel exploitation
+     🏷  —
+[2026-06-05 09:54:31 UTC] [NEW]   🆕 📦 haziq0403/VA-WEEK-10
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/haziq0403/VA-WEEK-10
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 09:54:31 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-05 09:54:31 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (2gg)
+[2026-06-05 09:54:31 UTC] [INFO] ============================================================
+[2026-06-05 09:54:31 UTC] [INFO] Completato — 21 nuovi, 3 aggiornati, 0 errori
+[2026-06-05 09:54:31 UTC] [INFO] ============================================================
