@@ -11358,3 +11358,199 @@
 [2026-06-04 20:07:52 UTC] [INFO] ============================================================
 [2026-06-04 20:07:52 UTC] [INFO] Completato — 15 nuovi, 9 aggiornati, 0 errori
 [2026-06-04 20:07:52 UTC] [INFO] ============================================================
+[2026-06-05 03:58:10 UTC] [INFO] ============================================================
+[2026-06-05 03:58:10 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-05 03:58:10 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-05 03:58:10 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-05 03:58:10 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-05 03:58:10 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-05 03:58:10 UTC] [INFO] ============================================================
+[2026-06-05 03:58:10 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-05 03:58:10 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-05 03:58:12 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-05 03:58:12 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-05 03:58:12 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-05 03:58:12 UTC] [UPD]   📢 📦 sudosoc/SUDOSOC-C2
+     ⭐ 1  🗣 Go  📅 2026-05-31
+     🔗 https://github.com/sudosoc/SUDOSOC-C2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-05 03:58:12 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-05 03:58:12 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-05 03:58:14 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 PhantomBanditX/Signals-After-the-Noise
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/PhantomBanditX/Signals-After-the-Noise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 MarshallSecOps/cybersecurity-knowledge-map
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/MarshallSecOps/cybersecurity-knowledge-map
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 sys0xFF/pagewright
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/sys0xFF/pagewright
+     📝 Design-grade SaaS landing pages, generated, not templated. A Claude Code skill.
+     🏷  ai, claude, claude-code, claude-skill, generative-ui, landing-page, tailwindcss, web-design
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 yankywilson/muddywater-tsundere-detection
+     ⭐ 0  🗣 YARA  📅 2026-06-04
+     🔗 https://github.com/yankywilson/muddywater-tsundere-detection
+     📝 SOC detection pack for MuddyWater's "Tsundere" Node.js implant — EtherHiding C2 …
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 Oxidation4179/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/Oxidation4179/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 satapathyPro/ai_soc
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/satapathyPro/ai_soc
+     📝 Hands-on learning experience with modern frameworks
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 Michaelmcpheejr/Enterprise-Threat-Modeling-and-Risk-Prioritization-Engagement
+     ⭐ 1  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/Michaelmcpheejr/Enterprise-Threat-Modeling-and-Risk-Prioritization-Engagement
+     📝 7-phase security program for federal contractors
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 Genti411/endpoint-scanner
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/Genti411/endpoint-scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 lns12/home-soc-lab-wazuh
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/lns12/home-soc-lab-wazuh
+     📝 Lab prático de Blue Team com Wazuh — SIEM, EDR, FIM e detecção de Brute Force SS…
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 sonx4444/sonx4444
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/sonx4444/sonx4444
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 subsubsub1231/qmukiller
+     ⭐ 0  🗣 C  📅 2026-06-05
+     🔗 https://github.com/subsubsub1231/qmukiller
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 bobathefetts/SentinelCore
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/bobathefetts/SentinelCore
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 danieloz147/danieloz147
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/danieloz147/danieloz147
+     📝 GitHub profile README
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 zandenkane/sentinel
+     ⭐ 1  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/zandenkane/sentinel
+     📝 Host-based threat detection and endpoint security framework
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 Malaiyappan-STUX05/stealth-keylogger
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/Malaiyappan-STUX05/stealth-keylogger
+     📝 stealth-keylogger — Malaiyappan S
+     🏷  educational, endpoint-security, keylogger, offensive-security, pynput, python
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 AlexielArdilla/El-Hacker-Malvado
+     ⭐ 2  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/AlexielArdilla/El-Hacker-Malvado
+     📝 Libro de técnicas de Ethical hacking, ofensivo y defensivo
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 Skywalkeyboy/PingRAT
+     ⭐ 0  🗣 Go  📅 2026-06-05
+     🔗 https://github.com/Skywalkeyboy/PingRAT
+     📝 webhook and Telegram project
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 mayconsuel1155-rgb/InfraMind
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/mayconsuel1155-rgb/InfraMind
+     📝 Este Projeto visa um controle de equipamento para multiplos usarios.
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 zeroscience/FIFOFox
+     ⭐ 1  🗣 C  📅 2026-06-04
+     🔗 https://github.com/zeroscience/FIFOFox
+     📝 fifofox.c  -  Windows named-pipe security auditor and fuzzer
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 AdonaiDiazEsparza/HACK_N_BEER_REPOSITORY
+     ⭐ 1  🗣 C++  📅 2026-06-04
+     🔗 https://github.com/AdonaiDiazEsparza/HACK_N_BEER_REPOSITORY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 mwill20/Governed_AI_Pipeline
+     ⭐ 0  🗣 Shell  📅 2026-06-04
+     🔗 https://github.com/mwill20/Governed_AI_Pipeline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 X0CBAN/Burnt-Toast
+     ⭐ 0  🗣 Python  📅 2026-06-04
+     🔗 https://github.com/X0CBAN/Burnt-Toast
+     📝 A GUI for testing and creating Evil toast notifications.
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 azizbek-coderdev/auto-repo-1152-1780607302965-2edr
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/azizbek-coderdev/auto-repo-1152-1780607302965-2edr
+     📝 Auto-generated #1152
+     🏷  —
+[2026-06-05 03:58:14 UTC] [NEW]   🆕 📦 drg-src/drg-src
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/drg-src/drg-src
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:14 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-05 03:58:14 UTC] [UPD]   📢 📦 The-Abhishek1/XCLOAK-SECURITY-SUITE
+     ⭐ 1  🗣 Go  📅 2026-06-04
+     🔗 https://github.com/The-Abhishek1/XCLOAK-SECURITY-SUITE
+     📝 XCloak Security Suite is a self-hosted, open-architecture security operations pl…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-05 03:58:14 UTC] [UPD]   📢 📦 n08976/ai-protect
+     ⭐ 0  🗣 Python  📅 2026-06-03
+     🔗 https://github.com/n08976/ai-protect
+     📝 AI security scanning pipeline (SAST/DAST adapters, intel feeds, manifest-gated o…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-05 03:58:14 UTC] [UPD]   📢 📦 aanyoti/redmine_snow_sync
+     ⭐ 0  🗣 Ruby  📅 2026-06-04
+     🔗 https://github.com/aanyoti/redmine_snow_sync
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-05 03:58:14 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-05 03:58:14 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-05 03:58:16 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-05 03:58:16 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-05 03:58:16 UTC] [NEW]   🆕 📦 NexusOne23/noid-privacy-workstation
+     ⭐ 0  🗣 Kickstart  📅 2026-06-05
+     🔗 https://github.com/NexusOne23/noid-privacy-workstation
+     📝 🛡️ Fully-hardened Security & Privacy OS based on Fedora 44 + GNOME · for Dev, Ad…
+     🏷  ai-linux-distro, cybersecurity, desktop-security, fedora, gnome, hardening, kickstart, linux, linux-distro, linux-hardening, linux-security, luks, noid-privacy, privacy, privacy-tools, secure-boot, security, selinux, system-hardening
+[2026-06-05 03:58:16 UTC] [NEW]   🆕 📦 EkeHanson/appBrew-cyber-security-course
+     ⭐ 0  🗣 HTML  📅 2026-06-04
+     🔗 https://github.com/EkeHanson/appBrew-cyber-security-course
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 03:58:16 UTC] [NEW]   🆕 📦 phibkro/pagu-box
+     ⭐ 0  🗣 Nix  📅 2026-06-04
+     🔗 https://github.com/phibkro/pagu-box
+     📝 Cross-platform sandboxed launcher for any process. Hides secrets without breakin…
+     🏷  —
+[2026-06-05 03:58:16 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-05 03:58:16 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (2gg)
+[2026-06-05 03:58:16 UTC] [UPD]   📢 📦 sudosoc/SUDOSOC-C2
+     ⭐ 1  🗣 Go  📅 2026-05-31
+     🔗 https://github.com/sudosoc/SUDOSOC-C2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-05 03:58:16 UTC] [INFO] ============================================================
+[2026-06-05 03:58:16 UTC] [INFO] Completato — 27 nuovi, 6 aggiornati, 0 errori
+[2026-06-05 03:58:16 UTC] [INFO] ============================================================
