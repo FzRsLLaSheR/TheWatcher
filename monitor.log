@@ -11832,3 +11832,140 @@
 [2026-06-05 14:55:18 UTC] [INFO] ============================================================
 [2026-06-05 14:55:18 UTC] [INFO] Completato — 15 nuovi, 5 aggiornati, 0 errori
 [2026-06-05 14:55:18 UTC] [INFO] ============================================================
+[2026-06-05 19:57:13 UTC] [INFO] ============================================================
+[2026-06-05 19:57:13 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-05 19:57:13 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-05 19:57:13 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-05 19:57:13 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-05 19:57:13 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-05 19:57:13 UTC] [INFO] ============================================================
+[2026-06-05 19:57:13 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-05 19:57:13 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-05 19:57:15 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-05 19:57:15 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-05 19:57:15 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-05 19:57:15 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-05 19:57:15 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-05 19:57:18 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 mohamed-ai-sec/soc-l1-triage-engine
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/mohamed-ai-sec/soc-l1-triage-engine
+     📝 Elite SOC L1 TP/FP Verdict Engine — MSSP-grade alert triage skill for Claude.ai
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 nicktrusere/EDR-Endpoint-Detection-Response-agent
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/nicktrusere/EDR-Endpoint-Detection-Response-agent
+     📝 clean, working design + code skeleton EDR (Endpoint Detection & Response) agent
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 loxy0devv/ShadowStrike
+     ⭐ 0  🗣 C++  📅 2026-06-05
+     🔗 https://github.com/loxy0devv/ShadowStrike
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 Wellington-HMV/jungle
+     ⭐ 0  🗣 PowerShell  📅 2026-06-05
+     🔗 https://github.com/Wellington-HMV/jungle
+     📝 Keep your Windows active and Teams/Slack status green - lightweight PowerShell t…
+     🏷  automation, jiggler, keep-awake, microsoft-teams, powershell, productivity, slack, tray, windows
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 ZAngell-Cloud/archangel-homelab
+     ⭐ 0  🗣 N/A  📅 2026-06-04
+     🔗 https://github.com/ZAngell-Cloud/archangel-homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 Prometheusv4/Prometheus-agent
+     ⭐ 0  🗣 Shell  📅 2026-06-05
+     🔗 https://github.com/Prometheusv4/Prometheus-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 Cybermini/threat-hunting-foothold
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/Cybermini/threat-hunting-foothold
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 arslanadil/arslanadil
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/arslanadil/arslanadil
+     📝 Security Researcher | Web & Network Pentesting | OWASP Top 10 | Threat Detection
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 mkarmazyn-edrone/mkarmazyn-edrone.github.io
+     ⭐ 0  🗣 HTML  📅 2026-06-05
+     🔗 https://github.com/mkarmazyn-edrone/mkarmazyn-edrone.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 tdantzler/EDR_Rip
+     ⭐ 0  🗣 PowerShell  📅 2026-06-05
+     🔗 https://github.com/tdantzler/EDR_Rip
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 DeAnthonyGray1/Microsoft-Defender-for-Endpoint-Threat-Hunting-Lab-1-Generating-and-Investigating-Security-Events
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/DeAnthonyGray1/Microsoft-Defender-for-Endpoint-Threat-Hunting-Lab-1-Generating-and-Investigating-Security-Events
+     📝 In this cybersecurity lab, I demonstrate how to generate and investigate endpoin…
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 cerberus8484/SOC-Orchestrator
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/cerberus8484/SOC-Orchestrator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 wrlee567/Incidentaling
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/wrlee567/Incidentaling
+     📝 Full scale incident handler 
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 radegast-edr/radegast-packages
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/radegast-edr/radegast-packages
+     📝 Repository that stores Radegast detection packages and other utilities
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 yyuuvv/JL_792N_SDK_V2
+     ⭐ 0  🗣 C  📅 2026-06-05
+     🔗 https://github.com/yyuuvv/JL_792N_SDK_V2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:18 UTC] [NEW]   🆕 📦 dev0558/soc-sim
+     ⭐ 0  🗣 TypeScript  📅 2026-06-05
+     🔗 https://github.com/dev0558/soc-sim
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:18 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-05 19:57:18 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-05 19:57:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-05 19:57:21 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-05 19:57:21 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-06-05 19:57:21 UTC] [NEW]   🆕 📦 Machiavelliethan/Introduction
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/Machiavelliethan/Introduction
+     📝 Profile README
+     🏷  —
+[2026-06-05 19:57:21 UTC] [NEW]   🆕 📦 loxy0devv/ShadowStrike
+     ⭐ 0  🗣 C++  📅 2026-06-05
+     🔗 https://github.com/loxy0devv/ShadowStrike
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-05 19:57:21 UTC] [NEW]   🆕 📦 vulnquest58/kali-master-framework
+     ⭐ 0  🗣 Shell  📅 2026-06-04
+     🔗 https://github.com/vulnquest58/kali-master-framework
+     📝 Offensive Security Platform — v6.6.1   Bug Bounty | Red Team | RE | CTF | Malwar…
+     🏷  —
+[2026-06-05 19:57:21 UTC] [NEW]   🆕 📦 dliptak001/HypercubeESN
+     ⭐ 1  🗣 C++  📅 2026-06-04
+     🔗 https://github.com/dliptak001/HypercubeESN
+     📝 Echo State Network (ESN) on a Boolean hypercube reservoir: sparse, XOR-defined c…
+     🏷  cpp23, echo-state-network, hypercube, machine-learning, python, reservoir-computing, signal-processing
+[2026-06-05 19:57:21 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-05 19:57:21 UTC] [UPD]   📢 📦 zeroxjf/cyanide
+     ⭐ 106  🗣 Objective-C  📅 2026-05-30
+     🔗 https://github.com/zeroxjf/cyanide
+     📝 Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-06-05 19:57:21 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (3gg)
+[2026-06-05 19:57:21 UTC] [INFO] ============================================================
+[2026-06-05 19:57:21 UTC] [INFO] Completato — 20 nuovi, 2 aggiornati, 0 errori
+[2026-06-05 19:57:21 UTC] [INFO] ============================================================
