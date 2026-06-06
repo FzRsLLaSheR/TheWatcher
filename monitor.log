@@ -12510,3 +12510,298 @@
 [2026-06-06 13:47:44 UTC] [INFO] ============================================================
 [2026-06-06 13:47:44 UTC] [INFO] Completato — 44 nuovi, 4 aggiornati, 0 errori
 [2026-06-06 13:47:44 UTC] [INFO] ============================================================
+[2026-06-06 19:25:57 UTC] [INFO] ============================================================
+[2026-06-06 19:25:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-06 19:25:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-06 19:25:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-06 19:25:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-06 19:25:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-06 19:25:57 UTC] [INFO] ============================================================
+[2026-06-06 19:25:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-06 19:25:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-06 19:25:59 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-06 19:25:59 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-06 19:25:59 UTC] [NEW]   🆕 📦 CourtDuelist/PhantomKiller-771
+     ⭐ 0  🗣 C++  📅 2026-06-06
+     🔗 https://github.com/CourtDuelist/PhantomKiller-771
+     📝 Another BYOVD process killer. works on all EDR's. fully signed.
+     🏷  byovd, edr, edr-bypass, edr-evasion, redteaming
+[2026-06-06 19:25:59 UTC] [NEW]   🆕 📦 Turquoisefitzpillage/PhantomKiller-351
+     ⭐ 0  🗣 C++  📅 2026-06-06
+     🔗 https://github.com/Turquoisefitzpillage/PhantomKiller-351
+     📝 Another BYOVD process killer. works on all EDR's. fully signed.
+     🏷  byovd, edr, edr-bypass, edr-evasion, redteaming
+[2026-06-06 19:25:59 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-06 19:25:59 UTC] [UPD]   📢 📦 BenjiTrapp/ForestGump.sh
+     ⭐ 2  🗣 Shell  📅 2026-06-02
+     🔗 https://github.com/BenjiTrapp/ForestGump.sh
+     📝 ForestGump.sh is a lightweight, helper that runs through your filesystem like Fo…
+     🏷  docker, docker-image, kubernetes-deployment, pentesting, redteam-tools, redteaming
+     🔄 Motivo: repo recente (4gg)
+[2026-06-06 19:25:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-06 19:25:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-06 19:26:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 35 NUOVI repository:
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 mayank-dev-15/device-security-audit
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/mayank-dev-15/device-security-audit
+     📝 🔒 Comprehensive Python security scanner — audits firewall, ports, AV, encryption…
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 chaoyupeng/lumen
+     ⭐ 0  🗣 Swift  📅 2026-06-06
+     🔗 https://github.com/chaoyupeng/lumen
+     📝 Native macOS video player embedding libmpv: matches raw mpv HDR/4K quality, with…
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 narisree/Agentrepo
+     ⭐ 0  🗣 HTML  📅 2026-06-06
+     🔗 https://github.com/narisree/Agentrepo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 JanetKesinro/Threat-Hunt_Rocky-Clinic-OpenEMR-Breach
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/JanetKesinro/Threat-Hunt_Rocky-Clinic-OpenEMR-Breach
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 edr-xix/ADB
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/edr-xix/ADB
+     📝 An adb and fastboot rapper
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Saba-Var/claude-ward
+     ⭐ 0  🗣 TypeScript  📅 2026-06-06
+     🔗 https://github.com/Saba-Var/claude-ward
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 photodoc1960/wyvern
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/photodoc1960/wyvern
+     📝 🐉 Passive, read-only home-network sentinel that detects AI-driven adaptive compu…
+     🏷  ai-security, anomaly-detection, blue-team, dpkt, flask, intrusion-detection, network-monitoring, scapy, security, worm-detection
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Matteo2459/Wazuh-EDR-Yara-Integration
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/Matteo2459/Wazuh-EDR-Yara-Integration
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 yonguncho/WireBoard
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/yonguncho/WireBoard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 humble-lee1/Malware-Analysis-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/humble-lee1/Malware-Analysis-lab
+     📝 Static & Dynamic Analysis of a Real Berbew Backdoor Trojan Using Kali Linux, Mal…
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 suhailabu369/suhailabu369
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/suhailabu369/suhailabu369
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Komal21071997/Protein-Ligand_Complex_MD-simulation-Gromacs-
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/Komal21071997/Protein-Ligand_Complex_MD-simulation-Gromacs-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 ryanclarke746380540/edrubkny1xu
+     ⭐ 0  🗣 C++  📅 2026-06-06
+     🔗 https://github.com/ryanclarke746380540/edrubkny1xu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 thurazz/Mirage
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/thurazz/Mirage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 FurPixelSnips/offensive-claude-533
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/FurPixelSnips/offensive-claude-533
+     📝 Offensive security toolkit for Claude Code covering red team, exploit dev, AD at…
+     🏷  claude-code, claude-code-skills, exploit-development, offensive-security, redteam
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 richvincent/h5-threat-hunt-greenfield
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/richvincent/h5-threat-hunt-greenfield
+     📝 LOG(N) Pacific Hunt 05 — Greenfield estate multi-stage intrusion (GF-INC-2026-05…
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 abuzarkhan5/SENTINEL-AI
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/abuzarkhan5/SENTINEL-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Marblesavelocity/offensive-claude-604
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/Marblesavelocity/offensive-claude-604
+     📝 Offensive security toolkit for Claude Code covering red team, exploit dev, AD at…
+     🏷  claude-code, claude-code-skills, exploit-development, offensive-security, redteam
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 StonemasonNeedle/AdStrike-231
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/StonemasonNeedle/AdStrike-231
+     📝 AI-powered modular Active Directory red-team framework for authorized penetratio…
+     🏷  active-directory, active-directory-exploitation, active-directory-security, ad-agent, ad-attack, ad-attack-paths, adtool, adtoolkit, agent, ai
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 dictator-001/dictator-001
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/dictator-001/dictator-001
+     📝 My GitHub Profile README
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 d3fuse99/Process-Sentry
+     ⭐ 1  🗣 TypeScript  📅 2026-06-06
+     🔗 https://github.com/d3fuse99/Process-Sentry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 ilkin1cybsec-cloud/soc-alert-triage-tool
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/ilkin1cybsec-cloud/soc-alert-triage-tool
+     📝 Python SOC alert triage tool that maps alerts to MITRE ATT&CK and generates anal…
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Dhruvil725/CyberSecurity-Operations-Framework
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/Dhruvil725/CyberSecurity-Operations-Framework
+     📝 Enterprise Grade Incident Response & SOC operations framework    13 playbook cat…
+     🏷  blue-team, cybersecurity, edr, forensics, incident-response, iso27001, mitre-attack, nist, playbooks, rbi, security-compliance, siem, soc, threat-intelligence
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 CourtDuelist/PhantomKiller-771
+     ⭐ 0  🗣 C++  📅 2026-06-06
+     🔗 https://github.com/CourtDuelist/PhantomKiller-771
+     📝 Another BYOVD process killer. works on all EDR's. fully signed.
+     🏷  byovd, edr, edr-bypass, edr-evasion, redteaming
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 dathannobrega/NexusView
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/dathannobrega/NexusView
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Aeron-1258/AegiSentinel
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/Aeron-1258/AegiSentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 TechCo4/PHISHING_DETECTION_SYSTEM-
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/TechCo4/PHISHING_DETECTION_SYSTEM-
+     📝 An enterprise-grade Phishing Detection Orchestrator featuring advanced heuristic…
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Powderbatpatch/src-hunter-skill-938
+     ⭐ 2  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/Powderbatpatch/src-hunter-skill-938
+     📝 实战 SRC / 众测 / Bug bounty 漏洞挖掘 Claude Code skill — 19 个攻击类 playbook、305 个结构化 payl…
+     🏷  bug-bounty, claude-code, claude-code-skill, hackerone, owasp, payloads, pentesting, red-team, security, src
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 ALMASONYH/MasonProtector-v5.0
+     ⭐ 0  🗣 C#  📅 2026-06-06
+     🔗 https://github.com/ALMASONYH/MasonProtector-v5.0
+     📝 Encode It Your Mode V5
+     🏷  crypt, crypter, encode, encrypt, encryption, protection, protector
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 ChromeBunting/offensive-claude-813
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/ChromeBunting/offensive-claude-813
+     📝 Offensive security toolkit for Claude Code covering red team, exploit dev, AD at…
+     🏷  claude-code, claude-code-skills, exploit-development, offensive-security, redteam
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Antriksh017/AgentShield
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-06
+     🔗 https://github.com/Antriksh017/AgentShield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Turquoisefitzpillage/PhantomKiller-351
+     ⭐ 0  🗣 C++  📅 2026-06-06
+     🔗 https://github.com/Turquoisefitzpillage/PhantomKiller-351
+     📝 Another BYOVD process killer. works on all EDR's. fully signed.
+     🏷  byovd, edr, edr-bypass, edr-evasion, redteaming
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 segmentjoninsecret/AdStrike-149
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/segmentjoninsecret/AdStrike-149
+     📝 AI-powered modular Active Directory red-team framework for authorized penetratio…
+     🏷  active-directory, active-directory-exploitation, active-directory-security, ad-agent, ad-attack, ad-attack-paths, adtool, adtoolkit, agent, ai
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 wosienko/NoExceptions
+     ⭐ 0  🗣 Zig  📅 2026-06-06
+     🔗 https://github.com/wosienko/NoExceptions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:01 UTC] [NEW]   🆕 📦 Poolieshelter/src-hunter-skill-320
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/Poolieshelter/src-hunter-skill-320
+     📝 实战 SRC / 众测 / Bug bounty 漏洞挖掘 Claude Code skill — 19 个攻击类 playbook、305 个结构化 payl…
+     🏷  bug-bounty, claude-code, claude-code-skill, hackerone, owasp, payloads, pentesting, red-team, security, src
+[2026-06-06 19:26:01 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-06 19:26:01 UTC] [UPD]   📢 📦 EmreDursun2712/SentinelAI
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/EmreDursun2712/SentinelAI
+     📝 AI-driven intrusion detection and response dashboard for network-flow analysis, …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-06 19:26:01 UTC] [UPD]   📢 📦 Prometheusv4/Prometheus-agent
+     ⭐ 0  🗣 Shell  📅 2026-06-05
+     🔗 https://github.com/Prometheusv4/Prometheus-agent
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-06 19:26:01 UTC] [UPD]   📢 📦 AdhiHub/cyber-pentools
+     ⭐ 3  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/AdhiHub/cyber-pentools
+     📝 All-in-One Penetration Testing Toolkit - 200+ hacking tools for information gath…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-06 19:26:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-06 19:26:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-06 19:26:03 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 ilyess-sellami/Linux-Privilege-Escalation-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/ilyess-sellami/Linux-Privilege-Escalation-Playbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 FurPixelSnips/offensive-claude-533
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/FurPixelSnips/offensive-claude-533
+     📝 Offensive security toolkit for Claude Code covering red team, exploit dev, AD at…
+     🏷  claude-code, claude-code-skills, exploit-development, offensive-security, redteam
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 nexuswardenshape/Kernel-Exploit-Dojo-127
+     ⭐ 0  🗣 C  📅 2026-06-06
+     🔗 https://github.com/nexuswardenshape/Kernel-Exploit-Dojo-127
+     📝 CTF kernel exploitation notes, PoCs, exploits, and writeups.
+     🏷  ctf, ctf-writeups, dirty-pipe, ebpf, kernel-exploitation, kernel-pwn, kernel-rop, kpti, linux-kernel, linux-kernel-exploitation
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 Prakash-t1603/Prakash-t1603
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/Prakash-t1603/Prakash-t1603
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 Marblesavelocity/offensive-claude-604
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/Marblesavelocity/offensive-claude-604
+     📝 Offensive security toolkit for Claude Code covering red team, exploit dev, AD at…
+     🏷  claude-code, claude-code-skills, exploit-development, offensive-security, redteam
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 RayStarlingCover68/Kernel-Exploit-Dojo-425
+     ⭐ 0  🗣 C  📅 2026-06-06
+     🔗 https://github.com/RayStarlingCover68/Kernel-Exploit-Dojo-425
+     📝 CTF kernel exploitation notes, PoCs, exploits, and writeups.
+     🏷  ctf, ctf-writeups, dirty-pipe, ebpf, kernel-exploitation, kernel-pwn, kernel-rop, kpti, linux-kernel, linux-kernel-exploitation
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 JackdawSpark/Kernel-Exploit-Dojo-243
+     ⭐ 0  🗣 C  📅 2026-06-06
+     🔗 https://github.com/JackdawSpark/Kernel-Exploit-Dojo-243
+     📝 CTF kernel exploitation notes, PoCs, exploits, and writeups.
+     🏷  ctf, ctf-writeups, dirty-pipe, ebpf, kernel-exploitation, kernel-pwn, kernel-rop, kpti, linux-kernel, linux-kernel-exploitation
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 liamromanis101/k8s-container-escape-audit-lite
+     ⭐ 0  🗣 Shell  📅 2026-06-06
+     🔗 https://github.com/liamromanis101/k8s-container-escape-audit-lite
+     📝 Free read-only container escape and Kubernetes security audit. 23 checks coverin…
+     🏷  —
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 ChromeBunting/offensive-claude-813
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/ChromeBunting/offensive-claude-813
+     📝 Offensive security toolkit for Claude Code covering red team, exploit dev, AD at…
+     🏷  claude-code, claude-code-skills, exploit-development, offensive-security, redteam
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 Turquoisefitzpillage/Kernel-Exploit-Dojo-499
+     ⭐ 0  🗣 C  📅 2026-06-06
+     🔗 https://github.com/Turquoisefitzpillage/Kernel-Exploit-Dojo-499
+     📝 CTF kernel exploitation notes, PoCs, exploits, and writeups.
+     🏷  ctf, ctf-writeups, dirty-pipe, ebpf, kernel-exploitation, kernel-pwn, kernel-rop, kpti, linux-kernel, linux-kernel-exploitation
+[2026-06-06 19:26:03 UTC] [NEW]   🆕 📦 PinkCobraRecognize53/Kernel-Exploit-Dojo-239
+     ⭐ 0  🗣 C  📅 2026-06-06
+     🔗 https://github.com/PinkCobraRecognize53/Kernel-Exploit-Dojo-239
+     📝 CTF kernel exploitation notes, PoCs, exploits, and writeups.
+     🏷  ctf, ctf-writeups, dirty-pipe, ebpf, kernel-exploitation, kernel-pwn, kernel-rop, kpti, linux-kernel, linux-kernel-exploitation
+[2026-06-06 19:26:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-06 19:26:03 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (4gg)
+[2026-06-06 19:26:03 UTC] [INFO] ============================================================
+[2026-06-06 19:26:03 UTC] [INFO] Completato — 48 nuovi, 5 aggiornati, 0 errori
+[2026-06-06 19:26:03 UTC] [INFO] ============================================================
