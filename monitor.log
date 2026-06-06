@@ -11969,3 +11969,157 @@
 [2026-06-05 19:57:21 UTC] [INFO] ============================================================
 [2026-06-05 19:57:21 UTC] [INFO] Completato — 20 nuovi, 2 aggiornati, 0 errori
 [2026-06-05 19:57:21 UTC] [INFO] ============================================================
+[2026-06-06 03:40:01 UTC] [INFO] ============================================================
+[2026-06-06 03:40:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-06 03:40:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-06 03:40:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-06 03:40:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-06 03:40:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-06 03:40:01 UTC] [INFO] ============================================================
+[2026-06-06 03:40:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-06 03:40:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-06 03:40:03 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-06 03:40:03 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-06 03:40:03 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-06 03:40:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-06 03:40:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-06 03:40:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 jaradat13/argus-ueba
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/jaradat13/argus-ueba
+     📝 Agentless UEBA tool utilizing local LLMs to detect insider threats and map anoma…
+     🏷  anomaly-detection, auditd-monitoring, insider-threat, local-llm, log-analysis, mitre-attack, ollama, ueba
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 punky-labs/edrum-project
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/punky-labs/edrum-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 typhoonfiredynamo/edrtyhmv
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/typhoonfiredynamo/edrtyhmv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 sayan9168/UnifiedCyberSec
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/sayan9168/UnifiedCyberSec
+     📝 All-in-One Enterprise Cybersecurity Platform" A modular, scalable, and productio…
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 chunchun6/Face_Attendance_ble_sys
+     ⭐ 1  🗣 C++  📅 2026-06-06
+     🔗 https://github.com/chunchun6/Face_Attendance_ble_sys
+     📝 This is a laboratory face attendance check-in system
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 ezioezio001-dev/Cyber-me
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/ezioezio001-dev/Cyber-me
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 AlveszAdrian/Mastering-Splunk-for-SOC
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/AlveszAdrian/Mastering-Splunk-for-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 dathannobrega/NexusView
+     ⭐ 0  🗣 Rust  📅 2026-06-05
+     🔗 https://github.com/dathannobrega/NexusView
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 squall321/HWAXLauncher
+     ⭐ 0  🗣 Rust  📅 2026-06-05
+     🔗 https://github.com/squall321/HWAXLauncher
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 Ahmed-alrashidi/ZephyrusEDR
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/Ahmed-alrashidi/ZephyrusEDR
+     📝 Project ZephyrusEDR, a mini EDR platform working within NPU.
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 s0mm3rs/blog
+     ⭐ 0  🗣 CSS  📅 2026-06-05
+     🔗 https://github.com/s0mm3rs/blog
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 c0ffee-audio/marshall-linux
+     ⭐ 0  🗣 Go  📅 2026-06-05
+     🔗 https://github.com/c0ffee-audio/marshall-linux
+     📝 Linux app to control Marshall Bluetooth devices - GUI (Wails/Svelte) + CLI, ANC,…
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 high5x/ws-automated-mitigation-engine
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/high5x/ws-automated-mitigation-engine
+     📝 Automated incident response framework designed to minimize internal blast radius…
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 Den-Sec/Den-Sec
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/Den-Sec/Den-Sec
+     📝 Profile README
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 MuhammadHumamALkassar/Wazuh_EDR
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/MuhammadHumamALkassar/Wazuh_EDR
+     📝 Wazuh based EDR system on Linux environment
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 TiltedLunar123/security-plus-acronyms-cheat-sheet
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/TiltedLunar123/security-plus-acronyms-cheat-sheet
+     📝 Free CompTIA Security+ SY0-701 acronyms cheat sheet (PDF): every exam acronym, e…
+     🏷  certification, cheat-sheet, comptia, cybersecurity, security-plus, study-guide, sy0-701
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 Nasrif30/Ambaw-RAT-for-Lab
+     ⭐ 0  🗣 Shell  📅 2026-06-05
+     🔗 https://github.com/Nasrif30/Ambaw-RAT-for-Lab
+     📝 Ambaw RAT (RAT means Rat in Tausug language) - Educational cybersecurity lab dem…
+     🏷  —
+[2026-06-06 03:40:05 UTC] [NEW]   🆕 📦 c0ffee-audio/marshall-protocol
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/c0ffee-audio/marshall-protocol
+     📝 Reverse-engineered BLE/GATT protocol documentation for Zound Industries / Marsha…
+     🏷  —
+[2026-06-06 03:40:05 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-06 03:40:05 UTC] [UPD]   📢 📦 cerberus8484/SOC-Orchestrator
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/cerberus8484/SOC-Orchestrator
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-06 03:40:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-06 03:40:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-06 03:40:07 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-06 03:40:07 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-06 03:40:07 UTC] [NEW]   🆕 📦 PlGGS/umtx2-docker
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/PlGGS/umtx2-docker
+     📝 Docker container for umtx2 webkit-based kernel exploit and jailbreak for PS5
+     🏷  —
+[2026-06-06 03:40:07 UTC] [NEW]   🆕 📦 ForceInjection/elf-skill
+     ⭐ 1  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/ForceInjection/elf-skill
+     📝 Linux ELF related Skill
+     🏷  —
+[2026-06-06 03:40:07 UTC] [NEW]   🆕 📦 Machiavelliethan/Introduction
+     ⭐ 0  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/Machiavelliethan/Introduction
+     📝 Profile README
+     🏷  —
+[2026-06-06 03:40:07 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-06 03:40:07 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (3gg)
+[2026-06-06 03:40:07 UTC] [UPD]   📢 📦 NexusOne23/noid-privacy-workstation
+     ⭐ 0  🗣 Kickstart  📅 2026-06-05
+     🔗 https://github.com/NexusOne23/noid-privacy-workstation
+     📝 🛡️ Fully-hardened Security & Privacy OS based on Fedora 44 + GNOME · for Dev, Ad…
+     🏷  ai-linux-distro, cybersecurity, desktop-security, fedora, gnome, hardening, kickstart, linux, linux-distro, linux-hardening, linux-security, luks, noid-privacy, privacy, privacy-tools, secure-boot, security, selinux, system-hardening
+     🔄 Motivo: repo recente (1gg)
+[2026-06-06 03:40:07 UTC] [UPD]   📢 📦 zeroxjf/cyanide
+     ⭐ 109  🗣 Objective-C  📅 2026-05-30
+     🔗 https://github.com/zeroxjf/cyanide
+     📝 Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-06-06 03:40:07 UTC] [INFO] ============================================================
+[2026-06-06 03:40:07 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
+[2026-06-06 03:40:07 UTC] [INFO] ============================================================
