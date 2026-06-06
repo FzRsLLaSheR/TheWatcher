@@ -12123,3 +12123,121 @@
 [2026-06-06 03:40:07 UTC] [INFO] ============================================================
 [2026-06-06 03:40:07 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
 [2026-06-06 03:40:07 UTC] [INFO] ============================================================
+[2026-06-06 08:35:37 UTC] [INFO] ============================================================
+[2026-06-06 08:35:37 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-06 08:35:37 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-06 08:35:37 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-06 08:35:37 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-06 08:35:37 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-06 08:35:37 UTC] [INFO] ============================================================
+[2026-06-06 08:35:37 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-06 08:35:37 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-06 08:35:39 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-06 08:35:39 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-06 08:35:39 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-06 08:35:39 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-06 08:35:39 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-06 08:35:41 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 BlueTeamCoolTeam/detections
+     ⭐ 0  🗣 YARA  📅 2026-06-06
+     🔗 https://github.com/BlueTeamCoolTeam/detections
+     📝 "Sigma rules, YARA rules, IOCs, and detection notes from real malware analysis. …
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 ssteelfactor-oss/Aerie
+     ⭐ 0  🗣 C  📅 2026-06-05
+     🔗 https://github.com/ssteelfactor-oss/Aerie
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 SimonSaysGiveMeSmile/macmirror
+     ⭐ 0  🗣 Shell  📅 2026-06-06
+     🔗 https://github.com/SimonSaysGiveMeSmile/macmirror
+     📝 Open-source Apple Sidecar alternative: stream your Mac to iPad/iPhone over LAN o…
+     🏷  ipad, ipv6, macos, moonlight, open-source, remote-desktop, screen-sharing, sidecar, webrtc
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 sarat1kyan/pocket-siem
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/sarat1kyan/pocket-siem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 DubheStar/cpp-abe-injector
+     ⭐ 0  🗣 C  📅 2026-06-06
+     🔗 https://github.com/DubheStar/cpp-abe-injector
+     📝 Chrome App-Bound Encryption (ABE) 解密研究工具 - C++ 版本（进程注入 + IElevator2 + 句柄复制）
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 onokeee/pc_activity_tracker
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/onokeee/pc_activity_tracker
+     📝 PC操作ログ取得。共有ファイルサーバー（共有フォルダ）配置→batもしくはbatリンク配布で各PCから起動＆スタートアッププログラム登録
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 yogiex/opencode-cyber-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-06-05
+     🔗 https://github.com/yogiex/opencode-cyber-security-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 martin-beneder/ghostkey
+     ⭐ 0  🗣 C++  📅 2026-06-06
+     🔗 https://github.com/martin-beneder/ghostkey
+     📝 Custom ESP32-S3 hardware that sits inline between a keyboard and PC — a transpar…
+     🏷  badusb, embedded, esp32-s3, hardware-security, keylogger, max3421e, pentesting, platformio, red-team, tinyusb, usb-hid, usb-mitm
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 Vincent4-Lin/ai-soc-analyst
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/Vincent4-Lin/ai-soc-analyst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 iwadjp/disk-insight
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/iwadjp/disk-insight
+     📝 Fast Windows disk usage viewer focused on tree-first review and safe file-operat…
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 Sparse-Dynamix/guardian
+     ⭐ 1  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/Sparse-Dynamix/guardian
+     📝 Guardian is a tool designed to make your AI harness safer.
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 DubheStar/python-abe-injector
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/DubheStar/python-abe-injector
+     📝 Chrome App-Bound Encryption (ABE) 解密研究工具 - 纯 Python 版本（Hell's Gate + NtCreateThr…
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 anant720/cybersecurity-internship-tasks
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/anant720/cybersecurity-internship-tasks
+     📝 Cybersecurity analyst internship simulation — threat intelligence reports, vulne…
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 chris-teamrockstars/antimiasma
+     ⭐ 1  🗣 Go  📅 2026-06-05
+     🔗 https://github.com/chris-teamrockstars/antimiasma
+     📝 Anti-worm to spread the vaccination for the Miasma worm to infected organization…
+     🏷  —
+[2026-06-06 08:35:41 UTC] [NEW]   🆕 📦 vinayvobbili/detflow
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/vinayvobbili/detflow
+     📝 A detection-engineering copilot: draft detections from plain English (Sigma or C…
+     🏷  —
+[2026-06-06 08:35:41 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-06 08:35:41 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-06 08:35:41 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-06 08:35:42 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-06 08:35:42 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-06 08:35:42 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-06 08:35:42 UTC] [UPD]   📢 📦 PlGGS/umtx2-docker
+     ⭐ 0  🗣 Shell  📅 2026-06-06
+     🔗 https://github.com/PlGGS/umtx2-docker
+     📝 Docker container for umtx2 webkit-based kernel exploit and jailbreak for PS5
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-06 08:35:42 UTC] [UPD]   📢 📦 rbresjer/claude-isolated
+     ⭐ 0  🗣 Shell  📅 2026-06-05
+     🔗 https://github.com/rbresjer/claude-isolated
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-06 08:35:42 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (3gg)
+[2026-06-06 08:35:42 UTC] [INFO] ============================================================
+[2026-06-06 08:35:42 UTC] [INFO] Completato — 15 nuovi, 3 aggiornati, 0 errori
+[2026-06-06 08:35:42 UTC] [INFO] ============================================================
