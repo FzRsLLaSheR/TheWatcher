@@ -13088,3 +13088,169 @@
 [2026-06-07 09:15:30 UTC] [INFO] ============================================================
 [2026-06-07 09:15:30 UTC] [INFO] Completato — 20 nuovi, 1 aggiornati, 0 errori
 [2026-06-07 09:15:30 UTC] [INFO] ============================================================
+[2026-06-07 13:56:47 UTC] [INFO] ============================================================
+[2026-06-07 13:56:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-07 13:56:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-07 13:56:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-07 13:56:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-07 13:56:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-07 13:56:47 UTC] [INFO] ============================================================
+[2026-06-07 13:56:47 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-07 13:56:47 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-07 13:56:50 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 13:56:50 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-07 13:56:50 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-07 13:56:50 UTC] [UPD]   📢 📦 Ruby570bocadito/X404X
+     ⭐ 0  🗣 Go  📅 2026-06-06
+     🔗 https://github.com/Ruby570bocadito/X404X
+     📝 X404X — Autonomous Red Team Platform. Semi-autonomous offensive framework coveri…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-07 13:56:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-07 13:56:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-07 13:56:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 drmandvithoma/HIPAA-Dental-Information-Systems
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/drmandvithoma/HIPAA-Dental-Information-Systems
+     📝 Analysis of HIPAA compliance challenges in dental information systems, including…
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 vireshsolanki/aws-calculator-mcp
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/vireshsolanki/aws-calculator-mcp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 Birgerson/stars-ad-permission-analyzer
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/Birgerson/stars-ad-permission-analyzer
+     📝 Read-only-Auswertung effektiver NTFS-, AD- und SMB-Berechtigungen mit erklärbare…
+     🏷  acl, active-directory, audit, ntfs, permissions, read-only, rust, security-tools, smb, windows
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 saisudhavana/Windows_Endpoint_Security_Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/saisudhavana/Windows_Endpoint_Security_Lab
+     📝 Windows Endpoint Security Lab demonstrating Sysmon-based event logging, ProcDump…
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 lionelmsango/vulnerability-management-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/lionelmsango/vulnerability-management-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 allytag/DWService
+     ⭐ 0  🗣 Batchfile  📅 2026-06-07
+     🔗 https://github.com/allytag/DWService
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 DubheStar/evading-edr-demos
+     ⭐ 0  🗣 C  📅 2026-06-07
+     🔗 https://github.com/DubheStar/evading-edr-demos
+     📝 Windows EDR evasion technique demos, companion code for Evading EDR by Matt Hand
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 suryagandhan/Advanced_IDS_Project
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/suryagandhan/Advanced_IDS_Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 Nialfit/scanning
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/Nialfit/scanning
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 m-abdullah-06/soc-analyst-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/m-abdullah-06/soc-analyst-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 nicosolo/too-dark
+     ⭐ 0  🗣 Swift  📅 2026-06-07
+     🔗 https://github.com/nicosolo/too-dark
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 Krish14-ai/KILLCRITIC
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/Krish14-ai/KILLCRITIC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 aadov/incident-response-playbooks
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/aadov/incident-response-playbooks
+     📝 IR playbooks for SOC analysts: 9 incident types, NIST SP 800-61 structure, MITRE…
+     🏷  banking, blue-team, cybersecurity, dfir, incident-response, mitre-attack, nist, playbook, soc-analyst
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 simonecandio/computer-security
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/simonecandio/computer-security
+     📝 Personal notes & lab writeups covering crypto, TLS/IPsec, malware, DoS, authenti…
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 TwoSevenOneT/EDRChoker
+     ⭐ 19  🗣 C#  📅 2026-06-07
+     🔗 https://github.com/TwoSevenOneT/EDRChoker
+     📝 A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Respon…
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 Tr00jan99/Tr00jan99
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/Tr00jan99/Tr00jan99
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [NEW]   🆕 📦 hannah-adam/Top-Skills-to-Look-for-When-Hiring-Cybersecurity-Professionals---By-Role
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/hannah-adam/Top-Skills-to-Look-for-When-Hiring-Cybersecurity-Professionals---By-Role
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:53 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-07 13:56:53 UTC] [UPD]   📢 📦 Saba-Var/claude-ward
+     ⭐ 0  🗣 TypeScript  📅 2026-06-06
+     🔗 https://github.com/Saba-Var/claude-ward
+     📝 A read-only tripwire that watches Claude Code's local config and reports suspici…
+     🏷  claude, claude-code, cli, mcp, nodejs, security, supply-chain, tamper-detection, tripwire
+     🔄 Motivo: repo recente (1gg)
+[2026-06-07 13:56:53 UTC] [UPD]   📢 📦 yty0v0/c-eyes-automation
+     ⭐ 2  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/yty0v0/c-eyes-automation
+     📝 一款基于 EDR 系统 和 Agent 的自动化终端扫描工具，采用多 Agent 架构，实现包括资产清点，风险排查，安全基线等多功能操作，并由 Agent 负责…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-07 13:56:53 UTC] [UPD]   📢 📦 Actenon/actenon-kernel
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/Actenon/actenon-kernel
+     📝 Stop AI agents from taking destructive actions they weren't authorized to. Acten…
+     🏷  agent-security, ai-agents, ai-governance, ai-safety, langchain, llm-security, mcp, mcp-server, mcp-tools, open-source, proofs, receipts
+     🔄 Motivo: repo recente (2gg) | nuovi topic: langchain, mcp-server, mcp-tools
+[2026-06-07 13:56:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-07 13:56:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-07 13:56:56 UTC] [INFO]   → 23 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 13:56:56 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-06-07 13:56:56 UTC] [NEW]   🆕 📦 Nialfit/Vulnarability-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/Nialfit/Vulnarability-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:56 UTC] [NEW]   🆕 📦 KSTRamyaSri/Blogs
+     ⭐ 0  🗣 HTML  📅 2026-06-07
+     🔗 https://github.com/KSTRamyaSri/Blogs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:56 UTC] [NEW]   🆕 📦 pickpawcat/LAB-10---VULNARABILITY-ANALYSIS
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/pickpawcat/LAB-10---VULNARABILITY-ANALYSIS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:56 UTC] [NEW]   🆕 📦 BigM219/OptimAIze-Work
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/BigM219/OptimAIze-Work
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 13:56:56 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-07 13:56:56 UTC] [UPD]   📢 📦 ilyess-sellami/Linux-Privilege-Escalation-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/ilyess-sellami/Linux-Privilege-Escalation-Playbook
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-07 13:56:56 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (4gg)
+[2026-06-07 13:56:56 UTC] [INFO] ============================================================
+[2026-06-07 13:56:56 UTC] [INFO] Completato — 21 nuovi, 6 aggiornati, 0 errori
+[2026-06-07 13:56:56 UTC] [INFO] ============================================================
