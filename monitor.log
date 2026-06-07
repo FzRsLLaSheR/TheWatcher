@@ -12957,3 +12957,134 @@
 [2026-06-07 04:07:31 UTC] [INFO] ============================================================
 [2026-06-07 04:07:31 UTC] [INFO] Completato — 17 nuovi, 7 aggiornati, 0 errori
 [2026-06-07 04:07:31 UTC] [INFO] ============================================================
+[2026-06-07 09:15:22 UTC] [INFO] ============================================================
+[2026-06-07 09:15:22 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-07 09:15:22 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-07 09:15:22 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-07 09:15:22 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-07 09:15:22 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-07 09:15:22 UTC] [INFO] ============================================================
+[2026-06-07 09:15:22 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-07 09:15:22 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-07 09:15:24 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 09:15:24 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-07 09:15:24 UTC] [NEW]   🆕 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+[2026-06-07 09:15:24 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-07 09:15:24 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-07 09:15:24 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-07 09:15:27 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 ManidotC0M/VectorEDR
+     ⭐ 0  🗣 JavaScript  📅 2026-06-07
+     🔗 https://github.com/ManidotC0M/VectorEDR
+     📝 CyberSecurity AntiVirus
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 sparsh0711/SentinelOps
+     ⭐ 0  🗣 JavaScript  📅 2026-06-07
+     🔗 https://github.com/sparsh0711/SentinelOps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 LeeRenJie/sentinel-brief
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/LeeRenJie/sentinel-brief
+     📝 Multi-agent detection-to-decision war room on Splunk splunklib.ai — turns a fire…
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 olli0601/orphanhood-burden-mexico
+     ⭐ 0  🗣 R  📅 2026-06-06
+     🔗 https://github.com/olli0601/orphanhood-burden-mexico
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 alexnix/edrum
+     ⭐ 0  🗣 C++  📅 2026-06-07
+     🔗 https://github.com/alexnix/edrum
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 hannah-adam/From-CTF-Hobbyist-to-Cybersecurity-Professional-Career-Paths-That-Start-with-Hacking-Challenges
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/hannah-adam/From-CTF-Hobbyist-to-Cybersecurity-Professional-Career-Paths-That-Start-with-Hacking-Challenges
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 SyberdudeETI/Crackmes-Level-1
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/SyberdudeETI/Crackmes-Level-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 cyb3rhurr1c4n3/phantom-hollowing
+     ⭐ 0  🗣 C  📅 2026-06-07
+     🔗 https://github.com/cyb3rhurr1c4n3/phantom-hollowing
+     📝 A Proof-of-Concept implementation of Phantom Hollowing - a novel stealthy proces…
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 cheaterida/EDR-Linux
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/cheaterida/EDR-Linux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 hongnono-wdh/betavoltaic-sim
+     ⭐ 0  🗣 C++  📅 2026-06-07
+     🔗 https://github.com/hongnono-wdh/betavoltaic-sim
+     📝 Betavoltaic beta energy-deposition Geant4 simulation: parameterized engine + Cla…
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 pretinhuu1-boop/blindar
+     ⭐ 0  🗣 PowerShell  📅 2026-06-07
+     🔗 https://github.com/pretinhuu1-boop/blindar
+     📝 Skill autonomo de hardening: security-first, multi-agente, multi-AI
+     🏷  claude-code, hardening, iso27001, lgpd, multi-agent, nist, owasp, pentest, production-ready, security
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 Anandkrsharma010/cyberrange-backend
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/Anandkrsharma010/cyberrange-backend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 sandakelum97/sandakelum97.github.io
+     ⭐ 0  🗣 HTML  📅 2026-06-07
+     🔗 https://github.com/sandakelum97/sandakelum97.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 conhectorcl/edrion-ventas
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/conhectorcl/edrion-ventas
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 Ayaan0299/Threat-hunting-Scenario-TOR-
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/Ayaan0299/Threat-hunting-Scenario-TOR-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 rishit-047/ThreatLens-EDR
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/rishit-047/ThreatLens-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 austriana2/edrbpa
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/austriana2/edrbpa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 09:15:27 UTC] [NEW]   🆕 📦 Suvajit747/keylogeer
+     ⭐ 1  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/Suvajit747/keylogeer
+     📝 A Python keylogger built for cybersecurity beginners to understand how keystroke…
+     🏷  —
+[2026-06-07 09:15:27 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-07 09:15:27 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-07 09:15:27 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-07 09:15:30 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 09:15:30 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-07 09:15:30 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-07 09:15:30 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (4gg)
+[2026-06-07 09:15:30 UTC] [INFO] ============================================================
+[2026-06-07 09:15:30 UTC] [INFO] Completato — 20 nuovi, 1 aggiornati, 0 errori
+[2026-06-07 09:15:30 UTC] [INFO] ============================================================
