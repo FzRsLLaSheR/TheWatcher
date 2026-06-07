@@ -12805,3 +12805,155 @@
 [2026-06-06 19:26:03 UTC] [INFO] ============================================================
 [2026-06-06 19:26:03 UTC] [INFO] Completato — 48 nuovi, 5 aggiornati, 0 errori
 [2026-06-06 19:26:03 UTC] [INFO] ============================================================
+[2026-06-07 04:07:23 UTC] [INFO] ============================================================
+[2026-06-07 04:07:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-07 04:07:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-07 04:07:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-07 04:07:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-07 04:07:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-07 04:07:23 UTC] [INFO] ============================================================
+[2026-06-07 04:07:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-07 04:07:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-07 04:07:25 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 04:07:25 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-07 04:07:25 UTC] [NEW]   🆕 📦 Ruby570bocadito/X404X
+     ⭐ 0  🗣 Go  📅 2026-06-06
+     🔗 https://github.com/Ruby570bocadito/X404X
+     📝 X404X — Autonomous Red Team Platform. Semi-autonomous offensive framework coveri…
+     🏷  —
+[2026-06-07 04:07:25 UTC] [NEW]   🆕 📦 harr-sudo/RansomSim
+     ⭐ 0  🗣 C#  📅 2026-06-06
+     🔗 https://github.com/harr-sudo/RansomSim
+     📝 Two-phase ransomware behaviour simulator for purple team exercises - generates d…
+     🏷  chacha8, csharp, dragonforce, edr-testing, mitre-attack, purple-team, ransomware-simulation, red-team
+[2026-06-07 04:07:25 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-07 04:07:25 UTC] [UPD]   📢 📦 0xM4L/SysHunter
+     ⭐ 0  🗣 Java  📅 2026-06-06
+     🔗 https://github.com/0xM4L/SysHunter
+     📝 Ghidra plugin for automatic BYOVD attack surface analysis on Windows kernel driv…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-07 04:07:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-07 04:07:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-07 04:07:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 xoopalinde/edrfqa
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/xoopalinde/edrfqa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 iamjammie/iamjammie
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/iamjammie/iamjammie
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 sanchezbelitocalet-ctrl/Tarea-09-Edriam-Sanchez
+     ⭐ 0  🗣 HTML  📅 2026-06-07
+     🔗 https://github.com/sanchezbelitocalet-ctrl/Tarea-09-Edriam-Sanchez
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 cerberus8484/SIEM-Rules
+     ⭐ 0  🗣 HTML  📅 2026-06-06
+     🔗 https://github.com/cerberus8484/SIEM-Rules
+     📝 Wazuh Qradar SpecOps Splunk
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 changereadiness/EDRP
+     ⭐ 0  🗣 HTML  📅 2026-06-06
+     🔗 https://github.com/changereadiness/EDRP
+     📝 EDRP
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 BenmezOthmane/Modern-Defense-Pipeline-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/BenmezOthmane/Modern-Defense-Pipeline-Lab
+     📝 End-to-end Security Operations Center (SOC) lab focused on log collection, endpo…
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 Ademag1/Ademag1
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/Ademag1/Ademag1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 sierengowskisierengowski-cpu/Cerberus
+     ⭐ 0  🗣 C  📅 2026-06-06
+     🔗 https://github.com/sierengowskisierengowski-cpu/Cerberus
+     📝  Autonomous on-premise XDR for Linux. C/eBPF kernel sensor, Rust endpoint agent,…
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 ruyek-git/Harrier
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/ruyek-git/Harrier
+     📝 Harrier is a live security operations layer for agentic AI. A fleet of agents ru…
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 lea-escober/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/lea-escober/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 harr-sudo/RansomSim
+     ⭐ 0  🗣 C#  📅 2026-06-06
+     🔗 https://github.com/harr-sudo/RansomSim
+     📝 Two-phase ransomware behaviour simulator for purple team exercises - generates d…
+     🏷  chacha8, csharp, dragonforce, edr-testing, mitre-attack, purple-team, ransomware-simulation, red-team
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 mahmudsys-sudo/CEH-prep
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/mahmudsys-sudo/CEH-prep
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 Dib68/virtual-machine-Soc
+     ⭐ 0  🗣 Shell  📅 2026-06-06
+     🔗 https://github.com/Dib68/virtual-machine-Soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 04:07:29 UTC] [NEW]   🆕 📦 ActiveDirectoryKC/2026-06-A-Miser-s-Guide-to-hardening-AD
+     ⭐ 1  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/ActiveDirectoryKC/2026-06-A-Miser-s-Guide-to-hardening-AD
+     📝 Talk Notes, etc. for BSidesKC 2026 - It is costly and difficult to build a cyber…
+     🏷  —
+[2026-06-07 04:07:29 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-07 04:07:29 UTC] [UPD]   📢 📦 Saba-Var/claude-ward
+     ⭐ 0  🗣 TypeScript  📅 2026-06-06
+     🔗 https://github.com/Saba-Var/claude-ward
+     📝 A read-only tripwire that watches Claude Code's local config and reports suspici…
+     🏷  claude, claude-code, cli, mcp, nodejs, security, supply-chain, tamper-detection, tripwire
+     🔄 Motivo: repo recente (0gg) | nuovi topic: tamper-detection, mcp, nodejs, cli, supply-chain, security, claude, tripwire, claude-code
+[2026-06-07 04:07:29 UTC] [UPD]   📢 📦 ryanclarke746380540/edrubkny1xu
+     ⭐ 0  🗣 C++  📅 2026-06-06
+     🔗 https://github.com/ryanclarke746380540/edrubkny1xu
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-07 04:07:29 UTC] [UPD]   📢 📦 Sparse-Dynamix/guardian
+     ⭐ 1  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/Sparse-Dynamix/guardian
+     📝 Guardian is a tool designed to make your AI harness safer.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-07 04:07:29 UTC] [UPD]   📢 📦 WilliamSmithEdward/ArcaneEDR
+     ⭐ 0  🗣 C#  📅 2026-06-06
+     🔗 https://github.com/WilliamSmithEdward/ArcaneEDR
+     📝 Arcane EDR is a lightweight Windows service for making unattended agent workstat…
+     🏷  agentic-ai, agentic-workflow, edr, security
+     🔄 Motivo: repo recente (0gg) | nuovi topic: agentic-workflow, security, agentic-ai, edr
+[2026-06-07 04:07:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-07 04:07:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-07 04:07:31 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 04:07:31 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-07 04:07:31 UTC] [NEW]   🆕 📦 harr-sudo/RansomSim
+     ⭐ 0  🗣 C#  📅 2026-06-06
+     🔗 https://github.com/harr-sudo/RansomSim
+     📝 Two-phase ransomware behaviour simulator for purple team exercises - generates d…
+     🏷  chacha8, csharp, dragonforce, edr-testing, mitre-attack, purple-team, ransomware-simulation, red-team
+[2026-06-07 04:07:31 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-07 04:07:31 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (4gg)
+[2026-06-07 04:07:31 UTC] [UPD]   📢 📦 NexusOne23/noid-privacy-workstation
+     ⭐ 0  🗣 Kickstart  📅 2026-06-05
+     🔗 https://github.com/NexusOne23/noid-privacy-workstation
+     📝 🛡️ Fully-hardened Security & Privacy OS based on Fedora 44 + GNOME · for Dev, Ad…
+     🏷  ai-linux-distro, cybersecurity, desktop-security, fedora, gnome, hardening, kickstart, linux, linux-distro, linux-hardening, linux-security, luks, noid-privacy, privacy, privacy-tools, secure-boot, security, selinux, system-hardening
+     🔄 Motivo: repo recente (2gg)
+[2026-06-07 04:07:31 UTC] [INFO] ============================================================
+[2026-06-07 04:07:31 UTC] [INFO] Completato — 17 nuovi, 7 aggiornati, 0 errori
+[2026-06-07 04:07:31 UTC] [INFO] ============================================================
