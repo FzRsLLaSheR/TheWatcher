@@ -13254,3 +13254,173 @@
 [2026-06-07 13:56:56 UTC] [INFO] ============================================================
 [2026-06-07 13:56:56 UTC] [INFO] Completato — 21 nuovi, 6 aggiornati, 0 errori
 [2026-06-07 13:56:56 UTC] [INFO] ============================================================
+[2026-06-07 19:25:44 UTC] [INFO] ============================================================
+[2026-06-07 19:25:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-07 19:25:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-07 19:25:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-07 19:25:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-07 19:25:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-07 19:25:44 UTC] [INFO] ============================================================
+[2026-06-07 19:25:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-07 19:25:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-07 19:25:46 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 19:25:46 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-07 19:25:46 UTC] [NEW]   🆕 📦 mhmsdfhwhegggggggg/Thor-Firewall
+     ⭐ 0  🗣 Rust  📅 2026-06-07
+     🔗 https://github.com/mhmsdfhwhegggggggg/Thor-Firewall
+     📝 Next-gen smart firewall powered by Reinforcement Learning and LLMs
+     🏷  —
+[2026-06-07 19:25:46 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-07 19:25:46 UTC] [UPD]   📢 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-07 19:25:46 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-07 19:25:46 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-07 19:25:48 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 credkellar-boop/REDTEAM-ENV
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/credkellar-boop/REDTEAM-ENV
+     📝 RedTeam-ENV is a modular, automated orchestration framework for advanced penetra…
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 aaronpaul04/phishing-detector-ml
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/aaronpaul04/phishing-detector-ml
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 khaledmedz/khaledmedz
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/khaledmedz/khaledmedz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 Kriptyon/blueshield-linux
+     ⭐ 0  🗣 Shell  📅 2026-06-07
+     🔗 https://github.com/Kriptyon/blueshield-linux
+     📝 The first Linux distribution built exclusively for Blue Team and SOC analysts.
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 CyberHiso/soc-ir-playbook
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/CyberHiso/soc-ir-playbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 VIGABANC/vigil1
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/VIGABANC/vigil1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 YoungTravis03/LIVEHunt-07-Rocky-Clinic-OpenEMR-Breach
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/YoungTravis03/LIVEHunt-07-Rocky-Clinic-OpenEMR-Breach
+     📝 Threat Hunt
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 Amine-M07/SOC-Analyst-Active-Directory-Brute-Force-Detection-Analysis-Incident-Response-Using-Splunk
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/Amine-M07/SOC-Analyst-Active-Directory-Brute-Force-Detection-Analysis-Incident-Response-Using-Splunk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 deepakshivanandappa/security-map
+     ⭐ 0  🗣 JavaScript  📅 2026-06-07
+     🔗 https://github.com/deepakshivanandappa/security-map
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 edriejohnaragones-cyber/Edrie-John-Aragones-github.io
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/edriejohnaragones-cyber/Edrie-John-Aragones-github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 sindrenb/edrafa
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/sindrenb/edrafa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 0xBlackash/CVE-2020-17103
+     ⭐ 0  🗣 C#  📅 2026-06-07
+     🔗 https://github.com/0xBlackash/CVE-2020-17103
+     📝 CVE-2020-17103
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 minhlaingoo/minhlaingoo
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/minhlaingoo/minhlaingoo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 mayank-dev-15/device-security-audit-suite
+     ⭐ 0  🗣 Python  📅 2026-06-06
+     🔗 https://github.com/mayank-dev-15/device-security-audit-suite
+     📝 🔒 Comprehensive Python security audit suite — low-end, mid-end, high-end dev dev…
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 aarensberg/cv_analyzer
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/aarensberg/cv_analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 kaifhoda1/threat-intelligence-aggregator
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/kaifhoda1/threat-intelligence-aggregator
+     📝 A Python-based threat intelligence aggregator that collects, normalizes, correla…
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 parhamfr8/cofe-edris
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/parhamfr8/cofe-edris
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 ivanlablzr/tech-learning-notes
+     ⭐ 0  🗣 N/A  📅 2026-06-06
+     🔗 https://github.com/ivanlablzr/tech-learning-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 ulm0/antimiasma
+     ⭐ 0  🗣 Go  📅 2026-06-07
+     🔗 https://github.com/ulm0/antimiasma
+     📝 Just a copy of a gone repo
+     🏷  —
+[2026-06-07 19:25:48 UTC] [NEW]   🆕 📦 lonit849/esp32-bluetooth-speaker
+     ⭐ 1  🗣 C  📅 2026-06-07
+     🔗 https://github.com/lonit849/esp32-bluetooth-speaker
+     📝 ESP32 Bluetooth Speaker with PAM8403 and 16x2 LCD I2C Display
+     🏷  —
+[2026-06-07 19:25:48 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-07 19:25:48 UTC] [UPD]   📢 📦 cerberus8484/SOC-Orchestrator
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/cerberus8484/SOC-Orchestrator
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-07 19:25:48 UTC] [UPD]   📢 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-07 19:25:48 UTC] [UPD]   📢 📦 Actenon/actenon-kernel
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/Actenon/actenon-kernel
+     📝 Stop AI agents from taking destructive actions they weren't authorized to. Acten…
+     🏷  agent-security, ai-agents, ai-governance, ai-safety, langchain, llm-security, mcp, mcp-server, mcp-tools, open-source, proofs, receipts
+     🔄 Motivo: repo recente (2gg)
+[2026-06-07 19:25:48 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-07 19:25:48 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-07 19:25:50 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-07 19:25:50 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-07 19:25:50 UTC] [NEW]   🆕 📦 sivasanjeevkumar/sivasanjeevkumar
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/sivasanjeevkumar/sivasanjeevkumar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-07 19:25:50 UTC] [NEW]   🆕 📦 kpawnd/deepfreeze-re
+     ⭐ 0  🗣 Java  📅 2026-06-07
+     🔗 https://github.com/kpawnd/deepfreeze-re
+     📝 Faronic's Deep Freeze Driver & Module Analysis
+     🏷  —
+[2026-06-07 19:25:50 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-07 19:25:50 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (5gg)
+[2026-06-07 19:25:50 UTC] [INFO] ============================================================
+[2026-06-07 19:25:50 UTC] [INFO] Completato — 23 nuovi, 5 aggiornati, 0 errori
+[2026-06-07 19:25:50 UTC] [INFO] ============================================================
