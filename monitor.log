@@ -13851,3 +13851,128 @@
 [2026-06-08 11:00:02 UTC] [INFO] ============================================================
 [2026-06-08 11:00:02 UTC] [INFO] Completato — 36 nuovi, 2 aggiornati, 0 errori
 [2026-06-08 11:00:02 UTC] [INFO] ============================================================
+[2026-06-08 15:55:58 UTC] [INFO] ============================================================
+[2026-06-08 15:55:58 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-08 15:55:58 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-08 15:55:58 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-08 15:55:58 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-08 15:55:58 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-08 15:55:58 UTC] [INFO] ============================================================
+[2026-06-08 15:55:58 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-08 15:55:58 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-08 15:56:00 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 15:56:00 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-08 15:56:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-08 15:56:00 UTC] [UPD]   📢 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-08 15:56:00 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-08 15:56:00 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-08 15:56:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 lexathegoat/EDR-AV-Bypass-Payload-Generator
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/lexathegoat/EDR-AV-Bypass-Payload-Generator
+     📝 This repository contains an automated toolchain designed for security research a…
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 memonaariz/soc-project-1
+     ⭐ 0  🗣 JavaScript  📅 2026-06-08
+     🔗 https://github.com/memonaariz/soc-project-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 MichaelKirbyIT/Threat-Hunt-Report-Signals-Before-The-Noise
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-Before-The-Noise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 BenjiTrapp/transportable-detonation-chamber
+     ⭐ 0  🗣 JavaScript  📅 2026-06-08
+     🔗 https://github.com/BenjiTrapp/transportable-detonation-chamber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 ZeyadAshraff/bue-information-security-system-design
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/ZeyadAshraff/bue-information-security-system-design
+     📝 Security system design for the British University in Egypt (BUE) using the NIST …
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 HaMinhQuan-Uit/Deploy-Suricata-ELK-on-AWS
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/HaMinhQuan-Uit/Deploy-Suricata-ELK-on-AWS
+     📝 Deploy Suricata + ELK on AWS
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 pnema-s1/ldap_recon_detector
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/pnema-s1/ldap_recon_detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 luckvinder-cloudsec/Enterprise-Cyber-Defense-Case-Studies
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/luckvinder-cloudsec/Enterprise-Cyber-Defense-Case-Studies
+     📝 Enterprise ransomware recovery, incident response and multi-region cyber defense…
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 gotr00t0day/Cplusplus-Syscalls-and-Ptrace-Guide
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/gotr00t0day/Cplusplus-Syscalls-and-Ptrace-Guide
+     📝 Intermediate C++ developers learning Linux internals.
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 cchokaaa/shellcode-executor
+     ⭐ 1  🗣 C  📅 2026-06-07
+     🔗 https://github.com/cchokaaa/shellcode-executor
+     📝 Cross-platform shellcode loader & exploit demo framework in C. Supports Win/Linu…
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 manabouprj/secureglass
+     ⭐ 0  🗣 HTML  📅 2026-06-08
+     🔗 https://github.com/manabouprj/secureglass
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 tr3sp4ss3rexe/callbackCleaner
+     ⭐ 0  🗣 C  📅 2026-06-08
+     🔗 https://github.com/tr3sp4ss3rexe/callbackCleaner
+     📝 Windows kernel driver and userland controller for enumerating and removing EDR p…
+     🏷  —
+[2026-06-08 15:56:03 UTC] [NEW]   🆕 📦 BlackShadow-arch/AV_EDR_Evasion
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/BlackShadow-arch/AV_EDR_Evasion
+     📝 This Lab demonstrates how modern attackers bypass endpoint defenses without zero…
+     🏷  —
+[2026-06-08 15:56:03 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-08 15:56:03 UTC] [UPD]   📢 📦 sbousseaden/EDRUnChoker
+     ⭐ 8  🗣 PowerShell  📅 2026-06-08
+     🔗 https://github.com/sbousseaden/EDRUnChoker
+     📝 EDRUnChoker — fileless WMI defense that removes EDRChoker QoS throttling policie…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-08 15:56:03 UTC] [UPD]   📢 📦 cerberus8484/SOC-Orchestrator
+     ⭐ 0  🗣 JavaScript  📅 2026-06-04
+     🔗 https://github.com/cerberus8484/SOC-Orchestrator
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-08 15:56:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-08 15:56:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-08 15:56:06 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 15:56:06 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-08 15:56:06 UTC] [NEW]   🆕 📦 huangd1999/SandboxFusion-PerfCount
+     ⭐ 0  🗣 MDX  📅 2026-06-08
+     🔗 https://github.com/huangd1999/SandboxFusion-PerfCount
+     📝 SandboxFusion fork with bwrap isolation + 8 GB ulimit cap + perf_event_open hard…
+     🏷  —
+[2026-06-08 15:56:06 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-08 15:56:06 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (5gg)
+[2026-06-08 15:56:06 UTC] [UPD]   📢 📦 StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     ⭐ 9  🗣 C  📅 2026-06-08
+     🔗 https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     📝 A PS5 payload to allow other controllers to work via the front USB port
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-08 15:56:06 UTC] [INFO] ============================================================
+[2026-06-08 15:56:06 UTC] [INFO] Completato — 14 nuovi, 5 aggiornati, 0 errori
+[2026-06-08 15:56:06 UTC] [INFO] ============================================================
