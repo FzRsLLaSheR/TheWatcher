@@ -13424,3 +13424,213 @@
 [2026-06-07 19:25:50 UTC] [INFO] ============================================================
 [2026-06-07 19:25:50 UTC] [INFO] Completato — 23 nuovi, 5 aggiornati, 0 errori
 [2026-06-07 19:25:50 UTC] [INFO] ============================================================
+[2026-06-08 04:12:02 UTC] [INFO] ============================================================
+[2026-06-08 04:12:02 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-08 04:12:02 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-08 04:12:02 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-08 04:12:02 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-08 04:12:02 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-08 04:12:02 UTC] [INFO] ============================================================
+[2026-06-08 04:12:02 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-08 04:12:02 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-08 04:12:03 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 04:12:03 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-08 04:12:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-08 04:12:03 UTC] [UPD]   📢 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-08 04:12:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-08 04:12:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-08 04:12:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 kareemadel4455-create/mcafee-livesafe-utility-suite
+     ⭐ 0  🗣 HTML  📅 2026-06-08
+     🔗 https://github.com/kareemadel4455-create/mcafee-livesafe-utility-suite
+     📝 McAfee LiveSafe Full Security Suite 2026 Latest Version
+     🏷  mcafee, mcafee-download, mcafee-install, mcafee-key, mcafee-livesafe, mcafee-livesafe-download, mcafee-livesafe-install, mcafee-livesafe-key, mcafee-livesafe-patch, mcafee-livesafe-software, mcafee-livesafe-trial, mcafee-patch, mcafee-software, mcafee-trial
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 HealthITAU/ChatPSA
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/HealthITAU/ChatPSA
+     📝 AI-powered natural language interface for ConnectWise Manage (or add your PSA) —…
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 kborromeo/md-102-intune-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/kborromeo/md-102-intune-lab
+     📝 Enterprise Windows Deployment & Endpoint Management Lab
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 moltengama/SAM-SYSTEM_RegistryExtraction
+     ⭐ 0  🗣 C++  📅 2026-06-08
+     🔗 https://github.com/moltengama/SAM-SYSTEM_RegistryExtraction
+     📝 Este codigo creado para copiar la registry key de SAM usando directamente las fu…
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 PASTA547/HPE-TDI
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/PASTA547/HPE-TDI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 matspectrum-ai/Ransonware-Lab
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/matspectrum-ai/Ransonware-Lab
+     📝 Ransonware-Lab projeto (Samara)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 nathanhsjc/Threat-Hunting-Devices-Accidentally-Exposed-to-the-Internet
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/nathanhsjc/Threat-Hunting-Devices-Accidentally-Exposed-to-the-Internet
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 KhairBeos/EDR
+     ⭐ 0  🗣 Shell  📅 2026-06-08
+     🔗 https://github.com/KhairBeos/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 BeiSeaY/YTH-AUTO-TEST-V3
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/BeiSeaY/YTH-AUTO-TEST-V3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 mshermancyber/FraudVault
+     ⭐ 0  🗣 TypeScript  📅 2026-06-08
+     🔗 https://github.com/mshermancyber/FraudVault
+     📝 Enterprise malware detonation & container security platform. Detonate files in h…
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 volts-inventory/Solen
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/volts-inventory/Solen
+     📝 Solen is a self-hosted endpoint security agent that flags suspicious activity on…
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 nathanhsjc/Threat-Hunting-Scenario-TOR
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/nathanhsjc/Threat-Hunting-Scenario-TOR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 edrianferido-ops/edrianferido.github.io
+     ⭐ 0  🗣 HTML  📅 2026-06-08
+     🔗 https://github.com/edrianferido-ops/edrianferido.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 tleanne1/rocky-clinic-threat-hunt
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/tleanne1/rocky-clinic-threat-hunt
+     📝 Threat hunting and incident investigation of a multi-stage Linux intrusion invol…
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 shieldnet2024/julio-lima
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/shieldnet2024/julio-lima
+     📝 Perfil Profissional
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 CristianLopez2004/soc-rabbitmq-microservices
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/CristianLopez2004/soc-rabbitmq-microservices
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 kanonufo/Windows-x64-Syscall-Loader-Tutorial-Completo
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/kanonufo/Windows-x64-Syscall-Loader-Tutorial-Completo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 v1m4t3/ThreatIntelligence-IncidentManagement
+     ⭐ 0  🗣 TeX  📅 2026-06-07
+     🔗 https://github.com/v1m4t3/ThreatIntelligence-IncidentManagement
+     📝 Cybersecurity risk management report for an autonomous drone delivery company — …
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 FornixII/Chainsawdockermcp
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/FornixII/Chainsawdockermcp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 0x-Mohammed/ZeroCore
+     ⭐ 1  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/0x-Mohammed/ZeroCore
+     📝 Kernel-level EDR agent with eBPF probes, real-time process attribution, and auto…
+     🏷  security-edr-ebpf-fim-python-siem-linux-windows
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 Adrianna-Szmaglinska/AI_detection_platform
+     ⭐ 0  🗣 Python  📅 2026-06-07
+     🔗 https://github.com/Adrianna-Szmaglinska/AI_detection_platform
+     📝 AI Detection & Hunting Platform for identifying AI‑enabled threats, shadow AI us…
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 EdreiLozano/EdreiLozano
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/EdreiLozano/EdreiLozano
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 Sultan-zd/Lab12-Medusa
+     ⭐ 0  🗣 JavaScript  📅 2026-06-07
+     🔗 https://github.com/Sultan-zd/Lab12-Medusa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 JoseQuinteroDev/Threat-Hunting-on-my-own-PC
+     ⭐ 0  🗣 PowerShell  📅 2026-06-07
+     🔗 https://github.com/JoseQuinteroDev/Threat-Hunting-on-my-own-PC
+     📝 El día en que me descuidé y me comí un virus que vivió en mi PC durante 3 meses.…
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 parhamfr8/cofe-edris-menu
+     ⭐ 0  🗣 HTML  📅 2026-06-07
+     🔗 https://github.com/parhamfr8/cofe-edris-menu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 himanshu76-cyber/Cybersecurity-Risk-Assessment-SME
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/himanshu76-cyber/Cybersecurity-Risk-Assessment-SME
+     📝 🔐 A Cybersecurity Risk Assessment Framework for SMEs — Likelihood × Impact scori…
+     🏷  cyber-threat-intelligence, cybersecurity, nist, phishing, phishing-attacks, ransomware, risk-assessment, smes
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 weslleyjk/soc-labs
+     ⭐ 1  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/weslleyjk/soc-labs
+     📝 security lab documenting real attack  simulations, KQL investigations and incide…
+     🏷  —
+[2026-06-08 04:12:05 UTC] [NEW]   🆕 📦 vishvacyber/vishvacyber
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/vishvacyber/vishvacyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:05 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-08 04:12:05 UTC] [UPD]   📢 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-08 04:12:05 UTC] [UPD]   📢 📦 mercadoalex/OllinAI-
+     ⭐ 0  🗣 TypeScript  📅 2026-06-02
+     🔗 https://github.com/mercadoalex/OllinAI-
+     📝 OllinAI is Change Intelligence and Deployment Risk platform — from webhook inges…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-08 04:12:05 UTC] [UPD]   📢 📦 Sparse-Dynamix/guardian
+     ⭐ 1  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/Sparse-Dynamix/guardian
+     📝 Guardian is a tool designed to make your AI harness safer.
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-08 04:12:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-08 04:12:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-08 04:12:07 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 04:12:07 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-08 04:12:07 UTC] [NEW]   🆕 📦 elbader17/Apophis
+     ⭐ 0  🗣 Go  📅 2026-06-07
+     🔗 https://github.com/elbader17/Apophis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 04:12:07 UTC] [NEW]   🆕 📦 StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     ⭐ 1  🗣 C  📅 2026-06-08
+     🔗 https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     📝 A PS5 payload to allow other controllers to work via the front USB port
+     🏷  —
+[2026-06-08 04:12:07 UTC] [NEW]   🆕 📦 rushdv/hacking-tools
+     ⭐ 0  🗣 N/A  📅 2026-06-07
+     🔗 https://github.com/rushdv/hacking-tools
+     📝 A collection of cybersecurity utility tools.
+     🏷  —
+[2026-06-08 04:12:07 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-08 04:12:07 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (5gg)
+[2026-06-08 04:12:07 UTC] [INFO] ============================================================
+[2026-06-08 04:12:07 UTC] [INFO] Completato — 31 nuovi, 5 aggiornati, 0 errori
+[2026-06-08 04:12:07 UTC] [INFO] ============================================================
