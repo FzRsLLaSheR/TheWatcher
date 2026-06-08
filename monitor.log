@@ -13976,3 +13976,132 @@
 [2026-06-08 15:56:06 UTC] [INFO] ============================================================
 [2026-06-08 15:56:06 UTC] [INFO] Completato — 14 nuovi, 5 aggiornati, 0 errori
 [2026-06-08 15:56:06 UTC] [INFO] ============================================================
+[2026-06-08 20:20:58 UTC] [INFO] ============================================================
+[2026-06-08 20:20:58 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-08 20:20:58 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-08 20:20:58 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-08 20:20:58 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-08 20:20:58 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-08 20:20:58 UTC] [INFO] ============================================================
+[2026-06-08 20:20:58 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-08 20:20:58 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-08 20:21:00 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 20:21:00 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-08 20:21:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-08 20:21:00 UTC] [UPD]   📢 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-08 20:21:00 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-08 20:21:00 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-08 20:21:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 ennduka86-spec/-Cybersecurity-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/ennduka86-spec/-Cybersecurity-Portfolio
+     📝 Cybersecurity portfolio showcasing SOC automation, threat detection playbooks, c…
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 edivanccastro/escritorio
+     ⭐ 0  🗣 C#  📅 2026-06-08
+     🔗 https://github.com/edivanccastro/escritorio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 OuadieMajt/SIEM-EDR-Threat-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/OuadieMajt/SIEM-EDR-Threat-Detection-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 mmorency2021/monitoring-app
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/mmorency2021/monitoring-app
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 andreassudo/BadUSB-O.MG-cable-style-attack-
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/andreassudo/BadUSB-O.MG-cable-style-attack-
+     📝 a cable with a tiny microcontroller hidden in the connector that registers as a …
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 swetaandroid/eDrive-Driver
+     ⭐ 0  🗣 Kotlin  📅 2026-06-08
+     🔗 https://github.com/swetaandroid/eDrive-Driver
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 swetaandroid/eDrive-Customer-Compose
+     ⭐ 0  🗣 Kotlin  📅 2026-06-08
+     🔗 https://github.com/swetaandroid/eDrive-Customer-Compose
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 Surya-64/SOAR-Incident-Response-Automation-Using-Shuffle
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/Surya-64/SOAR-Incident-Response-Automation-Using-Shuffle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 cfs0x/EDRChoker
+     ⭐ 2  🗣 C#  📅 2026-06-08
+     🔗 https://github.com/cfs0x/EDRChoker
+     📝 EDRChoker uses Policy-based Quality of Service (QoS) to set hard bandwidth caps …
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 Dalalkaljo/Edraak_Data-Analysis_Certificate
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/Dalalkaljo/Edraak_Data-Analysis_Certificate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 matrixplusio/mxsec-platform
+     ⭐ 0  🗣 Go  📅 2026-06-08
+     🔗 https://github.com/matrixplusio/mxsec-platform
+     📝 企业级主机与容器安全管理平台。覆盖安全基线、资产管理、漏洞扫描、病毒查杀、文件完整性监控、运行时检测、容器安全、威胁情报与告警响应，面向安全运营团队提供统一管控…
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 mkysln/ProcSentinel
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/mkysln/ProcSentinel
+     📝 Lightweight, low-CPU Endpoint Detection and Response (EDR) agent for Linux. Feat…
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 Stanislassalex/GestHotelResto-02
+     ⭐ 0  🗣 TypeScript  📅 2026-06-08
+     🔗 https://github.com/Stanislassalex/GestHotelResto-02
+     📝 Pour les pros
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 Doseuser/AntiVMd0se
+     ⭐ 0  🗣 C++  📅 2026-06-08
+     🔗 https://github.com/Doseuser/AntiVMd0se
+     📝 ANtiVM for Remote Agents
+     🏷  —
+[2026-06-08 20:21:03 UTC] [NEW]   🆕 📦 MichaelKirbyIT/Threat-Hunt-Report-Signals-After-The-Noise
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Signals-After-The-Noise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 20:21:03 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-08 20:21:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-08 20:21:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-08 20:21:05 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 20:21:05 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-08 20:21:05 UTC] [NEW]   🆕 📦 C4sh3R/C4sh3R
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/C4sh3R/C4sh3R
+     📝 offensive security researcher · red teamer · binary/RE · kernel & exploit dev · …
+     🏷  —
+[2026-06-08 20:21:05 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-08 20:21:05 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (6gg)
+[2026-06-08 20:21:05 UTC] [UPD]   📢 📦 dliptak001/HypercubeESN
+     ⭐ 1  🗣 C++  📅 2026-06-04
+     🔗 https://github.com/dliptak001/HypercubeESN
+     📝 Echo State Network (ESN) on a Boolean hypercube reservoir: sparse, XOR-defined c…
+     🏷  cpp23, echo-state-network, hypercube, machine-learning, python, reservoir-computing, signal-processing
+     🔄 Motivo: repo recente (4gg)
+[2026-06-08 20:21:05 UTC] [UPD]   📢 📦 Victor-TSGM/AXION-Red-Team
+     ⭐ 0  🗣 Shell  📅 2026-06-01
+     🔗 https://github.com/Victor-TSGM/AXION-Red-Team
+     📝 Estrutura mental para Offensive Security
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-08 20:21:05 UTC] [INFO] ============================================================
+[2026-06-08 20:21:05 UTC] [INFO] Completato — 16 nuovi, 4 aggiornati, 0 errori
+[2026-06-08 20:21:05 UTC] [INFO] ============================================================
