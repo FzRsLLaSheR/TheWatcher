@@ -13634,3 +13634,220 @@
 [2026-06-08 04:12:07 UTC] [INFO] ============================================================
 [2026-06-08 04:12:07 UTC] [INFO] Completato — 31 nuovi, 5 aggiornati, 0 errori
 [2026-06-08 04:12:07 UTC] [INFO] ============================================================
+[2026-06-08 10:59:55 UTC] [INFO] ============================================================
+[2026-06-08 10:59:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-08 10:59:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-08 10:59:55 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-08 10:59:55 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-08 10:59:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-08 10:59:55 UTC] [INFO] ============================================================
+[2026-06-08 10:59:55 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-08 10:59:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-08 10:59:57 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 10:59:57 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-08 10:59:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-08 10:59:57 UTC] [UPD]   📢 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-08 10:59:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-08 10:59:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-08 11:00:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-MINISTORE
+     ⭐ 0  🗣 Java  📅 2026-06-08
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-MINISTORE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 sbousseaden/EDRUnChoker
+     ⭐ 0  🗣 PowerShell  📅 2026-06-08
+     🔗 https://github.com/sbousseaden/EDRUnChoker
+     📝 EDRUnChoker — fileless WMI defense that removes EDRChoker QoS throttling policie…
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 GuruMentel/Lateral_Movement_Network_Pivoting
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/GuruMentel/Lateral_Movement_Network_Pivoting
+     📝 From one compromised host to the entire internal network — SSH tunneling, Proxyc…
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 Yashwanth24052005/soar-incident-containment-engine
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/Yashwanth24052005/soar-incident-containment-engine
+     📝 SentinelX SOAR: Automated Threat Intelligence and Incident Response Platform
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-EXAM
+     ⭐ 0  🗣 Java  📅 2026-06-08
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-EXAM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 wahidhendrawan/GolekThreat
+     ⭐ 0  🗣 TypeScript  📅 2026-06-08
+     🔗 https://github.com/wahidhendrawan/GolekThreat
+     📝 Threat hunting playbook engine for repeatable hunts, evidence tracking, ATT&CK c…
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 jcello1695/Jcello_Portfolio
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/jcello1695/Jcello_Portfolio
+     📝 JeongCheolHo_SecurityInfra_Portfolio
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 meneurio/edrvyd
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/meneurio/edrvyd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 KC2016/edreams-ux-product-case
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/KC2016/edreams-ux-product-case
+     📝 A multi-stage product and UX case study evaluating the eDreams e-commerce bookin…
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 cognis-digital/sentrylog
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/cognis-digital/sentrylog
+     📝 Single-file SIEM for small teams — Sigma rules + multi-source ingest
+     🏷  automation, blue-team, cli, cognis-digital, cognis-neural-suite, detection, dfir, mcp-server, python, self-hosted, sentrylog, siem, soc
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 cognis-digital/sbomgate
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/cognis-digital/sbomgate
+     📝 Continuous SBOM diff & vulnerability watch with maintainer-change tracking
+     🏷  automation, blue-team, cli, cognis-digital, cognis-neural-suite, detection, dfir, mcp-server, python, sbomgate, self-hosted, siem, soc
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 cognis-digital/cognis-neural-suite
+     ⭐ 0  🗣 Shell  📅 2026-06-08
+     🔗 https://github.com/cognis-digital/cognis-neural-suite
+     📝 Umbrella catalog of the Cognis Neural Suite (100+ tools)
+     🏷  ai, automation, cognis-digital, cognis-neural-suite, mcp, open-source, self-hosted
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 cognis-digital/awesome-cognis
+     ⭐ 0  🗣 Shell  📅 2026-06-08
+     🔗 https://github.com/cognis-digital/awesome-cognis
+     📝 Awesome Cognis — curated list of the Cognis Neural Suite + upstream OSS
+     🏷  ai, automation, awesome, awesome-list, cognis-digital, cognis-neural-suite, mcp, open-source, security, self-hosted
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 cognis-digital/phishforge
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/cognis-digital/phishforge
+     📝 Open-source phishing simulation — campaigns, templates, training
+     🏷  automation, blue-team, cli, cognis-digital, cognis-neural-suite, detection, dfir, mcp-server, phishforge, python, self-hosted, siem, soc
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 cognis-digital/honeytrace
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/cognis-digital/honeytrace
+     📝 Active-decoy network lure system — SSH, RDP, SMB, web honeypots
+     🏷  automation, blue-team, cli, cognis-digital, cognis-neural-suite, detection, dfir, honeytrace, mcp-server, python, self-hosted, siem, soc
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 cognis-digital/edrgap
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/cognis-digital/edrgap
+     📝 EDR coverage & bypass detector — reconciles MDM + EDR + AD inventories
+     🏷  automation, blue-team, cli, cognis-digital, cognis-neural-suite, detection, dfir, edrgap, mcp-server, python, self-hosted, siem, soc
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 cognis-digital/canarynet
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/cognis-digital/canarynet
+     📝 Self-hosted canary token network — AWS keys, DNS, docs, web URLs
+     🏷  automation, blue-team, canarynet, cli, cognis-digital, cognis-neural-suite, detection, dfir, mcp-server, python, self-hosted, siem, soc
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 universidata/edreform
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/universidata/edreform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 Olayinka-Oyetade/LSASS_CredentialDumping_MicrosoftDefenderEndpointSIEM
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/Olayinka-Oyetade/LSASS_CredentialDumping_MicrosoftDefenderEndpointSIEM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 kvpdhammika/aegis-sentinel-installer
+     ⭐ 0  🗣 JavaScript  📅 2026-06-08
+     🔗 https://github.com/kvpdhammika/aegis-sentinel-installer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 parkhandle/edrbnz
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/parkhandle/edrbnz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 kvpdhammika/VirsuGardand-EDR
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/kvpdhammika/VirsuGardand-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_35
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_35
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 hypplifewa/edrflz
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/hypplifewa/edrflz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 notifychim/edrcnh
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/notifychim/edrcnh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 r0hit13/Multimodal-Emotion-Recognition-System
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/r0hit13/Multimodal-Emotion-Recognition-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 SuperGokou/robotaxi-teleop-v2x
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/SuperGokou/robotaxi-teleop-v2x
+     📝 Robotaxi operations, teleoperation & V2X
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 SuperGokou/avp-parking
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/SuperGokou/avp-parking
+     📝 Automated Valet Parking (AVP)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 SuperGokou/noa-pilot
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/SuperGokou/noa-pilot
+     📝 Highway & urban NOA navigate-on-autopilot
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 SuperGokou/motion-planning-control
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/SuperGokou/motion-planning-control
+     📝 Motion planning & by-wire vehicle control
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 dleeceffp/openimpactcascade
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/dleeceffp/openimpactcascade
+     📝 Evidence-informed cyber risk quantification using FAIR methodology. Delivered vi…
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 lucassoaresol/edren
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/lucassoaresol/edren
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 thuanbg111/edrisa-jallow-foundation-inc-2185
+     ⭐ 0  🗣 HTML  📅 2026-06-08
+     🔗 https://github.com/thuanbg111/edrisa-jallow-foundation-inc-2185
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 achnouri/Shellcode-EDR-Evasion-Loader
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/achnouri/Shellcode-EDR-Evasion-Loader
+     📝 shellcode loader with XOR encryption and EDR evasion techniques. for security re…
+     🏷  edr-evasion, shellcode-loader, windows-security
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 Enigma-Watch/Pwndora-for-business
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/Enigma-Watch/Pwndora-for-business
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-08 11:00:00 UTC] [NEW]   🆕 📦 xinyuemoli/duilib_tools
+     ⭐ 0  🗣 C++  📅 2026-06-08
+     🔗 https://github.com/xinyuemoli/duilib_tools
+     📝 DuiLib auxiliary tools including control finder and hook DLL for UI automation
+     🏷  —
+[2026-06-08 11:00:00 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-08 11:00:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-08 11:00:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-08 11:00:02 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-08 11:00:02 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-08 11:00:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-08 11:00:02 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (5gg)
+[2026-06-08 11:00:02 UTC] [INFO] ============================================================
+[2026-06-08 11:00:02 UTC] [INFO] Completato — 36 nuovi, 2 aggiornati, 0 errori
+[2026-06-08 11:00:02 UTC] [INFO] ============================================================
