@@ -14373,3 +14373,181 @@
 [2026-06-09 09:49:22 UTC] [INFO] ============================================================
 [2026-06-09 09:49:22 UTC] [INFO] Completato — 17 nuovi, 4 aggiornati, 0 errori
 [2026-06-09 09:49:22 UTC] [INFO] ============================================================
+[2026-06-09 14:55:23 UTC] [INFO] ============================================================
+[2026-06-09 14:55:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-09 14:55:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-09 14:55:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-09 14:55:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-09 14:55:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-09 14:55:23 UTC] [INFO] ============================================================
+[2026-06-09 14:55:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-09 14:55:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-09 14:55:25 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 14:55:25 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-09 14:55:25 UTC] [NEW]   🆕 📦 matanpvpz-oss/byovdsn1per
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/matanpvpz-oss/byovdsn1per
+     📝 IDA Headless driver enum
+     🏷  —
+[2026-06-09 14:55:25 UTC] [NEW]   🆕 📦 damar2107/Hypervisor-Launcher
+     ⭐ 0  🗣 C++  📅 2026-06-09
+     🔗 https://github.com/damar2107/Hypervisor-Launcher
+     📝 Windows C++ application that loads kernel level hypervisor drivers (bypassing Dr…
+     🏷  —
+[2026-06-09 14:55:25 UTC] [NEW]   🆕 📦 tz8899/awesome-game-security-cn
+     ⭐ 1  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/tz8899/awesome-game-security-cn
+     📝 Game Security Resources
+     🏷  —
+[2026-06-09 14:55:25 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-09 14:55:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-09 14:55:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-09 14:55:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 ImageAxolotlTrim/bumblebee-tool
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/ImageAxolotlTrim/bumblebee-tool
+     📝 Read-only developer endpoint scanner for on-disk package, extension, and develop…
+     🏷  golang, package-inventory, supply-chain-security
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 EterNullSec/MandegarX
+     ⭐ 1  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/EterNullSec/MandegarX
+     📝 Active Directory Persistence Toolkit — 10 persistence techniques for red team en…
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 Adimchukwunobi/zx-breach
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/Adimchukwunobi/zx-breach
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 vihini-perera/vihini-perera
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/vihini-perera/vihini-perera
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 wendelltwumasi/defense-in-depth-ransomware-mitre-attack-anaylsis
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/wendelltwumasi/defense-in-depth-ransomware-mitre-attack-anaylsis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 pavankumarh14/AutonomousCollectiveCyber-Defense
+     ⭐ 0  🗣 TypeScript  📅 2026-06-09
+     🔗 https://github.com/pavankumarh14/AutonomousCollectiveCyber-Defense
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 itx-sherazi/managed-service-providers
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/itx-sherazi/managed-service-providers
+     📝 The ultimate MSP directory & guide. Find 100,000+ verified Managed Service Provi…
+     🏷  cybersecurity, it-services, it-support, managed-it-services, managed-service-providers, msp, msp-directory, mssp
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 gitpetyr/LiLoader
+     ⭐ 0  🗣 Rust  📅 2026-06-09
+     🔗 https://github.com/gitpetyr/LiLoader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 GoblinFan/Goblin-AV-scanner
+     ⭐ 0  🗣 Rust  📅 2026-06-09
+     🔗 https://github.com/GoblinFan/Goblin-AV-scanner
+     📝 Windows PE scanner — static + runtime malware analysis in Rust
+     🏷  analysis, antivirus, edr, edr-testing, malware-analysis, malware-detection, rust, static-scan, virus, windows-security, yara-rules
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 damar2107/Hypervisor-Launcher
+     ⭐ 0  🗣 C++  📅 2026-06-09
+     🔗 https://github.com/damar2107/Hypervisor-Launcher
+     📝 Windows C++ application that loads kernel level hypervisor drivers (bypassing Dr…
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 kartiksilodiya-edroyt/edroyt-main
+     ⭐ 0  🗣 TypeScript  📅 2026-06-09
+     🔗 https://github.com/kartiksilodiya-edroyt/edroyt-main
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 Mosec2525/learn-soc-with-me-lab-08-ftp-executable-transfer
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/Mosec2525/learn-soc-with-me-lab-08-ftp-executable-transfer
+     📝 Learn SOC With Me Lab 08: Splunk FTP executable transfer investigation with Zeek…
+     🏷  blue-team, cybersecurity, ftp, incident-response, mitre-attack, security-lab, siem, soc, splunk, zeek
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 icedracon/chainedr-public
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/icedracon/chainedr-public
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 am7111788-ctrl/edrak-erp
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/am7111788-ctrl/edrak-erp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 yzhou30-ux/lab4.5
+     ⭐ 0  🗣 C  📅 2026-06-09
+     🔗 https://github.com/yzhou30-ux/lab4.5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 tz8899/awesome-game-security-cn
+     ⭐ 1  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/tz8899/awesome-game-security-cn
+     📝 Game Security Resources
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 fasih-moin/fasih-moin
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/fasih-moin/fasih-moin
+     📝 CS Student @ ITU Lahore
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 Cyberking99/forecast
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/Cyberking99/forecast
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 stacraft452/cfg-callback-audit
+     ⭐ 0  🗣 C++  📅 2026-06-09
+     🔗 https://github.com/stacraft452/cfg-callback-audit
+     📝 A research of CFG-Bypass
+     🏷  —
+[2026-06-09 14:55:29 UTC] [NEW]   🆕 📦 liorshalev01/secure-endpoint
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/liorshalev01/secure-endpoint
+     📝 The Secure Endpoint System
+     🏷  —
+[2026-06-09 14:55:29 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-09 14:55:29 UTC] [UPD]   📢 📦 ennduka86-spec/-Cybersecurity-Portfolio
+     ⭐ 1  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/ennduka86-spec/-Cybersecurity-Portfolio
+     📝 Cybersecurity portfolio showcasing SOC automation, threat detection playbooks, c…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-09 14:55:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-09 14:55:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-09 14:55:31 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 14:55:31 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-06-09 14:55:31 UTC] [NEW]   🆕 📦 AntonioGr7/vomero_sandbox
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/AntonioGr7/vomero_sandbox
+     📝 Run untrusted code in hardened, isolated Kubernetes sandboxes — a warm pool of l…
+     🏷  —
+[2026-06-09 14:55:31 UTC] [NEW]   🆕 📦 Sakku4590/jarvis
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/Sakku4590/jarvis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 14:55:31 UTC] [NEW]   🆕 📦 tz8899/awesome-game-security-cn
+     ⭐ 1  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/tz8899/awesome-game-security-cn
+     📝 Game Security Resources
+     🏷  —
+[2026-06-09 14:55:31 UTC] [NEW]   🆕 📦 greevils-ai/tee-image-attestation
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/greevils-ai/tee-image-attestation
+     📝 Proof of Concept for AI agent TEE workflow
+     🏷  —
+[2026-06-09 14:55:31 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-09 14:55:31 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (6gg)
+[2026-06-09 14:55:31 UTC] [UPD]   📢 📦 StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     ⭐ 25  🗣 C  📅 2026-06-08
+     🔗 https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     📝 A PS5 payload to allow other controllers to work via the front USB port
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-09 14:55:31 UTC] [INFO] ============================================================
+[2026-06-09 14:55:31 UTC] [INFO] Completato — 27 nuovi, 3 aggiornati, 0 errori
+[2026-06-09 14:55:31 UTC] [INFO] ============================================================
