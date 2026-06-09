@@ -14551,3 +14551,258 @@
 [2026-06-09 14:55:31 UTC] [INFO] ============================================================
 [2026-06-09 14:55:31 UTC] [INFO] Completato — 27 nuovi, 3 aggiornati, 0 errori
 [2026-06-09 14:55:31 UTC] [INFO] ============================================================
+[2026-06-09 20:08:44 UTC] [INFO] ============================================================
+[2026-06-09 20:08:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-09 20:08:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-09 20:08:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-09 20:08:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-09 20:08:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-09 20:08:44 UTC] [INFO] ============================================================
+[2026-06-09 20:08:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-09 20:08:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-09 20:08:46 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 20:08:46 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-09 20:08:46 UTC] [NEW]   🆕 📦 ledgerbtc/ashy1337-drivermapper
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/ledgerbtc/ashy1337-drivermapper
+     📝 undetected driver mapper 
+     🏷  —
+[2026-06-09 20:08:46 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-09 20:08:46 UTC] [UPD]   📢 📦 matanpvpz-oss/byovdsn1per
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/matanpvpz-oss/byovdsn1per
+     📝 IDA Headless driver enum
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-09 20:08:46 UTC] [UPD]   📢 📦 damar2107/Hypervisor-Launcher
+     ⭐ 0  🗣 C++  📅 2026-06-09
+     🔗 https://github.com/damar2107/Hypervisor-Launcher
+     📝 Windows C++ application that loads kernel level hypervisor drivers (bypassing Dr…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-09 20:08:46 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-09 20:08:46 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-09 20:08:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 35 NUOVI repository:
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 khaledmedz/Defender-XDR-Hunting-NorthKorean-Threat-Actors
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/khaledmedz/Defender-XDR-Hunting-NorthKorean-Threat-Actors
+     📝 Uncovering North Korean Threat Actors with Microsoft Defender XDR  Full-scale in…
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 DociJ4pe/edr3eo
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/DociJ4pe/edr3eo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-school
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/riceisnice589-debug/Edris-school
+     📝 made by edris rashidi Tranby skole
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 Galactic717/NEXUS-G4
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/Galactic717/NEXUS-G4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 shawnowiro/Tulip-monitoring-system
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/shawnowiro/Tulip-monitoring-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 enak223/agentic-ai-for-security
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/enak223/agentic-ai-for-security
+     📝 AI-powered SOC automation lab — Wazuh SIEM, n8n AI Agent, Claude API, and full a…
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 JCourtemanche/gravityzone-mock
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/JCourtemanche/gravityzone-mock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 0xLostByte/LostByte_EDR
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/0xLostByte/LostByte_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-math
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/riceisnice589-debug/Edris-math
+     📝 edris rashidi Tranby skole
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 alvinewamalwa/soc-analyst-learning-letsdefend
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/alvinewamalwa/soc-analyst-learning-letsdefend
+     📝 Hands-on SOC analyst labs using LetsDefend: SIEM, EDR, log analysis, and threat …
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-school-games
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/riceisnice589-debug/Edris-school-games
+     📝 Made by edris rashidi Tranby skole
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 nicole-njeri/flora-farms-deliverable-1
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/nicole-njeri/flora-farms-deliverable-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 Sid294/Guardio
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/Sid294/Guardio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-lager-spill
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/riceisnice589-debug/Edris-lager-spill
+     📝 made by edris rashidi Tranby skole
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-spiller
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/riceisnice589-debug/Edris-spiller
+     📝 made by edris rashidi Tranby skole
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 hujerat1991/Edrak-Trading-Bot
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/hujerat1991/Edrak-Trading-Bot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-games
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/riceisnice589-debug/Edris-games
+     📝 dette er laget av edris rashidi fra Tranby skole
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 TabbedScamper/GTAV-CLAUDE-MCP
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/TabbedScamper/GTAV-CLAUDE-MCP
+     📝 A mcp connection for claude to help debug, build, and manipulate the game in rea…
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 0x0Stealth/NtDll_Unhooking
+     ⭐ 0  🗣 C  📅 2026-06-09
+     🔗 https://github.com/0x0Stealth/NtDll_Unhooking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-Arcade-
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/riceisnice589-debug/Edris-Arcade-
+     📝 Dette er laget av edris rashidi fra Tranby skole
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 HaaziqKazi/risk-assistant
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/HaaziqKazi/risk-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-Rashidi-Cloud
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/riceisnice589-debug/Edris-Rashidi-Cloud
+     📝 this game is made by Edris Rashidi Tranby skole
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 ennduka86-spec/Threat-Hunting-Toolkit-
+     ⭐ 1  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/ennduka86-spec/Threat-Hunting-Toolkit-
+     📝 Scripts, queries, and playbooks for MITRE ATT&CK‑aligned threat hunting across S…
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 Anusha-3113/Intelligent-SOC-Automation-Threat-Hunting-Platform
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/Anusha-3113/Intelligent-SOC-Automation-Threat-Hunting-Platform
+     📝 Built an Intelligent SOC Automation & Threat Hunting Platform integrating Splunk…
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 thomasgiaquinto-TR/seacms
+     ⭐ 0  🗣 TypeScript  📅 2026-06-09
+     🔗 https://github.com/thomasgiaquinto-TR/seacms
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 ranjithvettayan/method-red
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/ranjithvettayan/method-red
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 Condor2026/analisis-ip-china-219.129.96.2.md
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/Condor2026/analisis-ip-china-219.129.96.2.md
+     📝 Multi-Malware Campaign - China IP + CardSpy + GandCrab
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 Rahimjonholiqov/Diplom
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/Rahimjonholiqov/Diplom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 jkienen/Crowdstrike-Wazuh-Integration
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/jkienen/Crowdstrike-Wazuh-Integration
+     📝 Ingest CrowdStrike Falcon alerts into Wazuh every 5 minutes. IDP, EDR, and XDR d…
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 sym33/scopus
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/sym33/scopus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 shell-3/APT28-BlueDelta-DFIR-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/shell-3/APT28-BlueDelta-DFIR-Investigation
+     📝 APT28 (BlueDelta) DFIR & Purple Team Investigation using Sysmon, Wireshark, Vola…
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 ManojMandal01/cybersentinel-siem-extension
+     ⭐ 0  🗣 JavaScript  📅 2026-06-09
+     🔗 https://github.com/ManojMandal01/cybersentinel-siem-extension
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 Tommy1070/Cybersecurity-Fundamentals-RAG
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/Tommy1070/Cybersecurity-Fundamentals-RAG
+     📝 AI-powered cybersecurity knowledge assistant built with Python, ChromaDB, Groq, …
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 Rehan919/Automated-SOC
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/Rehan919/Automated-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:49 UTC] [NEW]   🆕 📦 Dalilatu/Enpoint-Detection-Response-EDR-lab-project
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/Dalilatu/Enpoint-Detection-Response-EDR-lab-project
+     📝 This lab aims to describe how the EDR lab was created and how to use it.
+     🏷  —
+[2026-06-09 20:08:49 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-09 20:08:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-09 20:08:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-09 20:08:51 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 20:08:51 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-06-09 20:08:51 UTC] [NEW]   🆕 📦 S3smoi/UMTX2
+     ⭐ 0  🗣 JavaScript  📅 2026-06-09
+     🔗 https://github.com/S3smoi/UMTX2
+     📝 PS5 Jailbreak 
+     🏷  —
+[2026-06-09 20:08:51 UTC] [NEW]   🆕 📦 trustironwalls/trustironwalls
+     ⭐ 0  🗣 JavaScript  📅 2026-06-09
+     🔗 https://github.com/trustironwalls/trustironwalls
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:51 UTC] [NEW]   🆕 📦 ranjithvettayan/method-red
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/ranjithvettayan/method-red
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 20:08:51 UTC] [NEW]   🆕 📦 ledgerbtc/ashy1337-drivermapper
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/ledgerbtc/ashy1337-drivermapper
+     📝 undetected driver mapper 
+     🏷  —
+[2026-06-09 20:08:51 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-09 20:08:51 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (7gg)
+[2026-06-09 20:08:51 UTC] [UPD]   📢 📦 Sakku4590/jarvis
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/Sakku4590/jarvis
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-09 20:08:51 UTC] [UPD]   📢 📦 AntonioGr7/vomero_sandbox
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/AntonioGr7/vomero_sandbox
+     📝 Run untrusted code in hardened, isolated Kubernetes sandboxes — a warm pool of l…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-09 20:08:51 UTC] [INFO] ============================================================
+[2026-06-09 20:08:51 UTC] [INFO] Completato — 40 nuovi, 5 aggiornati, 0 errori
+[2026-06-09 20:08:51 UTC] [INFO] ============================================================
