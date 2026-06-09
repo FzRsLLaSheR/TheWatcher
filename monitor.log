@@ -14239,3 +14239,137 @@
 [2026-06-09 03:41:02 UTC] [INFO] ============================================================
 [2026-06-09 03:41:02 UTC] [INFO] Completato — 17 nuovi, 4 aggiornati, 0 errori
 [2026-06-09 03:41:02 UTC] [INFO] ============================================================
+[2026-06-09 09:49:13 UTC] [INFO] ============================================================
+[2026-06-09 09:49:13 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-09 09:49:13 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-09 09:49:13 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-09 09:49:13 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-09 09:49:13 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-09 09:49:13 UTC] [INFO] ============================================================
+[2026-06-09 09:49:13 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-09 09:49:13 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-09 09:49:15 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 09:49:15 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-09 09:49:15 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-09 09:49:15 UTC] [UPD]   📢 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-09 09:49:15 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-09 09:49:15 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-09 09:49:19 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 chirag99969/chirag99969
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/chirag99969/chirag99969
+     📝 PROFILE
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 webshubham51/soc-free-labs-tryhackme
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/webshubham51/soc-free-labs-tryhackme
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-ENTERPRISE-SELLING-PLATFORM
+     ⭐ 0  🗣 Java  📅 2026-06-09
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-ENTERPRISE-SELLING-PLATFORM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 zw457959279/eDriveAuto
+     ⭐ 0  🗣 Objective-C  📅 2026-06-09
+     🔗 https://github.com/zw457959279/eDriveAuto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 RaonL/report
+     ⭐ 0  🗣 JavaScript  📅 2026-06-09
+     🔗 https://github.com/RaonL/report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 awes0m/seclog_explorer
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/awes0m/seclog_explorer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 zw457959279/eDriveConnect
+     ⭐ 0  🗣 Objective-C  📅 2026-06-09
+     🔗 https://github.com/zw457959279/eDriveConnect
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 Suriya52/soc-l1-journey
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/Suriya52/soc-l1-journey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 Rithvik1124/EDRLite-LinuxTelemetryAgent
+     ⭐ 0  🗣 C  📅 2026-06-09
+     🔗 https://github.com/Rithvik1124/EDRLite-LinuxTelemetryAgent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 ch0wzh3ng/gadgets_syscall
+     ⭐ 1  🗣 C  📅 2026-06-09
+     🔗 https://github.com/ch0wzh3ng/gadgets_syscall
+     📝 地狱之门的变种所谓的间接调用syscall (Indirect Syscalls)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 donnachaforde/talks-public
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/donnachaforde/talks-public
+     📝 Talks and lectures I've delivered.
+     🏷  ai, ai-native, cybersecurity, edr, endpoint-detection-response, endpoint-engineering, endpoint-protection, endpoint-security, epp, ransomware, ransomware-dectection
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 christian-anderson-socanalyst/home-lab-soc-build
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/christian-anderson-socanalyst/home-lab-soc-build
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 PrachiMishra7/ThreatWeave
+     ⭐ 0  🗣 TypeScript  📅 2026-06-08
+     🔗 https://github.com/PrachiMishra7/ThreatWeave
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 shamiaalamshova-1519/SOC-Automation-Wazuh-Snort
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/shamiaalamshova-1519/SOC-Automation-Wazuh-Snort
+     📝 Deploying an EDR and IDS to detect simulated Red Team attacks
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 Tamerktb/Tamerktb
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/Tamerktb/Tamerktb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [NEW]   🆕 📦 nam091/Security-Onion-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/nam091/Security-Onion-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:19 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-09 09:49:19 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-09 09:49:19 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-09 09:49:22 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 09:49:22 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-09 09:49:22 UTC] [NEW]   🆕 📦 BloodRedTape/HappyDocker
+     ⭐ 0  🗣 Shell  📅 2026-06-09
+     🔗 https://github.com/BloodRedTape/HappyDocker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 09:49:22 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-09 09:49:22 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (6gg)
+[2026-06-09 09:49:22 UTC] [UPD]   📢 📦 huangd1999/SandboxFusion-PerfCount
+     ⭐ 0  🗣 MDX  📅 2026-06-08
+     🔗 https://github.com/huangd1999/SandboxFusion-PerfCount
+     📝 SandboxFusion fork with bwrap isolation + 8 GB ulimit cap + perf_event_open hard…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-09 09:49:22 UTC] [UPD]   📢 📦 S3smoi/PS5-UMTX2
+     ⭐ 0  🗣 JavaScript  📅 2026-06-09
+     🔗 https://github.com/S3smoi/PS5-UMTX2
+     📝 Personal website for PS5 jailbreak
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-09 09:49:22 UTC] [INFO] ============================================================
+[2026-06-09 09:49:22 UTC] [INFO] Completato — 17 nuovi, 4 aggiornati, 0 errori
+[2026-06-09 09:49:22 UTC] [INFO] ============================================================
