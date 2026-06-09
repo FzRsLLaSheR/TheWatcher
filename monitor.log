@@ -14105,3 +14105,137 @@
 [2026-06-08 20:21:05 UTC] [INFO] ============================================================
 [2026-06-08 20:21:05 UTC] [INFO] Completato — 16 nuovi, 4 aggiornati, 0 errori
 [2026-06-08 20:21:05 UTC] [INFO] ============================================================
+[2026-06-09 03:40:57 UTC] [INFO] ============================================================
+[2026-06-09 03:40:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-09 03:40:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-09 03:40:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-09 03:40:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-09 03:40:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-09 03:40:57 UTC] [INFO] ============================================================
+[2026-06-09 03:40:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-09 03:40:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-09 03:40:58 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 03:40:58 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-09 03:40:58 UTC] [NEW]   🆕 📦 Farzaw/---Python-
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/Farzaw/---Python-
+     📝 Проект посвященный разработке веб-приложения для демонстрации базы данных проана…
+     🏷  —
+[2026-06-09 03:40:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-09 03:40:58 UTC] [UPD]   📢 📦 pkeyorg/nekoRTI
+     ⭐ 0  🗣 Rust  📅 2026-06-06
+     🔗 https://github.com/pkeyorg/nekoRTI
+     📝 nekoRTI — Zero-Trust Micro-Agent C2 platform
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-09 03:40:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-09 03:40:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-09 03:41:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 NeevNaav/.github
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/NeevNaav/.github
+     📝 Company Profile
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 ruiwenya/WinTraceLens-Legacy
+     ⭐ 0  🗣 Go  📅 2026-06-09
+     🔗 https://github.com/ruiwenya/WinTraceLens-Legacy
+     📝 WinTraceLens for win7
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 AlexielArdilla/Anatomia-del-pirata-informatico
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/AlexielArdilla/Anatomia-del-pirata-informatico
+     📝 Versión en MD del Libro que se estrena en Amazon.com el 9/6/26
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 kanlin-csu/H2C_PcSecCheck_client
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/kanlin-csu/H2C_PcSecCheck_client
+     📝 PC 資安健診工具。在受測電腦執行後，自動收集系統資訊並產生標準化報告包
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 ericaghdz/threat-hunting-scenario-pwncrypt-ransomware
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/ericaghdz/threat-hunting-scenario-pwncrypt-ransomware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 sanchezbelitocalet-ctrl/Tarea-10-Edriam-Sanchez
+     ⭐ 0  🗣 CSS  📅 2026-06-09
+     🔗 https://github.com/sanchezbelitocalet-ctrl/Tarea-10-Edriam-Sanchez
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 nelccfr3aj13/edrasg
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/nelccfr3aj13/edrasg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 dann815/terraform-aws-hc-base-ami
+     ⭐ 0  🗣 HCL  📅 2026-06-09
+     🔗 https://github.com/dann815/terraform-aws-hc-base-ami
+     📝 HC-approved base AMI module for AWS
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 eason07-7/trust-attack-surface
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/eason07-7/trust-attack-surface
+     📝 Software supply chain attacks don't break your crypto — they break your trust. F…
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 huzorobi/HuzoHunter-AI
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/huzorobi/HuzoHunter-AI
+     📝 Local AI-powered threat hunting and security automation platform.
+     🏷  ai-security, cybersecurity, detection-engineering, ethical-hacking, grafana, llm, local-ai, opensearch, security-automation, siem, soc, threat-hunting, threat-intelligence, wazuh
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 Farzaw/---Python-
+     ⭐ 0  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/Farzaw/---Python-
+     📝 Проект посвященный разработке веб-приложения для демонстрации базы данных проана…
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 6x09/0x42-rootkit
+     ⭐ 0  🗣 C  📅 2026-06-08
+     🔗 https://github.com/6x09/0x42-rootkit
+     📝 A Windows 11 x64 kernel-mode process hiding driver using DKOM + NtQuerySystemInf…
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 JdExploit/Ghostpass
+     ⭐ 0  🗣 C  📅 2026-06-08
+     🔗 https://github.com/JdExploit/Ghostpass
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 mlr16-dev/Automated_Threat_Response_Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/mlr16-dev/Automated_Threat_Response_Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-09 03:41:01 UTC] [NEW]   🆕 📦 Proaxiom-Cyber/entraid-discovery-app-registration
+     ⭐ 0  🗣 PowerShell  📅 2026-06-08
+     🔗 https://github.com/Proaxiom-Cyber/entraid-discovery-app-registration
+     📝 Least-privilege, TPM-bound certificate + Entra ID app-registration provisioner f…
+     🏷  —
+[2026-06-09 03:41:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-09 03:41:01 UTC] [UPD]   📢 📦 cchokaaa/shellcode-executor
+     ⭐ 1  🗣 C  📅 2026-06-07
+     🔗 https://github.com/cchokaaa/shellcode-executor
+     📝 Cross-platform shellcode loader & exploit demo framework in C. Supports Win/Linu…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-09 03:41:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-09 03:41:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-09 03:41:02 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-09 03:41:02 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-09 03:41:02 UTC] [NEW]   🆕 📦 S3smoi/PS5-UMTX2
+     ⭐ 0  🗣 JavaScript  📅 2026-06-09
+     🔗 https://github.com/S3smoi/PS5-UMTX2
+     📝 Personal website for PS5 jailbreak
+     🏷  —
+[2026-06-09 03:41:02 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-09 03:41:02 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (6gg)
+[2026-06-09 03:41:02 UTC] [UPD]   📢 📦 StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     ⭐ 15  🗣 C  📅 2026-06-08
+     🔗 https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     📝 A PS5 payload to allow other controllers to work via the front USB port
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-09 03:41:02 UTC] [INFO] ============================================================
+[2026-06-09 03:41:02 UTC] [INFO] Completato — 17 nuovi, 4 aggiornati, 0 errori
+[2026-06-09 03:41:02 UTC] [INFO] ============================================================
