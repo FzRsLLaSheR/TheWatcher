@@ -14806,3 +14806,182 @@
 [2026-06-09 20:08:51 UTC] [INFO] ============================================================
 [2026-06-09 20:08:51 UTC] [INFO] Completato — 40 nuovi, 5 aggiornati, 0 errori
 [2026-06-09 20:08:51 UTC] [INFO] ============================================================
+[2026-06-10 03:55:07 UTC] [INFO] ============================================================
+[2026-06-10 03:55:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-10 03:55:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-10 03:55:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-10 03:55:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-10 03:55:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-10 03:55:07 UTC] [INFO] ============================================================
+[2026-06-10 03:55:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-10 03:55:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-10 03:55:09 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 03:55:09 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-10 03:55:09 UTC] [NEW]   🆕 📦 TekzinDev/ryzenclube-drv
+     ⭐ 0  🗣 C  📅 2026-06-09
+     🔗 https://github.com/TekzinDev/ryzenclube-drv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:09 UTC] [NEW]   🆕 📦 Sutaigne/crossover
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/Sutaigne/crossover
+     📝 Python parity port of the alibi PowerShell forensic detection engine. Upstream s…
+     🏷  —
+[2026-06-10 03:55:09 UTC] [NEW]   🆕 📦 pjcampbe11/SentinelOne---Detection-Evasion-Strategies
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/pjcampbe11/SentinelOne---Detection-Evasion-Strategies
+     📝 Detection & Evasion Strategies
+     🏷  —
+[2026-06-10 03:55:09 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-10 03:55:09 UTC] [UPD]   📢 📦 ledgerbtc/ashy1337-drivermapper
+     ⭐ 0  🗣 N/A  📅 2026-06-08
+     🔗 https://github.com/ledgerbtc/ashy1337-drivermapper
+     📝 undetected driver mapper 
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-10 03:55:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-10 03:55:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-10 03:55:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 norwytch/weeping-angel
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/norwytch/weeping-angel
+     📝 Timestomping malware detection framework based on Dr Who.
+     🏷  detection-engineering, dfir, dr-who, mitre-attack, timestomping
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 B4RT0Z1/wifi-auditor
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/B4RT0Z1/wifi-auditor
+     📝 Herramienta académica de auditoría WiFi + Bluetooth para Kali ARM / Raspberry Pi…
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 forensicdave/thehive-cli
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/forensicdave/thehive-cli
+     📝 Useful command line interface to theHive - Drive the Hive from the CLI!
+     🏷  blueteam, dfir, incident-response, python, thehive, threat-intelligence
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 Mvrcoz/Metasploit-RAT-IR
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/Mvrcoz/Metasploit-RAT-IR
+     📝 Deployed a Metasploit RAT via MSFVenom and FTP, established Meterpreter C2 sessi…
+     🏷  cybersecurity, ethical-hacking, incident-response, kali-linux, metasploit, meterpreter, msfvenom, powershell
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 Cyber-AY/threat-hunting-scenario-tor-
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/Cyber-AY/threat-hunting-scenario-tor-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 fractastical/connectome_harmonics
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/fractastical/connectome_harmonics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 Mauro-coder555/it-evidence-collector
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/Mauro-coder555/it-evidence-collector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 TimileyinAlabi/TimileyinAlabi
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/TimileyinAlabi/TimileyinAlabi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 ragefrein/pixelpal
+     ⭐ 0  🗣 Dart  📅 2026-06-09
+     🔗 https://github.com/ragefrein/pixelpal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 pjcampbe11/SentinelOne---Detection-Evasion-Strategies
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/pjcampbe11/SentinelOne---Detection-Evasion-Strategies
+     📝 Detection & Evasion Strategies
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 Tanay777G/Tanay777G
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/Tanay777G/Tanay777G
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 minimob1337/syscall-lib
+     ⭐ 5  🗣 C++  📅 2026-06-09
+     🔗 https://github.com/minimob1337/syscall-lib
+     📝 A lightweight, CRT-free Windows x64 syscall & dynamic import library
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 ricardogomes1/SHIELD-OVERLORD
+     ⭐ 0  🗣 PowerShell  📅 2026-06-09
+     🔗 https://github.com/ricardogomes1/SHIELD-OVERLORD
+     📝 Desenvolvido para Infraestrutura de SOC Avançada. Todos os privilégios de Kernel…
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 nikola1893/edra-studios
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/nikola1893/edra-studios
+     📝 Official website of Studios EDRA — family-run holiday studios in Vourvourou, Sit…
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 AmyMugeni/Motion_Masters
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/AmyMugeni/Motion_Masters
+     📝 IOT based system to maintain greenhouses
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 fredfigueira/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/fredfigueira/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 92usman/edr-game
+     ⭐ 0  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/92usman/edr-game
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 eugene77cork/QW33-watch-RE
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/eugene77cork/QW33-watch-RE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 tylercodes88/cerebro
+     ⭐ 0  🗣 Go  📅 2026-06-09
+     🔗 https://github.com/tylercodes88/cerebro
+     📝 Auto-created repo for cerebro
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 guiiparaiso/Habilidades-em-ciberseguran-a-antropicas
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/guiiparaiso/Habilidades-em-ciberseguran-a-antropicas
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 03:55:11 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-gym
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/riceisnice589-debug/Edris-gym
+     📝 made by edris rashidi Tranby school
+     🏷  —
+[2026-06-10 03:55:11 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-10 03:55:11 UTC] [UPD]   📢 📦 Yashwanth24052005/soar-incident-containment-engine
+     ⭐ 1  🗣 Python  📅 2026-06-08
+     🔗 https://github.com/Yashwanth24052005/soar-incident-containment-engine
+     📝 SentinelX SOAR: Automated Threat Intelligence and Incident Response Platform
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-10 03:55:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-10 03:55:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-10 03:55:13 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 03:55:13 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-10 03:55:13 UTC] [NEW]   🆕 📦 PsySecGroup/npm-bunker
+     ⭐ 0  🗣 Shell  📅 2026-06-09
+     🔗 https://github.com/PsySecGroup/npm-bunker
+     📝 NPM is a legal malware delivery network. I should have slapped Isaac when I had …
+     🏷  —
+[2026-06-10 03:55:13 UTC] [NEW]   🆕 📦 aadieng100/devsecops-portfolio
+     ⭐ 0  🗣 HCL  📅 2026-06-09
+     🔗 https://github.com/aadieng100/devsecops-portfolio
+     📝 MY FIRST DEVSECOPS PROJECT
+     🏷  —
+[2026-06-10 03:55:13 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-10 03:55:13 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (7gg)
+[2026-06-10 03:55:13 UTC] [UPD]   📢 📦 S3smoi/UMTX2
+     ⭐ 0  🗣 JavaScript  📅 2026-06-09
+     🔗 https://github.com/S3smoi/UMTX2
+     📝 PS5 Jailbreak 
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-10 03:55:13 UTC] [INFO] ============================================================
+[2026-06-10 03:55:13 UTC] [INFO] Completato — 26 nuovi, 4 aggiornati, 0 errori
+[2026-06-10 03:55:13 UTC] [INFO] ============================================================
