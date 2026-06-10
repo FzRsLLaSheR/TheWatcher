@@ -15380,3 +15380,177 @@
 [2026-06-10 15:38:50 UTC] [INFO] ============================================================
 [2026-06-10 15:38:50 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
 [2026-06-10 15:38:50 UTC] [INFO] ============================================================
+[2026-06-10 20:32:45 UTC] [INFO] ============================================================
+[2026-06-10 20:32:45 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-10 20:32:45 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-10 20:32:45 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-10 20:32:45 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-10 20:32:45 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-10 20:32:45 UTC] [INFO] ============================================================
+[2026-06-10 20:32:45 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-10 20:32:45 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-10 20:32:47 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 20:32:47 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-10 20:32:47 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-10 20:32:47 UTC] [UPD]   📢 📦 matanpvpz-oss/byovdsn1per
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/matanpvpz-oss/byovdsn1per
+     📝 IDA Headless driver enum
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-10 20:32:47 UTC] [UPD]   📢 📦 Ruby570bocadito/X404X
+     ⭐ 0  🗣 Go  📅 2026-06-06
+     🔗 https://github.com/Ruby570bocadito/X404X
+     📝 X404X — Autonomous Red Team Platform. Semi-autonomous offensive framework coveri…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-10 20:32:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-10 20:32:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-10 20:32:51 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 gregmamoyac/Gregrep-Overlord-App
+     ⭐ 0  🗣 PowerShell  📅 2026-06-10
+     🔗 https://github.com/gregmamoyac/Gregrep-Overlord-App
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 flaxyaw/CubaWare
+     ⭐ 0  🗣 C++  📅 2026-06-10
+     🔗 https://github.com/flaxyaw/CubaWare
+     📝 C++ stealer, TypeScript panel
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 EnzoBarcelos/-claude-usebar-cruzeiro
+     ⭐ 0  🗣 PowerShell  📅 2026-06-10
+     🔗 https://github.com/EnzoBarcelos/-claude-usebar-cruzeiro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 Ardwig1/panic-scan-open
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/Ardwig1/panic-scan-open
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 mstits/Quake-Rust-Metal
+     ⭐ 0  🗣 Rust  📅 2026-06-10
+     🔗 https://github.com/mstits/Quake-Rust-Metal
+     📝 Continuing working on Metal Quake with a Rust migration as a learning exercise. 
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 MBaranekTech/macos-intune-ade
+     ⭐ 0  🗣 Shell  📅 2026-06-10
+     🔗 https://github.com/MBaranekTech/macos-intune-ade
+     📝 Zero-touch macOS deployment at scale with Microsoft Intune, Apple Business Manag…
+     🏷  ade, apple-business-manager, automated-device, device-management, entra-id, intune, macos, macos-deployment, mdm, microsoft-intune, zero-touch
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 crboyd/agentcore-demo
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/crboyd/agentcore-demo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 AmrDilli/sentinelai-v2
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/AmrDilli/sentinelai-v2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 arthiya2002/edr-simulation
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/arthiya2002/edr-simulation
+     📝 Sysmon-based EDR simulation with MITRE ATT&CK detection rules, automated inciden…
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 Koshmare-Blossom/whisper
+     ⭐ 0  🗣 Go  📅 2026-06-10
+     🔗 https://github.com/Koshmare-Blossom/whisper
+     📝 Hell's Gate / Halo's Gate for Linux
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 Shreyas046/Memory-Based-Threat-Analysis-
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/Shreyas046/Memory-Based-Threat-Analysis-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 xonoxitron/ebpf-sentinel
+     ⭐ 0  🗣 Rust  📅 2026-06-10
+     🔗 https://github.com/xonoxitron/ebpf-sentinel
+     📝 Linux kernel security: Rust eBPF probes, scalable telemetry (NDJSON/gRPC), MITRE…
+     🏷  aya, detection-engineering, ebpf, edr, endpoint-detection, file-integrity-monitoring, grpc, linux-kernel-security, ml-infrastructure-security, ndjson, process-lineage, reverse-shell-detection, siem, soar, telemetry-pipeline, tracepoints
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 jalvarezz13/cheatsheet_blue_team
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/jalvarezz13/cheatsheet_blue_team
+     📝 Blue team cheatsheet: detection & response stack (IDS/IPS, EDR, XDR, SIEM, SOAR,…
+     🏷  blue-team, cheatsheet, cybersecurity, edr, siem, soc, xdr
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 Mihai-Go/soc-alert-triage-lab
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/Mihai-Go/soc-alert-triage-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 SantiagoZapataAmezcua/Cripto
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/SantiagoZapataAmezcua/Cripto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 PN-Tester/RegConvert
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/PN-Tester/RegConvert
+     📝 Convert registry files from .reg to .hiv
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 Blitzzen/perplexity_bumblebee
+     ⭐ 0  🗣 Go  📅 2026-06-10
+     🔗 https://github.com/Blitzzen/perplexity_bumblebee
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 Riptwosec-collab/Log-Analysis-
+     ⭐ 0  🗣 TypeScript  📅 2026-06-09
+     🔗 https://github.com/Riptwosec-collab/Log-Analysis-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 duytuandao21/niro
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/duytuandao21/niro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 danjumamuhammad08141-spec/Abdul
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/danjumamuhammad08141-spec/Abdul
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [NEW]   🆕 📦 SH31K1/SH31K1
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/SH31K1/SH31K1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:51 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-10 20:32:51 UTC] [UPD]   📢 📦 ennduka86-spec/Threat-Hunting-Toolkit-
+     ⭐ 1  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/ennduka86-spec/Threat-Hunting-Toolkit-
+     📝 Scripts, queries, and playbooks for MITRE ATT&CK‑aligned threat hunting across S…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-10 20:32:51 UTC] [UPD]   📢 📦 minimob1337/syscall-lib
+     ⭐ 6  🗣 C++  📅 2026-06-09
+     🔗 https://github.com/minimob1337/syscall-lib
+     📝 A lightweight, CRT-free Windows x64 syscall & dynamic import library
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-10 20:32:51 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-10 20:32:51 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-10 20:32:53 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 20:32:53 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-06-10 20:32:53 UTC] [NEW]   🆕 📦 cprussin/horde
+     ⭐ 0  🗣 Shell  📅 2026-06-10
+     🔗 https://github.com/cprussin/horde
+     📝 Sandboxed Claude Code task runner: routes prompts to the right project and runs …
+     🏷  —
+[2026-06-10 20:32:53 UTC] [NEW]   🆕 📦 murdok1982/Arnes_hacker
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/murdok1982/Arnes_hacker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:53 UTC] [NEW]   🆕 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+[2026-06-10 20:32:53 UTC] [NEW]   🆕 📦 notthemystery/Lara-testing
+     ⭐ 0  🗣 Swift  📅 2026-06-10
+     🔗 https://github.com/notthemystery/Lara-testing
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 20:32:53 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-10 20:32:53 UTC] [INFO] ============================================================
+[2026-06-10 20:32:53 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
+[2026-06-10 20:32:53 UTC] [INFO] ============================================================
