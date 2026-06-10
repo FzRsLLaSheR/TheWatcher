@@ -14985,3 +14985,192 @@
 [2026-06-10 03:55:13 UTC] [INFO] ============================================================
 [2026-06-10 03:55:13 UTC] [INFO] Completato — 26 nuovi, 4 aggiornati, 0 errori
 [2026-06-10 03:55:13 UTC] [INFO] ============================================================
+[2026-06-10 10:04:27 UTC] [INFO] ============================================================
+[2026-06-10 10:04:27 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-10 10:04:27 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-10 10:04:27 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-10 10:04:27 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-10 10:04:27 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-10 10:04:27 UTC] [INFO] ============================================================
+[2026-06-10 10:04:27 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-10 10:04:27 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-10 10:04:30 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 10:04:30 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-10 10:04:30 UTC] [NEW]   🆕 📦 h3ad-sec/H3AD-LEARN
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/h3ad-sec/H3AD-LEARN
+     📝 H3AD-SEC Security Training Platform. Modular learning for SOC analysts and detec…
+     🏷  —
+[2026-06-10 10:04:30 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-10 10:04:30 UTC] [UPD]   📢 📦 matanpvpz-oss/byovdsn1per
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/matanpvpz-oss/byovdsn1per
+     📝 IDA Headless driver enum
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-10 10:04:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-10 10:04:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-10 10:04:34 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 sydahmed122/SOC-SOAR-EDR-Project
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/sydahmed122/SOC-SOAR-EDR-Project
+     📝 Built an automated SOC Incident Response workflow using LimaCharlie EDR and Tine…
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 neko233-com/banhack233
+     ⭐ 0  🗣 Go  📅 2026-06-10
+     🔗 https://github.com/neko233-com/banhack233
+     📝 ban hacker quickly 
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 whitepig27/-Spectral_Spatial-Adapter
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/whitepig27/-Spectral_Spatial-Adapter
+     📝 In this work, we advance domain generalization in remote sensing image segmentat…
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 theabraryousaf/GROMACS-Protein-MD-Simulation-on-HPC-using-SLURM
+     ⭐ 0  🗣 Shell  📅 2026-06-10
+     🔗 https://github.com/theabraryousaf/GROMACS-Protein-MD-Simulation-on-HPC-using-SLURM
+     📝 This repository contains a reproducible GROMACS molecular dynamics workflow for …
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 shehanau/shehanau
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/shehanau/shehanau
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 codingguru2221/LOG-EDR
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/codingguru2221/LOG-EDR
+     📝 Hackprix hackthon project.
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 Francisoseiamofah/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/Francisoseiamofah/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 Niha130/soc-log-analyzer
+     ⭐ 0  🗣 TypeScript  📅 2026-06-10
+     🔗 https://github.com/Niha130/soc-log-analyzer
+     📝 SOC Log Analyzer and Threat Alert System
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 erashokvns/erashokvns
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/erashokvns/erashokvns
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 himanshu76-cyber/zero-trust-architecture-enterprise-security
+     ⭐ 1  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/himanshu76-cyber/zero-trust-architecture-enterprise-security
+     📝 🔐 Zero Trust Architecture implementation using Docker, MFA, RBAC, IAM, and netwo…
+     🏷  authentication, cyber-security, docker, enterprisesecurity, iam, mfa, network-security, rbac, security-architecture, zero-trust
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 leewenjiunn-art/new-knn-reuters
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/leewenjiunn-art/new-knn-reuters
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 Cortex-EDR/cortex-attack
+     ⭐ 3  🗣 TypeScript  📅 2026-06-10
+     🔗 https://github.com/Cortex-EDR/cortex-attack
+     📝 Open-source security intelligence engine for developers. Orchestrates nmap, nikt…
+     🏷  anthropic, attack-graph, curl, cybersecurity-tools, nikto, nmap, ollama, openai, penetration-testing-tools, semgrep, trivy, vulnerability-detection, whatweb
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 226249-gif/rag
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/226249-gif/rag
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 faaheddy-cloud/edrc
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/faaheddy-cloud/edrc
+     📝 family
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-oskar
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/riceisnice589-debug/Edris-oskar
+     📝 edris and oskar
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 zak2880/soc-runbook
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/zak2880/soc-runbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 RetHook/qqqqq
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/RetHook/qqqqq
+     📝 aa
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 TechAdminPro/badusb-endpoint-analysis
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/TechAdminPro/badusb-endpoint-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-og-oskar-oma
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/riceisnice589-debug/Edris-og-oskar-oma
+     📝 laget av edris rashidi og oskar
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 Armin-devhub/yara-malware-portfolio
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/Armin-devhub/yara-malware-portfolio
+     📝 YARA malware-detection rules + desktop scanner. Vetted rules tuned for vetting s…
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 riceisnice589-debug/Edris-og-oskar
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/riceisnice589-debug/Edris-og-oskar
+     📝 edris rashidi og Oskar oma
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 Niall-Young/EDR
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/Niall-Young/EDR
+     📝 Esign design 门禁
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 waloufff/SIRA_LLM_Project
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-10
+     🔗 https://github.com/waloufff/SIRA_LLM_Project
+     📝 Analysing Logs, EDR, SIEM... alerts with an agentic workflow (LangGraph + Gemma4…
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 ArjunBade/BastionCore
+     ⭐ 0  🗣 Go  📅 2026-06-10
+     🔗 https://github.com/ArjunBade/BastionCore
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:34 UTC] [NEW]   🆕 📦 alawster/edrnts
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/alawster/edrnts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:34 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-10 10:04:34 UTC] [UPD]   📢 📦 0xLostByte/LostByte_EDR
+     ⭐ 0  🗣 HTML  📅 2026-06-09
+     🔗 https://github.com/0xLostByte/LostByte_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-10 10:04:34 UTC] [UPD]   📢 📦 narhenn/GoalCert-Simulation-Engine
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/narhenn/GoalCert-Simulation-Engine
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-10 10:04:34 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-10 10:04:34 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-10 10:04:37 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 10:04:37 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-10 10:04:37 UTC] [NEW]   🆕 📦 yuzielsyamallaby/yuzielsyamallaby.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-06-10
+     🔗 https://github.com/yuzielsyamallaby/yuzielsyamallaby.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 10:04:37 UTC] [NEW]   🆕 📦 greenwayRocks/pentest-methodology
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/greenwayRocks/pentest-methodology
+     📝 My methodology for assessing systems and conducting penetration tests across Lin…
+     🏷  —
+[2026-06-10 10:04:37 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-10 10:04:37 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (7gg)
+[2026-06-10 10:04:37 UTC] [INFO] ============================================================
+[2026-06-10 10:04:37 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
+[2026-06-10 10:04:37 UTC] [INFO] ============================================================
