@@ -15174,3 +15174,209 @@
 [2026-06-10 10:04:37 UTC] [INFO] ============================================================
 [2026-06-10 10:04:37 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
 [2026-06-10 10:04:37 UTC] [INFO] ============================================================
+[2026-06-10 15:38:35 UTC] [INFO] ============================================================
+[2026-06-10 15:38:35 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-10 15:38:35 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-10 15:38:35 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-10 15:38:35 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-10 15:38:35 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-10 15:38:35 UTC] [INFO] ============================================================
+[2026-06-10 15:38:35 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-10 15:38:35 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-10 15:38:39 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 15:38:39 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-10 15:38:39 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-10 15:38:39 UTC] [UPD]   📢 📦 matanpvpz-oss/byovdsn1per
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/matanpvpz-oss/byovdsn1per
+     📝 IDA Headless driver enum
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-10 15:38:39 UTC] [UPD]   📢 📦 damar2107/Hypervisor-Launcher
+     ⭐ 0  🗣 C++  📅 2026-06-09
+     🔗 https://github.com/damar2107/Hypervisor-Launcher
+     📝 Windows C++ application that loads kernel level hypervisor drivers (bypassing Dr…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-10 15:38:39 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-10 15:38:39 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-10 15:38:45 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 SH31K1/SH31K1
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/SH31K1/SH31K1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 TRuong08022004/SOARisk
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/TRuong08022004/SOARisk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 ata-sesli/black-dome
+     ⭐ 0  🗣 Rust  📅 2026-06-10
+     🔗 https://github.com/ata-sesli/black-dome
+     📝 Lightweight security control plane for Linux servers, combining deterministic ru…
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 AadhikR/workloop-clinic
+     ⭐ 0  🗣 JavaScript  📅 2026-06-10
+     🔗 https://github.com/AadhikR/workloop-clinic
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 SampathReddy-1405/SampathReddy-1405
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/SampathReddy-1405/SampathReddy-1405
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 mido3657tiger-ux/AegisX-Sphere
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/mido3657tiger-ux/AegisX-Sphere
+     📝 Next-Gen Autonomous Cyber Range & Breach Simulation Platform for Red/Blue Teams.
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 aliray-yan/EDR-Ihadrs
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/aliray-yan/EDR-Ihadrs
+     📝 Windows EDR with SecureOps SOC export integration
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 TrashCan-Design/KeyGuard
+     ⭐ 0  🗣 C  📅 2026-06-10
+     🔗 https://github.com/TrashCan-Design/KeyGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 MangJuanT0mas/Awesome_Cybersec_Resources
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/MangJuanT0mas/Awesome_Cybersec_Resources
+     📝 My  personal version of awesome cybersecurity resources
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 liuyunbox/EDrawingPreviewHandlerSharp
+     ⭐ 2  🗣 C#  📅 2026-06-10
+     🔗 https://github.com/liuyunbox/EDrawingPreviewHandlerSharp
+     📝 使用SharpShell将SolidWorks eDrawings嵌入到资源管理器，用以预览图纸文件
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 leonardodahorareis-dot/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/leonardodahorareis-dot/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 FranckTheMotte/bluezimulator
+     ⭐ 0  🗣 Shell  📅 2026-06-10
+     🔗 https://github.com/FranckTheMotte/bluezimulator
+     📝 Tool to simulate fake Bluetooth devices (LE and BR/EDR) via BlueZ D-Bus interfac…
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-CURRENCY-CONVERSION-SERVICE
+     ⭐ 0  🗣 Java  📅 2026-06-10
+     🔗 https://github.com/Rifqi-Edr/JDT-17-RIFQI-JAVA-SPRINGBOOT-CURRENCY-CONVERSION-SERVICE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 0la-mide/malware-cnn
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/0la-mide/malware-cnn
+     📝 AI-Powered Malware Detection Using Convolutional Neural Networks (CNN) This proj…
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 TWIL-bit/static-site-code
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/TWIL-bit/static-site-code
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 Aissadk/edr-system-call-ml
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/Aissadk/edr-system-call-ml
+     📝 Analyse des Appels Système (EDR Intelligent)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 felipededeus/JK01_WEB
+     ⭐ 0  🗣 PHP  📅 2026-06-10
+     🔗 https://github.com/felipededeus/JK01_WEB
+     📝 Implementação de recursos de impressão térmica em sistemas WEB, para impressoras…
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 ali-bobo/deidentify
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/ali-bobo/deidentify
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 vinayaklatthe/microsoft-security-skills
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/vinayaklatthe/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 netspectra/pentest-ai-agents
+     ⭐ 0  🗣 Shell  📅 2026-06-10
+     🔗 https://github.com/netspectra/pentest-ai-agents
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 kalaimani-m/kalaimani-m
+     ⭐ 1  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/kalaimani-m/kalaimani-m
+     📝 About me bruhh
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 brianknutson/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/brianknutson/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 PhemcodeJay/Cybersecurity-Labs
+     ⭐ 1  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/PhemcodeJay/Cybersecurity-Labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 kalaii55/kalaii55
+     ⭐ 1  🗣 N/A  📅 2026-06-09
+     🔗 https://github.com/kalaii55/kalaii55
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 baijukya/Edrick_StyleGAN2
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/baijukya/Edrick_StyleGAN2
+     📝 Inference code to generate 1000 images
+     🏷  —
+[2026-06-10 15:38:45 UTC] [NEW]   🆕 📦 RasAlGhul-1/RevShell-Swap
+     ⭐ 0  🗣 C#  📅 2026-06-10
+     🔗 https://github.com/RasAlGhul-1/RevShell-Swap
+     📝 RevSwap 是一个轻量级 .NET 动态加载器，通过加密与特征码定位实现 reverse_tcp shellcode 的 IP/端口免编译替换，并内置反沙箱…
+     🏷  —
+[2026-06-10 15:38:45 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-10 15:38:45 UTC] [UPD]   📢 📦 lcoscia/vcf-planner
+     ⭐ 0  🗣 HTML  📅 2026-06-06
+     🔗 https://github.com/lcoscia/vcf-planner
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-10 15:38:45 UTC] [UPD]   📢 📦 radegast-edr/radegast-packages
+     ⭐ 0  🗣 Python  📅 2026-06-05
+     🔗 https://github.com/radegast-edr/radegast-packages
+     📝 Repository that stores Radegast detection packages and other utilities
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-10 15:38:45 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-10 15:38:45 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-10 15:38:50 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-10 15:38:50 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-10 15:38:50 UTC] [NEW]   🆕 📦 netspectra/pentest-ai-agents
+     ⭐ 0  🗣 Shell  📅 2026-06-10
+     🔗 https://github.com/netspectra/pentest-ai-agents
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:50 UTC] [NEW]   🆕 📦 rt-cybersec/OSCP-Prep-Writeups
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/rt-cybersec/OSCP-Prep-Writeups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:50 UTC] [NEW]   🆕 📦 AhmerKhanNiazi/AhmerKhanNiazi
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/AhmerKhanNiazi/AhmerKhanNiazi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-10 15:38:50 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-10 15:38:50 UTC] [UPD]   📢 📦 AntonioGr7/vomero_sandbox
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/AntonioGr7/vomero_sandbox
+     📝 Run untrusted code in hardened, isolated Kubernetes sandboxes — a warm pool of l…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-10 15:38:50 UTC] [UPD]   📢 📦 Jadarelaxed973/cyanide
+     ⭐ 0  🗣 N/A  📅 2026-06-02
+     🔗 https://github.com/Jadarelaxed973/cyanide
+     📝 Run iOS kernel exploits and manage research tools using the DarkSword kernel rea…
+     🏷  attacker-threat-sharing, comics, decoy, honeypot, python, scp, scraper, security, sftp, ssh, ssh-honeypot, telnet, telnet-honeypot, threat-analysis
+     🔄 Motivo: repo recente (7gg)
+[2026-06-10 15:38:50 UTC] [INFO] ============================================================
+[2026-06-10 15:38:50 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
+[2026-06-10 15:38:50 UTC] [INFO] ============================================================
