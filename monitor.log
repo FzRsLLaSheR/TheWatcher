@@ -15909,3 +15909,208 @@
 [2026-06-11 10:39:09 UTC] [INFO] ============================================================
 [2026-06-11 10:39:09 UTC] [INFO] Completato — 23 nuovi, 5 aggiornati, 0 errori
 [2026-06-11 10:39:09 UTC] [INFO] ============================================================
+[2026-06-11 16:05:36 UTC] [INFO] ============================================================
+[2026-06-11 16:05:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-11 16:05:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-11 16:05:36 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-11 16:05:36 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-11 16:05:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-11 16:05:36 UTC] [INFO] ============================================================
+[2026-06-11 16:05:36 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-11 16:05:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-11 16:05:38 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-11 16:05:38 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-11 16:05:38 UTC] [NEW]   🆕 📦 JusticeRox98577/Vanguard-for-Macos
+     ⭐ 0  🗣 HTML  📅 2026-06-11
+     🔗 https://github.com/JusticeRox98577/Vanguard-for-Macos
+     📝 macOS Apple Silicon security monitor PoC — exploring hardware attestation  as a …
+     🏷  —
+[2026-06-11 16:05:38 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-11 16:05:38 UTC] [UPD]   📢 📦 matanpvpz-oss/byovdsn1per
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/matanpvpz-oss/byovdsn1per
+     📝 IDA Headless driver enum
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-11 16:05:38 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-11 16:05:38 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-11 16:05:41 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 0xBlackash/CVE-2026-11645
+     ⭐ 0  🗣 HTML  📅 2026-06-11
+     🔗 https://github.com/0xBlackash/CVE-2026-11645
+     📝 CVE-2026-11645
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 dukedemayo-alt/GSSC-Integrated-Corporation
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/dukedemayo-alt/GSSC-Integrated-Corporation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 nurkhasanov1-cmyk/winbridge
+     ⭐ 0  🗣 TypeScript  📅 2026-06-11
+     🔗 https://github.com/nurkhasanov1-cmyk/winbridge
+     📝 Consent-first Windows-to-Windows remote assistance foundation.
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 cheeselvl-star/cheeselvl-star
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/cheeselvl-star/cheeselvl-star
+     📝 GitHub profile README
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 ultra-x-coder/antivirus.sh
+     ⭐ 0  🗣 Shell  📅 2026-06-10
+     🔗 https://github.com/ultra-x-coder/antivirus.sh
+     📝 antivirus.sh is a self-contained Bash scanner for Linux servers. It focuses on m…
+     🏷  antivirus, antivirus-scanner, antivirus-tools, cyber-security, cybersecurity, linux, linux-security, security, security-tools, server-security, ubuntu-security, ubuntu-setup
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 rvrsh3ll/ClickOnce-Commander
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/rvrsh3ll/ClickOnce-Commander
+     📝 Utility for ClickOnce usage for Red Teams.
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 VinishaSrinivasan/EDR_PROJECT
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/VinishaSrinivasan/EDR_PROJECT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 tiziano-becchetti/SOC_home_lab
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/tiziano-becchetti/SOC_home_lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 cloudtwyst/security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-06-11
+     🔗 https://github.com/cloudtwyst/security-skills
+     📝 59 curated Microsoft Security skills for AI agents — CloudTwyst landing zone edi…
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 pierrelouistissot/GestureOS-
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/pierrelouistissot/GestureOS-
+     📝 GestureOS — Control your computer with hand gestures using your webcam. Built wi…
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 Krishcalin/SIEM-Lite
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Krishcalin/SIEM-Lite
+     📝 An Open-source Security Event and Information Management (SIEM) tool for NGFW an…
+     🏷  crowdstrike-falcon, paloaltonetworks, security-operation-center, siem-development
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 jlaguilargomez/api-tester
+     ⭐ 0  🗣 Vue  📅 2026-06-11
+     🔗 https://github.com/jlaguilargomez/api-tester
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 JusticeRox98577/Vanguard-for-Macos
+     ⭐ 0  🗣 HTML  📅 2026-06-11
+     🔗 https://github.com/JusticeRox98577/Vanguard-for-Macos
+     📝 macOS Apple Silicon security monitor PoC — exploring hardware attestation  as a …
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 basteamracing/f0_library
+     ⭐ 0  🗣 Go  📅 2026-06-11
+     🔗 https://github.com/basteamracing/f0_library
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 srinivasulabhaskarprabhat-pixel/TRYHACKME-LABS
+     ⭐ 1  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/srinivasulabhaskarprabhat-pixel/TRYHACKME-LABS
+     📝 This repository showcases my hands-on SOC Analyst labs covering SIEM, EDR, alert…
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 shriraamkc-2004/Home-SOC
+     ⭐ 0  🗣 PowerShell  📅 2026-06-11
+     🔗 https://github.com/shriraamkc-2004/Home-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 aisamuraiagent-source/codex-safe-operation-lab-public
+     ⭐ 0  🗣 CSS  📅 2026-06-11
+     🔗 https://github.com/aisamuraiagent-source/codex-safe-operation-lab-public
+     📝 Public sanitized portfolio version of a local lab for safe OpenAI Codex CLI oper…
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 OkyWoww/tempest-breaker
+     ⭐ 0  🗣 Makefile  📅 2026-06-11
+     🔗 https://github.com/OkyWoww/tempest-breaker
+     📝 anti DDoS attack EDR System Security
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 MuhammadIsmail009/MuhammadIsmail009
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/MuhammadIsmail009/MuhammadIsmail009
+     📝 ✨ My GitHub profile
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 Mihai-Go/soc-alert-triage-labs
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/Mihai-Go/soc-alert-triage-labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 bezpatkogektor-bit/Vvv
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/bezpatkogektor-bit/Vvv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 rolita03/cyberstart-project-soc-investigation
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/rolita03/cyberstart-project-soc-investigation
+     📝 SOC investigation: AiTM phishing, OAuth account takeover, BEC attempt & data exf…
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 Shivam-pro-hacker/Red_Teaming_RoadMap
+     ⭐ 0  🗣 HTML  📅 2026-06-11
+     🔗 https://github.com/Shivam-pro-hacker/Red_Teaming_RoadMap
+     📝 A complete offensive security roadmap covering web hacking, Active Directory, re…
+     🏷  active-directory, bug-bounty, cybersecurity, ethical-hacking, linux, network-security, offensive-security, oscp, pentesting, read-team, red-teaming, security-research, web-security, windows-security
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 Dineshtl/CrowdStrike-Falcon-EDR-Investigations
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Dineshtl/CrowdStrike-Falcon-EDR-Investigations
+     📝 Endpoint threat hunting, alert triage, and active response using CrowdStrike Fal…
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 kantawis/nigger-driver
+     ⭐ 0  🗣 C++  📅 2026-06-11
+     🔗 https://github.com/kantawis/nigger-driver
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 Leomez17/healthcare-ransomware-hunting
+     ⭐ 0  🗣 Shell  📅 2026-06-11
+     🔗 https://github.com/Leomez17/healthcare-ransomware-hunting
+     📝 ALPHV BlackCat threat intelligence — hash analysis, IoC collection, Suricata det…
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 Growithcyprian/Growithcyprian-
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Growithcyprian/Growithcyprian-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:41 UTC] [NEW]   🆕 📦 mastrogiovanni/cedolini
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/mastrogiovanni/cedolini
+     📝 Parser universale di cedolini
+     🏷  —
+[2026-06-11 16:05:41 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-11 16:05:41 UTC] [UPD]   📢 📦 cocomelonc/tabby
+     ⭐ 2  🗣 C  📅 2026-06-11
+     🔗 https://github.com/cocomelonc/tabby
+     📝 a minimal, position-independent C shellcode framework for Windows x64. compiles …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-11 16:05:41 UTC] [UPD]   📢 📦 gregmamoyac/Gregrep-Overlord-DFIR-App
+     ⭐ 0  🗣 PowerShell  📅 2026-06-10
+     🔗 https://github.com/gregmamoyac/Gregrep-Overlord-DFIR-App
+     📝 A live-system digital forensic and incident response tool that goes beyond what …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-11 16:05:41 UTC] [UPD]   📢 📦 JOGit91/sentinel
+     ⭐ 1  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/JOGit91/sentinel
+     📝 Sentinel project - tracking threat actor activity
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-11 16:05:41 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-11 16:05:41 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-11 16:05:43 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-11 16:05:43 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-11 16:05:43 UTC] [NEW]   🆕 📦 turtletechmw/oscp-learn
+     ⭐ 0  🗣 PowerShell  📅 2026-06-11
+     🔗 https://github.com/turtletechmw/oscp-learn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 16:05:43 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-11 16:05:43 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (0gg)
+[2026-06-11 16:05:43 UTC] [INFO] ============================================================
+[2026-06-11 16:05:43 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
+[2026-06-11 16:05:43 UTC] [INFO] ============================================================
