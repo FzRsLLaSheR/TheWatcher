@@ -15554,3 +15554,188 @@
 [2026-06-10 20:32:53 UTC] [INFO] ============================================================
 [2026-06-10 20:32:53 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
 [2026-06-10 20:32:53 UTC] [INFO] ============================================================
+[2026-06-11 04:08:47 UTC] [INFO] ============================================================
+[2026-06-11 04:08:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-11 04:08:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-11 04:08:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-11 04:08:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-11 04:08:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-11 04:08:47 UTC] [INFO] ============================================================
+[2026-06-11 04:08:47 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-11 04:08:47 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-11 04:08:49 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-11 04:08:49 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-11 04:08:49 UTC] [NEW]   🆕 📦 SynthicsoftLabs/SynthicSecurityBaseline2026
+     ⭐ 0  🗣 PowerShell  📅 2026-06-10
+     🔗 https://github.com/SynthicsoftLabs/SynthicSecurityBaseline2026
+     📝 a robust hardening solution for Windows 11 and Windows Server environments, spec…
+     🏷  —
+[2026-06-11 04:08:49 UTC] [NEW]   🆕 📦 FallinBinary/Protector
+     ⭐ 0  🗣 C  📅 2026-06-10
+     🔗 https://github.com/FallinBinary/Protector
+     📝 Simple kernel driver for protecting processes from termination
+     🏷  —
+[2026-06-11 04:08:49 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-11 04:08:49 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-11 04:08:49 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-11 04:08:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 Ritik-1101/Ligolo-NG
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Ritik-1101/Ligolo-NG
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 risehyun/Enterprise-IT-Infrastructure-Standardization
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/risehyun/Enterprise-IT-Infrastructure-Standardization
+     📝 업무자동화 및 인프라표준화 포트폴리오
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 josekurian/AISecurityEngine
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/josekurian/AISecurityEngine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 Mvrcoz/Enterprise-Risk-Assessment-Twitcher
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Mvrcoz/Enterprise-Risk-Assessment-Twitcher
+     📝 15-domain enterprise security assessment for a 10M-user tech company with no sec…
+     🏷  compliance, cyber-security, cysa-plus, enterprise-security, gdpr, grc, nist-csf, pci-dss, risk-assessment
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 Doquanglong/magic-number-file-identifier
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/Doquanglong/magic-number-file-identifier
+     📝 identify file actually name
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 wr5912/common_app_security_baseline
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/wr5912/common_app_security_baseline
+     📝 常见应用安全基线
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 JinchirikiTren/towhunting
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/JinchirikiTren/towhunting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 blackTieV2/The-EDrill-Family-Bursary
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/blackTieV2/The-EDrill-Family-Bursary
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 JOGit91/sentinel
+     ⭐ 1  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/JOGit91/sentinel
+     📝 Sentinel project - tracking threat actor activity
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 secwitness/metasploit-reverse-shell-lab
+     ⭐ 1  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/secwitness/metasploit-reverse-shell-lab
+     📝 A step-by-step walkthrough of system hacking using Metasploit on Kali Linux  cov…
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 thefloppytaco/alohapair
+     ⭐ 0  🗣 Java  📅 2026-06-10
+     🔗 https://github.com/thefloppytaco/alohapair
+     📝 Pair Bluetooth game controllers & accessories with discontinued Meta Portal devi…
+     🏷  android, ble, bluetooth, gamepad, hid, meta-portal, xbox-controller
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 jsdosanj/cairn-site
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/jsdosanj/cairn-site
+     📝 Marketing site for Cairn — every device, one source of truth (formerly GhostAsse…
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 sierengowskisierengowski-cpu/kage-ryu
+     ⭐ 0  🗣 C  📅 2026-06-10
+     🔗 https://github.com/sierengowskisierengowski-cpu/kage-ryu
+     📝 kage-ryu — Custom Arch Linux kernel based on Linux 7.0 + XanMod patches. Optimiz…
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 master-elizar/certifications
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/master-elizar/certifications
+     📝 Collection of my professional certifications and completed courses.
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 Armin-devhub/suricata-network-portfolio
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/Armin-devhub/suricata-network-portfolio
+     📝 Custom Suricata IDS rules + desktop manager for network threat detection. Detect…
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 M0ula-crs/goad-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/M0ula-crs/goad-soc-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 DavidSBTG/soc-tier1-analyst-mvp
+     ⭐ 1  🗣 JavaScript  📅 2026-06-10
+     🔗 https://github.com/DavidSBTG/soc-tier1-analyst-mvp
+     📝 A local SOC Tier 1 analyst workbench for explainable alert triage, red-flag dete…
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 Arko312/SuperScanner
+     ⭐ 0  🗣 C#  📅 2026-06-10
+     🔗 https://github.com/Arko312/SuperScanner
+     📝 Read-only security scanner & data-flow tracer — see what's on your machine and w…
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 Abdullah-Alo/contagion-sim
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/Abdullah-Alo/contagion-sim
+     📝 A cellular automata simulation engine for modeling how things spread through net…
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 rajkive/Cyber-Incident-Response-Plan-MassCyberCenter
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/rajkive/Cyber-Incident-Response-Plan-MassCyberCenter
+     📝 A NIST CSF aligned CIRP that I worked on during my time as a student fellow with…
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 Owlcub/station-blanche
+     ⭐ 0  🗣 JavaScript  📅 2026-06-10
+     🔗 https://github.com/Owlcub/station-blanche
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 04:08:53 UTC] [NEW]   🆕 📦 DFIRDominican/DFIRDominican
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/DFIRDominican/DFIRDominican
+     📝 GitHub Profile README
+     🏷  —
+[2026-06-11 04:08:53 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-11 04:08:53 UTC] [UPD]   📢 📦 norwytch/weeping-angel
+     ⭐ 1  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/norwytch/weeping-angel
+     📝 Timestomping malware detection framework + arena with RL agent baselines, based …
+     🏷  blue-team, detection-engineering, dfir, doctor-who, golang, incident-response, mitre-attack, ntfs, ocsf, python, sigma, sysmon, tamper-evident, terraform, threat-detection, timestomping, usn-journal, whoniverse
+     🔄 Motivo: repo recente (1gg) | nuovi topic: tamper-evident, blue-team, doctor-who, incident-response, sigma, ntfs, golang, threat-detection, sysmon, whoniverse, terraform, usn-journal, python, ocsf
+[2026-06-11 04:08:53 UTC] [UPD]   📢 📦 Riptwosec-collab/Log-Analysis-
+     ⭐ 0  🗣 TypeScript  📅 2026-06-09
+     🔗 https://github.com/Riptwosec-collab/Log-Analysis-
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-11 04:08:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-11 04:08:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-11 04:08:55 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-11 04:08:55 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-11 04:08:55 UTC] [NEW]   🆕 📦 muhdanfyan/OSCE3-Complete-Guide
+     ⭐ 0  🗣 N/A  📅 2026-06-10
+     🔗 https://github.com/muhdanfyan/OSCE3-Complete-Guide
+     📝 OSWE, OSEP, OSED, OSEE — Complete OffSec OSCE3 Study Guide (forked from JoasASan…
+     🏷  —
+[2026-06-11 04:08:55 UTC] [NEW]   🆕 📦 ps4Phoenix/ps4Phoenix.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-06-10
+     🔗 https://github.com/ps4Phoenix/ps4Phoenix.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 04:08:55 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-11 04:08:55 UTC] [UPD]   📢 📦 cprussin/horde
+     ⭐ 0  🗣 Shell  📅 2026-06-10
+     🔗 https://github.com/cprussin/horde
+     📝 Sandboxed Claude Code task runner: routes prompts to the right project and runs …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-11 04:08:55 UTC] [UPD]   📢 📦 StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     ⭐ 43  🗣 C  📅 2026-06-08
+     🔗 https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+     📝 A PS5 payload to allow other controllers to work via the front USB port
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-11 04:08:55 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (0gg)
+[2026-06-11 04:08:55 UTC] [INFO] ============================================================
+[2026-06-11 04:08:55 UTC] [INFO] Completato — 26 nuovi, 5 aggiornati, 0 errori
+[2026-06-11 04:08:55 UTC] [INFO] ============================================================
