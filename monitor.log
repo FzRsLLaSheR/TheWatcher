@@ -15739,3 +15739,173 @@
 [2026-06-11 04:08:55 UTC] [INFO] ============================================================
 [2026-06-11 04:08:55 UTC] [INFO] Completato — 26 nuovi, 5 aggiornati, 0 errori
 [2026-06-11 04:08:55 UTC] [INFO] ============================================================
+[2026-06-11 10:39:00 UTC] [INFO] ============================================================
+[2026-06-11 10:39:00 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-11 10:39:00 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-11 10:39:00 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-11 10:39:00 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-11 10:39:00 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-11 10:39:00 UTC] [INFO] ============================================================
+[2026-06-11 10:39:00 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-11 10:39:00 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-11 10:39:03 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-11 10:39:03 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-11 10:39:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-11 10:39:03 UTC] [UPD]   📢 📦 matanpvpz-oss/byovdsn1per
+     ⭐ 0  🗣 Python  📅 2026-06-09
+     🔗 https://github.com/matanpvpz-oss/byovdsn1per
+     📝 IDA Headless driver enum
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-11 10:39:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-11 10:39:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-11 10:39:06 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 LurenYEE/disklogicallock
+     ⭐ 0  🗣 C  📅 2026-06-11
+     🔗 https://github.com/LurenYEE/disklogicallock
+     📝 Just a c++ code.
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 9affel/9affel
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/9affel/9affel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 cocomelonc/tabby
+     ⭐ 0  🗣 C  📅 2026-06-11
+     🔗 https://github.com/cocomelonc/tabby
+     📝 a minimal, position-independent C shellcode framework for Windows x64. compiles …
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 Pushki64/Pushki64
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Pushki64/Pushki64
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 abdulrehmanashfaq/endpoint-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/abdulrehmanashfaq/endpoint-detection-lab
+     📝 A local, open-source EDR and SIEM detection engineering lab utilizing Wazuh, Sys…
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 pyMixin/PyAutoMouseMover
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/pyMixin/PyAutoMouseMover
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 tahosprojects/endpoint-forensics-splunk-threat-hunting
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/tahosprojects/endpoint-forensics-splunk-threat-hunting
+     📝 Live endpoint forensics and threat hunting lab utilizing Velociraptor (VQL) and …
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 Fahmi21al/backdoor_scanner
+     ⭐ 0  🗣 HTML  📅 2026-06-11
+     🔗 https://github.com/Fahmi21al/backdoor_scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 koshuang/ai-engineering-playbook
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/koshuang/ai-engineering-playbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 frankvanze/edrcmw
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/frankvanze/edrcmw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 Armin-devhub/wazuh-siem-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-06-11
+     🔗 https://github.com/Armin-devhub/wazuh-siem-lab
+     📝 Self-hosted Wazuh SIEM home lab — deployment, agent onboarding, custom detection…
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 Stepponat/siem
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/Stepponat/siem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 aleksandrjrbelan-star/edrgfthgh
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/aleksandrjrbelan-star/edrgfthgh
+     📝 dfgnh
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 BoldBastion/cybersecurity-intelligence-mcp
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/BoldBastion/cybersecurity-intelligence-mcp
+     📝 Apify actor: cybersecurity-intelligence-mcp
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 ble-multimeter/fakemeter
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/ble-multimeter/fakemeter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 sohambhogaonkar/sohambhogaonkar
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/sohambhogaonkar/sohambhogaonkar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 MuhammadSaqibMalhi/Incident-Response---NIST-Special-Publication-SP-800-61-Revision-2
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/MuhammadSaqibMalhi/Incident-Response---NIST-Special-Publication-SP-800-61-Revision-2
+     📝 NIST Incident Response Lifecycle  NIST SP 800-61 defines a four-phase incident r…
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 Ritik-1101/NetExec-Guide
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Ritik-1101/NetExec-Guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 Ritik-1101/Evil-WinRM-Guide
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Ritik-1101/Evil-WinRM-Guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 ccman90/edrewj
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/ccman90/edrewj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 Ritik-1101/Impacket-Guide
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Ritik-1101/Impacket-Guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [NEW]   🆕 📦 Ritik-1101/PivoteEZ
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Ritik-1101/PivoteEZ
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-11 10:39:06 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-11 10:39:06 UTC] [UPD]   📢 📦 hidequan/tiny-pos-mobile
+     ⭐ 0  🗣 Dart  📅 2026-06-08
+     🔗 https://github.com/hidequan/tiny-pos-mobile
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-11 10:39:06 UTC] [UPD]   📢 📦 wr5912/common_app_security_baseline
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/wr5912/common_app_security_baseline
+     📝 常见应用安全基线
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-11 10:39:06 UTC] [UPD]   📢 📦 leewenjiunn-art/new-knn-reuters
+     ⭐ 0  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/leewenjiunn-art/new-knn-reuters
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-11 10:39:06 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-11 10:39:06 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-11 10:39:09 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-11 10:39:09 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-11 10:39:09 UTC] [NEW]   🆕 📦 achnouri/TwoMillion-Machine
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/achnouri/TwoMillion-Machine
+     📝 From deobfuscating code.js to popping root with CVE-2023-0386. Covers invite cod…
+     🏷  —
+[2026-06-11 10:39:09 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-11 10:39:09 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (0gg)
+[2026-06-11 10:39:09 UTC] [INFO] ============================================================
+[2026-06-11 10:39:09 UTC] [INFO] Completato — 23 nuovi, 5 aggiornati, 0 errori
+[2026-06-11 10:39:09 UTC] [INFO] ============================================================
