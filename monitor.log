@@ -16241,3 +16241,204 @@
 [2026-06-11 20:24:21 UTC] [INFO] ============================================================
 [2026-06-11 20:24:21 UTC] [INFO] Completato — 18 nuovi, 2 aggiornati, 0 errori
 [2026-06-11 20:24:21 UTC] [INFO] ============================================================
+[2026-06-12 04:10:21 UTC] [INFO] ============================================================
+[2026-06-12 04:10:21 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-12 04:10:21 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-12 04:10:21 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-12 04:10:21 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-12 04:10:21 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-12 04:10:21 UTC] [INFO] ============================================================
+[2026-06-12 04:10:21 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-12 04:10:21 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-12 04:10:23 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-12 04:10:23 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-12 04:10:23 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-12 04:10:23 UTC] [UPD]   📢 📦 Ruby570bocadito/X404X
+     ⭐ 0  🗣 Go  📅 2026-06-06
+     🔗 https://github.com/Ruby570bocadito/X404X
+     📝 X404X — Autonomous Red Team Platform. Semi-autonomous offensive framework coveri…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-12 04:10:23 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-12 04:10:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-12 04:10:26 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 ronnierosal/promptmate
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/ronnierosal/promptmate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 YuvrajKaushal/AI-powered-detection-rule-generator
+     ⭐ 0  🗣 Python  📅 2026-06-12
+     🔗 https://github.com/YuvrajKaushal/AI-powered-detection-rule-generator
+     📝 As someone working in security, one of the most time-consuming tasks is translat…
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 Haggag-22/Harbor
+     ⭐ 1  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/Haggag-22/Harbor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 Ml-skibidist/SystemInformer
+     ⭐ 0  🗣 C++  📅 2026-06-12
+     🔗 https://github.com/Ml-skibidist/SystemInformer
+     📝 SystemInformer с user-mode, syscall вызовами
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 noname300989/OmniScanner
+     ⭐ 0  🗣 Python  📅 2026-06-12
+     🔗 https://github.com/noname300989/OmniScanner
+     📝 XYZ
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 claudiafigueroacd-cmyk/Cybersecurity-Roadmap26
+     ⭐ 0  🗣 N/A  📅 2026-06-12
+     🔗 https://github.com/claudiafigueroacd-cmyk/Cybersecurity-Roadmap26
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 mthompsen/bastion
+     ⭐ 0  🗣 Python  📅 2026-06-12
+     🔗 https://github.com/mthompsen/bastion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 Lutfifakee-Project/autopwn-env
+     ⭐ 0  🗣 Shell  📅 2026-06-12
+     🔗 https://github.com/Lutfifakee-Project/autopwn-env
+     📝 RAM-only stealth environment for pentesting. No traces. Auto-cleanup. EDR detect…
+     🏷  anti-forensics, bash, hacking, linux, pentesting, privilege-escalation, ram-only, security, stealth
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 jhueby/xsiam-log-engine
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/jhueby/xsiam-log-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 lhuynh0x1/Incident-Response-KQL
+     ⭐ 0  🗣 N/A  📅 2026-06-12
+     🔗 https://github.com/lhuynh0x1/Incident-Response-KQL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 marzo23/EFEX_Security_challenge
+     ⭐ 0  🗣 Python  📅 2026-06-12
+     🔗 https://github.com/marzo23/EFEX_Security_challenge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 vladispawo/edrihl
+     ⭐ 0  🗣 N/A  📅 2026-06-12
+     🔗 https://github.com/vladispawo/edrihl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 Rush-me-not/auto-triage-bot
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/Rush-me-not/auto-triage-bot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 Mosharrafa/Threat-Hunt-Investigation-Rocky-Clinic-OpenEMR-Breach-Full-Attack-Chain-Reconstruction
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/Mosharrafa/Threat-Hunt-Investigation-Rocky-Clinic-OpenEMR-Breach-Full-Attack-Chain-Reconstruction
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 AndhyQM/MT-SENSOR-PEATONAL-A11-ALARMA-LED-AC-SERVIDOR
+     ⭐ 0  🗣 C  📅 2026-06-12
+     🔗 https://github.com/AndhyQM/MT-SENSOR-PEATONAL-A11-ALARMA-LED-AC-SERVIDOR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 oxajamal-byte/argus-mini-edr
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/oxajamal-byte/argus-mini-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 tveiz/sawaa
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/tveiz/sawaa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 M-Y-F-A/Enterprise-SOC-Monitoring-Incident-Response-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/M-Y-F-A/Enterprise-SOC-Monitoring-Incident-Response-Lab
+     📝 Enterprise SOC Monitoring & Incident Response Home Lab simulating real-world att…
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 diaa-eldeen2004/Malware-Analysis
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/diaa-eldeen2004/Malware-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 gdiamelas/micro-edr-simulator
+     ⭐ 1  🗣 C  📅 2026-06-11
+     🔗 https://github.com/gdiamelas/micro-edr-simulator
+     📝 A lightweight C-based simulation of an Endpoint Detection and Response (EDR) sys…
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 mibu919/mibu919
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/mibu919/mibu919
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 ozdfiliz42-wq/Valkyrie-EDR
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/ozdfiliz42-wq/Valkyrie-EDR
+     📝 Canlı süreçleri izleyen ve SHA-256 bütünlük logları üreten hafif düzey bir EDR Ç…
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 julenenice24/Azure-SOC-Honeypot-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-11
+     🔗 https://github.com/julenenice24/Azure-SOC-Honeypot-Lab
+     📝 Built a cloud-based honeynet in Microsoft Azure to attract and analyze real-worl…
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection
+     ⭐ 0  🗣 Shell  📅 2026-06-11
+     🔗 https://github.com/g0thamRabb1t/dirtyfrag-cve-2026-43284-auditd-detection
+     📝 This repository contains a lab validation report and detection artefacts for Dir…
+     🏷  —
+[2026-06-12 04:10:26 UTC] [NEW]   🆕 📦 iceicexi00/siem-soc-monitoring
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/iceicexi00/siem-soc-monitoring
+     📝 Centralized SIEM/SOC monitoring lab on Elastic Stack + Zabbix + Grafana
+     🏷  —
+[2026-06-12 04:10:26 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-12 04:10:26 UTC] [UPD]   📢 📦 vinayaklatthe/microsoft-security-skills
+     ⭐ 62  🗣 JavaScript  📅 2026-06-10
+     🔗 https://github.com/vinayaklatthe/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+     🔄 Motivo: repo recente (1gg)
+[2026-06-12 04:10:26 UTC] [UPD]   📢 📦 nurkhasanov1-cmyk/winbridge
+     ⭐ 0  🗣 TypeScript  📅 2026-06-11
+     🔗 https://github.com/nurkhasanov1-cmyk/winbridge
+     📝 Consent-first Windows-to-Windows remote assistance foundation.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-12 04:10:26 UTC] [UPD]   📢 📦 josekurian/AISecurityEngine
+     ⭐ 0  🗣 Python  📅 2026-06-11
+     🔗 https://github.com/josekurian/AISecurityEngine
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-12 04:10:26 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-12 04:10:26 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-12 04:10:28 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-12 04:10:28 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-12 04:10:28 UTC] [NEW]   🆕 📦 terrysystems/-dirtycowkernelexploit
+     ⭐ 0  🗣 N/A  📅 2026-06-12
+     🔗 https://github.com/terrysystems/-dirtycowkernelexploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:28 UTC] [NEW]   🆕 📦 Ml-skibidist/SystemInformer
+     ⭐ 0  🗣 C++  📅 2026-06-12
+     🔗 https://github.com/Ml-skibidist/SystemInformer
+     📝 SystemInformer с user-mode, syscall вызовами
+     🏷  —
+[2026-06-12 04:10:28 UTC] [NEW]   🆕 📦 prechayimmee2412/crispy-octo-spoon
+     ⭐ 1  🗣 N/A  📅 2026-06-12
+     🔗 https://github.com/prechayimmee2412/crispy-octo-spoon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-12 04:10:28 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-12 04:10:28 UTC] [UPD]   📢 📦 cprussin/horde
+     ⭐ 0  🗣 Shell  📅 2026-06-10
+     🔗 https://github.com/cprussin/horde
+     📝 Sandboxed Claude Code task runner: routes prompts to the right project and runs …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-12 04:10:28 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (1gg)
+[2026-06-12 04:10:28 UTC] [INFO] ============================================================
+[2026-06-12 04:10:28 UTC] [INFO] Completato — 28 nuovi, 6 aggiornati, 0 errori
+[2026-06-12 04:10:28 UTC] [INFO] ============================================================
