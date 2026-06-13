@@ -17317,3 +17317,159 @@
 [2026-06-13 09:19:18 UTC] [INFO] ============================================================
 [2026-06-13 09:19:18 UTC] [INFO] Completato — 14 nuovi, 3 aggiornati, 0 errori
 [2026-06-13 09:19:18 UTC] [INFO] ============================================================
+[2026-06-13 14:02:56 UTC] [INFO] ============================================================
+[2026-06-13 14:02:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-13 14:02:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-13 14:02:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-13 14:02:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-13 14:02:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-13 14:02:56 UTC] [INFO] ============================================================
+[2026-06-13 14:02:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-13 14:02:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-13 14:02:58 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-13 14:02:58 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-13 14:02:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-13 14:02:58 UTC] [UPD]   📢 📦 svinery/swineryanticheat
+     ⭐ 1  🗣 C#  📅 2026-06-12
+     🔗 https://github.com/svinery/swineryanticheat
+     📝 AC for cs2 public server made by swinery
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-13 14:02:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-13 14:02:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-13 14:03:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 sherifmagdy74/Threatlens-TIP-For-Threat-intell
+     ⭐ 0  🗣 HTML  📅 2026-06-13
+     🔗 https://github.com/sherifmagdy74/Threatlens-TIP-For-Threat-intell
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 microlaser/Chrome_Session_Guard
+     ⭐ 0  🗣 PowerShell  📅 2026-06-13
+     🔗 https://github.com/microlaser/Chrome_Session_Guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 jbriddy/edrlik
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/jbriddy/edrlik
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 0xHossam/UnCanny
+     ⭐ 1  🗣 C  📅 2026-06-13
+     🔗 https://github.com/0xHossam/UnCanny
+     📝 Another new coercion primitive with LPE 0day - machine-account NTLM coercion fro…
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 emirghdiri/Intelligent-SOC-System
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/emirghdiri/Intelligent-SOC-System
+     📝 Intelligent SOC System built with Wazuh, Suricata & Machine Learning for real-ti…
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 zer00cloud/esp32-blue-tws-medai
+     ⭐ 0  🗣 C  📅 2026-06-13
+     🔗 https://github.com/zer00cloud/esp32-blue-tws-medai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 adrianwgcl/edrbdm
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/adrianwgcl/edrbdm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 am-flyer/sentinelmesh-ai
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/am-flyer/sentinelmesh-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 sumitbsn/siem-platform
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/sumitbsn/siem-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 Hazza-uxdev/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-06-13
+     🔗 https://github.com/Hazza-uxdev/Sentinel
+     📝 Sentinel is a Windows-first, local-first threat triage platform that inspects do…
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 Zahraxy09/how-hacking-works
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/Zahraxy09/how-hacking-works
+     📝 A technical guide to how hacking really works: reconnaissance, social engineerin…
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 edronpatrick-lab/edronpatrick.git.hub
+     ⭐ 0  🗣 HTML  📅 2026-06-13
+     🔗 https://github.com/edronpatrick-lab/edronpatrick.git.hub
+     📝 its a project sytstem
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 edronpatrick-lab/edron
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/edronpatrick-lab/edron
+     📝 its a project sytstem
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 JUMPO-UX/ai-detection-engineering
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/JUMPO-UX/ai-detection-engineering
+     📝 Detection engineering sample: defending an AI/LLM platform (Splunk SPL + MITRE A…
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 lcalzada-xor/Coff
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/lcalzada-xor/Coff
+     📝 Call Stack Spoof with indirect syscall
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 Loay-Hakimi/cryptoguard
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/Loay-Hakimi/cryptoguard
+     📝 Ransomware Behavior Emulator & Canary Detection System
+     🏷  —
+[2026-06-13 14:03:00 UTC] [NEW]   🆕 📦 shumatsumonobu/supply-chain-canary
+     ⭐ 0  🗣 Shell  📅 2026-06-12
+     🔗 https://github.com/shumatsumonobu/supply-chain-canary
+     📝 Simulated supply chain attacks in CI/CD — can cicd-sensor catch them?
+     🏷  —
+[2026-06-13 14:03:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-13 14:03:00 UTC] [UPD]   📢 📦 nurkhasanov1-cmyk/winbridge
+     ⭐ 0  🗣 TypeScript  📅 2026-06-11
+     🔗 https://github.com/nurkhasanov1-cmyk/winbridge
+     📝 Consent-first Windows-to-Windows remote assistance foundation.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-13 14:03:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-13 14:03:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-13 14:03:02 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-13 14:03:02 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-13 14:03:02 UTC] [NEW]   🆕 📦 Zahraxy09/how-hacking-works
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/Zahraxy09/how-hacking-works
+     📝 A technical guide to how hacking really works: reconnaissance, social engineerin…
+     🏷  —
+[2026-06-13 14:03:02 UTC] [NEW]   🆕 📦 craigspence248-dotcom/craigspence248-dotcom
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/craigspence248-dotcom/craigspence248-dotcom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 14:03:02 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-13 14:03:02 UTC] [UPD]   📢 📦 DekaPrayoga/AurixAgent
+     ⭐ 10  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/DekaPrayoga/AurixAgent
+     📝 🤖 Autonomous Multi-Agent AI Workspace in your terminal. Codes, researches, and e…
+     🏷  agent, agents, ai, ai-agent, automation, autonomous, autonomous-agents, bun, cli, langgraph, management, multi-agent-system, terminal-ui, tools, typescript, workspace
+     🔄 Motivo: repo recente (3gg)
+[2026-06-13 14:03:02 UTC] [UPD]   📢 📦 rwyin08-bit/AMaPaCU
+     ⭐ 0  🗣 Python  📅 2026-06-12
+     🔗 https://github.com/rwyin08-bit/AMaPaCU
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-13 14:03:02 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (2gg)
+[2026-06-13 14:03:02 UTC] [UPD]   📢 📦 matem6/UltraC0re
+     ⭐ 9  🗣 Lua  📅 2026-06-13
+     🔗 https://github.com/matem6/UltraC0re
+     📝 UltraC0re - a Luac0re-based userland exploit for Jak X
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-13 14:03:02 UTC] [INFO] ============================================================
+[2026-06-13 14:03:02 UTC] [INFO] Completato — 19 nuovi, 6 aggiornati, 0 errori
+[2026-06-13 14:03:02 UTC] [INFO] ============================================================
