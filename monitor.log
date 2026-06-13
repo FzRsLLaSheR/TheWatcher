@@ -17473,3 +17473,216 @@
 [2026-06-13 14:03:02 UTC] [INFO] ============================================================
 [2026-06-13 14:03:02 UTC] [INFO] Completato — 19 nuovi, 6 aggiornati, 0 errori
 [2026-06-13 14:03:02 UTC] [INFO] ============================================================
+[2026-06-13 19:39:05 UTC] [INFO] ============================================================
+[2026-06-13 19:39:05 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-13 19:39:05 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-13 19:39:05 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-13 19:39:05 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-13 19:39:05 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-13 19:39:05 UTC] [INFO] ============================================================
+[2026-06-13 19:39:05 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-13 19:39:05 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-13 19:39:08 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-13 19:39:08 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-13 19:39:08 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-13 19:39:08 UTC] [UPD]   📢 📦 azdabat/Threat-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-06-12
+     🔗 https://github.com/azdabat/Threat-Hunting
+     📝 Threat Hunting Methadologies and approach to Investigating advanced Threat  Vect…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-13 19:39:08 UTC] [UPD]   📢 📦 h3ad-sec/H3AD-LEARN
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/h3ad-sec/H3AD-LEARN
+     📝 H3AD-SEC Security Training Platform. Modular learning for SOC analysts and detec…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-13 19:39:08 UTC] [UPD]   📢 📦 Ruby570bocadito/X404X
+     ⭐ 0  🗣 Go  📅 2026-06-06
+     🔗 https://github.com/Ruby570bocadito/X404X
+     📝 X404X — Autonomous Red Team Platform. Semi-autonomous offensive framework coveri…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-13 19:39:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-13 19:39:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-13 19:39:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 arharif/Cybersecurity_audit-framework_OT_ICS
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/arharif/Cybersecurity_audit-framework_OT_ICS
+     📝 A practical cybersecurity audit framework for manufacturing environments, coveri…
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 anwen-labs/sentinel
+     ⭐ 0  🗣 Rust  📅 2026-06-13
+     🔗 https://github.com/anwen-labs/sentinel
+     📝 Deterministic security scanner for IaC configs — Docker Compose, Dockerfile, Kub…
+     🏷  cli, devops, devsecops, docker, docker-compose, dockerfile, github-actions, iac, kubernetes, rust, security, security-scanner, static-analysis, terraform
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 duggytuxy/syswarden-freebsd
+     ⭐ 1  🗣 Shell  📅 2026-06-13
+     🔗 https://github.com/duggytuxy/syswarden-freebsd
+     📝 SysWarden-FreeBSD is an Enterprise-grade Hardened Host Intrusion Detection & Pre…
+     🏷  abuseipdb-integration, blocklists, cybersecurity-tools, docker-security, fail2ban, firewall, freebsd, hids, hips, malicious-ips, pf, security-tools, syswarden, wazuh, wireguard
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 StaiLee/Orion
+     ⭐ 1  🗣 JavaScript  📅 2026-06-13
+     🔗 https://github.com/StaiLee/Orion
+     📝 🛰️ Un SOC (Security Operations Center) réinventé en cosmos 3D temps réel — MITRE…
+     🏷  cybersecurity, dashboard, data-visualization, mitre-attack, multi-tenant, nodejs, real-time, security-operations-center, siem, soar, soc, threat-detection, threat-intelligence, threejs, webgl
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 bryam-gordillo/Triaje-agente
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/bryam-gordillo/Triaje-agente
+     📝 Un sistema de **5 agentes** que recibe alertas de seguridad, descarta el ruido, …
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 Ganesh-645/Automotive-Black-Box-EDR
+     ⭐ 0  🗣 C++  📅 2026-06-13
+     🔗 https://github.com/Ganesh-645/Automotive-Black-Box-EDR
+     📝 ESP32-based Automotive Event Data Recorder (EDR) with crash detection, SD card l…
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 0xBlackash/CVE-2026-20253
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/0xBlackash/CVE-2026-20253
+     📝 CVE-2026-20253
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 piyushbhatta/Adaptive-Smart-Cabin-Vehicle-Health-Monitoring-System
+     ⭐ 0  🗣 C++  📅 2026-06-13
+     🔗 https://github.com/piyushbhatta/Adaptive-Smart-Cabin-Vehicle-Health-Monitoring-System
+     📝 Adaptive Smart Cabin & Vehicle Health Monitoring System
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 kaleth4/UnBlueHammer
+     ⭐ 0  🗣 C  📅 2026-06-13
+     🔗 https://github.com/kaleth4/UnBlueHammer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 biscottidiskette/ariadne
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/biscottidiskette/ariadne
+     📝 LLM-assisted Incident Response platform for security analysts.  Ariadne is a ful…
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 0xBlackash/CVE-2026-45447
+     ⭐ 1  🗣 Shell  📅 2026-06-13
+     🔗 https://github.com/0xBlackash/CVE-2026-45447
+     📝 CVE-2026-45447
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 web-cipher-007/Advanced-Cybersecurity-Expert-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/web-cipher-007/Advanced-Cybersecurity-Expert-Roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 samiBlsn/SOC-HomeLab
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/samiBlsn/SOC-HomeLab
+     📝  SOC Home Lab — Wazuh SIEM/EDR, Active Directory, simulation d'attaques MITRE AT…
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 samiBlsn/samiBlsn
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/samiBlsn/samiBlsn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 kaleth4/YellowKey-2.0
+     ⭐ 0  🗣 PowerShell  📅 2026-06-13
+     🔗 https://github.com/kaleth4/YellowKey-2.0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 fuzzlove/macOS-Persistence-Radar
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/fuzzlove/macOS-Persistence-Radar
+     📝 macOS Visibility, Context, and Persistence Intelligence.
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 byjanke/driftnet2
+     ⭐ 1  🗣 Go  📅 2026-06-13
+     🔗 https://github.com/byjanke/driftnet2
+     📝 Kernel-level network sniffer & credential extractor — 8 protocols, eBPF XDP stea…
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 jadehamel/WindowsFSA
+     ⭐ 0  🗣 PowerShell  📅 2026-06-13
+     🔗 https://github.com/jadehamel/WindowsFSA
+     📝 A lightweight powershell Windows forensic and anomaly detection script
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 gkaranz/Threat-Hunt-Report-Rocky-Clinic-
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/gkaranz/Threat-Hunt-Report-Rocky-Clinic-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 who4/Direxa
+     ⭐ 1  🗣 C#  📅 2026-06-13
+     🔗 https://github.com/who4/Direxa
+     📝 Bind individual apps to specific network adapters
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 1v4mp1r3/reverse-shell-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/1v4mp1r3/reverse-shell-detection-lab
+     📝 Defensive lab for reverse shell detection rules and process/network correlation.
+     🏷  blue-team, cybersecurity, detection-engineering, python, reverse-shell-detection, security-lab, sigma, suricata, threat-hunting, zeek
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 FahemAME/EDR-DTW
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/FahemAME/EDR-DTW
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 YagoDaw/personal-tech-inventory
+     ⭐ 1  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/YagoDaw/personal-tech-inventory
+     📝 Tecnical learning portfolio focused on software, Linux, infrastructure, automati…
+     🏷  —
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 vanhoangkha/endpoint-security-2026
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/vanhoangkha/endpoint-security-2026
+     📝 Complete Endpoint Security 2026 Series -- 6 parts covering threats, Zero Trust, …
+     🏷  cybersecurity, edr, endpoint-security, incident-response, mitre-attack, nist, soc, threat-hunting, xdr, zero-trust
+[2026-06-13 19:39:11 UTC] [NEW]   🆕 📦 showmeattack/soc-playbooks
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/showmeattack/soc-playbooks
+     📝 SOC L1 incident response playbooks — Splunk queries, containment, MITRE ATT&CK
+     🏷  —
+[2026-06-13 19:39:11 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-13 19:39:11 UTC] [UPD]   📢 📦 nurkhasanov1-cmyk/winbridge
+     ⭐ 0  🗣 TypeScript  📅 2026-06-11
+     🔗 https://github.com/nurkhasanov1-cmyk/winbridge
+     📝 Consent-first Windows-to-Windows remote assistance foundation.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-13 19:39:11 UTC] [UPD]   📢 📦 codingguru2221/Log-EDR-detection-system
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/codingguru2221/Log-EDR-detection-system
+     📝 Lightweight offline EDR prototype designed for startups and individuals. Trinetr…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-13 19:39:11 UTC] [UPD]   📢 📦 azdabat/Threat-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-06-12
+     🔗 https://github.com/azdabat/Threat-Hunting
+     📝 Threat Hunting Methadologies and approach to Investigating advanced Threat  Vect…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-13 19:39:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-13 19:39:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-13 19:39:13 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-13 19:39:13 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-13 19:39:13 UTC] [NEW]   🆕 📦 S4l1-on-Git/S4l1-on-Git
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/S4l1-on-Git/S4l1-on-Git
+     📝 👋 Personal profile — Seif Arslan Ghanem | CS @ ESI-SBA | CTFs | Kernel Exploits
+     🏷  —
+[2026-06-13 19:39:13 UTC] [NEW]   🆕 📦 ampls-911/enterprise-network-security-siem
+     ⭐ 0  🗣 PowerShell  📅 2026-06-13
+     🔗 https://github.com/ampls-911/enterprise-network-security-siem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 19:39:13 UTC] [NEW]   🆕 📦 furkanalp41/windowsPrivEsc
+     ⭐ 0  🗣 HTML  📅 2026-06-13
+     🔗 https://github.com/furkanalp41/windowsPrivEsc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 19:39:13 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-13 19:39:13 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (3gg)
+[2026-06-13 19:39:13 UTC] [UPD]   📢 📦 DekaPrayoga/AurixAgent
+     ⭐ 11  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/DekaPrayoga/AurixAgent
+     📝 🤖 Autonomous Multi-Agent AI Workspace in your terminal. Codes, researches, and e…
+     🏷  agent, agents, ai, ai-agent, automation, autonomous, autonomous-agents, bun, cli, langgraph, management, multi-agent-system, terminal-ui, tools, typescript, workspace
+     🔄 Motivo: repo recente (3gg)
+[2026-06-13 19:39:13 UTC] [INFO] ============================================================
+[2026-06-13 19:39:13 UTC] [INFO] Completato — 28 nuovi, 8 aggiornati, 0 errori
+[2026-06-13 19:39:13 UTC] [INFO] ============================================================
