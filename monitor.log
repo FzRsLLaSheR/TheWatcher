@@ -17204,3 +17204,116 @@
 [2026-06-13 03:57:52 UTC] [INFO] ============================================================
 [2026-06-13 03:57:52 UTC] [INFO] Completato — 23 nuovi, 9 aggiornati, 0 errori
 [2026-06-13 03:57:52 UTC] [INFO] ============================================================
+[2026-06-13 09:19:12 UTC] [INFO] ============================================================
+[2026-06-13 09:19:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-13 09:19:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-13 09:19:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-13 09:19:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-13 09:19:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-13 09:19:12 UTC] [INFO] ============================================================
+[2026-06-13 09:19:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-13 09:19:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-13 09:19:14 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-13 09:19:14 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-13 09:19:14 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-13 09:19:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-13 09:19:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-13 09:19:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 antoniocaccamo/study-plan-ccsk-v5
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/antoniocaccamo/study-plan-ccsk-v5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 gkaranz/Threat-Hunting-Scenario-TOR
+     ⭐ 0  🗣 N/A  📅 2026-06-12
+     🔗 https://github.com/gkaranz/Threat-Hunting-Scenario-TOR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 codingguru2221/Log-EDR-detection-system
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/codingguru2221/Log-EDR-detection-system
+     📝 Lightweight offline EDR prototype designed for startups and individuals. Trinetr…
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 alexhraber/metaplay-fake-interview-supply-chain-incident
+     ⭐ 0  🗣 CSS  📅 2026-06-13
+     🔗 https://github.com/alexhraber/metaplay-fake-interview-supply-chain-incident
+     📝 Defensive write-up of a fake-interview supply-chain attack using npm lifecycle e…
+     🏷  analysis, incident-response, opsec, owasp, security, supply-chain-security
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 Ferniiee/Ferniiee
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/Ferniiee/Ferniiee
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 alesanfe/gminst4ll-forensics
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/alesanfe/gminst4ll-forensics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 lholzweb/edrmhy
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/lholzweb/edrmhy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 pallavikhadse/Python-C2-Framework-Simulation
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/pallavikhadse/Python-C2-Framework-Simulation
+     📝 A modular Python-based HTTP Command and Control (C2) simulation built to analyze…
+     🏷  c2-framework, cybersecurity, edr-evasion, infrastructure, malware-analysis, network-security, python, red-team, soc, threat-hunting
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 stool01mim/edrdvu
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/stool01mim/edrdvu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 martian3062/EvolETV2
+     ⭐ 0  🗣 HTML  📅 2026-06-13
+     🔗 https://github.com/martian3062/EvolETV2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 sourceguard1/sourceguard
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/sourceguard1/sourceguard
+     📝 sourceguard.io
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 mrousweb/edrgau
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/mrousweb/edrgau
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 09:19:16 UTC] [NEW]   🆕 📦 leeclay95/purpleteam-adaptixc2-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/leeclay95/purpleteam-adaptixc2-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-13 09:19:16 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-13 09:19:16 UTC] [UPD]   📢 📦 nurkhasanov1-cmyk/winbridge
+     ⭐ 0  🗣 TypeScript  📅 2026-06-11
+     🔗 https://github.com/nurkhasanov1-cmyk/winbridge
+     📝 Consent-first Windows-to-Windows remote assistance foundation.
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-13 09:19:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-13 09:19:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-13 09:19:18 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-13 09:19:18 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-13 09:19:18 UTC] [NEW]   🆕 📦 matem6/UltraC0re
+     ⭐ 3  🗣 Lua  📅 2026-06-13
+     🔗 https://github.com/matem6/UltraC0re
+     📝 UltraC0re - a Luac0re-based userland exploit for Jak X
+     🏷  —
+[2026-06-13 09:19:18 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-13 09:19:18 UTC] [UPD]   📢 📦 DekaPrayoga/AurixAgent
+     ⭐ 10  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/DekaPrayoga/AurixAgent
+     📝 🤖 Autonomous Multi-Agent AI Workspace in your terminal. Codes, researches, and e…
+     🏷  agent, agents, ai, ai-agent, automation, autonomous, autonomous-agents, bun, cli, langgraph, management, multi-agent-system, terminal-ui, tools, typescript, workspace
+     🔄 Motivo: repo recente (3gg)
+[2026-06-13 09:19:18 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (2gg)
+[2026-06-13 09:19:18 UTC] [INFO] ============================================================
+[2026-06-13 09:19:18 UTC] [INFO] Completato — 14 nuovi, 3 aggiornati, 0 errori
+[2026-06-13 09:19:18 UTC] [INFO] ============================================================
