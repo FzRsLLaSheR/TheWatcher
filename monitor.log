@@ -17975,3 +17975,137 @@
 [2026-06-14 09:37:09 UTC] [INFO] ============================================================
 [2026-06-14 09:37:09 UTC] [INFO] Completato — 17 nuovi, 3 aggiornati, 0 errori
 [2026-06-14 09:37:09 UTC] [INFO] ============================================================
+[2026-06-14 14:06:48 UTC] [INFO] ============================================================
+[2026-06-14 14:06:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-14 14:06:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-14 14:06:48 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-14 14:06:48 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-14 14:06:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-14 14:06:48 UTC] [INFO] ============================================================
+[2026-06-14 14:06:48 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-14 14:06:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-14 14:06:50 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-14 14:06:50 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-14 14:06:50 UTC] [NEW]   🆕 📦 Dannyboy1506/Persistence.json
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/Dannyboy1506/Persistence.json
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:50 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-14 14:06:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-14 14:06:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-14 14:06:52 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 pratyushadk/threatenx
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/pratyushadk/threatenx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 shumatsumonobu/supply-chain-canary
+     ⭐ 0  🗣 HTML  📅 2026-06-14
+     🔗 https://github.com/shumatsumonobu/supply-chain-canary
+     📝 Simulated supply chain attacks in CI/CD — can cicd-sensor catch them?
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 apowrie322/edrerh
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/apowrie322/edrerh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_36
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_36
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 Pragya1602/Cybersecurity-portfolio
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/Pragya1602/Cybersecurity-portfolio
+     📝 Portfolio for IIT Kanpur's Cyber program
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 Nagesharao-Shridhar-Kunthe/Deadlock-Aware-RansomwareProof-FUSE-System
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/Nagesharao-Shridhar-Kunthe/Deadlock-Aware-RansomwareProof-FUSE-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 zainam-decodes/ACIRA-X
+     ⭐ 0  🗣 TypeScript  📅 2026-06-14
+     🔗 https://github.com/zainam-decodes/ACIRA-X
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 sigintrecon/redteam-operator-notes
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/sigintrecon/redteam-operator-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 turnden9/edrbrg
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/turnden9/edrbrg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 Red0psD3v4rsh007/defender-bypass-lnk
+     ⭐ 0  🗣 C++  📅 2026-06-14
+     🔗 https://github.com/Red0psD3v4rsh007/defender-bypass-lnk
+     📝 Bypassing Windows Defender static and dynamic analysis using polyglot images and…
+     🏷  evasion, offensive-security, polyglot, red-team, steganography
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 menotliam/Zero-Trust-x-Purple-Team-SOC-Simulation
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/menotliam/Zero-Trust-x-Purple-Team-SOC-Simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 IshwaryaLakshmiC/security-discovery-copilot
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/IshwaryaLakshmiC/security-discovery-copilot
+     📝 AI-powered SE discovery system — adaptive customer discovery, deterministic gap …
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 korchasa/awesome-ai-for-infra
+     ⭐ 0  🗣 HTML  📅 2026-06-13
+     🔗 https://github.com/korchasa/awesome-ai-for-infra
+     📝 Awesome AI for Infra — using AI to operate IT infrastructure (AIOps for DevOps/S…
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 muh4mmad0/Blu3n0ir-EDR
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/muh4mmad0/Blu3n0ir-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [NEW]   🆕 📦 markdeppe/edrsyl
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/markdeppe/edrsyl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 14:06:52 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-14 14:06:52 UTC] [UPD]   📢 📦 nurkhasanov1-cmyk/winbridge
+     ⭐ 0  🗣 TypeScript  📅 2026-06-11
+     🔗 https://github.com/nurkhasanov1-cmyk/winbridge
+     📝 Consent-first Windows-to-Windows remote assistance foundation.
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-14 14:06:52 UTC] [UPD]   📢 📦 ali-bobo/cairn
+     ⭐ 0  🗣 Rust  📅 2026-06-12
+     🔗 https://github.com/ali-bobo/cairn
+     📝 Agentless, user-space Windows live-forensics triage in a single Rust binary — EV…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-14 14:06:52 UTC] [UPD]   📢 📦 effiong-okon/windows-endpoint-threat-detection
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/effiong-okon/windows-endpoint-threat-detection
+     📝 Simulated malware compromise and SOC investigation using Wazuh EDR/SIEM, Sysmon,…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-14 14:06:52 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-14 14:06:52 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-14 14:06:54 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-14 14:06:54 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-14 14:06:54 UTC] [NEW]   🆕 📦 emirhankaplan/WindowsPE
+     ⭐ 0  🗣 TypeScript  📅 2026-06-14
+     🔗 https://github.com/emirhankaplan/WindowsPE
+     📝 Interactive Windows Privilege Escalation methodology (OSCP / CTF / red-team) — 2…
+     🏷  —
+[2026-06-14 14:06:54 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-14 14:06:54 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (3gg)
+[2026-06-14 14:06:54 UTC] [INFO] ============================================================
+[2026-06-14 14:06:54 UTC] [INFO] Completato — 17 nuovi, 4 aggiornati, 0 errori
+[2026-06-14 14:06:54 UTC] [INFO] ============================================================
