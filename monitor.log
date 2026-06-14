@@ -17686,3 +17686,164 @@
 [2026-06-13 19:39:13 UTC] [INFO] ============================================================
 [2026-06-13 19:39:13 UTC] [INFO] Completato — 28 nuovi, 8 aggiornati, 0 errori
 [2026-06-13 19:39:13 UTC] [INFO] ============================================================
+[2026-06-14 04:16:36 UTC] [INFO] ============================================================
+[2026-06-14 04:16:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-14 04:16:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-14 04:16:36 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-14 04:16:36 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-14 04:16:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-14 04:16:36 UTC] [INFO] ============================================================
+[2026-06-14 04:16:36 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-14 04:16:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-14 04:16:38 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-14 04:16:38 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-14 04:16:38 UTC] [NEW]   🆕 📦 MOUKA-513/awesome-silent-security
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/MOUKA-513/awesome-silent-security
+     📝 The art of being a ghost in the machine – curated tools & tradecraft for stealth…
+     🏷  adversary-emulation, blue-team, cyber-security, edr-evasion, hacking-tools, opsec, purple-teaming, red-teaming, threat-hunting
+[2026-06-14 04:16:38 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-14 04:16:38 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-14 04:16:38 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-14 04:16:40 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 habrok-21/RapidResponse-SOAR-EDR-Incident-Response-Automation-Workflow
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/habrok-21/RapidResponse-SOAR-EDR-Incident-Response-Automation-Workflow
+     📝 An automated Security Operations Center (SOC) workflow designed to detect malici…
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 josiahTHM/LogShark
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/josiahTHM/LogShark
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 MichaelKirbyIT/Threat-Hunt-Report-Rocky-Clinic-OpenEMR
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/MichaelKirbyIT/Threat-Hunt-Report-Rocky-Clinic-OpenEMR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 cociweb/a2dp-sink
+     ⭐ 0  🗣 C++  📅 2026-06-14
+     🔗 https://github.com/cociweb/a2dp-sink
+     📝 A2DP-Sink and A2DP-AVRCP components for ESPHome
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 MOUKA-513/awesome-silent-security
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/MOUKA-513/awesome-silent-security
+     📝 The art of being a ghost in the machine – curated tools & tradecraft for stealth…
+     🏷  adversary-emulation, blue-team, cyber-security, edr-evasion, hacking-tools, opsec, purple-teaming, red-teaming, threat-hunting
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 H1sok444/H1sok444
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/H1sok444/H1sok444
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 effiong-okon/windows-endpoint-threat-detection
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/effiong-okon/windows-endpoint-threat-detection
+     📝 Simulated malware compromise and SOC investigation using Wazuh EDR/SIEM, Sysmon,…
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 egnake/OffSploit
+     ⭐ 2  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/egnake/OffSploit
+     📝 Autonomous Red Team weapon powered by Local LLMs. Finds exploits via RAG, adapts…
+     🏷  ai, ai-agent, ai-agents, exploit, exploit-development, exploitation, exploitation-framework, exploits, msf, msfconsole, msfvenom, offsploit, ollama, payload, payload-generator, payloads, python, redteam, redteaming, redteaming-tools
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 jtomarth/edrraq
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/jtomarth/edrraq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 Blednica/DeadWraith-POC-
+     ⭐ 0  🗣 C  📅 2026-06-13
+     🔗 https://github.com/Blednica/DeadWraith-POC-
+     📝 Malware tradecraft research project focused on persistence, collection, and DFIR…
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 tyto-sec/HollowingLoader
+     ⭐ 0  🗣 C  📅 2026-06-13
+     🔗 https://github.com/tyto-sec/HollowingLoader
+     📝 Process Hollowing Loader for Implants
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 trott133/edrppr
+     ⭐ 0  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/trott133/edrppr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 lotem-g30/EDR
+     ⭐ 0  🗣 YARA  📅 2026-06-13
+     🔗 https://github.com/lotem-g30/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 Brain-yark/purpleman
+     ⭐ 0  🗣 C++  📅 2026-06-13
+     🔗 https://github.com/Brain-yark/purpleman
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:40 UTC] [NEW]   🆕 📦 lokathe98-lgtm/Cumplimiento-Normativo
+     ⭐ 0  🗣 HTML  📅 2026-06-13
+     🔗 https://github.com/lokathe98-lgtm/Cumplimiento-Normativo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:40 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-06-14 04:16:40 UTC] [UPD]   📢 📦 kareemadel4455-create/mcafee-livesafe-utility-suite
+     ⭐ 0  🗣 HTML  📅 2026-06-08
+     🔗 https://github.com/kareemadel4455-create/mcafee-livesafe-utility-suite
+     📝 McAfee LiveSafe Full Security Suite 2026 Latest Version
+     🏷  mcafee, mcafee-download, mcafee-install, mcafee-key, mcafee-livesafe, mcafee-livesafe-download, mcafee-livesafe-install, mcafee-livesafe-key, mcafee-livesafe-patch, mcafee-livesafe-software, mcafee-livesafe-trial, mcafee-patch, mcafee-software, mcafee-trial
+     🔄 Motivo: repo recente (6gg)
+[2026-06-14 04:16:40 UTC] [UPD]   📢 📦 nurkhasanov1-cmyk/winbridge
+     ⭐ 0  🗣 TypeScript  📅 2026-06-11
+     🔗 https://github.com/nurkhasanov1-cmyk/winbridge
+     📝 Consent-first Windows-to-Windows remote assistance foundation.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-14 04:16:40 UTC] [UPD]   📢 📦 codingguru2221/Log-EDR-detection-system
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/codingguru2221/Log-EDR-detection-system
+     📝 Lightweight offline EDR prototype designed for startups and individuals. Trinetr…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-14 04:16:40 UTC] [UPD]   📢 📦 0xHossam/UnCanny
+     ⭐ 9  🗣 C  📅 2026-06-13
+     🔗 https://github.com/0xHossam/UnCanny
+     📝 Another new coercion primitive with LPE 0day - machine-account NTLM coercion fro…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-14 04:16:40 UTC] [UPD]   📢 📦 sumitbsn/siem-platform
+     ⭐ 1  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/sumitbsn/siem-platform
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-14 04:16:40 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-14 04:16:40 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-14 04:16:42 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-14 04:16:42 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-06-14 04:16:42 UTC] [NEW]   🆕 📦 mikey820/cyanide
+     ⭐ 0  🗣 Objective-C  📅 2026-06-13
+     🔗 https://github.com/mikey820/cyanide
+     📝 Cyanide iOS tweak runner — private fork with Pokémon GO location-spoof fix
+     🏷  —
+[2026-06-14 04:16:42 UTC] [NEW]   🆕 📦 IsraelOlivers/linux-pentest-guide
+     ⭐ 0  🗣 Shell  📅 2026-06-14
+     🔗 https://github.com/IsraelOlivers/linux-pentest-guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:42 UTC] [NEW]   🆕 📦 s3mPr1linux/MyPlataformCyber
+     ⭐ 0  🗣 Python  📅 2026-06-13
+     🔗 https://github.com/s3mPr1linux/MyPlataformCyber
+     📝 MyPlataformCyber
+     🏷  —
+[2026-06-14 04:16:42 UTC] [NEW]   🆕 📦 the-genesis-dev/TrollInstallerX-Builder
+     ⭐ 0  🗣 C  📅 2026-06-13
+     🔗 https://github.com/the-genesis-dev/TrollInstallerX-Builder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-14 04:16:42 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-14 04:16:42 UTC] [UPD]   📢 📦 DekaPrayoga/AurixAgent
+     ⭐ 11  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/DekaPrayoga/AurixAgent
+     📝 🤖 Autonomous Multi-Agent AI Workspace in your terminal. Codes, researches, and e…
+     🏷  agent, agents, ai, ai-agent, automation, autonomous, autonomous-agents, bun, cli, langgraph, management, multi-agent-system, terminal-ui, tools, typescript, workspace
+     🔄 Motivo: repo recente (3gg)
+[2026-06-14 04:16:42 UTC] [INFO] ============================================================
+[2026-06-14 04:16:42 UTC] [INFO] Completato — 20 nuovi, 6 aggiornati, 0 errori
+[2026-06-14 04:16:42 UTC] [INFO] ============================================================
