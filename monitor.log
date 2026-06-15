@@ -18419,3 +18419,172 @@
 [2026-06-15 04:27:17 UTC] [INFO] ============================================================
 [2026-06-15 04:27:17 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
 [2026-06-15 04:27:17 UTC] [INFO] ============================================================
+[2026-06-15 12:18:51 UTC] [INFO] ============================================================
+[2026-06-15 12:18:51 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-15 12:18:51 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-15 12:18:51 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-15 12:18:51 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-15 12:18:51 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-15 12:18:51 UTC] [INFO] ============================================================
+[2026-06-15 12:18:51 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-15 12:18:51 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-15 12:18:53 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-15 12:18:53 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-15 12:18:53 UTC] [NEW]   🆕 📦 antthegreekgod/KernelDev
+     ⭐ 0  🗣 C  📅 2026-06-15
+     🔗 https://github.com/antthegreekgod/KernelDev
+     📝 Documenting My Kernel Development Journey
+     🏷  —
+[2026-06-15 12:18:53 UTC] [NEW]   🆕 📦 jahid-ekbal/cpp-forensic-engine
+     ⭐ 0  🗣 C++  📅 2026-06-15
+     🔗 https://github.com/jahid-ekbal/cpp-forensic-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:53 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-15 12:18:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-15 12:18:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-15 12:18:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 Arthur-Logeais/Arthur-Logeais.github.io
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/Arthur-Logeais/Arthur-Logeais.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 cocomelonc/whiskers
+     ⭐ 1  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/cocomelonc/whiskers
+     📝 a minimalist micro TI / SOC context panel powered by local AI + Malpedia API
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 Cyber-Fortune112/Amadey-memory-forensics
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/Cyber-Fortune112/Amadey-memory-forensics
+     📝 Memory forensics investigation using Volatility3 and malware analysis techniques…
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 AdversaryCraft/ransomware-emulator
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/AdversaryCraft/ransomware-emulator
+     📝 High‑fidelity ransomware emulator for purple teams. Simulates Qilin/LockBit TTPs…
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 soshk-csu/mde-wsl2-poc
+     ⭐ 0  🗣 PowerShell  📅 2026-06-15
+     🔗 https://github.com/soshk-csu/mde-wsl2-poc
+     📝 Microsoft Defender for Endpoint WSL2 PoC
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 SamiAdamMoughli/Batin
+     ⭐ 0  🗣 Rust  📅 2026-06-15
+     🔗 https://github.com/SamiAdamMoughli/Batin
+     📝 Windows syscall evasion stack in Rust — Hell's Gate, Halo's Gate, indirect sysca…
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 neronain/web_xcitium
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/neronain/web_xcitium
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 nadeznamorris/Threat-Hunting-Scenario-Dead-In-The-Water
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/nadeznamorris/Threat-Hunting-Scenario-Dead-In-The-Water
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 0xMsecurity/merge
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/0xMsecurity/merge
+     📝 merge is a binary binder: a tool that takes two independently compiled Linux ELF…
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 oziomainya/endpoint-security-assessment
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/oziomainya/endpoint-security-assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 supantadutta/automated-soc
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/supantadutta/automated-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 sleepguys4d/sleepguys4d.github.io
+     ⭐ 0  🗣 TypeScript  📅 2026-06-15
+     🔗 https://github.com/sleepguys4d/sleepguys4d.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 willieporter/edrscx
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/willieporter/edrscx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 jjhhhkkj/IT----Web-
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/jjhhhkkj/IT----Web-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 lauratobit/edrgsg
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/lauratobit/edrgsg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 EXAEE/Mythos-5-cracked-
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/EXAEE/Mythos-5-cracked-
+     📝 Not released yet, stolen pre-release version of Mythos 5 (with crack pre-install…
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 sanchezbelitocalet-ctrl/PA3-CALET-EDRIAM-SANCHEZ-BELITO
+     ⭐ 0  🗣 CSS  📅 2026-06-15
+     🔗 https://github.com/sanchezbelitocalet-ctrl/PA3-CALET-EDRIAM-SANCHEZ-BELITO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 nadeznamorris/Threat-Hunting-Scenario-Bridge-Takeover
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/nadeznamorris/Threat-Hunting-Scenario-Bridge-Takeover
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [NEW]   🆕 📦 Sagarcorporation8845/Incident-Responder
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/Sagarcorporation8845/Incident-Responder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:56 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-15 12:18:56 UTC] [UPD]   📢 📦 Zulut30/hsreplay-deck-view
+     ⭐ 0  🗣 JavaScript  📅 2026-06-14
+     🔗 https://github.com/Zulut30/hsreplay-deck-view
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-15 12:18:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-15 12:18:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-15 12:18:58 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-15 12:18:58 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-15 12:18:58 UTC] [NEW]   🆕 📦 Arthur-Logeais/Arthur-Logeais.github.io
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/Arthur-Logeais/Arthur-Logeais.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 12:18:58 UTC] [NEW]   🆕 📦 1o1swapnil/tzar-bot
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/1o1swapnil/tzar-bot
+     📝 AI-powered penetration-testing automation platform — Claude Code skills + multi-…
+     🏷  ai-agents, bug-bounty, claude-code, kali-linux, offensive-security, penetration-testing, pentesting, red-team, security, security-automation
+[2026-06-15 12:18:58 UTC] [NEW]   🆕 📦 mhxoo/Solace-Execution-Framework
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/mhxoo/Solace-Execution-Framework
+     📝 Best Roblox Script Hub for Advanced Exploits & Automation 2026
+     🏷  adopt-me-script-spawn-pets, blox-fruits-script-all-fruits, clanning, exploit-development, exploit-scripts, exploiting, exploits, kernel-exploitation, key-system, lua-language, oxygen-v2-download, pet-finder, roblox-combat, roblox-generation, roblox-scripting-tutorials, script-execution, script-hub, scripthub, scriptware, wearedevs
+[2026-06-15 12:18:58 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-15 12:18:58 UTC] [UPD]   📢 📦 bob-reis/Pentest-AI
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/bob-reis/Pentest-AI
+     📝 Uma automação de pentest baseado em agentes de IA
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-15 12:18:58 UTC] [UPD]   📢 📦 DekaPrayoga/AurixAgent
+     ⭐ 13  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/DekaPrayoga/AurixAgent
+     📝 🤖 Autonomous Multi-Agent AI Workspace in your terminal. Codes, researches, and e…
+     🏷  agent, agents, ai, ai-agent, automation, autonomous, autonomous-agents, bun, cli, langgraph, management, multi-agent-system, terminal-ui, tools, typescript, workspace
+     🔄 Motivo: repo recente (5gg)
+[2026-06-15 12:18:58 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (4gg)
+[2026-06-15 12:18:58 UTC] [INFO] ============================================================
+[2026-06-15 12:18:58 UTC] [INFO] Completato — 24 nuovi, 4 aggiornati, 0 errori
+[2026-06-15 12:18:58 UTC] [INFO] ============================================================
