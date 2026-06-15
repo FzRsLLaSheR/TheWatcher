@@ -18588,3 +18588,298 @@
 [2026-06-15 12:18:58 UTC] [INFO] ============================================================
 [2026-06-15 12:18:58 UTC] [INFO] Completato — 24 nuovi, 4 aggiornati, 0 errori
 [2026-06-15 12:18:58 UTC] [INFO] ============================================================
+[2026-06-15 20:57:00 UTC] [INFO] ============================================================
+[2026-06-15 20:57:00 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-15 20:57:00 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-15 20:57:00 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-15 20:57:00 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-15 20:57:00 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-15 20:57:00 UTC] [INFO] ============================================================
+[2026-06-15 20:57:00 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-15 20:57:00 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-15 20:57:02 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-15 20:57:02 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-15 20:57:02 UTC] [NEW]   🆕 📦 tihomirocrew/cve-2026-3437
+     ⭐ 0  🗣 C++  📅 2026-06-15
+     🔗 https://github.com/tihomirocrew/cve-2026-3437
+     📝 Arbitrary physical memory read/write in portwell.sys
+     🏷  —
+[2026-06-15 20:57:02 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-15 20:57:02 UTC] [UPD]   📢 📦 Barnes70/TLCTC
+     ⭐ 2  🗣 HTML  📅 2026-02-14
+     🔗 https://github.com/Barnes70/TLCTC
+     📝 Top Level Cyber Threat Clusters Reference
+     🏷  cyber, cyber-threat-intelligence, cybersec, cyberthreats, mitre-attack, mitre-cwe, nist-csf, okf, risk-management, sarif, sigma, soar, sonarcloud, sonarqube
+     🔄 Motivo: nuovi topic: sarif, sigma, okf
+[2026-06-15 20:57:02 UTC] [UPD]   📢 📦 azdabat/Threat-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-06-12
+     🔗 https://github.com/azdabat/Threat-Hunting
+     📝 Threat Hunting Methadologies and approach to Investigating advanced Threat  Vect…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-15 20:57:02 UTC] [UPD]   📢 📦 antthegreekgod/KernelDev
+     ⭐ 0  🗣 C  📅 2026-06-15
+     🔗 https://github.com/antthegreekgod/KernelDev
+     📝 Documenting My Kernel Development Journey
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-15 20:57:02 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-15 20:57:02 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-15 20:57:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 39 NUOVI repository:
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 karimfan/twins
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/karimfan/twins
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Bansi1701/netgenx-website
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/Bansi1701/netgenx-website
+     📝 NetGenX — cinematic enterprise IT website (Cybersecurity, Network, PAM, IDAM, Se…
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 oabdrabo/homebrew-tap
+     ⭐ 0  🗣 Ruby  📅 2026-06-15
+     🔗 https://github.com/oabdrabo/homebrew-tap
+     📝 Homebrew tap for DisplayDisabler
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Otrivinish/dfir-fenrir-v2
+     ⭐ 0  🗣 JavaScript  📅 2026-06-15
+     🔗 https://github.com/Otrivinish/dfir-fenrir-v2
+     📝 A containerized Digital Forensic and Incident Response platform, used by forensi…
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 ninjadig/Titus-CybersecurityLLM-v1.0-mlx-4Bit
+     ⭐ 0  🗣 Jinja  📅 2026-06-15
+     🔗 https://github.com/ninjadig/Titus-CybersecurityLLM-v1.0-mlx-4Bit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 gordibus/malware_dev
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/gordibus/malware_dev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Fuzzdkk/dexor
+     ⭐ 1  🗣 Rust  📅 2026-06-15
+     🔗 https://github.com/Fuzzdkk/dexor
+     📝 Tiny portable GUI to XOR-decode AV/EDR quarantine files back to the original, ru…
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 crboyd/agentic-soc
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/crboyd/agentic-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 sanjay-kumarrs/Patch_management
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/sanjay-kumarrs/Patch_management
+     📝 A static Cybersecurity Patch Management and Device Hardening tool
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 jordanwangwork0128/macos-mdm-lab
+     ⭐ 1  🗣 Shell  📅 2026-06-15
+     🔗 https://github.com/jordanwangwork0128/macos-mdm-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 PhemcodeJay/GhostHarvester-Labs
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/PhemcodeJay/GhostHarvester-Labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 sleepguys4d/socexpert-s4d-update
+     ⭐ 0  🗣 TypeScript  📅 2026-06-15
+     🔗 https://github.com/sleepguys4d/socexpert-s4d-update
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 drockfree0-collab/aether-ghost
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/drockfree0-collab/aether-ghost
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 ts444/msp-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/ts444/msp-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 mooolight/IncaSight
+     ⭐ 1  🗣 C++  📅 2026-06-15
+     🔗 https://github.com/mooolight/IncaSight
+     📝 Custom EDR for testing some malware evasion techniques.
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 DeepPrajapati1580/DeepPrajapati1580
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/DeepPrajapati1580/DeepPrajapati1580
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Anilsai7/cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/Anilsai7/cybersecurity-portfolio
+     📝 Hands-on cybersecurity labs proving every skill on my resume
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Dark-Knight-Ash/Keylogger-Fileless-Malware-Detector-Tool
+     ⭐ 1  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/Dark-Knight-Ash/Keylogger-Fileless-Malware-Detector-Tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Peter-Kintu/pentest
+     ⭐ 0  🗣 CSS  📅 2026-06-15
+     🔗 https://github.com/Peter-Kintu/pentest
+     📝 pentest
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 bbozyokus/FastClientCheck
+     ⭐ 0  🗣 PowerShell  📅 2026-06-15
+     🔗 https://github.com/bbozyokus/FastClientCheck
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 tonecapon3/attackerbot2
+     ⭐ 0  🗣 JavaScript  📅 2026-06-15
+     🔗 https://github.com/tonecapon3/attackerbot2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 ItamarRosen/hunter
+     ⭐ 1  🗣 HTML  📅 2026-06-14
+     🔗 https://github.com/ItamarRosen/hunter
+     📝 Autonomous threat-hunting reasoning engine - derives adversary objectives from a…
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 internship-projects-hub/Data-Exfiltration-Detection-Engine
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/internship-projects-hub/Data-Exfiltration-Detection-Engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Zypherion-Technologies/HallWatch
+     ⭐ 7  🗣 C++  📅 2026-06-15
+     🔗 https://github.com/Zypherion-Technologies/HallWatch
+     📝 Usermode detector that catches indirect syscalls. Traps Hell's Hall, Tartarus' G…
+     🏷  blueteam, indirect-syscall, indirect-syscalls, threat-detection, threat-intelligence
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 DevCoder-7/FlagWarden
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/DevCoder-7/FlagWarden
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Elijahtho2/cybersecurity-labs
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/Elijahtho2/cybersecurity-labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Alex6092/ClassroomMonitoring
+     ⭐ 0  🗣 C#  📅 2026-06-15
+     🔗 https://github.com/Alex6092/ClassroomMonitoring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 midhunrajcharles/SENTINEL_
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/midhunrajcharles/SENTINEL_
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Sqaryyy/EDR-AI
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/Sqaryyy/EDR-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 vsenthil7/sentinelai-splunk
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/vsenthil7/sentinelai-splunk
+     📝 SentinelAI - Agentic Threat Detection & IR on Splunk (Splunk Agentic Ops Hackath…
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 amos-indwar/ai-portfolio-amos
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/amos-indwar/ai-portfolio-amos
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Siddartha-90/Walthrough_lab-by-TryHackme
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/Siddartha-90/Walthrough_lab-by-TryHackme
+     📝 This repo's my personal record for study
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 jonathan-dotcom/jonathan-dotcom
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/jonathan-dotcom/jonathan-dotcom
+     📝 My GitHub profile
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 antthegreekgod/KernelDev
+     ⭐ 0  🗣 C  📅 2026-06-15
+     🔗 https://github.com/antthegreekgod/KernelDev
+     📝 Documenting My Kernel Development Journey
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 munnep/terraform_stacks_aws_kubernetes_example
+     ⭐ 0  🗣 HCL  📅 2026-06-15
+     🔗 https://github.com/munnep/terraform_stacks_aws_kubernetes_example
+     📝 terraform_stacks_aws_kubernetes_example
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 Mihai-Go/soar-suite
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/Mihai-Go/soar-suite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 shaniesadan/detect-ai
+     ⭐ 1  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/shaniesadan/detect-ai
+     📝 Detection rule generator — Sigma rules, MITRE ATT&CK mapping, Atomic Red Team te…
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 CauanDZN/ps-remote-play-analysis
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/CauanDZN/ps-remote-play-analysis
+     📝 Script para analisar se a máquina consegue se conectar com o PS Remote Play com …
+     🏷  —
+[2026-06-15 20:57:05 UTC] [NEW]   🆕 📦 CIR4FUN-EU/edc-client
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/CIR4FUN-EU/edc-client
+     📝 OpenAPI generated client for the eclipse dataspace connector 
+     🏷  —
+[2026-06-15 20:57:05 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-15 20:57:05 UTC] [UPD]   📢 📦 cyberdome80/Windows-Threat-Hunting-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/cyberdome80/Windows-Threat-Hunting-Lab
+     📝 End-to-end ransomware simulation, Sysmon log collection, and automated D&R engin…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-15 20:57:05 UTC] [UPD]   📢 📦 KodenameRed/Aegis-Overwatch-Public
+     ⭐ 0  🗣 HTML  📅 2026-06-14
+     🔗 https://github.com/KodenameRed/Aegis-Overwatch-Public
+     📝 Aegis Overwatch v8.2 Compiled Release  Zero-Trust EDR/XDR with Execution Triad h…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-15 20:57:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-15 20:57:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-15 20:57:07 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-15 20:57:07 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-15 20:57:07 UTC] [NEW]   🆕 📦 msrenan/malwares
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/msrenan/malwares
+     📝 This repository contains my study about malwares. 
+     🏷  —
+[2026-06-15 20:57:07 UTC] [NEW]   🆕 📦 ericrihm/qolsys-homeassistant
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/ericrihm/qolsys-homeassistant
+     📝 Root your Qolsys IQ Panel 2+ wirelessly via BlueBorne and integrate with Home As…
+     🏷  —
+[2026-06-15 20:57:07 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-06-15 20:57:07 UTC] [UPD]   📢 📦 mhxoo/Solace-Execution-Framework
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/mhxoo/Solace-Execution-Framework
+     📝 Best Roblox Script Hub for Advanced Exploits & Automation 2026
+     🏷  adopt-me-script-spawn-pets, blox-fruits-script-all-fruits, clanning, exploit-development, exploit-scripts, exploiting, exploits, kernel-exploitation, key-system, lua-language, oxygen-v2-download, pet-finder, roblox-combat, roblox-generation, roblox-scripting-tutorials, script-execution, script-hub, scripthub, scriptware, wearedevs
+     🔄 Motivo: repo recente (0gg)
+[2026-06-15 20:57:07 UTC] [UPD]   📢 📦 jagreehal/sandbox-node
+     ⭐ 0  🗣 TypeScript  📅 2026-06-10
+     🔗 https://github.com/jagreehal/sandbox-node
+     📝 Run npm/pnpm/yarn/bun installs and dev commands in a Docker/Podman sandbox: life…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-15 20:57:07 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (5gg)
+[2026-06-15 20:57:07 UTC] [UPD]   📢 📦 bob-reis/Pentest-AI
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/bob-reis/Pentest-AI
+     📝 Uma automação de pentest baseado em agentes de IA
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-15 20:57:07 UTC] [UPD]   📢 📦 Arthur-Logeais/Arthur-Logeais.github.io
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/Arthur-Logeais/Arthur-Logeais.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-15 20:57:07 UTC] [INFO] ============================================================
+[2026-06-15 20:57:07 UTC] [INFO] Completato — 42 nuovi, 10 aggiornati, 0 errori
+[2026-06-15 20:57:07 UTC] [INFO] ============================================================
