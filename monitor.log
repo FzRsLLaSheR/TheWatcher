@@ -18272,3 +18272,150 @@
 [2026-06-14 19:38:48 UTC] [INFO] ============================================================
 [2026-06-14 19:38:48 UTC] [INFO] Completato — 24 nuovi, 3 aggiornati, 0 errori
 [2026-06-14 19:38:48 UTC] [INFO] ============================================================
+[2026-06-15 04:27:10 UTC] [INFO] ============================================================
+[2026-06-15 04:27:10 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-15 04:27:10 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-15 04:27:10 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-15 04:27:10 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-15 04:27:10 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-15 04:27:10 UTC] [INFO] ============================================================
+[2026-06-15 04:27:10 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-15 04:27:10 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-15 04:27:12 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-15 04:27:12 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-15 04:27:12 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-15 04:27:12 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-15 04:27:12 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-15 04:27:15 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 Stulloch1/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/Stulloch1/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 Kjean13/stealerxhunter
+     ⭐ 1  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/Kjean13/stealerxhunter
+     📝 Strict local anti-infostealer hardening for Linux and Windows.
+     🏷  anti-infostealers, cybersecurity, endpoint-security, infostealers, linux, malaware-detection, threat-detection, windows
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 1vivy/oplus-camera-testbench
+     ⭐ 0  🗣 JavaScript  📅 2026-06-15
+     🔗 https://github.com/1vivy/oplus-camera-testbench
+     📝 OnePlus camera-port OOS<->LOS bringup testbench: capture harness, OTA-resilient …
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 Wonderwhi/Project-Morph
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/Wonderwhi/Project-Morph
+     📝 A cyber security defense and attack use of AI
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 Anjaliiipatel/Mini-EDR
+     ⭐ 0  🗣 C++  📅 2026-06-15
+     🔗 https://github.com/Anjaliiipatel/Mini-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 KripeshKhatiwada/EDR
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/KripeshKhatiwada/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 jmay22/Azure-IaaS-deployment
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/jmay22/Azure-IaaS-deployment
+     📝 build a classic "IaaS" architecture.Made a Virtual Network with two subnets: a "…
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 Saitamaxqi/defuse
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/Saitamaxqi/defuse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 oxsyoe/jock-jacker
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/oxsyoe/jock-jacker
+     📝 💀 JOCK-JACKER - Advanced Offensive Security Framework. Network discovery, LLMNR …
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 avikahana/avikahana
+     ⭐ 1  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/avikahana/avikahana
+     📝 Public profile
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 KodenameRed/Aegis-Overwatch-Public
+     ⭐ 0  🗣 Batchfile  📅 2026-06-14
+     🔗 https://github.com/KodenameRed/Aegis-Overwatch-Public
+     📝 Aegis Overwatch v8.2 Compiled Release  Zero-Trust EDR/XDR with Execution Triad h…
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 Tx-Bovo/automated-threat-intel-pipeline
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/Tx-Bovo/automated-threat-intel-pipeline
+     📝 Pipeline de SOAR automatizado para resposta a incidentes com n8n e Wazuh. Enriqu…
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 TheCROWNV12/NexusInjector
+     ⭐ 0  🗣 C++  📅 2026-06-14
+     🔗 https://github.com/TheCROWNV12/NexusInjector
+     📝 A low-level C++ framework demonstrating user-land EDR evasion through dynamic PE…
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 actions-marketplace-validations/anwen-labs_sentinel
+     ⭐ 0  🗣 Rust  📅 2026-06-14
+     🔗 https://github.com/actions-marketplace-validations/anwen-labs_sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 ShadowStackRe/ShadowStackAI
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/ShadowStackRe/ShadowStackAI
+     📝 Discover and remediate Shadow AI infrastructure
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 AdrianDie/edra-redesign
+     ⭐ 0  🗣 HTML  📅 2026-06-14
+     🔗 https://github.com/AdrianDie/edra-redesign
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 cyberdome80/Windows-Threat-Hunting-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/cyberdome80/Windows-Threat-Hunting-Lab
+     📝 End-to-end ransomware simulation, Sysmon log collection, and automated D&R engin…
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 EddiePrince24/wazuh-cyber-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-14
+     🔗 https://github.com/EddiePrince24/wazuh-cyber-lab
+     📝 Built an enterprise-grade Security Operations Center (SOC) telemetry pipeline to…
+     🏷  —
+[2026-06-15 04:27:15 UTC] [NEW]   🆕 📦 apj396/payload-obfuscation-framework
+     ⭐ 0  🗣 Python  📅 2026-06-14
+     🔗 https://github.com/apj396/payload-obfuscation-framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 04:27:15 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-15 04:27:15 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-15 04:27:15 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-15 04:27:16 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-15 04:27:17 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-15 04:27:17 UTC] [NEW]   🆕 📦 suryagandhan/SOC-Splunk-Project
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/suryagandhan/SOC-Splunk-Project
+     📝 SOC Threat Detection Lab using Splunk SIEM — Apache Struts2 RCE Investigation
+     🏷  —
+[2026-06-15 04:27:17 UTC] [NEW]   🆕 📦 bob-reis/Pentest-AI
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/bob-reis/Pentest-AI
+     📝 Uma automação de pentest baseado em agentes de IA
+     🏷  —
+[2026-06-15 04:27:17 UTC] [NEW]   🆕 📦 gamestation4/ps4v3
+     ⭐ 0  🗣 JavaScript  📅 2026-06-14
+     🔗 https://github.com/gamestation4/ps4v3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-15 04:27:17 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-15 04:27:17 UTC] [UPD]   📢 📦 DekaPrayoga/AurixAgent
+     ⭐ 12  🗣 Python  📅 2026-06-10
+     🔗 https://github.com/DekaPrayoga/AurixAgent
+     📝 🤖 Autonomous Multi-Agent AI Workspace in your terminal. Codes, researches, and e…
+     🏷  agent, agents, ai, ai-agent, automation, autonomous, autonomous-agents, bun, cli, langgraph, management, multi-agent-system, terminal-ui, tools, typescript, workspace
+     🔄 Motivo: repo recente (5gg)
+[2026-06-15 04:27:17 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (4gg)
+[2026-06-15 04:27:17 UTC] [INFO] ============================================================
+[2026-06-15 04:27:17 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
+[2026-06-15 04:27:17 UTC] [INFO] ============================================================
