@@ -18883,3 +18883,173 @@
 [2026-06-15 20:57:07 UTC] [INFO] ============================================================
 [2026-06-15 20:57:07 UTC] [INFO] Completato — 42 nuovi, 10 aggiornati, 0 errori
 [2026-06-15 20:57:07 UTC] [INFO] ============================================================
+[2026-06-16 04:23:07 UTC] [INFO] ============================================================
+[2026-06-16 04:23:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-16 04:23:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-16 04:23:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-16 04:23:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-16 04:23:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-16 04:23:07 UTC] [INFO] ============================================================
+[2026-06-16 04:23:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-16 04:23:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-16 04:23:09 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-16 04:23:09 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-16 04:23:09 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-16 04:23:09 UTC] [UPD]   📢 📦 MOUKA-513/awesome-silent-security
+     ⭐ 1  🗣 N/A  📅 2026-06-13
+     🔗 https://github.com/MOUKA-513/awesome-silent-security
+     📝 The art of being a ghost in the machine – curated tools & tradecraft for stealth…
+     🏷  adversary-emulation, blue-team, cyber-security, edr-evasion, hacking-tools, opsec, purple-teaming, red-teaming, threat-hunting
+     🔄 Motivo: repo recente (2gg)
+[2026-06-16 04:23:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-16 04:23:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-16 04:23:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 Sai-eh/CRYPTOGUARD-EDR
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/Sai-eh/CRYPTOGUARD-EDR
+     📝 A real-time Defensive EDR tool written in Python that monitors directory activit…
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 bibo318/Redteam-dmg
+     ⭐ 0  🗣 Python  📅 2026-06-16
+     🔗 https://github.com/bibo318/Redteam-dmg
+     📝 All in
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 JoyYoungAI/EnterOcto
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/JoyYoungAI/EnterOcto
+     📝 Open-source shadow AI agent detection, runtime forensics, and evidence response …
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 Het123456/Het123456
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/Het123456/Het123456
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 mojlnmijh/-_-_--it
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/mojlnmijh/-_-_--it
+     📝 大型资源网97it.top
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 0-bilal/QB-DUO
+     ⭐ 0  🗣 JavaScript  📅 2026-06-16
+     🔗 https://github.com/0-bilal/QB-DUO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 MallelaShashi/malware-analysis-limacharlie-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/MallelaShashi/malware-analysis-limacharlie-lab
+     📝 End-to-end malware attack simulation & EDR detection lab using LimaCharlie, Meta…
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 rcollins6280172569485/event-pipeline-edrcej5b
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/rcollins6280172569485/event-pipeline-edrcej5b
+     📝 Queue processing experiments with retries and dead-letter handling.
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 Kanhay-Thakore/Agentic-AI-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/Kanhay-Thakore/Agentic-AI-SOC-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 devadharshini84851-gif/AI-Infused-Threat-Detection-and-Incident-Response-System
+     ⭐ 0  🗣 Python  📅 2026-06-16
+     🔗 https://github.com/devadharshini84851-gif/AI-Infused-Threat-Detection-and-Incident-Response-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 JacobScaletta/heat-exchanger-optimizer
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-16
+     🔗 https://github.com/JacobScaletta/heat-exchanger-optimizer
+     📝 Shell-and-tube heat exchanger design optimizer with fouling prediction and clean…
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 AmintheGHOUL/GHOULSec-HomeLab
+     ⭐ 0  🗣 PowerShell  📅 2026-06-15
+     🔗 https://github.com/AmintheGHOUL/GHOULSec-HomeLab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 GiovanneRocha/Tool-Tech
+     ⭐ 0  🗣 HTML  📅 2026-06-16
+     🔗 https://github.com/GiovanneRocha/Tool-Tech
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 adaka-security/applied-ai-projects
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/adaka-security/applied-ai-projects
+     📝 Applied AI Engineering portfolio — agentic systems, Generative AI, RAG pipelines…
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 edriss-lgtm/edriss
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/edriss-lgtm/edriss
+     📝 cree un site web
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 TFD-42/Auto_Shell_Local
+     ⭐ 0  🗣 Python  📅 2026-06-15
+     🔗 https://github.com/TFD-42/Auto_Shell_Local
+     📝 Base_Shell_Auto_Local v2 is a reverse shell factory toolkit for red teams. It ge…
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 edrianm230-hue/Edrian-Morales
+     ⭐ 0  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/edrianm230-hue/Edrian-Morales
+     📝 AAAD
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 home-beekeeper/pollen
+     ⭐ 0  🗣 Go  📅 2026-06-15
+     🔗 https://github.com/home-beekeeper/pollen
+     📝 Pollen: Windows-support package scanner fallback for Beekeeper (fork of perplexi…
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 shodzery/ShodTeam-Cibersecurity-Guide
+     ⭐ 2  🗣 N/A  📅 2026-06-15
+     🔗 https://github.com/shodzery/ShodTeam-Cibersecurity-Guide
+     📝 learn ethical hacking, networking, Linux, red team and blue team skills through …
+     🏷  —
+[2026-06-16 04:23:12 UTC] [NEW]   🆕 📦 gyaljen123-sudo/ai-soc-analyst-assistant
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/gyaljen123-sudo/ai-soc-analyst-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-16 04:23:12 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-16 04:23:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-16 04:23:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-16 04:23:14 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-16 04:23:14 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-16 04:23:14 UTC] [NEW]   🆕 📦 HanifAthalla/Cisometric-Academy-CTF
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/HanifAthalla/Cisometric-Academy-CTF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-16 04:23:14 UTC] [NEW]   🆕 📦 tech3space/Ankitkushwaha
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/tech3space/Ankitkushwaha
+     📝 Cybersecurity Researcher & Systems Engineer | Tech3Space Offensive Security • De…
+     🏷  —
+[2026-06-16 04:23:14 UTC] [NEW]   🆕 📦 SaouraGames/960
+     ⭐ 0  🗣 JavaScript  📅 2026-06-15
+     🔗 https://github.com/SaouraGames/960
+     📝 PS4 Jailbreak 960
+     🏷  —
+[2026-06-16 04:23:14 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-16 04:23:14 UTC] [UPD]   📢 📦 mhxoo/Solace-Execution-Framework
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/mhxoo/Solace-Execution-Framework
+     📝 Best Roblox Script Hub for Advanced Exploits & Automation 2026
+     🏷  adopt-me-script-spawn-pets, blox-fruits-script-all-fruits, clanning, exploit-development, exploit-scripts, exploiting, exploits, kernel-exploitation, key-system, lua-language, oxygen-v2-download, pet-finder, roblox-combat, roblox-generation, roblox-scripting-tutorials, script-execution, script-hub, scripthub, scriptware, wearedevs
+     🔄 Motivo: repo recente (0gg)
+[2026-06-16 04:23:14 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (5gg)
+[2026-06-16 04:23:14 UTC] [UPD]   📢 📦 NexusOne23/noid-privacy-workstation
+     ⭐ 0  🗣 Kickstart  📅 2026-06-14
+     🔗 https://github.com/NexusOne23/noid-privacy-workstation
+     📝 🛡️ Fully-hardened Security & Privacy OS based on Fedora 44 + GNOME · for Dev, Ad…
+     🏷  ai-linux-distro, cybersecurity, desktop-security, fedora, gnome, hardening, kickstart, linux, linux-distro, linux-hardening, linux-security, luks, noid-privacy, privacy, privacy-tools, secure-boot, security, selinux, system-hardening
+     🔄 Motivo: repo recente (1gg)
+[2026-06-16 04:23:14 UTC] [UPD]   📢 📦 jagreehal/sandbox-node
+     ⭐ 0  🗣 TypeScript  📅 2026-06-10
+     🔗 https://github.com/jagreehal/sandbox-node
+     📝 Run npm/pnpm/yarn/bun installs and dev commands in a Docker/Podman sandbox: life…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-16 04:23:14 UTC] [INFO] ============================================================
+[2026-06-16 04:23:14 UTC] [INFO] Completato — 23 nuovi, 5 aggiornati, 0 errori
+[2026-06-16 04:23:14 UTC] [INFO] ============================================================
