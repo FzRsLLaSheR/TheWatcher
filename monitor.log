@@ -19594,3 +19594,176 @@
 [2026-06-16 20:53:37 UTC] [INFO] ============================================================
 [2026-06-16 20:53:37 UTC] [INFO] Completato — 24 nuovi, 6 aggiornati, 0 errori
 [2026-06-16 20:53:37 UTC] [INFO] ============================================================
+[2026-06-17 04:17:57 UTC] [INFO] ============================================================
+[2026-06-17 04:17:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-17 04:17:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-17 04:17:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-17 04:17:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-17 04:17:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-17 04:17:57 UTC] [INFO] ============================================================
+[2026-06-17 04:17:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-17 04:17:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-17 04:17:59 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-17 04:17:59 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-17 04:17:59 UTC] [NEW]   🆕 📦 AmenHermano144/Windows-Code-Integrity-ci.dll-skci.dll-Vulnerability-Research
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/AmenHermano144/Windows-Code-Integrity-ci.dll-skci.dll-Vulnerability-Research
+     📝 Windows Code Integrity (ci.dll / skci.dll) — Vulnerability Research
+     🏷  —
+[2026-06-17 04:17:59 UTC] [NEW]   🆕 📦 AmenHermano144/ASUS-WinRing0-AsusNBRing0-UNRESTRICTED-Physical-R-W
+     ⭐ 0  🗣 C++  📅 2026-06-16
+     🔗 https://github.com/AmenHermano144/ASUS-WinRing0-AsusNBRing0-UNRESTRICTED-Physical-R-W
+     📝 ASUS WinRing0 (AsusNBRing0) — UNRESTRICTED Physical R/W REPORTED TO MICROSOFT 
+     🏷  —
+[2026-06-17 04:17:59 UTC] [NEW]   🆕 📦 AmenHermano144/CPU-Z-v1.60-Vulnerable-Driver
+     ⭐ 0  🗣 C++  📅 2026-06-16
+     🔗 https://github.com/AmenHermano144/CPU-Z-v1.60-Vulnerable-Driver
+     📝 cpuz160_x64.sys — CPU-Z v1.60 Vulnerable Driver 
+     🏷  —
+[2026-06-17 04:17:59 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-17 04:17:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-17 04:17:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-17 04:18:02 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 jakeloai/Hardcore-OffSec-Hub
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/jakeloai/Hardcore-OffSec-Hub
+     📝 My Learning Journey
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 CDdirectory-official/F4us
+     ⭐ 0  🗣 C  📅 2026-06-17
+     🔗 https://github.com/CDdirectory-official/F4us
+     📝 early antivirus source 
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 sfazliddinov385/defender-detection-engineering-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/sfazliddinov385/defender-detection-engineering-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 ThomasUweMohr/session-hijacking-cookie-theft
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/ThomasUweMohr/session-hijacking-cookie-theft
+     📝 Educational demo of session hijacking via stolen browser cookies — reverse shell…
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 jdautell/M06-HIV1-Protease-MK1-MD-Pipeline
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/jdautell/M06-HIV1-Protease-MK1-MD-Pipeline
+     📝 GROMACS + CHARMM-GUI molecular dynamics pipeline for the HIV-1 protease in compl…
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 rainfantry/vader-library
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/rainfantry/vader-library
+     📝 Forbidden Knowledge Archive — 67 chapters of offensive security doctrine across …
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 maccoderre/incident-response-healthsecure
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/maccoderre/incident-response-healthsecure
+     📝 Full incident response investigation following NIST SP 800-61 for a simulated he…
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 adityagundure/Enterprise-Active-Directory-Attack-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/adityagundure/Enterprise-Active-Directory-Attack-Detection-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 OmarSherif01/-Security-Playbook-Development-Project-
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/OmarSherif01/-Security-Playbook-Development-Project-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 sandraincyber/why-process-trees-matter-more-than-malware-names
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/sandraincyber/why-process-trees-matter-more-than-malware-names
+     📝 Detection engineering and incident response perspectives on why process trees of…
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 fritzg06/fritzg06
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/fritzg06/fritzg06
+     📝 My Personal Repository
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 cyber-brian/start-closest-to-yourself
+     ⭐ 1  🗣 Shell  📅 2026-06-17
+     🔗 https://github.com/cyber-brian/start-closest-to-yourself
+     📝 Build a production-grade security program on the network you already own. Free t…
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 patsaade/personal-portfolio
+     ⭐ 0  🗣 Astro  📅 2026-06-16
+     🔗 https://github.com/patsaade/personal-portfolio
+     📝 DFIR portfolio & blog — forensics & IR writeups.
+     🏷  cybersecurity, dfir, digital-forensics, incident-response, portfolio
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 cyber-brian/apt-detection-rules
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/cyber-brian/apt-detection-rules
+     📝 Sigma rules to detect various threat actors
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 phillip-olusegun/Threat-Hunting-Investigation-Tor-Browser-Usage
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/phillip-olusegun/Threat-Hunting-Investigation-Tor-Browser-Usage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 anatolie-ernu/wazuh-lab-ernu-sec
+     ⭐ 0  🗣 Python  📅 2026-06-16
+     🔗 https://github.com/anatolie-ernu/wazuh-lab-ernu-sec
+     📝 WAZUH EDR · SIEM · XDR COMPLETE LAB GUIDE
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 rainfantry/asf-counterintel
+     ⭐ 0  🗣 C  📅 2026-06-16
+     🔗 https://github.com/rainfantry/asf-counterintel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 AmenHermano144/Windows-Code-Integrity-ci.dll-skci.dll-Vulnerability-Research
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/AmenHermano144/Windows-Code-Integrity-ci.dll-skci.dll-Vulnerability-Research
+     📝 Windows Code Integrity (ci.dll / skci.dll) — Vulnerability Research
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 JourneyJ11/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/JourneyJ11/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 goubx/sentinel-bruteforce-detection-ir
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/goubx/sentinel-bruteforce-detection-ir
+     📝 Building a brute force detection rule in Microsoft Sentinel and working the resu…
+     🏷  brute, brute-force-de, kql, microsoft-sentinel, nist-800-61, nsg-containment
+[2026-06-17 04:18:02 UTC] [NEW]   🆕 📦 Susheel99/Susheel99
+     ⭐ 0  🗣 N/A  📅 2026-06-16
+     🔗 https://github.com/Susheel99/Susheel99
+     📝 GitHub profile README
+     🏷  —
+[2026-06-17 04:18:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-17 04:18:02 UTC] [UPD]   📢 📦 cryptoli/vps-sentinel
+     ⭐ 2  🗣 Rust  📅 2026-06-16
+     🔗 https://github.com/cryptoli/vps-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-17 04:18:02 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-17 04:18:02 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-17 04:18:04 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-17 04:18:04 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-17 04:18:04 UTC] [NEW]   🆕 📦 jakeloai/Hardcore-OffSec-Hub
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/jakeloai/Hardcore-OffSec-Hub
+     📝 My Learning Journey
+     🏷  —
+[2026-06-17 04:18:04 UTC] [NEW]   🆕 📦 omarmehraby/linux-attack-chain
+     ⭐ 0  🗣 C  📅 2026-06-16
+     🔗 https://github.com/omarmehraby/linux-attack-chain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 04:18:04 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-17 04:18:04 UTC] [UPD]   📢 📦 mhxoo/Solace-Execution-Framework
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/mhxoo/Solace-Execution-Framework
+     📝 Best Roblox Script Hub for Advanced Exploits & Automation 2026
+     🏷  adopt-me-script-spawn-pets, blox-fruits-script-all-fruits, clanning, exploit-development, exploit-scripts, exploiting, exploits, kernel-exploitation, key-system, lua-language, oxygen-v2-download, pet-finder, roblox-combat, roblox-generation, roblox-scripting-tutorials, script-execution, script-hub, scripthub, scriptware, wearedevs
+     🔄 Motivo: repo recente (1gg)
+[2026-06-17 04:18:04 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (6gg)
+[2026-06-17 04:18:04 UTC] [INFO] ============================================================
+[2026-06-17 04:18:04 UTC] [INFO] Completato — 26 nuovi, 3 aggiornati, 0 errori
+[2026-06-17 04:18:04 UTC] [INFO] ============================================================
