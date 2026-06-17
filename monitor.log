@@ -20143,3 +20143,203 @@
 [2026-06-17 15:36:31 UTC] [INFO] ============================================================
 [2026-06-17 15:36:31 UTC] [INFO] Completato — 24 nuovi, 4 aggiornati, 0 errori
 [2026-06-17 15:36:31 UTC] [INFO] ============================================================
+[2026-06-17 20:14:11 UTC] [INFO] ============================================================
+[2026-06-17 20:14:11 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-17 20:14:11 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-17 20:14:11 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-17 20:14:11 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-17 20:14:11 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-17 20:14:11 UTC] [INFO] ============================================================
+[2026-06-17 20:14:11 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-17 20:14:11 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-17 20:14:13 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-17 20:14:13 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-17 20:14:13 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-17 20:14:13 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-17 20:14:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-17 20:14:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 trinityUwU/aegis
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/trinityUwU/aegis
+     📝 Antivirus desktop Linux temps réel, 100% local et souverain — EDR hybride YARA +…
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 tkennedy741/Bastion
+     ⭐ 0  🗣 Python  📅 2026-06-17
+     🔗 https://github.com/tkennedy741/Bastion
+     📝 Python based EDR Project
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 rocksempu/packer-golden
+     ⭐ 0  🗣 PowerShell  📅 2026-06-17
+     🔗 https://github.com/rocksempu/packer-golden
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 calvinweech/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/calvinweech/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 cipher-attack/Chimera
+     ⭐ 0  🗣 Kotlin  📅 2026-06-17
+     🔗 https://github.com/cipher-attack/Chimera
+     📝 Payload injector and HID emulator for Android
+     🏷  android, chimera, configfs, hak5, hardware-emulation, hid-injection, hid-script, payload, pentesting, red-teaming, root
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 JeanIJ/ironclad-unified-inventory-cli
+     ⭐ 0  🗣 Python  📅 2026-06-17
+     🔗 https://github.com/JeanIJ/ironclad-unified-inventory-cli
+     📝 CodeYou SecOps Assignment 9 - Unified asset inventory CLI across NetBox, Qualys,…
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 pedro-lucas-melo/pedro-lucas-melo
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/pedro-lucas-melo/pedro-lucas-melo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 Wdemarcus8/cybersecurity-governance-risk-assessment
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/Wdemarcus8/cybersecurity-governance-risk-assessment
+     📝 A GRC framework demonstrating risk assessment, compliance mapping, and security …
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 davidsuttle1803-lab/david-suttle-edr
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/davidsuttle1803-lab/david-suttle-edr
+     📝 Expansion Defined Relativity
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 MohamedHossam1p/AutoSOC-System
+     ⭐ 0  🗣 JavaScript  📅 2026-06-17
+     🔗 https://github.com/MohamedHossam1p/AutoSOC-System
+     📝 AutoSOC: A unified platform bridging Security Information, continuous threat det…
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 sixbase/vipre-audit
+     ⭐ 0  🗣 JavaScript  📅 2026-06-17
+     🔗 https://github.com/sixbase/vipre-audit
+     📝 Interactive current-state UI consistency audit across Vipre's production product…
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 cyberbunny19/ai-behavioral-user-authentication
+     ⭐ 0  🗣 Python  📅 2026-06-17
+     🔗 https://github.com/cyberbunny19/ai-behavioral-user-authentication
+     📝 An AI-powered continuous authentication framework that analyzes behavioral biome…
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 Grandmaster0111/BlueScope-RCA
+     ⭐ 0  🗣 Python  📅 2026-06-17
+     🔗 https://github.com/Grandmaster0111/BlueScope-RCA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 ir0nbeagle/WINTERMUTE
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/ir0nbeagle/WINTERMUTE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 KikeLlamas/AutomatizacionesNusquama
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/KikeLlamas/AutomatizacionesNusquama
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 elena485/n8nworkflows
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/elena485/n8nworkflows
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 Lordkikes/n8n-workflows-v2
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/Lordkikes/n8n-workflows-v2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 josemanuelnietolopez1967-arch/Automatizaciones-Busqueda-en-clase
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/josemanuelnietolopez1967-arch/Automatizaciones-Busqueda-en-clase
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 llerafrania/automatizaciones
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/llerafrania/automatizaciones
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 jabronki/autos-varias
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/jabronki/autos-varias
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 chabeliametller-max/otras-automatizaciones
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/chabeliametller-max/otras-automatizaciones
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 dummy10343/dummy
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/dummy10343/dummy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 sakipfikrret/OmniEngine-Cognitive-Core
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/sakipfikrret/OmniEngine-Cognitive-Core
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 Haziq-Jasni/hybrid-ransomware-defense-framework
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/Haziq-Jasni/hybrid-ransomware-defense-framework
+     📝 Research and structural design for a Hybrid Ransomware Defense Framework integra…
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 herdeiroeth/edriveon
+     ⭐ 0  🗣 TypeScript  📅 2026-06-17
+     🔗 https://github.com/herdeiroeth/edriveon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_37
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/Adithya-Raj-KR/CIC_SOC-Analyst_Adithya-Raj-K-R_37
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-17 20:14:16 UTC] [NEW]   🆕 📦 aruxiee/sandunbox
+     ⭐ 0  🗣 Rust  📅 2026-06-17
+     🔗 https://github.com/aruxiee/sandunbox
+     📝 Cross-platform sandbox isolation audit tool in Rust. Evaluates configuration par…
+     🏷  cybersecurity, enumerator, lateral-movement, penetration-testing, reconnaissance, red-teaming, rust, sandbox, sandbox-escape, seccomp
+[2026-06-17 20:14:16 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-17 20:14:16 UTC] [UPD]   📢 📦 Se7enbrc/glimmer
+     ⭐ 0  🗣 Swift  📅 2026-06-16
+     🔗 https://github.com/Se7enbrc/glimmer
+     📝 Native-Swift game-streaming client for Sunshine/Moonlight hosts (macOS, Apple Si…
+     🏷  apple-silicon, game-streaming, hdr, macos, moonlight, sunshine, swift, swiftui
+     🔄 Motivo: repo recente (1gg)
+[2026-06-17 20:14:16 UTC] [UPD]   📢 📦 Bal1979/Customs-Analytics
+     ⭐ 0  🗣 Python  📅 2026-06-17
+     🔗 https://github.com/Bal1979/Customs-Analytics
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-17 20:14:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-17 20:14:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-17 20:14:18 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-17 20:14:18 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-17 20:14:18 UTC] [NEW]   🆕 📦 MrAnayDongre/Inference-Kernels
+     ⭐ 0  🗣 Python  📅 2026-06-17
+     🔗 https://github.com/MrAnayDongre/Inference-Kernels
+     📝 LLM inference kernels from scratch in Triton: KV cache, FlashAttention, PagedAtt…
+     🏷  cuda, flashattention, gpu-kernels, inference-optimization, kv-cache, llm-inference, machine-learning-systems, pagedattention, pytorch, triton
+[2026-06-17 20:14:18 UTC] [NEW]   🆕 📦 ajaypalle252/ajaypalle252
+     ⭐ 0  🗣 N/A  📅 2026-06-17
+     🔗 https://github.com/ajaypalle252/ajaypalle252
+     📝 ⚡ Ajay Palle | MSc Cybersecurity | Red Team Researcher | Linux Persistence | MIT…
+     🏷  —
+[2026-06-17 20:14:18 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-17 20:14:18 UTC] [UPD]   📢 📦 mhxoo/Solace-Execution-Framework
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/mhxoo/Solace-Execution-Framework
+     📝 Best Roblox Script Hub for Advanced Exploits & Automation 2026
+     🏷  adopt-me-script-spawn-pets, blox-fruits-script-all-fruits, clanning, exploit-development, exploit-scripts, exploiting, exploits, kernel-exploitation, key-system, lua-language, oxygen-v2-download, pet-finder, roblox-combat, roblox-generation, roblox-scripting-tutorials, script-execution, script-hub, scripthub, scriptware, wearedevs
+     🔄 Motivo: repo recente (2gg)
+[2026-06-17 20:14:18 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (7gg)
+[2026-06-17 20:14:18 UTC] [UPD]   📢 📦 jagreehal/sandbox-node
+     ⭐ 0  🗣 TypeScript  📅 2026-06-10
+     🔗 https://github.com/jagreehal/sandbox-node
+     📝 Run npm/pnpm/yarn/bun installs and dev commands in a Docker/Podman sandbox: life…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-17 20:14:18 UTC] [INFO] ============================================================
+[2026-06-17 20:14:18 UTC] [INFO] Completato — 29 nuovi, 5 aggiornati, 0 errori
+[2026-06-17 20:14:18 UTC] [INFO] ============================================================
