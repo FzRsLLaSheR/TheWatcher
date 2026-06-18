@@ -20520,3 +20520,129 @@
 [2026-06-18 04:10:17 UTC] [INFO] ============================================================
 [2026-06-18 04:10:17 UTC] [INFO] Completato — 22 nuovi, 7 aggiornati, 0 errori
 [2026-06-18 04:10:17 UTC] [INFO] ============================================================
+[2026-06-18 10:23:03 UTC] [INFO] ============================================================
+[2026-06-18 10:23:03 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-18 10:23:03 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-18 10:23:03 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-18 10:23:03 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-18 10:23:03 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-18 10:23:03 UTC] [INFO] ============================================================
+[2026-06-18 10:23:03 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-18 10:23:03 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-18 10:23:05 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-18 10:23:05 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-18 10:23:05 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-18 10:23:05 UTC] [UPD]   📢 📦 Salah-Code-Lab/RegFilter
+     ⭐ 0  🗣 C  📅 2026-06-16
+     🔗 https://github.com/Salah-Code-Lab/RegFilter
+     📝 Registry Filter
+     🏷  configuration-manager, defense, registry, wdm, win10, win11
+     🔄 Motivo: repo recente (1gg) | nuovi topic: wdm, defense, registry, configuration-manager, win11, win10
+[2026-06-18 10:23:05 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-18 10:23:05 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-18 10:23:08 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 prath1432/SOC-HOME-LAB
+     ⭐ 0  🗣 N/A  📅 2026-06-18
+     🔗 https://github.com/prath1432/SOC-HOME-LAB
+     📝 A purpose-built Security Operations Center (SOC) home lab deploying Splunk, Wazu…
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 Krish-Anand-dev/phantomctx-go
+     ⭐ 0  🗣 Go  📅 2026-06-18
+     🔗 https://github.com/Krish-Anand-dev/phantomctx-go
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 Amitro1234/company-agent-guardrails
+     ⭐ 0  🗣 N/A  📅 2026-06-18
+     🔗 https://github.com/Amitro1234/company-agent-guardrails
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 vishalkelur28-cyber/tracker
+     ⭐ 0  🗣 JavaScript  📅 2026-06-18
+     🔗 https://github.com/vishalkelur28-cyber/tracker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 ComradeCosmos/eud-compliance-dashboard-audit
+     ⭐ 0  🗣 HTML  📅 2026-06-18
+     🔗 https://github.com/ComradeCosmos/eud-compliance-dashboard-audit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 KhandakerFahim/InfostealerGuard_Antimalware_Checker
+     ⭐ 0  🗣 Python  📅 2026-06-18
+     🔗 https://github.com/KhandakerFahim/InfostealerGuard_Antimalware_Checker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 PheonixEDR/PheonixEDR.exe
+     ⭐ 0  🗣 HTML  📅 2026-06-18
+     🔗 https://github.com/PheonixEDR/PheonixEDR.exe
+     📝 !BE PREPARED FOR SECURE AGE ANTI-VIRUS FALSE POSITIVE!  Phoenix EDR is an EDR wi…
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 ollerenac/cyber-range-implementation
+     ⭐ 0  🗣 Shell  📅 2026-06-18
+     🔗 https://github.com/ollerenac/cyber-range-implementation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 contact-antubiswas/antubiswas.github.io
+     ⭐ 0  🗣 N/A  📅 2026-06-18
+     🔗 https://github.com/contact-antubiswas/antubiswas.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 costrict-plugins-repo/github-trending-claude-bughunter
+     ⭐ 0  🗣 Python  📅 2026-06-18
+     🔗 https://github.com/costrict-plugins-repo/github-trending-claude-bughunter
+     📝 costrict-plugins mirror of github-trending-claude-bughunter (auto-generated, do …
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 Ragekill3377/Diarna
+     ⭐ 0  🗣 C++  📅 2026-06-18
+     🔗 https://github.com/Ragekill3377/Diarna
+     📝 Windows RAT framework in C++. modular & easy to modify.
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 KYbk1234/st-_-_-
+     ⭐ 0  🗣 N/A  📅 2026-06-18
+     🔗 https://github.com/KYbk1234/st-_-_-
+     📝 - [大型资源站xingkeit.top](http://xingkeit.top/)
+     🏷  —
+[2026-06-18 10:23:08 UTC] [NEW]   🆕 📦 cybrd0ne/uSOC-concept
+     ⭐ 0  🗣 Mermaid  📅 2026-06-18
+     🔗 https://github.com/cybrd0ne/uSOC-concept
+     📝 µSOC — a micro-SOC architecture concept for SOHO environments. Bilingual (EN/RO)…
+     🏷  —
+[2026-06-18 10:23:08 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-18 10:23:08 UTC] [UPD]   📢 📦 Bal1979/Customs-Analytics
+     ⭐ 0  🗣 Python  📅 2026-06-17
+     🔗 https://github.com/Bal1979/Customs-Analytics
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-18 10:23:08 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-18 10:23:08 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-18 10:23:11 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-18 10:23:11 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-18 10:23:11 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-18 10:23:11 UTC] [UPD]   📢 📦 dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     📝 iMyFone LockWiper 8.6.6 Full Unlock 2026 - Bypass iOS Passcode Instantly
+     🏷  imyfone, imyfone-download, imyfone-install, imyfone-key, imyfone-lockwiper, imyfone-lockwiper-download, imyfone-lockwiper-install, imyfone-lockwiper-key, imyfone-lockwiper-patch, imyfone-lockwiper-software, imyfone-lockwiper-trial, imyfone-patch, imyfone-software, imyfone-trial
+     🔄 Motivo: repo recente (0gg)
+[2026-06-18 10:23:11 UTC] [UPD]   📢 📦 mhxoo/Solace-Execution-Framework
+     ⭐ 0  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/mhxoo/Solace-Execution-Framework
+     📝 Best Roblox Script Hub for Advanced Exploits & Automation 2026
+     🏷  adopt-me-script-spawn-pets, blox-fruits-script-all-fruits, clanning, exploit-development, exploit-scripts, exploiting, exploits, kernel-exploitation, key-system, lua-language, oxygen-v2-download, pet-finder, roblox-combat, roblox-generation, roblox-scripting-tutorials, script-execution, script-hub, scripthub, scriptware, wearedevs
+     🔄 Motivo: repo recente (3gg)
+[2026-06-18 10:23:11 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-18 10:23:11 UTC] [UPD]   📢 📦 slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     ⭐ 0  🗣 HTML  📅 2026-06-10
+     🔗 https://github.com/slabbayak-223211-bot/uac-bypass-toolkit-v1-1
+     📝 Skip UAC Prompt 1.1 Workaround Guide for Windows 2026
+     🏷  skip, skip-download, skip-install, skip-key, skip-patch, skip-software, skip-trial, skip-uac-prompt, skip-uac-prompt-download, skip-uac-prompt-install, skip-uac-prompt-key, skip-uac-prompt-patch, skip-uac-prompt-software, skip-uac-prompt-trial
+     🔄 Motivo: repo recente (7gg)
+[2026-06-18 10:23:11 UTC] [INFO] ============================================================
+[2026-06-18 10:23:11 UTC] [INFO] Completato — 13 nuovi, 6 aggiornati, 0 errori
+[2026-06-18 10:23:11 UTC] [INFO] ============================================================
