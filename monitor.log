@@ -21335,3 +21335,125 @@
 [2026-06-19 10:39:47 UTC] [INFO] ============================================================
 [2026-06-19 10:39:47 UTC] [INFO] Completato — 21 nuovi, 6 aggiornati, 0 errori
 [2026-06-19 10:39:47 UTC] [INFO] ============================================================
+[2026-06-19 15:22:37 UTC] [INFO] ============================================================
+[2026-06-19 15:22:37 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-19 15:22:37 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-19 15:22:37 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-19 15:22:37 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-19 15:22:37 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-19 15:22:37 UTC] [INFO] ============================================================
+[2026-06-19 15:22:37 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-19 15:22:37 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-19 15:22:39 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-19 15:22:39 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-19 15:22:39 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-19 15:22:39 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-19 15:22:39 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-19 15:22:42 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 AdityaThokane/AdityaThokane
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/AdityaThokane/AdityaThokane
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 HoodieYlya13/confluence-spotlight
+     ⭐ 0  🗣 Rust  📅 2026-06-19
+     🔗 https://github.com/HoodieYlya13/confluence-spotlight
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 TamgaTurkiye/malware-threat-analysis
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/TamgaTurkiye/malware-threat-analysis
+     📝 Defensive malware behavior analysis, detection notes, and threat-informed lesson…
+     🏷  —
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 jzgyhlove/syslog-viewer
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/jzgyhlove/syslog-viewer
+     📝 基于 FastAPI + Vue3 构建的轻量级 Syslog 日志集中采集与分析平台。支持自动化日志解析、设备自动匹配、实时监控与安全审计，专为提升信息安全运…
+     🏷  —
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 Omarben04/itops-automation-project
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/Omarben04/itops-automation-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 yassinyasso/yassinyasso
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/yassinyasso/yassinyasso
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 ranazain5036/symantec-ep-14-3-enhancement-kit
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/ranazain5036/symantec-ep-14-3-enhancement-kit
+     📝 Symantec Endpoint Protection 14.3.10148 Secure Toolkit 2026
+     🏷  symantec, symantec-download, symantec-endpoint-protection, symantec-endpoint-protection-download, symantec-endpoint-protection-install, symantec-endpoint-protection-key, symantec-endpoint-protection-patch, symantec-endpoint-protection-software, symantec-endpoint-protection-trial, symantec-install, symantec-key, symantec-patch, symantec-software, symantec-trial
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 syed-faizan24/Security24
+     ⭐ 1  🗣 JavaScript  📅 2026-06-19
+     🔗 https://github.com/syed-faizan24/Security24
+     📝 A native Windows cybersecurity and system optimization desktop application.
+     🏷  —
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 kayvd046-prog/Sjekkiecounter
+     ⭐ 0  🗣 JavaScript  📅 2026-06-19
+     🔗 https://github.com/kayvd046-prog/Sjekkiecounter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 exe249/EventLens
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/exe249/EventLens
+     📝 Single-file, fully offline Windows event log decoder — paste an event, get a pla…
+     🏷  —
+[2026-06-19 15:22:42 UTC] [NEW]   🆕 📦 IT24300015/SentinelGuard---SOC-Monitoring-Identity-Security-Risk-Management-Platform
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/IT24300015/SentinelGuard---SOC-Monitoring-Identity-Security-Risk-Management-Platform
+     📝 nd-to-end SOC Monitoring, Identity Security and Risk Management Platform — Splun…
+     🏷  —
+[2026-06-19 15:22:42 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-19 15:22:42 UTC] [UPD]   📢 📦 cheikhhhh77/edr-xdr-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/cheikhhhh77/edr-xdr-detection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-19 15:22:42 UTC] [UPD]   📢 📦 MalakhFuller/7-VM-Home-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-18
+     🔗 https://github.com/MalakhFuller/7-VM-Home-SOC-Lab
+     📝 7-VM home SOC lab on one 64GB host with dual SIEM (Wazuh + Splunk), passive Suri…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-19 15:22:42 UTC] [UPD]   📢 📦 Martine-Off/orienteur-oya
+     ⭐ 0  🗣 HTML  📅 2026-06-16
+     🔗 https://github.com/Martine-Off/orienteur-oya
+     📝 L'Orienteur OYA — quiz d'orientation métier (POC)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-19 15:22:42 UTC] [UPD]   📢 📦 cristeigabriela/mirrord-diags-win
+     ⭐ 0  🗣 PowerShell  📅 2026-06-18
+     🔗 https://github.com/cristeigabriela/mirrord-diags-win
+     📝 Repo to host Windows diags tool for mirrord.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-19 15:22:42 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-19 15:22:42 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-19 15:22:44 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-19 15:22:44 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-19 15:22:44 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-19 15:22:44 UTC] [UPD]   📢 📦 dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     📝 iMyFone LockWiper 8.6.6 Full Unlock 2026 - Bypass iOS Passcode Instantly
+     🏷  imyfone, imyfone-download, imyfone-install, imyfone-key, imyfone-lockwiper, imyfone-lockwiper-download, imyfone-lockwiper-install, imyfone-lockwiper-key, imyfone-lockwiper-patch, imyfone-lockwiper-software, imyfone-lockwiper-trial, imyfone-patch, imyfone-software, imyfone-trial
+     🔄 Motivo: repo recente (1gg)
+[2026-06-19 15:22:44 UTC] [UPD]   📢 📦 mhxoo/Solace-Execution-Framework
+     ⭐ 70  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/mhxoo/Solace-Execution-Framework
+     📝 Best Roblox Script Hub for Advanced Exploits & Automation 2026
+     🏷  adopt-me-script-spawn-pets, blox-fruits-script-all-fruits, clanning, exploit-development, exploit-scripts, exploiting, exploits, kernel-exploitation, key-system, lua-language, oxygen-v2-download, pet-finder, roblox-combat, roblox-generation, roblox-scripting-tutorials, script-execution, script-hub, scripthub, scriptware, wearedevs
+     🔄 Motivo: repo recente (4gg)
+[2026-06-19 15:22:44 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-19 15:22:44 UTC] [INFO] ============================================================
+[2026-06-19 15:22:44 UTC] [INFO] Completato — 11 nuovi, 7 aggiornati, 0 errori
+[2026-06-19 15:22:44 UTC] [INFO] ============================================================
