@@ -21816,3 +21816,168 @@
 [2026-06-20 03:53:04 UTC] [INFO] ============================================================
 [2026-06-20 03:53:04 UTC] [INFO] Completato — 34 nuovi, 4 aggiornati, 0 errori
 [2026-06-20 03:53:04 UTC] [INFO] ============================================================
+[2026-06-20 09:18:14 UTC] [INFO] ============================================================
+[2026-06-20 09:18:14 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-20 09:18:14 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-20 09:18:14 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-20 09:18:14 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-20 09:18:14 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-20 09:18:14 UTC] [INFO] ============================================================
+[2026-06-20 09:18:14 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-20 09:18:14 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-20 09:18:16 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 09:18:16 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-20 09:18:16 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-20 09:18:16 UTC] [UPD]   📢 📦 Shadow-King-Cyber/BYOVD_EDRKiller
+     ⭐ 0  🗣 C  📅 2026-06-20
+     🔗 https://github.com/Shadow-King-Cyber/BYOVD_EDRKiller
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-20 09:18:16 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-20 09:18:16 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-20 09:18:19 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 emretiramis/SOC109-EmotetMalwareDetected
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/emretiramis/SOC109-EmotetMalwareDetected
+     📝 Emotet Malware investigation
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 letsgo2py/nids-project
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/letsgo2py/nids-project
+     📝 Network Intrusion Detection System using signature-based rules + Isolation Fores…
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 YannickBeck/Mac_Intune_Workshop
+     ⭐ 0  🗣 HTML  📅 2026-06-20
+     🔗 https://github.com/YannickBeck/Mac_Intune_Workshop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 tamsdaul/edrfhu
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/tamsdaul/edrfhu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 nathanhoulamy/pi5-bluetooth-testbed
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/nathanhoulamy/pi5-bluetooth-testbed
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 sleepguys4d/sniffingSIEM-XDR
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/sleepguys4d/sniffingSIEM-XDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 arkanzasfeziii/Ghost
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/arkanzasfeziii/Ghost
+     📝 Evasion and payload crafting framework — AMSI bypass, AV evasion encoding, proce…
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 SysAdminDoc/OpenNetLimit
+     ⭐ 0  🗣 C#  📅 2026-06-20
+     🔗 https://github.com/SysAdminDoc/OpenNetLimit
+     📝 Open-source per-application bandwidth limiter and network monitor for Windows — …
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 arkanzasfeziii/Forge
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/arkanzasfeziii/Forge
+     📝 Physical and hardware security framework — BadUSB payload generation, RFID/NFC c…
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 dev-25/AWS-BOQ-Website
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/dev-25/AWS-BOQ-Website
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 Peter-123-RAM/forensic-host-triage
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/Peter-123-RAM/forensic-host-triage
+     📝 Forensically sound acquisition and analysis of a compromised Windows host image …
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 Thepotatostealer-code/orix-core-soc
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/Thepotatostealer-code/orix-core-soc
+     📝 Self-Hosted Security Operations Center for Game Server Hosting Infrastructure  A…
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 pradeep14012004/MCP-Based-PDF-Attack-Chain-Intelligence-System
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/pradeep14012004/MCP-Based-PDF-Attack-Chain-Intelligence-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 Yuk1you/PenT3st
+     ⭐ 1  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/Yuk1you/PenT3st
+     📝 渗透测试实战工作流 skill for Claude Code - 5阶段方法论/19类攻击playbook/2887份H1真实案例/国产组件指纹库
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 thanhtuanms1-ship-it/sotaytool
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/thanhtuanms1-ship-it/sotaytool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 ulissesflores/blast-radius-containment
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/ulissesflores/blast-radius-containment
+     📝 Reproducible Monte Carlo model of ransomware lateral propagation and its contain…
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 TharunSai-1234/Tharun-Sai-R
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/TharunSai-1234/Tharun-Sai-R
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 supantadutta/piaa-LLM-Sec
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/supantadutta/piaa-LLM-Sec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 HOLYAC/liquid-glass-capture
+     ⭐ 0  🗣 JavaScript  📅 2026-06-19
+     🔗 https://github.com/HOLYAC/liquid-glass-capture
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 fernando-jimenezh/Blue-Team-Labs
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/fernando-jimenezh/Blue-Team-Labs
+     📝 Portfolio of SOC Operations, Threat Hunting, Detection Engineering and Blue Team…
+     🏷  —
+[2026-06-20 09:18:19 UTC] [NEW]   🆕 📦 TAND-Inc/tand-windows-setup
+     ⭐ 0  🗣 PowerShell  📅 2026-06-20
+     🔗 https://github.com/TAND-Inc/tand-windows-setup
+     📝 A config-driven PowerShell toolkit for provisioning new Windows machines. Run a …
+     🏷  —
+[2026-06-20 09:18:19 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-20 09:18:19 UTC] [UPD]   📢 📦 jojaes0/random_tower_defense
+     ⭐ 0  🗣 TypeScript  📅 2026-06-19
+     🔗 https://github.com/jojaes0/random_tower_defense
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-20 09:18:19 UTC] [UPD]   📢 📦 ranazain5036/symantec-ep-14-3-enhancement-kit
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/ranazain5036/symantec-ep-14-3-enhancement-kit
+     📝 Symantec Endpoint Protection 14.3.10148 Secure Toolkit 2026
+     🏷  symantec, symantec-download, symantec-endpoint-protection, symantec-endpoint-protection-download, symantec-endpoint-protection-install, symantec-endpoint-protection-key, symantec-endpoint-protection-patch, symantec-endpoint-protection-software, symantec-endpoint-protection-trial, symantec-install, symantec-key, symantec-patch, symantec-software, symantec-trial
+     🔄 Motivo: repo recente (0gg)
+[2026-06-20 09:18:19 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-20 09:18:19 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-20 09:18:21 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 09:18:21 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-20 09:18:21 UTC] [NEW]   🆕 📦 pavan-sec/CTF-Writeups
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/pavan-sec/CTF-Writeups
+     📝 CTF Writeups of THM and HTB Boxes 
+     🏷  —
+[2026-06-20 09:18:21 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-20 09:18:21 UTC] [UPD]   📢 📦 dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     📝 iMyFone LockWiper 8.6.6 Full Unlock 2026 - Bypass iOS Passcode Instantly
+     🏷  imyfone, imyfone-download, imyfone-install, imyfone-key, imyfone-lockwiper, imyfone-lockwiper-download, imyfone-lockwiper-install, imyfone-lockwiper-key, imyfone-lockwiper-patch, imyfone-lockwiper-software, imyfone-lockwiper-trial, imyfone-patch, imyfone-software, imyfone-trial
+     🔄 Motivo: repo recente (2gg)
+[2026-06-20 09:18:21 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-20 09:18:21 UTC] [INFO] ============================================================
+[2026-06-20 09:18:21 UTC] [INFO] Completato — 22 nuovi, 5 aggiornati, 0 errori
+[2026-06-20 09:18:21 UTC] [INFO] ============================================================
