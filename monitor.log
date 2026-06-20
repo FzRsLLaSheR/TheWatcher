@@ -22133,3 +22133,210 @@
 [2026-06-20 14:07:51 UTC] [INFO] ============================================================
 [2026-06-20 14:07:51 UTC] [INFO] Completato — 17 nuovi, 7 aggiornati, 0 errori
 [2026-06-20 14:07:51 UTC] [INFO] ============================================================
+[2026-06-20 19:39:39 UTC] [INFO] ============================================================
+[2026-06-20 19:39:39 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-20 19:39:39 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-20 19:39:39 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-20 19:39:39 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-20 19:39:39 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-20 19:39:39 UTC] [INFO] ============================================================
+[2026-06-20 19:39:39 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-20 19:39:39 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-20 19:39:40 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 19:39:40 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-20 19:39:40 UTC] [NEW]   🆕 📦 cs2hvh/driver
+     ⭐ 0  🗣 C  📅 2026-06-20
+     🔗 https://github.com/cs2hvh/driver
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:40 UTC] [NEW]   🆕 📦 kwkkd/akatsuki-hermes-integration
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/kwkkd/akatsuki-hermes-integration
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:40 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-20 19:39:40 UTC] [UPD]   📢 📦 highdevian/combatroblox
+     ⭐ 2  🗣 Python  📅 2026-05-26
+     🔗 https://github.com/highdevian/combatroblox
+     📝 Ferramenta forense de screen-share (SS) para Roblox — 65 scanners leem os artefa…
+     🏷  anti-cheat, dfir, forensics, incident-response, malware-detection, ntfs, pe-analysis, python, roblox, screenshare, security-tools, ss-tool, windows-forensics
+     🔄 Motivo: nuovi topic: malware-detection, dfir, ntfs
+[2026-06-20 19:39:40 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-20 19:39:40 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-20 19:39:42 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 javerthl/Now-Assist-AI-Agents-list
+     ⭐ 0  🗣 HTML  📅 2026-06-20
+     🔗 https://github.com/javerthl/Now-Assist-AI-Agents-list
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 SyedShaheerHussain/File-Type-Identifier_V1_GUI_Python
+     ⭐ 1  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/SyedShaheerHussain/File-Type-Identifier_V1_GUI_Python
+     📝  Identifies real file types via binary signatures (Magic Numbers) to uncover hid…
+     🏷  antiphishing, binaryanalysis, blueteam, cybersecurity, defensivesecurity, digitalforensics, filesignatureanalysis, filetypeidentifier, incidentresponse, magicnumbers, malwareanalysis, mitigation, phishing, python, reverseengineering, securitytools, soc, syed-shaheer-hussain, syedshaheerhussain, threatdetection
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 1x0DF0/HellForge
+     ⭐ 0  🗣 C  📅 2026-06-20
+     🔗 https://github.com/1x0DF0/HellForge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 Lohetapja/SOC-Case-Workspace
+     ⭐ 0  🗣 TypeScript  📅 2026-06-20
+     🔗 https://github.com/Lohetapja/SOC-Case-Workspace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 hafsasalman-art/ransomware-evolution-study
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/hafsasalman-art/ransomware-evolution-study
+     📝 A cybersecurity research report analyzing the evolution of ransomware from the 1…
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 gl0di/clawseccheck
+     ⭐ 3  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/gl0di/clawseccheck
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 KhusLab/Local-EDR
+     ⭐ 0  🗣 PowerShell  📅 2026-06-20
+     🔗 https://github.com/KhusLab/Local-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 geethsuryakalleda18-wq/AI-Security-Alert-Triage-and-Threat-Prioritization-Platform
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/geethsuryakalleda18-wq/AI-Security-Alert-Triage-and-Threat-Prioritization-Platform
+     📝 Real-time SOC alert triage platform that detects suspicious identity, endpoint, …
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 Maty156/masu-keylogger
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/Maty156/masu-keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 hacker77189/system-hijack
+     ⭐ 0  🗣 JavaScript  📅 2026-06-20
+     🔗 https://github.com/hacker77189/system-hijack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 MazX0p/LACUNA-Chain
+     ⭐ 4  🗣 C  📅 2026-06-20
+     🔗 https://github.com/MazX0p/LACUNA-Chain
+     📝   Six-layer call-stack spoofing via .pdata lacunae — defeats ETW-Ti, kernel call…
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 juliendamour-tech/IPvicious
+     ⭐ 0  🗣 Go  📅 2026-06-20
+     🔗 https://github.com/juliendamour-tech/IPvicious
+     📝 ICMPv6 back door to IPv4 socks
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 DaMaTou00/csLoader
+     ⭐ 1  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/DaMaTou00/csLoader
+     📝 一款用于CobaltStrike免杀的工具
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 Sevillano06/Cybersecurity-Threat-Landscape-2026
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/Sevillano06/Cybersecurity-Threat-Landscape-2026
+     📝 Proyecto de investigación sobre el panorama actual de amenazas cibernéticas (Ran…
+     🏷  blue-team, cybersecurity, incident-response, siem, soc-analyst, threat-intelligence
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 Str8Rogue16/Intel
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/Str8Rogue16/Intel
+     📝 A modular, Python-based endpoint security toolkit for home lab and internal netw…
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 ABHIVEDI11/REMD-Replica-Exchange-MD
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/ABHIVEDI11/REMD-Replica-Exchange-MD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 rolandohin/Poisoned-Aid---APT-Incident-Response-Analysis-Forensics
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/rolandohin/Poisoned-Aid---APT-Incident-Response-Analysis-Forensics
+     📝 APT incident response analysis - malware forensics, credential harvesting,  C2 i…
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 johntaned/edrdoz
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/johntaned/edrdoz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 chichakabdullayeva/technova-aiiro2026-
+     ⭐ 0  🗣 TypeScript  📅 2026-06-20
+     🔗 https://github.com/chichakabdullayeva/technova-aiiro2026-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 onekapisch/LUMEL-public
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/onekapisch/LUMEL-public
+     📝 The two-way Mac brightness app: boost your XDR display brighter than macOS allow…
+     🏷  brightness, brightness-control, dimmer, display, edr, hdr, mac, mac-app, macbook, macos, menu-bar-app, night-mode, no-telemetry, privacy, screen-brightness, utility, vivid-alternative, xdr
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 kwkkd/akatsuki-hermes-integration
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/kwkkd/akatsuki-hermes-integration
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 gabomartini/Rocky-Clinic-OpenEMR-Breach
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/gabomartini/Rocky-Clinic-OpenEMR-Breach
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 rizzit17/MalScanPlusPlus
+     ⭐ 0  🗣 C++  📅 2026-06-20
+     🔗 https://github.com/rizzit17/MalScanPlusPlus
+     📝 A high-performance static malware analysis engine built in C++20. Detects obfusc…
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 karthikgk1001/keylogger
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/karthikgk1001/keylogger
+     📝 Cross-platform keylogger with window tracking, log rotation, and webhook deliver…
+     🏷  —
+[2026-06-20 19:39:42 UTC] [NEW]   🆕 📦 ABHIVEDI11/SMD-Protein-Ligand
+     ⭐ 0  🗣 Rich Text Format  📅 2026-06-20
+     🔗 https://github.com/ABHIVEDI11/SMD-Protein-Ligand
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:42 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-20 19:39:42 UTC] [UPD]   📢 📦 Midhunkrishna02/Purple-Team-EDR-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/Midhunkrishna02/Purple-Team-EDR-Lab
+     📝 Automated network reconnaissance detection and telemetry analysis using a cloud-…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-20 19:39:42 UTC] [UPD]   📢 📦 patsaade/personal-portfolio
+     ⭐ 0  🗣 Astro  📅 2026-06-16
+     🔗 https://github.com/patsaade/personal-portfolio
+     📝 DFIR portfolio & blog — forensics & IR writeups.
+     🏷  cybersecurity, dfir, digital-forensics, incident-response, portfolio
+     🔄 Motivo: repo recente (3gg)
+[2026-06-20 19:39:42 UTC] [UPD]   📢 📦 ranazain5036/symantec-ep-14-3-enhancement-kit
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/ranazain5036/symantec-ep-14-3-enhancement-kit
+     📝 Symantec Endpoint Protection 14.3.10148 Secure Toolkit 2026
+     🏷  symantec, symantec-download, symantec-endpoint-protection, symantec-endpoint-protection-download, symantec-endpoint-protection-install, symantec-endpoint-protection-key, symantec-endpoint-protection-patch, symantec-endpoint-protection-software, symantec-endpoint-protection-trial, symantec-install, symantec-key, symantec-patch, symantec-software, symantec-trial
+     🔄 Motivo: repo recente (1gg)
+[2026-06-20 19:39:42 UTC] [UPD]   📢 📦 jojaes0/random_tower_defense
+     ⭐ 0  🗣 TypeScript  📅 2026-06-19
+     🔗 https://github.com/jojaes0/random_tower_defense
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-20 19:39:42 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-20 19:39:42 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-20 19:39:44 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 19:39:44 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-20 19:39:44 UTC] [NEW]   🆕 📦 Amir11f/Malware-Guide
+     ⭐ 0  🗣 TypeScript  📅 2026-06-20
+     🔗 https://github.com/Amir11f/Malware-Guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 19:39:44 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-20 19:39:44 UTC] [UPD]   📢 📦 dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     📝 iMyFone LockWiper 8.6.6 Full Unlock 2026 - Bypass iOS Passcode Instantly
+     🏷  imyfone, imyfone-download, imyfone-install, imyfone-key, imyfone-lockwiper, imyfone-lockwiper-download, imyfone-lockwiper-install, imyfone-lockwiper-key, imyfone-lockwiper-patch, imyfone-lockwiper-software, imyfone-lockwiper-trial, imyfone-patch, imyfone-software, imyfone-trial
+     🔄 Motivo: repo recente (2gg)
+[2026-06-20 19:39:44 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-20 19:39:44 UTC] [INFO] ============================================================
+[2026-06-20 19:39:44 UTC] [INFO] Completato — 28 nuovi, 7 aggiornati, 0 errori
+[2026-06-20 19:39:44 UTC] [INFO] ============================================================
