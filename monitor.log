@@ -21981,3 +21981,155 @@
 [2026-06-20 09:18:21 UTC] [INFO] ============================================================
 [2026-06-20 09:18:21 UTC] [INFO] Completato — 22 nuovi, 5 aggiornati, 0 errori
 [2026-06-20 09:18:21 UTC] [INFO] ============================================================
+[2026-06-20 14:07:43 UTC] [INFO] ============================================================
+[2026-06-20 14:07:43 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-20 14:07:43 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-20 14:07:43 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-20 14:07:43 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-20 14:07:43 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-20 14:07:43 UTC] [INFO] ============================================================
+[2026-06-20 14:07:43 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-20 14:07:43 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-20 14:07:45 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 14:07:45 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-20 14:07:45 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-20 14:07:45 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-20 14:07:45 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-20 14:07:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 Monoceros406/WinKerDevBook1
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/Monoceros406/WinKerDevBook1
+     📝 Windows 系统安全：内核驱动开发
+     🏷  cybersecurity-education, kernel-development, kernel-driver, windows-11
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 Ramkumar2545/Ramkumar2545
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/Ramkumar2545/Ramkumar2545
+     📝 GitHub Profile README — Ram Kumar G | Security Engineer | Wazuh SIEM · Threat In…
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 itxDeeni/linux-security-audit
+     ⭐ 0  🗣 Shell  📅 2026-06-19
+     🔗 https://github.com/itxDeeni/linux-security-audit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 grit-control/grit
+     ⭐ 1  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/grit-control/grit
+     📝 A zero-dependency seatbelt for AI agents. Policy, kill switch, replay, and data …
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 derkcc/watchcheck
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/derkcc/watchcheck
+     📝 Read-only MCP server + live panel to detect & explain endpoint monitoring (EDR/D…
+     🏷  endpoint-security, macos, mcp, security
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 MANISH-524/VANGUARD
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/MANISH-524/VANGUARD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 balxor/redops-framework
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/balxor/redops-framework
+     📝 DTrust RedOps Framework
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 edrisfateh434-sys/Monks-hub-Edris
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/edrisfateh434-sys/Monks-hub-Edris
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 Midhunkrishna02/Purple-Team-EDR-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/Midhunkrishna02/Purple-Team-EDR-Lab
+     📝 Automated network reconnaissance detection and telemetry analysis using a cloud-…
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 codebysohel/Open-Source-Cybersecurity-Ecosystem
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/codebysohel/Open-Source-Cybersecurity-Ecosystem
+     📝 An extensive collection of industry-recognized open-source security frameworks, …
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 jankesec/driftnet2
+     ⭐ 0  🗣 Go  📅 2026-06-20
+     🔗 https://github.com/jankesec/driftnet2
+     📝 Network traffic interception and analysis toolkit — passive recon and protocol i…
+     🏷  network, packet-capture, recon, security-tools, traffic-analysis
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 n0bele/ShellcodeGenerator
+     ⭐ 0  🗣 C++  📅 2026-06-19
+     🔗 https://github.com/n0bele/ShellcodeGenerator
+     📝 Shellcode Generator
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 manojrawtani1-cloud/wazuh-edr-deployment
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/manojrawtani1-cloud/wazuh-edr-deployment
+     📝 Wazuh EDR deployment with File Integrity Monitoring and MalwareBazaar integratio…
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 TMichael33/Incident-Response-Plan-IRP-Ransomware-Tabletop-Exercise
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/TMichael33/Incident-Response-Plan-IRP-Ransomware-Tabletop-Exercise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 MrAzoth/dx3
+     ⭐ 0  🗣 C  📅 2026-06-20
+     🔗 https://github.com/MrAzoth/dx3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 14:07:49 UTC] [NEW]   🆕 📦 MrAzoth/S
+     ⭐ 0  🗣 C  📅 2026-06-20
+     🔗 https://github.com/MrAzoth/S
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 14:07:49 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-20 14:07:49 UTC] [UPD]   📢 📦 SamiAdamMoughli/BlackoutCurtains
+     ⭐ 0  🗣 C++  📅 2026-06-16
+     🔗 https://github.com/SamiAdamMoughli/BlackoutCurtains
+     📝  BlackoutCurtains is an educational ransomware tool for Windows that encrypts fi…
+     🏷  malware, ransomware, red-team
+     🔄 Motivo: repo recente (3gg)
+[2026-06-20 14:07:49 UTC] [UPD]   📢 📦 ranazain5036/symantec-ep-14-3-enhancement-kit
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/ranazain5036/symantec-ep-14-3-enhancement-kit
+     📝 Symantec Endpoint Protection 14.3.10148 Secure Toolkit 2026
+     🏷  symantec, symantec-download, symantec-endpoint-protection, symantec-endpoint-protection-download, symantec-endpoint-protection-install, symantec-endpoint-protection-key, symantec-endpoint-protection-patch, symantec-endpoint-protection-software, symantec-endpoint-protection-trial, symantec-install, symantec-key, symantec-patch, symantec-software, symantec-trial
+     🔄 Motivo: repo recente (1gg)
+[2026-06-20 14:07:49 UTC] [UPD]   📢 📦 kennystrawnmusic/TensorBuster
+     ⭐ 1  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/kennystrawnmusic/TensorBuster
+     📝 C2 framework for the AI era
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-20 14:07:49 UTC] [UPD]   📢 📦 daniellecouilliard/edreams
+     ⭐ 0  🗣 JavaScript  📅 2026-06-19
+     🔗 https://github.com/daniellecouilliard/edreams
+     📝 Proof of bugs
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-20 14:07:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-20 14:07:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-20 14:07:51 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 14:07:51 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-20 14:07:51 UTC] [NEW]   🆕 📦 WNobsi/kioptrix.level1-using-Metaploit-
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/WNobsi/kioptrix.level1-using-Metaploit-
+     📝 Writeup for breaking into the machine called Kioptrix.level1.
+     🏷  —
+[2026-06-20 14:07:51 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-20 14:07:51 UTC] [UPD]   📢 📦 dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     📝 iMyFone LockWiper 8.6.6 Full Unlock 2026 - Bypass iOS Passcode Instantly
+     🏷  imyfone, imyfone-download, imyfone-install, imyfone-key, imyfone-lockwiper, imyfone-lockwiper-download, imyfone-lockwiper-install, imyfone-lockwiper-key, imyfone-lockwiper-patch, imyfone-lockwiper-software, imyfone-lockwiper-trial, imyfone-patch, imyfone-software, imyfone-trial
+     🔄 Motivo: repo recente (2gg)
+[2026-06-20 14:07:51 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-20 14:07:51 UTC] [UPD]   📢 📦 achnouri/Machines
+     ⭐ 2  🗣 N/A  📅 2026-06-05
+     🔗 https://github.com/achnouri/Machines
+     📝 Linux, Windows, Active Directory, and OT/ICS machines writeups
+     🏷  active-directory, command-and-control, data-exfiltration, enumeration, ics-security, initial-access, lateral-movement, linux, offensive-security, penetration-testing, persistence, pivoting, post-exploitation, privilege-escalation, reconnaissance, red-team, root, websecurity, windows, writeups
+     🔄 Motivo: nuovi topic: websecurity, data-exfiltration, windows, post-exploitation, reconnaissance, offensive-security, command-and-control, root, enumeration, pivoting, persistence, red-team, active-directory, penetration-testing, lateral-movement, writeups, ics-security, privilege-escalation, linux, initial-access
+[2026-06-20 14:07:51 UTC] [INFO] ============================================================
+[2026-06-20 14:07:51 UTC] [INFO] Completato — 17 nuovi, 7 aggiornati, 0 errori
+[2026-06-20 14:07:51 UTC] [INFO] ============================================================
