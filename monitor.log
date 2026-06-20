@@ -21597,3 +21597,222 @@
 [2026-06-19 19:51:27 UTC] [INFO] ============================================================
 [2026-06-19 19:51:27 UTC] [INFO] Completato — 17 nuovi, 5 aggiornati, 0 errori
 [2026-06-19 19:51:27 UTC] [INFO] ============================================================
+[2026-06-20 03:52:57 UTC] [INFO] ============================================================
+[2026-06-20 03:52:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-20 03:52:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-20 03:52:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-20 03:52:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-20 03:52:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-20 03:52:57 UTC] [INFO] ============================================================
+[2026-06-20 03:52:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-20 03:52:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-20 03:52:59 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 03:52:59 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-20 03:52:59 UTC] [NEW]   🆕 📦 robert-iw3/ir_toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-06-19
+     🔗 https://github.com/robert-iw3/ir_toolkit
+     📝 stop chasing the ghost in the machine
+     🏷  —
+[2026-06-20 03:52:59 UTC] [NEW]   🆕 📦 Shadow-King-Cyber/BYOVD_EDRKiller
+     ⭐ 0  🗣 C  📅 2026-06-20
+     🔗 https://github.com/Shadow-King-Cyber/BYOVD_EDRKiller
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:52:59 UTC] [NEW]   🆕 📦 gabiRoBt/ANTS
+     ⭐ 1  🗣 Rust  📅 2026-06-19
+     🔗 https://github.com/gabiRoBt/ANTS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:52:59 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-20 03:52:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-20 03:52:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-20 03:53:02 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 Mpinedo04/ciberproyect
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/Mpinedo04/ciberproyect
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 daniellecouilliard/edreams
+     ⭐ 0  🗣 JavaScript  📅 2026-06-19
+     🔗 https://github.com/daniellecouilliard/edreams
+     📝 Proof of bugs
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 TMichael33/Risk-Register-
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/TMichael33/Risk-Register-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 geoffbelknap/limacharlie-mcp
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/geoffbelknap/limacharlie-mcp
+     📝 Geoff's LimaCharlie MCP server with Vault-first auth, focused profiles, review t…
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 mtclinton/defensive-suite
+     ⭐ 0  🗣 Go  📅 2026-06-19
+     🔗 https://github.com/mtclinton/defensive-suite
+     📝 A personal defensive security suite for a Linux developer workstation
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 kennystrawnmusic/TensorBuster
+     ⭐ 1  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/kennystrawnmusic/TensorBuster
+     📝 C2 framework for the AI era
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 nludd25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/nludd25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 digdeflab-bsd/Suspicious-Executable-Analysis-Joe-Sandbox-Wireshark-Traffic-Capture
+     ⭐ 0  🗣 HTML  📅 2026-06-20
+     🔗 https://github.com/digdeflab-bsd/Suspicious-Executable-Analysis-Joe-Sandbox-Wireshark-Traffic-Capture
+     📝 Threat Intelligence / Malware Analysis
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 cybersheepdog/Requip
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/cybersheepdog/Requip
+     📝 Threat Hunting Platform
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 digdeflab-bsd/Suspicious-Executable-Analysis-Detected-via-Sysmon-Telemetry-VirusTotal-Static-Behavioral-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/digdeflab-bsd/Suspicious-Executable-Analysis-Detected-via-Sysmon-Telemetry-VirusTotal-Static-Behavioral-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 utmostelf5752/localpilot-windows
+     ⭐ 0  🗣 C#  📅 2026-06-20
+     🔗 https://github.com/utmostelf5752/localpilot-windows
+     📝 LocalPilot Desktop (Windows) — .NET 8 + WPF port of the local-first, guarded des…
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 KaijuSecurity/BYOSI-Bash
+     ⭐ 0  🗣 PowerShell  📅 2026-06-20
+     🔗 https://github.com/KaijuSecurity/BYOSI-Bash
+     📝 Bring-Your-Own-Script-Interpreter (BYOSI) - RELOADED
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 Miguel-R13/SOC-Lab-Elastic-Security-Threat-Detection-Platform
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/Miguel-R13/SOC-Lab-Elastic-Security-Threat-Detection-Platform
+     📝 Este proyecto documenta el diseño, despliegue y configuración de un laboratorio …
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 Museumelsnare48/Edraw-MindMaster-Pro-2026
+     ⭐ 1  🗣 C++  📅 2026-06-20
+     🔗 https://github.com/Museumelsnare48/Edraw-MindMaster-Pro-2026
+     📝 ⭐️ Edraw MindMaster Pro download full version keygen patch serial activator port…
+     🏷  mindmap
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 Shadow-King-Cyber/BYOVD_EDRKiller
+     ⭐ 0  🗣 C  📅 2026-06-20
+     🔗 https://github.com/Shadow-King-Cyber/BYOVD_EDRKiller
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 zwdemz/Fofa-grammar
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/zwdemz/Fofa-grammar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 krmayankk/secscan
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/krmayankk/secscan
+     📝 Read-only host security & spam scanner for Linux desktops (browser spam, keylogg…
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 thrive-spectrexq/r3trive
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/thrive-spectrexq/r3trive
+     📝 Endpoint detection, threat hunting, and automated defense — from a single portab…
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 senthil1216/trustspan
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/senthil1216/trustspan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 MimamorAI/RedSilica_v.01
+     ⭐ 0  🗣 EJS  📅 2026-06-19
+     🔗 https://github.com/MimamorAI/RedSilica_v.01
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 theexelen/edrt
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/theexelen/edrt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 TonyTrapper/BAT-Reverse-Shell-Generator
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/TonyTrapper/BAT-Reverse-Shell-Generator
+     📝 Python utility that generates a Base64-encoded PowerShell reverse shell inside a…
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 arwenvangestel-hue/de-koning-van-wouw
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/arwenvangestel-hue/de-koning-van-wouw
+     📝 EdR
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 pave-lik/pave-lik
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/pave-lik/pave-lik
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 4wwy/tool-inutil
+     ⭐ 0  🗣 C++  📅 2026-06-19
+     🔗 https://github.com/4wwy/tool-inutil
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 allmicdv/hacklearn-platform
+     ⭐ 0  🗣 TypeScript  📅 2026-06-19
+     🔗 https://github.com/allmicdv/hacklearn-platform
+     📝 Plataforma de aprendizado de ciberseguranca - alternativa ao TryHackMe em portug…
+     🏷  —
+[2026-06-20 03:53:02 UTC] [NEW]   🆕 📦 eutsly/windows-soc-adversary-emulator-advanced-v2-full-coverage
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/eutsly/windows-soc-adversary-emulator-advanced-v2-full-coverage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-20 03:53:02 UTC] [UPD]   📢 📦 AdityaThokane/AdityaThokane
+     ⭐ 0  🗣 N/A  📅 2026-06-19
+     🔗 https://github.com/AdityaThokane/AdityaThokane
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-20 03:53:02 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-20 03:53:02 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-20 03:53:04 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-20 03:53:04 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-06-20 03:53:04 UTC] [NEW]   🆕 📦 jimmi-aylesworth/RTFM
+     ⭐ 0  🗣 N/A  📅 2026-06-20
+     🔗 https://github.com/jimmi-aylesworth/RTFM
+     📝 Red Team Field Manual
+     🏷  —
+[2026-06-20 03:53:04 UTC] [NEW]   🆕 📦 gamestation4/Ps4v5
+     ⭐ 0  🗣 JavaScript  📅 2026-06-20
+     🔗 https://github.com/gamestation4/Ps4v5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-20 03:53:04 UTC] [NEW]   🆕 📦 ShoRoy/claude-docker-sandbox
+     ⭐ 0  🗣 Dockerfile  📅 2026-06-19
+     🔗 https://github.com/ShoRoy/claude-docker-sandbox
+     📝 A hardened Docker dev container for running Claude Code (an AI coding agent) on …
+     🏷  ai-agents, claude-code, devcontainer, docker, llm-tooling, sandbox, wsl
+[2026-06-20 03:53:04 UTC] [NEW]   🆕 📦 GrimDocDimes/Binary-Exploit
+     ⭐ 0  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/GrimDocDimes/Binary-Exploit
+     📝 A command-line binary analysis and exploitation assistant built in Python using …
+     🏷  —
+[2026-06-20 03:53:04 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-20 03:53:04 UTC] [UPD]   📢 📦 mhxoo/Solace-Execution-Framework
+     ⭐ 70  🗣 HTML  📅 2026-06-15
+     🔗 https://github.com/mhxoo/Solace-Execution-Framework
+     📝 Best Roblox Script Hub for Advanced Exploits & Automation 2026
+     🏷  adopt-me-script-spawn-pets, blox-fruits-script-all-fruits, clanning, exploit-development, exploit-scripts, exploiting, exploits, kernel-exploitation, key-system, lua-language, oxygen-v2-download, pet-finder, roblox-combat, roblox-generation, roblox-scripting-tutorials, script-execution, script-hub, scripthub, scriptware, wearedevs
+     🔄 Motivo: repo recente (4gg)
+[2026-06-20 03:53:04 UTC] [UPD]   📢 📦 dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     📝 iMyFone LockWiper 8.6.6 Full Unlock 2026 - Bypass iOS Passcode Instantly
+     🏷  imyfone, imyfone-download, imyfone-install, imyfone-key, imyfone-lockwiper, imyfone-lockwiper-download, imyfone-lockwiper-install, imyfone-lockwiper-key, imyfone-lockwiper-patch, imyfone-lockwiper-software, imyfone-lockwiper-trial, imyfone-patch, imyfone-software, imyfone-trial
+     🔄 Motivo: repo recente (2gg)
+[2026-06-20 03:53:04 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-20 03:53:04 UTC] [INFO] ============================================================
+[2026-06-20 03:53:04 UTC] [INFO] Completato — 34 nuovi, 4 aggiornati, 0 errori
+[2026-06-20 03:53:04 UTC] [INFO] ============================================================
