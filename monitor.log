@@ -22628,3 +22628,129 @@
 [2026-06-21 09:52:43 UTC] [INFO] ============================================================
 [2026-06-21 09:52:43 UTC] [INFO] Completato — 16 nuovi, 8 aggiornati, 0 errori
 [2026-06-21 09:52:43 UTC] [INFO] ============================================================
+[2026-06-21 14:14:58 UTC] [INFO] ============================================================
+[2026-06-21 14:14:58 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-21 14:14:58 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-21 14:14:58 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-21 14:14:58 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-21 14:14:58 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-21 14:14:58 UTC] [INFO] ============================================================
+[2026-06-21 14:14:58 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-21 14:14:58 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-21 14:14:59 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-21 14:14:59 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-21 14:14:59 UTC] [NEW]   🆕 📦 morteza-hosseinabadi/next-gen-soc
+     ⭐ 0  🗣 Python  📅 2026-06-21
+     🔗 https://github.com/morteza-hosseinabadi/next-gen-soc
+     📝 Building the next generation of SOC operations: automated, AI-assisted, and dete…
+     🏷  —
+[2026-06-21 14:14:59 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-21 14:14:59 UTC] [UPD]   📢 📦 kwkkd/akatsuki-hermes-integration
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/kwkkd/akatsuki-hermes-integration
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-21 14:14:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-21 14:14:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-21 14:15:02 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 📦 wesamhub/The-Glasshouse-project
+     ⭐ 0  🗣 HTML  📅 2026-06-21
+     🔗 https://github.com/wesamhub/The-Glasshouse-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 📦 yatuk/yatuk
+     ⭐ 0  🗣 N/A  📅 2026-06-21
+     🔗 https://github.com/yatuk/yatuk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 📦 deepakbhagtani-110940/agent-golden-signals
+     ⭐ 0  🗣 Python  📅 2026-06-21
+     🔗 https://github.com/deepakbhagtani-110940/agent-golden-signals
+     📝 Artifacts for: Outcome-Level Observability for Multi-Agent SDLC Pipelines — A Go…
+     🏷  —
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 📦 mcjohnso/EDRavenColonialAgent
+     ⭐ 0  🗣 Python  📅 2026-06-21
+     🔗 https://github.com/mcjohnso/EDRavenColonialAgent
+     📝 EDMC plugin: in-game 'commodities still needed' colony overlay for Elite Dangero…
+     🏷  —
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 📦 johnwilliamestacio/DetectionEngineering
+     ⭐ 0  🗣 N/A  📅 2026-06-21
+     🔗 https://github.com/johnwilliamestacio/DetectionEngineering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 📦 cyberc0ffee/AntiAIVi
+     ⭐ 0  🗣 JavaScript  📅 2026-06-21
+     🔗 https://github.com/cyberc0ffee/AntiAIVi
+     📝 OpenSource EDR
+     🏷  —
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 📦 Maple728/NanoPlayer
+     ⭐ 0  🗣 Swift  📅 2026-06-21
+     🔗 https://github.com/Maple728/NanoPlayer
+     📝 Nano Player: A dead-simple macOS video player with native Dolby Vision & HDR pas…
+     🏷  —
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 📦 AuDowty/microhook
+     ⭐ 0  🗣 C++  📅 2026-06-21
+     🔗 https://github.com/AuDowty/microhook
+     📝 Modern C++20 x64 inline-hooking library for Windows. ~600 LOC, no external deps.
+     🏷  —
+[2026-06-21 14:15:02 UTC] [NEW]   🆕 📦 ShardSortFunicular/edrroyln
+     ⭐ 0  🗣 N/A  📅 2026-06-21
+     🔗 https://github.com/ShardSortFunicular/edrroyln
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-21 14:15:02 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-21 14:15:02 UTC] [UPD]   📢 📦 ranazain5036/symantec-ep-14-3-enhancement-kit
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/ranazain5036/symantec-ep-14-3-enhancement-kit
+     📝 Symantec Endpoint Protection 14.3.10148 Secure Toolkit 2026
+     🏷  symantec, symantec-download, symantec-endpoint-protection, symantec-endpoint-protection-download, symantec-endpoint-protection-install, symantec-endpoint-protection-key, symantec-endpoint-protection-patch, symantec-endpoint-protection-software, symantec-endpoint-protection-trial, symantec-install, symantec-key, symantec-patch, symantec-software, symantec-trial
+     🔄 Motivo: repo recente (2gg)
+[2026-06-21 14:15:02 UTC] [UPD]   📢 📦 jzgyhlove/syslog-viewer
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/jzgyhlove/syslog-viewer
+     📝 基于 FastAPI + Vue3 构建的轻量级 Syslog 日志集中采集与分析平台。支持自动化日志解析、设备自动匹配、实时监控与安全审计，专为提升信息安全运…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-21 14:15:02 UTC] [UPD]   📢 📦 jojaes0/random_tower_defense
+     ⭐ 0  🗣 TypeScript  📅 2026-06-19
+     🔗 https://github.com/jojaes0/random_tower_defense
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-21 14:15:02 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-21 14:15:02 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-21 14:15:04 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-21 14:15:04 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-21 14:15:04 UTC] [NEW]   🆕 📦 Hetyey/Coruna
+     ⭐ 1  🗣 Objective-C  📅 2026-06-21
+     🔗 https://github.com/Hetyey/Coruna
+     📝 Coruna kernel exploit and PPL/SPTM bypass, reverse-engineered and reimplemented …
+     🏷  —
+[2026-06-21 14:15:04 UTC] [NEW]   🆕 📦 sachinp9797/codebench
+     ⭐ 0  🗣 TypeScript  📅 2026-06-21
+     🔗 https://github.com/sachinp9797/codebench
+     📝 Multi-dimensional LLM coding benchmark — evaluates models × prompt-configs on Ty…
+     🏷  —
+[2026-06-21 14:15:04 UTC] [NEW]   🆕 📦 edygert/bhindex
+     ⭐ 0  🗣 Python  📅 2026-06-21
+     🔗 https://github.com/edygert/bhindex
+     📝 Local-first harvester and index for Black Hat conference session metadata (Wayba…
+     🏷  black-hat, full-text-search, osint, python, sqlite, tui, wayback-machine
+[2026-06-21 14:15:04 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-21 14:15:04 UTC] [UPD]   📢 📦 dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/dadhaniyamadhav/iMyFone-LockWiper-8.6.6-Unlock-Toolkit
+     📝 iMyFone LockWiper 8.6.6 Full Unlock 2026 - Bypass iOS Passcode Instantly
+     🏷  imyfone, imyfone-download, imyfone-install, imyfone-key, imyfone-lockwiper, imyfone-lockwiper-download, imyfone-lockwiper-install, imyfone-lockwiper-key, imyfone-lockwiper-patch, imyfone-lockwiper-software, imyfone-lockwiper-trial, imyfone-patch, imyfone-software, imyfone-trial
+     🔄 Motivo: repo recente (3gg)
+[2026-06-21 14:15:04 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-21 14:15:04 UTC] [INFO] ============================================================
+[2026-06-21 14:15:04 UTC] [INFO] Completato — 13 nuovi, 6 aggiornati, 0 errori
+[2026-06-21 14:15:04 UTC] [INFO] ============================================================
