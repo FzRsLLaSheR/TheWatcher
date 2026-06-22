@@ -23124,3 +23124,192 @@
 [2026-06-22 04:26:10 UTC] [INFO] ============================================================
 [2026-06-22 04:26:10 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
 [2026-06-22 04:26:10 UTC] [INFO] ============================================================
+[2026-06-22 12:07:46 UTC] [INFO] ============================================================
+[2026-06-22 12:07:46 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-22 12:07:46 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-22 12:07:46 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-22 12:07:46 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-22 12:07:46 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-22 12:07:46 UTC] [INFO] ============================================================
+[2026-06-22 12:07:46 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-22 12:07:46 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-22 12:07:48 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-22 12:07:48 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-22 12:07:48 UTC] [NEW]   🆕 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 0  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+[2026-06-22 12:07:48 UTC] [NEW]   🆕 📦 nish4d01/Learn-cpp
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/nish4d01/Learn-cpp
+     📝 For learning
+     🏷  —
+[2026-06-22 12:07:48 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-22 12:07:48 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-22 12:07:48 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-22 12:07:51 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 rabbit2747/LabForge
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/rabbit2747/LabForge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 youssefnoob003/SindriKit
+     ⭐ 0  🗣 C  📅 2026-06-22
+     🔗 https://github.com/youssefnoob003/SindriKit
+     📝 A foundational C library for building operationally credible offensive capabilit…
+     🏷  cybersecurity, exploit-development, infosec, windows-internals
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 MaybeBio/gromacs-manual
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/MaybeBio/gromacs-manual
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 0  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 costrict-plugins-repo/github-trending-pentest-ai-agents
+     ⭐ 0  🗣 Shell  📅 2026-06-22
+     🔗 https://github.com/costrict-plugins-repo/github-trending-pentest-ai-agents
+     📝 costrict-plugins mirror of github-trending-pentest-ai-agents (auto-generated, do…
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 errolyan/EDR-imgs
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/errolyan/EDR-imgs
+     📝 图床-EDR产品
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 SupDoK/Sauron
+     ⭐ 0  🗣 C++  📅 2026-06-22
+     🔗 https://github.com/SupDoK/Sauron
+     📝 Sauron is generated using "hf.co/mradermacher/Huihui-Qwen3-Coder-30B-A3B-Instruc…
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 fayad007/SOAR-EDR-Project
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/fayad007/SOAR-EDR-Project
+     📝 Security, Orchestration, Automation and Response Using Endpoint Detection and Re…
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 ZacharyGeurts/NEXUS-Shield
+     ⭐ 0  🗣 Shell  📅 2026-06-22
+     🔗 https://github.com/ZacharyGeurts/NEXUS-Shield
+     📝 Ultimate Custom Invisible Security Suite - NEXUS ∞ by AmouranthRTX | World's bes…
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 Buendia94/information_security
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/Buendia94/information_security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 chubby-c-a-t/SOC-Alert-Investigations
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/chubby-c-a-t/SOC-Alert-Investigations
+     📝 A repository documenting my SOC investigations.
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 amstrongluiese/edr
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/amstrongluiese/edr
+     📝 End Point Detection
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 wangdeangela/harmless-chain-demo
+     ⭐ 1  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/wangdeangela/harmless-chain-demo
+     📝 harmless-attackchain-demo
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 kavya-dodla/bluetooth-home-automation-gas-leakage-detection
+     ⭐ 0  🗣 C++  📅 2026-06-22
+     🔗 https://github.com/kavya-dodla/bluetooth-home-automation-gas-leakage-detection
+     📝 Bluetooth-based Home Automation and Gas Leakage Detection System using NodeMCU E…
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 agent-kits/alert-triage-enricher
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/agent-kits/alert-triage-enricher
+     📝 AgentKits agent blueprint: alert-triage-enricher - agent-kits.com (CC BY 4.0)
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 arnamchaurasiya/WebGuard-AI---ML-Powered-Phishing-Website-Detection-Engine
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/arnamchaurasiya/WebGuard-AI---ML-Powered-Phishing-Website-Detection-Engine
+     📝 ML-powered phishing detection engine extracting 43 live DOM features for real-ti…
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 johnlee96/helix_lending_de_submission
+     ⭐ 0  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/johnlee96/helix_lending_de_submission
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 nish4d01/Learn-cpp
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/nish4d01/Learn-cpp
+     📝 For learning
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 FlemingJohn/Sentinel-Seal
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/FlemingJohn/Sentinel-Seal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 aedullasathvika/edrealm2
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/aedullasathvika/edrealm2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 OSINTI4L/Gobbledegook
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/OSINTI4L/Gobbledegook
+     📝 Gobbledegook is a proof of concept (PoC) hotplug attack payload resistant to pos…
+     🏷  hacking, hak5-rubber-ducky, hotplug, linux, payload, usbrubberducky
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 arnamchaurasiya/SIEM-Guard-AI-Powered-Network-Anomaly-Detection
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-22
+     🔗 https://github.com/arnamchaurasiya/SIEM-Guard-AI-Powered-Network-Anomaly-Detection
+     📝 🛡️ AI/ML-powered SIEM anomaly detection engine — classifies network traffic as N…
+     🏷  anomaly-detection, cybersecurity, flask, machine-learning, network-security, nsl-kdd, python, siem
+[2026-06-22 12:07:51 UTC] [NEW]   🆕 📦 youzbe/edrcpm
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/youzbe/edrcpm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 12:07:51 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-22 12:07:51 UTC] [UPD]   📢 📦 gl0di/clawseccheck
+     ⭐ 4  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/gl0di/clawseccheck
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-22 12:07:51 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-22 12:07:51 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-22 12:07:53 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-22 12:07:53 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-22 12:07:53 UTC] [NEW]   🆕 📦 costrict-plugins-repo/github-trending-pentest-ai-agents
+     ⭐ 0  🗣 Shell  📅 2026-06-22
+     🔗 https://github.com/costrict-plugins-repo/github-trending-pentest-ai-agents
+     📝 costrict-plugins mirror of github-trending-pentest-ai-agents (auto-generated, do…
+     🏷  —
+[2026-06-22 12:07:53 UTC] [NEW]   🆕 📦 nish4d01/Learn-cpp
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/nish4d01/Learn-cpp
+     📝 For learning
+     🏷  —
+[2026-06-22 12:07:53 UTC] [NEW]   🆕 📦 cbuzuloiu/Tactical-Cyber-Range-Automated-Attack-Defense-Environment
+     ⭐ 0  🗣 PHP  📅 2026-06-21
+     🔗 https://github.com/cbuzuloiu/Tactical-Cyber-Range-Automated-Attack-Defense-Environment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 12:07:53 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-22 12:07:53 UTC] [UPD]   📢 📦 Hetyey/Coruna
+     ⭐ 2  🗣 Objective-C  📅 2026-06-21
+     🔗 https://github.com/Hetyey/Coruna
+     📝 Coruna kernel exploit and PPL/SPTM bypass, reverse-engineered and reimplemented …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-22 12:07:53 UTC] [UPD]   📢 📦 BenAmorFarouk/interactive-agentic-pentest
+     ⭐ 0  🗣 JavaScript  📅 2026-06-21
+     🔗 https://github.com/BenAmorFarouk/interactive-agentic-pentest
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-22 12:07:53 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-22 12:07:53 UTC] [INFO] ============================================================
+[2026-06-22 12:07:53 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
+[2026-06-22 12:07:53 UTC] [INFO] ============================================================
