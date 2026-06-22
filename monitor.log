@@ -23313,3 +23313,245 @@
 [2026-06-22 12:07:53 UTC] [INFO] ============================================================
 [2026-06-22 12:07:53 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
 [2026-06-22 12:07:53 UTC] [INFO] ============================================================
+[2026-06-22 20:50:27 UTC] [INFO] ============================================================
+[2026-06-22 20:50:27 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-22 20:50:27 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-22 20:50:27 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-22 20:50:27 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-22 20:50:27 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-22 20:50:27 UTC] [INFO] ============================================================
+[2026-06-22 20:50:27 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-22 20:50:27 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-22 20:50:30 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-22 20:50:30 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-22 20:50:30 UTC] [NEW]   🆕 📦 DeFexNN/kernel-spyglass
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/DeFexNN/kernel-spyglass
+     📝 Windows kernel security research lab — DKOM process hiding, minifilter file hidi…
+     🏷  —
+[2026-06-22 20:50:30 UTC] [NEW]   🆕 📦 thecontentstudios/NetJump
+     ⭐ 0  🗣 PowerShell  📅 2026-06-22
+     🔗 https://github.com/thecontentstudios/NetJump
+     📝 Real-time network + security HUD for Windows. Single PowerShell + WPF file. Live…
+     🏷  byovd, diagnostic, ipv6, network-monitoring, powershell, prometheus, security, threat-intelligence, windows, wpf
+[2026-06-22 20:50:30 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-22 20:50:30 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 1  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (0gg)
+[2026-06-22 20:50:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-22 20:50:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-22 20:50:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 31 NUOVI repository:
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 0xUnd3adBeef/hooksweeper
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/0xUnd3adBeef/hooksweeper
+     📝 Tool to detect AV and EDR hooks.
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 pogorelov-labs/flipper-ble-mcp
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/pogorelov-labs/flipper-ble-mcp
+     📝 Drive a Flipper Zero wirelessly over Bluetooth LE from Claude — an MCP server + …
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 aymaan-balbale/folsec_auditorV1
+     ⭐ 0  🗣 Rust  📅 2026-06-22
+     🔗 https://github.com/aymaan-balbale/folsec_auditorV1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 RobSealock/ad-recon-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-06-21
+     🔗 https://github.com/RobSealock/ad-recon-toolkit
+     📝 AD & Server-OS Blue-Team Documentation and Assessment Toolkit
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 zeruhabesha/betawebsite
+     ⭐ 0  🗣 JavaScript  📅 2026-06-22
+     🔗 https://github.com/zeruhabesha/betawebsite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 OscarArevaloSec/cred-dump-triage
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/OscarArevaloSec/cred-dump-triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 mouresh/SOCVision-AI
+     ⭐ 0  🗣 TypeScript  📅 2026-06-22
+     🔗 https://github.com/mouresh/SOCVision-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 AIxCyber/ShadowHive
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/AIxCyber/ShadowHive
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 adrianatomescu/LUCRARE-DE-DIPLOMA
+     ⭐ 0  🗣 TypeScript  📅 2026-06-22
+     🔗 https://github.com/adrianatomescu/LUCRARE-DE-DIPLOMA
+     📝 Sistem inteligent pentru automatizarea raspunsului la incidente de securitate ci…
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 altair-0000/Ransomware-Chain-Simulation
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/altair-0000/Ransomware-Chain-Simulation
+     📝 Educational ransomware chain simulation for cybersecurity training and EDR testi…
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 edrianolima/edrianolima
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/edrianolima/edrianolima
+     📝 Profile README
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 copnatalie/SOC--INVESTIGATIONS
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/copnatalie/SOC--INVESTIGATIONS
+     📝 Collection of 23+ SOC investigations and alert analyses covering Windows event l…
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 Sunidhi1403/EDRIX-MODULE-ONE
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/Sunidhi1403/EDRIX-MODULE-ONE
+     📝 BUSINESS ANALYSIS PORTFOLIO
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 UnsaltedHash42/bashbelt
+     ⭐ 0  🗣 Shell  📅 2026-06-22
+     🔗 https://github.com/UnsaltedHash42/bashbelt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 rohan1252030019-netizen/ETAI
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/rohan1252030019-netizen/ETAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 xwadm/hack
+     ⭐ 0  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/xwadm/hack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 Okidaii/nim_blueprint
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/Okidaii/nim_blueprint
+     📝 NVIDIA NIM workflow
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 Bhuvanesh3602/APTGuard-AI
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/Bhuvanesh3602/APTGuard-AI
+     📝 🛡️ AI-powered Cyber Resilience Platform for critical infrastructure. Detects beh…
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 cyber4s2020-bot/VAPT
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/cyber4s2020-bot/VAPT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 ONGHOST/EDR-Behavior-Explorer
+     ⭐ 1  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/ONGHOST/EDR-Behavior-Explorer
+     📝 EDR Behavior Explorer
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 imagenetmit/ipscry
+     ⭐ 0  🗣 Go  📅 2026-06-22
+     🔗 https://github.com/imagenetmit/ipscry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 moskysarah/Cyber-Architecture
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/moskysarah/Cyber-Architecture
+     📝 Here we explain every step to learning  in cybersecurity
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 mddanish/signal-to-noise
+     ⭐ 0  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/mddanish/signal-to-noise
+     📝 A curated collection of my public talks, conference presentations, whitepapers, …
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 hmep313/EDRP_MICCAI
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/hmep313/EDRP_MICCAI
+     📝 [MICCAI'26] Eigen-Directed Random Projection for Medical Image Class Incremental…
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 Geniorama/formulario-edra
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/Geniorama/formulario-edra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 ronepstein/dll-injection-poc
+     ⭐ 0  🗣 C  📅 2026-06-22
+     🔗 https://github.com/ronepstein/dll-injection-poc
+     📝 Classic DLL injection via CreateRemoteThread — proof of concept
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 TalhaaIqbal/Purple-Team-Cybersecurity-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/TalhaaIqbal/Purple-Team-Cybersecurity-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 HeorhiiHladkyi/cti-osint-pipeline
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/HeorhiiHladkyi/cti-osint-pipeline
+     📝 Automated CTI IoC-enrichment OSINT pipeline (Напрям 3): collect -> store -> repo…
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 utsav-here/OBSERVER---keylogger
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/utsav-here/OBSERVER---keylogger
+     📝 OBSERVER is a dual-purpose cybersecurity research tool developed in Python to an…
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 Bhumik1395/Sentinel
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/Bhumik1395/Sentinel
+     📝 AI-assisted Endpoint Detection and Response (EDR) platform with threat detection…
+     🏷  —
+[2026-06-22 20:50:33 UTC] [NEW]   🆕 📦 amirali-ramezani/simpleEDR
+     ⭐ 0  🗣 C  📅 2026-06-22
+     🔗 https://github.com/amirali-ramezani/simpleEDR
+     📝 this is the simple kernel driver that have few rule to detect abnormally in the …
+     🏷  —
+[2026-06-22 20:50:33 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-22 20:50:33 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 1  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (0gg)
+[2026-06-22 20:50:33 UTC] [UPD]   📢 📦 OSINTI4L/Gobbledegook
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/OSINTI4L/Gobbledegook
+     📝 Gobbledegook is a proof of concept (PoC) hotplug attack payload emphasizing meas…
+     🏷  hacking, hak5-rubber-ducky, hotplug, linux, payload, usbrubberducky
+     🔄 Motivo: repo recente (0gg)
+[2026-06-22 20:50:33 UTC] [UPD]   📢 📦 youssefnoob003/SindriKit
+     ⭐ 5  🗣 C  📅 2026-06-22
+     🔗 https://github.com/youssefnoob003/SindriKit
+     📝 A foundational C library for building operationally credible offensive capabilit…
+     🏷  cybersecurity, exploit-development, infosec, windows-internals
+     🔄 Motivo: repo recente (0gg)
+[2026-06-22 20:50:33 UTC] [UPD]   📢 📦 yifeng2019uwb/ebpf-lab
+     ⭐ 0  🗣 C  📅 2026-06-21
+     🔗 https://github.com/yifeng2019uwb/ebpf-lab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-22 20:50:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-22 20:50:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-22 20:50:36 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-22 20:50:36 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-22 20:50:36 UTC] [NEW]   🆕 📦 the-genesis-dev/DIPA-iOS
+     ⭐ 0  🗣 Swift  📅 2026-06-22
+     🔗 https://github.com/the-genesis-dev/DIPA-iOS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:36 UTC] [NEW]   🆕 📦 the-genesis-dev/New-iOS
+     ⭐ 0  🗣 Swift  📅 2026-06-22
+     🔗 https://github.com/the-genesis-dev/New-iOS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-22 20:50:36 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-22 20:50:36 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-22 20:50:36 UTC] [UPD]   📢 📦 BenAmorFarouk/interactive-agentic-pentest
+     ⭐ 0  🗣 JavaScript  📅 2026-06-21
+     🔗 https://github.com/BenAmorFarouk/interactive-agentic-pentest
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-22 20:50:36 UTC] [INFO] ============================================================
+[2026-06-22 20:50:36 UTC] [INFO] Completato — 35 nuovi, 7 aggiornati, 0 errori
+[2026-06-22 20:50:36 UTC] [INFO] ============================================================
