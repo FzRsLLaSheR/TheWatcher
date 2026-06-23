@@ -23845,3 +23845,116 @@
 [2026-06-23 09:42:47 UTC] [INFO] ============================================================
 [2026-06-23 09:42:47 UTC] [INFO] Completato — 19 nuovi, 7 aggiornati, 0 errori
 [2026-06-23 09:42:47 UTC] [INFO] ============================================================
+[2026-06-23 14:52:50 UTC] [INFO] ============================================================
+[2026-06-23 14:52:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-23 14:52:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-23 14:52:50 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-23 14:52:50 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-23 14:52:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-23 14:52:50 UTC] [INFO] ============================================================
+[2026-06-23 14:52:50 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-23 14:52:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-23 14:52:53 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-23 14:52:53 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-23 14:52:53 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-23 14:52:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-23 14:52:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-23 14:52:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 Strtus/mfa-gate
+     ⭐ 0  🗣 Go  📅 2026-06-23
+     🔗 https://github.com/Strtus/mfa-gate
+     📝 Docker-first ForwardAuth-first MFA gate for self-hosted HTTP/HTTPS services
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 anastra13/os-upgrade-inventory
+     ⭐ 0  🗣 Shell  📅 2026-06-23
+     🔗 https://github.com/anastra13/os-upgrade-inventory
+     📝 A lightweight, automated system inventory tool designed to audit Linux servers v…
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 yinxinhai0128/enterprise-ai-knowledge-qa
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/yinxinhai0128/enterprise-ai-knowledge-qa
+     📝 企业级 Agentic RAG 知识问答系统 — FastAPI + LangChain 1.3 + LangGraph + React + TypeScrip…
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 Benqxc/hackingtool-pentest
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/Benqxc/hackingtool-pentest
+     📝 Claude Code plugin: 183+ pentesting and OSINT tools
+     🏷  claude-code, osint, pentesting, security
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 dioxtra/ConfigGuardian
+     ⭐ 1  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/dioxtra/ConfigGuardian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 raheemsultan337-ship-it/HID-attack-pen-testing
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/raheemsultan337-ship-it/HID-attack-pen-testing
+     📝 This project demonstrates the execution of a hardware-based HID (Human Interface…
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 bcode73/ghost-protocol
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/bcode73/ghost-protocol
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 suman373-code/Schibsted_files
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/suman373-code/Schibsted_files
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 Zahraxy09/ai-cybersecurity-guide
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/Zahraxy09/ai-cybersecurity-guide
+     📝 A technical guide to AI in cybersecurity: anomaly detection, network traffic ana…
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 onlyone5121314/BLE
+     ⭐ 0  🗣 C  📅 2026-06-23
+     🔗 https://github.com/onlyone5121314/BLE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 ron-test-org/aspnet-framework-0x7556-wolfshell-e2e
+     ⭐ 0  🗣 ASP.NET  📅 2026-06-23
+     🔗 https://github.com/ron-test-org/aspnet-framework-0x7556-wolfshell-e2e
+     📝 ASP.NET Framework E2E test corpus: 0x7556_wolfshell
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 eddwil32/ad-rf-sync
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/eddwil32/ad-rf-sync
+     📝 Active Directory to Recorded Future user sync — SOC automation
+     🏷  —
+[2026-06-23 14:52:56 UTC] [NEW]   🆕 📦 Mudfidisclose/Edraw-Max-15.2.1.1532-Ultimate
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/Mudfidisclose/Edraw-Max-15.2.1.1532-Ultimate
+     📝 Diagram suite for flowcharts, org charts, network maps, floor plans, and Gantt c…
+     🏷  diagrams, edraw, floor-plan, flowchart, gantt, max, visualization
+[2026-06-23 14:52:56 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-23 14:52:56 UTC] [UPD]   📢 📦 rabbit2747/LabForge
+     ⭐ 1  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/rabbit2747/LabForge
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-23 14:52:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-23 14:52:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-23 14:52:58 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-23 14:52:58 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-23 14:52:58 UTC] [NEW]   🆕 📦 J-jaeyoung/bad-epoll
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/J-jaeyoung/bad-epoll
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 14:52:58 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-23 14:52:58 UTC] [UPD]   📢 📦 costrict-plugins-repo/github-trending-pentest-ai-agents
+     ⭐ 0  🗣 Shell  📅 2026-06-22
+     🔗 https://github.com/costrict-plugins-repo/github-trending-pentest-ai-agents
+     📝 costrict-plugins mirror of github-trending-pentest-ai-agents (auto-generated, do…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-23 14:52:58 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-23 14:52:58 UTC] [INFO] ============================================================
+[2026-06-23 14:52:58 UTC] [INFO] Completato — 14 nuovi, 3 aggiornati, 0 errori
+[2026-06-23 14:52:58 UTC] [INFO] ============================================================
