@@ -23958,3 +23958,148 @@
 [2026-06-23 14:52:58 UTC] [INFO] ============================================================
 [2026-06-23 14:52:58 UTC] [INFO] Completato — 14 nuovi, 3 aggiornati, 0 errori
 [2026-06-23 14:52:58 UTC] [INFO] ============================================================
+[2026-06-23 20:08:00 UTC] [INFO] ============================================================
+[2026-06-23 20:08:00 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-23 20:08:00 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-23 20:08:00 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-23 20:08:00 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-23 20:08:00 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-23 20:08:00 UTC] [INFO] ============================================================
+[2026-06-23 20:08:00 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-23 20:08:00 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-23 20:08:02 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-23 20:08:02 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-23 20:08:02 UTC] [NEW]   🆕 📦 supquarter/kernel-level-injector
+     ⭐ 0  🗣 C  📅 2026-06-23
+     🔗 https://github.com/supquarter/kernel-level-injector
+     📝 A kernel level dll injector for roblox.
+     🏷  —
+[2026-06-23 20:08:02 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-23 20:08:02 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 1  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (1gg)
+[2026-06-23 20:08:02 UTC] [UPD]   📢 📦 kwkkd/akatsuki-hermes-integration
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/kwkkd/akatsuki-hermes-integration
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-23 20:08:02 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-23 20:08:02 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-23 20:08:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 Shadow-Spinner/DLLinjector
+     ⭐ 0  🗣 C++  📅 2026-06-23
+     🔗 https://github.com/Shadow-Spinner/DLLinjector
+     📝 A basic DLL injection code, gonna improve this real soon created with kernel32.d…
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 igxdswwsdp/edraw_max_pro
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/igxdswwsdp/edraw_max_pro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 manojrawtani1-cloud/cyber-incident-response
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/manojrawtani1-cloud/cyber-incident-response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 MohamedEdrees/Edrees
+     ⭐ 0  🗣 HTML  📅 2026-06-23
+     🔗 https://github.com/MohamedEdrees/Edrees
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 bjdsegura96-del/wazuh-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/bjdsegura96-del/wazuh-soc-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 jennafrank/threat-hunting-tor-imperial
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/jennafrank/threat-hunting-tor-imperial
+     📝 Imperial Threat Investigation: Unauthorized TOR Network Access — MDE threat hunt…
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 ericjohnson4/microsoft-defender-endpoint-investigation
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/ericjohnson4/microsoft-defender-endpoint-investigation
+     📝 Microsoft Defender for Endpoint lab demonstrating alert triage, suspicious Power…
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 neo19482/rectificador-ocr-pdf-gui
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/neo19482/rectificador-ocr-pdf-gui
+     📝 GUI portable para rectificar PDFs mediante OCR usando Tesseract, Poppler y PDFtk…
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 chrisq-dev/Cybersecurity-learning-roadmap
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/chrisq-dev/Cybersecurity-learning-roadmap
+     📝 A personal cybersecurity learning repository with roadmaps, labs, notes, scripts…
+     🏷  active-directory, appsec, blue-team, cloud-security, cybersecurity, ethical-hacking, incident-response, linux, networking, owasp, portfolio, python, red-team, security-learning, soc
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 Alidrix/OpenAD-Zero
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/Alidrix/OpenAD-Zero
+     📝 Active Pentest GUI tool - Windows Environnement
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 krishkuchroo/Argus
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/krishkuchroo/Argus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 krishkuchroo/Sentriq
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/krishkuchroo/Sentriq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 ramyasanthosh-2007/ai-packet-threat-analyzer
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/ramyasanthosh-2007/ai-packet-threat-analyzer
+     📝 AI-assisted network packet sniffer and threat analyzer using Python & Scapy with…
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 sam00/AI-RedTeam-skill
+     ⭐ 0  🗣 JavaScript  📅 2026-06-22
+     🔗 https://github.com/sam00/AI-RedTeam-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 MatthewGwapo/Edroso-Dental-Clinic
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/MatthewGwapo/Edroso-Dental-Clinic
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 20:08:05 UTC] [NEW]   🆕 📦 bcode73/VOIDWALK
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/bcode73/VOIDWALK
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 20:08:05 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-23 20:08:05 UTC] [UPD]   📢 📦 lotan1/edradar
+     ⭐ 0  🗣 JavaScript  📅 2026-06-23
+     🔗 https://github.com/lotan1/edradar
+     📝 רדאר הזדמנויות בחינוך — ED-DATA-HUB
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-23 20:08:05 UTC] [UPD]   📢 📦 gl0di/clawseccheck
+     ⭐ 6  🗣 Python  📅 2026-06-19
+     🔗 https://github.com/gl0di/clawseccheck
+     📝 🔍 Free, local, read-only security self-audit for your own OpenClaw AI-agent setu…
+     🏷  agent-security, ai-agents, ai-security, cli, lethal-trifecta, llm-security, mcp, openclaw, owasp, prompt-injection, python, read-only, security-audit, self-audit, supply-chain-security
+     🔄 Motivo: repo recente (4gg)
+[2026-06-23 20:08:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-23 20:08:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-23 20:08:08 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-23 20:08:08 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-23 20:08:08 UTC] [NEW]   🆕 📦 mikey820/cyanide
+     ⭐ 0  🗣 Objective-C  📅 2026-06-23
+     🔗 https://github.com/mikey820/cyanide
+     📝 Private working copy of cyanide — location sim debugging
+     🏷  —
+[2026-06-23 20:08:08 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-23 20:08:08 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-23 20:08:08 UTC] [INFO] ============================================================
+[2026-06-23 20:08:08 UTC] [INFO] Completato — 18 nuovi, 5 aggiornati, 0 errori
+[2026-06-23 20:08:08 UTC] [INFO] ============================================================
