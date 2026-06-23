@@ -23683,3 +23683,165 @@
 [2026-06-23 03:42:42 UTC] [INFO] ============================================================
 [2026-06-23 03:42:42 UTC] [INFO] Completato — 17 nuovi, 3 aggiornati, 0 errori
 [2026-06-23 03:42:42 UTC] [INFO] ============================================================
+[2026-06-23 09:42:39 UTC] [INFO] ============================================================
+[2026-06-23 09:42:39 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-23 09:42:39 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-23 09:42:39 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-23 09:42:39 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-23 09:42:39 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-23 09:42:39 UTC] [INFO] ============================================================
+[2026-06-23 09:42:39 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-23 09:42:39 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-23 09:42:41 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-23 09:42:41 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-23 09:42:41 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-23 09:42:41 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 1  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (1gg)
+[2026-06-23 09:42:41 UTC] [UPD]   📢 📦 Hiroki6/BYOVD
+     ⭐ 0  🗣 C  📅 2026-06-23
+     🔗 https://github.com/Hiroki6/BYOVD
+     📝 A collection of BYOVD PoCs
+     🏷  byovd, malware-development
+     🔄 Motivo: repo recente (0gg)
+[2026-06-23 09:42:41 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-23 09:42:41 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-23 09:42:44 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 857seif/WNF-Hijack
+     ⭐ 4  🗣 C++  📅 2026-06-23
+     🔗 https://github.com/857seif/WNF-Hijack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 Dril-V000/coffie-stealer
+     ⭐ 1  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/Dril-V000/coffie-stealer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 aingram702/ESP32-Net
+     ⭐ 0  🗣 C++  📅 2026-06-23
+     🔗 https://github.com/aingram702/ESP32-Net
+     📝 A network of dropable ESP32 devices that all serve an individual purpose. One ES…
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 moskysarah/Analyse-CollectNetwork-EDR-Monitor
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/moskysarah/Analyse-CollectNetwork-EDR-Monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 rasingollam/blockchain-tutorials
+     ⭐ 0  🗣 TypeScript  📅 2026-06-23
+     🔗 https://github.com/rasingollam/blockchain-tutorials
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 deadman-sh/vigil
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/deadman-sh/vigil
+     📝 Windows detection-engineering tool
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 Pranav30013/BR-EDR-packet-generation
+     ⭐ 0  🗣 Verilog  📅 2026-06-23
+     🔗 https://github.com/Pranav30013/BR-EDR-packet-generation
+     📝 Packet Generation modules for BR/EDR bluetooth packet generation
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 lotan1/edradar
+     ⭐ 0  🗣 JavaScript  📅 2026-06-23
+     🔗 https://github.com/lotan1/edradar
+     📝 רדאר הזדמנויות בחינוך — ED-DATA-HUB
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 liaokanglin/AI792YIXIANTONG
+     ⭐ 0  🗣 C  📅 2026-06-23
+     🔗 https://github.com/liaokanglin/AI792YIXIANTONG
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 0xPix3l/memory_scanner
+     ⭐ 0  🗣 C  📅 2026-06-23
+     🔗 https://github.com/0xPix3l/memory_scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 rkc0809/rkc0809
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/rkc0809/rkc0809
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 Musa-Khanj/Phase-1-threat-intel-Phishing-Engine
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/Musa-Khanj/Phase-1-threat-intel-Phishing-Engine
+     📝 Heuristic threat-intel toolkit for analyzing suspicious emails, links, images, a…
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 divysha-cell/1Pstagingdiv
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/divysha-cell/1Pstagingdiv
+     📝 1Pstagingdiv
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 TheVoskamps/macos-setup
+     ⭐ 0  🗣 Shell  📅 2026-06-23
+     🔗 https://github.com/TheVoskamps/macos-setup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 huntermarchi/ET-AI-Hackathon-2.0-github-codes-repo-
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/huntermarchi/ET-AI-Hackathon-2.0-github-codes-repo-
+     📝 team - aayushmanjadon7 (round 2 submission)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 andresscyber/detection-as-code-pipeline
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/andresscyber/detection-as-code-pipeline
+     📝 Detection-as-Code pipeline using Sigma rules, GitHub Actions, and automated rule…
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 johntaned/edrosa
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/johntaned/edrosa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-23 09:42:44 UTC] [NEW]   🆕 📦 Azerta247/malware-incident-investigation
+     ⭐ 1  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/Azerta247/malware-incident-investigation
+     📝 Malware incident investigation and analysis of a Windows workstation using event…
+     🏷  —
+[2026-06-23 09:42:44 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-06-23 09:42:44 UTC] [UPD]   📢 📦 rabbit2747/LabForge
+     ⭐ 1  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/rabbit2747/LabForge
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-23 09:42:44 UTC] [UPD]   📢 📦 security-br/security-br
+     ⭐ 0  🗣 N/A  📅 2026-06-22
+     🔗 https://github.com/security-br/security-br
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-23 09:42:44 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 1  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (1gg)
+[2026-06-23 09:42:44 UTC] [UPD]   📢 📦 hj0210/gantt-tool
+     ⭐ 0  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/hj0210/gantt-tool
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-23 09:42:44 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-23 09:42:44 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-23 09:42:47 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-23 09:42:47 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-23 09:42:47 UTC] [NEW]   🆕 📦 xyzeem/reverse-skill
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/xyzeem/reverse-skill
+     📝 Reverse Engineering / Authorized Penetration Testing / Security Research Skill R…
+     🏷  —
+[2026-06-23 09:42:47 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-23 09:42:47 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-23 09:42:47 UTC] [INFO] ============================================================
+[2026-06-23 09:42:47 UTC] [INFO] Completato — 19 nuovi, 7 aggiornati, 0 errori
+[2026-06-23 09:42:47 UTC] [INFO] ============================================================
