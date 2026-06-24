@@ -24424,3 +24424,144 @@
 [2026-06-24 09:33:26 UTC] [INFO] ============================================================
 [2026-06-24 09:33:26 UTC] [INFO] Completato — 18 nuovi, 5 aggiornati, 0 errori
 [2026-06-24 09:33:26 UTC] [INFO] ============================================================
+[2026-06-24 14:34:26 UTC] [INFO] ============================================================
+[2026-06-24 14:34:26 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-24 14:34:26 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-24 14:34:26 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-24 14:34:26 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-24 14:34:26 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-24 14:34:26 UTC] [INFO] ============================================================
+[2026-06-24 14:34:26 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-24 14:34:26 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-24 14:34:29 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-24 14:34:29 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-24 14:34:29 UTC] [NEW]   🆕 📦 thomas-o721573/byovdx
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/thomas-o721573/byovdx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 14:34:29 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-24 14:34:29 UTC] [UPD]   📢 📦 kwkkd/akatsuki-hermes-integration
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/kwkkd/akatsuki-hermes-integration
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-24 14:34:29 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 2  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (2gg)
+[2026-06-24 14:34:29 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-24 14:34:29 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-24 14:34:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 MuravyovVasil/BitConverter
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/MuravyovVasil/BitConverter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 rus1tam/malware_analysis
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/rus1tam/malware_analysis
+     📝 Wireshark-based malware traffic analysis of Reveton ransomware, identifying C2 c…
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 1689er/exclusion-auditor
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/1689er/exclusion-auditor
+     📝 Read-only NGAV/EDR exclusion risk and hygiene auditor (CrowdStrike-first, vendor…
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 Trible-u/windows-null-popup-fix
+     ⭐ 0  🗣 PowerShell  📅 2026-06-24
+     🔗 https://github.com/Trible-u/windows-null-popup-fix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 umidguluzada/umidguluzada
+     ⭐ 1  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/umidguluzada/umidguluzada
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 woranonv/splunk-es-local-ai-triage
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/woranonv/splunk-es-local-ai-triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 litndat/keylogATTACK
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/litndat/keylogATTACK
+     📝 Xây dựng code keylogger để giám sát máy tính
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 rubenanko/fud-poc
+     ⭐ 0  🗣 C  📅 2026-06-24
+     🔗 https://github.com/rubenanko/fud-poc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 EmadYaY/Waiting_Thread_Hijacking_
+     ⭐ 0  🗣 C++  📅 2026-06-24
+     🔗 https://github.com/EmadYaY/Waiting_Thread_Hijacking_
+     📝 A technical implementation and research repository on Waiting Thread Hijacking, …
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 H4ckOpsAI/ai-linux-investigator
+     ⭐ 0  🗣 JavaScript  📅 2026-06-24
+     🔗 https://github.com/H4ckOpsAI/ai-linux-investigator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 mohdsayeed72449-byte/IR-playbook
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/mohdsayeed72449-byte/IR-playbook
+     📝 Created a project on incident response with using tools splunk(BOTS v3) Wireshar…
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 LeslieMalabo/AUDITRON-
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/LeslieMalabo/AUDITRON-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 zavetsec/SOCMetrics
+     ⭐ 1  🗣 HTML  📅 2026-06-24
+     🔗 https://github.com/zavetsec/SOCMetrics
+     📝 Offline-first консоль метрик SOC: MTTD, MTTA, MTTR, SLA и MITRE ATT&CK для L1 L2…
+     🏷  blue-team, cybersecurity, dfir, forensics, l1, l2, l3, nist-csf, soc
+[2026-06-24 14:34:33 UTC] [NEW]   🆕 📦 muhammadanshori34tkj-web/gitulahpokoknya
+     ⭐ 0  🗣 JavaScript  📅 2026-06-24
+     🔗 https://github.com/muhammadanshori34tkj-web/gitulahpokoknya
+     📝 Montoring
+     🏷  —
+[2026-06-24 14:34:33 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-24 14:34:33 UTC] [UPD]   📢 📦 dpickenstenable/control-aware-risk-scoring
+     ⭐ 0  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/dpickenstenable/control-aware-risk-scoring
+     📝 Advanced vulnerability prioritization with defense-in-depth analysis across fire…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-24 14:34:33 UTC] [UPD]   📢 📦 ViniciusTrindade8806/clube_edrivego
+     ⭐ 0  🗣 TypeScript  📅 2026-06-24
+     🔗 https://github.com/ViniciusTrindade8806/clube_edrivego
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-24 14:34:33 UTC] [UPD]   📢 📦 ciccirix/13-37-threat-radar
+     ⭐ 2  🗣 C++  📅 2026-06-24
+     🔗 https://github.com/ciccirix/13-37-threat-radar
+     📝 13:37 firmware for the LilyGo T-Watch Ultra + Threat Radar: spatio-temporal anti…
+     🏷  anti-stalking, esp32, esp32-s3, lilygo, lvgl, meshtastic, security, t-watch-ultra
+     🔄 Motivo: repo recente (0gg)
+[2026-06-24 14:34:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-24 14:34:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-24 14:34:35 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-24 14:34:35 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-24 14:34:35 UTC] [NEW]   🆕 📦 J-jaeyoung/bad-epoll
+     ⭐ 9  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/J-jaeyoung/bad-epoll
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 14:34:35 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-24 14:34:35 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-06-24 14:34:35 UTC] [INFO] ============================================================
+[2026-06-24 14:34:35 UTC] [INFO] Completato — 16 nuovi, 6 aggiornati, 0 errori
+[2026-06-24 14:34:35 UTC] [INFO] ============================================================
