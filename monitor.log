@@ -24565,3 +24565,193 @@
 [2026-06-24 14:34:35 UTC] [INFO] ============================================================
 [2026-06-24 14:34:35 UTC] [INFO] Completato — 16 nuovi, 6 aggiornati, 0 errori
 [2026-06-24 14:34:35 UTC] [INFO] ============================================================
+[2026-06-24 19:48:44 UTC] [INFO] ============================================================
+[2026-06-24 19:48:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-24 19:48:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-24 19:48:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-24 19:48:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-24 19:48:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-24 19:48:44 UTC] [INFO] ============================================================
+[2026-06-24 19:48:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-24 19:48:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-24 19:48:46 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-24 19:48:46 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-24 19:48:46 UTC] [NEW]   🆕 📦 v8k6b2jjps-prog/KernelPrimitiveScanner
+     ⭐ 0  🗣 PowerShell  📅 2026-06-24
+     🔗 https://github.com/v8k6b2jjps-prog/KernelPrimitiveScanner
+     📝 BYOVD File scanner
+     🏷  —
+[2026-06-24 19:48:46 UTC] [NEW]   🆕 📦 xadv404/driver
+     ⭐ 0  🗣 PowerShell  📅 2026-06-24
+     🔗 https://github.com/xadv404/driver
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:46 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-24 19:48:46 UTC] [UPD]   📢 📦 thecontentstudios/NetJump
+     ⭐ 0  🗣 PowerShell  📅 2026-06-22
+     🔗 https://github.com/thecontentstudios/NetJump
+     📝 Real-time network + security HUD for Windows. Single PowerShell + WPF file. Live…
+     🏷  byovd, diagnostic, ipv6, network-monitoring, powershell, prometheus, security, threat-intelligence, windows, wpf
+     🔄 Motivo: repo recente (2gg)
+[2026-06-24 19:48:46 UTC] [UPD]   📢 📦 kwkkd/akatsuki-hermes-integration
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/kwkkd/akatsuki-hermes-integration
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-24 19:48:46 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-24 19:48:46 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-24 19:48:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 LHMisme420/Vata-Engine-Core
+     ⭐ 0  🗣 HTML  📅 2026-06-24
+     🔗 https://github.com/LHMisme420/Vata-Engine-Core
+     📝 VATA is a lightweight proof-of-concept local attestation layer designed to enfor…
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 jyahclaude/security-skills
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/jyahclaude/security-skills
+     📝 506 Claude Code security skills — threat analysis, IR, threat hunting, detection…
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 fizzexual/Guardio
+     ⭐ 0  🗣 Java  📅 2026-06-24
+     🔗 https://github.com/fizzexual/Guardio
+     📝 A whole‑server integrity guard / anti‑tamper plugin for Paper/Purpur (1.21). One…
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 abdalmegedalfiky-ops/PhantomGuard
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/abdalmegedalfiky-ops/PhantomGuard
+     📝 AI-powered SOAR: ELK alert collection, MITRE ATT&CK enrichment, Claude-based tri…
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 tomcouchman/homesoc-log-analyzer
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/tomcouchman/homesoc-log-analyzer
+     📝 Python log analysis tool for detecting repeated failed SSH login attempts.
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 bharathkanne/Analyst-Simulator-Atomic-Red-
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/bharathkanne/Analyst-Simulator-Atomic-Red-
+     📝 Analyst-Simulator-Atomic-Red- is a GUI-driven, educational Purple Team simulator…
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 Veggis96/local-log-analyzer
+     ⭐ 0  🗣 HTML  📅 2026-06-24
+     🔗 https://github.com/Veggis96/local-log-analyzer
+     📝 (nessuna descrizione)
+     🏷  cybersecurity, log-analysis, mitre-attack, portfolio-project, python, siem
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 galjabari/zcode-pentest-skills
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/galjabari/zcode-pentest-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 manza09/quiz-app
+     ⭐ 0  🗣 JavaScript  📅 2026-06-24
+     🔗 https://github.com/manza09/quiz-app
+     📝 Simple quiz on IAS
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 rameyjm7/bluetooth-classic
+     ⭐ 0  🗣 C++  📅 2026-06-24
+     🔗 https://github.com/rameyjm7/bluetooth-classic
+     📝 Bluetooth Classic SDR discovery receiver based on bsnet/btsniffer, with SoapySDR…
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 kh-hamz/EDR
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/kh-hamz/EDR
+     📝 Endpoint Detection and Response
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 Decka-tan/ritual-chain-workshop
+     ⭐ 0  🗣 TypeScript  📅 2026-06-24
+     🔗 https://github.com/Decka-tan/ritual-chain-workshop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 manza09/quizable
+     ⭐ 0  🗣 JavaScript  📅 2026-06-24
+     🔗 https://github.com/manza09/quizable
+     📝 A simple quiz web
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 v8k6b2jjps-prog/KernelPrimitiveScanner
+     ⭐ 0  🗣 PowerShell  📅 2026-06-24
+     🔗 https://github.com/v8k6b2jjps-prog/KernelPrimitiveScanner
+     📝 BYOVD File scanner
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 dylanharrisfl/TryHackMe-SOCLevel1Pathway
+     ⭐ 1  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway
+     📝 This is my workthrough of the SOC Analyst Level 1 Pathway to learn/practice the …
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 vnadoti/cybersecurity-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/vnadoti/cybersecurity-home-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 sudu-13/Wazuh-EDR---File-Integrity-Monitoring-FIM-
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/sudu-13/Wazuh-EDR---File-Integrity-Monitoring-FIM-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 Divyashree580/SisaHackathon
+     ⭐ 0  🗣 JavaScript  📅 2026-06-24
+     🔗 https://github.com/Divyashree580/SisaHackathon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 xadv404/driver
+     ⭐ 0  🗣 PowerShell  📅 2026-06-24
+     🔗 https://github.com/xadv404/driver
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 HerbyAmertis/Threat-Hunt
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/HerbyAmertis/Threat-Hunt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 andrewhannaford/BrowserBleed
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/andrewhannaford/BrowserBleed
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 Akbar-Aftab/Cyber_risk_prioritizer
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/Akbar-Aftab/Cyber_risk_prioritizer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 ishammoren/edrdqc
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/ishammoren/edrdqc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [NEW]   🆕 📦 ConnCaster/AuthEventSource
+     ⭐ 0  🗣 C++  📅 2026-06-24
+     🔗 https://github.com/ConnCaster/AuthEventSource
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-24 19:48:49 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-24 19:48:49 UTC] [UPD]   📢 📦 1689er/exclusion-auditor
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/1689er/exclusion-auditor
+     📝 Read-only NGAV/EDR exclusion risk and hygiene auditor (CrowdStrike-first, vendor…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-24 19:48:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-24 19:48:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-24 19:48:50 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-24 19:48:50 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-24 19:48:50 UTC] [NEW]   🆕 📦 yogeshsardana/kernelsentinel
+     ⭐ 0  🗣 Go  📅 2026-06-23
+     🔗 https://github.com/yogeshsardana/kernelsentinel
+     📝 KernelSentinel is a runtime Linux integrity enforcement framework
+     🏷  —
+[2026-06-24 19:48:50 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-24 19:48:50 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-06-24 19:48:50 UTC] [UPD]   📢 📦 asmodhex/asmodhex
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/asmodhex/asmodhex
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-24 19:48:50 UTC] [INFO] ============================================================
+[2026-06-24 19:48:50 UTC] [INFO] Completato — 27 nuovi, 5 aggiornati, 0 errori
+[2026-06-24 19:48:50 UTC] [INFO] ============================================================
