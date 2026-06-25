@@ -24755,3 +24755,175 @@
 [2026-06-24 19:48:50 UTC] [INFO] ============================================================
 [2026-06-24 19:48:50 UTC] [INFO] Completato — 27 nuovi, 5 aggiornati, 0 errori
 [2026-06-24 19:48:50 UTC] [INFO] ============================================================
+[2026-06-25 03:44:43 UTC] [INFO] ============================================================
+[2026-06-25 03:44:43 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-25 03:44:43 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-25 03:44:43 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-25 03:44:43 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-25 03:44:43 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-25 03:44:43 UTC] [INFO] ============================================================
+[2026-06-25 03:44:43 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-25 03:44:43 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-25 03:44:44 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 03:44:44 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-25 03:44:44 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-25 03:44:44 UTC] [UPD]   📢 📦 v8k6b2jjps-prog/KernelPrimitiveScanner
+     ⭐ 0  🗣 PowerShell  📅 2026-06-24
+     🔗 https://github.com/v8k6b2jjps-prog/KernelPrimitiveScanner
+     📝 BYOVD File scanner
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-25 03:44:44 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-25 03:44:44 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-25 03:44:47 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 Clayne666/Router-monitor
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/Clayne666/Router-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 Chiakai-Chang/Forensic-Evidence-Ingestion-Tool
+     ⭐ 0  🗣 PowerShell  📅 2026-06-25
+     🔗 https://github.com/Chiakai-Chang/Forensic-Evidence-Ingestion-Tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 manza09/edr-quiz-portal
+     ⭐ 0  🗣 JavaScript  📅 2026-06-25
+     🔗 https://github.com/manza09/edr-quiz-portal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 Rifqi-Edr/POKEDEX
+     ⭐ 0  🗣 TypeScript  📅 2026-06-25
+     🔗 https://github.com/Rifqi-Edr/POKEDEX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 wzwvivi/edrive
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/wzwvivi/edrive
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 OsaidZiad04/soc-copilot-rag-llm
+     ⭐ 1  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/OsaidZiad04/soc-copilot-rag-llm
+     📝 AI-powered SOC assistant using RAG, local LLMs, IoC enrichment, and Sigma rule c…
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 manza09/QUIZ
+     ⭐ 0  🗣 JavaScript  📅 2026-06-25
+     🔗 https://github.com/manza09/QUIZ
+     📝 A Simple Quiz Website
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 HamzaKhanBUIC/LifecycleZero-Database-Level-Local-AI-Governance-Threat-Isolation
+     ⭐ 0  🗣 TypeScript  📅 2026-06-24
+     🔗 https://github.com/HamzaKhanBUIC/LifecycleZero-Database-Level-Local-AI-Governance-Threat-Isolation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 mluna030/build-your-own-x-security
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/mluna030/build-your-own-x-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 nirmalkumarm2518-debug/Keylogger
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/nirmalkumarm2518-debug/Keylogger
+     📝 Educational keylogger awareness project for cybersecurity learning
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 Skobyn/talon
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/Skobyn/talon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 sergiogbernardo/solucoes-cyber
+     ⭐ 0  🗣 TypeScript  📅 2026-06-24
+     🔗 https://github.com/sergiogbernardo/solucoes-cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 HKB545/Cybersecurity-Notes
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/HKB545/Cybersecurity-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 Tarun110/soc-analyst-assistant
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/Tarun110/soc-analyst-assistant
+     📝 AI-powered SOC Analyst Assistant built with Python, FastAPI, LangChain, and MITR…
+     🏷  fastapi, genai, incident-response, langchain, llm, machine-learning, mitre-attack, open-ai, python, rag, soc-analytics, streamlit, threat-intelligence, threat-response
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 clutchrepairwind/edrdkxva
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/clutchrepairwind/edrdkxva
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 Zuigetzu/JMP-AMSI
+     ⭐ 6  🗣 PowerShell  📅 2026-06-24
+     🔗 https://github.com/Zuigetzu/JMP-AMSI
+     📝 PoC on JIT Flow Redirection and .NET Reflection for Analyzing In-Memory Telemetr…
+     🏷  adversary-emulation, amsi-bypass, blue-team, etw-bypass, evasion, hooking, powershell, red-team, security-research
+[2026-06-25 03:44:47 UTC] [NEW]   🆕 📦 Ajay-kannaa/Ajay-Portfolio
+     ⭐ 0  🗣 HTML  📅 2026-06-24
+     🔗 https://github.com/Ajay-kannaa/Ajay-Portfolio
+     📝 Hands-on cybersecurity portfolio showcasing SIEM, EDR, threat hunting, detection…
+     🏷  —
+[2026-06-25 03:44:47 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-06-25 03:44:47 UTC] [UPD]   📢 📦 rabbit2747/LabForge
+     ⭐ 1  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/rabbit2747/LabForge
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-25 03:44:47 UTC] [UPD]   📢 📦 Divyashree580/SisaHackathon
+     ⭐ 0  🗣 JavaScript  📅 2026-06-24
+     🔗 https://github.com/Divyashree580/SisaHackathon
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-25 03:44:47 UTC] [UPD]   📢 📦 v8k6b2jjps-prog/KernelPrimitiveScanner
+     ⭐ 0  🗣 PowerShell  📅 2026-06-24
+     🔗 https://github.com/v8k6b2jjps-prog/KernelPrimitiveScanner
+     📝 BYOVD File scanner
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-25 03:44:47 UTC] [UPD]   📢 📦 andrewhannaford/BrowserBleed
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/andrewhannaford/BrowserBleed
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-25 03:44:47 UTC] [UPD]   📢 📦 dylanharrisfl/TryHackMe-SOCLevel1Pathway
+     ⭐ 1  🗣 N/A  📅 2026-06-23
+     🔗 https://github.com/dylanharrisfl/TryHackMe-SOCLevel1Pathway
+     📝 This is my workthrough of the SOC Analyst Level 1 Pathway to learn/practice the …
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-25 03:44:47 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-25 03:44:47 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-25 03:44:48 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 03:44:48 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-06-25 03:44:48 UTC] [NEW]   🆕 📦 msalman199/-Exploit-Development-Advanced-Red-Teaming-EDART-
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/msalman199/-Exploit-Development-Advanced-Red-Teaming-EDART-
+     📝 This Repo is the part of Al-Razzaq Programme
+     🏷  —
+[2026-06-25 03:44:48 UTC] [NEW]   🆕 📦 GonzaBot/kernel-exploit-dirtycow
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/GonzaBot/kernel-exploit-dirtycow
+     📝 Lab — Privilege Escalation via Dirty Cow CVE-2016-5195 | 4Geeks Academy
+     🏷  —
+[2026-06-25 03:44:48 UTC] [NEW]   🆕 📦 sgarciadepalleja/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     ⭐ 0  🗣 N/A  📅 2026-06-24
+     🔗 https://github.com/sgarciadepalleja/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     📝 4GEEKS{Y0u_G0t_R00t}
+     🏷  —
+[2026-06-25 03:44:48 UTC] [NEW]   🆕 📦 mootb0t/vulnscout
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/mootb0t/vulnscout
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 03:44:48 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-25 03:44:48 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-25 03:44:48 UTC] [INFO] ============================================================
+[2026-06-25 03:44:48 UTC] [INFO] Completato — 21 nuovi, 7 aggiornati, 0 errori
+[2026-06-25 03:44:48 UTC] [INFO] ============================================================
