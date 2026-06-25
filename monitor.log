@@ -24927,3 +24927,167 @@
 [2026-06-25 03:44:48 UTC] [INFO] ============================================================
 [2026-06-25 03:44:48 UTC] [INFO] Completato — 21 nuovi, 7 aggiornati, 0 errori
 [2026-06-25 03:44:48 UTC] [INFO] ============================================================
+[2026-06-25 09:25:10 UTC] [INFO] ============================================================
+[2026-06-25 09:25:10 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-25 09:25:10 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-25 09:25:10 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-25 09:25:10 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-25 09:25:10 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-25 09:25:10 UTC] [INFO] ============================================================
+[2026-06-25 09:25:10 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-25 09:25:10 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-25 09:25:12 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 09:25:12 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-25 09:25:12 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-25 09:25:12 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 2  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (3gg)
+[2026-06-25 09:25:12 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-25 09:25:12 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-25 09:25:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 Federico19-1/Smart-Farm-Kit-for-Arduino-Codes
+     ⭐ 0  🗣 C++  📅 2026-06-25
+     🔗 https://github.com/Federico19-1/Smart-Farm-Kit-for-Arduino-Codes
+     📝 ESP32-based IoT Smart Farm Kit (KS0567) — 12 Arduino projects covering sensors, …
+     🏷  arduino, arduino-esp32, automation, esp32, iot, keyestudio, sensors, smart-farm, stem, wifi
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 moscowchill/ADCSAudit
+     ⭐ 0  🗣 PowerShell  📅 2026-06-25
+     🔗 https://github.com/moscowchill/ADCSAudit
+     📝 Single-file, dependency-free PowerShell auditor for Active Directory Certificate…
+     🏷  active-directory, ad-cs, adcs, certipy, esc, pentesting, pki, powershell, red-team, security-audit
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 justinjudefernandes/Attack-Emulation-and-SOC-Investigation-Using-Microsoft-Security-Tools
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/justinjudefernandes/Attack-Emulation-and-SOC-Investigation-Using-Microsoft-Security-Tools
+     📝 Attack Emulation and SOC Investigation Using Microsoft Security Tools
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 doris0801/edreg-monitor
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/doris0801/edreg-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 shwrm-xx/epargne-dataviz
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/shwrm-xx/epargne-dataviz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 Kellesi/EventFloodingTool
+     ⭐ 0  🗣 C++  📅 2026-06-25
+     🔗 https://github.com/Kellesi/EventFloodingTool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 AleenaRoseGeorge/soc-analyst-bootcamp
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/AleenaRoseGeorge/soc-analyst-bootcamp
+     📝 20-day self-directed SOC Analyst study plan | Windows Event Logs | MITRE ATT&CK …
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 priyanshuchawda/lunar-icescout-eagle-isru
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/priyanshuchawda/lunar-icescout-eagle-isru
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 megadinhai/website-by-AI
+     ⭐ 0  🗣 JavaScript  📅 2026-06-25
+     🔗 https://github.com/megadinhai/website-by-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 cloudanimal/agent-coverage-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-06-25
+     🔗 https://github.com/cloudanimal/agent-coverage-dashboard
+     📝 Browser-local agent coverage dashboard — reconcile Active Directory against Tena…
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 SeifMoussa/offline-alert-triage-lab
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/SeifMoussa/offline-alert-triage-lab
+     📝 Defensive offline AI-assisted security alert triage lab using deterministic rule…
+     🏷  alert-triage, blue-team, codeql, cybersecurity, dependabot, detection-engineering, github-actions, incident-response, mitre-attack, portfolio, pytest, python, ruff, security-automation, soc
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 shreedarshan214/shreedarshan214
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/shreedarshan214/shreedarshan214
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 De-elite2107/blockchain-assignment
+     ⭐ 0  🗣 TypeScript  📅 2026-06-25
+     🔗 https://github.com/De-elite2107/blockchain-assignment
+     📝 Worklo's Blockchain Assignment
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 Bastola-Sec/nexashield-soc-platform
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/Bastola-Sec/nexashield-soc-platform
+     📝 Hybrid SOC platform - pfSense, Wazuh SIEM, Keycloak IAM, AWS CloudTrail, Shuffle…
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 overhelmingcoder/SecMentorV1
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/overhelmingcoder/SecMentorV1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 oshima1214/mini-edr
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/oshima1214/mini-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 karankantaria/SPECTRE
+     ⭐ 0  🗣 Python  📅 2026-06-24
+     🔗 https://github.com/karankantaria/SPECTRE
+     📝 A Tactical Reconnaissance Console
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 VastHornet/government-contract-intelligence-mcp
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/VastHornet/government-contract-intelligence-mcp
+     📝 Apify actor: government-contract-intelligence-mcp
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 Srioch/DS5Dongle_esp32
+     ⭐ 0  🗣 C++  📅 2026-06-25
+     🔗 https://github.com/Srioch/DS5Dongle_esp32
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 ava-smith8312/repo-edrxzfp7
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/ava-smith8312/repo-edrxzfp7
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 Lux1dus/OwlWatch
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/Lux1dus/OwlWatch
+     📝 A Full-Stack Detection Engineering lab simulating MITRE ATT&CK techniques, tunin…
+     🏷  —
+[2026-06-25 09:25:16 UTC] [NEW]   🆕 📦 edrawardhana/edra-angga-wardhana-portofolio
+     ⭐ 0  🗣 TypeScript  📅 2026-06-25
+     🔗 https://github.com/edrawardhana/edra-angga-wardhana-portofolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 09:25:16 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-25 09:25:16 UTC] [UPD]   📢 📦 rabbit2747/LabForge
+     ⭐ 1  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/rabbit2747/LabForge
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-25 09:25:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-25 09:25:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-25 09:25:18 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 09:25:18 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-25 09:25:18 UTC] [NEW]   🆕 📦 arnavaidya/Linux-Privilege-Escalation-Notes
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/arnavaidya/Linux-Privilege-Escalation-Notes
+     📝 This repository contains my notes on Linux Privilege Escalation.
+     🏷  —
+[2026-06-25 09:25:18 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-25 09:25:18 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-25 09:25:18 UTC] [UPD]   📢 📦 msalman199/-Exploit-Development-Advanced-Red-Teaming-EDART-
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/msalman199/-Exploit-Development-Advanced-Red-Teaming-EDART-
+     📝 This Repo is the part of Al-Razzaq Programme
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-25 09:25:18 UTC] [INFO] ============================================================
+[2026-06-25 09:25:18 UTC] [INFO] Completato — 23 nuovi, 4 aggiornati, 0 errori
+[2026-06-25 09:25:18 UTC] [INFO] ============================================================
