@@ -25265,3 +25265,162 @@
 [2026-06-25 14:36:28 UTC] [INFO] ============================================================
 [2026-06-25 14:36:28 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
 [2026-06-25 14:36:28 UTC] [INFO] ============================================================
+[2026-06-25 20:02:52 UTC] [INFO] ============================================================
+[2026-06-25 20:02:52 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-25 20:02:52 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-25 20:02:52 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-25 20:02:52 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-25 20:02:52 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-25 20:02:52 UTC] [INFO] ============================================================
+[2026-06-25 20:02:52 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-25 20:02:52 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-25 20:02:54 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 20:02:54 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-25 20:02:54 UTC] [NEW]   🆕 📦 Ominoko/Windows-Evasion-Playbook
+     ⭐ 0  🗣 C++  📅 2026-06-25
+     🔗 https://github.com/Ominoko/Windows-Evasion-Playbook
+     📝 C++ implementations of Advanced Evasion Tactics (User-Mode, Memory, Event Suppre…
+     🏷  —
+[2026-06-25 20:02:54 UTC] [NEW]   🆕 📦 wesmar/ForceIO
+     ⭐ 0  🗣 C  📅 2026-06-25
+     🔗 https://github.com/wesmar/ForceIO
+     📝 ForceIO: Standalone no-CRT C tool for minifilter-bypass file operations (delete/…
+     🏷  byovd, cabinet-api, deviceiocontrol, driver-validation, file-operations, infosec, ioctl, kernel-driver, minifilter-bypass, no-crt, pe-checksum, reverse-engineering, scm-service, security-research, signed-driver, wdfilter, whcp, windows-11, windows-defender, windows-kernel
+[2026-06-25 20:02:54 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-25 20:02:54 UTC] [UPD]   📢 📦 thecontentstudios/NetJump
+     ⭐ 1  🗣 PowerShell  📅 2026-06-22
+     🔗 https://github.com/thecontentstudios/NetJump
+     📝 Real-time network + security HUD for Windows. Single PowerShell + WPF file. Live…
+     🏷  byovd, diagnostic, ipv6, network-monitoring, powershell, prometheus, security, threat-intelligence, windows, wpf
+     🔄 Motivo: repo recente (3gg)
+[2026-06-25 20:02:54 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-25 20:02:54 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-25 20:02:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 statsdl/heteroscedastic-edrvfl
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/statsdl/heteroscedastic-edrvfl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 Jhatchi/CyFun-Audit-BC-2026
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/Jhatchi/CyFun-Audit-BC-2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 0xEv3nthorizon/ShadowHook
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/0xEv3nthorizon/ShadowHook
+     📝 Advanced EDR/AV evasion framework utilizing Indirect Syscalls, IAT Hooking, and …
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 monish0001000/SentinelX-EDR
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/monish0001000/SentinelX-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 statsdl/volatility-edrhn
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/statsdl/volatility-edrhn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 hether-zz/edrlhu
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/hether-zz/edrlhu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 decmoon05/wemeet-ai-attack-detection
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/decmoon05/wemeet-ai-attack-detection
+     📝 충남대 WE-Meet 산학 과제 — AI 기반 네트워크 침입 탐지 에이전트 (CSE-CIC-IDS2018, 정직한 날짜교차 평가 + 시간맥락 피…
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 sabahcycommand/Military-Hospital-cybersecurity-GRCprogram
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/sabahcycommand/Military-Hospital-cybersecurity-GRCprogram
+     📝 A full-lifecycle GRC project designing, documenting, and evaluating an enterpris…
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 cladkins/SIEMBOX-EDR
+     ⭐ 0  🗣 Go  📅 2026-06-24
+     🔗 https://github.com/cladkins/SIEMBOX-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 Awaiswilll/Awaiswill
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/Awaiswilll/Awaiswill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 jbearak/homebrew-raven
+     ⭐ 0  🗣 Shell  📅 2026-06-25
+     🔗 https://github.com/jbearak/homebrew-raven
+     📝 Homebrew tap for raven, a static analyzer for R (jbearak/raven)
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 Joanna-27/SIEM-EDR-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/Joanna-27/SIEM-EDR-Home-Lab
+     📝 A hands-on SIEM & EDR home lab built using Kali Linux and Elastic Stack for secu…
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 0xkaz/process-sentry
+     ⭐ 1  🗣 TypeScript  📅 2026-06-25
+     🔗 https://github.com/0xkaz/process-sentry
+     📝 Experimental macOS app exploring whether local LLMs can triage suspicious proces…
+     🏷  desktop-app, heuristics, llm, local-llm, macos, malware-detection, ollama, process-monitor, react, rust, security, security-tools, tauri, typescript
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 Pottypotsworth/ModernMatrixScreensaver
+     ⭐ 0  🗣 Swift  📅 2026-06-25
+     🔗 https://github.com/Pottypotsworth/ModernMatrixScreensaver
+     📝 Native Apple-Silicon Matrix 'digital rain' screensaver for macOS (Swift + Metal)…
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 jbearak/homebrew-sight
+     ⭐ 0  🗣 Shell  📅 2026-06-25
+     🔗 https://github.com/jbearak/homebrew-sight
+     📝 Homebrew tap for sight, a static analyzer and language server for Stata (jbearak…
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 Albantoin/CYNA
+     ⭐ 0  🗣 HCL  📅 2026-06-25
+     🔗 https://github.com/Albantoin/CYNA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 Joanna-005/SIEM-EDR-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/Joanna-005/SIEM-EDR-Home-Lab
+     📝 A hands-on SIEM & EDR home lab built using Kali Linux and Elastic Stack for secu…
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 Youssefelsaeed/O.R.A.C.L.E-Framework
+     ⭐ 1  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/Youssefelsaeed/O.R.A.C.L.E-Framework
+     📝 Adaptive quantum-aware cyber defense framework for detection, assurance, ethical…
+     🏷  —
+[2026-06-25 20:02:57 UTC] [NEW]   🆕 📦 dmtaylorjr/Incident-Response-Playbooks
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/dmtaylorjr/Incident-Response-Playbooks
+     📝 SOC incident response playbooks and case studies for phishing, malware, and insi…
+     🏷  blue-team, cybersecurity, incident-response, nist-800-61, soc, wazuh
+[2026-06-25 20:02:57 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-25 20:02:57 UTC] [UPD]   📢 📦 ranazain5036/symantec-ep-14-3-enhancement-kit
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/ranazain5036/symantec-ep-14-3-enhancement-kit
+     📝 Symantec Endpoint Protection 14.3.10148 Secure Toolkit 2026
+     🏷  symantec, symantec-download, symantec-endpoint-protection, symantec-endpoint-protection-download, symantec-endpoint-protection-install, symantec-endpoint-protection-key, symantec-endpoint-protection-patch, symantec-endpoint-protection-software, symantec-endpoint-protection-trial, symantec-install, symantec-key, symantec-patch, symantec-software, symantec-trial
+     🔄 Motivo: repo recente (6gg)
+[2026-06-25 20:02:57 UTC] [UPD]   📢 📦 yinxinhai0128/enterprise-ai-knowledge-qa
+     ⭐ 0  🗣 Python  📅 2026-06-23
+     🔗 https://github.com/yinxinhai0128/enterprise-ai-knowledge-qa
+     📝 企业级 Agentic RAG 知识问答系统 — FastAPI + LangChain 1.3 + LangGraph + React + TypeScrip…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-25 20:02:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-25 20:02:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-25 20:03:00 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 20:03:00 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-25 20:03:00 UTC] [NEW]   🆕 📦 cragson/learn-asm
+     ⭐ 0  🗣 JavaScript  📅 2026-06-25
+     🔗 https://github.com/cragson/learn-asm
+     📝 learn-asm teaches you assembly by making *you* write it - then run, debug and op…
+     🏷  —
+[2026-06-25 20:03:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-25 20:03:00 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-25 20:03:00 UTC] [INFO] ============================================================
+[2026-06-25 20:03:00 UTC] [INFO] Completato — 22 nuovi, 4 aggiornati, 0 errori
+[2026-06-25 20:03:00 UTC] [INFO] ============================================================
