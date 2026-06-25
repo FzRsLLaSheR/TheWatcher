@@ -25091,3 +25091,177 @@
 [2026-06-25 09:25:18 UTC] [INFO] ============================================================
 [2026-06-25 09:25:18 UTC] [INFO] Completato — 23 nuovi, 4 aggiornati, 0 errori
 [2026-06-25 09:25:18 UTC] [INFO] ============================================================
+[2026-06-25 14:36:20 UTC] [INFO] ============================================================
+[2026-06-25 14:36:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-25 14:36:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-25 14:36:20 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-25 14:36:20 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-25 14:36:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-25 14:36:20 UTC] [INFO] ============================================================
+[2026-06-25 14:36:20 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-25 14:36:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-25 14:36:23 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 14:36:23 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-25 14:36:23 UTC] [NEW]   🆕 📦 sys0xFF/CVE-2025-61155
+     ⭐ 0  🗣 YARA  📅 2026-06-25
+     🔗 https://github.com/sys0xFF/CVE-2025-61155
+     📝 CVE-2025-61155 — arbitrary process termination in GameDriverX64.sys (Tower of Fa…
+     🏷  anti-cheat, byovd, cve, cve-2025-61155, edr-killer, ida-pro, reverse-engineering, vulnerability-research, windows-kernel, yara
+[2026-06-25 14:36:23 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-25 14:36:23 UTC] [UPD]   📢 📦 thecontentstudios/NetJump
+     ⭐ 1  🗣 PowerShell  📅 2026-06-22
+     🔗 https://github.com/thecontentstudios/NetJump
+     📝 Real-time network + security HUD for Windows. Single PowerShell + WPF file. Live…
+     🏷  byovd, diagnostic, ipv6, network-monitoring, powershell, prometheus, security, threat-intelligence, windows, wpf
+     🔄 Motivo: repo recente (2gg)
+[2026-06-25 14:36:23 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-25 14:36:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-25 14:36:26 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 Calvin1989/web-security-lab-notes
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/Calvin1989/web-security-lab-notes
+     📝 基于 DVWA 和 Pikachu 的 Web 常见漏洞复现、分析与修复建议实践项目。
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 nasser-lang/edrak-legal
+     ⭐ 0  🗣 Astro  📅 2026-06-25
+     🔗 https://github.com/nasser-lang/edrak-legal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 statsdl/edRFT
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/statsdl/edRFT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 DawidTrochim/m365-security-posture
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/DawidTrochim/m365-security-posture
+     📝 Read-only Microsoft 365 / Entra ID security posture assessment. App-only or inte…
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 medhabg/spectra-ai-runtime-governance
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/medhabg/spectra-ai-runtime-governance
+     📝 SPECTRA - Security Platform for Endpoint Compliance, Tracking & Runtime Analysis…
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 Akiyo-dayo/nekro-plugin-ctf-prompt-converter
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/Akiyo-dayo/nekro-plugin-ctf-prompt-converter
+     📝 CTF提示词转换器完整版 Nekro Agent 插件，群聊/私聊自动触发安全场景转换
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 sherif-medhat-dt/dt-fab-nav.github.io
+     ⭐ 0  🗣 HTML  📅 2026-06-25
+     🔗 https://github.com/sherif-medhat-dt/dt-fab-nav.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 rafaelwdornelas/Eidolon
+     ⭐ 0  🗣 C  📅 2026-06-25
+     🔗 https://github.com/rafaelwdornelas/Eidolon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 finnholzgrabe/secops-automation-workbench
+     ⭐ 0  🗣 C#  📅 2026-06-25
+     🔗 https://github.com/finnholzgrabe/secops-automation-workbench
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 Dr0xharakiri/BlackAtomic
+     ⭐ 0  🗣 PowerShell  📅 2026-06-25
+     🔗 https://github.com/Dr0xharakiri/BlackAtomic
+     📝 Modular post-exploitation framework in PowerShell 5.1 for authorized Red Team en…
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 sys0xFF/CVE-2025-61155
+     ⭐ 0  🗣 YARA  📅 2026-06-25
+     🔗 https://github.com/sys0xFF/CVE-2025-61155
+     📝 CVE-2025-61155 — arbitrary process termination in GameDriverX64.sys (Tower of Fa…
+     🏷  anti-cheat, byovd, cve, cve-2025-61155, edr-killer, ida-pro, reverse-engineering, vulnerability-research, windows-kernel, yara
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 achiel1618/lysozyme-gromacs-tutorial
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-25
+     🔗 https://github.com/achiel1618/lysozyme-gromacs-tutorial
+     📝 GROMACS lysozyme-in-water tutorial — MD pipeline through NVT equilibration, MSc …
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 tianwen035/edrvkb
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/tianwen035/edrvkb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 cloudcraftdigital-rdb/edrin
+     ⭐ 0  🗣 CSS  📅 2026-06-25
+     🔗 https://github.com/cloudcraftdigital-rdb/edrin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 whitefoxcybersec-blurp/Stochastic-Evasion-Research-Framework
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/whitefoxcybersec-blurp/Stochastic-Evasion-Research-Framework
+     📝 Este repositório contém a implementação prática e o motor de simulação descritos…
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 eduardoresendes625-hub/edresendes
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/eduardoresendes625-hub/edresendes
+     📝 projectos
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 justinjudefernandes/Phishing-Led-Multi-Stage-Attack-Simulation-and-End-to-End-SOC-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/justinjudefernandes/Phishing-Led-Multi-Stage-Attack-Simulation-and-End-to-End-SOC-Investigation
+     📝 Phishing-Led Multi-Stage Attack Simulation and End-to-End SOC Investigation
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 ric-33/GraySentinel-Commissioning-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/ric-33/GraySentinel-Commissioning-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 ngksiva/tables
+     ⭐ 0  🗣 HTML  📅 2026-06-25
+     🔗 https://github.com/ngksiva/tables
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 Bertilansabinla/soc-analyst-journey
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/Bertilansabinla/soc-analyst-journey
+     📝 Documenting my 5-week journey to become a SOC Analyst — home lab, tools, investi…
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 emma-taylor54736/repo-edr10rqn
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/emma-taylor54736/repo-edr10rqn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 favasredddome/IT-Cybersecurity-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/favasredddome/IT-Cybersecurity-Portfolio
+     📝 About A hands-on portfolio showcasing my skills in IT support and cybersecurity,…
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/W5M1n9/Cisco-Unified-Communications-Manager-Server-Side-Forgery-Request-Vulnerability-CVE-2026-20230
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [NEW]   🆕 📦 moyu588/my_cc_skills
+     ⭐ 0  🗣 JavaScript  📅 2026-06-25
+     🔗 https://github.com/moyu588/my_cc_skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-25 14:36:26 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-25 14:36:26 UTC] [UPD]   📢 📦 ranazain5036/symantec-ep-14-3-enhancement-kit
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/ranazain5036/symantec-ep-14-3-enhancement-kit
+     📝 Symantec Endpoint Protection 14.3.10148 Secure Toolkit 2026
+     🏷  symantec, symantec-download, symantec-endpoint-protection, symantec-endpoint-protection-download, symantec-endpoint-protection-install, symantec-endpoint-protection-key, symantec-endpoint-protection-patch, symantec-endpoint-protection-software, symantec-endpoint-protection-trial, symantec-install, symantec-key, symantec-patch, symantec-software, symantec-trial
+     🔄 Motivo: repo recente (6gg)
+[2026-06-25 14:36:26 UTC] [UPD]   📢 📦 HamzaKhanBUIC/LifecycleZero-Database-Level-Local-AI-Governance-Threat-Isolation
+     ⭐ 0  🗣 TypeScript  📅 2026-06-24
+     🔗 https://github.com/HamzaKhanBUIC/LifecycleZero-Database-Level-Local-AI-Governance-Threat-Isolation
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-25 14:36:26 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-25 14:36:26 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-25 14:36:28 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-25 14:36:28 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-25 14:36:28 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-25 14:36:28 UTC] [UPD]   📢 📦 sloan-2012/Root-Kit-OneClick-Patch-4.1
+     ⭐ 0  🗣 HTML  📅 2026-06-17
+     🔗 https://github.com/sloan-2012/Root-Kit-OneClick-Patch-4.1
+     📝 Ultimate One Click Root 4.1 Latest Version 2026 for Android Devices
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-25 14:36:28 UTC] [INFO] ============================================================
+[2026-06-25 14:36:28 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
+[2026-06-25 14:36:28 UTC] [INFO] ============================================================
