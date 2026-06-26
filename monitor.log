@@ -25424,3 +25424,123 @@
 [2026-06-25 20:03:00 UTC] [INFO] ============================================================
 [2026-06-25 20:03:00 UTC] [INFO] Completato — 22 nuovi, 4 aggiornati, 0 errori
 [2026-06-25 20:03:00 UTC] [INFO] ============================================================
+[2026-06-26 03:54:06 UTC] [INFO] ============================================================
+[2026-06-26 03:54:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-26 03:54:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-26 03:54:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-26 03:54:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-26 03:54:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-26 03:54:06 UTC] [INFO] ============================================================
+[2026-06-26 03:54:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-26 03:54:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-26 03:54:08 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-26 03:54:08 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-26 03:54:08 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-26 03:54:08 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 2  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (3gg)
+[2026-06-26 03:54:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-26 03:54:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-26 03:54:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 RaidenEi4224/ccc-system-clone-util
+     ⭐ 0  🗣 HTML  📅 2026-06-25
+     🔗 https://github.com/RaidenEi4224/ccc-system-clone-util
+     📝 The Ultimate Carbon Copy Cloner Guide for 2026 Safe and Reliable Backup Solution…
+     🏷  carbon, carbon-copy-cloner, carbon-copy-cloner-download, carbon-copy-cloner-install, carbon-copy-cloner-key, carbon-copy-cloner-patch, carbon-copy-cloner-software, carbon-copy-cloner-trial, carbon-download, carbon-install, carbon-key, carbon-patch, carbon-software, carbon-trial
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 bbas2542/trend-micro-security-pro-edition
+     ⭐ 0  🗣 HTML  📅 2026-06-26
+     🔗 https://github.com/bbas2542/trend-micro-security-pro-edition
+     📝 Trend Micro Internet Security 2026 Ultimate Lifetime Guard Solution
+     🏷  trend, trend-download, trend-install, trend-key, trend-micro-internet-security, trend-micro-internet-security-download, trend-micro-internet-security-install, trend-micro-internet-security-key, trend-micro-internet-security-patch, trend-micro-internet-security-software, trend-micro-internet-security-trial, trend-patch, trend-software, trend-trial
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 MrBeliaev/task-market
+     ⭐ 0  🗣 N/A  📅 2026-06-26
+     🔗 https://github.com/MrBeliaev/task-market
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 ArronJablonowski/KQL_OQL_Mapped_to_Mitre
+     ⭐ 0  🗣 HTML  📅 2026-06-25
+     🔗 https://github.com/ArronJablonowski/KQL_OQL_Mapped_to_Mitre
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 terraicy/SentinelX-EDR-XDR
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/terraicy/SentinelX-EDR-XDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 DorianGallo/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-06-25
+     🔗 https://github.com/DorianGallo/reverse-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 ameerumar106/aegis-siem-edr-platform
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/ameerumar106/aegis-siem-edr-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 0xnull-sec/0xnull-sec
+     ⭐ 1  🗣 N/A  📅 2026-06-25
+     🔗 https://github.com/0xnull-sec/0xnull-sec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 UnsaltedHash42/objcbelt
+     ⭐ 0  🗣 Objective-C  📅 2026-06-25
+     🔗 https://github.com/UnsaltedHash42/objcbelt
+     📝 Native Objective-C macOS recon for purple-team engagements — lowest-level APIs, …
+     🏷  —
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 sam00/AI-Argus-Harness
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/sam00/AI-Argus-Harness
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 03:54:12 UTC] [NEW]   🆕 📦 namefailed/chaff
+     ⭐ 0  🗣 Rust  📅 2026-06-25
+     🔗 https://github.com/namefailed/chaff
+     📝 Chaff — open source malware deception tool for Windows
+     🏷  —
+[2026-06-26 03:54:12 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-26 03:54:12 UTC] [UPD]   📢 📦 Youssefelsaeed/O.R.A.C.L.E-Framework
+     ⭐ 1  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/Youssefelsaeed/O.R.A.C.L.E-Framework
+     📝 Adaptive quantum-aware cyber defense framework for detection, assurance, ethical…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-26 03:54:12 UTC] [UPD]   📢 📦 cloudanimal/agent-coverage-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-06-25
+     🔗 https://github.com/cloudanimal/agent-coverage-dashboard
+     📝 Browser-local agent coverage dashboard — reconcile Active Directory against Tena…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-26 03:54:12 UTC] [UPD]   📢 📦 ranazain5036/symantec-ep-14-3-enhancement-kit
+     ⭐ 0  🗣 HTML  📅 2026-06-19
+     🔗 https://github.com/ranazain5036/symantec-ep-14-3-enhancement-kit
+     📝 Symantec Endpoint Protection 14.3.10148 Secure Toolkit 2026
+     🏷  symantec, symantec-download, symantec-endpoint-protection, symantec-endpoint-protection-download, symantec-endpoint-protection-install, symantec-endpoint-protection-key, symantec-endpoint-protection-patch, symantec-endpoint-protection-software, symantec-endpoint-protection-trial, symantec-install, symantec-key, symantec-patch, symantec-software, symantec-trial
+     🔄 Motivo: repo recente (6gg)
+[2026-06-26 03:54:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-26 03:54:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-26 03:54:14 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-26 03:54:14 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-26 03:54:14 UTC] [NEW]   🆕 📦 MounirHero/PS5-WEBKIT-12.00
+     ⭐ 0  🗣 HTML  📅 2026-06-26
+     🔗 https://github.com/MounirHero/PS5-WEBKIT-12.00
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 03:54:14 UTC] [NEW]   🆕 📦 DorianGallo/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-06-25
+     🔗 https://github.com/DorianGallo/reverse-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 03:54:14 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-26 03:54:14 UTC] [UPD]   📢 📦 msalman199/-Exploit-Development-Advanced-Red-Teaming-EDART-
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/msalman199/-Exploit-Development-Advanced-Red-Teaming-EDART-
+     📝 This Repo is the part of Al-Razzaq Programme
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-26 03:54:14 UTC] [INFO] ============================================================
+[2026-06-26 03:54:14 UTC] [INFO] Completato — 13 nuovi, 5 aggiornati, 0 errori
+[2026-06-26 03:54:14 UTC] [INFO] ============================================================
