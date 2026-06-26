@@ -25544,3 +25544,134 @@
 [2026-06-26 03:54:14 UTC] [INFO] ============================================================
 [2026-06-26 03:54:14 UTC] [INFO] Completato — 13 nuovi, 5 aggiornati, 0 errori
 [2026-06-26 03:54:14 UTC] [INFO] ============================================================
+[2026-06-26 09:30:18 UTC] [INFO] ============================================================
+[2026-06-26 09:30:18 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-26 09:30:18 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-26 09:30:18 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-26 09:30:18 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-26 09:30:18 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-26 09:30:18 UTC] [INFO] ============================================================
+[2026-06-26 09:30:18 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-26 09:30:18 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-26 09:30:21 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-26 09:30:21 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-26 09:30:21 UTC] [NEW]   🆕 📦 yairrodriguez1459-art/EDR-Killer-NVIDIA
+     ⭐ 2  🗣 Batchfile  📅 2026-06-25
+     🔗 https://github.com/yairrodriguez1459-art/EDR-Killer-NVIDIA
+     📝 BYOVD EDR Killer with Sliver C2 implant deployment
+     🏷  —
+[2026-06-26 09:30:21 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-26 09:30:21 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-26 09:30:21 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-26 09:30:24 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 lizpianta11/dolphin-releases
+     ⭐ 0  🗣 N/A  📅 2026-06-26
+     🔗 https://github.com/lizpianta11/dolphin-releases
+     📝 Dolphin macOS public beta — downloads & docs (no source)
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 HsuenChan/network-monitor
+     ⭐ 0  🗣 HTML  📅 2026-06-26
+     🔗 https://github.com/HsuenChan/network-monitor
+     📝 本機網路可視性整合儀表板：公司(Avast)視角對照即時連線/埠/DNS
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 dennisswor/edrhrl
+     ⭐ 0  🗣 N/A  📅 2026-06-26
+     🔗 https://github.com/dennisswor/edrhrl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 paultzade-byte/edrpou_rnokpp_generator
+     ⭐ 0  🗣 Python  📅 2026-06-26
+     🔗 https://github.com/paultzade-byte/edrpou_rnokpp_generator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 rainfantry/22sd-research-findings
+     ⭐ 0  🗣 C  📅 2026-06-26
+     🔗 https://github.com/rainfantry/22sd-research-findings
+     📝 First-principle security research findings — 22nd Survey Division (OCCUPATION FO…
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 KingLinux24/smb-risk-assessment-agent
+     ⭐ 0  🗣 Python  📅 2026-06-26
+     🔗 https://github.com/KingLinux24/smb-risk-assessment-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 nooranasir/AI-SOC-Assistant
+     ⭐ 0  🗣 Python  📅 2026-06-26
+     🔗 https://github.com/nooranasir/AI-SOC-Assistant
+     📝 Built an AI SOC Assistant for Security Operations  Over the past few weeks I've …
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 AITree69/local-safety-hub
+     ⭐ 0  🗣 Python  📅 2026-06-26
+     🔗 https://github.com/AITree69/local-safety-hub
+     📝 Local-first security awareness dashboard: 10 internet risks + 10 AI risks + 4 of…
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 Hoopshaker/thehive-fastmcp
+     ⭐ 0  🗣 Python  📅 2026-06-26
+     🔗 https://github.com/Hoopshaker/thehive-fastmcp
+     📝 A high-performance Model Context Protocol (MCP) server for self-hosted TheHive i…
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 aakashsingh-sec/unified-security-alert-aggregator
+     ⭐ 0  🗣 Python  📅 2026-06-26
+     🔗 https://github.com/aakashsingh-sec/unified-security-alert-aggregator
+     📝 Cross-tool SOC alert aggregation layer :- normalizes, deduplicates, and correlat…
+     🏷  alert-aggregation, blue-team, cybersecurity, incident-response, mitre-attack, python, soc, streamlit, suricata, wazuh
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 rootkiller6788/mini-wireless-mobile-comm
+     ⭐ 0  🗣 C  📅 2026-06-26
+     🔗 https://github.com/rootkiller6788/mini-wireless-mobile-comm
+     📝 Wireless communications built from scratch, learn 5G NR, beamforming, MIMO, cell…
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 abhinavkishor9/soc-lab-01-endpoint-telemetry-sysmon-wazuh
+     ⭐ 0  🗣 N/A  📅 2026-06-26
+     🔗 https://github.com/abhinavkishor9/soc-lab-01-endpoint-telemetry-sysmon-wazuh
+     📝 A hands-on SOC lab demonstrating endpoint telemetry collection, process investig…
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 FreeBUN-maker/eDRAM-FPGA-test-platform
+     ⭐ 0  🗣 SystemVerilog  📅 2026-06-26
+     🔗 https://github.com/FreeBUN-maker/eDRAM-FPGA-test-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 SadPixels/wazuh_edr
+     ⭐ 0  🗣 Python  📅 2026-06-26
+     🔗 https://github.com/SadPixels/wazuh_edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 mayankmoni/PBA80-GROMACS-Tutorial
+     ⭐ 0  🗣 HTML  📅 2026-06-25
+     🔗 https://github.com/mayankmoni/PBA80-GROMACS-Tutorial
+     📝 PBA80-GROMACS-Tutorial
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 Haider9786/ir-playbook
+     ⭐ 0  🗣 N/A  📅 2026-06-26
+     🔗 https://github.com/Haider9786/ir-playbook
+     📝 Phishing incident response playbook for Tier 1 SOC analysts  NIST framework, esc…
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 Haider9786/soc-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-26
+     🔗 https://github.com/Haider9786/soc-home-lab
+     📝 Wazuh SIEM home lab with live Windows 11 agent, attack simulations, and MITRE AT…
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 Haider9786/Haider9786
+     ⭐ 0  🗣 N/A  📅 2026-06-26
+     🔗 https://github.com/Haider9786/Haider9786
+     📝 SOC Analyst | Blue Team | Wazuh SIEM | MITRE ATT&CK | Islamabad, Pakistan
+     🏷  —
+[2026-06-26 09:30:24 UTC] [NEW]   🆕 📦 yairrodriguez1459-art/EDR-Killer-NVIDIA
+     ⭐ 2  🗣 Batchfile  📅 2026-06-25
+     🔗 https://github.com/yairrodriguez1459-art/EDR-Killer-NVIDIA
+     📝 BYOVD EDR Killer with Sliver C2 implant deployment
+     🏷  —
+[2026-06-26 09:30:24 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-26 09:30:24 UTC] [UPD]   📢 📦 ZacharyGeurts/NEXUS-Shield
+     ⭐ 1  🗣 Python  📅 2026-06-22
+     🔗 https://github.com/ZacharyGeurts/NEXUS-Shield
+     📝 Ultimate Custom Invisible Security Suite - NEXUS ∞ by AmouranthRTX | World's bes…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-26 09:30:24 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-26 09:30:24 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-26 09:30:26 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-26 09:30:26 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-26 09:30:26 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-26 09:30:26 UTC] [INFO] ============================================================
+[2026-06-26 09:30:26 UTC] [INFO] Completato — 20 nuovi, 1 aggiornati, 0 errori
+[2026-06-26 09:30:26 UTC] [INFO] ============================================================
