@@ -26256,3 +26256,110 @@
 [2026-06-27 08:38:13 UTC] [INFO] ============================================================
 [2026-06-27 08:38:13 UTC] [INFO] Completato — 9 nuovi, 2 aggiornati, 0 errori
 [2026-06-27 08:38:13 UTC] [INFO] ============================================================
+[2026-06-27 13:46:23 UTC] [INFO] ============================================================
+[2026-06-27 13:46:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-27 13:46:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-27 13:46:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-27 13:46:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-27 13:46:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-27 13:46:23 UTC] [INFO] ============================================================
+[2026-06-27 13:46:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-27 13:46:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-27 13:46:25 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-27 13:46:25 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-27 13:46:25 UTC] [NEW]   🆕 📦 servalabs/commander
+     ⭐ 0  🗣 TypeScript  📅 2026-06-27
+     🔗 https://github.com/servalabs/commander
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 13:46:25 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-27 13:46:25 UTC] [UPD]   📢 📦 kwkkd/akatsuki-hermes-integration
+     ⭐ 0  🗣 Python  📅 2026-06-20
+     🔗 https://github.com/kwkkd/akatsuki-hermes-integration
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-06-27 13:46:25 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 2  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (5gg)
+[2026-06-27 13:46:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-27 13:46:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-27 13:46:28 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 12 NUOVI repository:
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 jithendran93/jithendran93
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/jithendran93/jithendran93
+     📝 GitHub profile repository for Jithendran Subburaj
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 CIBERC2/demo-repository
+     ⭐ 0  🗣 Python  📅 2026-06-26
+     🔗 https://github.com/CIBERC2/demo-repository
+     📝 A code repository designed to show the best GitHub has to offer.
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 Tobbou/Taskmanager
+     ⭐ 0  🗣 C#  📅 2026-06-27
+     🔗 https://github.com/Tobbou/Taskmanager
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 rainfantry/iron-sun
+     ⭐ 0  🗣 C  📅 2026-06-26
+     🔗 https://github.com/rainfantry/iron-sun
+     📝 TCP reverse shell — 8-layer evasion stack. XOR encoder, dynamic API resolution, …
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 Mehsin-Khan/security-kpi-kri-dashboard-model
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/Mehsin-Khan/security-kpi-kri-dashboard-model
+     📝 Synthetic cybersecurity KPI/KRI dashboard model with executive, operations and r…
+     🏷  audit, capa, cybersecurity, dlp, edr, excel-dashboard, grc, incident-response, kpi, kri, poam, risk-management, security-dashboard, security-metrics, security-operations, security-portfolio, synthetic-data
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 domodom30/hass-addons
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/domodom30/hass-addons
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 nludd25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/nludd25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 ashokCh-dev/SAURA_extension
+     ⭐ 0  🗣 C  📅 2026-06-27
+     🔗 https://github.com/ashokCh-dev/SAURA_extension
+     📝 MPI implementations of multi-dimensional Allreduce (SUARA): 2D/3D collective com…
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 ALIF101XL/Linux-DFIR
+     ⭐ 1  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/ALIF101XL/Linux-DFIR
+     📝 Linux-DFIR
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 hadj-sadok-ilyas/EDRR---Endpoint-Detection-and-response-Recreation
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/hadj-sadok-ilyas/EDRR---Endpoint-Detection-and-response-Recreation
+     📝 This repo contains code mimics the main functions of Endpoint Detection and resp…
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 Pietro310/postura_NIS2
+     ⭐ 0  🗣 JavaScript  📅 2026-06-27
+     🔗 https://github.com/Pietro310/postura_NIS2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 13:46:28 UTC] [NEW]   🆕 📦 damned-software/dioprocess-private-readme
+     ⭐ 1  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/damned-software/dioprocess-private-readme
+     📝 DioProcess — Advanced Windows Internals, Evasion, Rootkit, Hypervisor, SMM & Boo…
+     🏷  —
+[2026-06-27 13:46:28 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-27 13:46:28 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-27 13:46:28 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-27 13:46:30 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-27 13:46:30 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-27 13:46:30 UTC] [NEW]   🆕 📦 NISTALTALSON/free-tryhackme-rooms
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/NISTALTALSON/free-tryhackme-rooms
+     📝 🔐 400+ free TryHackMe rooms organized as a real learning roadmap — from zero to …
+     🏷  —
+[2026-06-27 13:46:30 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-27 13:46:30 UTC] [INFO] ============================================================
+[2026-06-27 13:46:30 UTC] [INFO] Completato — 14 nuovi, 2 aggiornati, 0 errori
+[2026-06-27 13:46:30 UTC] [INFO] ============================================================
