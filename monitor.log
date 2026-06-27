@@ -26174,3 +26174,85 @@
 [2026-06-27 03:37:00 UTC] [INFO] ============================================================
 [2026-06-27 03:37:00 UTC] [INFO] Completato — 21 nuovi, 3 aggiornati, 0 errori
 [2026-06-27 03:37:00 UTC] [INFO] ============================================================
+[2026-06-27 08:38:06 UTC] [INFO] ============================================================
+[2026-06-27 08:38:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-27 08:38:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-27 08:38:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-27 08:38:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-27 08:38:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-27 08:38:06 UTC] [INFO] ============================================================
+[2026-06-27 08:38:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-27 08:38:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-27 08:38:08 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-27 08:38:08 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-27 08:38:08 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-27 08:38:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-27 08:38:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-27 08:38:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-27 08:38:11 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-06-27 08:38:11 UTC] [NEW]   🆕 📦 abdirashidm075-Rashka/endpoint-keylogger-simulator
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/abdirashidm075-Rashka/endpoint-keylogger-simulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 08:38:11 UTC] [NEW]   🆕 📦 Danieldlr13/Command-and-Control-C2
+     ⭐ 1  🗣 Python  📅 2026-06-26
+     🔗 https://github.com/Danieldlr13/Command-and-Control-C2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 08:38:11 UTC] [NEW]   🆕 📦 oliverweaverenr/CaptureGuard
+     ⭐ 2  🗣 Rust  📅 2026-06-27
+     🔗 https://github.com/oliverweaverenr/CaptureGuard
+     📝 Windows screen-capture protection tool that hides selected app windows from scre…
+     🏷  —
+[2026-06-27 08:38:11 UTC] [NEW]   🆕 📦 Shellss15/Mani
+     ⭐ 0  🗣 Shell  📅 2026-06-27
+     🔗 https://github.com/Shellss15/Mani
+     📝 Automated Bash and Tshark enterprise utility for headless packet analysis and de…
+     🏷  —
+[2026-06-27 08:38:11 UTC] [NEW]   🆕 📦 leonezhu/buzz
+     ⭐ 0  🗣 JavaScript  📅 2026-06-26
+     🔗 https://github.com/leonezhu/buzz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 08:38:11 UTC] [NEW]   🆕 📦 sparkyfarky/Cybersecurity-Mastery-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/sparkyfarky/Cybersecurity-Mastery-Roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 08:38:11 UTC] [NEW]   🆕 📦 prathampopatiya/MalwareDevTales
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/prathampopatiya/MalwareDevTales
+     📝 This repository consist of tutorials of malware development for windows environm…
+     🏷  —
+[2026-06-27 08:38:11 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-27 08:38:11 UTC] [UPD]   📢 📦 lf-wxp/radio
+     ⭐ 0  🗣 Rust  📅 2026-06-22
+     🔗 https://github.com/lf-wxp/radio
+     📝 esp homemade radio
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-06-27 08:38:11 UTC] [UPD]   📢 📦 MikeDash-Net/network-security-homelab
+     ⭐ 0  🗣 N/A  📅 2026-06-26
+     🔗 https://github.com/MikeDash-Net/network-security-homelab
+     📝 Documentation behind a real network & security home lab — Cisco ASA, MikroTik du…
+     🏷  ccna, cisco, cisco-asa, cybersecurity, homelab, mikrotik, networking, soc, suricata, wazuh
+     🔄 Motivo: repo recente (0gg)
+[2026-06-27 08:38:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-27 08:38:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-27 08:38:13 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-27 08:38:13 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-27 08:38:13 UTC] [NEW]   🆕 📦 sparkyfarky/Cybersecurity-Mastery-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/sparkyfarky/Cybersecurity-Mastery-Roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 08:38:13 UTC] [NEW]   🆕 📦 ranjithrajv/awesome-cpu-first-ai
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/ranjithrajv/awesome-cpu-first-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 08:38:13 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-27 08:38:13 UTC] [INFO] ============================================================
+[2026-06-27 08:38:13 UTC] [INFO] Completato — 9 nuovi, 2 aggiornati, 0 errori
+[2026-06-27 08:38:13 UTC] [INFO] ============================================================
