@@ -26363,3 +26363,160 @@
 [2026-06-27 13:46:30 UTC] [INFO] ============================================================
 [2026-06-27 13:46:30 UTC] [INFO] Completato — 14 nuovi, 2 aggiornati, 0 errori
 [2026-06-27 13:46:30 UTC] [INFO] ============================================================
+[2026-06-27 19:22:49 UTC] [INFO] ============================================================
+[2026-06-27 19:22:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-27 19:22:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-27 19:22:49 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-27 19:22:49 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-27 19:22:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-27 19:22:49 UTC] [INFO] ============================================================
+[2026-06-27 19:22:49 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-27 19:22:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-27 19:22:51 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-27 19:22:51 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-27 19:22:51 UTC] [NEW]   🆕 📦 yu-tanaka961/detection-engineering-sigma-rules
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/yu-tanaka961/detection-engineering-sigma-rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:51 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-27 19:22:51 UTC] [UPD]   📢 📦 BenjiTrapp/PurpleSkjaldborg
+     ⭐ 2  🗣 HTML  📅 2026-06-22
+     🔗 https://github.com/BenjiTrapp/PurpleSkjaldborg
+     📝 Purple-team threat modeling in the browser. Zero dependencies. One HTML file. Of…
+     🏷  blueteam, defensive-security, mitre-attack, mitre-defend, offensive-security, purple-teaming, redteam, threat-modeling
+     🔄 Motivo: repo recente (5gg)
+[2026-06-27 19:22:51 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-27 19:22:51 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-27 19:22:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 cyberkunju/tia
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/cyberkunju/tia
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 NumanBhat1/security-plus-textbook
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/NumanBhat1/security-plus-textbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 Requierplt/RequierUI
+     ⭐ 0  🗣 C#  📅 2026-06-27
+     🔗 https://github.com/Requierplt/RequierUI
+     📝 Requier EDR - демонстрационный пользовательский интерфейс
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 ArtyMaury/perf-analyzer
+     ⭐ 0  🗣 JavaScript  📅 2026-06-27
+     🔗 https://github.com/ArtyMaury/perf-analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 CIAqingchen/metabolic-runtime
+     ⭐ 1  🗣 Rust  📅 2026-06-27
+     🔗 https://github.com/CIAqingchen/metabolic-runtime
+     📝 A Rust/Wasm Metabolic Runtime for Zero-Downtime Hot Swapping
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 jaoribax/jaoribax
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/jaoribax/jaoribax
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 jcelera/edrawu
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/jcelera/edrawu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 0xBESHO0VIC/wazuh-fim-edr
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/0xBESHO0VIC/wazuh-fim-edr
+     📝 implementation of File Integrity Monitoring (FIM) using Wazuh to detect unauthor…
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 grootynix/grootynix
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/grootynix/grootynix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 kingaka21/edr-bypass-direct-syscalls
+     ⭐ 0  🗣 C  📅 2026-06-27
+     🔗 https://github.com/kingaka21/edr-bypass-direct-syscalls
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 santiagocardinal/Obligatorio_SO
+     ⭐ 0  🗣 C#  📅 2026-06-27
+     🔗 https://github.com/santiagocardinal/Obligatorio_SO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 aliamohamedmamoun/cyber-defense-react
+     ⭐ 0  🗣 JavaScript  📅 2026-06-27
+     🔗 https://github.com/aliamohamedmamoun/cyber-defense-react
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 subway050702-stack/-
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/subway050702-stack/-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 Mortadha-Riahi/Mortadha-Riahi
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/Mortadha-Riahi/Mortadha-Riahi
+     📝 DevSecOps Engineer | AWS SA · RHCE · eCPPT · ISO 27001 | K8s · CI/CD · SOC
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 Kristofers/little-brother
+     ⭐ 0  🗣 Shell  📅 2026-06-27
+     🔗 https://github.com/Kristofers/little-brother
+     📝 Read-only audit av vad en arbetsgivare kan se på en Intune-hanterad macOS-maskin
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 GodSpell28/mini-edr
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/GodSpell28/mini-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 berinabraham-sec/endpoint-security-auditor
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/berinabraham-sec/endpoint-security-auditor
+     📝 A lightweight host hardening audit tool for macOS, Windows, and Linux that check…
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 Tester623/incident-response-playbook-engine
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/Tester623/incident-response-playbook-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 prashantsaha18/cloudShield
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/prashantsaha18/cloudShield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 navalpablo/macro_suite
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/navalpablo/macro_suite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 Tester623/soc-alert-triage-assistant
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/Tester623/soc-alert-triage-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [NEW]   🆕 📦 ajwarauff/Anti-RansomewareCanaryShield
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/ajwarauff/Anti-RansomewareCanaryShield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:53 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-27 19:22:53 UTC] [UPD]   📢 📦 RaidenEi4224/ccc-system-clone-util
+     ⭐ 0  🗣 HTML  📅 2026-06-25
+     🔗 https://github.com/RaidenEi4224/ccc-system-clone-util
+     📝 The Ultimate Carbon Copy Cloner Guide for 2026 Safe and Reliable Backup Solution…
+     🏷  carbon, carbon-copy-cloner, carbon-copy-cloner-download, carbon-copy-cloner-install, carbon-copy-cloner-key, carbon-copy-cloner-patch, carbon-copy-cloner-software, carbon-copy-cloner-trial, carbon-download, carbon-install, carbon-key, carbon-patch, carbon-software, carbon-trial
+     🔄 Motivo: repo recente (1gg)
+[2026-06-27 19:22:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-27 19:22:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-27 19:22:55 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-27 19:22:55 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-27 19:22:55 UTC] [NEW]   🆕 📦 rafikjeux70-boop/FLASH
+     ⭐ 0  🗣 HTML  📅 2026-06-27
+     🔗 https://github.com/rafikjeux70-boop/FLASH
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-27 19:22:55 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-27 19:22:55 UTC] [INFO] ============================================================
+[2026-06-27 19:22:55 UTC] [INFO] Completato — 24 nuovi, 2 aggiornati, 0 errori
+[2026-06-27 19:22:55 UTC] [INFO] ============================================================
