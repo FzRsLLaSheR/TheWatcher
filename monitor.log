@@ -26900,3 +26900,171 @@
 [2026-06-28 13:49:47 UTC] [INFO] ============================================================
 [2026-06-28 13:49:47 UTC] [INFO] Completato — 23 nuovi, 1 aggiornati, 0 errori
 [2026-06-28 13:49:47 UTC] [INFO] ============================================================
+[2026-06-28 19:22:47 UTC] [INFO] ============================================================
+[2026-06-28 19:22:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-28 19:22:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-28 19:22:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-28 19:22:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-28 19:22:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-28 19:22:47 UTC] [INFO] ============================================================
+[2026-06-28 19:22:47 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-28 19:22:47 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-28 19:22:49 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 19:22:49 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-28 19:22:49 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-28 19:22:49 UTC] [UPD]   📢 📦 v8k6b2jjps-prog/KernelPrimitiveScanner
+     ⭐ 0  🗣 PowerShell  📅 2026-06-24
+     🔗 https://github.com/v8k6b2jjps-prog/KernelPrimitiveScanner
+     📝 BYOVD File scanner
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-28 19:22:49 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-28 19:22:49 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-28 19:22:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 pdemirdev/edrkgz
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/pdemirdev/edrkgz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 BatuhanTekin95/Detection-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/BatuhanTekin95/Detection-Engineering
+     📝 This repository contains my notes and lab write-ups from the Detection Engineeri…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 wkt21/WKT12
+     ⭐ 1  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/wkt21/WKT12
+     📝 Collective of Work 
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 ItzDeMalik/endpoint-security-monitoring
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/ItzDeMalik/endpoint-security-monitoring
+     📝 Endpoint Security & Monitoring using Wazuh EDR 
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 berinabraham-sec/wazuh-agentic-soc
+     ⭐ 0  🗣 JavaScript  📅 2026-06-28
+     🔗 https://github.com/berinabraham-sec/wazuh-agentic-soc
+     📝 A fully local, multi-agent Security Operations Center (SOC) framework that inges…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 astrax3v2/k3-siem
+     ⭐ 0  🗣 JavaScript  📅 2026-06-28
+     🔗 https://github.com/astrax3v2/k3-siem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 hadj-sadok-ilyas/EDRR-WINDOWS
+     ⭐ 0  🗣 C++  📅 2026-06-28
+     🔗 https://github.com/hadj-sadok-ilyas/EDRR-WINDOWS
+     📝 [WINDOWS]  This repo contains code mimics the main functions of Endpoint Detecti…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 syedghulamm50/Wazuh-realtime-fim-project
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/syedghulamm50/Wazuh-realtime-fim-project
+     📝 Implementing real-time File Integrity Monitoring (FIM) using a Wazuh  agent on K…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 NATTOMR/Enterprise-Grade-Home-Lab-Active-Directory-EDR-
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/NATTOMR/Enterprise-Grade-Home-Lab-Active-Directory-EDR-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 berinabraham-sec/AI_SOC_Automation
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/berinabraham-sec/AI_SOC_Automation
+     📝 An enterprise-grade, AI-driven SOAR platform that integrates with multiple secur…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 Lorikeet-Security/TalonC2
+     ⭐ 1  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/Lorikeet-Security/TalonC2
+     📝 AI-powered command and control framework for authorized red team operations. Hum…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 ginesGit/Android-Hacking
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/ginesGit/Android-Hacking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 zakk-io/AI-Enhanced-Endpoint-Detection-and-Response-EDR-SIEM-System-for-Linux-Networks
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/zakk-io/AI-Enhanced-Endpoint-Detection-and-Response-EDR-SIEM-System-for-Linux-Networks
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 ValentinTorassa/VT-Lens
+     ⭐ 0  🗣 Rust  📅 2026-06-28
+     🔗 https://github.com/ValentinTorassa/VT-Lens
+     📝 Native Rust GUI for understanding local process and network activity with LLM-re…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 jenishs524/Reverse-Shell-Detector
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/jenishs524/Reverse-Shell-Detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 shuhei0720/shuhei0720
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/shuhei0720/shuhei0720
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 darenalyze/soc-incident-response-labs
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/darenalyze/soc-incident-response-labs
+     📝 Hands-on blue team labs focused on log analysis, SIEM configurations, and formal…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 Abhisheksinghgolu/EDRMS
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/Abhisheksinghgolu/EDRMS
+     📝 Electronic & Digital Resource Mangement System
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 StephenStarc/security-automation-projects
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/StephenStarc/security-automation-projects
+     📝 Five self-contained security-operations automations (scanner/EDR/cloud/CVE -> Ji…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 cryptdefender323/phantom
+     ⭐ 0  🗣 Go  📅 2026-06-28
+     🔗 https://github.com/cryptdefender323/phantom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 j0ons/sentinel-guardian
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/j0ons/sentinel-guardian
+     📝 Self-improving edge security guardian + fleet mind on Qwen Cloud — catches cross…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 HeyLach/malware-analysis-review
+     ⭐ 0  🗣 HTML  📅 2026-06-28
+     🔗 https://github.com/HeyLach/malware-analysis-review
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:53 UTC] [NEW]   🆕 📦 MaorSabag/NaX
+     ⭐ 12  🗣 C  📅 2026-06-28
+     🔗 https://github.com/MaorSabag/NaX
+     📝 Custom Adaptix-compatible C2 agent - PIC beacon + Stardust UDRL + Go extender pl…
+     🏷  —
+[2026-06-28 19:22:53 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-28 19:22:53 UTC] [UPD]   📢 📦 domodom30/hass-addons
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/domodom30/hass-addons
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-28 19:22:53 UTC] [UPD]   📢 📦 chicoutsch-lab/minha-adega
+     ⭐ 0  🗣 JavaScript  📅 2026-06-27
+     🔗 https://github.com/chicoutsch-lab/minha-adega
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-28 19:22:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-28 19:22:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-28 19:22:55 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 19:22:55 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-28 19:22:55 UTC] [NEW]   🆕 📦 AdMoR/dgx-spark-secured-playwright-agent
+     ⭐ 0  🗣 Shell  📅 2026-06-28
+     🔗 https://github.com/AdMoR/dgx-spark-secured-playwright-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 19:22:55 UTC] [NEW]   🆕 📦 HandsOn-By-Manju/Linux-Offensive-Security
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/HandsOn-By-Manju/Linux-Offensive-Security
+     📝 A hands-on repository documenting my Linux Offensive Security journey through pe…
+     🏷  —
+[2026-06-28 19:22:55 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-28 19:22:55 UTC] [INFO] ============================================================
+[2026-06-28 19:22:55 UTC] [INFO] Completato — 25 nuovi, 3 aggiornati, 0 errori
+[2026-06-28 19:22:55 UTC] [INFO] ============================================================
