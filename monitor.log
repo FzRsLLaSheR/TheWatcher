@@ -26754,3 +26754,149 @@
 [2026-06-28 08:54:57 UTC] [INFO] ============================================================
 [2026-06-28 08:54:57 UTC] [INFO] Completato — 12 nuovi, 3 aggiornati, 0 errori
 [2026-06-28 08:54:57 UTC] [INFO] ============================================================
+[2026-06-28 13:49:41 UTC] [INFO] ============================================================
+[2026-06-28 13:49:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-28 13:49:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-28 13:49:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-28 13:49:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-28 13:49:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-28 13:49:41 UTC] [INFO] ============================================================
+[2026-06-28 13:49:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-28 13:49:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-28 13:49:43 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 13:49:43 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-28 13:49:43 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-28 13:49:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-28 13:49:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-28 13:49:45 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 mrheko/edrvkh
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/mrheko/edrvkh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 chichance/blacklist-daemon
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/chichance/blacklist-daemon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 Coder-analyst/AI-EDR-
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/Coder-analyst/AI-EDR-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 lululufr/WazabiEDR_Installer
+     ⭐ 0  🗣 PowerShell  📅 2026-06-28
+     🔗 https://github.com/lululufr/WazabiEDR_Installer
+     📝 Inno Setup installer bundling the WazabiEDR driver, agent and operator CLI.
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 Mertpswkjf/Simple-Heuristic-Based-Security-Browser-Extension
+     ⭐ 0  🗣 JavaScript  📅 2026-06-28
+     🔗 https://github.com/Mertpswkjf/Simple-Heuristic-Based-Security-Browser-Extension
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 vulnquest58/uac-apex-framework
+     ⭐ 0  🗣 C++  📅 2026-06-28
+     🔗 https://github.com/vulnquest58/uac-apex-framework
+     📝 Enterprise-Grade Adaptive UAC Elevation Framework (AEF) v4.0 - Context-Aware Win…
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 logeshwara554/BootShield
+     ⭐ 1  🗣 HTML  📅 2026-06-28
+     🔗 https://github.com/logeshwara554/BootShield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 mateuszbestai/ForgeShieldOT
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/mateuszbestai/ForgeShieldOT
+     📝 Cybersecurity tool for OT
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 Ch1nfo/ZeroADR
+     ⭐ 1  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/Ch1nfo/ZeroADR
+     📝 Agent runtime security for MCP and AI agents, featuring policy enforcement, huma…
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 rishicode18/AI-EDR
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/rishicode18/AI-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 JTROH/bioreactor-pv-calculator
+     ⭐ 0  🗣 TypeScript  📅 2026-06-28
+     🔗 https://github.com/JTROH/bioreactor-pv-calculator
+     📝 Web-based power input per unit volume (P/V) and shear-constraint calculator for …
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 Ashiii27/CPP-for-Security
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/Ashiii27/CPP-for-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 windshock/edr-security-audit
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/windshock/edr-security-audit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 joaovarelas/GitRunner-C2
+     ⭐ 2  🗣 Vue  📅 2026-06-28
+     🔗 https://github.com/joaovarelas/GitRunner-C2
+     📝 Proof-of-concept C2 framework abusing GitLab self-hosted runners as implants — V…
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 IBK-KK-DEV/Malware-Traffic-Analysis-Wireshark-PCAP-Investigation-
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/IBK-KK-DEV/Malware-Traffic-Analysis-Wireshark-PCAP-Investigation-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 Ahmed-Jawad-net/endpoint-security-threat-protetion
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/Ahmed-Jawad-net/endpoint-security-threat-protetion
+     📝 Deploying EDR, File Integrity Monitoring, and Automated Alerts using Wazuh SIEM
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 maniiverma/X-ARP-Detector
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/maniiverma/X-ARP-Detector
+     📝 Enterprise-Grade Multi-Layer ARP Spoofing Prevention & SOC Suite
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 A-Ragul/AI-Assisted-DFIR-Threat-Hunting-Assistant
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/A-Ragul/AI-Assisted-DFIR-Threat-Hunting-Assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 lavendernodepatch/edrqjhnc
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/lavendernodepatch/edrqjhnc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 amitpadhan525/linux-eye
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/amitpadhan525/linux-eye
+     📝 A Linux security monitoring tool that watches your system for suspicious activit…
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 AhsenSiddique/soc-triage-pipeline
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/AhsenSiddique/soc-triage-pipeline
+     📝 SOC alert triage pipeline — IOC enrichment, MITRE ATT&CK mapping, YARA rule gene…
+     🏷  —
+[2026-06-28 13:49:45 UTC] [NEW]   🆕 📦 taezeem14/hackers-bible
+     ⭐ 0  🗣 HTML  📅 2026-06-28
+     🔗 https://github.com/taezeem14/hackers-bible
+     📝 The Hacker's Bible: From Zero to Zero-Day by Taezeem
+     🏷  —
+[2026-06-28 13:49:45 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-28 13:49:45 UTC] [UPD]   📢 📦 HamzaKhanBUIC/LifecycleZero-Database-Level-Local-AI-Governance-Threat-Isolation
+     ⭐ 0  🗣 TypeScript  📅 2026-06-24
+     🔗 https://github.com/HamzaKhanBUIC/LifecycleZero-Database-Level-Local-AI-Governance-Threat-Isolation
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-28 13:49:45 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-28 13:49:45 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-28 13:49:47 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 13:49:47 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-28 13:49:47 UTC] [NEW]   🆕 📦 vulnquest58/container-escape-arsenal
+     ⭐ 0  🗣 Shell  📅 2026-06-28
+     🔗 https://github.com/vulnquest58/container-escape-arsenal
+     📝 Professional CTF Container Escape Toolkit - Full attack chain: User to Container…
+     🏷  —
+[2026-06-28 13:49:47 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-28 13:49:47 UTC] [INFO] ============================================================
+[2026-06-28 13:49:47 UTC] [INFO] Completato — 23 nuovi, 1 aggiornati, 0 errori
+[2026-06-28 13:49:47 UTC] [INFO] ============================================================
