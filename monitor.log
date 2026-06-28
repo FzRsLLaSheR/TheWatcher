@@ -26651,3 +26651,106 @@
 [2026-06-28 04:00:25 UTC] [INFO] ============================================================
 [2026-06-28 04:00:25 UTC] [INFO] Completato — 20 nuovi, 1 aggiornati, 0 errori
 [2026-06-28 04:00:25 UTC] [INFO] ============================================================
+[2026-06-28 08:54:50 UTC] [INFO] ============================================================
+[2026-06-28 08:54:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-28 08:54:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-28 08:54:50 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-28 08:54:50 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-28 08:54:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-28 08:54:50 UTC] [INFO] ============================================================
+[2026-06-28 08:54:50 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-28 08:54:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-28 08:54:53 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 08:54:53 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-28 08:54:53 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-28 08:54:53 UTC] [UPD]   📢 📦 diabloidyobane/DriverScope
+     ⭐ 3  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/diabloidyobane/DriverScope
+     📝  Automated BYOVD driver analysis: import scanning, IOCTL dispatch extraction, Sp…
+     🏷  byovd, claude-code, idapython, python, reverse-engineering, security-research, static-analysis, windows-kernel
+     🔄 Motivo: repo recente (0gg)
+[2026-06-28 08:54:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-28 08:54:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-28 08:54:55 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 10 NUOVI repository:
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 beartick/edrjvg
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/beartick/edrjvg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 mertturkel234/SenrtaWEB
+     ⭐ 0  🗣 CSS  📅 2026-06-28
+     🔗 https://github.com/mertturkel234/SenrtaWEB
+     📝 SentraEDR, Windows sistemler için Rust ile geliştirilmiş, düşük bellek tüketen, …
+     🏷  —
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 edjobnews-del/EdResume
+     ⭐ 0  🗣 JavaScript  📅 2026-06-28
+     🔗 https://github.com/edjobnews-del/EdResume
+     📝 free resume
+     🏷  —
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 rajeshsakl/edrqlt
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/rajeshsakl/edrqlt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 msalman199/-Red-Team-Operator-Adversary-Emulation-Attack-Simulation
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/msalman199/-Red-Team-Operator-Adversary-Emulation-Attack-Simulation
+     📝 This Repo is the part of Al-Razzaq Programme
+     🏷  —
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 senvev47/trace-lens
+     ⭐ 1  🗣 Rust  📅 2026-06-28
+     🔗 https://github.com/senvev47/trace-lens
+     📝 Rust-based blue team tracing, attribution, and investigation system for single-h…
+     🏷  —
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 TheAngryRaven/Alfano-bt-spec
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/TheAngryRaven/Alfano-bt-spec
+     📝 Reverse engineering the alfano Bluetooth protocol for interoperability 
+     🏷  —
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 boizachi/edrvgk
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/boizachi/edrvgk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 BL3IP/soar-shuffle-playbook
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/BL3IP/soar-shuffle-playbook
+     📝 Shuffle SOAR (Docker) + a tested auto-enrich-and-contain playbook: scores live I…
+     🏷  —
+[2026-06-28 08:54:55 UTC] [NEW]   🆕 📦 VMAware-Organisation/VMAware
+     ⭐ 0  🗣 C++  📅 2026-06-28
+     🔗 https://github.com/VMAware-Organisation/VMAware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 08:54:55 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-28 08:54:55 UTC] [UPD]   📢 📦 Kristofers/little-brother
+     ⭐ 0  🗣 Shell  📅 2026-06-27
+     🔗 https://github.com/Kristofers/little-brother
+     📝 Read-only security-and-privacy audit of an Intune/MDM-managed macOS machine: wha…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-28 08:54:55 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-28 08:54:55 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-28 08:54:57 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 08:54:57 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-28 08:54:57 UTC] [NEW]   🆕 📦 Coding666Legend/CSec-Learning-Path
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/Coding666Legend/CSec-Learning-Path
+     📝 CSec Learning Path is a community-driven cybersecurity roadmap that provides str…
+     🏷  —
+[2026-06-28 08:54:57 UTC] [NEW]   🆕 📦 MarkBoben/Ethical_Hacking_Task_02_MarkBoben
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/MarkBoben/Ethical_Hacking_Task_02_MarkBoben
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 08:54:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-28 08:54:57 UTC] [UPD]   📢 📦 diabloidyobane/DriverScope
+     ⭐ 3  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/diabloidyobane/DriverScope
+     📝  Automated BYOVD driver analysis: import scanning, IOCTL dispatch extraction, Sp…
+     🏷  byovd, claude-code, idapython, python, reverse-engineering, security-research, static-analysis, windows-kernel
+     🔄 Motivo: repo recente (0gg)
+[2026-06-28 08:54:57 UTC] [INFO] ============================================================
+[2026-06-28 08:54:57 UTC] [INFO] Completato — 12 nuovi, 3 aggiornati, 0 errori
+[2026-06-28 08:54:57 UTC] [INFO] ============================================================
