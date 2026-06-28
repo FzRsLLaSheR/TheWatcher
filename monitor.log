@@ -26520,3 +26520,134 @@
 [2026-06-27 19:22:55 UTC] [INFO] ============================================================
 [2026-06-27 19:22:55 UTC] [INFO] Completato — 24 nuovi, 2 aggiornati, 0 errori
 [2026-06-27 19:22:55 UTC] [INFO] ============================================================
+[2026-06-28 04:00:17 UTC] [INFO] ============================================================
+[2026-06-28 04:00:17 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-28 04:00:17 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-28 04:00:17 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-28 04:00:17 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-28 04:00:17 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-28 04:00:17 UTC] [INFO] ============================================================
+[2026-06-28 04:00:17 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-28 04:00:17 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-28 04:00:20 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 04:00:20 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-28 04:00:20 UTC] [NEW]   🆕 📦 diabloidyobane/DriverScope
+     ⭐ 1  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/diabloidyobane/DriverScope
+     📝  Static BYOVD hunting pipeline for Windows kernel drivers. Imports + IOCTL dispa…
+     🏷  byovd, claude-code, idapython, python, reverse-engineering, security-research, static-analysis, windows-kernel
+[2026-06-28 04:00:20 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-28 04:00:20 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-28 04:00:20 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-28 04:00:23 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 MusahIssah/windows-sandbox-malware-analysis
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/MusahIssah/windows-sandbox-malware-analysis
+     📝 Analyzed a suspicious email attachment using Windows Sandbox — identified masque…
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 BL3IP/iocsift
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/BL3IP/iocsift
+     📝 Zero-dependency Python CLI to extract & enrich IOCs (IPs, domains, hashes, CVEs)…
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 taasezer/SentraEDR
+     ⭐ 0  🗣 Rust  📅 2026-06-27
+     🔗 https://github.com/taasezer/SentraEDR
+     📝 Hackarton
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 berinabraham-sec/Zero-Trust-Policy-Simulator
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/berinabraham-sec/Zero-Trust-Policy-Simulator
+     📝  A comprehensive enterprise-grade Zero-Trust Architecture simulator implementing…
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 diabloidyobane/BlindSpot
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/diabloidyobane/BlindSpot
+     📝 Reverse engineering a manually-mapped commercial cheat DLL in The Division 2. Do…
+     🏷  defensive-security, manual-mapping, memory-forensics, pe-analysis, reverse-engineering, windows-internals
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 Diva07-kd/modern
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/Diva07-kd/modern
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 partial-signals/ipauro
+     ⭐ 0  🗣 Shell  📅 2026-06-28
+     🔗 https://github.com/partial-signals/ipauro
+     📝 help encourage layer 3 audio to find peers
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 chicoutsch-lab/minha-adega
+     ⭐ 0  🗣 JavaScript  📅 2026-06-27
+     🔗 https://github.com/chicoutsch-lab/minha-adega
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 XMR-CTRL/Sem-Speculative-Engine
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/XMR-CTRL/Sem-Speculative-Engine
+     📝 The Speculative Engine
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 G0BLINDEV/smarteonukoly-public
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/G0BLINDEV/smarteonukoly-public
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 0xBESHO0VIC/wazzuh-ssh-bruteforce
+     ⭐ 0  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/0xBESHO0VIC/wazzuh-ssh-bruteforce
+     📝 Detecting  SSH brute-force attacks on an Ubuntu machine using Wazuh’s security m…
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 JackFurton/malware_dev
+     ⭐ 0  🗣 Makefile  📅 2026-06-27
+     🔗 https://github.com/JackFurton/malware_dev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 sid-3110/Socverse
+     ⭐ 0  🗣 HTML  📅 2026-06-27
+     🔗 https://github.com/sid-3110/Socverse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 omarebeid24/Log-Collector
+     ⭐ 0  🗣 PowerShell  📅 2026-06-27
+     🔗 https://github.com/omarebeid24/Log-Collector
+     📝 PowerShell script that can be ran on any machine for easy log collection of pote…
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 berinabraham-sec/risk-calculator
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/berinabraham-sec/risk-calculator
+     📝 A comprehensive risk assessment tool with quantitative scoring, Monte Carlo simu…
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 genrex-bot/malyze
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/genrex-bot/malyze
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-28 04:00:23 UTC] [NEW]   🆕 📦 masytech46/threat-intelligence-investigation-report
+     ⭐ 1  🗣 N/A  📅 2026-06-27
+     🔗 https://github.com/masytech46/threat-intelligence-investigation-report
+     📝 Threat intelligent investigationreport for Cleveland Fintech
+     🏷  —
+[2026-06-28 04:00:23 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-28 04:00:23 UTC] [UPD]   📢 📦 Shellss15/Mani
+     ⭐ 0  🗣 Shell  📅 2026-06-27
+     🔗 https://github.com/Shellss15/Mani
+     📝 Automated Bash and Tshark enterprise utility for headless packet analysis and de…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-28 04:00:23 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-28 04:00:23 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-28 04:00:25 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-28 04:00:25 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-28 04:00:25 UTC] [NEW]   🆕 📦 Justinkhz/peaseater
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/Justinkhz/peaseater
+     📝 Parse and triage WinPEAS and LinPEAS output into prioritised privilege escalatio…
+     🏷  —
+[2026-06-28 04:00:25 UTC] [NEW]   🆕 📦 diabloidyobane/DriverScope
+     ⭐ 1  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/diabloidyobane/DriverScope
+     📝  Static BYOVD hunting pipeline for Windows kernel drivers. Imports + IOCTL dispa…
+     🏷  byovd, claude-code, idapython, python, reverse-engineering, security-research, static-analysis, windows-kernel
+[2026-06-28 04:00:25 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-28 04:00:25 UTC] [INFO] ============================================================
+[2026-06-28 04:00:25 UTC] [INFO] Completato — 20 nuovi, 1 aggiornati, 0 errori
+[2026-06-28 04:00:25 UTC] [INFO] ============================================================
