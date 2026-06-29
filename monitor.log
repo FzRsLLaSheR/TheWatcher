@@ -27554,3 +27554,177 @@
 [2026-06-29 15:50:16 UTC] [INFO] ============================================================
 [2026-06-29 15:50:16 UTC] [INFO] Completato — 22 nuovi, 4 aggiornati, 0 errori
 [2026-06-29 15:50:16 UTC] [INFO] ============================================================
+[2026-06-29 20:00:02 UTC] [INFO] ============================================================
+[2026-06-29 20:00:02 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-29 20:00:02 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-29 20:00:02 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-29 20:00:02 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-29 20:00:02 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-29 20:00:02 UTC] [INFO] ============================================================
+[2026-06-29 20:00:02 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-29 20:00:02 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-29 20:00:05 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-29 20:00:05 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-29 20:00:05 UTC] [NEW]   🆕 📦 tarun24000/detection-engineering
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/tarun24000/detection-engineering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:05 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-29 20:00:05 UTC] [UPD]   📢 📦 servalabs/wincommander
+     ⭐ 0  🗣 TypeScript  📅 2026-06-27
+     🔗 https://github.com/servalabs/wincommander
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-29 20:00:05 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-29 20:00:05 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-29 20:00:08 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 bluegridcoresolutions/bluegrid-security
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/bluegridcoresolutions/bluegrid-security
+     📝 Cybersecurity, compliance, penetration testing, and data protection services
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 emafanjul/Analisis_galaxias_Extragalactica
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-06-28
+     🔗 https://github.com/emafanjul/Analisis_galaxias_Extragalactica
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 BedrettinOrtak/hannibal-stealer
+     ⭐ 0  🗣 C#  📅 2026-06-29
+     🔗 https://github.com/BedrettinOrtak/hannibal-stealer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 xuanson26/Windows-Keylogger-Malware-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/xuanson26/Windows-Keylogger-Malware-Analysis
+     📝 Windows Keylogger development lab & malware analysis repository using Ghidra, PE…
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 arelas/Phat32
+     ⭐ 0  🗣 C#  📅 2026-06-29
+     🔗 https://github.com/arelas/Phat32
+     📝 Native Windows WPF tool for formatting drives as FAT32 above Windows' built-in 3…
+     🏷  cli, csharp, disk-formatting, dotnet, fat32, formatter, gui, usb, windows, wpf
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 CyberTechSali/Analyse-Dynamique-du-Ransomware-WannaCry
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/CyberTechSali/Analyse-Dynamique-du-Ransomware-WannaCry
+     📝 In-depth dynamic analysis of the WannaCry ransomware in an isolated lab environm…
+     🏷  digital-forensics, dynamic-analysis, malware-analysis, mitre-attack, procmon, regshot, wannacry, wannacrypt0r, wireshark
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 dawei2077/AI-Enhanced-SIEM-Pipeline-for-Living-off-the-Land-LotL-Detection-in-Splunk
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/dawei2077/AI-Enhanced-SIEM-Pipeline-for-Living-off-the-Land-LotL-Detection-in-Splunk
+     📝 Splunk SIEM pipeline integrating Google’s Gemini AI to analyze logs and map cont…
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 WhyzperMe/Advanced-Syscall-And-EDR-Evasion-Research
+     ⭐ 0  🗣 C++  📅 2026-06-29
+     🔗 https://github.com/WhyzperMe/Advanced-Syscall-And-EDR-Evasion-Research
+     📝 Advanced Windows EDR evasion research project combining Halo's Gate, Tartarus Ga…
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 tarun24000/detection-engineering
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/tarun24000/detection-engineering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 kwpwn/thebook-rs
+     ⭐ 0  🗣 PowerShell  📅 2026-06-29
+     🔗 https://github.com/kwpwn/thebook-rs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 netairforce-cell/AegisMatrix
+     ⭐ 1  🗣 C#  📅 2026-06-29
+     🔗 https://github.com/netairforce-cell/AegisMatrix
+     📝 Next-Gen Autonomous EDR System. High-performance, zero-GC security matrix for Wi…
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 onurcangnc/RedTeamLabTrials
+     ⭐ 0  🗣 C#  📅 2026-06-29
+     🔗 https://github.com/onurcangnc/RedTeamLabTrials
+     📝 EDR Evasion Research - AMSI/ETW Bypass + Win32 Native File Operations in C#
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 sampreeth0x/SentinelXDR-SOC-Dashboard
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/sampreeth0x/SentinelXDR-SOC-Dashboard
+     📝 Real-time Windows Endpoint Detection & Response (EDR) platform with live telemet…
+     🏷  cybersecurity, digital-forensics, edr, endpoint-security, fastapi, incident-response, mitre-attck, python, react, sigma, soar, soc, threat-detection, typescript, windows, xdr
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 GaliTriveni/GraySentinel-Commissioning-Portfolio
+     ⭐ 0  🗣 Shell  📅 2026-06-29
+     🔗 https://github.com/GaliTriveni/GraySentinel-Commissioning-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 rubin041913/Active-Directory-Domain-Compromise-Lab-AWS-
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/rubin041913/Active-Directory-Domain-Compromise-Lab-AWS-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 TannerHollaway/Settinup-Up-Splunk-and-Simulating-attacks
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/TannerHollaway/Settinup-Up-Splunk-and-Simulating-attacks
+     📝 Setting up slunk,logging, and simulating attacks,and log review
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 KingLinux24/cyber-defense-agent
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/KingLinux24/cyber-defense-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 arunsomashekar7999/ai-driven-soc-platform
+     ⭐ 0  🗣 TypeScript  📅 2026-06-29
+     🔗 https://github.com/arunsomashekar7999/ai-driven-soc-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 Arjun-2111/Edrevel
+     ⭐ 0  🗣 TypeScript  📅 2026-06-29
+     🔗 https://github.com/Arjun-2111/Edrevel
+     📝 Assessment Submission
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 funbinet/tsec
+     ⭐ 0  🗣 Rust  📅 2026-06-29
+     🔗 https://github.com/funbinet/tsec
+     📝 Tactical Security Enumeration & Compromise Framework
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 thgdoge/Ransomware-AI-EDR
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/thgdoge/Ransomware-AI-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 YaseenAyatullahKhan/Active-XDR-IR-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/YaseenAyatullahKhan/Active-XDR-IR-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [NEW]   🆕 📦 Akash0406/Okayed
+     ⭐ 0  🗣 TypeScript  📅 2026-06-29
+     🔗 https://github.com/Akash0406/Okayed
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 20:00:08 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-29 20:00:08 UTC] [UPD]   📢 📦 Clayne666/Router-monitor
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/Clayne666/Router-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-29 20:00:08 UTC] [UPD]   📢 📦 phly95/spoofdeck
+     ⭐ 2  🗣 C  📅 2026-06-27
+     🔗 https://github.com/phly95/spoofdeck
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-29 20:00:08 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-29 20:00:08 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-29 20:00:11 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-29 20:00:11 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-29 20:00:11 UTC] [NEW]   🆕 📦 funbinet/tsec
+     ⭐ 0  🗣 Rust  📅 2026-06-29
+     🔗 https://github.com/funbinet/tsec
+     📝 Tactical Security Enumeration & Compromise Framework
+     🏷  —
+[2026-06-29 20:00:11 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-29 20:00:11 UTC] [UPD]   📢 📦 ajee-off/pentest-cheatsheet
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/ajee-off/pentest-cheatsheet
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-29 20:00:11 UTC] [INFO] ============================================================
+[2026-06-29 20:00:11 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
+[2026-06-29 20:00:11 UTC] [INFO] ============================================================
