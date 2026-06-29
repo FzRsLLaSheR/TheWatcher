@@ -27225,3 +27225,173 @@
 [2026-06-29 04:06:31 UTC] [INFO] ============================================================
 [2026-06-29 04:06:31 UTC] [INFO] Completato — 24 nuovi, 2 aggiornati, 0 errori
 [2026-06-29 04:06:31 UTC] [INFO] ============================================================
+[2026-06-29 11:03:09 UTC] [INFO] ============================================================
+[2026-06-29 11:03:09 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-29 11:03:09 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-29 11:03:09 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-29 11:03:09 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-29 11:03:09 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-29 11:03:09 UTC] [INFO] ============================================================
+[2026-06-29 11:03:09 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-29 11:03:09 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-29 11:03:11 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-29 11:03:11 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-29 11:03:11 UTC] [NEW]   🆕 📦 SchuhmacherAndre/driver-analyzer
+     ⭐ 1  🗣 C++  📅 2026-06-29
+     🔗 https://github.com/SchuhmacherAndre/driver-analyzer
+     📝 static vulnerability analyzer for windows kernel drivers. flags drivers that exp…
+     🏷  —
+[2026-06-29 11:03:11 UTC] [NEW]   🆕 📦 redteamfortress/DefenderKiller
+     ⭐ 8  🗣 C++  📅 2026-06-29
+     🔗 https://github.com/redteamfortress/DefenderKiller
+     📝 Kernel process termination using Microsoft's own signed driver.
+     🏷  —
+[2026-06-29 11:03:11 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-29 11:03:11 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-29 11:03:11 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-29 11:03:14 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 shagun-jain-security-ai/shagun-jain-security-ai
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/shagun-jain-security-ai/shagun-jain-security-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 abufahiz7-hue/SOC-Lab-Using-Splunk-MITRE-ServiceNow
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/abufahiz7-hue/SOC-Lab-Using-Splunk-MITRE-ServiceNow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 albert-einshutoin/secure-learn
+     ⭐ 0  🗣 JavaScript  📅 2026-06-29
+     🔗 https://github.com/albert-einshutoin/secure-learn
+     📝 Docker-based SOC and security hands-on training lab
+     🏷  blue-team, cybersecurity, docker, elasticsearch, fail2ban, security, siem, soc, suricata
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 alexandreNoens/facom
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/alexandreNoens/facom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 AlexandreLarry1/REPORTIMUS-COGNOS-TO-PBI
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/AlexandreLarry1/REPORTIMUS-COGNOS-TO-PBI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 0xBESHO0VIC/wazuh-suricata-IDS
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/0xBESHO0VIC/wazuh-suricata-IDS
+     📝 This Repositry will help you  to know how an Endpoint Detection and Response (ED…
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 carinensanda/tryhackme-writeups
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/carinensanda/tryhackme-writeups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 Hwang-Injun34/mini_edr
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/Hwang-Injun34/mini_edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 Chaelsoo/nimcrypt
+     ⭐ 0  🗣 Nim  📅 2026-06-29
+     🔗 https://github.com/Chaelsoo/nimcrypt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 Harsh741334/SOC-Phishing-Incident-Response-and-Investigation-Framework
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/Harsh741334/SOC-Phishing-Incident-Response-and-Investigation-Framework
+     📝 Organizations receive thousands of emails every day, and phishing remains one of…
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 Harsh741334/SOC-Lab-Exabeam
+     ⭐ 0  🗣 Shell  📅 2026-06-29
+     🔗 https://github.com/Harsh741334/SOC-Lab-Exabeam
+     📝 Advanced SOC Lab with Exabeam SIEM and UEBA
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 hassanazeem2/fracture
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/hassanazeem2/fracture
+     📝 Terminal tool that maps your log ingest gaps against real attack patterns — befo…
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 panaC/edrlab-backoffice-auth-study
+     ⭐ 0  🗣 Shell  📅 2026-06-29
+     🔗 https://github.com/panaC/edrlab-backoffice-auth-study
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 J1ezds/some-star
+     ⭐ 1  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/J1ezds/some-star
+     📝 github star 分类汇总
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 jackqianali/security-portfolio
+     ⭐ 0  🗣 HTML  📅 2026-06-29
+     🔗 https://github.com/jackqianali/security-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 soofi-project/edc-mcp
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/soofi-project/edc-mcp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 dwgx/debugger-workstation
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/dwgx/debugger-workstation
+     📝 Portable reverse-engineering / security-analysis / debugging / MCP-automation wo…
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 ouss1002/git-formation
+     ⭐ 0  🗣 JavaScript  📅 2026-06-29
+     🔗 https://github.com/ouss1002/git-formation
+     📝 Formation Git
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 telos-architectures/Teloscopic
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/telos-architectures/Teloscopic
+     📝 A Windows System-Wide Health Dashboard Application.
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 ShyamSunder1031/sentinelrag-
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/ShyamSunder1031/sentinelrag-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 redteamfortress/DefenderKiller
+     ⭐ 8  🗣 C++  📅 2026-06-29
+     🔗 https://github.com/redteamfortress/DefenderKiller
+     📝 Kernel process termination using Microsoft's own signed driver.
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 Femieo/AI-PENTEST
+     ⭐ 0  🗣 Shell  📅 2026-06-29
+     🔗 https://github.com/Femieo/AI-PENTEST
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 Femieo/DFIR-Guide
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/Femieo/DFIR-Guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:14 UTC] [NEW]   🆕 📦 Prasun0512/ai-soc-alert-copilot
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/Prasun0512/ai-soc-alert-copilot
+     📝 Defensive SOC alert triage copilot with MITRE mapping and playbook recommendatio…
+     🏷  —
+[2026-06-29 11:03:14 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-29 11:03:14 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-29 11:03:14 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-29 11:03:17 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-29 11:03:17 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-29 11:03:17 UTC] [NEW]   🆕 📦 MaterialsCommons-Staging/pybox
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/MaterialsCommons-Staging/pybox
+     📝 Run untrusted python code in a sandbox
+     🏷  python, sandbox, untrusted-code
+[2026-06-29 11:03:17 UTC] [NEW]   🆕 📦 J1ezds/some-star
+     ⭐ 1  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/J1ezds/some-star
+     📝 github star 分类汇总
+     🏷  —
+[2026-06-29 11:03:17 UTC] [NEW]   🆕 📦 Femieo/AI-PENTEST
+     ⭐ 0  🗣 Shell  📅 2026-06-29
+     🔗 https://github.com/Femieo/AI-PENTEST
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 11:03:17 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-29 11:03:17 UTC] [INFO] ============================================================
+[2026-06-29 11:03:17 UTC] [INFO] Completato — 29 nuovi, 0 aggiornati, 0 errori
+[2026-06-29 11:03:17 UTC] [INFO] ============================================================
