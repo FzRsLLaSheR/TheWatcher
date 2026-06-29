@@ -27068,3 +27068,160 @@
 [2026-06-28 19:22:55 UTC] [INFO] ============================================================
 [2026-06-28 19:22:55 UTC] [INFO] Completato — 25 nuovi, 3 aggiornati, 0 errori
 [2026-06-28 19:22:55 UTC] [INFO] ============================================================
+[2026-06-29 04:06:25 UTC] [INFO] ============================================================
+[2026-06-29 04:06:25 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-29 04:06:25 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-29 04:06:25 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-29 04:06:25 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-29 04:06:25 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-29 04:06:25 UTC] [INFO] ============================================================
+[2026-06-29 04:06:25 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-29 04:06:25 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-29 04:06:26 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-29 04:06:26 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-06-29 04:06:26 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-29 04:06:26 UTC] [UPD]   📢 📦 servalabs/wincommander
+     ⭐ 0  🗣 TypeScript  📅 2026-06-27
+     🔗 https://github.com/servalabs/wincommander
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-29 04:06:26 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-29 04:06:26 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-29 04:06:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 jackqianali/jackqianali
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/jackqianali/jackqianali
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 openguardrails/openguardrails-instrumentation-claude-code
+     ⭐ 0  🗣 JavaScript  📅 2026-06-29
+     🔗 https://github.com/openguardrails/openguardrails-instrumentation-claude-code
+     📝 OpenGuardrails command-approval gate for Claude Code — a PreToolUse hook plugin …
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 netssv/btkey_sync
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/netssv/btkey_sync
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 Maracuya4263/malware-memory-forensics
+     ⭐ 0  🗣 YARA  📅 2026-06-29
+     🔗 https://github.com/Maracuya4263/malware-memory-forensics
+     📝 Independent memory-forensics & reverse-engineering analyses of real-world Window…
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 PhuocBV695/Process-Ghosting-EX
+     ⭐ 0  🗣 C  📅 2026-06-29
+     🔗 https://github.com/PhuocBV695/Process-Ghosting-EX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 edsilas/WRA
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/edsilas/WRA
+     📝 Auditoria e diagnóstico somente leitura do Windows em PowerShell nativo e offlin…
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 Guscyrus-cyber/Splunk_AI_ML_cybersecurity_malware_classification_lab
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/Guscyrus-cyber/Splunk_AI_ML_cybersecurity_malware_classification_lab
+     📝 This lab focused on applying Splunk and AI/ML techniques to classify malware, an…
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 hellozenstrategist-lab/gemma-aegis
+     ⭐ 0  🗣 HTML  📅 2026-06-29
+     🔗 https://github.com/hellozenstrategist-lab/gemma-aegis
+     📝 Gemma Aegis local blue-team defender demo
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 sunilk104/edrpbt
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/sunilk104/edrpbt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 SWORDIntel/ALPHVDR
+     ⭐ 0  🗣 C  📅 2026-06-28
+     🔗 https://github.com/SWORDIntel/ALPHVDR
+     📝 ALPHV-EDR
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 nguyenaax/soar-bridge
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/nguyenaax/soar-bridge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 HomeLab-Raghav/SOC
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/HomeLab-Raghav/SOC
+     📝 A high-quality Incident Response (IR) and writeups playbook repository needs a c…
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 jvhammond2/jvhammond2
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/jvhammond2/jvhammond2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 Mehsin-Khan/vulnerability-exposure-management-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/Mehsin-Khan/vulnerability-exposure-management-portfolio
+     📝 Synthetic vulnerability exposure management portfolio covering asset inventory, …
+     🏷  cis-controls, ctem, exposure-management, grc, iso27001, nist-csf, patch-management, pci-dss, portfolio-project, risk-management, security-dashboards, security-operations, vulnerability-management
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 Mehsin-Khan/security-platform-migration-governance-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/Mehsin-Khan/security-platform-migration-governance-portfolio
+     📝 Synthetic security platform migration and technical deployment governance portfo…
+     🏷  cab, change-management, cism, cybersecurity-portfolio, edr, endpoint-security, executive-dashboard, iso27001, itil, nist-csf, pci-dss, risk-management, rollback-planning, security-governance, security-operations, technical-project-management
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 kelsllopez/Incident-Response-Plan-Unauthorized-Access-to-Corporate-Network
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/kelsllopez/Incident-Response-Plan-Unauthorized-Access-to-Corporate-Network
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 JohnDeved/geforce-now-hdr-mac
+     ⭐ 0  🗣 Shell  📅 2026-06-28
+     🔗 https://github.com/JohnDeved/geforce-now-hdr-mac
+     📝 Fix washed-out HDR in the GeForce NOW Mac client on Apple XDR / HDR displays
+     🏷  apple-silicon, edr, geforce-now, hdr, macos, nvidia, patch, xdr
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 rajlivee/End-point-detection-and-Response-
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/rajlivee/End-point-detection-and-Response-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 zohxce/mm2hub
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/zohxce/mm2hub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 nakeshiasimmons-a11y/mm2hub
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/nakeshiasimmons-a11y/mm2hub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:29 UTC] [NEW]   🆕 📦 Mehsin-Khan/microsoft-security-ecosystem-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-28
+     🔗 https://github.com/Mehsin-Khan/microsoft-security-ecosystem-portfolio
+     📝 Synthetic Microsoft security operations and governance portfolio covering Defend…
+     🏷  audit-evidence, cis-controls, cybersecurity-portfolio, defender-for-cloud, defender-for-endpoint, dlp, grc, iam-governance, incident-response, iso27001, microsoft-entra-id, microsoft-intune, microsoft-purview, microsoft-security, nist-csf, pci-dss, security-dashboard, security-operations
+[2026-06-29 04:06:29 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-29 04:06:29 UTC] [UPD]   📢 📦 Clayne666/Router-monitor
+     ⭐ 0  🗣 Python  📅 2026-06-25
+     🔗 https://github.com/Clayne666/Router-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-06-29 04:06:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-29 04:06:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-29 04:06:31 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-29 04:06:31 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-29 04:06:31 UTC] [NEW]   🆕 📦 antonlepari/Zero2Root
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/antonlepari/Zero2Root
+     📝 Zero2Root is a comprehensive privilege escalation cheatsheet and knowledge base …
+     🏷  —
+[2026-06-29 04:06:31 UTC] [NEW]   🆕 📦 akagifreeez/conductor
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/akagifreeez/conductor
+     📝 Vendor-neutral, self-hosted control plane for LLM agents: one provider-agnostic …
+     🏷  —
+[2026-06-29 04:06:31 UTC] [NEW]   🆕 📦 catcarloslaguna/Cybersecurity-Projects
+     ⭐ 0  🗣 Python  📅 2026-06-28
+     🔗 https://github.com/catcarloslaguna/Cybersecurity-Projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-29 04:06:31 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-29 04:06:31 UTC] [INFO] ============================================================
+[2026-06-29 04:06:31 UTC] [INFO] Completato — 24 nuovi, 2 aggiornati, 0 errori
+[2026-06-29 04:06:31 UTC] [INFO] ============================================================
