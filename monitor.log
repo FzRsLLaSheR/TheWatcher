@@ -27928,3 +27928,165 @@
 [2026-06-30 03:50:35 UTC] [INFO] ============================================================
 [2026-06-30 03:50:35 UTC] [INFO] Completato — 29 nuovi, 5 aggiornati, 0 errori
 [2026-06-30 03:50:35 UTC] [INFO] ============================================================
+[2026-06-30 09:39:09 UTC] [INFO] ============================================================
+[2026-06-30 09:39:09 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-30 09:39:09 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-30 09:39:09 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-30 09:39:09 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-30 09:39:09 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-30 09:39:09 UTC] [INFO] ============================================================
+[2026-06-30 09:39:09 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-30 09:39:09 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-30 09:39:11 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-30 09:39:11 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-06-30 09:39:11 UTC] [NEW]   🆕 📦 FallinBinary/LOL2YARA
+     ⭐ 2  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/FallinBinary/LOL2YARA
+     📝 LOLDrivers YARA Rule Generator
+     🏷  —
+[2026-06-30 09:39:11 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-30 09:39:11 UTC] [UPD]   📢 📦 servalabs/wincommander
+     ⭐ 0  🗣 TypeScript  📅 2026-06-27
+     🔗 https://github.com/servalabs/wincommander
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-06-30 09:39:11 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-30 09:39:11 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-30 09:39:14 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 kaliworld/BypassPPL
+     ⭐ 0  🗣 C++  📅 2026-06-29
+     🔗 https://github.com/kaliworld/BypassPPL
+     📝 绕过PPL dump lsass内存
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 U7Dani/IOC-OSINT-Block-Advisor
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/U7Dani/IOC-OSINT-Block-Advisor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 CyrusSE/CyrusSE
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/CyrusSE/CyrusSE
+     📝 GitHub profile README — security researcher, CTF, VDP, portfolio-matched design
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 GurukiranShiv/sentinelgate-incident-commander
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/GurukiranShiv/sentinelgate-incident-commander
+     📝 A SOC/SOAR-style incident response assistant that generates evidence-gated inves…
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 KidFromKonoha/Threat-Intelligence-Platform
+     ⭐ 0  🗣 TypeScript  📅 2026-06-30
+     🔗 https://github.com/KidFromKonoha/Threat-Intelligence-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 wildanwicaksonoooo-cmyk/XORCISM
+     ⭐ 0  🗣 TypeScript  📅 2026-06-30
+     🔗 https://github.com/wildanwicaksonoooo-cmyk/XORCISM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 vamdevz/sentinelone-learning
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/vamdevz/sentinelone-learning
+     📝 SentinelOne EPP/EDR learning guide: console, deployment, policies, threat respon…
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 koudaiii/defender_for_servers_private_vm_azure_firewall
+     ⭐ 0  🗣 Shell  📅 2026-06-30
+     🔗 https://github.com/koudaiii/defender_for_servers_private_vm_azure_firewall
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 vamdevz/crowdstrike-enterprise
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/vamdevz/crowdstrike-enterprise
+     📝 Enterprise CrowdStrike Falcon documentation: onboarding, SOC ops, custom IOAs, a…
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 voan-ai/voan-firewall
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/voan-ai/voan-firewall
+     📝 The firewall for AI agents — blocks unauthorized agent actions (RCE, exfiltratio…
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 godicewang/FrostADR
+     ⭐ 1  🗣 Swift  📅 2026-06-29
+     🔗 https://github.com/godicewang/FrostADR
+     📝 A powerful ADR（Agentic Endpoint Detection & Response）
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 justinjudefernandes/Microsoft-Security-Stack
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/justinjudefernandes/Microsoft-Security-Stack
+     📝 A collection of Microsoft security tools used for enterprise threat detection, i…
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 Bufffer/Preem
+     ⭐ 0  🗣 C  📅 2026-06-30
+     🔗 https://github.com/Bufffer/Preem
+     📝 Experimental Windows EDR sensor built on FltMgr — kernel-mode   collection + use…
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 Chunnu-Munnu/Forensic-Reconstruction
+     ⭐ 1  🗣 SAS  📅 2026-06-30
+     🔗 https://github.com/Chunnu-Munnu/Forensic-Reconstruction
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 himanshu430408-eng/AI-Ransomware-Hunter-Pro-v4.5
+     ⭐ 0  🗣 HTML  📅 2026-06-30
+     🔗 https://github.com/himanshu430408-eng/AI-Ransomware-Hunter-Pro-v4.5
+     📝 AI Ransomware Hunter Pro v4.5" is a real-time cybersecurity dashboard combining …
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 ShashankD210/Cybersecurity-Blueteam
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/ShashankD210/Cybersecurity-Blueteam
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 AliAhsan-arch/AliAhsan-arch.github.io
+     ⭐ 0  🗣 HTML  📅 2026-06-30
+     🔗 https://github.com/AliAhsan-arch/AliAhsan-arch.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 fireditoo/edrupMSI
+     ⭐ 1  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/fireditoo/edrupMSI
+     📝 【Java计算机毕业设计分享】基于深度学习YOLOv12的车辆类型识别检测系统（YOLOv12+YOLO数据集+UI界面+登录注册界面+项目源码），Java开发…
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 GurukiranShiv/AI-Powered-Malware-Triage-Detection-Platform
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/GurukiranShiv/AI-Powered-Malware-Triage-Detection-Platform
+     📝 An AI-powered SOC malware triage platform for static PE/ELF analysis, ML classif…
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 compiler-gdb/EDR-Evasion
+     ⭐ 0  🗣 C++  📅 2026-06-30
+     🔗 https://github.com/compiler-gdb/EDR-Evasion
+     📝 Automated tool for testing EDR responsiveness and bypass defenses for endpoint s…
+     🏷  —
+[2026-06-30 09:39:14 UTC] [NEW]   🆕 📦 Aleena-Y/edrevel_assessment
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/Aleena-Y/edrevel_assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 09:39:14 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-06-30 09:39:14 UTC] [UPD]   📢 📦 ruperthjr/security-lists
+     ⭐ 0  🗣 YARA  📅 2026-06-29
+     🔗 https://github.com/ruperthjr/security-lists
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-30 09:39:14 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-30 09:39:14 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-30 09:39:16 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-30 09:39:16 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-06-30 09:39:16 UTC] [NEW]   🆕 📦 irawanw/spiking-ternary-llm
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/irawanw/spiking-ternary-llm
+     📝 From-scratch SNN + BitNet ternary + spiking-attention language model — measured …
+     🏷  —
+[2026-06-30 09:39:16 UTC] [NEW]   🆕 📦 TheNorthernLights/TryHackMe-Walkthroughs
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/TheNorthernLights/TryHackMe-Walkthroughs
+     📝 TryHackMe Walkthroughs
+     🏷  —
+[2026-06-30 09:39:16 UTC] [NEW]   🆕 📦 codebox1230/awesome-resources
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/codebox1230/awesome-resources
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 09:39:16 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-06-30 09:39:16 UTC] [INFO] ============================================================
+[2026-06-30 09:39:16 UTC] [INFO] Completato — 25 nuovi, 2 aggiornati, 0 errori
+[2026-06-30 09:39:16 UTC] [INFO] ============================================================
