@@ -28293,3 +28293,270 @@
 [2026-06-30 14:22:41 UTC] [INFO] ============================================================
 [2026-06-30 14:22:41 UTC] [INFO] Completato — 26 nuovi, 8 aggiornati, 0 errori
 [2026-06-30 14:22:41 UTC] [INFO] ============================================================
+[2026-06-30 20:00:52 UTC] [INFO] ============================================================
+[2026-06-30 20:00:52 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-06-30 20:00:52 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-06-30 20:00:52 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-06-30 20:00:52 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-06-30 20:00:52 UTC] [INFO] Token GitHub: ✓ presente
+[2026-06-30 20:00:52 UTC] [INFO] ============================================================
+[2026-06-30 20:00:52 UTC] [INFO] Query: 'byovd-killers'
+[2026-06-30 20:00:52 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-06-30 20:00:55 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-30 20:00:55 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-30 20:00:55 UTC] [NEW]   🆕 📦 faillacet/Aegis
+     ⭐ 0  🗣 C++  📅 2026-06-30
+     🔗 https://github.com/faillacet/Aegis
+     📝 A POC Windows Kernel Memory Forensics Program
+     🏷  —
+[2026-06-30 20:00:55 UTC] [NEW]   🆕 📦 Lurxeh/kernel-process-enumerator-ProcEnumDrv
+     ⭐ 0  🗣 C  📅 2026-06-30
+     🔗 https://github.com/Lurxeh/kernel-process-enumerator-ProcEnumDrv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:55 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-30 20:00:55 UTC] [UPD]   📢 📦 servalabs/wincommander
+     ⭐ 0  🗣 TypeScript  📅 2026-06-27
+     🔗 https://github.com/servalabs/wincommander
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-30 20:00:55 UTC] [UPD]   📢 📦 tarun24000/detection-engineering
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/tarun24000/detection-engineering
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-30 20:00:55 UTC] [INFO] Query: 'edr-evasion'
+[2026-06-30 20:00:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-06-30 20:00:59 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 sudobittu/pentesting-toolkit
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/sudobittu/pentesting-toolkit
+     📝 Curated, domain-structured penetration testing toolkit
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 Pr0p1rat3/WinTopMonitor
+     ⭐ 0  🗣 C#  📅 2026-06-30
+     🔗 https://github.com/Pr0p1rat3/WinTopMonitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 drzcola/charon
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/drzcola/charon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 5136siegfried/vps-security-toolkit
+     ⭐ 0  🗣 Shell  📅 2026-06-30
+     🔗 https://github.com/5136siegfried/vps-security-toolkit
+     📝 Trousse à outils d'audit et de surveillance DevSecOps pour infrastructures VPS  …
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 faillacet/Aegis
+     ⭐ 0  🗣 C++  📅 2026-06-30
+     🔗 https://github.com/faillacet/Aegis
+     📝 A POC Windows Kernel Memory Forensics Program
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 g52177602-eng/SOC-HOME-LAB
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/g52177602-eng/SOC-HOME-LAB
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 atoussec-ctrl/microservice-cyberalert
+     ⭐ 0  🗣 TypeScript  📅 2026-06-30
+     🔗 https://github.com/atoussec-ctrl/microservice-cyberalert
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 SecuryBlack/ferro-sentry
+     ⭐ 0  🗣 Rust  📅 2026-06-30
+     🔗 https://github.com/SecuryBlack/ferro-sentry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 AndreFelippeVidal/meridian-batch-platform
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/AndreFelippeVidal/meridian-batch-platform
+     📝 Meridian P1 — full modern data stack: dlt → DuckDB → dbt → Dagster → Evidence, w…
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 prxcode/malforge
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/prxcode/malforge
+     📝 One command. Full malware analysis. Generates YARA, Sigma, IOCs, MITRE mappings,…
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 kilamkk/lisa
+     ⭐ 0  🗣 JavaScript  📅 2026-06-30
+     🔗 https://github.com/kilamkk/lisa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 plue-sec/plue-sec
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/plue-sec/plue-sec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 yusufarbc/Vigil
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/yusufarbc/Vigil
+     📝 AI-assisted SOC/NOC platform on the Elastic Stack — incident-level LLM triage, m…
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 zawaditechnologiesllc/edrifttrikes
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/zawaditechnologiesllc/edrifttrikes
+     📝 edriftmarketplace
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 davidzon84-sketch/SentinelOps-Research
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/davidzon84-sketch/SentinelOps-Research
+     📝 SentinelOps Research publication (CEB v1.0)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 Loransee/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/Loransee/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 Lurxeh/kernel-process-enumerator-ProcEnumDrv
+     ⭐ 0  🗣 C  📅 2026-06-30
+     🔗 https://github.com/Lurxeh/kernel-process-enumerator-ProcEnumDrv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 Hemashankar19/ad-dmsa-privilege-escalation-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/Hemashankar19/ad-dmsa-privilege-escalation-lab
+     📝 Lab and detection content for the AD "BadSuccessor" dMSA privilege escalation fl…
+     🏷  active-directory, badsuccessor
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 Ngo-Ngofa/Purchasing-App
+     ⭐ 0  🗣 HTML  📅 2026-06-30
+     🔗 https://github.com/Ngo-Ngofa/Purchasing-App
+     📝 Purchasing and forecasting model
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 Abhishek-Dirisipo/Raspberry-Pi-Pico-Hardware-Pentesting-Toolkit
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/Abhishek-Dirisipo/Raspberry-Pi-Pico-Hardware-Pentesting-Toolkit
+     📝 A curated, all-in-one hardware pentesting toolkit that transforms a single $4 Ra…
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 HexCrystal69/Cyber-Threat-Intelligence-Platform
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/HexCrystal69/Cyber-Threat-Intelligence-Platform
+     📝 Enterprise Cyber Threat Intelligence Platform featuring SIEM, EDR, SOAR, AI Copi…
+     🏷  artificial-intelligence, detection-engineering, edr, fastapi, incident-response, kafka, knowledge-graph, mitre-attack, postgresql, rag, react, security-analytics, security-operations, siem, soc, threat-detection, threat-hunting, threat-intelligence
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 AdhiHub/nationstate-cyber-tools
+     ⭐ 0  🗣 HTML  📅 2026-06-30
+     🔗 https://github.com/AdhiHub/nationstate-cyber-tools
+     📝 Nation-State Cyber Weapons Arsenal - Comprehensive intelligence dossier on NSA E…
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 kalidada18/ghostimplant
+     ⭐ 0  🗣 C++  📅 2026-06-30
+     🔗 https://github.com/kalidada18/ghostimplant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 aristides25/ProyectoFinal
+     ⭐ 0  🗣 PowerShell  📅 2026-06-30
+     🔗 https://github.com/aristides25/ProyectoFinal
+     📝 Integrantes: Aristides Nuñez
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 pemix09/AntiVenom
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/pemix09/AntiVenom
+     📝 A high-performance, modern Endpoint Detection and Response (EDR) agent and antiv…
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 sentinel-aidefense/CVE-2026-21509
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/sentinel-aidefense/CVE-2026-21509
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 benssantan/edreyt
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/benssantan/edreyt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 0r1ng/web-persistence-log-detector
+     ⭐ 2  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/0r1ng/web-persistence-log-detector
+     📝 This Python tool analyzes web access logs to detect web persistence clues such a…
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 Eduardo-create-unir/soc-analyst-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/Eduardo-create-unir/soc-analyst-portfolio
+     📝 Portfolio de casos de triage SOC y laboratorios de ciberseguridad — preparación …
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 Mr-T-Kelly/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/Mr-T-Kelly/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 cristianliottorossett/windows_driver_development
+     ⭐ 0  🗣 C  📅 2026-06-30
+     🔗 https://github.com/cristianliottorossett/windows_driver_development
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 cristianliottorossett/malware_analisys
+     ⭐ 0  🗣 C  📅 2026-06-30
+     🔗 https://github.com/cristianliottorossett/malware_analisys
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 Kidder0/Phishing-Email-Investigation-Lab
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/Kidder0/Phishing-Email-Investigation-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 FranklinSocompi/auditoria-bancovalles-completo
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/FranklinSocompi/auditoria-bancovalles-completo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 fahimnafis2025/SOC-L1-AgenticAI
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/fahimnafis2025/SOC-L1-AgenticAI
+     📝 SOC L1 Agentic AI using n8n-wazuh-ollama framework. Deploy and get notifications…
+     🏷  —
+[2026-06-30 20:00:59 UTC] [NEW]   🆕 📦 gnaixnaij/guardian
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/gnaixnaij/guardian
+     📝 Free lightweight EDR for small teams. Monitor processes, files, and network. Det…
+     🏷  edr, endpoint-detection, incident-response, python, security
+[2026-06-30 20:00:59 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-06-30 20:00:59 UTC] [UPD]   📢 📦 rani27-bipo/siem-soar-n8n
+     ⭐ 0  🗣 HTML  📅 2026-06-30
+     🔗 https://github.com/rani27-bipo/siem-soar-n8n
+     📝 Full SOC automation platform - brute force & phishing detection with automated S…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-06-30 20:00:59 UTC] [UPD]   📢 📦 omarbabba779xx/sysmon-wazuh-endpoint-monitoring-lab
+     ⭐ 0  🗣 Batchfile  📅 2026-06-30
+     🔗 https://github.com/omarbabba779xx/sysmon-wazuh-endpoint-monitoring-lab
+     📝 Endpoint Detection & Response lab: Sysmon v15.21 + Wazuh 4.12 SIEM/XDR on Window…
+     🏷  cybersecurity, endpoint-monitoring, mitre-attack, siem, soc-analyst, sysmon, threat-detection, wazuh, windows-security, xdr
+     🔄 Motivo: repo recente (0gg) | nuovi topic: cybersecurity, soc-analyst, threat-detection, wazuh, windows-security, sysmon, xdr, mitre-attack, endpoint-monitoring, siem
+[2026-06-30 20:00:59 UTC] [UPD]   📢 📦 domodom30/hass-addons
+     ⭐ 0  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/domodom30/hass-addons
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-06-30 20:00:59 UTC] [INFO] Query: 'kernel-exploit'
+[2026-06-30 20:00:59 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-06-30 20:01:02 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-06-30 20:01:02 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-06-30 20:01:02 UTC] [NEW]   🆕 📦 AdhiHub/nationstate-cyber-tools
+     ⭐ 0  🗣 HTML  📅 2026-06-30
+     🔗 https://github.com/AdhiHub/nationstate-cyber-tools
+     📝 Nation-State Cyber Weapons Arsenal - Comprehensive intelligence dossier on NSA E…
+     🏷  —
+[2026-06-30 20:01:02 UTC] [NEW]   🆕 📦 imopositive/Ghost
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/imopositive/Ghost
+     📝 Hkr Gpt
+     🏷  —
+[2026-06-30 20:01:02 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-06-30 20:01:02 UTC] [UPD]   📢 📦 ajee-off/pentest-cheatsheet
+     ⭐ 0  🗣 N/A  📅 2026-06-29
+     🔗 https://github.com/ajee-off/pentest-cheatsheet
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-30 20:01:02 UTC] [UPD]   📢 📦 funbinet/tsec
+     ⭐ 1  🗣 Rust  📅 2026-06-29
+     🔗 https://github.com/funbinet/tsec
+     📝 Tactical Security Enumeration & Compromise Framework
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-06-30 20:01:02 UTC] [INFO] ============================================================
+[2026-06-30 20:01:02 UTC] [INFO] Completato — 40 nuovi, 7 aggiornati, 0 errori
+[2026-06-30 20:01:02 UTC] [INFO] ============================================================
