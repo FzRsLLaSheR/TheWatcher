@@ -28880,3 +28880,131 @@
 [2026-07-01 09:50:55 UTC] [INFO] ============================================================
 [2026-07-01 09:50:55 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
 [2026-07-01 09:50:55 UTC] [INFO] ============================================================
+[2026-07-01 14:39:51 UTC] [INFO] ============================================================
+[2026-07-01 14:39:51 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-01 14:39:51 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-01 14:39:51 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-01 14:39:51 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-01 14:39:51 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-01 14:39:51 UTC] [INFO] ============================================================
+[2026-07-01 14:39:51 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-01 14:39:51 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-01 14:39:55 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-01 14:39:55 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-01 14:39:55 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-01 14:39:55 UTC] [UPD]   📢 📦 subashjaganathan/dfir-hawk
+     ⭐ 1  🗣 PowerShell  📅 2026-07-01
+     🔗 https://github.com/subashjaganathan/dfir-hawk
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-01 14:39:55 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-01 14:39:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-01 14:39:58 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 GjcCS/SOC-Lab-MDE-Threat-Simulation
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/GjcCS/SOC-Lab-MDE-Threat-Simulation
+     📝 SOC laboratory focused on Microsoft Defender for Endpoint (EDR/XDR) deployment, …
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 avtotor/zVirt
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/avtotor/zVirt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 nidishaadithya/SentinelEDR
+     ⭐ 0  🗣 TypeScript  📅 2026-07-01
+     🔗 https://github.com/nidishaadithya/SentinelEDR
+     📝 A Security Operations Center (SOC) and Endpoint Detection & Response (EDR) platf…
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 slothitude/slothos-bt-gamepad
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/slothitude/slothos-bt-gamepad
+     📝 Turn an Anbernic RG35XX H into a Bluetooth HID gamepad. Pairs to any host as a s…
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 alexandergdg78-wq/virustotal_deteccion.png
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/alexandergdg78-wq/virustotal_deteccion.png
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 GreenLordUA/EngiMCP
+     ⭐ 0  🗣 TypeScript  📅 2026-07-01
+     🔗 https://github.com/GreenLordUA/EngiMCP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 ander1023/nginx_analysis-customtkinter
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/ander1023/nginx_analysis-customtkinter
+     📝 告警有url 1、 对url排序 重点看一下该url做了什么 前后请求情况 2、 基本没有问题 看看非200的有哪些请求 有没有干坏事 3、 最后在看看200的…
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 reinelmv/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/reinelmv/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 yyuuvv/JL_792N_SDK_V3
+     ⭐ 0  🗣 C  📅 2026-07-01
+     🔗 https://github.com/yyuuvv/JL_792N_SDK_V3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 qwythos/qwythos
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/qwythos/qwythos
+     📝 Uncensored Mythos-class desktop client. Runs Qwythos-9B locally on a 3060. 1M co…
+     🏷  1m-context-ai, abliterated-llm, claude-fable-alternative, claude-mythos-alternative, cybersec, download-qwythos, install-qwythos, local-llm, malware-analysis, qwable-alternative, qwythos, qwythos-9b, qwythos-downloader, qwythos-installer, red-teaming, uncensored-ai, yarn-scaling, zero-trust-security
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 SukhvinderChhoker/Become-SOC-Manager
+     ⭐ 0  🗣 HTML  📅 2026-07-01
+     🔗 https://github.com/SukhvinderChhoker/Become-SOC-Manager
+     📝 soc manager
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 subashjaganathan/dfir-hawk
+     ⭐ 1  🗣 PowerShell  📅 2026-07-01
+     🔗 https://github.com/subashjaganathan/dfir-hawk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 malul29/25th-edra-anniv
+     ⭐ 0  🗣 TypeScript  📅 2026-07-01
+     🔗 https://github.com/malul29/25th-edra-anniv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 Kingkor-Baishnab/Kingkor-Baishnab
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/Kingkor-Baishnab/Kingkor-Baishnab
+     📝 My Personal Cybersecurity & Ethical Hacking Portfolio Overview.
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 Vanshika260905/Project1MAITRE-EDR
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/Vanshika260905/Project1MAITRE-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 Edrinechaos/Edrine-Efootball-bot
+     ⭐ 1  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/Edrinechaos/Edrine-Efootball-bot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [NEW]   🆕 📦 vineethlotus-dotcom/agentic-soc-platform
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/vineethlotus-dotcom/agentic-soc-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 14:39:58 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-01 14:39:58 UTC] [UPD]   📢 📦 kalidada18/ghostimplant
+     ⭐ 0  🗣 C++  📅 2026-06-30
+     🔗 https://github.com/kalidada18/ghostimplant
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-01 14:39:58 UTC] [UPD]   📢 📦 voan-ai/voan-firewall
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/voan-ai/voan-firewall
+     📝 The firewall for AI agents — blocks unauthorized agent actions (RCE, exfiltratio…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-01 14:39:58 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-01 14:39:58 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-01 14:40:01 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-01 14:40:01 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-01 14:40:01 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-01 14:40:01 UTC] [INFO] ============================================================
+[2026-07-01 14:40:01 UTC] [INFO] Completato — 17 nuovi, 3 aggiornati, 0 errori
+[2026-07-01 14:40:01 UTC] [INFO] ============================================================
