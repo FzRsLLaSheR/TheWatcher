@@ -28733,3 +28733,150 @@
 [2026-07-01 04:04:20 UTC] [INFO] ============================================================
 [2026-07-01 04:04:20 UTC] [INFO] Completato — 26 nuovi, 3 aggiornati, 0 errori
 [2026-07-01 04:04:20 UTC] [INFO] ============================================================
+[2026-07-01 09:50:48 UTC] [INFO] ============================================================
+[2026-07-01 09:50:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-01 09:50:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-01 09:50:48 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-01 09:50:48 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-01 09:50:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-01 09:50:48 UTC] [INFO] ============================================================
+[2026-07-01 09:50:48 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-01 09:50:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-01 09:50:50 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-01 09:50:50 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-01 09:50:50 UTC] [NEW]   🆕 📦 subashjaganathan/dfir-hawk
+     ⭐ 0  🗣 PowerShell  📅 2026-07-01
+     🔗 https://github.com/subashjaganathan/dfir-hawk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:50 UTC] [NEW]   🆕 📦 atreasureboy/above_agent
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/atreasureboy/above_agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:50 UTC] [NEW]   🆕 📦 Kaboombafoo/medusa-detections
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/Kaboombafoo/medusa-detections
+     📝 Detection-engineering project: Sigma/Splunk detections for Medusa ransomware TTP…
+     🏷  —
+[2026-07-01 09:50:50 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-01 09:50:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-01 09:50:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-01 09:50:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 Rupsika/behaviouralAuthentication
+     ⭐ 0  🗣 TypeScript  📅 2026-06-30
+     🔗 https://github.com/Rupsika/behaviouralAuthentication
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 adhithyaragavan/sentinel-hackathon
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/adhithyaragavan/sentinel-hackathon
+     📝 Autonomous SOC incident response swarm — NVIDIA/gnani.ai Agentic AI Hackathon Tr…
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 zac-yu/soc-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/zac-yu/soc-portfolio
+     📝 Hands-on SOC Analyst portfolio featuring incident response, threat hunting, Splu…
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 thefiredev-cloud/.github
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/thefiredev-cloud/.github
+     📝 GitHub org profile
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 sourabha-h/sourabha-h
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/sourabha-h/sourabha-h
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 thefiredev-cloud/openmesh-architecture
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/thefiredev-cloud/openmesh-architecture
+     📝 Reference architecture — private owned AI OS on DGX Spark.
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 MIKEYSAN040/MIKEYSAN040-
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/MIKEYSAN040/MIKEYSAN040-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 rtmarathi1/ThreatOne
+     ⭐ 0  🗣 C++  📅 2026-07-01
+     🔗 https://github.com/rtmarathi1/ThreatOne
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 gh05t-r3ndra/blue-team-101
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/gh05t-r3ndra/blue-team-101
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 Beautifu1Boy-Official/shellwindows-BOF
+     ⭐ 0  🗣 C  📅 2026-07-01
+     🔗 https://github.com/Beautifu1Boy-Official/shellwindows-BOF
+     📝 一个简单的CS BOF插件，通过COM接口来启动新进程，使其父进程强制变成 explorer.exe
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 HJW-Robot/sentinel-agent-edr
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/HJW-Robot/sentinel-agent-edr
+     📝 面向大模型智能Agent的双引擎行为监督系统 | 全国大学生信息安全竞赛作品赛
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 tahasiddiquii/soc-triage-agent
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/tahasiddiquii/soc-triage-agent
+     📝 Agentic SOC alert triage with a hard human-approval gate on every containment ac…
+     🏷  agentic-ai, fastapi, full-stack, guardrails, human-in-the-loop, incident-response, llm, mitre-attack, nextjs, observability, openai-agents-sdk, prompt-injection, python, security-operations, soc, typescript
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 Shourya31Gupta/Task-3-Shourya-Gupta
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/Shourya31Gupta/Task-3-Shourya-Gupta
+     📝 DecodeLabs Internship Project 3
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 jinyeow/cmdpal-bt-battery
+     ⭐ 0  🗣 C#  📅 2026-07-01
+     🔗 https://github.com/jinyeow/cmdpal-bt-battery
+     📝 PowerToys CmdPal Dock extension to show the battery levels of connected Bluetoot…
+     🏷  cmdpal-extension, powertoys-command-palette
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 bilalmohammedk/SOC-Analyst-Technical-Assessment
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/bilalmohammedk/SOC-Analyst-Technical-Assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 MehulpEY/client-emulator
+     ⭐ 0  🗣 TypeScript  📅 2026-07-01
+     🔗 https://github.com/MehulpEY/client-emulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:53 UTC] [NEW]   🆕 📦 fdffggggggggggggg/edrsttshsdtst
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/fdffggggggggggggg/edrsttshsdtst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:53 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-01 09:50:53 UTC] [UPD]   📢 📦 voan-ai/voan-firewall
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/voan-ai/voan-firewall
+     📝 The firewall for AI agents — blocks unauthorized agent actions (RCE, exfiltratio…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-01 09:50:53 UTC] [UPD]   📢 📦 kalidada18/ghostimplant
+     ⭐ 0  🗣 C++  📅 2026-06-30
+     🔗 https://github.com/kalidada18/ghostimplant
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-01 09:50:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-01 09:50:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-01 09:50:55 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-01 09:50:55 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-01 09:50:55 UTC] [NEW]   🆕 📦 justyns/hozo
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/justyns/hozo
+     📝 Python-based sandbox utility with composable profiles and built-in network filte…
+     🏷  —
+[2026-07-01 09:50:55 UTC] [NEW]   🆕 📦 kt1410410-jpg/DIPA
+     ⭐ 0  🗣 Swift  📅 2026-07-01
+     🔗 https://github.com/kt1410410-jpg/DIPA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 09:50:55 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-01 09:50:55 UTC] [INFO] ============================================================
+[2026-07-01 09:50:55 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
+[2026-07-01 09:50:55 UTC] [INFO] ============================================================
