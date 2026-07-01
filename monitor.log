@@ -29008,3 +29008,167 @@
 [2026-07-01 14:40:01 UTC] [INFO] ============================================================
 [2026-07-01 14:40:01 UTC] [INFO] Completato — 17 nuovi, 3 aggiornati, 0 errori
 [2026-07-01 14:40:01 UTC] [INFO] ============================================================
+[2026-07-01 19:58:19 UTC] [INFO] ============================================================
+[2026-07-01 19:58:19 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-01 19:58:19 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-01 19:58:19 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-01 19:58:19 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-01 19:58:19 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-01 19:58:19 UTC] [INFO] ============================================================
+[2026-07-01 19:58:19 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-01 19:58:19 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-01 19:58:21 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-01 19:58:21 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-01 19:58:21 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-01 19:58:21 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-01 19:58:21 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-01 19:58:23 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 zinzan-vdm/cli-isolate
+     ⭐ 0  🗣 Go  📅 2026-07-01
+     🔗 https://github.com/zinzan-vdm/cli-isolate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 jakeloai/jSQLi_WAF_Evasion_Cheat_Sheet_v3
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/jakeloai/jSQLi_WAF_Evasion_Cheat_Sheet_v3
+     📝 Enterprise-grade SQL injection payloads for manual testing in Bug Bounty program…
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 Harshk7771/Harshk7771
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/Harshk7771/Harshk7771
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 amina8999-dot/Develop-and-implement-a-cybersecurity-plan-for-a-simulated-small-busines
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/amina8999-dot/Develop-and-implement-a-cybersecurity-plan-for-a-simulated-small-busines
+     📝 Developed and implemented a cybersecurity plan for a simulated small business us…
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 clopezavilapayan-byte/mwd_troubleshooting_assistant
+     ⭐ 0  🗣 Python  📅 2026-06-30
+     🔗 https://github.com/clopezavilapayan-byte/mwd_troubleshooting_assistant
+     📝 Streamlit MVP for guided MWD troubleshooting workflows.
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 bloggins/PHAESEDR
+     ⭐ 0  🗣 C#  📅 2026-07-01
+     🔗 https://github.com/bloggins/PHAESEDR
+     📝 Process Hollowing AES - EDR Bypass
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 lululufr/WazabiEDR_WazaCore
+     ⭐ 0  🗣 Rust  📅 2026-07-01
+     🔗 https://github.com/lululufr/WazabiEDR_WazaCore
+     📝 WazabiEDR rule engine — .waza DSL parser, AST, evaluator
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 MEH1999/soc-metrics-dashboard
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/MEH1999/soc-metrics-dashboard
+     📝 SOC operations metrics dashboard (Python + SQL + Plotly) with MTTR, SLA, and FP-…
+     🏷  dashboard, data-analytics, kpi, plotly, soc, sql
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 asphynx-research/softlanding-bootkit
+     ⭐ 0  🗣 YARA  📅 2026-07-01
+     🔗 https://github.com/asphynx-research/softlanding-bootkit
+     📝 ASPHYNX-2026-0001 — SoftLanding UEFI Bootkit
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 lace-y-a-p-edr-a-za1/lace-y-a-p-edr-a-za1-reimagined
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/lace-y-a-p-edr-a-za1/lace-y-a-p-edr-a-za1-reimagined
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 siddharth-sable/light-edr
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/siddharth-sable/light-edr
+     📝 Light weight EDR
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 berrycube/agent-safe-doctor-handoff
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/berrycube/agent-safe-doctor-handoff
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 georgeeghaghe/limacharlie-edr-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/georgeeghaghe/limacharlie-edr-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 animeshPi/edr
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/animeshPi/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 Omarben04/secupulse-infra
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/Omarben04/secupulse-infra
+     📝 Cartographie et analyse de posture de sécurité réseau — extension de SecuPulse
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 lululufr/WazabiEDR_Rules
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/lululufr/WazabiEDR_Rules
+     📝 Starter pack of .waza rules for WazabiEDR
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 thevenkateshkumar/Portfolio
+     ⭐ 0  🗣 CSS  📅 2026-07-01
+     🔗 https://github.com/thevenkateshkumar/Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 Niker-lixy/postEX
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/Niker-lixy/postEX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 MEH1999/auth-log-analyzer
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/MEH1999/auth-log-analyzer
+     📝 SSH brute-force detection from Linux auth logs (Python, sliding-window)
+     🏷  blue-team, cybersecurity, detection-engineering, log-analysis, python
+[2026-07-01 19:58:23 UTC] [NEW]   🆕 📦 Mouadh2000/EDR-platform
+     ⭐ 0  🗣 C#  📅 2026-07-01
+     🔗 https://github.com/Mouadh2000/EDR-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:23 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-01 19:58:23 UTC] [UPD]   📢 📦 Eduardo-create-unir/soc-analyst-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-06-30
+     🔗 https://github.com/Eduardo-create-unir/soc-analyst-portfolio
+     📝 Portfolio de casos de triage SOC y laboratorios de ciberseguridad — preparación …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-01 19:58:23 UTC] [UPD]   📢 📦 rtmarathi1/ThreatOne
+     ⭐ 0  🗣 C++  📅 2026-07-01
+     🔗 https://github.com/rtmarathi1/ThreatOne
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-01 19:58:23 UTC] [UPD]   📢 📦 raven2115/aegis
+     ⭐ 0  🗣 C  📅 2026-06-26
+     🔗 https://github.com/raven2115/aegis
+     📝 Linux EDR coded in C (my project for learning systems security)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-01 19:58:23 UTC] [UPD]   📢 📦 RaidenEi4224/ccc-system-clone-util
+     ⭐ 0  🗣 HTML  📅 2026-06-25
+     🔗 https://github.com/RaidenEi4224/ccc-system-clone-util
+     📝 The Ultimate Carbon Copy Cloner Guide for 2026 Safe and Reliable Backup Solution…
+     🏷  carbon, carbon-copy-cloner, carbon-copy-cloner-download, carbon-copy-cloner-install, carbon-copy-cloner-key, carbon-copy-cloner-patch, carbon-copy-cloner-software, carbon-copy-cloner-trial, carbon-download, carbon-install, carbon-key, carbon-patch, carbon-software, carbon-trial
+     🔄 Motivo: repo recente (5gg)
+[2026-07-01 19:58:23 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-01 19:58:23 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-01 19:58:25 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-01 19:58:25 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-01 19:58:25 UTC] [NEW]   🆕 📦 infiniti-aayush/BlueMoon-KernelExploit
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/infiniti-aayush/BlueMoon-KernelExploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:25 UTC] [NEW]   🆕 📦 5krm/PS5EXPLOTINGTESTING
+     ⭐ 0  🗣 JavaScript  📅 2026-07-01
+     🔗 https://github.com/5krm/PS5EXPLOTINGTESTING
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:25 UTC] [NEW]   🆕 📦 hag19/hajiz
+     ⭐ 1  🗣 Rust  📅 2026-07-01
+     🔗 https://github.com/hag19/hajiz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-01 19:58:25 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-01 19:58:25 UTC] [INFO] ============================================================
+[2026-07-01 19:58:25 UTC] [INFO] Completato — 23 nuovi, 4 aggiornati, 0 errori
+[2026-07-01 19:58:25 UTC] [INFO] ============================================================
