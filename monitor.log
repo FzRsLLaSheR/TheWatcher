@@ -29701,3 +29701,134 @@
 [2026-07-02 14:05:04 UTC] [INFO] ============================================================
 [2026-07-02 14:05:04 UTC] [INFO] Completato — 18 nuovi, 3 aggiornati, 0 errori
 [2026-07-02 14:05:04 UTC] [INFO] ============================================================
+[2026-07-02 19:26:30 UTC] [INFO] ============================================================
+[2026-07-02 19:26:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-02 19:26:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-02 19:26:30 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-02 19:26:30 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-02 19:26:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-02 19:26:30 UTC] [INFO] ============================================================
+[2026-07-02 19:26:30 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-02 19:26:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-02 19:26:32 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-02 19:26:32 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-02 19:26:32 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-02 19:26:32 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-02 19:26:32 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-02 19:26:35 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 vthejesh/Cyber-Security-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/vthejesh/Cyber-Security-Roadmap
+     📝 Come and contribute
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 sayha2304/soc-triage
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/sayha2304/soc-triage
+     📝 SOC ekipleri için gerçek zamanlı güvenlik alarmı triyaj motoru. Redis Streams + …
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 jeffhamm-b/evtx-hunt
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/jeffhamm-b/evtx-hunt
+     📝 Lightweight, dependency-free DFIR hunting framework for Eric Zimmerman's EvtxECm…
+     🏷  dfir, eric-zimmer, evtx, forensics, incident-response, threat-hun
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 0xC9H/qemouflage
+     ⭐ 0  🗣 C  📅 2026-07-02
+     🔗 https://github.com/0xC9H/qemouflage
+     📝 QEMU-based Linux implant for Windows
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 titancreek99/cybsec_inc
+     ⭐ 0  🗣 JavaScript  📅 2026-07-02
+     🔗 https://github.com/titancreek99/cybsec_inc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 Kartikey-Shukla-309/SSPI_Challenge_Spectrum_2026
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-02
+     🔗 https://github.com/Kartikey-Shukla-309/SSPI_Challenge_Spectrum_2026
+     📝 This repo contains the submission of the tasks for SSPI challenge
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 humanstepa/edrejs
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/humanstepa/edrejs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 WhyzperMe/forgeguard
+     ⭐ 0  🗣 Rust  📅 2026-07-02
+     🔗 https://github.com/WhyzperMe/forgeguard
+     📝 Autonomous Rust-based supply-chain security scanner for Cargo, npm and CI/CD pip…
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 gabriel-araujo7176/inventario-ativos-ti
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/gabriel-araujo7176/inventario-ativos-ti
+     📝 Modelo de documentação e controle de inventário utilizado para gerenciar o parqu…
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 luisguilherme220977-cmd/miniguia-estudos-ciberseguranca-notebooklm
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/luisguilherme220977-cmd/miniguia-estudos-ciberseguranca-notebooklm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 DoradoDevs/endpoint-security-agent
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/DoradoDevs/endpoint-security-agent
+     📝 Cross-platform defensive endpoint security agent: posture/malware/persistence sc…
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 didyoureally/clockwork
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/didyoureally/clockwork
+     📝 Clockwork is a Python script for bulk checking SSH credentials (password or key …
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 Shlesh2007/ForenSight
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/Shlesh2007/ForenSight
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 mar0ls/bladedr
+     ⭐ 0  🗣 Go  📅 2026-07-02
+     🔗 https://github.com/mar0ls/bladedr
+     📝 Agentless threat detection and response for Linux. SSH-based probe, CEL rules, M…
+     🏷  agentless, cel, detection-engineering, ebpf, golang, linux, mitre-attack, security, siem, threat-detection
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 tooshy9xr/Open-Source-Enterprise-SOC-Level-1-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/tooshy9xr/Open-Source-Enterprise-SOC-Level-1-Lab
+     📝 🛡️ A fully free and open-source SOC Level 1 enterprise lab focused on detection …
+     🏷  blue-team, cybersecurity, detection-engineering, homelab, incident-response, mitre-attack, opnsense, security-onion, soc, soc-l1, thehive, threat-hunting, wazuh
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 paspptx1/c2-purple-team-showcase
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/paspptx1/c2-purple-team-showcase
+     📝 Educational lab-only C2 and purple-team platform - public showcase: design, ethi…
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 BLuBin7/edr-threat-hunting
+     ⭐ 0  🗣 Go  📅 2026-07-02
+     🔗 https://github.com/BLuBin7/edr-threat-hunting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 EbhinazerRaju17/AuraGuard-Custom-OS-Level-Kernel-Hooking-EDR-Endpoint-Detection-Response-Agent
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/EbhinazerRaju17/AuraGuard-Custom-OS-Level-Kernel-Hooking-EDR-Endpoint-Detection-Response-Agent
+     📝 **AuraGuard EDR** 🛡️ Built for IITM CyStar. Uses C/C++ to track Linux system cal…
+     🏷  —
+[2026-07-02 19:26:35 UTC] [NEW]   🆕 📦 ShemaiahM/TryHackMe-SOC-WorkBooks-Lookups
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/ShemaiahM/TryHackMe-SOC-WorkBooks-Lookups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 19:26:35 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-02 19:26:35 UTC] [UPD]   📢 📦 krrizzer/edraak
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/krrizzer/edraak
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-02 19:26:35 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-02 19:26:35 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-02 19:26:37 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-02 19:26:37 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-02 19:26:37 UTC] [NEW]   🆕 📦 vthejesh/Cyber-Security-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/vthejesh/Cyber-Security-Roadmap
+     📝 Come and contribute
+     🏷  —
+[2026-07-02 19:26:37 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-02 19:26:37 UTC] [INFO] ============================================================
+[2026-07-02 19:26:37 UTC] [INFO] Completato — 20 nuovi, 1 aggiornati, 0 errori
+[2026-07-02 19:26:37 UTC] [INFO] ============================================================
