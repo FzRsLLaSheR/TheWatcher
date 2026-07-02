@@ -29568,3 +29568,136 @@
 [2026-07-02 09:15:18 UTC] [INFO] ============================================================
 [2026-07-02 09:15:18 UTC] [INFO] Completato — 23 nuovi, 6 aggiornati, 0 errori
 [2026-07-02 09:15:18 UTC] [INFO] ============================================================
+[2026-07-02 14:04:56 UTC] [INFO] ============================================================
+[2026-07-02 14:04:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-02 14:04:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-02 14:04:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-02 14:04:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-02 14:04:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-02 14:04:56 UTC] [INFO] ============================================================
+[2026-07-02 14:04:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-02 14:04:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-02 14:04:58 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-02 14:04:58 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-02 14:04:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-02 14:04:58 UTC] [UPD]   📢 📦 atreasureboy/above_agent
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/atreasureboy/above_agent
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-02 14:04:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-02 14:04:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-02 14:05:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 erman-bolukbasi/erman-bolukbasi
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/erman-bolukbasi/erman-bolukbasi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 IuriEneas/req-json
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/IuriEneas/req-json
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 krrizzer/edraak
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/krrizzer/edraak
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 OliverTThomas/OliverTThomas
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/OliverTThomas/OliverTThomas
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 bigpaze/edrjch
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/bigpaze/edrjch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 samurai-io/SaaS
+     ⭐ 0  🗣 Makefile  📅 2026-07-02
+     🔗 https://github.com/samurai-io/SaaS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 qylWheels/xav
+     ⭐ 0  🗣 Xmake  📅 2026-07-02
+     🔗 https://github.com/qylWheels/xav
+     📝 A toy EDR running on linux.
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 AbhaySingh-Code/mac_edr_ab
+     ⭐ 0  🗣 Go  📅 2026-07-02
+     🔗 https://github.com/AbhaySingh-Code/mac_edr_ab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 StudioMatan/claude-agentic-workspace
+     ⭐ 0  🗣 PowerShell  📅 2026-07-02
+     🔗 https://github.com/StudioMatan/claude-agentic-workspace
+     📝 An orchestrated multi-agent security operations workspace - detection triage, id…
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 qwfWEQFWEFAEWRGAERGHSRTH/EDRSGSETHGAERGAWERG
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/qwfWEQFWEFAEWRGAERGHSRTH/EDRSGSETHGAERGAWERG
+     📝 WEAGAEWRGERGAERGAERG
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 George-13-10/Embedded-Car-Black-Box-System
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/George-13-10/Embedded-Car-Black-Box-System
+     📝 Embedded Car Black Box System developed using PIC18F4580 to monitor vehicle even…
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 zuberi10/SOC-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/zuberi10/SOC-Home-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 Thughandling/Agenitc-AI_mini_prj
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-02
+     🔗 https://github.com/Thughandling/Agenitc-AI_mini_prj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 megadinhai/CMC_EDR
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/megadinhai/CMC_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 TernerYaniv/B.Sc.-Final-Project-GC-eDRAM-DRT
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/TernerYaniv/B.Sc.-Final-Project-GC-eDRAM-DRT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 Sujal007-max/SOCProject
+     ⭐ 0  🗣 Shell  📅 2026-07-02
+     🔗 https://github.com/Sujal007-max/SOCProject
+     📝 Cyber Security Incident Response & SOC Analysis Project
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 TCuongPham/EDR_Agent
+     ⭐ 0  🗣 C++  📅 2026-07-02
+     🔗 https://github.com/TCuongPham/EDR_Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [NEW]   🆕 📦 YunusEmreErtekin/chtester
+     ⭐ 0  🗣 Go  📅 2026-07-02
+     🔗 https://github.com/YunusEmreErtekin/chtester
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 14:05:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-02 14:05:01 UTC] [UPD]   📢 📦 emranyounasdxb-ai/edrive-water-sports
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/emranyounasdxb-ai/edrive-water-sports
+     📝 Premium static booking and inventory platform for eDrive Water Sports, built wit…
+     🏷  booking-system, cpanel, dubai, inventory-management, nextjs15, static-site, supabase, tailwindcss-v4, typescript, water-sports
+     🔄 Motivo: repo recente (0gg)
+[2026-07-02 14:05:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-02 14:05:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-02 14:05:04 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-02 14:05:04 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-02 14:05:04 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-02 14:05:04 UTC] [UPD]   📢 📦 funbinet/tsec
+     ⭐ 1  🗣 Rust  📅 2026-06-29
+     🔗 https://github.com/funbinet/tsec
+     📝 Tactical Security Enumeration & Compromise Framework
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-02 14:05:04 UTC] [INFO] ============================================================
+[2026-07-02 14:05:04 UTC] [INFO] Completato — 18 nuovi, 3 aggiornati, 0 errori
+[2026-07-02 14:05:04 UTC] [INFO] ============================================================
