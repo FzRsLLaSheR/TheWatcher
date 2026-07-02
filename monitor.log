@@ -29392,3 +29392,179 @@
 [2026-07-02 03:44:40 UTC] [INFO] ============================================================
 [2026-07-02 03:44:40 UTC] [INFO] Completato — 33 nuovi, 5 aggiornati, 0 errori
 [2026-07-02 03:44:40 UTC] [INFO] ============================================================
+[2026-07-02 09:15:12 UTC] [INFO] ============================================================
+[2026-07-02 09:15:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-02 09:15:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-02 09:15:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-02 09:15:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-02 09:15:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-02 09:15:12 UTC] [INFO] ============================================================
+[2026-07-02 09:15:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-02 09:15:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-02 09:15:13 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-02 09:15:13 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-02 09:15:13 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-02 09:15:13 UTC] [UPD]   📢 📦 atreasureboy/above_agent
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/atreasureboy/above_agent
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-02 09:15:13 UTC] [UPD]   📢 📦 subashjaganathan/dfir-hawk
+     ⭐ 1  🗣 PowerShell  📅 2026-07-01
+     🔗 https://github.com/subashjaganathan/dfir-hawk
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-02 09:15:13 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-02 09:15:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-02 09:15:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 RiddhiManani/Windows-Service-Process-Monitoring-Agent
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/RiddhiManani/Windows-Service-Process-Monitoring-Agent
+     📝 A Python-based Windows cybersecurity monitoring agent that detects suspicious pr…
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 emranyounasdxb-ai/edrive-water-sports
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/emranyounasdxb-ai/edrive-water-sports
+     📝 Premium static booking and inventory platform for eDrive Water Sports, built wit…
+     🏷  booking-system, cpanel, dubai, inventory-management, nextjs15, static-site, supabase, tailwindcss-v4, typescript, water-sports
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 Chalasani-Venkata-Satya-Sai/Chalasani-Venkata-Satya-Sai
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/Chalasani-Venkata-Satya-Sai/Chalasani-Venkata-Satya-Sai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 meetshinde/Collision-Detection-and-Automatic-Emergency-Braking-System
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/meetshinde/Collision-Detection-and-Automatic-Emergency-Braking-System
+     📝 Design, implementation, and validation of a low-cost, multi-node Autonomous Emer…
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 Karkas66/lacuna-rs
+     ⭐ 0  🗣 Rust  📅 2026-07-02
+     🔗 https://github.com/Karkas66/lacuna-rs
+     📝 Ported from [LACUNA Chain](https://github.com/MazX0p/LACUNA-Chain) by Mohamed Al…
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 cmcer/CMC_EDR_Use_ClaudeCode
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/cmcer/CMC_EDR_Use_ClaudeCode
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 duynhat326/SOAR-Playbook-Project
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/duynhat326/SOAR-Playbook-Project
+     📝 SOAR Playbook for emulated Endpoint Malware response. Automates threat enrichmen…
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 minhtawlwe-svg/wazuh
+     ⭐ 0  🗣 YARA  📅 2026-07-02
+     🔗 https://github.com/minhtawlwe-svg/wazuh
+     📝 Wazuh SOC toolkit: YARA AR, Suricata installers, active-response scripts
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 nebasuke/napi-error-send-repro
+     ⭐ 0  🗣 Rust  📅 2026-07-02
+     🔗 https://github.com/nebasuke/napi-error-send-repro
+     📝 Repro for crashes when sending an error with refs
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 perry00100/reverse-skill-collection
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/perry00100/reverse-skill-collection
+     📝 reverse-skill 项目收藏与详解 - 25+安全技能/AI驱动/中文友好
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 radson0/LMblueteam_napratica
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/radson0/LMblueteam_napratica
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 AbhaySingh-Code/linux_edr_ab
+     ⭐ 0  🗣 C  📅 2026-07-02
+     🔗 https://github.com/AbhaySingh-Code/linux_edr_ab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 saumya-nitya/EDR-LITE
+     ⭐ 0  🗣 C#  📅 2026-07-02
+     🔗 https://github.com/saumya-nitya/EDR-LITE
+     📝 A lightweight EDR engine in C# that correlates file system activity with process…
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 BugSn1per143/bugsniper-soc
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/BugSn1per143/bugsniper-soc
+     📝 Self-hosted Windows Security Operations Center — FastAPI backend + dark/aqua das…
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 Guilherme-alexander/Limelighter
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/Guilherme-alexander/Limelighter
+     📝 This tool creates fake code signing certificates based on real domains and signs…
+     🏷  cybersecurity, cybersecurity-tools, pyhton, python-tool
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 Chalasani-Venkata-Satya-Sai/The-Book-of-Alchemy-for-the-Secret-of-Cyberspace
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/Chalasani-Venkata-Satya-Sai/The-Book-of-Alchemy-for-the-Secret-of-Cyberspace
+     📝 The grand compendium of offensive, defensive, and cloud security knowledge. Cura…
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 adam1capps/roof-mri-gps-scanning
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/adam1capps/roof-mri-gps-scanning
+     📝 This is the app that will allow us to scan roofs using GPS and GNSS
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 Wh4l3X/claude-code-pentest-arsenal
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/Wh4l3X/claude-code-pentest-arsenal
+     📝 Portable Claude Code Pentest Arsenal: 210+ skills, 58 agents, 7 workflows. One c…
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 edracode/TrackerTKA-Edra
+     ⭐ 0  🗣 HTML  📅 2026-07-02
+     🔗 https://github.com/edracode/TrackerTKA-Edra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 mdmujahidhasan/soc-complete-guide
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/mdmujahidhasan/soc-complete-guide
+     📝 📘 A complete SOC (Security Operations Center) reference guide — covering SIEM, E…
+     🏷  —
+[2026-07-02 09:15:16 UTC] [NEW]   🆕 📦 edralynbatisan13-beep/BSIT-ABCD-edra
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/edralynbatisan13-beep/BSIT-ABCD-edra
+     📝 for activity only
+     🏷  —
+[2026-07-02 09:15:16 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-02 09:15:16 UTC] [UPD]   📢 📦 zinzan-vdm/cli-isolate
+     ⭐ 0  🗣 Go  📅 2026-07-01
+     🔗 https://github.com/zinzan-vdm/cli-isolate
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-02 09:15:16 UTC] [UPD]   📢 📦 merveealpay/agentguard-starter
+     ⭐ 0  🗣 JavaScript  📅 2026-07-01
+     🔗 https://github.com/merveealpay/agentguard-starter
+     📝 Run AgentGuard — a self-hosted firewall for AI agents — in your own environment:…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-02 09:15:16 UTC] [UPD]   📢 📦 rtmarathi1/ThreatOne
+     ⭐ 0  🗣 C++  📅 2026-07-01
+     🔗 https://github.com/rtmarathi1/ThreatOne
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-02 09:15:16 UTC] [UPD]   📢 📦 Harshk7771/Harshk7771
+     ⭐ 0  🗣 N/A  📅 2026-07-01
+     🔗 https://github.com/Harshk7771/Harshk7771
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-02 09:15:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-02 09:15:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-02 09:15:18 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-02 09:15:18 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-02 09:15:18 UTC] [NEW]   🆕 📦 tcsresearch/KSecurityTool
+     ⭐ 0  🗣 Shell  📅 2026-07-02
+     🔗 https://github.com/tcsresearch/KSecurityTool
+     📝 Kernel Security Tool
+     🏷  —
+[2026-07-02 09:15:18 UTC] [NEW]   🆕 📦 Raunaksplanet/Learn-Kernel-Bug-Bounty
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/Raunaksplanet/Learn-Kernel-Bug-Bounty
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-02 09:15:18 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-02 09:15:18 UTC] [INFO] ============================================================
+[2026-07-02 09:15:18 UTC] [INFO] Completato — 23 nuovi, 6 aggiornati, 0 errori
+[2026-07-02 09:15:18 UTC] [INFO] ============================================================
