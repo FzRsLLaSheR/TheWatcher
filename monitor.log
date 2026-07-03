@@ -29832,3 +29832,190 @@
 [2026-07-02 19:26:37 UTC] [INFO] ============================================================
 [2026-07-02 19:26:37 UTC] [INFO] Completato — 20 nuovi, 1 aggiornati, 0 errori
 [2026-07-02 19:26:37 UTC] [INFO] ============================================================
+[2026-07-03 03:25:59 UTC] [INFO] ============================================================
+[2026-07-03 03:25:59 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-03 03:25:59 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-03 03:25:59 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-03 03:25:59 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-03 03:25:59 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-03 03:25:59 UTC] [INFO] ============================================================
+[2026-07-03 03:25:59 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-03 03:25:59 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-03 03:26:01 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 03:26:01 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-03 03:26:01 UTC] [NEW]   🆕 📦 S1lkys/Check-DeviceGuard
+     ⭐ 1  🗣 PowerShell  📅 2026-07-02
+     🔗 https://github.com/S1lkys/Check-DeviceGuard
+     📝 Check DeviceGuard configurations to assess the possibility for BYOVD attacks
+     🏷  —
+[2026-07-03 03:26:01 UTC] [NEW]   🆕 📦 ahmad-shakla/The-Gentlemen-Threat-Hunting-Playbook
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/ahmad-shakla/The-Gentlemen-Threat-Hunting-Playbook
+     📝 This repository is a single, self-contained SOC reference about the Gentlemen ra…
+     🏷  —
+[2026-07-03 03:26:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-03 03:26:01 UTC] [UPD]   📢 📦 atreasureboy/above_agent
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/atreasureboy/above_agent
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-03 03:26:01 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-03 03:26:01 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-03 03:26:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 mzalzahrani/w3csaw
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/mzalzahrani/w3csaw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 dingyamwan/edreoj
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/dingyamwan/edreoj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 kdlin/keyboard-setup
+     ⭐ 0  🗣 PowerShell  📅 2026-07-03
+     🔗 https://github.com/kdlin/keyboard-setup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 at0mikd/at0mikd
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/at0mikd/at0mikd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 dmlawcareer/AI-Red-Teaming-Framework
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/dmlawcareer/AI-Red-Teaming-Framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 RedBaron404/security-analytics-dashboard
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/RedBaron404/security-analytics-dashboard
+     📝 A dashboard the connects via API to independent security analytics tools and giv…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 besan-alkasabreh/mini-edr
+     ⭐ 1  🗣 JavaScript  📅 2026-07-02
+     🔗 https://github.com/besan-alkasabreh/mini-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 kwpwn/Puzzle_C
+     ⭐ 0  🗣 C  📅 2026-07-03
+     🔗 https://github.com/kwpwn/Puzzle_C
+     📝 Pure C port of Kudaes/Puzzle - AV/EDR evasion via Windows minifilter architectur…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 JeanpolMN/Telco-OFCS-Billing-Engine
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/JeanpolMN/Telco-OFCS-Billing-Engine
+     📝 Sistema de Tarifación para Servicios Móviles de Claro-
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 ebowwa/pi-ble-keyboard
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/ebowwa/pi-ble-keyboard
+     📝 Turn a Raspberry Pi into a BLE LE HID keyboard for iOS
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 DaPhilll/Generative-AI-Incident-Triage-Investigative-Reporting
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/DaPhilll/Generative-AI-Incident-Triage-Investigative-Reporting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 bigsteve011/Quantitative-Risk-Analysis-Engine-FAIR-Methodology
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/bigsteve011/Quantitative-Risk-Analysis-Engine-FAIR-Methodology
+     📝 Quantitative Risk Analysis Engine
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 sls-jmantz/Passphrase-Generator
+     ⭐ 0  🗣 PowerShell  📅 2026-07-02
+     🔗 https://github.com/sls-jmantz/Passphrase-Generator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 feitosaleozinho/cybersecurity-portfolio
+     ⭐ 1  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/feitosaleozinho/cybersecurity-portfolio
+     📝 Portfólio técnico de projetos práticos em cibersegurança - SENAI
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 Adavize1990/Adavize-partner-cyber
+     ⭐ 0  🗣 Shell  📅 2026-07-02
+     🔗 https://github.com/Adavize1990/Adavize-partner-cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 hartlez022/EDrtwiJpqc
+     ⭐ 1  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/hartlez022/EDrtwiJpqc
+     📝 【Java计算机毕业设计分享】基于SpringBoot+Vue的大学生心理健康问卷平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 Sagheerabbas/Phishing-Email-Investigation-Research
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/Sagheerabbas/Phishing-Email-Investigation-Research
+     📝 A beginner-friendly SOC research study on phishing email investigation, email tr…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 Sagheerabbas/SOC-Alert-Triage-Research
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/Sagheerabbas/SOC-Alert-Triage-Research
+     📝 A beginner-friendly SOC research study on alert triage, false positives, escalat…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 nickg1126/attack-coverage-mapper
+     ⭐ 0  🗣 JavaScript  📅 2026-07-02
+     🔗 https://github.com/nickg1126/attack-coverage-mapper
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 zech12and8/XDR-breakdown-
+     ⭐ 1  🗣 HTML  📅 2026-07-02
+     🔗 https://github.com/zech12and8/XDR-breakdown-
+     📝 XDR breakdown — clear pillars, why it matters, and a comparison with EDR.
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 noahbalboah/aprima-clickonce-migration
+     ⭐ 0  🗣 PowerShell  📅 2026-07-02
+     🔗 https://github.com/noahbalboah/aprima-clickonce-migration
+     📝 Unattended migration of CGM APRIMA (Aprima EHR) ClickOnce clients to a new hoste…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 baco604/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/baco604/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 security-attack/Sigma_Rule_Mitre
+     ⭐ 1  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/security-attack/Sigma_Rule_Mitre
+     📝 Sigma detection rules systematically mapped to MITRE ATT&CK Enterprise v16.1, bu…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 EXP09/SAM-Enterprise-Demo
+     ⭐ 0  🗣 CSS  📅 2026-07-02
+     🔗 https://github.com/EXP09/SAM-Enterprise-Demo
+     📝 Public UI demo of the SAM Enterprise security console — FastAPI + Jinja2, mock d…
+     🏷  dashboard, demo, fastapi, jinja2, mock-data, security-ui
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 serpico11/gn-sas-smishing-iocs
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/serpico11/gn-sas-smishing-iocs
+     📝 Indicadores de compromiso sanitizados relacionados con campaña de smishing/phish…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 cherryswlo/vulconcern
+     ⭐ 0  🗣 Go  📅 2026-07-02
+     🔗 https://github.com/cherryswlo/vulconcern
+     📝 The Nx s1ngularity attack used your own AI CLI to steal credentials via a postin…
+     🏷  ai-tools, go, mcp, security, supply-chain-security
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 security-attack/MalCheck
+     ⭐ 1  🗣 C++  📅 2026-07-02
+     🔗 https://github.com/security-attack/MalCheck
+     📝 MalCheck  - AV signature analysis tool. Pinpoints exact byte regions that trigge…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [NEW]   🆕 📦 ahmad-shakla/The-Gentlemen-Threat-Hunting-Playbook
+     ⭐ 0  🗣 Python  📅 2026-07-02
+     🔗 https://github.com/ahmad-shakla/The-Gentlemen-Threat-Hunting-Playbook
+     📝 This repository is a single, self-contained SOC reference about the Gentlemen ra…
+     🏷  —
+[2026-07-03 03:26:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-03 03:26:03 UTC] [UPD]   📢 📦 phly95/spoofdeck
+     ⭐ 3  🗣 Python  📅 2026-06-27
+     🔗 https://github.com/phly95/spoofdeck
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-03 03:26:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-03 03:26:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-03 03:26:05 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 03:26:05 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-03 03:26:05 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-03 03:26:05 UTC] [INFO] ============================================================
+[2026-07-03 03:26:05 UTC] [INFO] Completato — 30 nuovi, 2 aggiornati, 0 errori
+[2026-07-03 03:26:05 UTC] [INFO] ============================================================
