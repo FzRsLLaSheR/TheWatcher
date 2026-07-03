@@ -30181,3 +30181,164 @@
 [2026-07-03 09:20:35 UTC] [INFO] ============================================================
 [2026-07-03 09:20:35 UTC] [INFO] Completato — 25 nuovi, 2 aggiornati, 0 errori
 [2026-07-03 09:20:35 UTC] [INFO] ============================================================
+[2026-07-03 14:08:53 UTC] [INFO] ============================================================
+[2026-07-03 14:08:53 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-03 14:08:53 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-03 14:08:53 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-03 14:08:53 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-03 14:08:53 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-03 14:08:53 UTC] [INFO] ============================================================
+[2026-07-03 14:08:53 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-03 14:08:53 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-03 14:08:55 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 14:08:55 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-03 14:08:55 UTC] [NEW]   🆕 📦 Surya-cell-oss/SOC-Automation-Project
+     ⭐ 0  🗣 Shell  📅 2026-07-03
+     🔗 https://github.com/Surya-cell-oss/SOC-Automation-Project
+     📝 A Security Operations Center (SOC) Automation Project replaces slow, manual thre…
+     🏷  —
+[2026-07-03 14:08:55 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-03 14:08:55 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-03 14:08:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-03 14:08:58 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 lucascanero/edreams-flex-scanner
+     ⭐ 0  🗣 JavaScript  📅 2026-07-03
+     🔗 https://github.com/lucascanero/edreams-flex-scanner
+     📝 Find the cheapest flights across a flexible range of dates on eDreams.
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 Vedant-v/SentinelAI
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Vedant-v/SentinelAI
+     📝 An AI-powered Cybersecurity Decision Intelligence Platform that transforms enter…
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 ikfurqan2177-commits/WEEK-1-SOC-REPORT
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/ikfurqan2177-commits/WEEK-1-SOC-REPORT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 Dilushan-Ravihara/secure-assets-compliance
+     ⭐ 0  🗣 JavaScript  📅 2026-07-03
+     🔗 https://github.com/Dilushan-Ravihara/secure-assets-compliance
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 Shreyasakella8/Sentinel-GRC
+     ⭐ 0  🗣 PowerShell  📅 2026-07-03
+     🔗 https://github.com/Shreyasakella8/Sentinel-GRC
+     📝 Production-grade, open-source GRC platform replacing commercial tools. Features …
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 jeanitaz/EDR
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/jeanitaz/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 ganhailin/macgen
+     ⭐ 0  🗣 Objective-C++  📅 2026-07-03
+     🔗 https://github.com/ganhailin/macgen
+     📝 pattern generator for macOS
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 stackArmor/vdr-pain-relief-examples
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/stackArmor/vdr-pain-relief-examples
+     📝 Public illustrative subset of the PAIN Relief taxonomy: the standard, auditable …
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 R0nin89/TheHive_SOC_Knowledge_Base
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/R0nin89/TheHive_SOC_Knowledge_Base
+     📝 ase de conocimientos SOC en Markdown para TheHive: evidencias, respuesta, cierre…
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 Huntress-EDR/.github
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Huntress-EDR/.github
+     📝 Download Huntress EDR cybersecurity to help safeguard business endpoints with ma…
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 HarshiniTelukuntla/HarshiniTelukuntla
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/HarshiniTelukuntla/HarshiniTelukuntla
+     📝 “Collection of incident response scripts, detection rules, and security automati…
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 Imaolabiyi/paybridge-cybersecurity-plan
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Imaolabiyi/paybridge-cybersecurity-plan
+     📝 A NIST CSF-based cybersecurity plan for a simulated Nigerian fintech SMB — cover…
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 monologue0917/defense-tech-protection-ops
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/monologue0917/defense-tech-protection-ops
+     📝 Defense technology protection operations portfolio built with Python Streamlit, …
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 CrowdStrike-Falcon-EDR/.github
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/CrowdStrike-Falcon-EDR/.github
+     📝 Download CrowdStrike Falcon EDR to secure endpoints, identities, workloads, and …
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 Anzar-Ahmed/SOC-Lab-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Anzar-Ahmed/SOC-Lab-Portfolio
+     📝 Hands-on SOC Analyst Lab Portfolio
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 Surya-cell-oss/SOC-Automation-Project
+     ⭐ 0  🗣 Shell  📅 2026-07-03
+     🔗 https://github.com/Surya-cell-oss/SOC-Automation-Project
+     📝 A Security Operations Center (SOC) Automation Project replaces slow, manual thre…
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 rbxluau/SharpDllProxy
+     ⭐ 0  🗣 C#  📅 2026-07-03
+     🔗 https://github.com/rbxluau/SharpDllProxy
+     📝 DLL proxy tool
+     🏷  —
+[2026-07-03 14:08:58 UTC] [NEW]   🆕 📦 TLGKien/clickFix
+     ⭐ 0  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/TLGKien/clickFix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 14:08:58 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-07-03 14:08:58 UTC] [UPD]   📢 📦 JonathanInfinity01/SOC-L1-EDR-Investigation-Multi-Host-LetsDefend
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/JonathanInfinity01/SOC-L1-EDR-Investigation-Multi-Host-LetsDefend
+     📝 Multi-host SOC incident investigation (EDR, C2 detection, MITRE ATT&CK mapping) …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-03 14:08:58 UTC] [UPD]   📢 📦 mr-r3b00t/org_cyber_attack_sim
+     ⭐ 0  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/mr-r3b00t/org_cyber_attack_sim
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-03 14:08:58 UTC] [UPD]   📢 📦 mzalzahrani/w3csaw
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/mzalzahrani/w3csaw
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-03 14:08:58 UTC] [UPD]   📢 📦 RaidenEi4224/ccc-system-clone-util
+     ⭐ 0  🗣 HTML  📅 2026-06-25
+     🔗 https://github.com/RaidenEi4224/ccc-system-clone-util
+     📝 The Ultimate Carbon Copy Cloner Guide for 2026 Safe and Reliable Backup Solution…
+     🏷  carbon, carbon-copy-cloner, carbon-copy-cloner-download, carbon-copy-cloner-install, carbon-copy-cloner-key, carbon-copy-cloner-patch, carbon-copy-cloner-software, carbon-copy-cloner-trial, carbon-download, carbon-install, carbon-key, carbon-patch, carbon-software, carbon-trial
+     🔄 Motivo: repo recente (7gg)
+[2026-07-03 14:08:58 UTC] [UPD]   📢 📦 BEKO2210/Specter-
+     ⭐ 0  🗣 Python  📅 2026-07-01
+     🔗 https://github.com/BEKO2210/Specter-
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-03 14:08:58 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-03 14:08:58 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-03 14:09:00 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 14:09:00 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-03 14:09:00 UTC] [NEW]   🆕 📦 rajacodingan22/pentest
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/rajacodingan22/pentest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 14:09:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-03 14:09:00 UTC] [UPD]   📢 📦 AdamFrisby/CodeyBox
+     ⭐ 5  🗣 C#  📅 2026-04-27
+     🔗 https://github.com/AdamFrisby/CodeyBox
+     📝 Runs CLI coding agents (Claude Code, Codex, Copilot, Cursor, Gemini, opencode) a…
+     🏷  agentic, ai-agents, ai-coding, autonomous-agents, claude-code, code-review, codex, coding-agent, csharp, developer-tools, dotnet, github-copilot, llm, multi-agent, orchestration, sandbox, self-hosted
+     🔄 Motivo: nuovi topic: autonomous-agents, coding-agent, multi-agent, sandbox, agentic, claude-code, codex, dotnet, code-review, ai-agents, developer-tools, csharp, orchestration, github-copilot, ai-coding, self-hosted, llm
+[2026-07-03 14:09:00 UTC] [INFO] ============================================================
+[2026-07-03 14:09:00 UTC] [INFO] Completato — 20 nuovi, 6 aggiornati, 0 errori
+[2026-07-03 14:09:00 UTC] [INFO] ============================================================
