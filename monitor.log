@@ -30019,3 +30019,165 @@
 [2026-07-03 03:26:05 UTC] [INFO] ============================================================
 [2026-07-03 03:26:05 UTC] [INFO] Completato — 30 nuovi, 2 aggiornati, 0 errori
 [2026-07-03 03:26:05 UTC] [INFO] ============================================================
+[2026-07-03 09:20:28 UTC] [INFO] ============================================================
+[2026-07-03 09:20:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-03 09:20:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-03 09:20:28 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-03 09:20:28 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-03 09:20:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-03 09:20:28 UTC] [INFO] ============================================================
+[2026-07-03 09:20:28 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-03 09:20:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-03 09:20:30 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 09:20:30 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-03 09:20:30 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-03 09:20:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-03 09:20:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-03 09:20:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 seyifalode-cmd/process-injection-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/seyifalode-cmd/process-injection-detection-lab
+     📝 A defender's lab: detecting classic Windows process injection with Sysinternals …
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 Smileyface101/EDR-Evasion-Shellcode-Exe-DLL-
+     ⭐ 0  🗣 C++  📅 2026-07-03
+     🔗 https://github.com/Smileyface101/EDR-Evasion-Shellcode-Exe-DLL-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 cyberlandji/prism-box
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/cyberlandji/prism-box
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 temi109/Legal-Rank-Assessment-Task
+     ⭐ 0  🗣 HCL  📅 2026-07-03
+     🔗 https://github.com/temi109/Legal-Rank-Assessment-Task
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 Die-Another-Day/LumenChain
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/Die-Another-Day/LumenChain
+     📝 # LUMENCHAIN ### AI-Assisted SOC Investigation Platform with Hash-Chain Verified…
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 mr-r3b00t/org_cyber_attack_sim
+     ⭐ 0  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/mr-r3b00t/org_cyber_attack_sim
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 jackxunkun163/bt-test
+     ⭐ 0  🗣 C  📅 2026-07-03
+     🔗 https://github.com/jackxunkun163/bt-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 SindreMA/RemoteKeyboard
+     ⭐ 0  🗣 TypeScript  📅 2026-07-03
+     🔗 https://github.com/SindreMA/RemoteKeyboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 yoonsr97-afk/partnerlevel
+     ⭐ 0  🗣 JavaScript  📅 2026-07-03
+     🔗 https://github.com/yoonsr97-afk/partnerlevel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 AdversaryCraft/nsis-dll-hijack-poc
+     ⭐ 0  🗣 C++  📅 2026-07-03
+     🔗 https://github.com/AdversaryCraft/nsis-dll-hijack-poc
+     📝 Research PoC demonstrating NSIS installer DLL hijacking via directory planting. …
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 zentrix566/my-ops-skills
+     ⭐ 0  🗣 Shell  📅 2026-07-03
+     🔗 https://github.com/zentrix566/my-ops-skills
+     📝 运维技能总结
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 voidmain157/Simple-Reverse-Connection-Poc
+     ⭐ 0  🗣 C  📅 2026-07-03
+     🔗 https://github.com/voidmain157/Simple-Reverse-Connection-Poc
+     📝 A simple, Defanged client-server network communication simulation using C and Py…
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 Aadil-Faheem/Ransomware_Simulator
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Aadil-Faheem/Ransomware_Simulator
+     📝 The purpose of the VoidSoul project is to provide a practical platform for study…
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 ArpitaaSinghal/cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/ArpitaaSinghal/cybersecurity-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 01-Keshav/AI-Powered-Anti-Phishing-Simulator
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/01-Keshav/AI-Powered-Anti-Phishing-Simulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 giriaryan694-a11y/ShellCamo
+     ⭐ 0  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/giriaryan694-a11y/ShellCamo
+     📝 ShellCamo is a fully static, client-side web tool that generates truly hidden ob…
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 rishith2209/SentinelAI
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/rishith2209/SentinelAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 yashvinthan/ai-driven-automated-security-operations
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/yashvinthan/ai-driven-automated-security-operations
+     📝 AUTONOMOUS — self-improving AI Security Operations Center: learning loop, proced…
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 Luc1f3r0001/sandwalk
+     ⭐ 0  🗣 Go  📅 2026-07-02
+     🔗 https://github.com/Luc1f3r0001/sandwalk
+     📝 When sandworms are all over in the world one must know sandwalk to survive
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 JonathanInfinity01/SOC-L1-EDR-Investigation-Multi-Host-LetsDefend
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/JonathanInfinity01/SOC-L1-EDR-Investigation-Multi-Host-LetsDefend
+     📝 Multi-host SOC incident investigation (EDR, C2 detection, MITRE ATT&CK mapping) …
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 Bharathikumar77/soc_vision_platform
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/Bharathikumar77/soc_vision_platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 Lux1dus/The-Vick-Teem-Incident
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Lux1dus/The-Vick-Teem-Incident
+     📝 An Assumed Breach DFIR project designed to hone Threat Hunting skills, featuring…
+     🏷  —
+[2026-07-03 09:20:33 UTC] [NEW]   🆕 📦 AdrianBoboc/PoEDragonStats
+     ⭐ 0  🗣 Java  📅 2026-07-03
+     🔗 https://github.com/AdrianBoboc/PoEDragonStats
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:33 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-03 09:20:33 UTC] [UPD]   📢 📦 mar0ls/bladedr
+     ⭐ 0  🗣 Go  📅 2026-07-02
+     🔗 https://github.com/mar0ls/bladedr
+     📝 Agentless threat detection and response for Linux. SSH-based probe, CEL rules, M…
+     🏷  agentless, cel, detection-engineering, ebpf, golang, linux, mitre-attack, security, siem, threat-detection
+     🔄 Motivo: repo recente (0gg)
+[2026-07-03 09:20:33 UTC] [UPD]   📢 📦 emranyounasdxb-ai/edrive-water-sports
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/emranyounasdxb-ai/edrive-water-sports
+     📝 Premium static booking and inventory platform for eDrive Water Sports, built wit…
+     🏷  booking-system, cpanel, dubai, inventory-management, nextjs15, static-site, supabase, tailwindcss-v4, typescript, water-sports
+     🔄 Motivo: repo recente (1gg)
+[2026-07-03 09:20:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-03 09:20:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-03 09:20:35 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 09:20:35 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-03 09:20:35 UTC] [NEW]   🆕 📦 Priyanshu-Developer/The-Cyber-Labs
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Priyanshu-Developer/The-Cyber-Labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 09:20:35 UTC] [NEW]   🆕 📦 imopositive/A-Peg-Sus
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/imopositive/A-Peg-Sus
+     📝 Menu card
+     🏷  —
+[2026-07-03 09:20:35 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-03 09:20:35 UTC] [INFO] ============================================================
+[2026-07-03 09:20:35 UTC] [INFO] Completato — 25 nuovi, 2 aggiornati, 0 errori
+[2026-07-03 09:20:35 UTC] [INFO] ============================================================
