@@ -30342,3 +30342,168 @@
 [2026-07-03 14:09:00 UTC] [INFO] ============================================================
 [2026-07-03 14:09:00 UTC] [INFO] Completato — 20 nuovi, 6 aggiornati, 0 errori
 [2026-07-03 14:09:00 UTC] [INFO] ============================================================
+[2026-07-03 19:25:07 UTC] [INFO] ============================================================
+[2026-07-03 19:25:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-03 19:25:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-03 19:25:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-03 19:25:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-03 19:25:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-03 19:25:07 UTC] [INFO] ============================================================
+[2026-07-03 19:25:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-03 19:25:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-03 19:25:08 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 19:25:08 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-03 19:25:08 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-03 19:25:08 UTC] [UPD]   📢 📦 S1lkys/Check-DeviceGuard
+     ⭐ 1  🗣 PowerShell  📅 2026-07-02
+     🔗 https://github.com/S1lkys/Check-DeviceGuard
+     📝 Check DeviceGuard configurations to assess the possibility for BYOVD attacks
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-03 19:25:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-03 19:25:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-03 19:25:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 wyattrossell/FieldKit
+     ⭐ 1  🗣 JavaScript  📅 2026-07-02
+     🔗 https://github.com/wyattrossell/FieldKit
+     📝 This is a html file that lives either on your device or usb drive that helps you…
+     🏷  blueteam, educational, forensics, network, offline, purpleteam, redteam, scripting, system
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 tonmoy-TS/VEX-Robotics-Drivetrain-Control
+     ⭐ 0  🗣 C  📅 2026-07-03
+     🔗 https://github.com/tonmoy-TS/VEX-Robotics-Drivetrain-Control
+     📝 Open-loop and closed-loop (bang-bang, proportional, sonar station-keeping) drive…
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 joesalvado/edraug
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/joesalvado/edraug
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 jurulz/EDR_TESTER
+     ⭐ 0  🗣 PowerShell  📅 2026-07-03
+     🔗 https://github.com/jurulz/EDR_TESTER
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 ayushthakurrrr/EDR
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/ayushthakurrrr/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 kinnector/kinnector-protect-community
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/kinnector/kinnector-protect-community
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 Janetcyber/Janetcyber
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Janetcyber/Janetcyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 maxytmaxyt/wii-controler-esp
+     ⭐ 0  🗣 C  📅 2026-07-03
+     🔗 https://github.com/maxytmaxyt/wii-controler-esp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 Athernex/orchestrator
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/Athernex/orchestrator
+     📝 Engineering notebook for building and documenting homelab infrastructure, securi…
+     🏷  ai, ai-agents, automation, cybersecurity, devops, devsecops, distributed-systems, homelab, hybrid-cloud, infrastructure, networking, research, rust, security-engineering, self-hosted
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 miyan-jawhar/edr-pcrn
+     ⭐ 1  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/miyan-jawhar/edr-pcrn
+     📝 Explainable Diabetic Retinopathy with Patient Comorbidity Risk Networks
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 catcarloslaguna/Claude-Red
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/catcarloslaguna/Claude-Red
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 tpikachu/Monitor_Process
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/tpikachu/Monitor_Process
+     📝 Just observing the processes.
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 DesignExperience/plantview-edrawings
+     ⭐ 0  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/DesignExperience/plantview-edrawings
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 Ujjwal01571/malware_notes
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Ujjwal01571/malware_notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 xrobotblackhat-web/KRYBIT_sigma_rules
+     ⭐ 0  🗣 YARA  📅 2026-07-03
+     🔗 https://github.com/xrobotblackhat-web/KRYBIT_sigma_rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 RATHNATHANGARAJ/endpoint-detection-and-response-
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/RATHNATHANGARAJ/endpoint-detection-and-response-
+     📝 A lightweight, Python-based Endpoint Detection and Response (EDR) agent that mon…
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 wandersecurity/CTI-for-Alert-Triage-Tryhackme-Walkthrough
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/wandersecurity/CTI-for-Alert-Triage-Tryhackme-Walkthrough
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 wkt21/SOC-Analyst-Roadmap
+     ⭐ 1  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/wkt21/SOC-Analyst-Roadmap
+     📝 ATT&CK-Style Threat Modeling & Defense Operations 
+     🏷  —
+[2026-07-03 19:25:10 UTC] [NEW]   🆕 📦 sigintrecon/malware-threats-analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/sigintrecon/malware-threats-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:10 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-03 19:25:10 UTC] [UPD]   📢 📦 RaidenEi4224/ccc-system-clone-util
+     ⭐ 0  🗣 HTML  📅 2026-06-25
+     🔗 https://github.com/RaidenEi4224/ccc-system-clone-util
+     📝 The Ultimate Carbon Copy Cloner Guide for 2026 Safe and Reliable Backup Solution…
+     🏷  carbon, carbon-copy-cloner, carbon-copy-cloner-download, carbon-copy-cloner-install, carbon-copy-cloner-key, carbon-copy-cloner-patch, carbon-copy-cloner-software, carbon-copy-cloner-trial, carbon-download, carbon-install, carbon-key, carbon-patch, carbon-software, carbon-trial
+     🔄 Motivo: repo recente (7gg)
+[2026-07-03 19:25:10 UTC] [UPD]   📢 📦 TTB-OA/bl-compliance-dbt
+     ⭐ 1  🗣 PLSQL  📅 2026-06-29
+     🔗 https://github.com/TTB-OA/bl-compliance-dbt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-03 19:25:10 UTC] [UPD]   📢 📦 lucascanero/edreams-flex-scanner
+     ⭐ 0  🗣 JavaScript  📅 2026-07-03
+     🔗 https://github.com/lucascanero/edreams-flex-scanner
+     📝 Find the cheapest flights across a flexible range of dates on eDreams.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-03 19:25:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-03 19:25:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-03 19:25:12 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-03 19:25:12 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-03 19:25:12 UTC] [NEW]   🆕 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:12 UTC] [NEW]   🆕 📦 jeenjgit/Carater
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/jeenjgit/Carater
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:12 UTC] [NEW]   🆕 📦 0xAquila/stagenet-writeup
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/0xAquila/stagenet-writeup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-03 19:25:12 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-03 19:25:12 UTC] [UPD]   📢 📦 guvi-geek/flash
+     ⭐ 1  🗣 Go  📅 2026-07-02
+     🔗 https://github.com/guvi-geek/flash
+     📝 Self-hosted sandbox engine: warm pools of isolated Docker sandboxes claimable in…
+     🏷  code-execution, developer-tools, docker, golang, gvisor, nextjs, sandbox, self-hosted
+     🔄 Motivo: repo recente (1gg)
+[2026-07-03 19:25:12 UTC] [INFO] ============================================================
+[2026-07-03 19:25:12 UTC] [INFO] Completato — 22 nuovi, 5 aggiornati, 0 errori
+[2026-07-03 19:25:12 UTC] [INFO] ============================================================
