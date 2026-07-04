@@ -31103,3 +31103,222 @@
 [2026-07-04 13:36:32 UTC] [INFO] ============================================================
 [2026-07-04 13:36:32 UTC] [INFO] Completato — 50 nuovi, 3 aggiornati, 0 errori
 [2026-07-04 13:36:32 UTC] [INFO] ============================================================
+[2026-07-04 19:16:00 UTC] [INFO] ============================================================
+[2026-07-04 19:16:00 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-04 19:16:00 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-04 19:16:00 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-04 19:16:00 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-04 19:16:00 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-04 19:16:00 UTC] [INFO] ============================================================
+[2026-07-04 19:16:00 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-04 19:16:00 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-04 19:16:02 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 19:16:02 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-04 19:16:02 UTC] [NEW]   🆕 📦 v8k6b2jjps-prog/PPLcontrol
+     ⭐ 1  🗣 PowerShell  📅 2026-07-04
+     🔗 https://github.com/v8k6b2jjps-prog/PPLcontrol
+     📝 POC ps1 library to explore kernel option
+     🏷  —
+[2026-07-04 19:16:02 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-04 19:16:02 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-04 19:16:02 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-04 19:16:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 irenemrtinez/miniEDR
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/irenemrtinez/miniEDR
+     📝 A lightweight, behavior-focused EDR agent and threat hunting dashboard built in …
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 jiova24/SOC-Labs
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/jiova24/SOC-Labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 anubhavg-icpl/valhalla
+     ⭐ 0  🗣 Rust  📅 2026-07-04
+     🔗 https://github.com/anubhavg-icpl/valhalla
+     📝 System monitor driver based on an example from the book "Windows Kernel Programm…
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 mr-edr/mr-edr
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/mr-edr/mr-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 nn8t/phishing-email-triage-analyzer
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/nn8t/phishing-email-triage-analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 luckstors/dfir-smartapesg-clickfix-remcos
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/luckstors/dfir-smartapesg-clickfix-remcos
+     📝 Network Forensics Investigation of a SmartApeSG ClickFix campaign delivering Rem…
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 rani27-bipo/rani27-bipo
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/rani27-bipo/rani27-bipo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 MirageDeception/Mirage-OS
+     ⭐ 0  🗣 Shell  📅 2026-07-04
+     🔗 https://github.com/MirageDeception/Mirage-OS
+     📝 This would be the official Mirage opensource
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 Aroxora/vigil-eccn-disclosure
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/Aroxora/vigil-eccn-disclosure
+     📝 ECCN disclosure: why Bo Shang's autonomous weapons LLM framework cannot be lawfu…
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 viveksindhu-unifiedsectech/MACE
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/viveksindhu-unifiedsectech/MACE
+     📝 MACE — a one-stop cybersecurity platform: threat correlation + secure file encry…
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 IlarOrlov/AD-Defender
+     ⭐ 0  🗣 PowerShell  📅 2026-07-04
+     🔗 https://github.com/IlarOrlov/AD-Defender
+     📝 Blue-team monitoring tool that polls Windows Security / PowerShell / DNS Server …
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 Sufiyan-SOC/LetsDefend-SOC-Writeups
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/Sufiyan-SOC/LetsDefend-SOC-Writeups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 IntisamAlvi/EDraw
+     ⭐ 0  🗣 HTML  📅 2026-07-04
+     🔗 https://github.com/IntisamAlvi/EDraw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 LorenaMartiins/LorenaMartiins
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/LorenaMartiins/LorenaMartiins
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 smithereener/IncidentForge
+     ⭐ 0  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/smithereener/IncidentForge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 cftg2699-oss/Seguridad-claude
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/cftg2699-oss/Seguridad-claude
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 glides/universal-log-scrubber
+     ⭐ 2  🗣 PowerShell  📅 2026-07-04
+     🔗 https://github.com/glides/universal-log-scrubber
+     📝 A local-first PowerShell tool for preparing logs from secure environments before…
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 bhatinikhil009-byte/AI-Powered-Malware-Detection
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/bhatinikhil009-byte/AI-Powered-Malware-Detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 Nebyular/macos-baseline-auditor
+     ⭐ 0  🗣 Swift  📅 2026-07-04
+     🔗 https://github.com/Nebyular/macos-baseline-auditor
+     📝 SwiftUI macOS hardening posture auditor mapped to Five Eyes guidance.
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 msVivekRanjan/deepcyteslearn
+     ⭐ 0  🗣 HTML  📅 2026-07-04
+     🔗 https://github.com/msVivekRanjan/deepcyteslearn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 Keysajasmine/Saas-B2B-LinkedIn-Content-Research
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/Keysajasmine/Saas-B2B-LinkedIn-Content-Research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 LatashaSeth/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/LatashaSeth/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 Onrex13/Prism
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/Onrex13/Prism
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 Nojgaard/bluepad32-arduino
+     ⭐ 0  🗣 C  📅 2026-07-04
+     🔗 https://github.com/Nojgaard/bluepad32-arduino
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 k0i5/payload-builder-EDR-bypasss
+     ⭐ 0  🗣 Rust  📅 2026-07-04
+     🔗 https://github.com/k0i5/payload-builder-EDR-bypasss
+     📝 EDR bypass
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 SzGregG/Threat-Hunt-Scenario-TOR
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/SzGregG/Threat-Hunt-Scenario-TOR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 pallemthulasiram045-eh/SOC-Labs
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/pallemthulasiram045-eh/SOC-Labs
+     📝 Hands-on Security Operations Center (SOC) labs, SIEM use cases, threat detection…
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 cacao-common-registry/integrations
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/cacao-common-registry/integrations
+     📝 A public, vendor-neutral platform for validated and governed CACAO integrations.
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 Urmila27-mark/SOC-Analyst-AI-Agent
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/Urmila27-mark/SOC-Analyst-AI-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:05 UTC] [NEW]   🆕 📦 WellickT/SOC-I-Study-Material
+     ⭐ 0  🗣 HTML  📅 2026-07-04
+     🔗 https://github.com/WellickT/SOC-I-Study-Material
+     📝 Single files HTML guide for landing a SOC I Position. 
+     🏷  —
+[2026-07-04 19:16:05 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-04 19:16:05 UTC] [UPD]   📢 📦 mr-r3b00t/org_cyber_attack_sim
+     ⭐ 1  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/mr-r3b00t/org_cyber_attack_sim
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-04 19:16:05 UTC] [UPD]   📢 📦 vitorvbarcelos/edrom-ufu
+     ⭐ 0  🗣 JavaScript  📅 2026-07-04
+     🔗 https://github.com/vitorvbarcelos/edrom-ufu
+     📝 Site edrom
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-04 19:16:05 UTC] [UPD]   📢 📦 Gromykko/F.R.A.N.K.
+     ⭐ 0  🗣 TypeScript  📅 2026-07-01
+     🔗 https://github.com/Gromykko/F.R.A.N.K.
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-04 19:16:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-04 19:16:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-04 19:16:07 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 19:16:07 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-04 19:16:07 UTC] [NEW]   🆕 📦 Feyzee61/cssfontface_lapse
+     ⭐ 0  🗣 JavaScript  📅 2026-07-04
+     🔗 https://github.com/Feyzee61/cssfontface_lapse
+     📝 CSSFontFace WebKit Exploit & Lapse Kernel Exploit for PS4
+     🏷  —
+[2026-07-04 19:16:07 UTC] [NEW]   🆕 📦 bysyblaystyshn553-bit/hggfhredftgh
+     ⭐ 0  🗣 JavaScript  📅 2026-07-04
+     🔗 https://github.com/bysyblaystyshn553-bit/hggfhredftgh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 19:16:07 UTC] [NEW]   🆕 📦 jakeloai/Exploit-Chain-Suggester
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/jakeloai/Exploit-Chain-Suggester
+     📝 A CLI tool for penetration testers and bug bounty hunters to discover, build, an…
+     🏷  —
+[2026-07-04 19:16:07 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-04 19:16:07 UTC] [UPD]   📢 📦 0xAquila/stagenet-writeup
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/0xAquila/stagenet-writeup
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-04 19:16:07 UTC] [INFO] ============================================================
+[2026-07-04 19:16:07 UTC] [INFO] Completato — 34 nuovi, 4 aggiornati, 0 errori
+[2026-07-04 19:16:07 UTC] [INFO] ============================================================
