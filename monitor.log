@@ -30671,3 +30671,142 @@
 [2026-07-04 03:19:17 UTC] [INFO] ============================================================
 [2026-07-04 03:19:17 UTC] [INFO] Completato — 23 nuovi, 4 aggiornati, 0 errori
 [2026-07-04 03:19:17 UTC] [INFO] ============================================================
+[2026-07-04 08:39:14 UTC] [INFO] ============================================================
+[2026-07-04 08:39:14 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-04 08:39:14 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-04 08:39:14 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-04 08:39:14 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-04 08:39:14 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-04 08:39:14 UTC] [INFO] ============================================================
+[2026-07-04 08:39:14 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-04 08:39:14 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-04 08:39:16 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 08:39:16 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-04 08:39:16 UTC] [NEW]   🆕 📦 ethanrxla/c3po-node
+     ⭐ 1  🗣 Go  📅 2026-07-04
+     🔗 https://github.com/ethanrxla/c3po-node
+     📝 Persistent Windows C2 lab — red/blue team exercise. For educational purposes. Au…
+     🏷  —
+[2026-07-04 08:39:16 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-04 08:39:16 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-04 08:39:16 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-04 08:39:18 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 hdyrawan/agentic-misp-mcp
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/hdyrawan/agentic-misp-mcp
+     📝 Workflow-first MCP server for MISP threat intelligence, with agentic IOC investi…
+     🏷  cybersecurity, fastmcp, incident-response, mcp, misp, osint, python, soc, threat-intelligence
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 shafa-3627/Behavior-Based-Endpoint-Security-System
+     ⭐ 0  🗣 HTML  📅 2026-07-04
+     🔗 https://github.com/shafa-3627/Behavior-Based-Endpoint-Security-System
+     📝 Behavior-Based Endpoint Threat Detection System is a cybersecurity solution that…
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 shivakumar328/IRONYX_Process_Guard
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/shivakumar328/IRONYX_Process_Guard
+     📝 Professional-grade Linux Endpoint Detection and Response (EDR) system with Cryst…
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 OliverTThomas/investigation-writeups
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/OliverTThomas/investigation-writeups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 Roman-Layer01/active-directory-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/Roman-Layer01/active-directory-detection-lab
+     📝 Active Directory and Windows 11 security engineering lab focusing on offline cre…
+     🏷  active-directory, cybersecurity, detection-engineering, infosec, siem
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 tharuntulasi06/TATA-v2x
+     ⭐ 0  🗣 TypeScript  📅 2026-07-04
+     🔗 https://github.com/tharuntulasi06/TATA-v2x
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 nachikettapas/Improving-LLM-Reliability
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/nachikettapas/Improving-LLM-Reliability
+     📝 Repository for research paper on Improving LLM Reliability
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 varmadisha/Custom-Payload-Encoder-Obfuscation-Framework
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/varmadisha/Custom-Payload-Encoder-Obfuscation-Framework
+     📝 This project demonstrates, in a safe educational setting, how payload encoding a…
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 earthal-labs/mantle
+     ⭐ 0  🗣 Rust  📅 2026-07-03
+     🔗 https://github.com/earthal-labs/mantle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 monosun/ksecportal
+     ⭐ 0  🗣 Vue  📅 2026-07-04
+     🔗 https://github.com/monosun/ksecportal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 AyeshaAbbas-engg/masq_detector
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/AyeshaAbbas-engg/masq_detector
+     📝 A lightweight Python CLI tool that detects file-extension masquerading by compar…
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 Microsoft-Defender-for-Endpoint/.github
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/Microsoft-Defender-for-Endpoint/.github
+     📝 Download Microsoft Defender for Endpoint to help protect Windows, macOS, Linux, …
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 vedpatel54116/Titan_Player
+     ⭐ 0  🗣 Swift  📅 2026-07-03
+     🔗 https://github.com/vedpatel54116/Titan_Player
+     📝 Titan Player — A native macOS video player built with Swift and Metal. Dual deco…
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 dualemahad1-gif/compliance-automation-tool
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/dualemahad1-gif/compliance-automation-tool
+     📝 Python CLI tool that audits system configurations against security compliance re…
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 quickernetizen/quickernetizen
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/quickernetizen/quickernetizen
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 rahul-s20/zenith
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/rahul-s20/zenith
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 08:39:18 UTC] [NEW]   🆕 📦 244556089/secops-agent
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/244556089/secops-agent
+     📝 AI-powered SecOps alert triage agent with rule engine, MITRE ATT&CK mapping, RAG…
+     🏷  —
+[2026-07-04 08:39:18 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-04 08:39:18 UTC] [UPD]   📢 📦 maxytmaxyt/wii-controler-esp
+     ⭐ 0  🗣 C  📅 2026-07-03
+     🔗 https://github.com/maxytmaxyt/wii-controler-esp
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-04 08:39:18 UTC] [UPD]   📢 📦 mr-r3b00t/org_cyber_attack_sim
+     ⭐ 0  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/mr-r3b00t/org_cyber_attack_sim
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-04 08:39:18 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-04 08:39:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-04 08:39:19 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 08:39:19 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-04 08:39:19 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-04 08:39:19 UTC] [UPD]   📢 📦 AdhiHub/ADHICODE
+     ⭐ 0  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/AdhiHub/ADHICODE
+     📝 ADHICODE - Terminal AI Assistant. Zero Refusal. Full Privacy. Runs 100% Offline.
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-04 08:39:19 UTC] [UPD]   📢 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-04 08:39:19 UTC] [INFO] ============================================================
+[2026-07-04 08:39:19 UTC] [INFO] Completato — 18 nuovi, 4 aggiornati, 0 errori
+[2026-07-04 08:39:19 UTC] [INFO] ============================================================
