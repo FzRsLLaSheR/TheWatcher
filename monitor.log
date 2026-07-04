@@ -30810,3 +30810,296 @@
 [2026-07-04 08:39:19 UTC] [INFO] ============================================================
 [2026-07-04 08:39:19 UTC] [INFO] Completato — 18 nuovi, 4 aggiornati, 0 errori
 [2026-07-04 08:39:19 UTC] [INFO] ============================================================
+[2026-07-04 13:36:26 UTC] [INFO] ============================================================
+[2026-07-04 13:36:26 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-04 13:36:26 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-04 13:36:26 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-04 13:36:26 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-04 13:36:26 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-04 13:36:26 UTC] [INFO] ============================================================
+[2026-07-04 13:36:26 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-04 13:36:26 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-04 13:36:28 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 13:36:28 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-04 13:36:28 UTC] [NEW]   🆕 📦 Dorry-Coder/LLM_DriverDiscovery
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/Dorry-Coder/LLM_DriverDiscovery
+     📝 用LLM去寻找驱动，优先关注地域性小众软件驱动（地域优先级：1.美国台湾，2.日韩，3.俄罗斯及其他），主机端硬件驱动（类似鲁大师cpu温度那种，品牌电脑官方助…
+     🏷  —
+[2026-07-04 13:36:28 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-04 13:36:28 UTC] [UPD]   📢 📦 S1lkys/Check-DeviceGuard
+     ⭐ 1  🗣 PowerShell  📅 2026-07-02
+     🔗 https://github.com/S1lkys/Check-DeviceGuard
+     📝 Check DeviceGuard configurations to assess the possibilities of a BYOVD attack.
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-04 13:36:28 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-04 13:36:28 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-04 13:36:30 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 48 NUOVI repository:
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 srinivasw54/system-security-testing-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/srinivasw54/system-security-testing-lab
+     📝 A hands-on system security testing lab demonstrating Windows and Linux security …
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 vitorvbarcelos/edrom-ufu
+     ⭐ 0  🗣 JavaScript  📅 2026-07-04
+     🔗 https://github.com/vitorvbarcelos/edrom-ufu
+     📝 Site edrom
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 refluxio/MPVKit
+     ⭐ 0  🗣 Swift  📅 2026-07-04
+     🔗 https://github.com/refluxio/MPVKit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 chidiep2312/edr-telemetry-noise
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-04
+     🔗 https://github.com/chidiep2312/edr-telemetry-noise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 sundayayandele/nl-edrill
+     ⭐ 0  🗣 HTML  📅 2026-07-04
+     🔗 https://github.com/sundayayandele/nl-edrill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 SIDOUmed/SQL-Server-Targeted-Malware-Campaign-Investigation
+     ⭐ 0  🗣 YARA  📅 2026-07-04
+     🔗 https://github.com/SIDOUmed/SQL-Server-Targeted-Malware-Campaign-Investigation
+     📝 Forensic Analysis Report: MemBase.mem
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 alivirgo/SentryLoom
+     ⭐ 1  🗣 JavaScript  📅 2026-07-04
+     🔗 https://github.com/alivirgo/SentryLoom
+     📝 Open-source, offline-first Windows endpoint security and antivirus with malware …
+     🏷  antivirus, blue-team, clamav, cybersecurity, dns-security, edr, endpoint-security, firewall, incident-response, javascript, malware-detection, nodejs, on-premises, open-source, powershell, ransomware-protection, security-tools, sqlite, threat-intelligence, windows
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 monchier/minecraft-server-pj
+     ⭐ 0  🗣 HCL  📅 2026-07-04
+     🔗 https://github.com/monchier/minecraft-server-pj
+     📝 Modded Minecraft server on AWS, managed with Terraform
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 Mr-AkshatBhatnagar/Nutshell
+     ⭐ 0  🗣 JavaScript  📅 2026-07-04
+     🔗 https://github.com/Mr-AkshatBhatnagar/Nutshell
+     📝 A unified security operations portal that aggregates VMDR, EDR (Endpoint Detecti…
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 JagsZ/portcullis
+     ⭐ 0  🗣 Shell  📅 2026-07-04
+     🔗 https://github.com/JagsZ/portcullis
+     📝 One-command security self-audit for Linux & macOS: find open ports, firewall gap…
+     🏷  bash, cli, evsecops, hardening, infosec, linux, macos, security, security-audit, shell
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 bloggins/PS-Shellcode-Runner-EDRBypass
+     ⭐ 0  🗣 PowerShell  📅 2026-07-04
+     🔗 https://github.com/bloggins/PS-Shellcode-Runner-EDRBypass
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 Robertnile/Tunneling-in-Plain-Sight-Detecting-DNS-C2-with-Zeek-and-Splunk
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/Robertnile/Tunneling-in-Plain-Sight-Detecting-DNS-C2-with-Zeek-and-Splunk
+     📝 Simulated a full DNS tunneling attack using dnscat2 and built three behavioral d…
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 exlipapro-creator/EdRetail
+     ⭐ 0  🗣 TypeScript  📅 2026-07-04
+     🔗 https://github.com/exlipapro-creator/EdRetail
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 qwythos-mythos/qwythos
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/qwythos-mythos/qwythos
+     📝 Uncensored Mythos-class desktop client. Runs Qwythos-9B locally on a 3060. 1M co…
+     🏷  1m-context-ai, abliterated-llm, claude-fable-alternative, claude-mythos-alternative, cybersec, download-qwythos, install-qwythos, local-llm, malware-analysis, qwable-alternative, qwythos, qwythos-9b, qwythos-downloader, qwythos-installer, red-teaming, uncensored-ai, yarn-scaling, zero-trust-security
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openVAS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openVAS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openVDBS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openVDBS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openWATS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openWATS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openWMS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openWMS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openWSM
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openWSM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openXDR
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openXDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 kur7-start/edrqbi
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/kur7-start/edrqbi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openUEBA
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openUEBA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openTMS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openTMS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openTIS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openTIS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openTHS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openTHS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openWAF
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openWAF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openSSAP
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openSSAP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openSPMS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openSPMS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openSOAR
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openSOAR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openSIEM
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openSIEM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openSDLC
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openSDLC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openSCMDB
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openSCMDB
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openQMS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openQMS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openPTS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openPTS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openPMS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openPMS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openPLM
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openPLM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openNSRT
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openNSRT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 Keerthanapendli12/Bluetooth-sniffer
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/Keerthanapendli12/Bluetooth-sniffer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openNDR
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openNDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openMES
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openMES
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openIOTSOC
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openIOTSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openITSM
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openITSM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openLAS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openLAS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openIoTS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openIoTS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openHoneyPot
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openHoneyPot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openFMS
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openFMS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openERP
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openERP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [NEW]   🆕 📦 zrf-rocket/openEDR
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/zrf-rocket/openEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 13:36:30 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-04 13:36:30 UTC] [UPD]   📢 📦 emranyounasdxb-ai/edrive-water-sports
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/emranyounasdxb-ai/edrive-water-sports
+     📝 Premium static booking and inventory platform for eDrive Water Sports, built wit…
+     🏷  booking-system, cpanel, dubai, inventory-management, nextjs15, static-site, supabase, tailwindcss-v4, typescript, water-sports
+     🔄 Motivo: repo recente (2gg)
+[2026-07-04 13:36:30 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-04 13:36:30 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-04 13:36:32 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 13:36:32 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-04 13:36:32 UTC] [NEW]   🆕 📦 darch244/CRTO-Certified-Red-Team-Operator-study-notes
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/darch244/CRTO-Certified-Red-Team-Operator-study-notes
+     📝 Comprehensive CRTO (Certified Red Team Operator) study notes, lab walkthroughs, …
+     🏷  —
+[2026-07-04 13:36:32 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-04 13:36:32 UTC] [UPD]   📢 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-04 13:36:32 UTC] [INFO] ============================================================
+[2026-07-04 13:36:32 UTC] [INFO] Completato — 50 nuovi, 3 aggiornati, 0 errori
+[2026-07-04 13:36:32 UTC] [INFO] ============================================================
