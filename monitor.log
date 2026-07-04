@@ -30507,3 +30507,167 @@
 [2026-07-03 19:25:12 UTC] [INFO] ============================================================
 [2026-07-03 19:25:12 UTC] [INFO] Completato — 22 nuovi, 5 aggiornati, 0 errori
 [2026-07-03 19:25:12 UTC] [INFO] ============================================================
+[2026-07-04 03:19:12 UTC] [INFO] ============================================================
+[2026-07-04 03:19:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-04 03:19:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-04 03:19:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-04 03:19:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-04 03:19:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-04 03:19:12 UTC] [INFO] ============================================================
+[2026-07-04 03:19:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-04 03:19:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-04 03:19:13 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 03:19:13 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-04 03:19:13 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-04 03:19:13 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-04 03:19:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-04 03:19:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 dingyamwan/edrbmp
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/dingyamwan/edrbmp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 AshPokemonTCG/stochastic-dark-energy-ou
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/AshPokemonTCG/stochastic-dark-energy-ou
+     📝 Ornstein-Uhlenbeck model for dark energy fluctuations: BAO likelihood test again…
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 yosuke-nakamori/4ubrain-asset
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/yosuke-nakamori/4ubrain-asset
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 mikemackintosh/zupershell
+     ⭐ 0  🗣 Swift  📅 2026-07-04
+     🔗 https://github.com/mikemackintosh/zupershell
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 huanglanzhiguan/InjectorTraining
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/huanglanzhiguan/InjectorTraining
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 dualemahad1-gif/IOC-Scanner
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/dualemahad1-gif/IOC-Scanner
+     📝 A Python-based IOC scanner that checks a system for malicious file hashes, suspi…
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 tresscross/cloud-detection-chokepoints
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/tresscross/cloud-detection-chokepoints
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 kinnector/kinnector-collect
+     ⭐ 0  🗣 Shell  📅 2026-07-04
+     🔗 https://github.com/kinnector/kinnector-collect
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 spacegiyou/agent-quarantine
+     ⭐ 0  🗣 Rust  📅 2026-07-04
+     🔗 https://github.com/spacegiyou/agent-quarantine
+     📝 Local command firewall for AI coding agents: block dangerous commands, ask on ri…
+     🏷  ai, ai-agents, ai-coding-agents, audit-log, cli, codex, command-line-tool, cybersecurity, developer-tools, devsecops, local-first, mcp, policy-engine, prompt-injection, rust, sandbox, security, security-tools, supply-chain-security, terminal
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 JakPot42/risk-correlator
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/JakPot42/risk-correlator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 GonzaBot/wazuh-siem-multi-source-correlation
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/GonzaBot/wazuh-siem-multi-source-correlation
+     📝 Laboratorio de Wazuh como SIEM: correlación de eventos multi-fuente (autenticaci…
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 dest4590/gs60-protector
+     ⭐ 0  🗣 Rust  📅 2026-07-04
+     🔗 https://github.com/dest4590/gs60-protector
+     📝 A Windows x64 PE packer written in Rust
+     🏷  packer, pe, reverse-engineering, rust, x64, x86
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 jkwebsec/NexL-CodingBlocks-Assignments-2
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-03
+     🔗 https://github.com/jkwebsec/NexL-CodingBlocks-Assignments-2
+     📝 AI-powered semantic search engine for cybersecurity threat intelligence. Built w…
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 theekshana623/64bit-Inline-Hooking-Engine
+     ⭐ 0  🗣 C++  📅 2026-07-03
+     🔗 https://github.com/theekshana623/64bit-Inline-Hooking-Engine
+     📝 A 64-bit research-oriented Inline API Hooking Engine implemented in C++ to demon…
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 lvx9101-ux/HUNTER
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/lvx9101-ux/HUNTER
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 famoussa81/hermes-agent-knowledge
+     ⭐ 0  🗣 Python  📅 2026-07-03
+     🔗 https://github.com/famoussa81/hermes-agent-knowledge
+     📝 Hermes Agent - Complete skills, knowledge, memory and restoration toolkit for fa…
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 PaxinNobis/Ciberseguridad-Phishing-Grupo2
+     ⭐ 0  🗣 HTML  📅 2026-07-03
+     🔗 https://github.com/PaxinNobis/Ciberseguridad-Phishing-Grupo2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 Ely-Retr0/Dust
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Ely-Retr0/Dust
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 Inib12/AgentTesla-SOC-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/Inib12/AgentTesla-SOC-Investigation
+     📝 Full end-to-end SOC investigation of an AgentTesla infostealer attack, from phis…
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 markjessre/edrama
+     ⭐ 0  🗣 N/A  📅 2026-07-03
+     🔗 https://github.com/markjessre/edrama
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-04 03:19:16 UTC] [NEW]   🆕 📦 yatuk/soc-n8n-workflows
+     ⭐ 2  🗣 JavaScript  📅 2026-07-03
+     🔗 https://github.com/yatuk/soc-n8n-workflows
+     📝 🛡️ 10 production-shaped SOC automation playbooks for n8n  LLM-assisted alert tri…
+     🏷  blue-team, detection-engineering, incident-response, ioc-enrichment, n8n, phishing-detection, security-automation, soar, soc, threat-intelligence
+[2026-07-04 03:19:16 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-04 03:19:16 UTC] [UPD]   📢 📦 jackxunkun163/bt-test
+     ⭐ 0  🗣 C  📅 2026-07-03
+     🔗 https://github.com/jackxunkun163/bt-test
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-04 03:19:16 UTC] [UPD]   📢 📦 TTB-OA/bl-compliance-dbt
+     ⭐ 1  🗣 PLSQL  📅 2026-06-29
+     🔗 https://github.com/TTB-OA/bl-compliance-dbt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-04 03:19:16 UTC] [UPD]   📢 📦 redevops-io/context-runtime
+     ⭐ 86  🗣 Python  📅 2026-06-29
+     🔗 https://github.com/redevops-io/context-runtime
+     📝 Context Runtime — a database query planner for LLM context. Decides what a model…
+     🏷  agentic-ai, ai-infrastructure, context-engineering, context-management, context-runtime, llm, llmops, mcp, python, query-planner, rag, retrieval, semantic-search
+     🔄 Motivo: repo recente (4gg) | nuovi topic: context-engineering, context-runtime, context-management, llmops, mcp, agentic-ai, python, rag, semantic-search, retrieval, llm, query-planner, ai-infrastructure
+[2026-07-04 03:19:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-04 03:19:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-04 03:19:17 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-04 03:19:17 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-04 03:19:17 UTC] [NEW]   🆕 📦 Chukwuemekamusic/assessment-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-07-03
+     🔗 https://github.com/Chukwuemekamusic/assessment-sandbox
+     📝 Docker-based sandbox for safely running untrusted recruiter assessment repos — c…
+     🏷  —
+[2026-07-04 03:19:17 UTC] [NEW]   🆕 📦 schuyberg/cc-container
+     ⭐ 0  🗣 Shell  📅 2026-07-03
+     🔗 https://github.com/schuyberg/cc-container
+     📝 claude code contained (docker)
+     🏷  —
+[2026-07-04 03:19:17 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-04 03:19:17 UTC] [UPD]   📢 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-04 03:19:17 UTC] [INFO] ============================================================
+[2026-07-04 03:19:17 UTC] [INFO] Completato — 23 nuovi, 4 aggiornati, 0 errori
+[2026-07-04 03:19:17 UTC] [INFO] ============================================================
