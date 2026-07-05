@@ -31912,3 +31912,167 @@
 [2026-07-05 13:42:52 UTC] [INFO] ============================================================
 [2026-07-05 13:42:52 UTC] [INFO] Completato — 33 nuovi, 15 aggiornati, 0 errori
 [2026-07-05 13:42:52 UTC] [INFO] ============================================================
+[2026-07-05 19:19:34 UTC] [INFO] ============================================================
+[2026-07-05 19:19:34 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-05 19:19:34 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-05 19:19:34 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-05 19:19:34 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-05 19:19:34 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-05 19:19:34 UTC] [INFO] ============================================================
+[2026-07-05 19:19:34 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-05 19:19:34 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-05 19:19:36 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-05 19:19:36 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-05 19:19:36 UTC] [NEW]   🆕 📦 Rikka-Sei/byovd-research
+     ⭐ 0  🗣 Rust  📅 2026-07-05
+     🔗 https://github.com/Rikka-Sei/byovd-research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:36 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-05 19:19:36 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-05 19:19:36 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-05 19:19:39 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 endgamec2framework/endgame
+     ⭐ 0  🗣 Go  📅 2026-07-05
+     🔗 https://github.com/endgamec2framework/endgame
+     📝 ENDGAME C2 FRAMEWORK — Evasion-first command and control for professional red te…
+     🏷  ai, bof, c2, command-and-control, golang, offensive-security, penetration-testing, post-exploitation, red-team, security-research
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 iVanny11-tech/soc-lab-microsoft-sentinel
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/iVanny11-tech/soc-lab-microsoft-sentinel
+     📝 Enterprise SOC simulation — Microsoft Sentinel + Defender XDR + Entra ID Protect…
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 entirius/entirius-py-edrone-sdk
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/entirius/entirius-py-edrone-sdk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 Walusimbi-Leon1/ds3-controller-windows
+     ⭐ 1  🗣 PowerShell  📅 2026-07-05
+     🔗 https://github.com/Walusimbi-Leon1/ds3-controller-windows
+     📝 Use a PlayStation 3 DualShock 3 controller on Windows 10/11 over USB and Bluetoo…
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 karthikgk1001/Offsec-SigmaRule
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/karthikgk1001/Offsec-SigmaRule
+     📝 Offensive security research → high-fidelity Sigma detection rules. WSL EDR evasi…
+     🏷  edr, red-team, sigma-rules, sysmon, threat-detection
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 voldenbar/EdrfjmNP
+     ⭐ 1  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/voldenbar/EdrfjmNP
+     📝 【Java计算机毕业设计分享】基于SSM的员工薪酬管理系统，Java开发 Python开发 深度学习 二次开发 毕业设计 实战项目【附源码、文档报告、代码讲解、…
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 Eberth-sys/Eberth-sys
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/Eberth-sys/Eberth-sys
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 pablocastelao/LogAnonymizer
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/pablocastelao/LogAnonymizer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 AndresMonrreal/obsidian-notes
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/AndresMonrreal/obsidian-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 Jairoy2426/wazuh-siem-homelab
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/Jairoy2426/wazuh-siem-homelab
+     📝 nterprise-grade Wazuh 4.12 SIEM Home Lab — FIM · Vulnerability Detection · SCA ·…
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 afinana/go-dataspace-components
+     ⭐ 0  🗣 Go  📅 2026-07-05
+     🔗 https://github.com/afinana/go-dataspace-components
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 yuvikagogar/cyber-security-llm-agents
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-05
+     🔗 https://github.com/yuvikagogar/cyber-security-llm-agents
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 jessefmoore/uwb_club
+     ⭐ 0  🗣 CSS  📅 2026-07-05
+     🔗 https://github.com/jessefmoore/uwb_club
+     📝 UWB - Infrastructure & Security Automation
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 LakshmiPriyaBhimireddy/SOC-with-IBM-QRADAR-SPLUNK-SIEM-
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/LakshmiPriyaBhimireddy/SOC-with-IBM-QRADAR-SPLUNK-SIEM-
+     📝  This repository documents my journey of learning SOC operations, IBM QRadar, Sp…
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 jhong8912/corporate-ad-wazuh-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/jhong8912/corporate-ad-wazuh-lab
+     📝 An enterprise-grade virtualization lab featuring an Active Directory domain moni…
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 sasakiblog26-lgtm/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/sasakiblog26-lgtm/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 Ashwatha4502/lastpass-soc2-assessment
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/Ashwatha4502/lastpass-soc2-assessment
+     📝 SOC 2 gap assessment of the 2022 LastPass breach, with TSC maturity scoring
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 Adityapfm99/cyber-simulator
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/Adityapfm99/cyber-simulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 Dark-Knight-Ash/Keylogger-Malware-Detector-Tool
+     ⭐ 1  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/Dark-Knight-Ash/Keylogger-Malware-Detector-Tool
+     📝 A blue-team Python tool for Windows endpoint analysis — detects keyloggers, cred…
+     🏷  —
+[2026-07-05 19:19:39 UTC] [NEW]   🆕 📦 KishanR-dev/esp32-classic-bluetooth-hid-gamepad
+     ⭐ 0  🗣 C++  📅 2026-07-05
+     🔗 https://github.com/KishanR-dev/esp32-classic-bluetooth-hid-gamepad
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:39 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-05 19:19:39 UTC] [UPD]   📢 📦 adhithyaragavan/sentinel-data-challenge
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/adhithyaragavan/sentinel-data-challenge
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-05 19:19:39 UTC] [UPD]   📢 📦 CyberMuanya/Muanya-Portfolio-Project
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/CyberMuanya/Muanya-Portfolio-Project
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-05 19:19:39 UTC] [UPD]   📢 📦 Divisionless/OpenSpan
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/Divisionless/OpenSpan
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-05 19:19:39 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-05 19:19:39 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-05 19:19:41 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-05 19:19:41 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-05 19:19:41 UTC] [NEW]   🆕 📦 TheRealClarity/ClearSword
+     ⭐ 0  🗣 C  📅 2026-07-05
+     🔗 https://github.com/TheRealClarity/ClearSword
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:41 UTC] [NEW]   🆕 📦 bysyblaystyshn553-bit/Technomic7410
+     ⭐ 0  🗣 JavaScript  📅 2026-07-05
+     🔗 https://github.com/bysyblaystyshn553-bit/Technomic7410
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-05 19:19:41 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-05 19:19:41 UTC] [UPD]   📢 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 One directive → a herd of AI agents that plan, build, verify, and re-plan across…
+     🏷  agentic, ai-agents, autonomous-agents, code-generation, developer-tools, golang, llm, mcp, multi-agent, ollama, orchestration
+     🔄 Motivo: repo recente (2gg)
+[2026-07-05 19:19:41 UTC] [INFO] ============================================================
+[2026-07-05 19:19:41 UTC] [INFO] Completato — 23 nuovi, 4 aggiornati, 0 errori
+[2026-07-05 19:19:41 UTC] [INFO] ============================================================
