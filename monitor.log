@@ -32627,3 +32627,147 @@
 [2026-07-06 15:36:43 UTC] [INFO] ============================================================
 [2026-07-06 15:36:43 UTC] [INFO] Completato — 32 nuovi, 2 aggiornati, 0 errori
 [2026-07-06 15:36:43 UTC] [INFO] ============================================================
+[2026-07-06 19:59:47 UTC] [INFO] ============================================================
+[2026-07-06 19:59:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-06 19:59:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-06 19:59:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-06 19:59:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-06 19:59:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-06 19:59:47 UTC] [INFO] ============================================================
+[2026-07-06 19:59:47 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-06 19:59:47 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-06 19:59:48 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 19:59:48 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-06 19:59:48 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-06 19:59:48 UTC] [UPD]   📢 📦 v8k6b2jjps-prog/PPLcontrol
+     ⭐ 1  🗣 PowerShell  📅 2026-07-04
+     🔗 https://github.com/v8k6b2jjps-prog/PPLcontrol
+     📝 POC ps1 library to explore kernel option
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-06 19:59:48 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-06 19:59:48 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-06 19:59:51 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 alive-xd/Trace
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/alive-xd/Trace
+     📝 An empirical evaluation of Sigma rules against real, historically captured malwa…
+     🏷  cybersecurity, detection-engineering, evtx, python, sigma, soc, threat-hunting
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 asd125202/qc-robotics-2026
+     ⭐ 0  🗣 HTML  📅 2026-07-05
+     🔗 https://github.com/asd125202/qc-robotics-2026
+     📝 Repository for the 2026 Qualcomm embodied intelligence and robotics developer co…
+     🏷  aidlux, edge-ai, embodied-ai, qualcomm, robotics
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 SyedShaheerHussain/JavaScript-Malware-Analyzer-HTML
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/SyedShaheerHussain/JavaScript-Malware-Analyzer-HTML
+     📝 Analyze suspicious JavaScript files for:  Obfuscation, Eval usage, Dynamic code …
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 pmcgovernkuvare/k8s-platform-demo
+     ⭐ 0  🗣 Shell  📅 2026-07-06
+     🔗 https://github.com/pmcgovernkuvare/k8s-platform-demo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 daig0rian/moto-touring-ai-digest
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/daig0rian/moto-touring-ai-digest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 rajattiwari-stack/job-sentinel
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/rajattiwari-stack/job-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 gingploy03/ADD-host-Zabbix-EDR-V2
+     ⭐ 0  🗣 JavaScript  📅 2026-07-06
+     🔗 https://github.com/gingploy03/ADD-host-Zabbix-EDR-V2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 kunal5620/Phishing-Threat-Taxonomy-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/kunal5620/Phishing-Threat-Taxonomy-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 MAYORTHELION/AegisID-AI
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/MAYORTHELION/AegisID-AI
+     📝 Autonomous AI-powered Identity Threat Detection & Response (ITDR) platform. 9-ag…
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 syedghulamm50/Incident-Response-Plan-Ransomware-Playbook-NIST-MITRE-ATT-CK-
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/syedghulamm50/Incident-Response-Plan-Ransomware-Playbook-NIST-MITRE-ATT-CK-
+     📝 ncident Response Plan and Ransomware Playbook based on NIST SP 800-61 & MITRE AT…
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 deb71297/PINK1-ARPD-Mitophagy-Computational-Analysis
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/deb71297/PINK1-ARPD-Mitophagy-Computational-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 Kartik-T29/DTIP
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Kartik-T29/DTIP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 sriman676/NEXUS
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/sriman676/NEXUS
+     📝 Identity-centric cyber resilience platform for critical infrastructure, combinin…
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 wondershare-setup/Wondershare-EdrawMind-Pro-12.2.2.1053
+     ⭐ 0  🗣 HTML  📅 2026-07-06
+     🔗 https://github.com/wondershare-setup/Wondershare-EdrawMind-Pro-12.2.2.1053
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 hartlez022/EDrzUmNLOr
+     ⭐ 1  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/hartlez022/EDrzUmNLOr
+     📝 【Python计算机毕业设计分享】基于Python+深度学习的手镯缺陷检测平台，MySQL Python开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 Park52/pqc-edr
+     ⭐ 0  🗣 C++  📅 2026-07-06
+     🔗 https://github.com/Park52/pqc-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 YoyuQre/CyberIntel-Nexus
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/YoyuQre/CyberIntel-Nexus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 19:59:51 UTC] [NEW]   🆕 📦 callofthev0id/n8n-automation-suite
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/callofthev0id/n8n-automation-suite
+     📝 Production-grade n8n automation suite for MSP operations: multi-source inventory…
+     🏷  —
+[2026-07-06 19:59:51 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-06 19:59:51 UTC] [UPD]   📢 📦 chingdrop/credential-audit
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/chingdrop/credential-audit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-06 19:59:51 UTC] [UPD]   📢 📦 mikemackintosh/zupershell
+     ⭐ 0  🗣 Swift  📅 2026-07-04
+     🔗 https://github.com/mikemackintosh/zupershell
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-06 19:59:51 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-06 19:59:51 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-06 19:59:52 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 19:59:52 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-06 19:59:52 UTC] [NEW]   🆕 📦 deglerj/immure
+     ⭐ 0  🗣 Shell  📅 2026-07-06
+     🔗 https://github.com/deglerj/immure
+     📝 Sandbox Claude Code inside firejail behind a user-approved filesystem allowlist
+     🏷  —
+[2026-07-06 19:59:52 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-06 19:59:52 UTC] [UPD]   📢 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 One directive → a herd of AI agents that plan, build, verify, and re-plan across…
+     🏷  agentic, ai-agents, autonomous-agents, code-generation, developer-tools, golang, llm, mcp, multi-agent, ollama, orchestration
+     🔄 Motivo: repo recente (3gg)
+[2026-07-06 19:59:52 UTC] [INFO] ============================================================
+[2026-07-06 19:59:52 UTC] [INFO] Completato — 19 nuovi, 4 aggiornati, 0 errori
+[2026-07-06 19:59:52 UTC] [INFO] ============================================================
