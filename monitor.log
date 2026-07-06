@@ -32430,3 +32430,200 @@
 [2026-07-06 10:26:07 UTC] [INFO] ============================================================
 [2026-07-06 10:26:07 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
 [2026-07-06 10:26:07 UTC] [INFO] ============================================================
+[2026-07-06 15:36:36 UTC] [INFO] ============================================================
+[2026-07-06 15:36:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-06 15:36:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-06 15:36:36 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-06 15:36:36 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-06 15:36:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-06 15:36:36 UTC] [INFO] ============================================================
+[2026-07-06 15:36:36 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-06 15:36:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-06 15:36:38 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 15:36:38 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-06 15:36:38 UTC] [NEW]   🆕 📦 britbufkin1225-web/cyber-skills
+     ⭐ 0  🗣 C  📅 2026-07-06
+     🔗 https://github.com/britbufkin1225-web/cyber-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:38 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-06 15:36:38 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-06 15:36:38 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-06 15:36:41 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 urmilasamarth-max/DA-urmsam2971
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-06
+     🔗 https://github.com/urmilasamarth-max/DA-urmsam2971
+     📝 New repository for portfolio
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 monobrau/hp-touchpointanalytics-cleanup
+     ⭐ 0  🗣 PowerShell  📅 2026-07-06
+     🔗 https://github.com/monobrau/hp-touchpointanalytics-cleanup
+     📝 Remove the HP Touchpoint Analytics service, uninstall entry, scheduled tasks, Dr…
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 Alon091/AnyLog_Hunter
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Alon091/AnyLog_Hunter
+     📝 A tool for quick scanning security logs (EDR, IPS, firewall, endpoint, SIEM, Lin…
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 britbufkin1225-web/cyber-skills
+     ⭐ 0  🗣 C  📅 2026-07-06
+     🔗 https://github.com/britbufkin1225-web/cyber-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 terrellwilliams/HomeLab-Overview
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/terrellwilliams/HomeLab-Overview
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 madiefication/Authenticating-USB-Ports-to-Implement-Physical-Security
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/madiefication/Authenticating-USB-Ports-to-Implement-Physical-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 Q240297/ransomware-c2-architecture
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Q240297/ransomware-c2-architecture
+     📝 3-tier ransomware C2 infrastructure simulation for educational security research…
+     🏷  c2, cybersecurity, education, python, ransomware, security-research, simulation
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 SouthMemphis/process_injection
+     ⭐ 0  🗣 C++  📅 2026-07-06
+     🔗 https://github.com/SouthMemphis/process_injection
+     📝 Basic PE code on c++, without AV/EDR bypass, tested on Win10
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 xec412/XeraLdr
+     ⭐ 0  🗣 C  📅 2026-07-06
+     🔗 https://github.com/xec412/XeraLdr
+     📝 A stealthy and modular Windows loader designed to bypass modern EDR solutions us…
+     🏷  edr-evasion, malware-development, module-stomping, proxyapi, red-team, shellcode-loader, sleep-obfuscation, stealth-loader, win32api, zilean
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 DFreact/ksc_mngr
+     ⭐ 0  🗣 TypeScript  📅 2026-07-06
+     🔗 https://github.com/DFreact/ksc_mngr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 Jevxtn/Win-API-VCS
+     ⭐ 0  🗣 PowerShell  📅 2026-07-06
+     🔗 https://github.com/Jevxtn/Win-API-VCS
+     📝 Windows API Programming - Keylogger and Script 
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 majdiahmadi/venomrat-static-malware-analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/majdiahmadi/venomrat-static-malware-analysis
+     📝 Static malware analysis of a VenomRAT (Remote Access Trojan) sample - file ident…
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 quantumworld-dpdns-io/ZK-XDR-Graph-Agentless-XDR-ZK-Device-Trust-Federated-CTI-Lakehouse
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/quantumworld-dpdns-io/ZK-XDR-Graph-Agentless-XDR-ZK-Device-Trust-Federated-CTI-Lakehouse
+     📝 用 ZK device identity 當 endpoint / IoT / VDI / OT asset 的 trust root，再把 DNS、WAF、E…
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 srobroek/speckit-gate
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/srobroek/speckit-gate
+     📝 Generated, harness-agnostic workflow gates for spec-kit projects
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 bolzy1/EDR-testing-
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/bolzy1/EDR-testing-
+     📝 A PowerShell script to test EDR detection capabilities and alert pipelines
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 altius03/team-C-edr
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/altius03/team-C-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 automotive-security/Automotive-Security-Glossary
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/automotive-security/Automotive-Security-Glossary
+     📝 A glossary of automotive cybersecurity terminology that provides clear and conci…
+     🏷  automotive-security, carhacking
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 aprakash9272-prog/saip-platform
+     ⭐ 0  🗣 TypeScript  📅 2026-07-06
+     🔗 https://github.com/aprakash9272-prog/saip-platform
+     📝 Open Source AI Security Architecture Intelligence Platform
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 kvishahini7-ux/End-point-detection-and-response-EDR-Build
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/kvishahini7-ux/End-point-detection-and-response-EDR-Build
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 weilunteo/strava-club-mileage-compiler
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/weilunteo/strava-club-mileage-compiler
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 recuon/threat-intel-osint-dashboard
+     ⭐ 0  🗣 HTML  📅 2026-07-06
+     🔗 https://github.com/recuon/threat-intel-osint-dashboard
+     📝 Curated, GitHub-API-verified dashboard of open-source OSINT & threat-intelligenc…
+     🏷  awesome-list, cybersecurity, dashboard, github-pages, infosec, osint, security-tools, threat-intelligence
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 mbeje/secops-triage-pipeline
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/mbeje/secops-triage-pipeline
+     📝 SOC alert triage and vulnerability prioritization pipeline
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 amal-samed19/Conduct-a-Phishing-Simulation
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/amal-samed19/Conduct-a-Phishing-Simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 SHAROZ221/SecFlow-Engine
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/SHAROZ221/SecFlow-Engine
+     📝 Lightweight SOAR playbook engine that automates SOC alert triage — IOC enrichmen…
+     🏷  cyber-security, incident-response, playbookautomation, python, securityautomation, soar, soc, threat-intelligence
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 moskysarah/Threat-Intelligence-Analyst-
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/moskysarah/Threat-Intelligence-Analyst-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:41 UTC] [NEW]   🆕 📦 rozqfs3958/terminal-utils-edr88n98
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/rozqfs3958/terminal-utils-edr88n98
+     📝 Small CLI toolkit for project bootstrap and maintenance tasks.
+     🏷  —
+[2026-07-06 15:36:41 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-06 15:36:41 UTC] [UPD]   📢 📦 emranyounasdxb-ai/edrive-water-sports
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/emranyounasdxb-ai/edrive-water-sports
+     📝 Premium static booking and inventory platform for eDrive Water Sports, built wit…
+     🏷  booking-system, cpanel, dubai, inventory-management, nextjs15, static-site, supabase, tailwindcss-v4, typescript, water-sports
+     🔄 Motivo: repo recente (4gg)
+[2026-07-06 15:36:41 UTC] [UPD]   📢 📦 endgamec2framework/endgame
+     ⭐ 0  🗣 Go  📅 2026-07-05
+     🔗 https://github.com/endgamec2framework/endgame
+     📝 ENDGAME C2 FRAMEWORK — Evasion-first command and control for professional red te…
+     🏷  ai, bof, c2, command-and-control, golang, offensive-security, penetration-testing, post-exploitation, red-team, security-research
+     🔄 Motivo: repo recente (0gg)
+[2026-07-06 15:36:41 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-06 15:36:41 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-06 15:36:43 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 15:36:43 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-07-06 15:36:43 UTC] [NEW]   🆕 📦 kuyk15820-cpu/NewTest
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/kuyk15820-cpu/NewTest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:43 UTC] [NEW]   🆕 📦 AndresSY26/NEXUS_OS
+     ⭐ 0  🗣 TypeScript  📅 2026-07-06
+     🔗 https://github.com/AndresSY26/NEXUS_OS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:43 UTC] [NEW]   🆕 📦 automotive-security/Automotive-Security-Glossary
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/automotive-security/Automotive-Security-Glossary
+     📝 A glossary of automotive cybersecurity terminology that provides clear and conci…
+     🏷  automotive-security, carhacking
+[2026-07-06 15:36:43 UTC] [NEW]   🆕 📦 rittripathi/AI
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/rittripathi/AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:43 UTC] [NEW]   🆕 📦 DominikMedecki/PenTest-Notes
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/DominikMedecki/PenTest-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 15:36:43 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-06 15:36:43 UTC] [INFO] ============================================================
+[2026-07-06 15:36:43 UTC] [INFO] Completato — 32 nuovi, 2 aggiornati, 0 errori
+[2026-07-06 15:36:43 UTC] [INFO] ============================================================
