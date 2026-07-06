@@ -32076,3 +32076,182 @@
 [2026-07-05 19:19:41 UTC] [INFO] ============================================================
 [2026-07-05 19:19:41 UTC] [INFO] Completato — 23 nuovi, 4 aggiornati, 0 errori
 [2026-07-05 19:19:41 UTC] [INFO] ============================================================
+[2026-07-06 03:42:08 UTC] [INFO] ============================================================
+[2026-07-06 03:42:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-06 03:42:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-06 03:42:08 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-06 03:42:08 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-06 03:42:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-06 03:42:08 UTC] [INFO] ============================================================
+[2026-07-06 03:42:08 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-06 03:42:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-06 03:42:10 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 03:42:10 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-06 03:42:10 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-06 03:42:10 UTC] [UPD]   📢 📦 ITherso/monolith-test
+     ⭐ 0  🗣 Python  📅 2026-01-23
+     🔗 https://github.com/ITherso/monolith-test
+     📝 Elite Red Team Adversary Simulation & C2 Framework | Heavy Evasion | Encrypted B…
+     🏷  active-directory, adversary-emulation, c2-framework, edr-bypass, evasion, lateral-movement, offensive-security, penetration-testing, pentest, red-team
+     🔄 Motivo: nuovi topic: evasion, lateral-movement, pentest, active-directory, offensive-security, penetration-testing, red-team, c2-framework, adversary-emulation, edr-bypass
+[2026-07-06 03:42:10 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-06 03:42:10 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-06 03:42:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 goriyasno/kinnector-jvmti
+     ⭐ 0  🗣 C++  📅 2026-07-06
+     🔗 https://github.com/goriyasno/kinnector-jvmti
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 p4tho/yhwach
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/p4tho/yhwach
+     📝 windows edr
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 rajbanner/edrabg
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/rajbanner/edrabg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 kjn8m/edr5
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/kjn8m/edr5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 kjn8m/edr5g
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/kjn8m/edr5g
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 tjbhatti/Intune
+     ⭐ 0  🗣 PowerShell  📅 2026-07-06
+     🔗 https://github.com/tjbhatti/Intune
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 kinnector/wpwarden
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/kinnector/wpwarden
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 kinnector/warden
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/kinnector/warden
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 gentropic/detachment
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/gentropic/detachment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 kimjm1116-cmyk/EDR-agentlog-analyzer
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/kimjm1116-cmyk/EDR-agentlog-analyzer
+     📝 EDR agentlog-analyzer
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 veronikabelts1986/nessus-lab-2026
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/veronikabelts1986/nessus-lab-2026
+     📝 README.md
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 shivc04/awesome-agentic-devsecops
+     ⭐ 2  🗣 JavaScript  📅 2026-07-05
+     🔗 https://github.com/shivc04/awesome-agentic-devsecops
+     📝 🛡️🤖 A curated atlas of AI agents that secure the software lifecycle — from threa…
+     🏷  agentic-ai, ai-agents, awesome-list, devsecops, llm-security, security-automation
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 iVanny11-tech/iVanny11-tech
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/iVanny11-tech/iVanny11-tech
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 MomentumMarineFigure/edrawmax-workflow-automation
+     ⭐ 1  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/MomentumMarineFigure/edrawmax-workflow-automation
+     📝 Technical configuration utility for EdrawMax environment automation.
+     🏷  automation, business-software, configuration, cross-platform, design-software, desktop-app, devops, diagramming, drawing-tool, edraw, edrawmax, flowcharting, graphics, productivity, scripting, software-engineering, technical-drawing, utility, visual-communication, workflow-automation
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 ChemistZee/Energy_conservation
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-05
+     🔗 https://github.com/ChemistZee/Energy_conservation
+     📝 Molecular dynamics study of energy conservation and timestep-dependent stability…
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 Dockzumtower/edrawmind-workflow-automation
+     ⭐ 1  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/Dockzumtower/edrawmind-workflow-automation
+     📝 Technical configuration utility for Wondershare EdrawMind environment automation…
+     🏷  automation, brainstorming, concept-map, configuration, data-visualization, diagramming, edrawmind, graphic-organizer, mind-map-tool, mind-mapping, process-automation, productivity, software, tech-tool, technical, tool, utility, windows, windows-app, workflow-automation
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 FollowerFence34/edrawproj-workflow-automation
+     ⭐ 1  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/FollowerFence34/edrawproj-workflow-automation
+     📝 Technical configuration utility for Wondershare EdrawProj environment automation…
+     🏷  automation-scripts, business-software, cli-tool, collaboration, configuration-manager, desktop-app, devops, edrawproj, gantt-chart, macos, official-release, process-automation, productivity, project-management, project-planning, scripting, task-management, utility, windows, workflow-automation
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 idacyber1/clickfix-etherhiding-analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/idacyber1/clickfix-etherhiding-analysis
+     📝 Defender-focused analysis of a ClickFix + EtherHiding campaign - defanged IOCs, …
+     🏷  clickfix, detection-engineering, etherhiding, malware-analysis, social-engineering, threat-intelligence
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 Leonardo-Ely/bot-analise-phishing
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/Leonardo-Ely/bot-analise-phishing
+     📝 Educational phishing analysis bot with Gmail monitoring, IOC extraction, VirusTo…
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 onurozcan361/fall-of-edrassia
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/onurozcan361/fall-of-edrassia
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 bxrxkk/WinProcess-Explorer
+     ⭐ 1  🗣 C++  📅 2026-07-05
+     🔗 https://github.com/bxrxkk/WinProcess-Explorer
+     📝 A simple Win32 process viewer made with C++
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 Malikejder/Zerguz-SOCAgent-EN.py
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/Malikejder/Zerguz-SOCAgent-EN.py
+     📝 A modular SOC agent powered by a multi-threading architecture that combines netw…
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 Ramanpreet21/Muninn
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/Ramanpreet21/Muninn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 Malikejder/Zerguz-SOC-Agent-TR
+     ⭐ 0  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/Malikejder/Zerguz-SOC-Agent-TR
+     📝 Multi-threading mimariyle çalışan, ağ tabanlı saldırı tespiti (NIDS) ve uç nokta…
+     🏷  —
+[2026-07-06 03:42:12 UTC] [NEW]   🆕 📦 cyberhamza/cyberhamza
+     ⭐ 0  🗣 N/A  📅 2026-07-05
+     🔗 https://github.com/cyberhamza/cyberhamza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 03:42:12 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-06 03:42:12 UTC] [UPD]   📢 📦 earthal-labs/mantle
+     ⭐ 0  🗣 Rust  📅 2026-07-03
+     🔗 https://github.com/earthal-labs/mantle
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-06 03:42:12 UTC] [UPD]   📢 📦 tresscross/cloud-detection-chokepoints
+     ⭐ 0  🗣 N/A  📅 2026-07-04
+     🔗 https://github.com/tresscross/cloud-detection-chokepoints
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-06 03:42:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-06 03:42:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-06 03:42:13 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 03:42:13 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-06 03:42:13 UTC] [NEW]   🆕 📦 TbusOS/linux-kernel-security-oss
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/TbusOS/linux-kernel-security-oss
+     📝 内核安全检测工具库:六类工具编排 + 一键装依赖 + ksec 三层检测
+     🏷  —
+[2026-07-06 03:42:13 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-06 03:42:13 UTC] [UPD]   📢 📦 TheRealClarity/ClearSword
+     ⭐ 3  🗣 C  📅 2026-07-05
+     🔗 https://github.com/TheRealClarity/ClearSword
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-06 03:42:13 UTC] [INFO] ============================================================
+[2026-07-06 03:42:13 UTC] [INFO] Completato — 26 nuovi, 4 aggiornati, 0 errori
+[2026-07-06 03:42:13 UTC] [INFO] ============================================================
