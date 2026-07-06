@@ -32255,3 +32255,178 @@
 [2026-07-06 03:42:13 UTC] [INFO] ============================================================
 [2026-07-06 03:42:13 UTC] [INFO] Completato — 26 nuovi, 4 aggiornati, 0 errori
 [2026-07-06 03:42:13 UTC] [INFO] ============================================================
+[2026-07-06 10:26:01 UTC] [INFO] ============================================================
+[2026-07-06 10:26:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-06 10:26:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-06 10:26:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-06 10:26:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-06 10:26:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-06 10:26:01 UTC] [INFO] ============================================================
+[2026-07-06 10:26:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-06 10:26:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-06 10:26:02 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 10:26:02 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-06 10:26:02 UTC] [NEW]   🆕 📦 qiaozhiyi/nyx-ci-test
+     ⭐ 0  🗣 Rust  📅 2026-07-06
+     🔗 https://github.com/qiaozhiyi/nyx-ci-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-06 10:26:02 UTC] [UPD]   📢 📦 Dorry-Coder/LLM_DriverDiscovery
+     ⭐ 0  🗣 Python  📅 2026-07-04
+     🔗 https://github.com/Dorry-Coder/LLM_DriverDiscovery
+     📝 使用LLM去寻找BYOVD驱动，关注以下层面驱动，为三个并行的条件： 1.关注除中国大陆外的地域性驱动（地域优先级依次为：美国台湾欧洲，日韩，俄罗斯及其他） 2…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-06 10:26:02 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-06 10:26:02 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-06 10:26:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 SaravananKumarr/SaravananKumarr
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/SaravananKumarr/SaravananKumarr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 errolyan/hack-skills-Cybersecurity
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/errolyan/hack-skills-Cybersecurity
+     📝 攻防必备的skills，可以直接使用
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 SayantanSardar-commits/soc-l1-wazuh-assessment
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/SayantanSardar-commits/soc-l1-wazuh-assessment
+     📝 Multi-stage attack simulation against a Wazuh SIEM lab — Nmap recon through WinR…
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 altius03/edr
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/altius03/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 qiaozhiyi/nyx-ci-test
+     ⭐ 0  🗣 Rust  📅 2026-07-06
+     🔗 https://github.com/qiaozhiyi/nyx-ci-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 chaya001-arch/EDR-test
+     ⭐ 0  🗣 Batchfile  📅 2026-07-06
+     🔗 https://github.com/chaya001-arch/EDR-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 risha463/Incident-Investigation-
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/risha463/Incident-Investigation-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 rmrisco28/fileStash_test
+     ⭐ 0  🗣 Go  📅 2026-07-06
+     🔗 https://github.com/rmrisco28/fileStash_test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 Gamzawe/Mouse-Jiggler-Activity-Watch-deceitful
+     ⭐ 1  🗣 C#  📅 2026-07-05
+     🔗 https://github.com/Gamzawe/Mouse-Jiggler-Activity-Watch-deceitful
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 rohan1252030019-netizen/securesphere-ai
+     ⭐ 0  🗣 TypeScript  📅 2026-07-06
+     🔗 https://github.com/rohan1252030019-netizen/securesphere-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 vd49655-glitch/Cybersecurity-Threat-Intelligence-Report
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/vd49655-glitch/Cybersecurity-Threat-Intelligence-Report
+     📝 Threat Intelligence report on Modern Cybersecurity Threats(2024-2025)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 chingdrop/credential-audit
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/chingdrop/credential-audit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 martin-kratmuller/martin-kratmuller
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/martin-kratmuller/martin-kratmuller
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 scm-repo-mirror/ZerBea_hcxbtdumptool
+     ⭐ 0  🗣 C  📅 2026-07-06
+     🔗 https://github.com/scm-repo-mirror/ZerBea_hcxbtdumptool
+     📝 Mirror cloned from https://github.com/ZerBea/hcxbtdumptool.git prior to repo no …
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 ooptimus-prime/Cybersecurity-Threat-Intelligence-Report
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/ooptimus-prime/Cybersecurity-Threat-Intelligence-Report
+     📝 Threat Intelligence Report on  Modern Cybersecurity Threats (2024-2025)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 xD4O/bnb-table
+     ⭐ 0  🗣 JavaScript  📅 2026-07-06
+     🔗 https://github.com/xD4O/bnb-table
+     📝 Local LAN-multiplayer + solo-with-AI table for Backdoors & Breaches (incident-re…
+     🏷  backdoors-and-breaches, blueteam, cybersecurity, incident-response, nodejs, ollama, tabletop, websocket
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 pruthvi233/Cybersecurity-Threat-Intelligence-Report
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/pruthvi233/Cybersecurity-Threat-Intelligence-Report
+     📝 Threat Intelligence Report on Modern Cybersecurity Threats (2024–2025)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 thejanaloit/vKycSpeed
+     ⭐ 0  🗣 TypeScript  📅 2026-07-05
+     🔗 https://github.com/thejanaloit/vKycSpeed
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 gsodhi727/NeuralStrike-The-Ultimate-AI-Hacking-Agents-Directory
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/gsodhi727/NeuralStrike-The-Ultimate-AI-Hacking-Agents-Directory
+     📝 A curated directory of open-source and enterprise AI hacking agents, security te…
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 cognis-digital/advsim
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/cognis-digital/advsim
+     📝 Benign, authorized-use-only adversary-emulation & detection-validation harness m…
+     🏷  adversary-emulation, atomic-red-team, blue-team, detection-validation, mitre-attack, purple-team, red-team, sarif, security, stix
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 Ahmed-Jawad-net/Internee.pk_projects
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/Ahmed-Jawad-net/Internee.pk_projects
+     📝 This repository contain the Internship deliverable task and project in 8 weeks d…
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 kinnector/kinnector-jvmti
+     ⭐ 0  🗣 C++  📅 2026-07-06
+     🔗 https://github.com/kinnector/kinnector-jvmti
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-06 10:26:05 UTC] [NEW]   🆕 📦 im-tyler/forerunner
+     ⭐ 0  🗣 Go  📅 2026-07-06
+     🔗 https://github.com/im-tyler/forerunner
+     📝 Enterprise EDR — multi-platform agents (Win/Linux/macOS) with YARA/Sigma/behavio…
+     🏷  —
+[2026-07-06 10:26:05 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-06 10:26:05 UTC] [UPD]   📢 📦 endgamec2framework/endgame
+     ⭐ 0  🗣 Go  📅 2026-07-05
+     🔗 https://github.com/endgamec2framework/endgame
+     📝 ENDGAME C2 FRAMEWORK — Evasion-first command and control for professional red te…
+     🏷  ai, bof, c2, command-and-control, golang, offensive-security, penetration-testing, post-exploitation, red-team, security-research
+     🔄 Motivo: repo recente (0gg)
+[2026-07-06 10:26:05 UTC] [UPD]   📢 📦 minhtawlwe-svg/wazuh
+     ⭐ 0  🗣 YARA  📅 2026-07-02
+     🔗 https://github.com/minhtawlwe-svg/wazuh
+     📝 Wazuh SOC toolkit: YARA AR, Suricata installers, active-response scripts
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-06 10:26:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-06 10:26:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-06 10:26:07 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-06 10:26:07 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-06 10:26:07 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-06 10:26:07 UTC] [UPD]   📢 📦 TbusOS/linux-kernel-security-oss
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/TbusOS/linux-kernel-security-oss
+     📝 Defensive Linux kernel security toolkit for vendor / Android arm64 — known-CVE d…
+     🏷  android, arm64, coccinelle, cve, defensive-security, fuzzing, kernel-hardening, kernel-security, linux-kernel, llm, reverse-engineering, security-audit, security-tools, static-analysis, syzkaller, vulnerability-detection
+     🔄 Motivo: repo recente (0gg) | nuovi topic: reverse-engineering, kernel-hardening, vulnerability-detection, llm, android, security-audit, defensive-security, coccinelle, cve, static-analysis, fuzzing, kernel-security, syzkaller, security-tools, linux-kernel, arm64
+[2026-07-06 10:26:07 UTC] [UPD]   📢 📦 jleechanorg/ez-gh-actions
+     ⭐ 4  🗣 Rust  📅 2026-07-03
+     🔗 https://github.com/jleechanorg/ez-gh-actions
+     📝 Easy isolated self-hosted GitHub Actions runners (VM-preferred: Tart/libvirt, Do…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-06 10:26:07 UTC] [INFO] ============================================================
+[2026-07-06 10:26:07 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
+[2026-07-06 10:26:07 UTC] [INFO] ============================================================
