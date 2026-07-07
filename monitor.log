@@ -33145,3 +33145,176 @@
 [2026-07-07 09:44:44 UTC] [INFO] ============================================================
 [2026-07-07 09:44:44 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
 [2026-07-07 09:44:44 UTC] [INFO] ============================================================
+[2026-07-07 14:38:16 UTC] [INFO] ============================================================
+[2026-07-07 14:38:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-07 14:38:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-07 14:38:16 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-07 14:38:16 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-07 14:38:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-07 14:38:16 UTC] [INFO] ============================================================
+[2026-07-07 14:38:16 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-07 14:38:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-07 14:38:18 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-07 14:38:18 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-07 14:38:18 UTC] [NEW]   🆕 📦 EnMaNueL-G/optishield
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/EnMaNueL-G/optishield
+     📝 OptiShield escudo de privacidad y seguridad (by OptiSuite)
+     🏷  —
+[2026-07-07 14:38:18 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-07 14:38:18 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-07 14:38:18 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-07 14:38:21 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 pr1m0rdial/Sing
+     ⭐ 0  🗣 C  📅 2026-07-07
+     🔗 https://github.com/pr1m0rdial/Sing
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 Niran-cy/Integrity-Watch
+     ⭐ 0  🗣 Go  📅 2026-07-07
+     🔗 https://github.com/Niran-cy/Integrity-Watch
+     📝 A standalone File Integrity Monitoring and micro-EDR agent written in Go.
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 DaviGSantana/AV-EDR-Evasion-
+     ⭐ 0  🗣 C++  📅 2026-07-07
+     🔗 https://github.com/DaviGSantana/AV-EDR-Evasion-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 venkatavishnuvardhana/Phishing_mail_Analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/venkatavishnuvardhana/Phishing_mail_Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 Ilyanbendo-maker/Mise-en-place-d-un-SI-de-PME-Projet-M1
+     ⭐ 0  🗣 PowerShell  📅 2026-07-07
+     🔗 https://github.com/Ilyanbendo-maker/Mise-en-place-d-un-SI-de-PME-Projet-M1
+     📝 Projet sécurité P@8, semestre 8, EFREI Paris. Scénario : Reconstruction complète…
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 selmanahmad57-a11y/Kryvault
+     ⭐ 0  🗣 Rust  📅 2026-07-07
+     🔗 https://github.com/selmanahmad57-a11y/Kryvault
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 Okasha-001/Argus-edr
+     ⭐ 0  🗣 Go  📅 2026-07-07
+     🔗 https://github.com/Okasha-001/Argus-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 kamithi/SOC-analyst-home-labs
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/kamithi/SOC-analyst-home-labs
+     📝 Hands-on SOC analyst home lab documenting incident response scenarios, SIEM anal…
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 TheCyberMate/InCracker
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/TheCyberMate/InCracker
+     📝 InCracker is a free, standalone Windows desktop tool for password and hash recov…
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 youcowh/edraly
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/youcowh/edraly
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 Umut931/RedLab
+     ⭐ 0  🗣 PowerShell  📅 2026-07-07
+     🔗 https://github.com/Umut931/RedLab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 kaustubhkulkarni1598-Learning/SOC-Notes
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/kaustubhkulkarni1598-Learning/SOC-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 1337or420/1337or420_BlackTeam-Edition
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/1337or420/1337or420_BlackTeam-Edition
+     📝 1337or420 Black Team Arsenal Lab.
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 woylajarp/edrjgv
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/woylajarp/edrjgv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 Qumaqwe/soc-triage-playbooks
+     ⭐ 2  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/Qumaqwe/soc-triage-playbooks
+     📝 Step-by-step incident triage playbooks and verification tactics for SOC Tier 1 a…
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 asishmohanty2005/Secure-Sphere-AI-Cybersecurity-Dashboard-
+     ⭐ 0  🗣 HTML  📅 2026-07-07
+     🔗 https://github.com/asishmohanty2005/Secure-Sphere-AI-Cybersecurity-Dashboard-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 divyanshmishraofficial12-hub/roadmap_guide
+     ⭐ 0  🗣 HTML  📅 2026-07-07
+     🔗 https://github.com/divyanshmishraofficial12-hub/roadmap_guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 Collinsgora/IT-support-portfolio.
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/Collinsgora/IT-support-portfolio.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 14:38:21 UTC] [NEW]   🆕 📦 akulacharith-4016/EDR1
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/akulacharith-4016/EDR1
+     📝  Designed an Entity Relationship Diagram (ERD) for a Credit Card Approval Predic…
+     🏷  —
+[2026-07-07 14:38:21 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-07-07 14:38:21 UTC] [UPD]   📢 📦 emranyounasdxb-ai/edrive-water-sports
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/emranyounasdxb-ai/edrive-water-sports
+     📝 Premium static booking and inventory platform for eDrive Water Sports, built wit…
+     🏷  booking-system, cpanel, dubai, inventory-management, nextjs15, static-site, supabase, tailwindcss-v4, typescript, water-sports
+     🔄 Motivo: repo recente (5gg)
+[2026-07-07 14:38:21 UTC] [UPD]   📢 📦 altius03/team-C-edr
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/altius03/team-C-edr
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-07 14:38:21 UTC] [UPD]   📢 📦 r-sandy/hunt-land
+     ⭐ 0  🗣 Shell  📅 2026-07-07
+     🔗 https://github.com/r-sandy/hunt-land
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-07 14:38:21 UTC] [UPD]   📢 📦 Gromykko/F.R.A.N.K.
+     ⭐ 0  🗣 TypeScript  📅 2026-07-01
+     🔗 https://github.com/Gromykko/F.R.A.N.K.
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-07 14:38:21 UTC] [UPD]   📢 📦 srustcs/AutoCRMP
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/srustcs/AutoCRMP
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-07 14:38:21 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-07 14:38:21 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-07 14:38:23 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-07 14:38:23 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-07 14:38:23 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-07 14:38:23 UTC] [UPD]   📢 📦 jleechanorg/ez-gh-actions
+     ⭐ 5  🗣 Rust  📅 2026-07-03
+     🔗 https://github.com/jleechanorg/ez-gh-actions
+     📝 Easy isolated self-hosted GitHub Actions runners (VM-preferred: Tart/libvirt, Do…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-07 14:38:23 UTC] [UPD]   📢 📦 automotive-security/Automotive-Security-Glossary
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/automotive-security/Automotive-Security-Glossary
+     📝 A glossary of automotive cybersecurity terminology that provides clear and conci…
+     🏷  automotive-security, carhacking
+     🔄 Motivo: repo recente (1gg)
+[2026-07-07 14:38:23 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-07 14:38:23 UTC] [INFO] ============================================================
+[2026-07-07 14:38:23 UTC] [INFO] Completato — 20 nuovi, 8 aggiornati, 0 errori
+[2026-07-07 14:38:23 UTC] [INFO] ============================================================
