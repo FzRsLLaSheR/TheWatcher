@@ -32940,3 +32940,208 @@
 [2026-07-07 03:34:13 UTC] [INFO] ============================================================
 [2026-07-07 03:34:13 UTC] [INFO] Completato — 24 nuovi, 4 aggiornati, 0 errori
 [2026-07-07 03:34:13 UTC] [INFO] ============================================================
+[2026-07-07 09:44:38 UTC] [INFO] ============================================================
+[2026-07-07 09:44:38 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-07 09:44:38 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-07 09:44:38 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-07 09:44:38 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-07 09:44:38 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-07 09:44:38 UTC] [INFO] ============================================================
+[2026-07-07 09:44:38 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-07 09:44:38 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-07 09:44:39 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-07 09:44:39 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-07 09:44:39 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-07 09:44:39 UTC] [UPD]   📢 📦 yj94/YoneSysHunter
+     ⭐ 0  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/yj94/YoneSysHunter
+     📝 Advanced BYOVD Static Analysis Engine for Windows Kernel Drivers
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-07 09:44:39 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-07 09:44:39 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-07 09:44:42 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 Raja-Muhammad-Bilal-Arshad/Black-Aegis
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/Raja-Muhammad-Bilal-Arshad/Black-Aegis
+     📝 Pentesting Agent Company.
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 matiasroussp/BlueTeam-SOC-Labs
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/matiasroussp/BlueTeam-SOC-Labs
+     📝 Repositorio dedicado al despliegue, configuración y simulación de amenazas en en…
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 r-sandy/hunt-land
+     ⭐ 0  🗣 Shell  📅 2026-07-07
+     🔗 https://github.com/r-sandy/hunt-land
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 akulacharith-4016/EDR
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/akulacharith-4016/EDR
+     📝  Designed an Entity Relationship Diagram (ERD) for a Credit Card Approval Predic…
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 srustcs/AutoCRMP
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/srustcs/AutoCRMP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 salahalsabhi/-Security-Operations-Center-SOC-Bootcamp--Cybersecurity-Learning-Journey
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/salahalsabhi/-Security-Operations-Center-SOC-Bootcamp--Cybersecurity-Learning-Journey
+     📝 > A comprehensive documentation of my successful completion of the **5-Day Secur…
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 dhruboshop/SENTRA-AI-
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/dhruboshop/SENTRA-AI-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 M1NSEOK2-SUDO/windows-whisper-dictation
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/M1NSEOK2-SUDO/windows-whisper-dictation
+     📝 windows-whisper-dictation
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 kevemento/edrmfi
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/kevemento/edrmfi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 DakshataBhende/Aegis-Nexus
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/DakshataBhende/Aegis-Nexus
+     📝 Linux-based Autonomous Active Defense Platform featuring EDR, DLP, Cyber Decepti…
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 maepidx/edrbkd
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/maepidx/edrbkd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 SuchirBob/Backdoor-reverseShell-Python
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/SuchirBob/Backdoor-reverseShell-Python
+     📝 A controlled reverse shell simulation using Python sockets in an isolated lab en…
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 zzj114514/CMDPLUS
+     ⭐ 0  🗣 C++  📅 2026-07-07
+     🔗 https://github.com/zzj114514/CMDPLUS
+     📝 CMDPLUS工具箱
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 Jikstrat/Discrepancy-Checker-
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/Jikstrat/Discrepancy-Checker-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 SuchirBob/Malware-SandBox-Basic
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/SuchirBob/Malware-SandBox-Basic
+     📝 A terminal-based malware behavior monitoring tool that executes a sample inside …
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 alancinkrumnesta/edrkqp
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/alancinkrumnesta/edrkqp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 justinall7/edrozr
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/justinall7/edrozr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 sundaramawasthi/Cyber-Security
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/sundaramawasthi/Cyber-Security
+     📝 Journey of Cyber Security || Learning in Public
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 Abhijithkris0101/PRODIGY_CS_04
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/Abhijithkris0101/PRODIGY_CS_04
+     📝 A Python-based educational keylogger that records and logs keystrokes with times…
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 NisalJayaweera/EDR_Website
+     ⭐ 0  🗣 TypeScript  📅 2026-07-07
+     🔗 https://github.com/NisalJayaweera/EDR_Website
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 passtime1/agctl
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/passtime1/agctl
+     📝 AI-powered security tool cheatsheet — natural language → tool + command + per-fl…
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 wshn-heenli/edrhby
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/wshn-heenli/edrhby
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 dumont94/soc-builder-tool
+     ⭐ 0  🗣 JavaScript  📅 2026-07-07
+     🔗 https://github.com/dumont94/soc-builder-tool
+     📝 Build your own security posture — answer four questions, get a 10-step first-90-…
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 khaldalsaif/SOC-MATE
+     ⭐ 0  🗣 JavaScript  📅 2026-07-07
+     🔗 https://github.com/khaldalsaif/SOC-MATE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 M1an7/EDR_Agent_android
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/M1an7/EDR_Agent_android
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 noolda/edrtyq
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/noolda/edrtyq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 lace-y-a-p-edr-a-za1/demo-afw48u0f
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/lace-y-a-p-edr-a-za1/demo-afw48u0f
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:42 UTC] [NEW]   🆕 📦 fg-time/ENI-RAT-Fixed
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/fg-time/ENI-RAT-Fixed
+     📝 ENI-RAT C2 Framework - Fixed Edition. Fork of Adam-ZS/ENI-RAT with 9 critical bu…
+     🏷  —
+[2026-07-07 09:44:42 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-07 09:44:42 UTC] [UPD]   📢 📦 urmilasamarth-max/DA-urmsam2971
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-06
+     🔗 https://github.com/urmilasamarth-max/DA-urmsam2971
+     📝 New repository for portfolio
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-07 09:44:42 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-07 09:44:42 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-07 09:44:44 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-07 09:44:44 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-07 09:44:44 UTC] [NEW]   🆕 📦 Raja-Muhammad-Bilal-Arshad/Black-Aegis
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/Raja-Muhammad-Bilal-Arshad/Black-Aegis
+     📝 Pentesting Agent Company.
+     🏷  —
+[2026-07-07 09:44:44 UTC] [NEW]   🆕 📦 minasann/minasann
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/minasann/minasann
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-07 09:44:44 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-07 09:44:44 UTC] [UPD]   📢 📦 jleechanorg/ez-gh-actions
+     ⭐ 5  🗣 Rust  📅 2026-07-03
+     🔗 https://github.com/jleechanorg/ez-gh-actions
+     📝 Easy isolated self-hosted GitHub Actions runners (VM-preferred: Tart/libvirt, Do…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-07 09:44:44 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-07 09:44:44 UTC] [UPD]   📢 📦 automotive-security/Automotive-Security-Glossary
+     ⭐ 0  🗣 N/A  📅 2026-07-06
+     🔗 https://github.com/automotive-security/Automotive-Security-Glossary
+     📝 A glossary of automotive cybersecurity terminology that provides clear and conci…
+     🏷  automotive-security, carhacking
+     🔄 Motivo: repo recente (0gg)
+[2026-07-07 09:44:44 UTC] [INFO] ============================================================
+[2026-07-07 09:44:44 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
+[2026-07-07 09:44:44 UTC] [INFO] ============================================================
