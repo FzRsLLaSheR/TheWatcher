@@ -33788,3 +33788,208 @@
 [2026-07-08 08:31:08 UTC] [INFO] ============================================================
 [2026-07-08 08:31:08 UTC] [INFO] Completato — 22 nuovi, 6 aggiornati, 0 errori
 [2026-07-08 08:31:08 UTC] [INFO] ============================================================
+[2026-07-08 14:12:49 UTC] [INFO] ============================================================
+[2026-07-08 14:12:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-08 14:12:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-08 14:12:49 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-08 14:12:49 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-08 14:12:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-08 14:12:49 UTC] [INFO] ============================================================
+[2026-07-08 14:12:49 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-08 14:12:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-08 14:12:51 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-08 14:12:51 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-08 14:12:51 UTC] [NEW]   🆕 📦 SecurityRonin/forensic-hashdb
+     ⭐ 0  🗣 Rust  📅 2026-07-08
+     🔗 https://github.com/SecurityRonin/forensic-hashdb
+     📝 File hash databases for digital forensics — NSRL/CIRCL known-good, malware known…
+     🏷  dfir, digital-forensics, forensics, hashset, incident-response, loldrivers, nsrl, rust
+[2026-07-08 14:12:51 UTC] [NEW]   🆕 📦 DeepakKrishna-DK/PULSE-Autonomous_Cyber_Response_Platform
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/DeepakKrishna-DK/PULSE-Autonomous_Cyber_Response_Platform
+     📝 PULSE is a production-ready SOAR platform using Neo4j graph databases and Bayesi…
+     🏷  —
+[2026-07-08 14:12:51 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-08 14:12:51 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-08 14:12:51 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-08 14:12:55 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 rom/OTITbup
+     ⭐ 0  🗣 Python  📅 2026-07-07
+     🔗 https://github.com/rom/OTITbup
+     📝 OT and IT backup and restore tool that can extract and save configurations, sett…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 DursoJ/SOC-Home-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/DursoJ/SOC-Home-lab
+     📝 A hands-on SOC analyst home lab built with Active Directory, Wazuh SIEM, and Sys…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 benoitstul/edrkix
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/benoitstul/edrkix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 biancanik-art/log-parser
+     ⭐ 0  🗣 Rust  📅 2026-07-08
+     🔗 https://github.com/biancanik-art/log-parser
+     📝 Offline DFIR log viewer for large SIEM/EDR Excel/CSV exports — dynamic column de…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 umjunior/edrcni
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/umjunior/edrcni
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 caoxiaoyu97/kindle-hid-passthrough-test
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/caoxiaoyu97/kindle-hid-passthrough-test
+     📝 自己测试
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 columnfiscalbear/edryndvq
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/columnfiscalbear/edryndvq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 OnyedikachiO/Security-Engineer-Projects-
+     ⭐ 0  🗣 N/A  📅 2026-07-07
+     🔗 https://github.com/OnyedikachiO/Security-Engineer-Projects-
+     📝 Hands-on Security Engineering portfolio showcasing practical projects in cloud s…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 edris777/Edriss-super
+     ⭐ 0  🗣 HTML  📅 2026-07-08
+     🔗 https://github.com/edris777/Edriss-super
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 Tharindi-Weerasinghe/ml-malware-detection-api
+     ⭐ 1  🗣 HTML  📅 2026-07-08
+     🔗 https://github.com/Tharindi-Weerasinghe/ml-malware-detection-api
+     📝 Machine learning malware behaviour classifier with FastAPI and a web dashboard.
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 ThomasThumb/mcp-warden-governance
+     ⭐ 0  🗣 Rust  📅 2026-07-08
+     🔗 https://github.com/ThomasThumb/mcp-warden-governance
+     📝 MCP Warden Governance is a zero-trust governance layer for Model Context Protoco…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 iremkilicc/CyberSOC-Incident-Triage-Assistant
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/iremkilicc/CyberSOC-Incident-Triage-Assistant
+     📝 Offline RAG-based SOC incident triage assistant for brute force, phishing, and s…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 edris777/Edris-super
+     ⭐ 0  🗣 HTML  📅 2026-07-08
+     🔗 https://github.com/edris777/Edris-super
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 daojun-zeng/HCI-Insight
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/daojun-zeng/HCI-Insight
+     📝 HCI Insight 是基于 Bluetooth Core Spec v6.1 (Vol 4 Part E) 的 HCI 日志教学型解析工具，使用 Pytho…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 smart-developer1791/preact-security-alert-dashboard
+     ⭐ 0  🗣 TypeScript  📅 2026-07-08
+     🔗 https://github.com/smart-developer1791/preact-security-alert-dashboard
+     📝 ✦ SIEM-style security alert dashboard with incident triage, MITRE tags, playbook…
+     🏷  dashboard, date-fns, incident-response, lucide, mitre, preact, preactjs, security, siem, static-site, tailwindcss, typescript, vercel, vercel-deployment, vite
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 yoskrap/edr
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/yoskrap/edr
+     📝 Techeer
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 noisyboy/zerow
+     ⭐ 0  🗣 HTML  📅 2026-07-08
+     🔗 https://github.com/noisyboy/zerow
+     📝 A client-side HTML/JS web tool for zero-width steganography. It allows security …
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 alangmartini/mcp-chrome-rs
+     ⭐ 0  🗣 Rust  📅 2026-07-08
+     🔗 https://github.com/alangmartini/mcp-chrome-rs
+     📝 Memory-lean MCP server in Rust speaking Chrome DevTools Protocol directly to a d…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 samirajhaveri-ai/Advanced-Endpoint-Security-EDR
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/samirajhaveri-ai/Advanced-Endpoint-Security-EDR
+     📝 Advanced Endpoint Security +EDR  Landing Page
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 ThugNinja123/parole-visit-system
+     ⭐ 0  🗣 TypeScript  📅 2026-07-08
+     🔗 https://github.com/ThugNinja123/parole-visit-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 salahalsabhi/Acronis-Cyber-Resilience-Solution-Basic-Training-cybersecurity-Learning-Journey-
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/salahalsabhi/Acronis-Cyber-Resilience-Solution-Basic-Training-cybersecurity-Learning-Journey-
+     📝 Understanding modern Cyber Resilience, Business Continuity, Disaster Recovery, a…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 jenishs524/Ethical-Hacking-technique-In-One-Place-
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/jenishs524/Ethical-Hacking-technique-In-One-Place-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 nholuongut/open-source-security-guide
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/nholuongut/open-source-security-guide
+     📝 Open Source Security Guide. Learn all about Security Standards (FIPS, CIS, FedRA…
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 vsheshjain/netbird-aws
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/vsheshjain/netbird-aws
+     📝 POCs to learn netbird with AWS as cloud provider
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 vexs1991/mitre-ttps-sc
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/vexs1991/mitre-ttps-sc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:55 UTC] [NEW]   🆕 📦 scarfrada/edrsgv
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/scarfrada/edrsgv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:55 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-08 14:12:55 UTC] [UPD]   📢 📦 emranyounasdxb-ai/edrive-water-sports
+     ⭐ 0  🗣 TypeScript  📅 2026-07-02
+     🔗 https://github.com/emranyounasdxb-ai/edrive-water-sports
+     📝 Premium static booking and inventory platform for eDrive Water Sports, built wit…
+     🏷  booking-system, cpanel, dubai, inventory-management, nextjs15, static-site, supabase, tailwindcss-v4, typescript, water-sports
+     🔄 Motivo: repo recente (6gg)
+[2026-07-08 14:12:55 UTC] [UPD]   📢 📦 hasamba/DFIR-Companion
+     ⭐ 1  🗣 TypeScript  📅 2026-07-07
+     🔗 https://github.com/hasamba/DFIR-Companion
+     📝 DFIR forensics companion server + capture extension
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-08 14:12:55 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-08 14:12:55 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-08 14:12:57 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-08 14:12:57 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-08 14:12:57 UTC] [NEW]   🆕 📦 sashaNull/kernel_exploitation_template
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/sashaNull/kernel_exploitation_template
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:57 UTC] [NEW]   🆕 📦 pandey-saket/network-pentest-checklist
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/pandey-saket/network-pentest-checklist
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 14:12:57 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-08 14:12:57 UTC] [UPD]   📢 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 One directive → a herd of AI agents that plan, build, verify, and re-plan across…
+     🏷  agentic, ai-agents, autonomous-agents, code-generation, developer-tools, golang, llm, mcp, multi-agent, ollama, orchestration
+     🔄 Motivo: repo recente (4gg)
+[2026-07-08 14:12:57 UTC] [UPD]   📢 📦 jleechanorg/ez-gh-actions
+     ⭐ 5  🗣 Rust  📅 2026-07-03
+     🔗 https://github.com/jleechanorg/ez-gh-actions
+     📝 Easy isolated self-hosted GitHub Actions runners (VM-preferred: Tart/libvirt, Do…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-08 14:12:57 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-08 14:12:57 UTC] [INFO] ============================================================
+[2026-07-08 14:12:57 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
+[2026-07-08 14:12:57 UTC] [INFO] ============================================================
