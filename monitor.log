@@ -33993,3 +33993,229 @@
 [2026-07-08 14:12:57 UTC] [INFO] ============================================================
 [2026-07-08 14:12:57 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
 [2026-07-08 14:12:57 UTC] [INFO] ============================================================
+[2026-07-08 19:27:11 UTC] [INFO] ============================================================
+[2026-07-08 19:27:11 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-08 19:27:11 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-08 19:27:11 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-08 19:27:11 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-08 19:27:11 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-08 19:27:11 UTC] [INFO] ============================================================
+[2026-07-08 19:27:11 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-08 19:27:11 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-08 19:27:13 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-08 19:27:13 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-08 19:27:13 UTC] [NEW]   🆕 📦 guimunizzz/Forensics-Notes
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/guimunizzz/Forensics-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:13 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-08 19:27:13 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-08 19:27:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-08 19:27:15 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 yamanist0/Process-Hollowing-Poc
+     ⭐ 0  🗣 C  📅 2026-07-08
+     🔗 https://github.com/yamanist0/Process-Hollowing-Poc
+     📝 Educational Windows PoC to showcase process hollowing using C, C++, Python It ex…
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 makhansingh2026/agentic-ir-system
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/makhansingh2026/agentic-ir-system
+     📝 Five AI agents that automate the NIST SP 800-61 incident response lifecycle: the…
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 musabith01/Virustotal-Integration-With-Wazuh
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/musabith01/Virustotal-Integration-With-Wazuh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 akhsabina/llm-jailbreak-malware-evasion-analysis
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/akhsabina/llm-jailbreak-malware-evasion-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 azitc-ac/Invoke-ADAssessment
+     ⭐ 0  🗣 PowerShell  📅 2026-07-08
+     🔗 https://github.com/azitc-ac/Invoke-ADAssessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 oskareka/DIY-Network-with-Wazuh
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/oskareka/DIY-Network-with-Wazuh
+     📝 My own local network with SIEM (Currently Wazuh). I built my network to learn ho…
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 webert-abreu/edriano
+     ⭐ 0  🗣 TypeScript  📅 2026-07-08
+     🔗 https://github.com/webert-abreu/edriano
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 sherlon1/soc-hunter
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/sherlon1/soc-hunter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 jayant933/Sentinel-EDR
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/jayant933/Sentinel-EDR
+     📝 Educational cybersecurity project demonstrating EDR concepts - process/file/netw…
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 carletonpr/edrmbs
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/carletonpr/edrmbs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 Raja-del-ui/Project-Specter
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/Raja-del-ui/Project-Specter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 prodmutant/PrivaCore
+     ⭐ 0  🗣 C#  📅 2026-07-08
+     🔗 https://github.com/prodmutant/PrivaCore
+     📝 PrivaCore is a C# written security Suite 
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 xavierfues/edrutc
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/xavierfues/edrutc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 PawanPawar11/Project-MANTIS
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/PawanPawar11/Project-MANTIS
+     📝 🦗 - See everything. Stop everything. A lightweight EDR agent that watches your L…
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 uueyjjhgwr93/edrqyz
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/uueyjjhgwr93/edrqyz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 pvilli/edrojb
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/pvilli/edrojb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 matheusgbrt/EdronLibrary
+     ⭐ 0  🗣 TypeScript  📅 2026-07-08
+     🔗 https://github.com/matheusgbrt/EdronLibrary
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 Kame-ng/Desenvolvimento-de-um-Ransomware
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/Kame-ng/Desenvolvimento-de-um-Ransomware
+     📝 Prova de Conceito (PoC) desenvolvida em Python para simular o ciclo de vida de u…
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 Mukul2006-1/Edreach_International
+     ⭐ 0  🗣 TypeScript  📅 2026-07-08
+     🔗 https://github.com/Mukul2006-1/Edreach_International
+     📝 This is the website for Edreach International
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 3-sujal/5L-System-Monitor-SIEM-Log-Management-System-
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/3-sujal/5L-System-Monitor-SIEM-Log-Management-System-
+     📝 A self-contained Flask web application that turns a Windows machine into a light…
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 himanshugujjar01/Automated-Ransomware-Containment-IR-Orchestrator
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/himanshugujjar01/Automated-Ransomware-Containment-IR-Orchestrator
+     📝 A Python FastAPI-based ransomware incident response orchestrator that simulates …
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 pm-x/diffr
+     ⭐ 0  🗣 TypeScript  📅 2026-07-08
+     🔗 https://github.com/pm-x/diffr
+     📝 A diff review tool, for agentic communication
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 guimunizzz/Forensics-Notes
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/guimunizzz/Forensics-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 bladeror/edrafe
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/bladeror/edrafe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 thejustinjames/silo
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/thejustinjames/silo
+     📝 Silo — runtime security for autonomous AI agents (public overview; core code pri…
+     🏷  agent-security, ai-agents, ai-security, ebpf, runtime-security
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 galva0101/ATT-CK-Playbook-Console
+     ⭐ 0  🗣 HTML  📅 2026-07-08
+     🔗 https://github.com/galva0101/ATT-CK-Playbook-Console
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 WadeJackson93/Windows-Attack-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/WadeJackson93/Windows-Attack-Detection-Lab
+     📝 Windows SOC lab using Sysmon, Splunk, Microsoft Defender, and Microsoft Sentinel…
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 IshitaPadhi/Mini-Endpoint-Protection
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/IshitaPadhi/Mini-Endpoint-Protection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 Dharsheneram22/Priyadharshene-R
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/Dharsheneram22/Priyadharshene-R
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:15 UTC] [NEW]   🆕 📦 FissaDooz/sovereign-agentic-soc
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/FissaDooz/sovereign-agentic-soc
+     📝 Fully self-hosted, sovereign agentic SOC: Wazuh for detection, a local LLM (Olla…
+     🏷  agentic-ai, homelab, ollama, proxmox, self-hosted, soc, wazuh
+[2026-07-08 19:27:15 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-08 19:27:15 UTC] [UPD]   📢 📦 selmanahmad57-a11y/Kryvault
+     ⭐ 0  🗣 Rust  📅 2026-07-07
+     🔗 https://github.com/selmanahmad57-a11y/Kryvault
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-08 19:27:15 UTC] [UPD]   📢 📦 endgamec2framework/endgame
+     ⭐ 0  🗣 Go  📅 2026-07-05
+     🔗 https://github.com/endgamec2framework/endgame
+     📝 ENDGAME C2 FRAMEWORK — Evasion-first command and control for professional red te…
+     🏷  ai, bof, c2, command-and-control, golang, offensive-security, penetration-testing, post-exploitation, red-team, security-research
+     🔄 Motivo: repo recente (3gg)
+[2026-07-08 19:27:15 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-08 19:27:15 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-08 19:27:17 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-08 19:27:17 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-08 19:27:17 UTC] [NEW]   🆕 📦 Cosm3No1de/TwoMillion-HTB-Write-up
+     ⭐ 0  🗣 HTML  📅 2026-07-08
+     🔗 https://github.com/Cosm3No1de/TwoMillion-HTB-Write-up
+     📝 Write-up completo de la máquina TwoMillion de Hack The Box. Enumeración web, exp…
+     🏷  —
+[2026-07-08 19:27:17 UTC] [NEW]   🆕 📦 TannerHollaway/audit.log-log-analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/TannerHollaway/audit.log-log-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-08 19:27:17 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-08 19:27:17 UTC] [UPD]   📢 📦 jleechanorg/ez-gh-actions
+     ⭐ 5  🗣 Rust  📅 2026-07-03
+     🔗 https://github.com/jleechanorg/ez-gh-actions
+     📝 Easy isolated self-hosted GitHub Actions runners (VM-preferred: Tart/libvirt, Do…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-08 19:27:17 UTC] [UPD]   📢 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 One directive → a herd of AI agents that plan, build, verify, and re-plan across…
+     🏷  agentic, ai-agents, autonomous-agents, code-generation, developer-tools, golang, llm, mcp, multi-agent, ollama, orchestration
+     🔄 Motivo: repo recente (5gg)
+[2026-07-08 19:27:17 UTC] [UPD]   📢 📦 sashaNull/kernel_exploitation_template
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/sashaNull/kernel_exploitation_template
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-08 19:27:17 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-08 19:27:17 UTC] [INFO] ============================================================
+[2026-07-08 19:27:17 UTC] [INFO] Completato — 33 nuovi, 6 aggiornati, 0 errori
+[2026-07-08 19:27:17 UTC] [INFO] ============================================================
