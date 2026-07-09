@@ -34219,3 +34219,257 @@
 [2026-07-08 19:27:17 UTC] [INFO] ============================================================
 [2026-07-08 19:27:17 UTC] [INFO] Completato — 33 nuovi, 6 aggiornati, 0 errori
 [2026-07-08 19:27:17 UTC] [INFO] ============================================================
+[2026-07-09 03:32:16 UTC] [INFO] ============================================================
+[2026-07-09 03:32:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-09 03:32:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-09 03:32:16 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-09 03:32:16 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-09 03:32:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-09 03:32:16 UTC] [INFO] ============================================================
+[2026-07-09 03:32:16 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-09 03:32:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-09 03:32:18 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-09 03:32:18 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-09 03:32:18 UTC] [NEW]   🆕 📦 kauht/drv-analysis
+     ⭐ 0  🗣 C++  📅 2026-07-08
+     🔗 https://github.com/kauht/drv-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:18 UTC] [NEW]   🆕 📦 fractalbach/triggerbot
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/fractalbach/triggerbot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:18 UTC] [NEW]   🆕 📦 JoasASantos/BYOR
+     ⭐ 1  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/JoasASantos/BYOR
+     📝 Awesome BYOR (Bring Your Own Reputation)
+     🏷  —
+[2026-07-09 03:32:18 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-09 03:32:18 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-09 03:32:18 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-09 03:32:21 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 37 NUOVI repository:
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 7uckzero/Social-engineering-UAC-elevation
+     ⭐ 0  🗣 C++  📅 2026-07-09
+     🔗 https://github.com/7uckzero/Social-engineering-UAC-elevation
+     📝 Social engineering UAC elevation — walks IShellWindows → IShellDispatch2 to invo…
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 Overlapforrepel/edrwjssu
+     ⭐ 0  🗣 N/A  📅 2026-07-09
+     🔗 https://github.com/Overlapforrepel/edrwjssu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 teohumble1/avsuite
+     ⭐ 0  🗣 C++  📅 2026-07-09
+     🔗 https://github.com/teohumble1/avsuite
+     📝  Windows Endpoint Security Suite
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 nholuongut/bash-powershell-guide
+     ⭐ 0  🗣 N/A  📅 2026-07-09
+     🔗 https://github.com/nholuongut/bash-powershell-guide
+     📝 A guide covering Bash/PowerShell scripting languages including the applications …
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 anyuan1999/socbench-anonymous
+     ⭐ 0  🗣 Python  📅 2026-07-09
+     🔗 https://github.com/anyuan1999/socbench-anonymous
+     📝 Anonymous SocBench benchmark artifact repository.
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 Triadeia/edrivego_pagina.obrigado
+     ⭐ 0  🗣 HTML  📅 2026-07-09
+     🔗 https://github.com/Triadeia/edrivego_pagina.obrigado
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 FancyMoczo68/DUlGKmrXdw1M629tlBiqqNEYhRpnEdrJ7BCaRSJc1L9Ww29UuA
+     ⭐ 0  🗣 N/A  📅 2026-07-09
+     🔗 https://github.com/FancyMoczo68/DUlGKmrXdw1M629tlBiqqNEYhRpnEdrJ7BCaRSJc1L9Ww29UuA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 hughesdo/Rewhisper
+     ⭐ 0  🗣 C#  📅 2026-07-09
+     🔗 https://github.com/hughesdo/Rewhisper
+     📝 Windows, no-admin, fully local dictation assistant (Whisper + Qwen2.5, on-device…
+     🏷  dictation, dotnet, llama, local-first, privacy, qwen, speech-to-text, whisper, windows, wpf
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 UYMIDGameStudio/sspcz-website
+     ⭐ 1  🗣 Astro  📅 2026-07-08
+     🔗 https://github.com/UYMIDGameStudio/sspcz-website
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 nholuongut/digital-forensics-guide
+     ⭐ 0  🗣 N/A  📅 2026-07-09
+     🔗 https://github.com/nholuongut/digital-forensics-guide
+     📝 Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, …
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 wnbtumpoa053/edrfko
+     ⭐ 0  🗣 N/A  📅 2026-07-09
+     🔗 https://github.com/wnbtumpoa053/edrfko
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 gpimenta42/implicit-case-learning-medical-reasoning
+     ⭐ 1  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/gpimenta42/implicit-case-learning-medical-reasoning
+     📝 Implicit Case-Learning Ensemble with Disagreement-Routed Revision for medical MC…
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 s6securitylabs/S6-Logging-Gaps-Analysis-Tool
+     ⭐ 0  🗣 TypeScript  📅 2026-07-08
+     🔗 https://github.com/s6securitylabs/S6-Logging-Gaps-Analysis-Tool
+     📝 S6 Logging Gaps Analysis Tool
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 meireeb/edrwqu
+     ⭐ 0  🗣 N/A  📅 2026-07-09
+     🔗 https://github.com/meireeb/edrwqu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 robertclaytonconway/crowdstrike-incident-response-playbook
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/robertclaytonconway/crowdstrike-incident-response-playbook
+     📝 CrowdStrike Falcon incident response playbook for triaging detections, containin…
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 erkjlktu0250/edroxh
+     ⭐ 0  🗣 N/A  📅 2026-07-09
+     🔗 https://github.com/erkjlktu0250/edroxh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 cuavrxantu70/edrhuw
+     ⭐ 0  🗣 N/A  📅 2026-07-09
+     🔗 https://github.com/cuavrxantu70/edrhuw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 cheshanj/wallpaper-engine-sniffer
+     ⭐ 0  🗣 PowerShell  📅 2026-07-08
+     🔗 https://github.com/cheshanj/wallpaper-engine-sniffer
+     📝 Windows PowerShell monitor for auditing Wallpaper Engine process, network, DNS, …
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 ViniciusTrindade8806/obrigado-edrive
+     ⭐ 0  🗣 HTML  📅 2026-07-08
+     🔗 https://github.com/ViniciusTrindade8806/obrigado-edrive
+     📝 Pagina de obrigado pos-pagamento - e-Drive
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 gulhankutlu/gulhankutlu
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/gulhankutlu/gulhankutlu
+     📝 Cybersecurity portfolio and featured projects
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 wkt21/Kali-SOC-Framework-Detection-Hook-Idea
+     ⭐ 1  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/wkt21/Kali-SOC-Framework-Detection-Hook-Idea
+     📝 Test The Kali CLI Framework 
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 ctvg155gdw46/edrmha
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/ctvg155gdw46/edrmha
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 GPS-Informatica/EDR-explicado
+     ⭐ 0  🗣 HTML  📅 2026-07-08
+     🔗 https://github.com/GPS-Informatica/EDR-explicado
+     📝 Guía comparativa de las soluciones de Detección y Respuesta de Endpoints (EDR) q…
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 gcfl8sqc7d37/edrjvj
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/gcfl8sqc7d37/edrjvj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 GPS-Informatica/EDR-explicado-GPS
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/GPS-Informatica/EDR-explicado-GPS
+     📝 Guía comparativa de las soluciones de Detección y Respuesta de Endpoints (EDR) q…
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 bureckorda/edrkcg
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/bureckorda/edrkcg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 Alongiti2/sentinelops-dr
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/Alongiti2/sentinelops-dr
+     📝 "Cloud-agnostic Detection & Response platform: rule lifecycle management, K8s-na…
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 swing0free/edrwbz
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/swing0free/edrwbz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 gerardylau/edrbtp
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/gerardylau/edrbtp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 fjmh6drwlg33/edrnay
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/fjmh6drwlg33/edrnay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 zkxvhqfbwj67/edrgwl
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/zkxvhqfbwj67/edrgwl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 cvwwrxt7kd98/edrkkh
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/cvwwrxt7kd98/edrkkh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 andria-asp/edrabw
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/andria-asp/edrabw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 fiokjx62m271/edrhsn
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/fiokjx62m271/edrhsn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 pzvcsmzifl39/edrnhp
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/pzvcsmzifl39/edrnhp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 perroxidja/edrwmk
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/perroxidja/edrwmk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [NEW]   🆕 📦 daniel78ef/edrdix
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/daniel78ef/edrdix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:21 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-09 03:32:21 UTC] [UPD]   📢 📦 selmanahmad57-a11y/Kryvault
+     ⭐ 0  🗣 Rust  📅 2026-07-07
+     🔗 https://github.com/selmanahmad57-a11y/Kryvault
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-09 03:32:21 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-09 03:32:21 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-09 03:32:24 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-09 03:32:24 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-09 03:32:24 UTC] [NEW]   🆕 📦 zFireFist01/Cybersecurity-Challenges-Exploits
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/zFireFist01/Cybersecurity-Challenges-Exploits
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-09 03:32:24 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-09 03:32:24 UTC] [UPD]   📢 📦 TannerHollaway/audit.log-log-analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/TannerHollaway/audit.log-log-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-09 03:32:24 UTC] [UPD]   📢 📦 SaadBaig/Certified-Red-Team-Operator-CRTO
+     ⭐ 0  🗣 N/A  📅 2026-07-02
+     🔗 https://github.com/SaadBaig/Certified-Red-Team-Operator-CRTO
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-09 03:32:24 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-09 03:32:24 UTC] [INFO] ============================================================
+[2026-07-09 03:32:24 UTC] [INFO] Completato — 41 nuovi, 4 aggiornati, 0 errori
+[2026-07-09 03:32:24 UTC] [INFO] ============================================================
