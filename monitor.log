@@ -35165,3 +35165,189 @@
 [2026-07-10 03:30:04 UTC] [INFO] ============================================================
 [2026-07-10 03:30:04 UTC] [INFO] Completato — 27 nuovi, 6 aggiornati, 0 errori
 [2026-07-10 03:30:04 UTC] [INFO] ============================================================
+[2026-07-10 09:37:46 UTC] [INFO] ============================================================
+[2026-07-10 09:37:46 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-10 09:37:46 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-10 09:37:46 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-10 09:37:46 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-10 09:37:46 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-10 09:37:46 UTC] [INFO] ============================================================
+[2026-07-10 09:37:46 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-10 09:37:46 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-10 09:37:49 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-10 09:37:49 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-10 09:37:49 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-10 09:37:49 UTC] [UPD]   📢 📦 Jaysolex/OS-Internals-for-SOC
+     ⭐ 1  🗣 Shell  📅 2026-07-09
+     🔗 https://github.com/Jaysolex/OS-Internals-for-SOC
+     📝 Operating system internals through the lens of detection, investigation, and res…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-10 09:37:49 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-10 09:37:49 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-10 09:37:52 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 teohumble1/avsuite
+     ⭐ 0  🗣 C++  📅 2026-07-09
+     🔗 https://github.com/teohumble1/avsuite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 BhodiSea/tauri-postgres-agent-harness
+     ⭐ 0  🗣 JavaScript  📅 2026-07-10
+     🔗 https://github.com/BhodiSea/tauri-postgres-agent-harness
+     📝 A deterministic Claude Code agent harness for Tauri 2 + React 19 + Hono + Drizzl…
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 adizzz3/Zero-Trust-Architecture-for-Enterprise-Security
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/adizzz3/Zero-Trust-Architecture-for-Enterprise-Security
+     📝 A cybersecurity project demonstrating the design and implementation of a Zero Tr…
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 vasu356/vaultflow
+     ⭐ 0  🗣 Java  📅 2026-07-10
+     🔗 https://github.com/vasu356/vaultflow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 raizel0213/PHISHGAURD
+     ⭐ 0  🗣 TypeScript  📅 2026-07-10
+     🔗 https://github.com/raizel0213/PHISHGAURD
+     📝 A Security Orchestration, Automation, and Response (SOAR) platform that eliminat…
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 kw1649190133/OrangepiWIFITool
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/kw1649190133/OrangepiWIFITool
+     📝 香橙派5MAX的WIFI连接工具，开机后自动启动蓝牙，手机连接蓝牙后，可以设置WIFI连接。
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 i-m-rajgupta/Project-Edr
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/i-m-rajgupta/Project-Edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 BoxStrikesTeam/OpenEDR-SupplyChain-Attack-Vectors
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/BoxStrikesTeam/OpenEDR-SupplyChain-Attack-Vectors
+     📝 OpenEDR-SupplyChain-Attack-Vectors
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 anushka-n2204/Cyber_Security_LLM_Agents
+     ⭐ 1  🗣 Jupyter Notebook  📅 2026-07-09
+     🔗 https://github.com/anushka-n2204/Cyber_Security_LLM_Agents
+     📝 A modular cyber security automation framework using LLM-powered agents on AutoGe…
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 darshanmoradiya/MALWARE
+     ⭐ 0  🗣 VBScript  📅 2026-07-10
+     🔗 https://github.com/darshanmoradiya/MALWARE
+     📝 MALWARE
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 nholuongut/vmware-guide
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/nholuongut/vmware-guide
+     📝 A guide for getting started with VMware including the Tools and Applications tha…
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 heejinny/security-log-platform
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/heejinny/security-log-platform
+     📝 n8n + Python + OpenAI + Discord 기반 보안 로그 자동 분석/대응(SOAR) 플랫폼
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 yohanraveesha/EDR.github.io
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/yohanraveesha/EDR.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 asfbfh/-06-2025-
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/asfbfh/-06-2025-
+     📝 - [大型资源站shanxueit.com](http://shanxueit.com/)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 yohanraveesha/EDRR
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/yohanraveesha/EDRR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 noyal-dot/noyal-dot
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/noyal-dot/noyal-dot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 ViSerac/ViSerac
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/ViSerac/ViSerac
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 Gowtham21062004/EDRS
+     ⭐ 0  🗣 JavaScript  📅 2026-07-10
+     🔗 https://github.com/Gowtham21062004/EDRS
+     📝 We are pleased to introduce ourselves as an emerging concern in the field of E&D…
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 udayydogra/AegisSOC
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/udayydogra/AegisSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 poojakira/hf-model-provenance-scanner
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/poojakira/hf-model-provenance-scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [NEW]   🆕 📦 tuanctk14/DEAN_ATI
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/tuanctk14/DEAN_ATI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-10 09:37:52 UTC] [UPD]   📢 📦 NosferatuUnitOne/SOAR-Integrated-DFIR-Stack
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/NosferatuUnitOne/SOAR-Integrated-DFIR-Stack
+     📝 A documentation and setup of a SOAR and EDR, for the purpose of End point Config…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-10 09:37:52 UTC] [UPD]   📢 📦 dennismilton/signalk-dmi
+     ⭐ 0  🗣 JavaScript  📅 2026-07-10
+     🔗 https://github.com/dennismilton/signalk-dmi
+     📝 DMI free met/ocean data as a Signal K server plugin (Danish waters — forecast, m…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-10 09:37:52 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-10 09:37:52 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-10 09:37:55 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-10 09:37:55 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-07-10 09:37:55 UTC] [NEW]   🆕 📦 sulaimansikder778-boop/linux-command--003
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/sulaimansikder778-boop/linux-command--003
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:55 UTC] [NEW]   🆕 📦 nanzhouym/GPT-Claude-instruct
+     ⭐ 3  🗣 PowerShell  📅 2026-07-09
+     🔗 https://github.com/nanzhouym/GPT-Claude-instruct
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:55 UTC] [NEW]   🆕 📦 byliu-labs/egress-guard
+     ⭐ 0  🗣 Go  📅 2026-07-10
+     🔗 https://github.com/byliu-labs/egress-guard
+     📝 Stop a malicious pip install from stealing your AWS keys, SSH keys, and .env sec…
+     🏷  egress, firewall, golang, nftables, pf, pii, security, supply-chain
+[2026-07-10 09:37:55 UTC] [NEW]   🆕 📦 ishanali028/Pentest-Tools-
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/ishanali028/Pentest-Tools-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 09:37:55 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-10 09:37:55 UTC] [UPD]   📢 📦 jleechanorg/ez-gh-actions
+     ⭐ 6  🗣 Rust  📅 2026-07-03
+     🔗 https://github.com/jleechanorg/ez-gh-actions
+     📝 Easy isolated self-hosted GitHub Actions runners (VM-preferred: Tart/libvirt, Do…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-10 09:37:55 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-10 09:37:55 UTC] [UPD]   📢 📦 imopositive/Pegasus-style
+     ⭐ 0  🗣 N/A  📅 2026-07-09
+     🔗 https://github.com/imopositive/Pegasus-style
+     📝 Hkr gpt
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-10 09:37:55 UTC] [INFO] ============================================================
+[2026-07-10 09:37:55 UTC] [INFO] Completato — 25 nuovi, 6 aggiornati, 0 errori
+[2026-07-10 09:37:55 UTC] [INFO] ============================================================
