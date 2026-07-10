@@ -35351,3 +35351,201 @@
 [2026-07-10 09:37:55 UTC] [INFO] ============================================================
 [2026-07-10 09:37:55 UTC] [INFO] Completato — 25 nuovi, 6 aggiornati, 0 errori
 [2026-07-10 09:37:55 UTC] [INFO] ============================================================
+[2026-07-10 14:29:50 UTC] [INFO] ============================================================
+[2026-07-10 14:29:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-10 14:29:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-10 14:29:50 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-10 14:29:50 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-10 14:29:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-10 14:29:50 UTC] [INFO] ============================================================
+[2026-07-10 14:29:50 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-10 14:29:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-10 14:29:52 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-10 14:29:52 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-10 14:29:52 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-10 14:29:52 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-10 14:29:52 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-10 14:29:55 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 0xBlockPay/windows-security
+     ⭐ 0  🗣 C++  📅 2026-07-10
+     🔗 https://github.com/0xBlockPay/windows-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 arasadrahman/elfwatch
+     ⭐ 0  🗣 Go  📅 2026-07-10
+     🔗 https://github.com/arasadrahman/elfwatch
+     📝 Lightweight Linux daemon for real-time ELF execution monitoring, suspicious bina…
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 ZQM-Computing/zqm-attestation-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-07-09
+     🔗 https://github.com/ZQM-Computing/zqm-attestation-toolkit
+     📝 Forensic PowerShell suite for Windows integrity attestation — produces checksumm…
+     🏷  attestation, automation, bitlocker, cis, cis-benchmark, compliance, dfir, endpoint-security, forensic-attestation, forensics, incident-response, mssp, policy-as-code, powershell, powershell-core, powershell-module, security, supply-chain, tpm, windows
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 hX1-dev/ThreatCircuit
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/hX1-dev/ThreatCircuit
+     📝 Local-first, evidence-grounded multi-agent threat detection and investigation sy…
+     🏷  agentic-ai, cybersecurity, detection-engineering, local-first, multi-agent, python
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 indrajeetdhondugade/threat-intelligence-aggregator
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/indrajeetdhondugade/threat-intelligence-aggregator
+     📝 A Python-based Blue Team toolkit that automates threat intelligence feed aggrega…
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 yankywilson/tsundere-blockchain-c2
+     ⭐ 0  🗣 Zeek  📅 2026-07-10
+     🔗 https://github.com/yankywilson/tsundere-blockchain-c2
+     📝 Passive on-chain enumeration and full C2-protocol reverse-engineering of the Eth…
+     🏷  blockchain-c2, threat-intelligence, tsundere
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 Necrowisdom/outlook-mail-prioritizer
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/Necrowisdom/outlook-mail-prioritizer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 andreypwebgit/outbound-connections-monitor
+     ⭐ 0  🗣 Rust  📅 2026-07-10
+     🔗 https://github.com/andreypwebgit/outbound-connections-monitor
+     📝 Manual outbound connections scanner for Windows — process lineage, SHA-256 ident…
+     🏷  dfir, network-monitoring, rust, security, sqlite, tauri, threat-hunting, windows
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 cenobyte-vincit/dyen
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/cenobyte-vincit/dyen
+     📝 dyen
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 UsamaSarwar121/AirGuardEnterprise-v3
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/UsamaSarwar121/AirGuardEnterprise-v3
+     📝 AirGuardEnterprise v3 — production-ready Bluetooth security testing framework fo…
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 0xbitx/Windows-Enterprise-Compromise
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/0xbitx/Windows-Enterprise-Compromise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 0xbitx/Linux-Enterprise-Compromise
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/0xbitx/Linux-Enterprise-Compromise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 Romil-Amali/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-07-10
+     🔗 https://github.com/Romil-Amali/reverse-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 Suvankar40/Cyber-Security-All-Information
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/Suvankar40/Cyber-Security-All-Information
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 Jamiucloud/Memory-Forensics-DFIR-Volatility-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/Jamiucloud/Memory-Forensics-DFIR-Volatility-Investigation
+     📝 Incident response simulation: Conducted deep-dive memory forensics on a compromi…
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 0xbitx/ransomware_killchain
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/0xbitx/ransomware_killchain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 0xbitx/apt_killchain
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/0xbitx/apt_killchain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 Suvankar40/Red-Team-Offensive-Security
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/Suvankar40/Red-Team-Offensive-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 GlazeTrackTunnel/edrogccf
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/GlazeTrackTunnel/edrogccf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 winningsq/Helpshift-Malware-Enforcement-Audit-Framework
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/winningsq/Helpshift-Malware-Enforcement-Audit-Framework
+     📝  A methodology for identifying synchronization failures between security middlew…
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 AkashatSingh/EDrive
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/AkashatSingh/EDrive
+     📝 Storing data like files , etc, directly on Drive
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 workopia/Spain-Graduate-Internship-Jobs
+     ⭐ 0  🗣 JavaScript  📅 2026-07-10
+     🔗 https://github.com/workopia/Spain-Graduate-Internship-Jobs
+     📝 Empleo para recién graduados, prácticas y becas — actualizado a diario por Worko…
+     🏷  careers, entry-level, graduate-jobs, internships, job-search, jobs, new-grad
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 nikhilyd/resumeflow-ai
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/nikhilyd/resumeflow-ai
+     📝 ResumeFlow AI is an AI-powered Career Operating System that helps professionals …
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 syed-hassan7/iru-mcp-ops-desk
+     ⭐ 0  🗣 HTML  📅 2026-07-10
+     🔗 https://github.com/syed-hassan7/iru-mcp-ops-desk
+     📝 Iru MCP Ops Desk - EDR + LI triage with Correlation Map reports. Works in Cursor…
+     🏷  claude-code, cursor, edr, endpoint-management, iru, mcp
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 1111307/checklist_tool
+     ⭐ 0  🗣 HTML  📅 2026-07-10
+     🔗 https://github.com/1111307/checklist_tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 0xK3rnelX/0xList
+     ⭐ 0  🗣 ColdFusion  📅 2026-07-10
+     🔗 https://github.com/0xK3rnelX/0xList
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:55 UTC] [NEW]   🆕 📦 volod-k/agentic-ai-soc-knowledge-base
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/volod-k/agentic-ai-soc-knowledge-base
+     📝 Research for security teams whose alert volume has outrun the SOC and who are de…
+     🏷  agentic-ai-soc, agentic-soc, ai-security, ai-soc, alert-triage, autonomous-soc, blueteam, cybersecurity, explainable-ai, incident-response, llm-security, mdr, mitre-attack, security-operations, security-research, soar, soc, threat-detection, underdefense, vendor-comparison
+[2026-07-10 14:29:55 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-10 14:29:55 UTC] [UPD]   📢 📦 aurangzebkkk/Inpute
+     ⭐ 0  🗣 Zig  📅 2026-07-09
+     🔗 https://github.com/aurangzebkkk/Inpute
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-10 14:29:55 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-10 14:29:55 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-10 14:29:58 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-10 14:29:58 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-07-10 14:29:58 UTC] [NEW]   🆕 📦 markusloffler/ai-sandbox
+     ⭐ 0  🗣 JavaScript  📅 2026-07-10
+     🔗 https://github.com/markusloffler/ai-sandbox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:58 UTC] [NEW]   🆕 📦 0xbitx/Windows-Enterprise-Compromise
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/0xbitx/Windows-Enterprise-Compromise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:58 UTC] [NEW]   🆕 📦 0xbitx/Linux-Enterprise-Compromise
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/0xbitx/Linux-Enterprise-Compromise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:58 UTC] [NEW]   🆕 📦 0xbitx/apt_killchain
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/0xbitx/apt_killchain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 14:29:58 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-10 14:29:58 UTC] [UPD]   📢 📦 nanzhouym/GPT-Claude-instruct
+     ⭐ 3  🗣 PowerShell  📅 2026-07-09
+     🔗 https://github.com/nanzhouym/GPT-Claude-instruct
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-10 14:29:58 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-10 14:29:58 UTC] [INFO] ============================================================
+[2026-07-10 14:29:58 UTC] [INFO] Completato — 31 nuovi, 3 aggiornati, 0 errori
+[2026-07-10 14:29:58 UTC] [INFO] ============================================================
