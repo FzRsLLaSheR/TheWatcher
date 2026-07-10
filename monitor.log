@@ -35549,3 +35549,170 @@
 [2026-07-10 14:29:58 UTC] [INFO] ============================================================
 [2026-07-10 14:29:58 UTC] [INFO] Completato — 31 nuovi, 3 aggiornati, 0 errori
 [2026-07-10 14:29:58 UTC] [INFO] ============================================================
+[2026-07-10 19:35:04 UTC] [INFO] ============================================================
+[2026-07-10 19:35:04 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-10 19:35:04 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-10 19:35:04 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-10 19:35:04 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-10 19:35:04 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-10 19:35:04 UTC] [INFO] ============================================================
+[2026-07-10 19:35:04 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-10 19:35:04 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-10 19:35:06 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-10 19:35:06 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-10 19:35:06 UTC] [NEW]   🆕 📦 doubl3dbag/windows-cryptominer-infostealer-ir
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/doubl3dbag/windows-cryptominer-infostealer-ir
+     📝 IR and malware analysis of a Windows cryptominer + Phemedrone infostealer delive…
+     🏷  —
+[2026-07-10 19:35:06 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-10 19:35:06 UTC] [UPD]   📢 📦 SecurityRonin/forensic-hashdb
+     ⭐ 0  🗣 Rust  📅 2026-07-08
+     🔗 https://github.com/SecurityRonin/forensic-hashdb
+     📝 File hash databases for digital forensics — NSRL/CIRCL known-good, malware known…
+     🏷  dfir, digital-forensics, forensics, hashset, incident-response, loldrivers, nsrl, rust
+     🔄 Motivo: repo recente (2gg)
+[2026-07-10 19:35:06 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-10 19:35:06 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-10 19:35:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 run599/zeta
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/run599/zeta
+     📝 通过 Pending IRP 实现 HIPS 与 EDR 日志不中断”的完整范式
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 GabrielNeri2/roso_risotolandia
+     ⭐ 0  🗣 PowerShell  📅 2026-07-10
+     🔗 https://github.com/GabrielNeri2/roso_risotolandia
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 luizrodrigues9/luizrodrigues9
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/luizrodrigues9/luizrodrigues9
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 rabiulhasann/rabiulhasann
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/rabiulhasann/rabiulhasann
+     📝 About Me
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 MrEchoFi/mitre_attack_master
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/MrEchoFi/mitre_attack_master
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 elevrr8468/sync-worker-h0b8edro
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/elevrr8468/sync-worker-h0b8edro
+     📝 Event pipeline sandbox for batch imports and webhook fan-out.
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 sammyHa/deltacode
+     ⭐ 1  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/sammyHa/deltacode
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 rezka4524119/UAS-Ransomware-BSI-EtikaProfesi
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/rezka4524119/UAS-Ransomware-BSI-EtikaProfesi
+     📝 Project Based Learning Mata Kuliah Etika Profesi Kasus Ransomware Bank Syariah I…
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 priyanshu-6578mishra/Event-data-Recorder-For-LEV
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/priyanshu-6578mishra/Event-data-Recorder-For-LEV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 Threathunter7/ghost-pepper-windows
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/Threathunter7/ghost-pepper-windows
+     📝 100% local hold-to-talk dictation + meeting notes for Windows (inspired by macOS…
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 catcarloslaguna/awesome-osint-arsenal
+     ⭐ 0  🗣 Shell  📅 2026-07-10
+     🔗 https://github.com/catcarloslaguna/awesome-osint-arsenal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 SARANJITH02/Ransomware-Detection-Response-Lab
+     ⭐ 1  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/SARANJITH02/Ransomware-Detection-Response-Lab
+     📝 This document covers everything from environment setup to detection, analysis, a…
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 0xbitx/Wireless-Attack-Operations
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/0xbitx/Wireless-Attack-Operations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 DAH2026-CnCS/DEFENSE
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/DAH2026-CnCS/DEFENSE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 harshithabrreddy/IOC-Alert-Analysis-and-Incident-Reporting
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/harshithabrreddy/IOC-Alert-Analysis-and-Incident-Reporting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 Cosm3No1de/HTB-PhantomRing-Sherlock
+     ⭐ 0  🗣 HTML  📅 2026-07-10
+     🔗 https://github.com/Cosm3No1de/HTB-PhantomRing-Sherlock
+     📝 Static analysis walkthrough for PhantomRing (HTB Sherlock). Linux malware analyz…
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 Pahoeh0e/SOC_Home_Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/Pahoeh0e/SOC_Home_Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [NEW]   🆕 📦 BeiyanYunyi/scatter
+     ⭐ 0  🗣 Rust  📅 2026-07-10
+     🔗 https://github.com/BeiyanYunyi/scatter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-10 19:35:10 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-10 19:35:10 UTC] [UPD]   📢 📦 andreypwebgit/outbound-connections-monitor
+     ⭐ 0  🗣 Rust  📅 2026-07-10
+     🔗 https://github.com/andreypwebgit/outbound-connections-monitor
+     📝 Manual outbound connections scanner for Windows — process lineage, SHA-256 ident…
+     🏷  dfir, network-monitoring, rust, security, sqlite, tauri, threat-hunting, windows
+     🔄 Motivo: repo recente (0gg)
+[2026-07-10 19:35:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-10 19:35:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-10 19:35:12 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-10 19:35:12 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-10 19:35:12 UTC] [NEW]   🆕 📦 shalabhdixit/temporal-agent-sandbox
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/shalabhdixit/temporal-agent-sandbox
+     📝 Durable multi-agent Temporal workflows with sandboxed untrusted execution (Docke…
+     🏷  —
+[2026-07-10 19:35:12 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-07-10 19:35:12 UTC] [UPD]   📢 📦 jleechanorg/ez-gh-actions
+     ⭐ 6  🗣 Rust  📅 2026-07-03
+     🔗 https://github.com/jleechanorg/ez-gh-actions
+     📝 Easy isolated self-hosted GitHub Actions runners (VM-preferred: Tart/libvirt, Do…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-10 19:35:12 UTC] [UPD]   📢 📦 markusloffler/ai-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-07-10
+     🔗 https://github.com/markusloffler/ai-sandbox
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-10 19:35:12 UTC] [UPD]   📢 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 One directive → a herd of AI agents that plan, build, verify, and re-plan across…
+     🏷  agentic, ai-agents, autonomous-agents, code-generation, developer-tools, golang, llm, mcp, multi-agent, ollama, orchestration
+     🔄 Motivo: repo recente (7gg)
+[2026-07-10 19:35:12 UTC] [UPD]   📢 📦 zoomHass2-glitch/comet
+     ⭐ 0  🗣 Python  📅 2026-07-09
+     🔗 https://github.com/zoomHass2-glitch/comet
+     📝 Autonomous red-team kill-chain plugin for Claude Code + OMC — a hardened re-arch…
+     🏷  adversary-emulation, claude-code, kill-chain, mitre-attack, purple-team, red-team, security, sliver
+     🔄 Motivo: repo recente (1gg)
+[2026-07-10 19:35:12 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-10 19:35:12 UTC] [INFO] ============================================================
+[2026-07-10 19:35:12 UTC] [INFO] Completato — 20 nuovi, 7 aggiornati, 0 errori
+[2026-07-10 19:35:12 UTC] [INFO] ============================================================
