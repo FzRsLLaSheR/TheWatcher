@@ -36224,3 +36224,132 @@
 [2026-07-11 13:22:28 UTC] [INFO] ============================================================
 [2026-07-11 13:22:28 UTC] [INFO] Completato — 27 nuovi, 3 aggiornati, 0 errori
 [2026-07-11 13:22:28 UTC] [INFO] ============================================================
+[2026-07-11 19:05:35 UTC] [INFO] ============================================================
+[2026-07-11 19:05:35 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-11 19:05:35 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-11 19:05:35 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-11 19:05:35 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-11 19:05:35 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-11 19:05:35 UTC] [INFO] ============================================================
+[2026-07-11 19:05:35 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-11 19:05:35 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-11 19:05:36 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-11 19:05:36 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-11 19:05:36 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-11 19:05:36 UTC] [UPD]   📢 📦 Momollax/momdrop
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/Momollax/momdrop
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-11 19:05:36 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-11 19:05:36 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-11 19:05:39 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 EynaExp/MiMiNi-EDR
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/EynaExp/MiMiNi-EDR
+     📝 Windows kernel-mode EDR agent for endpoint detection and response
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 MacrobyteBrasilofc/Vistas-Defender
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/MacrobyteBrasilofc/Vistas-Defender
+     📝 Vistas Defender é uma suíte de segurança e proteção comportamental proativa (EDR…
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 Akshu121796/VYUHA-AI
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/Akshu121796/VYUHA-AI
+     📝 VYUHA.AI is an AI-powered Endpoint Detection & Response (EDR) platform that dete…
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 HelixCipher/mouse-jiggler
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/HelixCipher/mouse-jiggler
+     📝 Cross-platform Bezier curve hardware mouse jiggler using an RP2350-One. Spoofs a…
+     🏷  adafruit, bezier-curves, circuitpython, edr-evasion, hid, mouse-jiggler, pico, rp2350, waveshare
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 SanghyeokLee-KR/incident-response-cryptominer
+     ⭐ 0  🗣 PowerShell  📅 2026-07-11
+     🔗 https://github.com/SanghyeokLee-KR/incident-response-cryptominer
+     📝 GPU 크립토재킹 마이너 침해 대응 기록
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 pmoses-s1/s1-ueba-deployer
+     ⭐ 1  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/pmoses-s1/s1-ueba-deployer
+     📝 One-click UEBA anomaly-detection deployer for SentinelOne SDL (interactive UI + …
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 wesmar/EfiTool
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/wesmar/EfiTool
+     📝 0/68 VirusTotal. NT AUTHORITY\SYSTEM before the logon screen. No disk writes. No…
+     🏷  bitlocker-bypass, bootkit, efi-bootkit
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 Sarbojit482/Keylogger
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/Sarbojit482/Keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 Nicconcello/Behavioural-Anti-Keylogger-Keylogger-Simulator
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/Nicconcello/Behavioural-Anti-Keylogger-Keylogger-Simulator
+     📝 Un progetto didattico di Cybersecurity composto da due moduli: un **Simulatore d…
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 ArtemSelin/MITRE-ATTACK-pcaps
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/ArtemSelin/MITRE-ATTACK-pcaps
+     📝 Данный репозиторий представляет собой открытый банк эталонных pcap файлов в клас…
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 emadprograms/sync-bridge
+     ⭐ 0  🗣 PowerShell  📅 2026-07-11
+     🔗 https://github.com/emadprograms/sync-bridge
+     📝 Bridges two network together
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 Ilyes1810/SRT
+     ⭐ 0  🗣 HTML  📅 2026-07-11
+     🔗 https://github.com/Ilyes1810/SRT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 hdu-sangfor/trustguard-xdr-mock
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/hdu-sangfor/trustguard-xdr-mock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 Keshav-137/Intelligent-Firewall
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/Keshav-137/Intelligent-Firewall
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 19:05:39 UTC] [NEW]   🆕 📦 samthehackers/Umbra
+     ⭐ 1  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/samthehackers/Umbra
+     📝 AI-powered Attack Surface Management & Cyber Risk Platform for continuous asset …
+     🏷  —
+[2026-07-11 19:05:39 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-11 19:05:39 UTC] [UPD]   📢 📦 cyberrage-ananymus/Cyber-Defense-Shield
+     ⭐ 1  🗣 Python  📅 2026-07-05
+     🔗 https://github.com/cyberrage-ananymus/Cyber-Defense-Shield
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-11 19:05:39 UTC] [UPD]   📢 📦 jdawg867/arbitrage-bot
+     ⭐ 0  🗣 JavaScript  📅 2026-07-10
+     🔗 https://github.com/jdawg867/arbitrage-bot
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-11 19:05:39 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-11 19:05:39 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-11 19:05:41 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-11 19:05:41 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-11 19:05:41 UTC] [NEW]   🆕 📦 NightVibes33/Aegis27
+     ⭐ 0  🗣 Swift  📅 2026-07-11
+     🔗 https://github.com/NightVibes33/Aegis27
+     📝 Authorized iOS 27 security research harness for iPhone 16
+     🏷  —
+[2026-07-11 19:05:41 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-11 19:05:41 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-11 19:05:41 UTC] [INFO] ============================================================
+[2026-07-11 19:05:41 UTC] [INFO] Completato — 16 nuovi, 4 aggiornati, 0 errori
+[2026-07-11 19:05:41 UTC] [INFO] ============================================================
