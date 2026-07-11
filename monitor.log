@@ -36046,3 +36046,181 @@
 [2026-07-11 07:58:23 UTC] [INFO] ============================================================
 [2026-07-11 07:58:23 UTC] [INFO] Completato — 11 nuovi, 5 aggiornati, 0 errori
 [2026-07-11 07:58:23 UTC] [INFO] ============================================================
+[2026-07-11 13:22:21 UTC] [INFO] ============================================================
+[2026-07-11 13:22:21 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-11 13:22:21 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-11 13:22:21 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-11 13:22:21 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-11 13:22:21 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-11 13:22:21 UTC] [INFO] ============================================================
+[2026-07-11 13:22:21 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-11 13:22:21 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-11 13:22:23 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-11 13:22:23 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-11 13:22:23 UTC] [NEW]   🆕 📦 Momollax/momdrop
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/Momollax/momdrop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:23 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-11 13:22:23 UTC] [UPD]   📢 📦 v8k6b2jjps-prog/PPLcontrol
+     ⭐ 1  🗣 PowerShell  📅 2026-07-04
+     🔗 https://github.com/v8k6b2jjps-prog/PPLcontrol
+     📝 POC ps1 library to explore kernel option
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-11 13:22:23 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-11 13:22:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-11 13:22:26 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 darshan-bytespec/nimbus
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/darshan-bytespec/nimbus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 cleton258/precision-mouse-fix
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/cleton258/precision-mouse-fix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 mr-edr/TaskManager
+     ⭐ 0  🗣 Java  📅 2026-07-11
+     🔗 https://github.com/mr-edr/TaskManager
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 anujprajapati2109/SOC-Sentinel
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/anujprajapati2109/SOC-Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 Momollax/momdrop
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/Momollax/momdrop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 cleton258/precision-mouse-
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/cleton258/precision-mouse-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 Loydie123/aegis-edr
+     ⭐ 0  🗣 Go  📅 2026-07-11
+     🔗 https://github.com/Loydie123/aegis-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 sumitadhalkar/agentic-AI-SOC-Security-Operations-Center-assistant
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/sumitadhalkar/agentic-AI-SOC-Security-Operations-Center-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 erangross27/redoubt
+     ⭐ 0  🗣 Rust  📅 2026-07-10
+     🔗 https://github.com/erangross27/redoubt
+     📝 Autonomous, on-device endpoint defender (EDR) built in Rust — decides and acts o…
+     🏷  ai-security, anti-malware, cybersecurity, edr, endpoint-security, linux, macos, malware-detection, mitre-attack, on-device-ai, open-source, rust, security, windows
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 cleton258/precision-mouse-exe
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/cleton258/precision-mouse-exe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 cleton258/precision-mouse-pro
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/cleton258/precision-mouse-pro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 cleton258/precision-mouse-filter-exe-
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/cleton258/precision-mouse-filter-exe-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 cleton258/precision-mouse-filter-
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/cleton258/precision-mouse-filter-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 sudo-su-ayan-ali/sudo-su-ayan-ali
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/sudo-su-ayan-ali/sudo-su-ayan-ali
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 cleton258/precision-mouse-filter-exe-v2
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/cleton258/precision-mouse-filter-exe-v2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 tonydong-zt/security-agent-platform
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/tonydong-zt/security-agent-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 BoxStrikesTeam/GhostPrint-SMBF-SecretMem-Behavioral-Fingerprinting-
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/BoxStrikesTeam/GhostPrint-SMBF-SecretMem-Behavioral-Fingerprinting-
+     📝 GhostPrint (SMBF — SecretMem Behavioral Fingerprinting)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 3735943886/btregkey
+     ⭐ 0  🗣 C  📅 2026-07-11
+     🔗 https://github.com/3735943886/btregkey
+     📝 A Windows command-line tool for managing Bluetooth pairing keys.
+     🏷  bluetooth, keys, pairing, windows
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 yuyeming0115/MMY-C-DriveCleanup
+     ⭐ 0  🗣 PowerShell  📅 2026-07-11
+     🔗 https://github.com/yuyeming0115/MMY-C-DriveCleanup
+     📝 传统清理工具（CCleaner / WizTree）是执行层：扫到就删，但不懂你——一个 3.8G 的 Chrome 缓存只会告诉你"用户缓存，可删"，你不知道…
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 NisargDedakiya/Silentguard-xdr
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/NisargDedakiya/Silentguard-xdr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 Javara1608/EDrum-V1-PRO
+     ⭐ 0  🗣 C  📅 2026-07-11
+     🔗 https://github.com/Javara1608/EDrum-V1-PRO
+     📝 DIY Electronic Drum For Arduino Pro Micro USB MIDI
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 aadilvarshani/reaperwatch
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/aadilvarshani/reaperwatch
+     📝 Open source EDR for Windows. Built to learn, built to detect.
+     🏷  —
+[2026-07-11 13:22:26 UTC] [NEW]   🆕 📦 shri-j41/sentrixai-alert-triage
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/shri-j41/sentrixai-alert-triage
+     📝 Explainable, context-aware security alert triage for SMEs using XGBoost, SHAP, a…
+     🏷  —
+[2026-07-11 13:22:26 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-11 13:22:26 UTC] [UPD]   📢 📦 teohumble1/avsuite
+     ⭐ 0  🗣 C++  📅 2026-07-09
+     🔗 https://github.com/teohumble1/avsuite
+     📝 Windows kernel security research suite - minifilter driver, YARA + ETW + behavio…
+     🏷  antivirus, cpp20, edr, etw, kernel-driver, llama-cpp, malware-detection, minifilter, qt6, security-research, windows, yara
+     🔄 Motivo: repo recente (2gg)
+[2026-07-11 13:22:26 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-11 13:22:26 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-11 13:22:28 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-11 13:22:28 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-11 13:22:28 UTC] [NEW]   🆕 📦 afmaghribi/tetragon-lab
+     ⭐ 0  🗣 C  📅 2026-07-11
+     🔗 https://github.com/afmaghribi/tetragon-lab
+     📝 Testing Tetragon's policy against kernel exploits for container escapes.
+     🏷  —
+[2026-07-11 13:22:28 UTC] [NEW]   🆕 📦 alienkeric/alienkeric
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/alienkeric/alienkeric
+     📝 about me
+     🏷  —
+[2026-07-11 13:22:28 UTC] [NEW]   🆕 📦 Mstfanayef/HTB-Grandpa-Writeup
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/Mstfanayef/HTB-Grandpa-Writeup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 13:22:28 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-11 13:22:28 UTC] [UPD]   📢 📦 pdbethke/corralai
+     ⭐ 0  🗣 Go  📅 2026-07-03
+     🔗 https://github.com/pdbethke/corralai
+     📝 One directive → a herd of AI agents that plan, build, verify, and re-plan across…
+     🏷  agentic, ai-agents, autonomous-agents, code-generation, developer-tools, golang, llm, mcp, multi-agent, ollama, orchestration
+     🔄 Motivo: repo recente (7gg)
+[2026-07-11 13:22:28 UTC] [INFO] ============================================================
+[2026-07-11 13:22:28 UTC] [INFO] Completato — 27 nuovi, 3 aggiornati, 0 errori
+[2026-07-11 13:22:28 UTC] [INFO] ============================================================
