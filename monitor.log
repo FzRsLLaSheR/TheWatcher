@@ -35936,3 +35936,113 @@
 [2026-07-11 02:46:11 UTC] [INFO] ============================================================
 [2026-07-11 02:46:11 UTC] [INFO] Completato — 33 nuovi, 5 aggiornati, 0 errori
 [2026-07-11 02:46:11 UTC] [INFO] ============================================================
+[2026-07-11 07:58:18 UTC] [INFO] ============================================================
+[2026-07-11 07:58:18 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-11 07:58:18 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-11 07:58:18 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-11 07:58:18 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-11 07:58:18 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-11 07:58:18 UTC] [INFO] ============================================================
+[2026-07-11 07:58:18 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-11 07:58:18 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-11 07:58:19 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-11 07:58:19 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-11 07:58:19 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-11 07:58:19 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-11 07:58:19 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-11 07:58:21 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 10 NUOVI repository:
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 AlirezaBahador/SentinelEDR
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/AlirezaBahador/SentinelEDR
+     📝 Open-source Endpoint Detection and Response (EDR) platform for real-time threat …
+     🏷  —
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 ShashankD210/osint-arsenal
+     ⭐ 0  🗣 Shell  📅 2026-07-11
+     🔗 https://github.com/ShashankD210/osint-arsenal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 tamaki094/com.edri.financeflowapi
+     ⭐ 0  🗣 Java  📅 2026-07-11
+     🔗 https://github.com/tamaki094/com.edri.financeflowapi
+     📝 API Planificador Finanzas 
+     🏷  —
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 CrimsonfiedOfficial/CVE-2024-13985
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/CrimsonfiedOfficial/CVE-2024-13985
+     📝 Dahua CVE-2024-13985
+     🏷  —
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 HYDRAkid3/chainsaw-windows-event-log-triage
+     ⭐ 1  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/HYDRAkid3/chainsaw-windows-event-log-triage
+     📝 Offline Windows Sysmon EVTX triage using Chainsaw, Sigma rules, process-chain an…
+     🏷  blue-team, chainsaw, cybersecurity, dfir, incident-response, kali-linux, sigma, sysmon, threat-hunting, windows-event-logs
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 Priyanka-5117/home-soc-lab-splunk
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/Priyanka-5117/home-soc-lab-splunk
+     📝 Home SOC Lab with Splunk SIEM, OPNsense firewall, Sysmon - Detection rules mappe…
+     🏷  —
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 jcimportunlimited/cmmc-grc
+     ⭐ 0  🗣 TypeScript  📅 2026-07-11
+     🔗 https://github.com/jcimportunlimited/cmmc-grc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 muzammil-iqb/muzammil-iqb.github.io
+     ⭐ 0  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/muzammil-iqb/muzammil-iqb.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 TheAngryRaven/insta360-ble-spec
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/TheAngryRaven/insta360-ble-spec
+     📝 Insta360 ble protocol confirmed working on an x4 with GPS
+     🏷  ble, bluetooth, bluetooth-low-energy, insta360, insta360-ble
+[2026-07-11 07:58:21 UTC] [NEW]   🆕 📦 getascraper/how-to-scrape-nuernberg-messe
+     ⭐ 0  🗣 JavaScript  📅 2026-07-11
+     🔗 https://github.com/getascraper/how-to-scrape-nuernberg-messe
+     📝 Scrape exhibitor lists from any NuernbergMesse trade fair. Get company names, ad…
+     🏷  apify, apify-actor, b2b-leads, booth-locations, chillventa, data-extraction, embedded-world, employee-contacts, europe, exhibitor-directory, fachpack, galabau, germany, interzoo, itsa365, lead-generation, nuernberg-messe, nuernbergmesse-scraper, product-categories, trade-fair
+[2026-07-11 07:58:21 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-11 07:58:21 UTC] [UPD]   📢 📦 teohumble1/avsuite
+     ⭐ 0  🗣 C++  📅 2026-07-09
+     🔗 https://github.com/teohumble1/avsuite
+     📝 Windows kernel security research suite - minifilter driver, YARA + ETW + behavio…
+     🏷  antivirus, cpp20, edr, etw, kernel-driver, llama-cpp, malware-detection, minifilter, qt6, security-research, windows, yara
+     🔄 Motivo: repo recente (2gg) | nuovi topic: cpp20, security-research, yara, minifilter, edr, malware-detection, antivirus, kernel-driver, qt6, etw, windows, llama-cpp
+[2026-07-11 07:58:21 UTC] [UPD]   📢 📦 gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT
+     ⭐ 48  🗣 JavaScript  📅 2026-03-20
+     🔗 https://github.com/gameworkerkim/CYBER-THREAT-INTELLIGENCE-REPORT
+     📝 Independent OSINT CTI archive (TLP:GREEN): supply-chain, zero-day, DPRK/APT, AI/…
+     🏷  cti, cyber-threat-intelligence, cybersecurity, korea, llm-security, osint, supply-chain-security, threat-intelligence, web3-security, zero-day
+     🔄 Motivo: nuovi topic: threat-intelligence, korea, osint, llm-security, zero-day, supply-chain-security, cti, web3-security, cyber-threat-intelligence, cybersecurity
+[2026-07-11 07:58:21 UTC] [UPD]   📢 📦 jdawg867/arbitrage-bot
+     ⭐ 0  🗣 JavaScript  📅 2026-07-10
+     🔗 https://github.com/jdawg867/arbitrage-bot
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-11 07:58:21 UTC] [UPD]   📢 📦 Ionity-Global/picolink
+     ⭐ 0  🗣 JavaScript  📅 2026-07-10
+     🔗 https://github.com/Ionity-Global/picolink
+     📝 IONITY PicoLink - turn a Raspberry Pi Pico W into a plug-and-play USB Bluetooth …
+     🏷  ble, bluetooth, electron, ionity, raspberry-pi-pico, usb-dongle
+     🔄 Motivo: repo recente (0gg)
+[2026-07-11 07:58:21 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-11 07:58:21 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-11 07:58:23 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-11 07:58:23 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-11 07:58:23 UTC] [NEW]   🆕 📦 0xSatoruX/SEC-NOTES
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/0xSatoruX/SEC-NOTES
+     📝 notes
+     🏷  —
+[2026-07-11 07:58:23 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-11 07:58:23 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-11 07:58:23 UTC] [INFO] ============================================================
+[2026-07-11 07:58:23 UTC] [INFO] Completato — 11 nuovi, 5 aggiornati, 0 errori
+[2026-07-11 07:58:23 UTC] [INFO] ============================================================
