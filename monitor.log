@@ -36353,3 +36353,211 @@
 [2026-07-11 19:05:41 UTC] [INFO] ============================================================
 [2026-07-11 19:05:41 UTC] [INFO] Completato — 16 nuovi, 4 aggiornati, 0 errori
 [2026-07-11 19:05:41 UTC] [INFO] ============================================================
+[2026-07-12 02:54:18 UTC] [INFO] ============================================================
+[2026-07-12 02:54:18 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-12 02:54:18 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-12 02:54:18 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-12 02:54:18 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-12 02:54:18 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-12 02:54:18 UTC] [INFO] ============================================================
+[2026-07-12 02:54:18 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-12 02:54:18 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-12 02:54:20 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-12 02:54:20 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-12 02:54:20 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-12 02:54:20 UTC] [UPD]   📢 📦 guimunizzz/Forensics-Notes
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/guimunizzz/Forensics-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-12 02:54:20 UTC] [UPD]   📢 📦 Momollax/momdrop
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/Momollax/momdrop
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-12 02:54:20 UTC] [UPD]   📢 📦 v8k6b2jjps-prog/PPLcontrol
+     ⭐ 1  🗣 PowerShell  📅 2026-07-04
+     🔗 https://github.com/v8k6b2jjps-prog/PPLcontrol
+     📝 POC ps1 library to explore kernel option
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-12 02:54:20 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-12 02:54:20 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-12 02:54:22 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 budanur/budanur.github.io
+     ⭐ 0  🗣 HTML  📅 2026-07-12
+     🔗 https://github.com/budanur/budanur.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 GediminasPa/BrightBar
+     ⭐ 0  🗣 Swift  📅 2026-07-11
+     🔗 https://github.com/GediminasPa/BrightBar
+     📝 Free macOS menu-bar app for safe Liquid Retina XDR brightness boosting
+     🏷  macos, menu-bar, swift, xdr
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 tekrogen/glidepath
+     ⭐ 0  🗣 TypeScript  📅 2026-07-11
+     🔗 https://github.com/tekrogen/glidepath
+     📝 Glidepath — every card, one ledger, zero surprises. Credit-card cockpit by Tekro…
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 nludd25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/nludd25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 C-Thee-G/Smart-Water-Guardian-System
+     ⭐ 0  🗣 PHP  📅 2026-07-12
+     🔗 https://github.com/C-Thee-G/Smart-Water-Guardian-System
+     📝 UJ Final Year Group Project - 2026
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 intnrlyana/Threat_Intelligent_Analyst
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/intnrlyana/Threat_Intelligent_Analyst
+     📝 Threat Intelligent Analyst is an evidence-first conversational threat-intelligen…
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 idacyber1/clickfix-etherhiding-analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/idacyber1/clickfix-etherhiding-analysis
+     📝 Defender-focused analysis of a ClickFix + EtherHiding campaign - defanged IOCs, …
+     🏷  clickfix, detection-engineering, etherhiding, malware-analysis, social-engineering, threat-intelligence
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 Jackalint/skill-hydra
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/Jackalint/skill-hydra
+     📝 The official skill for hydra for Openwar 
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 THAMER31/process-injection-internals
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/THAMER31/process-injection-internals
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 janderik/threat-hunter
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/janderik/threat-hunter
+     📝 Automated threat hunting framework
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 janderik/bluetooth-scanner
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/janderik/bluetooth-scanner
+     📝 Bluetooth device enumeration
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 lemrei2025-ai/Suricata_GeAI
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/lemrei2025-ai/Suricata_GeAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 Maximilian-SKM/soc-playbook-pack
+     ⭐ 0  🗣 HTML  📅 2026-07-11
+     🔗 https://github.com/Maximilian-SKM/soc-playbook-pack
+     📝 Interactive, browser-based study hub for SOC fundamentals - flashcards for new a…
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 Julian0444/desi-spectra-fm
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-11
+     🔗 https://github.com/Julian0444/desi-spectra-fm
+     📝 26M-parameter foundation model for DESI spectra — masked-token pretraining with …
+     🏷  astronomy, deep-learning, foundation-models, pytorch, self-supervised-learning, transformers
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 ricardo-fahham/carreira-cybersecurity
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/ricardo-fahham/carreira-cybersecurity
+     📝 A carreira em Cybersecurity (Cibersegurança ou Segurança da Informação) é respon…
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 THAMER31/windows-systems-toolkit
+     ⭐ 0  🗣 C++  📅 2026-07-11
+     🔗 https://github.com/THAMER31/windows-systems-toolkit
+     📝 Modern C++ Windows systems programming building blocks, built from real-world us…
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 altwytyb180-png/edrees.colab.-Cyber_Security
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/altwytyb180-png/edrees.colab.-Cyber_Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 brahimamirzerbout/predator-rubeus
+     ⭐ 0  🗣 C#  📅 2026-07-11
+     🔗 https://github.com/brahimamirzerbout/predator-rubeus
+     📝 Blacktrack tool: Rubeus
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 amar-imamovic/phantomring
+     ⭐ 0  🗣 C  📅 2026-07-11
+     🔗 https://github.com/amar-imamovic/phantomring
+     📝 Hack The Box - Sherlocks - Very Easy - PhantomRing
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 cybsaint/Malware_Traffic_Analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/cybsaint/Malware_Traffic_Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 ardaozkan11/cybersecurity-labs-
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/ardaozkan11/cybersecurity-labs-
+     📝 Uygulamalı siber güvenlik projeleri — Wazuh SIEM lab kurulumu ve otomatik log tr…
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 brahimamirzerbout/predator-donut
+     ⭐ 0  🗣 C  📅 2026-07-11
+     🔗 https://github.com/brahimamirzerbout/predator-donut
+     📝 Blacktrack tool: donut
+     🏷  —
+[2026-07-12 02:54:22 UTC] [NEW]   🆕 📦 Mayzam-exe/cyberforge-ai
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/Mayzam-exe/cyberforge-ai
+     📝  All-in-One Cybersecurity Suite — 31 Modules | 218+ Actions | AI Integration
+     🏷  —
+[2026-07-12 02:54:22 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-12 02:54:22 UTC] [UPD]   📢 📦 pmoses-s1/s1-ueba-deployer
+     ⭐ 1  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/pmoses-s1/s1-ueba-deployer
+     📝 One-click UEBA anomaly-detection deployer for SentinelOne SDL (interactive UI + …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-12 02:54:22 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-12 02:54:22 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-12 02:54:24 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-12 02:54:24 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-07-12 02:54:24 UTC] [NEW]   🆕 📦 adm00a1a-cloud/-lara-
+     ⭐ 0  🗣 Swift  📅 2026-07-12
+     🔗 https://github.com/adm00a1a-cloud/-lara-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 02:54:24 UTC] [NEW]   🆕 📦 likithkancharlapalli/metal-gemm
+     ⭐ 0  🗣 Objective-C++  📅 2026-07-12
+     🔗 https://github.com/likithkancharlapalli/metal-gemm
+     📝 From-scratch GPU matrix-multiply in Metal — naive vs threadgroup-tiled kernels, …
+     🏷  —
+[2026-07-12 02:54:24 UTC] [NEW]   🆕 📦 ThatsRaid/scrios
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/ThatsRaid/scrios
+     📝 iOS remote control via DarkSword exploit without Jailbreak
+     🏷  —
+[2026-07-12 02:54:24 UTC] [NEW]   🆕 📦 Mayzam-exe/cyberforge-ai
+     ⭐ 0  🗣 Python  📅 2026-07-11
+     🔗 https://github.com/Mayzam-exe/cyberforge-ai
+     📝  All-in-One Cybersecurity Suite — 31 Modules | 218+ Actions | AI Integration
+     🏷  —
+[2026-07-12 02:54:24 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-12 02:54:24 UTC] [UPD]   📢 📦 ahmedwd22/ethical-hacking-labs
+     ⭐ 0  🗣 N/A  📅 2026-07-11
+     🔗 https://github.com/ahmedwd22/ethical-hacking-labs
+     📝 Hands-on ethical hacking labs in an isolated VMware environment — Windows kernel…
+     🏷  hacking-pentest-kali-metasploit-vmware-eternalblue
+     🔄 Motivo: repo recente (1gg)
+[2026-07-12 02:54:24 UTC] [UPD]   📢 📦 vtino17/tools-hacking
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/vtino17/tools-hacking
+     📝 85 tools hacking & penetration testing — network, webapp, exploitation, OSINT, w…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-12 02:54:24 UTC] [UPD]   📢 📦 NightVibes33/Aegis27
+     ⭐ 0  🗣 Swift  📅 2026-07-11
+     🔗 https://github.com/NightVibes33/Aegis27
+     📝 Authorized iOS 27 security research harness for iPhone 16
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-12 02:54:24 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-12 02:54:24 UTC] [INFO] ============================================================
+[2026-07-12 02:54:24 UTC] [INFO] Completato — 27 nuovi, 8 aggiornati, 0 errori
+[2026-07-12 02:54:24 UTC] [INFO] ============================================================
