@@ -36796,3 +36796,192 @@
 [2026-07-12 13:22:47 UTC] [INFO] ============================================================
 [2026-07-12 13:22:47 UTC] [INFO] Completato — 16 nuovi, 3 aggiornati, 0 errori
 [2026-07-12 13:22:47 UTC] [INFO] ============================================================
+[2026-07-12 19:07:30 UTC] [INFO] ============================================================
+[2026-07-12 19:07:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-12 19:07:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-12 19:07:30 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-12 19:07:30 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-12 19:07:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-12 19:07:30 UTC] [INFO] ============================================================
+[2026-07-12 19:07:30 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-12 19:07:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-12 19:07:31 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-12 19:07:31 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-07-12 19:07:31 UTC] [NEW]   🆕 📦 Haider303/trinity-lpe
+     ⭐ 0  🗣 C  📅 2026-07-12
+     🔗 https://github.com/Haider303/trinity-lpe
+     📝 Kernel-mode privilege escalation via three-driver BYOVD chain. Exploits FastDump…
+     🏷  —
+[2026-07-12 19:07:31 UTC] [NEW]   🆕 📦 NoobCat2000/IoCs
+     ⭐ 1  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/NoobCat2000/IoCs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:31 UTC] [NEW]   🆕 📦 ZeroDayVPN/Awesome-EDR-Bypass-Collection
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/ZeroDayVPN/Awesome-EDR-Bypass-Collection
+     📝 A comprehensive, curated collection of resources, tools, Proof-of-Concepts (PoCs…
+     🏷  av-evasion, awesome-list-red-team, byovd, edr-bypass, ethical-hacking, infosec, malware-development, penetration-testing, windows-internals, yscalls
+[2026-07-12 19:07:31 UTC] [NEW]   🆕 📦 valhar11/anti-cheat-research
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/valhar11/anti-cheat-research
+     📝 Anti-cheat research: escalation ladder from user-mode trainers to DMA/AI cheats …
+     🏷  —
+[2026-07-12 19:07:31 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-12 19:07:31 UTC] [UPD]   📢 📦 guimunizzz/Forensics-Notes
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/guimunizzz/Forensics-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-12 19:07:31 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-12 19:07:31 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-12 19:07:34 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 EphemeralKey/3AlertasLetsDefend
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/EphemeralKey/3AlertasLetsDefend
+     📝 Hoy voy a usar la plataforma web de LetsDefend, cuyo contenido y certificaciones…
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 litschi-space/wii-fitboard-as-scale
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/litschi-space/wii-fitboard-as-scale
+     📝 Verwandle dein altes Wii Fit Board mit einem Raspberry Pi in eine Personenwaage …
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 r-rohit/outlook-mcp-readonly
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/r-rohit/outlook-mcp-readonly
+     📝 Read-only MCP server for classic desktop Outlook on Windows (COM automation) — n…
+     🏷  claude, claude-desktop, com-automation, mcp, model-context-protocol, outlook, outlook-mcp, pywin32, read-only, windows
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 UsamaSarwar121/AirGuardEnterprise
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/UsamaSarwar121/AirGuardEnterprise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 jeevithg090/AlertForge
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/jeevithg090/AlertForge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 WiLL75G/wireshark-pcap-deep-analysis-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/WiLL75G/wireshark-pcap-deep-analysis-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 VictorAkN/phishing-incident-response
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/VictorAkN/phishing-incident-response
+     📝 Simulated phishing attack and incident response lab - Demonstrates end-to-end at…
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 palmerje/home-siem-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/palmerje/home-siem-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 qswsix5679/docs-starter-97edrhq6
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/qswsix5679/docs-starter-97edrhq6
+     📝 Docs site experiments for onboarding and troubleshooting content.
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 oleg-vdv/AutoGov
+     ⭐ 0  🗣 Go  📅 2026-07-12
+     🔗 https://github.com/oleg-vdv/AutoGov
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 Ivan-qa-rgb/powershell-shellcode-case
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/Ivan-qa-rgb/powershell-shellcode-case
+     📝 DFIR case: injected shellcode in powershell.exe.
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 m-adamek/School-Network-Design
+     ⭐ 1  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/m-adamek/School-Network-Design
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 harsh21633-sketch/Malware-Creation-Spyware-
+     ⭐ 2  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/harsh21633-sketch/Malware-Creation-Spyware-
+     📝 This repository contains a basic, lightweight keylogger designed to demonstrate …
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 NoobCat2000/IoCs
+     ⭐ 1  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/NoobCat2000/IoCs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 ZeroDayVPN/EDR-Bypass-Demos-Collection
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/ZeroDayVPN/EDR-Bypass-Demos-Collection
+     📝 A comprehensive collection of practical demonstrations showcasing fundamental ev…
+     🏷  apc-injection, av-evasion, cpp-evasion, csharp-malware, edr-bypass, etw-patching, malware-evasion, memory-encryption, offensive-security, red-team, shellcode-loader, syscalls
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 ZeroDayVPN/TartarusGate-EDR-Evasion
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/ZeroDayVPN/TartarusGate-EDR-Evasion
+     📝 An advanced evolution of the Hell's Gate and Halo's Gate techniques, designed to…
+     🏷  cybersecurity, edr-bypass, evasion-techniques, halos-gate, hells-gate, infosec, malware-development, offensive-rust, red-team, syscalls, tartarusgate, winapi-hooking
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 Muhammad-Tayab/NightOwl-IR
+     ⭐ 0  🗣 PowerShell  📅 2026-07-12
+     🔗 https://github.com/Muhammad-Tayab/NightOwl-IR
+     📝 Zero-dependency PowerShell incident-response triage toolkit for Windows - 87+ ch…
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 Sarumathi200667/malware-detection
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/Sarumathi200667/malware-detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 oanser-git/PIDSMaker-Leakage-Control
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/oanser-git/PIDSMaker-Leakage-Control
+     📝 PIDSMaker experimental implementations and reproducible P-EDR analyses
+     🏷  —
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 ZeroDayVPN/ScareCrow-EDR-Evasion-Framework
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/ZeroDayVPN/ScareCrow-EDR-Evasion-Framework
+     📝 Advanced payload creation framework for bypassing EDR solutions and Application …
+     🏷  amsi-bypass, dll-sideloading, edr-bypass, etw-patching, evasion-techniques, golang-security, malware-development, opsec, payload-generator, red-team, unhooking, windows-internals
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 ZeroDayVPN/Awesome-EDR-Bypass-Collection
+     ⭐ 0  🗣 N/A  📅 2026-07-12
+     🔗 https://github.com/ZeroDayVPN/Awesome-EDR-Bypass-Collection
+     📝 A comprehensive, curated collection of resources, tools, Proof-of-Concepts (PoCs…
+     🏷  av-evasion, awesome-list-red-team, byovd, edr-bypass, ethical-hacking, infosec, malware-development, penetration-testing, windows-internals, yscalls
+[2026-07-12 19:07:34 UTC] [NEW]   🆕 📦 JishnuRajesh2005/AeroRL
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/JishnuRajesh2005/AeroRL
+     📝 This Python-based Vertical Navigation (VNAV) trajectory optimization platform si…
+     🏷  —
+[2026-07-12 19:07:34 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-12 19:07:34 UTC] [UPD]   📢 📦 emadprograms/sync-bridge
+     ⭐ 0  🗣 PowerShell  📅 2026-07-11
+     🔗 https://github.com/emadprograms/sync-bridge
+     📝 Bridges two network together
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-12 19:07:34 UTC] [UPD]   📢 📦 tekrogen/glidepath
+     ⭐ 0  🗣 TypeScript  📅 2026-07-11
+     🔗 https://github.com/tekrogen/glidepath
+     📝 Glidepath — every card, one ledger, zero surprises. Credit-card cockpit by Tekro…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-12 19:07:34 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-12 19:07:34 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-12 19:07:35 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-12 19:07:35 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-12 19:07:35 UTC] [NEW]   🆕 📦 aldiboncel49-lgtm/CTF-Curriculum
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/aldiboncel49-lgtm/CTF-Curriculum
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-12 19:07:35 UTC] [NEW]   🆕 📦 JoinChang/ghostlock-ace6t
+     ⭐ 0  🗣 C  📅 2026-07-12
+     🔗 https://github.com/JoinChang/ghostlock-ace6t
+     📝 GhostLock exploit for OnePlus Ace 6T (Android 16, kernel 6.12.38, locked BL)
+     🏷  —
+[2026-07-12 19:07:35 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-12 19:07:35 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-12 19:07:35 UTC] [INFO] ============================================================
+[2026-07-12 19:07:35 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
+[2026-07-12 19:07:35 UTC] [INFO] ============================================================
