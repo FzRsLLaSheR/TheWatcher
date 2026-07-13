@@ -37199,3 +37199,182 @@
 [2026-07-13 02:55:49 UTC] [INFO] ============================================================
 [2026-07-13 02:55:49 UTC] [INFO] Completato — 33 nuovi, 4 aggiornati, 0 errori
 [2026-07-13 02:55:49 UTC] [INFO] ============================================================
+[2026-07-13 09:30:07 UTC] [INFO] ============================================================
+[2026-07-13 09:30:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-13 09:30:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-13 09:30:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-13 09:30:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-13 09:30:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-13 09:30:07 UTC] [INFO] ============================================================
+[2026-07-13 09:30:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-13 09:30:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-13 09:30:09 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-13 09:30:09 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-13 09:30:09 UTC] [NEW]   🆕 📦 poner7/dma-anticheat-defensive-research
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/poner7/dma-anticheat-defensive-research
+     📝 Sanitized defensive portfolio for DMA-class anti-cheat research, Windows driver …
+     🏷  anti-cheat, defensive-security, dma, false-positive-triage, security-research, windows-kernel
+[2026-07-13 09:30:09 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-13 09:30:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-13 09:30:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-13 09:30:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 tony11301130/open-edr-mdr-agent
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/tony11301130/open-edr-mdr-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 jadzoghaib/aegis-soc-triage
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/jadzoghaib/aegis-soc-triage
+     📝 SOC alert triage copilot: n8n-orchestrated pipeline with multi-source ingestion,…
+     🏷  automation, fastapi, incident-response, mitre-attack, n8n, security, soc, threat-intelligence, workflow-orchestration
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 bl4ckxr0sexd/bl4ck
+     ⭐ 0  🗣 TypeScript  📅 2026-07-12
+     🔗 https://github.com/bl4ckxr0sexd/bl4ck
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 harshongh4t/linux-file-event-test-suite
+     ⭐ 0  🗣 Shell  📅 2026-07-13
+     🔗 https://github.com/harshongh4t/linux-file-event-test-suite
+     📝 Linux File Event Handling Test Suite for validating EDR telemetry
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 netbirdio/netbird-mcp
+     ⭐ 0  🗣 TypeScript  📅 2026-07-12
+     🔗 https://github.com/netbirdio/netbird-mcp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 gutddts/security-log-report
+     ⭐ 1  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/gutddts/security-log-report
+     📝 安全告警日志智能分析报告工具 —— 基于 360 NDR/EDR 导出的 Excel 安全日志，自动生成含多维度统计图表（matplotlib）的 Markdo…
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 MohamedAhmede004/SOC-Storyteller
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/MohamedAhmede004/SOC-Storyteller
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 parthverma9805/STARLIGHT-AI-Enterprise-Cybersecurity-Platform
+     ⭐ 0  🗣 CSS  📅 2026-07-13
+     🔗 https://github.com/parthverma9805/STARLIGHT-AI-Enterprise-Cybersecurity-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 SilentRecon-crypto/ReconSentinel
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/SilentRecon-crypto/ReconSentinel
+     📝 An open-source Endpoint Detection & Response (EDR) platform combining Wazuh and …
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 Carumbad/ESPHome_ET312
+     ⭐ 0  🗣 C++  📅 2026-07-13
+     🔗 https://github.com/Carumbad/ESPHome_ET312
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 Divisionless/OpenSpan
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/Divisionless/OpenSpan
+     📝 Drive an iPad from a Windows PC over one Bluetooth radio — BLE keyboard + mouse,…
+     🏷  bluetooth, bluetooth-low-energy, hid, ipad, python
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 hacker-vs-cracker/malware-image-classification-pipeline
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/hacker-vs-cracker/malware-image-classification-pipeline
+     📝 A reproducible PyTorch pipeline for malware-image classification with duplicate …
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 rulearena/agentic-soc-agents
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/rulearena/agentic-soc-agents
+     📝 SOC 專業角色 AI agent 庫 — L1 到 SOC Manager 各層級的思維、工作流程、技術交付物、升級鏈條，可作為 Claude Code / …
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 IDM411/malware-analysis-catalyst
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/IDM411/malware-analysis-catalyst
+     📝 "Incident response investigation and threat intelligence analysis of a PoetRAT m…
+     🏷  cybersecurity, incident-response, malware-analysis, soc-analyst, threat-intelligence, virustotal
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 24pvt/Zee-Discord-Token-Grabber-
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/24pvt/Zee-Discord-Token-Grabber-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 Gunasekaran20050831/EDRLite-DLK
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/Gunasekaran20050831/EDRLite-DLK
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 gmra52iiv682/edrumj
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/gmra52iiv682/edrumj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 sanjay-2403/END-POINT-INTRUSION-DETECTION
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/sanjay-2403/END-POINT-INTRUSION-DETECTION
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 Sophiekwon-syd/promptleak
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/Sophiekwon-syd/promptleak
+     📝 AI Prompt Secret Exposure Auditor — a local-first forensic tool that inventories…
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 emilyecht/cerberuscyber
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/emilyecht/cerberuscyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 MysticDevloper/BluetoothSecLab
+     ⭐ 0  🗣 Kotlin  📅 2026-07-13
+     🔗 https://github.com/MysticDevloper/BluetoothSecLab
+     📝 BT Security Lab - Bluetooth security research Android app
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 LYISTR2/abuse-sentinel
+     ⭐ 1  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/LYISTR2/abuse-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 09:30:11 UTC] [NEW]   🆕 📦 qpzoql4486/docs-starter-03edryxk
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/qpzoql4486/docs-starter-03edryxk
+     📝 Docs site experiments for onboarding and troubleshooting content.
+     🏷  —
+[2026-07-13 09:30:11 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-13 09:30:11 UTC] [UPD]   📢 📦 luoxuejian000/edrn-dmrg-verification
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/luoxuejian000/edrn-dmrg-verification
+     📝 Independent DMRG verification of the scaling exponent χ(0) ~ L^1.75 in 1D Hubbar…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-13 09:30:11 UTC] [UPD]   📢 📦 litschi-space/wii-fitboard-as-scale
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/litschi-space/wii-fitboard-as-scale
+     📝 Verwandle dein altes Wii Fit Board mit einem Raspberry Pi in eine Personenwaage …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-13 09:30:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-13 09:30:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-13 09:30:13 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-13 09:30:13 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-13 09:30:13 UTC] [NEW]   🆕 📦 imopositive/Production-Ready-Sus
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/imopositive/Production-Ready-Sus
+     📝 Hkr Gpt
+     🏷  —
+[2026-07-13 09:30:13 UTC] [NEW]   🆕 📦 0xiamshadow/pe-scout
+     ⭐ 0  🗣 Shell  📅 2026-07-13
+     🔗 https://github.com/0xiamshadow/pe-scout
+     📝 PE-Scout - Linux Privilege Escalation Enumeration Tool
+     🏷  —
+[2026-07-13 09:30:13 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-13 09:30:13 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-13 09:30:13 UTC] [UPD]   📢 📦 project-lyra-zune/project-lyra
+     ⭐ 1  🗣 C  📅 2026-07-13
+     🔗 https://github.com/project-lyra-zune/project-lyra
+     📝 A persistent modding framework and loader for the Zune HD (firmware v4.5).
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-13 09:30:13 UTC] [INFO] ============================================================
+[2026-07-13 09:30:13 UTC] [INFO] Completato — 26 nuovi, 4 aggiornati, 0 errori
+[2026-07-13 09:30:13 UTC] [INFO] ============================================================
