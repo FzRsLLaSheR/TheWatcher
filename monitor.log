@@ -37560,3 +37560,157 @@
 [2026-07-13 14:37:26 UTC] [INFO] ============================================================
 [2026-07-13 14:37:26 UTC] [INFO] Completato — 23 nuovi, 7 aggiornati, 0 errori
 [2026-07-13 14:37:26 UTC] [INFO] ============================================================
+[2026-07-13 19:24:36 UTC] [INFO] ============================================================
+[2026-07-13 19:24:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-13 19:24:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-13 19:24:36 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-13 19:24:36 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-13 19:24:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-13 19:24:36 UTC] [INFO] ============================================================
+[2026-07-13 19:24:36 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-13 19:24:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-13 19:24:38 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-13 19:24:38 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-13 19:24:38 UTC] [NEW]   🆕 📦 MS-Mesh/CS2ESP-Python
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/MS-Mesh/CS2ESP-Python
+     📝 Experimental build
+     🏷  —
+[2026-07-13 19:24:38 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-13 19:24:38 UTC] [UPD]   📢 📦 n3k0m4/byovd-modified
+     ⭐ 0  🗣 Rust  📅 2026-07-13
+     🔗 https://github.com/n3k0m4/byovd-modified
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-13 19:24:38 UTC] [UPD]   📢 📦 guimunizzz/Forensics-Notes
+     ⭐ 0  🗣 N/A  📅 2026-07-08
+     🔗 https://github.com/guimunizzz/Forensics-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-13 19:24:38 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-13 19:24:38 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-13 19:24:41 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 larsenglund/fabscreentime
+     ⭐ 0  🗣 Go  📅 2026-07-13
+     🔗 https://github.com/larsenglund/fabscreentime
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 Vincent-P-essy/kernel-sentinel
+     ⭐ 0  🗣 C  📅 2026-07-12
+     🔗 https://github.com/Vincent-P-essy/kernel-sentinel
+     📝 Runtime Security Engine basé sur eBPF
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 w0-lf/w0-lf
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/w0-lf/w0-lf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 Je5us7/artifact-factory
+     ⭐ 0  🗣 Makefile  📅 2026-07-13
+     🔗 https://github.com/Je5us7/artifact-factory
+     📝 Advanced Red Team Artifact Generation Framework
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 cutlerbenjamin1-cmd/procmem
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/cutlerbenjamin1-cmd/procmem
+     📝 MCP server for Windows process memory inspection, editing, pattern scanning, and…
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 Vincent-P-essy/detection-as-code-platform
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/Vincent-P-essy/detection-as-code-platform
+     📝 GitHub des règles de détection
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 robbrown0/EdgeWatch
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/robbrown0/EdgeWatch
+     📝 Self hosted operational dashboard for Ubuntu and Linode VPS edge deployments wit…
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 arunsakthi2802-star/SOC-AUTOMATION-DASHBOARD
+     ⭐ 0  🗣 TypeScript  📅 2026-07-13
+     🔗 https://github.com/arunsakthi2802-star/SOC-AUTOMATION-DASHBOARD
+     📝 As cyber threats continue to evolve in complexity and frequency, Security Operat…
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 rishim-tech/AegisX
+     ⭐ 0  🗣 Java  📅 2026-07-13
+     🔗 https://github.com/rishim-tech/AegisX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 AceX98/ThreadHijacking
+     ⭐ 1  🗣 C++  📅 2026-07-13
+     🔗 https://github.com/AceX98/ThreadHijacking
+     📝 🧵 Windows x64 thread execution hijacking — suspend, redirect RIP, resume. Attack…
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 Sanjeev0607/Security-Risk-Assessment-Using-NIST-CSF
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/Sanjeev0607/Security-Risk-Assessment-Using-NIST-CSF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 ajchihiyah/KRITIS_Cross_Domain_Resilience_Dashboard
+     ⭐ 0  🗣 HTML  📅 2026-07-13
+     🔗 https://github.com/ajchihiyah/KRITIS_Cross_Domain_Resilience_Dashboard
+     📝 A unified SOC analyst frontend that correlates cyber alerts (SIEM, IDS) with phy…
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 hisrafi/Threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/hisrafi/Threat-hunting-scenario-tor
+     📝 Threat-hunting-scenario-tor
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 vincentnhan/cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/vincentnhan/cybersecurity-portfolio
+     📝 Hands-on SOC analyst portfolio — alert triage and investigation write-ups from L…
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 mr-edr/DeepFakeDetection
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/mr-edr/DeepFakeDetection
+     📝 Frame-level deepfake detection using an EfficientNet-B0 classifier, with an opti…
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 2112yyz/ForenClarity
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/2112yyz/ForenClarity
+     📝 Privacy-conscious security triage and evidence review for Windows and Linux.
+     🏷  digital-forensics, endpoint-forensics, evidence-analysis, incident-response, network-forensics, security-triage, soc-tools, threat-investigation
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 sabasec/sabasec
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/sabasec/sabasec
+     📝 Cybersecurity projects, detection engineering, Python, and AI.
+     🏷  —
+[2026-07-13 19:24:41 UTC] [NEW]   🆕 📦 mmorrow24work/SIEM
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/mmorrow24work/SIEM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 19:24:41 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-13 19:24:41 UTC] [UPD]   📢 📦 Paco5687/secwatch
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/Paco5687/secwatch
+     📝 Config-driven edge + host security monitor for self-hosted / homelab servers
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-13 19:24:41 UTC] [UPD]   📢 📦 vietanhdev/bulwark
+     ⭐ 0  🗣 Rust  📅 2026-07-12
+     🔗 https://github.com/vietanhdev/bulwark
+     📝 A Linux host security scanner with a native CLI and desktop GUI — SSH/kernel/sys…
+     🏷  clamav, cli, desktop-app, hardening, infosec, linux, rust, security, security-scanner, security-tools, sysadmin, tauri
+     🔄 Motivo: repo recente (1gg)
+[2026-07-13 19:24:41 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-13 19:24:41 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-13 19:24:42 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-13 19:24:42 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-13 19:24:42 UTC] [NEW]   🆕 📦 iabhinandantanwar/multiagent-temporal
+     ⭐ 0  🗣 TypeScript  📅 2026-07-13
+     🔗 https://github.com/iabhinandantanwar/multiagent-temporal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-13 19:24:42 UTC] [NEW]   🆕 📦 8Prashant88/kioptrix-level1-writeup
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/8Prashant88/kioptrix-level1-writeup
+     📝 Detailed penetration test write-up of the Kioptrix Level 1 VulnHub machine: reco…
+     🏷  ctf-writeup, cybersecurity, ethical-hacking, kioptrix, nmap, oscp-prep, penetration-testing, privilege-escalation, vulnhub
+[2026-07-13 19:24:42 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-13 19:24:42 UTC] [INFO] ============================================================
+[2026-07-13 19:24:42 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
+[2026-07-13 19:24:42 UTC] [INFO] ============================================================
