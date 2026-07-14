@@ -38233,3 +38233,218 @@
 [2026-07-14 13:47:11 UTC] [INFO] ============================================================
 [2026-07-14 13:47:11 UTC] [INFO] Completato — 30 nuovi, 4 aggiornati, 0 errori
 [2026-07-14 13:47:11 UTC] [INFO] ============================================================
+[2026-07-14 19:21:45 UTC] [INFO] ============================================================
+[2026-07-14 19:21:45 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-14 19:21:45 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-14 19:21:45 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-14 19:21:45 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-14 19:21:45 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-14 19:21:45 UTC] [INFO] ============================================================
+[2026-07-14 19:21:45 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-14 19:21:45 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-14 19:21:47 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-14 19:21:47 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-14 19:21:47 UTC] [NEW]   🆕 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+[2026-07-14 19:21:47 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-14 19:21:47 UTC] [UPD]   📢 📦 fosterdylan43/alibi-windows-forensic-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/fosterdylan43/alibi-windows-forensic-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-14 19:21:47 UTC] [UPD]   📢 📦 ACSClaw/quick-reverse-engineering
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/ACSClaw/quick-reverse-engineering
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-14 19:21:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-14 19:21:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-14 19:21:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 31 NUOVI repository:
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 BluecrestFS/AxisIR
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/BluecrestFS/AxisIR
+     📝 AxisIR — Browser-based incident response investigation platform with timeline an…
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 youssif-ahmed-sec/Mini-EDR-Sensor
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/youssif-ahmed-sec/Mini-EDR-Sensor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 xbt-a4224j/enterprise_data_refinery
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/xbt-a4224j/enterprise_data_refinery
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 angcra05/Threat-Hunting-SuspiciousLogon
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/angcra05/Threat-Hunting-SuspiciousLogon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 rejwanahmed007/rejwanahmed007
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/rejwanahmed007/rejwanahmed007
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 kaveeshagit2004/EDRR--Project-Frontend
+     ⭐ 0  🗣 JavaScript  📅 2026-07-14
+     🔗 https://github.com/kaveeshagit2004/EDRR--Project-Frontend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 chistobled/edryzm
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/chistobled/edryzm
+     📝 Batch created
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 benoitblais-hashicorp-demo/AWS-EKS-VSO
+     ⭐ 0  🗣 HCL  📅 2026-07-14
+     🔗 https://github.com/benoitblais-hashicorp-demo/AWS-EKS-VSO
+     📝 Code used to demonstrate how to integrate Amazon EKS with HashiCorp Vault for au…
+     🏷  terraform, terraform-managed, terraform-workspace
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 nikhilbaxani/security_playbook
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/nikhilbaxani/security_playbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 hira299/browser-forensics-reconstruction
+     ⭐ 0  🗣 TypeScript  📅 2026-07-14
+     🔗 https://github.com/hira299/browser-forensics-reconstruction
+     📝 An advanced DFIR platform to parse browser logs, reconstruct session timelines, …
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 ExecRiskServ/ers-custody-ddq
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/ExecRiskServ/ers-custody-ddq
+     📝 Open-source crypto custody due diligence methodology: a 68-control standards-map…
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 honeyknow/edr
+     ⭐ 0  🗣 C  📅 2026-07-14
+     🔗 https://github.com/honeyknow/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 swathiblrs/AI-Security-Alert-Investigation-Agent
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/swathiblrs/AI-Security-Alert-Investigation-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 sathyalog/foundry-customer-support-agent
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/sathyalog/foundry-customer-support-agent
+     📝 Customer support agent creation in microsoft foundry
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 zipsara/AntiKeyLogger
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/zipsara/AntiKeyLogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 gsimransingh/shuri
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/gsimransingh/shuri
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 BearlyStable/scribe
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/BearlyStable/scribe
+     📝 A local-only shell wrapper that documents an interactive remote-shell session
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 mohapatraaditya17-crypto/mohapatraaditya17-crypto
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/mohapatraaditya17-crypto/mohapatraaditya17-crypto
+     📝 Personal profile README for Aditya Ranjan Mohapatra, Security Engineer & Forensi…
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 mohapatraaditya17-crypto/aditya-ranjan-mohapatra-portfolio
+     ⭐ 0  🗣 JavaScript  📅 2026-07-14
+     🔗 https://github.com/mohapatraaditya17-crypto/aditya-ranjan-mohapatra-portfolio
+     📝 A high-aesthetic, fully responsive developer portfolio website showcasing my tec…
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 abhiram2003-code/file-upload-validator
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/abhiram2003-code/file-upload-validator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 Nagarishu/keystroke-input-monitoring-research-
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/Nagarishu/keystroke-input-monitoring-research-
+     📝 Educational proof-of-concept exploring keystroke capture techniques to study end…
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 NisalJayaweera/edr-website-http
+     ⭐ 0  🗣 TypeScript  📅 2026-07-14
+     🔗 https://github.com/NisalJayaweera/edr-website-http
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 ajchapa80/ajchapa80
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/ajchapa80/ajchapa80
+     📝 Professional cybersecurity and IT portfolio profile
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 jogaulupeau/CyberIncrement
+     ⭐ 0  🗣 GDScript  📅 2026-07-14
+     🔗 https://github.com/jogaulupeau/CyberIncrement
+     📝 Jeu Incrémental sur le thème de la Cyber - Windows
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 SANGEETH361/finspark
+     ⭐ 0  🗣 TypeScript  📅 2026-07-14
+     🔗 https://github.com/SANGEETH361/finspark
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 priya622507/malware-detection
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/priya622507/malware-detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 ZakhwanAnuar/Bad-USB
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/ZakhwanAnuar/Bad-USB
+     📝 A Raspberry Pi Pico rubber ducky running CircuitPython. Enumerates as a USB HID …
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 Aykay05/wazuh-siem-edr-capstone
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/Aykay05/wazuh-siem-edr-capstone
+     📝 Cloud-native SIEM/EDR deployment using Wazuh 4.9.2 on AWS EC2 with multi-OS agen…
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 Athexblackhat/DRAGZENE-RANSOMWARE
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/Athexblackhat/DRAGZENE-RANSOMWARE
+     📝 Dragzene is a highly advanced full-disk destructive ransomware targeting Windows…
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 Pufik619/edra-monitoring_city
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/Pufik619/edra-monitoring_city
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [NEW]   🆕 📦 mimirops/mimirops
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/mimirops/mimirops
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 19:21:49 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-14 19:21:49 UTC] [UPD]   📢 📦 AyalewG8/cybersecurity-portfolio
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/AyalewG8/cybersecurity-portfolio
+     📝 IT and Cybersecurity Portfolio — Ayalew Cherenet
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-14 19:21:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-14 19:21:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-14 19:21:51 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-14 19:21:51 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-14 19:21:51 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-14 19:21:51 UTC] [UPD]   📢 📦 nanimonai0808-spec/cancer-cli
+     ⭐ 2  🗣 TypeScript  📅 2026-07-10
+     🔗 https://github.com/nanimonai0808-spec/cancer-cli
+     📝 Cancer CLI - AI Agent  Terminal
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-14 19:21:51 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-14 19:21:51 UTC] [INFO] ============================================================
+[2026-07-14 19:21:51 UTC] [INFO] Completato — 32 nuovi, 5 aggiornati, 0 errori
+[2026-07-14 19:21:51 UTC] [INFO] ============================================================
