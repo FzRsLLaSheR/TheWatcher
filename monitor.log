@@ -37714,3 +37714,181 @@
 [2026-07-13 19:24:42 UTC] [INFO] ============================================================
 [2026-07-13 19:24:42 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
 [2026-07-13 19:24:42 UTC] [INFO] ============================================================
+[2026-07-14 02:36:47 UTC] [INFO] ============================================================
+[2026-07-14 02:36:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-14 02:36:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-14 02:36:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-14 02:36:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-14 02:36:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-14 02:36:47 UTC] [INFO] ============================================================
+[2026-07-14 02:36:48 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-14 02:36:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-14 02:36:50 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-14 02:36:50 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-14 02:36:50 UTC] [NEW]   🆕 📦 AlamoRick/physmem-driverless
+     ⭐ 0  🗣 C  📅 2026-07-14
+     🔗 https://github.com/AlamoRick/physmem-driverless
+     📝 driverless physical memory R/W from usermode — HVCI compliant
+     🏷  —
+[2026-07-14 02:36:50 UTC] [NEW]   🆕 📦 posl-build/medium-writeups-replay
+     ⭐ 0  🗣 Go  📅 2026-07-13
+     🔗 https://github.com/posl-build/medium-writeups-replay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:50 UTC] [NEW]   🆕 📦 kdRajKit/PPL-KILLERS
+     ⭐ 0  🗣 C  📅 2026-07-13
+     🔗 https://github.com/kdRajKit/PPL-KILLERS
+     📝 KILLING WINDOWS PPL ANTIMALWARE PROCESS WITH BYOVD
+     🏷  —
+[2026-07-14 02:36:50 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-14 02:36:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-14 02:36:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-14 02:36:52 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 anounymous68/ARGUS_privesc_monitor
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/anounymous68/ARGUS_privesc_monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 gagg0ti/AV-SigHunt
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/gagg0ti/AV-SigHunt
+     📝 Authorized-lab AV signature locator (vendor-neutral CLI/realtime/manual detector…
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 shahoahmed/soc-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/shahoahmed/soc-detection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 iapen888yahoocomtw-wq/F-Mask-CMMS
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/iapen888yahoocomtw-wq/F-Mask-CMMS
+     📝 F-Mask CMMS & PM Management System
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 xec412/Vex-PE-Loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/xec412/Vex-PE-Loader
+     📝 A Windows x64 PE loader written in C++ and x64 MASM, implementing module overloa…
+     🏷  api-proxy, bypass-edr, cpp, evasion, evasion-techniques, malware-development, manual-mapping, pe-loader, red-team, windows-internals
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 hiyilmaz/lite-security-pack
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/hiyilmaz/lite-security-pack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 AlamoRick/physmem-driverless
+     ⭐ 0  🗣 C  📅 2026-07-14
+     🔗 https://github.com/AlamoRick/physmem-driverless
+     📝 driverless physical memory R/W from usermode — HVCI compliant
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 amdelulu/Undetectable-Backdoor-Via-MEM-Inj
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/amdelulu/Undetectable-Backdoor-Via-MEM-Inj
+     📝 Discovered A Way To Fully Get A Backdoor Via a < 30kb exe/bat/dll with 0 detecti…
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 rijul170/qualys-mcp
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/rijul170/qualys-mcp
+     📝 MCP server for full Qualys portal management — VMDR, Policy Compliance, WAS, Clo…
+     🏷  ai-tools, claude, cloud-security, container-security, cybersecurity, devsecops, fastmcp, mcp, model-context-protocol, policy-compliance, python, qualys, qualys-api, security, vmdr, vulnerability-management, web-application-security
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 yoke33tell/edrxle
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/yoke33tell/edrxle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 bernard-osei/Mosquitoe-microclimate-adaption-model
+     ⭐ 0  🗣 R  📅 2026-07-13
+     🔗 https://github.com/bernard-osei/Mosquitoe-microclimate-adaption-model
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 posl-build/medium-writeups-replay
+     ⭐ 0  🗣 Go  📅 2026-07-13
+     🔗 https://github.com/posl-build/medium-writeups-replay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 Beryith/AegiS
+     ⭐ 0  🗣 Go  📅 2026-07-13
+     🔗 https://github.com/Beryith/AegiS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 dannolasco/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/dannolasco/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 8damon/Pwning-OpenEDR
+     ⭐ 2  🗣 C++  📅 2026-07-13
+     🔗 https://github.com/8damon/Pwning-OpenEDR
+     📝 Collection of High Severity Vulnerabilities inside of OpenEDR
+     🏷  openedr, pentesting, vulnerability-assessment
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 VitarLaeda/blockchain-testing-framework
+     ⭐ 1  🗣 TypeScript  📅 2026-07-13
+     🔗 https://github.com/VitarLaeda/blockchain-testing-framework
+     📝 Hardhat 3 + TypeScript blockchain testing framework: contract, JSON-RPC and MCP …
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 TomasJ60/TomasJ60
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/TomasJ60/TomasJ60
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 SentinelHunter/Security-Mastery
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/SentinelHunter/Security-Mastery
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 fennec4/fennec4
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/fennec4/fennec4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 Hkaicer/Cybersecurity-anomaly-detection
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/Hkaicer/Cybersecurity-anomaly-detection
+     📝 Unsupervised anomaly detection on security telemetry - MITRE ATT&CK aware featur…
+     🏷  anomaly-detection, cybersecurity, isolation-forest, machine-learning, mitre-attack, siem, threat-detection
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 useratsoc/User-SOC-Training
+     ⭐ 1  🗣 HTML  📅 2026-07-13
+     🔗 https://github.com/useratsoc/User-SOC-Training
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [NEW]   🆕 📦 Bhoomi177/iocextract
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/Bhoomi177/iocextract
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:52 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-14 02:36:52 UTC] [UPD]   📢 📦 Paco5687/secwatch
+     ⭐ 0  🗣 Python  📅 2026-07-12
+     🔗 https://github.com/Paco5687/secwatch
+     📝 Config-driven edge + host security monitor for self-hosted / homelab servers
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-14 02:36:52 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-14 02:36:52 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-14 02:36:54 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-14 02:36:54 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-14 02:36:54 UTC] [NEW]   🆕 📦 aadieng100/spring-k8s-rbac-security
+     ⭐ 0  🗣 Dockerfile  📅 2026-07-13
+     🔗 https://github.com/aadieng100/spring-k8s-rbac-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:54 UTC] [NEW]   🆕 📦 SentinelHunter/Security-Mastery
+     ⭐ 0  🗣 N/A  📅 2026-07-13
+     🔗 https://github.com/SentinelHunter/Security-Mastery
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 02:36:54 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-14 02:36:54 UTC] [UPD]   📢 📦 project-lyra-zune/project-lyra
+     ⭐ 4  🗣 C  📅 2026-07-13
+     🔗 https://github.com/project-lyra-zune/project-lyra
+     📝 A persistent modding framework and loader for the Zune HD (firmware v4.5).
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-14 02:36:54 UTC] [UPD]   📢 📦 Ch4120N/Ch4120N-CVE-Pulse
+     ⭐ 1  🗣 Python  📅 2026-07-06
+     🔗 https://github.com/Ch4120N/Ch4120N-CVE-Pulse
+     📝 Live CVE PoC (Proof-of-Concepts) Aggregator with Smart Search & Threat Intellige…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-14 02:36:54 UTC] [INFO] ============================================================
+[2026-07-14 02:36:54 UTC] [INFO] Completato — 27 nuovi, 3 aggiornati, 0 errori
+[2026-07-14 02:36:54 UTC] [INFO] ============================================================
