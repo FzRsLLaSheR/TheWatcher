@@ -38034,3 +38034,202 @@
 [2026-07-14 08:08:12 UTC] [INFO] ============================================================
 [2026-07-14 08:08:12 UTC] [INFO] Completato — 21 nuovi, 2 aggiornati, 0 errori
 [2026-07-14 08:08:12 UTC] [INFO] ============================================================
+[2026-07-14 13:47:03 UTC] [INFO] ============================================================
+[2026-07-14 13:47:03 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-14 13:47:03 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-14 13:47:03 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-14 13:47:03 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-14 13:47:03 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-14 13:47:03 UTC] [INFO] ============================================================
+[2026-07-14 13:47:03 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-14 13:47:03 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-14 13:47:05 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-14 13:47:05 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-14 13:47:05 UTC] [NEW]   🆕 📦 ACSClaw/quick-reverse-engineering
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/ACSClaw/quick-reverse-engineering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:05 UTC] [NEW]   🆕 📦 kellyleo21/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/kellyleo21/alibi-v2026-windows-scanner
+     📝 Alibi v2026, a portable Windows forensic scanner for anti-cheat investigations t…
+     🏷  —
+[2026-07-14 13:47:05 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-14 13:47:05 UTC] [UPD]   📢 📦 fosterdylan43/alibi-windows-forensic-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/fosterdylan43/alibi-windows-forensic-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-14 13:47:05 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-14 13:47:05 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-14 13:47:09 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 Lukasz-Szymanski/linux-iphone-link
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/Lukasz-Szymanski/linux-iphone-link
+     📝 A Linux background daemon that replicates core Windows Phone Link functionality …
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 CynicDog/metchurial
+     ⭐ 1  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/CynicDog/metchurial
+     📝 Grammar-based scanner for hardcoded sensitive values in DB2 SQL
+     🏷  antlr4, db2
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 ThePicpixel/Protego
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/ThePicpixel/Protego
+     📝 Home made EDR for test lab
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 Aykay05/wazuh-siem-edr-capstone
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/Aykay05/wazuh-siem-edr-capstone
+     📝 Cloud-native SIEM/EDR deployment using Wazuh 4.9.2 on AWS EC2 with multi-OS agen…
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 anxcrn/ALEX
+     ⭐ 0  🗣 TypeScript  📅 2026-07-14
+     🔗 https://github.com/anxcrn/ALEX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 mythos-qwythos/qwythos
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/mythos-qwythos/qwythos
+     📝 Uncensored Mythos-class desktop client. Runs Qwythos-9B locally on a 3060. 1M co…
+     🏷  1m-context-ai, abliterated-llm, claude-fable-alternative, claude-mythos-alternative, cybersecurity-tools, malware-analysis, qwable-alternative, qwythos, qwythos-9b, red-teaming, uncensored-ai
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 CoderPratap-dev/ArmorEyeAnticheat
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/CoderPratap-dev/ArmorEyeAnticheat
+     📝 ArmorEye is a Windows anti-cheat and process-integrity scanner. It detects steal…
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 brk-devsec/azure-data-app-security
+     ⭐ 0  🗣 HCL  📅 2026-07-14
+     🔗 https://github.com/brk-devsec/azure-data-app-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 mshaikhcyber-ship-it/Cyber-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/mshaikhcyber-ship-it/Cyber-SOC-Lab
+     📝 Enterprise SOC investigations, alert analysis, incident response, MITRE ATT&CK m…
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 Achyuth69/Enterprise-Endpoint-Detection-Response-EDR-XDR-Platform
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/Achyuth69/Enterprise-Endpoint-Detection-Response-EDR-XDR-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 ines-saouli/pushdo-malware-investigation
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/ines-saouli/pushdo-malware-investigation
+     📝 SOC investigation of a Pushdo Trojan infection using Security Onion, Sguil, Kiba…
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 mohammedrehan-sec/c2-memory-analysis-tcprelay
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/mohammedrehan-sec/c2-memory-analysis-tcprelay
+     📝 Memory forensics analysis identifying a C2-linked suspicious executable (tcprela…
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 konamgil/process-hiding-lab
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/konamgil/process-hiding-lab
+     📝 Windows Process Hiding Lab - Educational IAT & Native API Hooking
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 Fire-is-Born/Fire-is-Born
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/Fire-is-Born/Fire-is-Born
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 linuxguardx/ce_agent
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/linuxguardx/ce_agent
+     📝 This is the community Edition for the Linuxguard agent
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 Aadithya-vv/robotic_arm
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/Aadithya-vv/robotic_arm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 PaballoSemadi/edrx-triage-tracker
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/PaballoSemadi/edrx-triage-tracker
+     📝 Full-stack patient triage tracker — one PHP REST API, two clients (web + WinForm…
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 bluestacks/external-python-bumble-a16
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/bluestacks/external-python-bumble-a16
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 dimasikswim-ops/-
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/dimasikswim-ops/-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 Maddelachaithu/Ai-powered-End-Point-Detection-Response
+     ⭐ 0  🗣 JavaScript  📅 2026-07-14
+     🔗 https://github.com/Maddelachaithu/Ai-powered-End-Point-Detection-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 vanminh-attt/sigma-detection-rules
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/vanminh-attt/sigma-detection-rules
+     📝 Sigma detection rules & pipelines
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 constarik/numlock-manager
+     ⭐ 0  🗣 AutoHotkey  📅 2026-07-14
+     🔗 https://github.com/constarik/numlock-manager
+     📝 Transparent NumLock/CapsLock/ScrollLock manager in a single AutoHotkey v2 script
+     🏷  autohotkey-numlock-keyboard-windows-tray
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 ShafinNigamana/AI-Threat-Corelation
+     ⭐ 0  🗣 TypeScript  📅 2026-07-14
+     🔗 https://github.com/ShafinNigamana/AI-Threat-Corelation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 sec1900/claude-code-PT-skills
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/sec1900/claude-code-PT-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 333omkar/333omkar
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/333omkar/333omkar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [NEW]   🆕 📦 OP-vanguard/virustotal_homeversion
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/OP-vanguard/virustotal_homeversion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:09 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-14 13:47:09 UTC] [UPD]   📢 📦 Tagoletta/Fed0gaT
+     ⭐ 0  🗣 Python  📅 2026-05-28
+     🔗 https://github.com/Tagoletta/Fed0gaT
+     📝 Automated CTI aggregator producing validated, deduplicated and firewall-ready IP…
+     🏷  cti, cybersecurity, edr, fed0gat, firewall, indicators-of-compromise, ioc, ip-blocklist, malware-hashes, siem, threat-feed, threat-intelligence, threat-intelligence-feeds, url-blocklist
+     🔄 Motivo: nuovi topic: cybersecurity, edr, ioc, siem, threat-intelligence, fed0gat, threat-intelligence-feeds, url-blocklist, threat-feed, cti, ip-blocklist, malware-hashes, firewall, indicators-of-compromise
+[2026-07-14 13:47:09 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-14 13:47:09 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-14 13:47:11 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-14 13:47:11 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-14 13:47:11 UTC] [NEW]   🆕 📦 paktiko1986/CopyFail2026
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/paktiko1986/CopyFail2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:11 UTC] [NEW]   🆕 📦 lowkeyskid/TryHackMe-Kernel-Driver-CTF
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/lowkeyskid/TryHackMe-Kernel-Driver-CTF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-14 13:47:11 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-14 13:47:11 UTC] [UPD]   📢 📦 Anduamlk/HTB
+     ⭐ 0  🗣 HTML  📅 2026-07-13
+     🔗 https://github.com/Anduamlk/HTB
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-14 13:47:11 UTC] [UPD]   📢 📦 nanimonai0808-spec/cancer-cli
+     ⭐ 2  🗣 TypeScript  📅 2026-07-10
+     🔗 https://github.com/nanimonai0808-spec/cancer-cli
+     📝 Cancer CLI - AI Agent  Terminal
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-14 13:47:11 UTC] [INFO] ============================================================
+[2026-07-14 13:47:11 UTC] [INFO] Completato — 30 nuovi, 4 aggiornati, 0 errori
+[2026-07-14 13:47:11 UTC] [INFO] ============================================================
