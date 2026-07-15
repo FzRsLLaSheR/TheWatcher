@@ -38630,3 +38630,143 @@
 [2026-07-15 02:35:16 UTC] [INFO] ============================================================
 [2026-07-15 02:35:16 UTC] [INFO] Completato — 23 nuovi, 7 aggiornati, 0 errori
 [2026-07-15 02:35:16 UTC] [INFO] ============================================================
+[2026-07-15 08:13:07 UTC] [INFO] ============================================================
+[2026-07-15 08:13:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-15 08:13:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-15 08:13:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-15 08:13:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-15 08:13:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-15 08:13:07 UTC] [INFO] ============================================================
+[2026-07-15 08:13:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-15 08:13:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-15 08:13:09 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-15 08:13:09 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-15 08:13:09 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-15 08:13:09 UTC] [UPD]   📢 📦 kellyleo21/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/kellyleo21/alibi-v2026-windows-scanner
+     📝 Alibi v2026, a portable Windows forensic scanner for anti-cheat investigations t…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 08:13:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-15 08:13:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-15 08:13:13 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 KinjiBloodFallen/bloodfallen-forensic-triage-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-07-15
+     🔗 https://github.com/KinjiBloodFallen/bloodfallen-forensic-triage-toolkit
+     📝 A read-only PowerShell forensic triage tool for local malware/persistence inspec…
+     🏷  forensics, malware-detection, powershell, windows-security
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 BenjiTrapp/MostShittyEDR
+     ⭐ 1  🗣 C++  📅 2026-07-15
+     🔗 https://github.com/BenjiTrapp/MostShittyEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 passop123/-Desktop-Support
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/passop123/-Desktop-Support
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 Rdx-coder/EDROS
+     ⭐ 0  🗣 TypeScript  📅 2026-07-15
+     🔗 https://github.com/Rdx-coder/EDROS
+     📝 EDROS
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 sariftachamo-9/Cookie-Security-Toolkit
+     ⭐ 0  🗣 HTML  📅 2026-07-15
+     🔗 https://github.com/sariftachamo-9/Cookie-Security-Toolkit
+     📝 Web browser cookies are the primary mechanisms for holding user session state ac…
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 AshwinNHacker/fimguard
+     ⭐ 1  🗣 Rust  📅 2026-07-15
+     🔗 https://github.com/AshwinNHacker/fimguard
+     📝 File integrity monitor written in Rust — SHA-256 baselines, drift detection, and…
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 Slogerski/Slogerski
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/Slogerski/Slogerski
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 YueInvincible/YueExecutor
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/YueInvincible/YueExecutor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 agbaiobasi/Enterprise-Cybersecurity-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/agbaiobasi/Enterprise-Cybersecurity-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 tomraby/tomraby
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/tomraby/tomraby
+     📝 Cybersecurity portfolio showcasing hands-on SOC investigations, KQL development,…
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 Nullbyte3117/CVE-2025-60357
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/Nullbyte3117/CVE-2025-60357
+     📝 CVE-2025-60357- NoSQL(MongoDB) Injection POC
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 korcing/edrwiu
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/korcing/edrwiu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 ghostsh-labs/GHOST-IR
+     ⭐ 0  🗣 JavaScript  📅 2026-07-15
+     🔗 https://github.com/ghostsh-labs/GHOST-IR
+     📝 Offline-first browser IR workspace — canvas, timeline, accounts, ops, living rep…
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 SaeedNo1/TRAE-Guardian
+     ⭐ 0  🗣 HTML  📅 2026-07-15
+     🔗 https://github.com/SaeedNo1/TRAE-Guardian
+     📝 Advanced Endpoint Detection & Response (EDR) + Antivirus (AV) Security Platform
+     🏷  —
+[2026-07-15 08:13:13 UTC] [NEW]   🆕 📦 YoguiCR/Security-Operations-Center-SOC-Framework---Defensive-Monitoring-and-Incident-Response-Assessment
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/YoguiCR/Security-Operations-Center-SOC-Framework---Defensive-Monitoring-and-Incident-Response-Assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 08:13:13 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-15 08:13:13 UTC] [UPD]   📢 📦 chistobled/edryzm
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/chistobled/edryzm
+     📝 Batch created
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 08:13:13 UTC] [UPD]   📢 📦 Gromykko/FRANK
+     ⭐ 0  🗣 TypeScript  📅 2026-07-14
+     🔗 https://github.com/Gromykko/FRANK
+     📝 A go/no-go weather app for kayaking on Danish fjords — MET Norway weather and DM…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 08:13:13 UTC] [UPD]   📢 📦 tony11301130/shigure-edr
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/tony11301130/shigure-edr
+     📝 Shigure EDR - Windows intranet MDR investigation EDR prototype
+     🏷  edr, endpoint-security, mdr, shigure
+     🔄 Motivo: repo recente (1gg)
+[2026-07-15 08:13:13 UTC] [UPD]   📢 📦 0xhroot/sentinelx
+     ⭐ 1  🗣 Rust  📅 2026-07-14
+     🔗 https://github.com/0xhroot/sentinelx
+     📝 A modular Linux Endpoint Detection and Response (EDR) platform written in Rust.
+     🏷  cybersecurity, edr, endpoint-security, linux, network-security, rust, security, telemetry, threat-detection, tokio
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 08:13:13 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-15 08:13:13 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-15 08:13:15 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-15 08:13:15 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-15 08:13:15 UTC] [NEW]   🆕 📦 Colorful-glassblock/duchamp-root
+     ⭐ 1  🗣 C  📅 2026-07-15
+     🔗 https://github.com/Colorful-glassblock/duchamp-root
+     📝 Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU in…
+     🏷  —
+[2026-07-15 08:13:15 UTC] [NEW]   🆕 📦 Biggie420-D/upgraded-memory
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/Biggie420-D/upgraded-memory
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 08:13:15 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-15 08:13:15 UTC] [INFO] ============================================================
+[2026-07-15 08:13:15 UTC] [INFO] Completato — 17 nuovi, 5 aggiornati, 0 errori
+[2026-07-15 08:13:15 UTC] [INFO] ============================================================
