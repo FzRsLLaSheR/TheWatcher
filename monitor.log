@@ -38770,3 +38770,209 @@
 [2026-07-15 08:13:15 UTC] [INFO] ============================================================
 [2026-07-15 08:13:15 UTC] [INFO] Completato — 17 nuovi, 5 aggiornati, 0 errori
 [2026-07-15 08:13:15 UTC] [INFO] ============================================================
+[2026-07-15 13:45:59 UTC] [INFO] ============================================================
+[2026-07-15 13:45:59 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-15 13:45:59 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-15 13:45:59 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-15 13:45:59 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-15 13:45:59 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-15 13:45:59 UTC] [INFO] ============================================================
+[2026-07-15 13:45:59 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-15 13:45:59 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-15 13:46:01 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-15 13:46:01 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-15 13:46:01 UTC] [NEW]   🆕 📦 lowkeyskid/DriverMapper-CTF-TryHackMe
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/lowkeyskid/DriverMapper-CTF-TryHackMe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-15 13:46:01 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-15 13:46:01 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-15 13:46:01 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-15 13:46:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 yanis35/Incident-Response-Plan
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/yanis35/Incident-Response-Plan
+     📝 Incident Response Plan — Breach Simulation & Playbook Development for FinFlow Pa…
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 Oscarlopezbolanos/remote-soc-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/Oscarlopezbolanos/remote-soc-detection-lab
+     📝 Remote SOC Lab: Zero Trust Detection Engineering with Wazuh & Security Onion
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 JagatjyotiMohanty007/ZeroTrustNEET-
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/JagatjyotiMohanty007/ZeroTrustNEET-
+     📝 ZeroTrustNEET -NEET Paper Leak Solution Architecture
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 himanshu-anonymous/sugriva
+     ⭐ 1  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/himanshu-anonymous/sugriva
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 vlodder/vlodder
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/vlodder/vlodder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 yanis35/riskcommand-security-program
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/yanis35/riskcommand-security-program
+     📝 RiskCommand — Complete CISO security program build from scratch. Risk assessment…
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 andresvene/edrjoc
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/andresvene/edrjoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 AshwinNHacker/warden
+     ⭐ 1  🗣 Rust  📅 2026-07-15
+     🔗 https://github.com/AshwinNHacker/warden
+     📝 A lightweight SIEM for Linux, written in Rust — parses sshd/sudo/auditd logs int…
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 k-edr/AutoWorldLoader
+     ⭐ 0  🗣 C#  📅 2026-07-15
+     🔗 https://github.com/k-edr/AutoWorldLoader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 javiscan/Laboratorio-de-Protecci-n-de-Activos-SOC-EDR-con-Wazuh-Suricata-
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/javiscan/Laboratorio-de-Protecci-n-de-Activos-SOC-EDR-con-Wazuh-Suricata-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 Arhy1368/-Antivirus-IDS-IPS-Proxy-Firewall-SIEM-Sandbox-TI-IRP-
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/Arhy1368/-Antivirus-IDS-IPS-Proxy-Firewall-SIEM-Sandbox-TI-IRP-
+     📝 Understanding how GIS works
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 JimProKing/aegis-cortex
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/JimProKing/aegis-cortex
+     📝 Defensive multi-source threat hunting engine: log correlation, IOC matching, MIT…
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 maowiz/edrev
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/maowiz/edrev
+     📝 Case study: AI editorial review engine for Word manuscripts — review-only commen…
+     🏷  case-study, document-automation, fastapi, llm, nlp
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 k-edr/MySpawnerController
+     ⭐ 0  🗣 C#  📅 2026-07-15
+     🔗 https://github.com/k-edr/MySpawnerController
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 darriusngqz/EATC-Assignment-Code
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-14
+     🔗 https://github.com/darriusngqz/EATC-Assignment-Code
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 karthikreddydyapa/CloudSentinel
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/karthikreddydyapa/CloudSentinel
+     📝 AWS Cloud Security Posture Management (CSPM) platform built with Python, FastAPI…
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 goktugerdem23/SecurityMonitor
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/goktugerdem23/SecurityMonitor
+     📝  A GPU-friendly Windows security monitoring tool powered by a local LLM (Qwen 2.…
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 DAHOTOYIII/argus
+     ⭐ 0  🗣 TypeScript  📅 2026-07-15
+     🔗 https://github.com/DAHOTOYIII/argus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 0xBADACTOR/CVE-2023-45866
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/0xBADACTOR/CVE-2023-45866
+     📝 This wizard is built to make life easier when you want to execute a Bluetooth HI…
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 Bhuvanesh2024/ET-Hackathon
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/Bhuvanesh2024/ET-Hackathon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 honeyknow/edr
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/honeyknow/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 7xm7/ai-powered-soc
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/7xm7/ai-powered-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 jesse-reed-dev/ebpf-process-monitor
+     ⭐ 0  🗣 C  📅 2026-07-15
+     🔗 https://github.com/jesse-reed-dev/ebpf-process-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [NEW]   🆕 📦 krisrentiey-create/edu
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/krisrentiey-create/edu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:05 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-15 13:46:05 UTC] [UPD]   📢 📦 chistobled/edryzm
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/chistobled/edryzm
+     📝 Batch created
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 13:46:05 UTC] [UPD]   📢 📦 hasamba/DFIR-Companion
+     ⭐ 2  🗣 TypeScript  📅 2026-07-07
+     🔗 https://github.com/hasamba/DFIR-Companion
+     📝 DFIR forensics companion server + capture extension
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-15 13:46:05 UTC] [UPD]   📢 📦 passop123/-Desktop-Support
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/passop123/-Desktop-Support
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 13:46:05 UTC] [UPD]   📢 📦 SaeedNo1/TRAE-Guardian
+     ⭐ 0  🗣 HTML  📅 2026-07-15
+     🔗 https://github.com/SaeedNo1/TRAE-Guardian
+     📝 Advanced Endpoint Detection & Response (EDR) + Antivirus (AV) Security Platform
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 13:46:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-15 13:46:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-15 13:46:08 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-15 13:46:08 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-07-15 13:46:08 UTC] [NEW]   🆕 📦 ITherso/venom
+     ⭐ 1  🗣 Rust  📅 2026-07-15
+     🔗 https://github.com/ITherso/venom
+     📝 🐍 VENOM - Rust Web Pentesting Framework
+     🏷  —
+[2026-07-15 13:46:08 UTC] [NEW]   🆕 📦 Zerox077/pentest-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/Zerox077/pentest-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:08 UTC] [NEW]   🆕 📦 lowkeyskid/DriverMapper-CTF-TryHackMe
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/lowkeyskid/DriverMapper-CTF-TryHackMe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:08 UTC] [NEW]   🆕 📦 ronakkumar24/linpriv-toolkit
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/ronakkumar24/linpriv-toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 13:46:08 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-15 13:46:08 UTC] [UPD]   📢 📦 n4igme/cancer-cli
+     ⭐ 0  🗣 TypeScript  📅 2026-07-12
+     🔗 https://github.com/n4igme/cancer-cli
+     📝 Cancer CLI - AI Agent  Terminal
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-15 13:46:08 UTC] [INFO] ============================================================
+[2026-07-15 13:46:08 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
+[2026-07-15 13:46:08 UTC] [INFO] ============================================================
