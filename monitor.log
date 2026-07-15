@@ -38448,3 +38448,185 @@
 [2026-07-14 19:21:51 UTC] [INFO] ============================================================
 [2026-07-14 19:21:51 UTC] [INFO] Completato — 32 nuovi, 5 aggiornati, 0 errori
 [2026-07-14 19:21:51 UTC] [INFO] ============================================================
+[2026-07-15 02:35:08 UTC] [INFO] ============================================================
+[2026-07-15 02:35:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-15 02:35:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-15 02:35:08 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-15 02:35:08 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-15 02:35:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-15 02:35:08 UTC] [INFO] ============================================================
+[2026-07-15 02:35:08 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-15 02:35:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-15 02:35:10 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-15 02:35:10 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-15 02:35:10 UTC] [NEW]   🆕 📦 Haider303/trinity-2.0-lpe
+     ⭐ 0  🗣 C  📅 2026-07-14
+     🔗 https://github.com/Haider303/trinity-2.0-lpe
+     📝 Local privilege escalation exploit chaining three vulnerable signed drivers: TEA…
+     🏷  —
+[2026-07-15 02:35:10 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-15 02:35:10 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 02:35:10 UTC] [UPD]   📢 📦 kellyleo21/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/kellyleo21/alibi-v2026-windows-scanner
+     📝 Alibi v2026, a portable Windows forensic scanner for anti-cheat investigations t…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 02:35:10 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-15 02:35:10 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-15 02:35:13 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 hamzatazeez-netizen/ad-enumeration-detection-brief
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/hamzatazeez-netizen/ad-enumeration-detection-brief
+     📝 ad-enumeration-detection-brief
+     🏷  active-directory, cybersecurity, detection-engineering, grc, mitre-attack, soc, threat-hunting
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 NyaMeeEain/CVE-2025-60357
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/NyaMeeEain/CVE-2025-60357
+     📝 CVE-2025-60357- NoSQL(MongoDB) Injection POC
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 vick2715/alert_soc_104-letsdefend
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/vick2715/alert_soc_104-letsdefend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 MGcarva/Proyedo-EDR-ciberseguridad-
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/MGcarva/Proyedo-EDR-ciberseguridad-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 alexrepsec/LetsDefend-Memory-Analysis-Challenge-Write-Up
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/alexrepsec/LetsDefend-Memory-Analysis-Challenge-Write-Up
+     📝 LetsDefend — Memory Analysis Challenge Write-Up
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 andres-alfons/MiniEDR
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/andres-alfons/MiniEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 WiLL75G/soc-interview-prep
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/WiLL75G/soc-interview-prep
+     📝 A complete SOC analyst interview prep guide built from real lab work. Windows Ev…
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 Gromykko/FRANK
+     ⭐ 0  🗣 TypeScript  📅 2026-07-14
+     🔗 https://github.com/Gromykko/FRANK
+     📝 A go/no-go weather app for kayaking on Danish fjords — MET Norway weather and DM…
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 ZiGabiZi/edr-journal
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/ZiGabiZi/edr-journal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 UrbanRatTurbine/EdrawMax-2026
+     ⭐ 12  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/UrbanRatTurbine/EdrawMax-2026
+     📝 edrawmax download full version windows 11 — EdrawMax for Windows 11 & 10. Direct…
+     🏷  complete-version, diagram, diagram-software-premium-2026, download, edrawmax, edrawmax-2026, edrawmax-download-full-version-windows-11, full-installer, mind-map, office, office-suite, office-suite-edrawmax-install-pc, premium, productivity, software, windows-11, windows-software
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 AtharDar/smart-decoy-ransomware-defense
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/AtharDar/smart-decoy-ransomware-defense
+     📝 Smart Decoy System using Machine Learning for Real-Time Ransomware Detection, In…
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 sanjida-khanom/ML-evasion-demo_MITRE_ATLAS_Application
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/sanjida-khanom/ML-evasion-demo_MITRE_ATLAS_Application
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 0xhroot/sentinelx
+     ⭐ 0  🗣 Rust  📅 2026-07-14
+     🔗 https://github.com/0xhroot/sentinelx
+     📝 A modular Linux Endpoint Detection and Response (EDR) platform written in Rust.
+     🏷  cybersecurity, edr, endpoint-security, linux, network-security, rust, security, telemetry, threat-detection, tokio
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 Amer-ehab/zer0-point-documentation
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/Amer-ehab/zer0-point-documentation
+     📝 Production-inspired Enterprise Network & Security Infrastructure built in PNETLa…
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 wojtekn24/Threat-detection-and-incident-response
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/wojtekn24/Threat-detection-and-incident-response
+     📝 Six hands-on labs building a detection stack from log analysis to a working SIEM…
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 almirmeira/palestras-universo-totvs-2026
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/almirmeira/palestras-universo-totvs-2026
+     📝 Proposta de 5 temas de palestra para o Universo TOTVS 2026 (auditório + Prêmio B…
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 ahmed-A-dauda/agenttesla-phishing-analysis-and-network-forensics
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/ahmed-A-dauda/agenttesla-phishing-analysis-and-network-forensics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 jyuschok-io/jyuschok-io
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/jyuschok-io/jyuschok-io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 02:35:13 UTC] [NEW]   🆕 📦 ronak9540/ransomware-detection-response-system
+     ⭐ 0  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/ronak9540/ransomware-detection-response-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 02:35:13 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-07-15 02:35:13 UTC] [UPD]   📢 📦 BluecrestFS/AxisIR
+     ⭐ 0  🗣 HTML  📅 2026-07-14
+     🔗 https://github.com/BluecrestFS/AxisIR
+     📝 AxisIR — Browser-based incident response investigation platform with timeline an…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 02:35:13 UTC] [UPD]   📢 📦 chistobled/edryzm
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/chistobled/edryzm
+     📝 Batch created
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-15 02:35:13 UTC] [UPD]   📢 📦 dozelix/easml-framework
+     ⭐ 0  🗣 Python  📅 2026-07-08
+     🔗 https://github.com/dozelix/easml-framework
+     📝 Framework educativo de emulación de malware con interfaz visual interactiva (TUI…
+     🏷  academic-framework, cis-controls, cybersecurity, lue-team, malware-simulation, python, security-education, textual-tui
+     🔄 Motivo: repo recente (6gg)
+[2026-07-15 02:35:13 UTC] [UPD]   📢 📦 tony11301130/shigure-edr
+     ⭐ 0  🗣 Python  📅 2026-07-13
+     🔗 https://github.com/tony11301130/shigure-edr
+     📝 Shigure EDR - Windows intranet MDR investigation EDR prototype
+     🏷  edr, endpoint-security, mdr, shigure
+     🔄 Motivo: repo recente (1gg)
+[2026-07-15 02:35:13 UTC] [UPD]   📢 📦 ClementG91/winsight
+     ⭐ 1  🗣 C#  📅 2026-07-10
+     🔗 https://github.com/ClementG91/winsight
+     📝 Free, open-source, transparent security tools for Windows, an Objective-See-styl…
+     🏷  authenticode, blue-team, cli, csharp, dfir, dotnet, endpoint-security, infosec, malware-detection, objective-see, open-source, persistence, security, sysinternals-alternative, windows
+     🔄 Motivo: repo recente (4gg)
+[2026-07-15 02:35:13 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-15 02:35:13 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-15 02:35:16 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-15 02:35:16 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-15 02:35:16 UTC] [NEW]   🆕 📦 HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499
+     ⭐ 0  🗣 C  📅 2026-07-15
+     🔗 https://github.com/HYCQAQ/Logitech-G-Cloud-GhostLock-CVE-2026-43499
+     📝 罗技云掌机 · GhostLock CVE-2026-43499 root 尝试
+     🏷  —
+[2026-07-15 02:35:16 UTC] [NEW]   🆕 📦 WiLL75G/soc-interview-prep
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/WiLL75G/soc-interview-prep
+     📝 A complete SOC analyst interview prep guide built from real lab work. Windows Ev…
+     🏷  —
+[2026-07-15 02:35:16 UTC] [NEW]   🆕 📦 lowkeyskid/TryHackMe-Driver-CTF
+     ⭐ 0  🗣 N/A  📅 2026-07-14
+     🔗 https://github.com/lowkeyskid/TryHackMe-Driver-CTF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-15 02:35:16 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-15 02:35:16 UTC] [INFO] ============================================================
+[2026-07-15 02:35:16 UTC] [INFO] Completato — 23 nuovi, 7 aggiornati, 0 errori
+[2026-07-15 02:35:16 UTC] [INFO] ============================================================
