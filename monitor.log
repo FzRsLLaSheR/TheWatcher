@@ -39186,3 +39186,179 @@
 [2026-07-15 19:13:40 UTC] [INFO] ============================================================
 [2026-07-15 19:13:40 UTC] [INFO] Completato — 31 nuovi, 5 aggiornati, 0 errori
 [2026-07-15 19:13:40 UTC] [INFO] ============================================================
+[2026-07-16 02:43:15 UTC] [INFO] ============================================================
+[2026-07-16 02:43:15 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-16 02:43:15 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-16 02:43:15 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-16 02:43:15 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-16 02:43:15 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-16 02:43:15 UTC] [INFO] ============================================================
+[2026-07-16 02:43:15 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-16 02:43:15 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-16 02:43:17 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-16 02:43:17 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-16 02:43:17 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-16 02:43:17 UTC] [UPD]   📢 📦 alexwest2006/alibi-windows-cheat-detect
+     ⭐ 0  🗣 HTML  📅 2026-07-15
+     🔗 https://github.com/alexwest2006/alibi-windows-cheat-detect
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-16 02:43:17 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-16 02:43:17 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-16 02:43:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-16 02:43:20 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 yankywilson/shinysp1d3r-intel
+     ⭐ 0  🗣 YARA  📅 2026-07-16
+     🔗 https://github.com/yankywilson/shinysp1d3r-intel
+     📝 Reverse engineering, infrastructure analysis, and detection content for the Shin…
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 reillyed-stack/edreilly-portfolio
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/reillyed-stack/edreilly-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 ritisha-404/mini-edr
+     ⭐ 0  🗣 C++  📅 2026-07-16
+     🔗 https://github.com/ritisha-404/mini-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 ichra92005/EDRAK
+     ⭐ 0  🗣 TypeScript  📅 2026-07-16
+     🔗 https://github.com/ichra92005/EDRAK
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 cenourin/soc-ai-toolkit
+     ⭐ 0  🗣 TeX  📅 2026-07-16
+     🔗 https://github.com/cenourin/soc-ai-toolkit
+     📝 Portfólio: IA aplicada a cibersegurança — agente de triagem de logs e mini SOAR
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 vladimiracunadev-create/rootcause-mobile-inspector
+     ⭐ 0  🗣 Dart  📅 2026-07-15
+     🔗 https://github.com/vladimiracunadev-create/rootcause-mobile-inspector
+     📝 📱 RootCause Mobile — sensor forense de diagnóstico para Android e iOS (Flutter).…
+     🏷  android, apk, cybersecurity, dart, diagnostics, flutter, forensics, ios, kotlin, material-design, mobile-app, privacy, swift, system-monitor, threat-detection
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 gabrielscheffer/pihole-tracker-badlist
+     ⭐ 0  🗣 Shell  📅 2026-07-16
+     🔗 https://github.com/gabrielscheffer/pihole-tracker-badlist
+     📝 Pi-hole blocklist for malicious BitTorrent trackers (AV-flagged, PUA redirects, …
+     🏷  blocklist, list, pi-hole, torrent, tracker
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 adamkbritsch/SmartTube-for-Mac
+     ⭐ 0  🗣 Swift  📅 2026-07-15
+     🔗 https://github.com/adamkbritsch/SmartTube-for-Mac
+     📝 Native macOS YouTube front end — real /watch playback in a cropped WebView, nati…
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 Davy-faugere/toolbox-reseau
+     ⭐ 0  🗣 Batchfile  📅 2026-07-15
+     🔗 https://github.com/Davy-faugere/toolbox-reseau
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 bryan-getthread/skills
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/bryan-getthread/skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 coercing/Roblox-External-Selfleak
+     ⭐ 0  🗣 C  📅 2026-07-15
+     🔗 https://github.com/coercing/Roblox-External-Selfleak
+     📝 Open-source memory-based external for Roblox
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 sukrutdatar/chakshu
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/sukrutdatar/chakshu
+     📝 An all-seeing, real-time EDR for continuous endpoint visibility, threat hunting,…
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 sathvik-zoldyck/blackbox-docs
+     ⭐ 1  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/sathvik-zoldyck/blackbox-docs
+     📝 Public docs for Black Box by Alcyone Secure — a forensic flight recorder for Win…
+     🏷  audit-log, black-box, cybersecurity, data-protection, device-security, dlp, documentation, dpdp, edr, endpoint-security, forensic-logging, forensics, hash-chain, incident-response, insider-threat, privacy, repair-shop-privacy, tamper-evident, windows, windows-forensics
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 honeyknow/ishax
+     ⭐ 0  🗣 C  📅 2026-07-15
+     🔗 https://github.com/honeyknow/ishax
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 ejp88/CRQ
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/ejp88/CRQ
+     📝 Cyber Risk Quantification Tool
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 OpeyemiMoses/TokenCallback
+     ⭐ 0  🗣 CSS  📅 2026-07-15
+     🔗 https://github.com/OpeyemiMoses/TokenCallback
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 NetworkWireshark/neonops
+     ⭐ 0  🗣 PowerShell  📅 2026-07-15
+     🔗 https://github.com/NetworkWireshark/neonops
+     📝 NeonOps Toolkit v3.8 Secure Fabric — Windows endpoint security & fleet ops platf…
+     🏷  command-center, compliance, edr, endpoint-security, fleet-management, powershell, windows
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 Ayushbunkar/OTS
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/Ayushbunkar/OTS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 WiLL75G/soc-analyst-toolkit
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/WiLL75G/soc-analyst-toolkit
+     📝 A curated arsenal of 55 blue team / detection engineering tools across 13 sectio…
+     🏷  cybersecurity, detection-engineering, incident-response, mittre-attack, siem, soc-analyst, splunk, threat-hunting
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 jBenini/aw2725dm-hpd-bug
+     ⭐ 0  🗣 N/A  📅 2026-07-15
+     🔗 https://github.com/jBenini/aw2725dm-hpd-bug
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 KusemaT/blue-team-journey
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/KusemaT/blue-team-journey
+     📝 Blue team SOC analyst portfolio — Security+ · BTL1 · SC-200 · Splunk · Sentinel …
+     🏷  —
+[2026-07-16 02:43:20 UTC] [NEW]   🆕 📦 Erroroff/NAVI-EDR_CyberShield
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/Erroroff/NAVI-EDR_CyberShield
+     📝 Advanced EDR Cybersecurity Shield for Kali Linux. UI and logs in Polish language…
+     🏷  —
+[2026-07-16 02:43:20 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-16 02:43:20 UTC] [UPD]   📢 📦 optimuslabs-io/grokpatrol
+     ⭐ 0  🗣 Go  📅 2026-07-14
+     🔗 https://github.com/optimuslabs-io/grokpatrol
+     📝 Offline, read-only forensic scanner: did the Grok Build CLI collect or upload yo…
+     🏷  cli, credential-exposure, data-exfiltration, dfir, digital-forensics, forensics, git, golang, grok, grok-cli, incident-response, offline, secret-scanning, security, security-tools, supply-chain-security, xai
+     🔄 Motivo: repo recente (1gg) | nuovi topic: grok-cli, supply-chain-security, xai, incident-response, security-tools, security, grok, credential-exposure, golang, dfir, secret-scanning, offline, git, digital-forensics, data-exfiltration, forensics, cli
+[2026-07-16 02:43:20 UTC] [UPD]   📢 📦 CynicDog/metchurial
+     ⭐ 1  🗣 Python  📅 2026-07-14
+     🔗 https://github.com/CynicDog/metchurial
+     📝 Grammar-based scanner for hardcoded sensitive values in DB2 SQL
+     🏷  antlr4, db2
+     🔄 Motivo: repo recente (1gg)
+[2026-07-16 02:43:20 UTC] [UPD]   📢 📦 ClementG91/winsight
+     ⭐ 1  🗣 C#  📅 2026-07-10
+     🔗 https://github.com/ClementG91/winsight
+     📝 Free, open-source, transparent security tools for Windows, an Objective-See-styl…
+     🏷  authenticode, blue-team, cli, csharp, dfir, dotnet, endpoint-security, infosec, malware-detection, objective-see, open-source, persistence, security, sysinternals-alternative, windows
+     🔄 Motivo: repo recente (5gg)
+[2026-07-16 02:43:20 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-16 02:43:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-16 02:43:22 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-16 02:43:22 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-16 02:43:22 UTC] [NEW]   🆕 📦 mesolimbo/robota
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/mesolimbo/robota
+     📝 A sandboxed Strands Agent platform
+     🏷  —
+[2026-07-16 02:43:22 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-16 02:43:22 UTC] [UPD]   📢 📦 ITherso/venom
+     ⭐ 1  🗣 Rust  📅 2026-07-15
+     🔗 https://github.com/ITherso/venom
+     📝 🐍 VENOM - Rust Web Pentesting Framework
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-16 02:43:22 UTC] [INFO] ============================================================
+[2026-07-16 02:43:22 UTC] [INFO] Completato — 23 nuovi, 6 aggiornati, 0 errori
+[2026-07-16 02:43:22 UTC] [INFO] ============================================================
