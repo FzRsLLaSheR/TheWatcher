@@ -39490,3 +39490,229 @@
 [2026-07-16 08:16:25 UTC] [INFO] ============================================================
 [2026-07-16 08:16:25 UTC] [INFO] Completato — 11 nuovi, 8 aggiornati, 0 errori
 [2026-07-16 08:16:25 UTC] [INFO] ============================================================
+[2026-07-16 13:54:52 UTC] [INFO] ============================================================
+[2026-07-16 13:54:52 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-16 13:54:52 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-16 13:54:52 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-16 13:54:52 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-16 13:54:52 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-16 13:54:52 UTC] [INFO] ============================================================
+[2026-07-16 13:54:52 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-16 13:54:52 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-16 13:54:54 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-16 13:54:54 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-16 13:54:54 UTC] [NEW]   🆕 📦 carterking37/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/carterking37/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to cre…
+     🏷  —
+[2026-07-16 13:54:54 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-16 13:54:54 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-16 13:54:54 UTC] [UPD]   📢 📦 alexwest2006/alibi-windows-cheat-detect
+     ⭐ 0  🗣 HTML  📅 2026-07-15
+     🔗 https://github.com/alexwest2006/alibi-windows-cheat-detect
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-16 13:54:54 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-16 13:54:54 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-16 13:54:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 turturikaboy87/EDRMute
+     ⭐ 0  🗣 Rust  📅 2026-07-16
+     🔗 https://github.com/turturikaboy87/EDRMute
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 leofang2007-maker/prompt-audit
+     ⭐ 1  🗣 Java  📅 2026-07-16
+     🔗 https://github.com/leofang2007-maker/prompt-audit
+     📝 Self-hosted, tool-agnostic audit trail for the prompts your developers send to A…
+     🏷  ai-coding-assistant, ai-compliance, ai-governance, ai-security, audit-log, audit-trail, claude-code, compliance, cursor, devsecops, gdpr, github-copilot, prompt-audit, prompt-logging, qoder, security, self-hosted, shadow-ai, soc2, spring-boot
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 cyber-security-dev-dep-mitake-com-tw/SCP-2317
+     ⭐ 0  🗣 Makefile  📅 2026-07-16
+     🔗 https://github.com/cyber-security-dev-dep-mitake-com-tw/SCP-2317
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 ahmedakbarov/ESAR
+     ⭐ 0  🗣 C#  📅 2026-07-16
+     🔗 https://github.com/ahmedakbarov/ESAR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 hari676778/malware-detection
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/hari676778/malware-detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 5yn7hp0w3r/soc-events-cheatsheet
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/5yn7hp0w3r/soc-events-cheatsheet
+     📝 Справочник событий Windows/Linux для SOC-аналитиков, threat hunters и IR-инженер…
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 zavetsec/dfir-checklists
+     ⭐ 1  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/zavetsec/dfir-checklists
+     📝 SOC L2 — Чек-листы реагирования на инциденты ИБ (DFIR Incident Response Playbook…
+     🏷  cybersecurity, dfir, forensics, hardening, incident-response, l2, l3, ru, soc
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 maibannakavali/ThreatLens
+     ⭐ 0  🗣 TypeScript  📅 2026-07-16
+     🔗 https://github.com/maibannakavali/ThreatLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 LanceZPF/awesome-papers-awesome
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/LanceZPF/awesome-papers-awesome
+     📝 The unified gateway to high-quality Awesome XXX Paper repositories.
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 HerbertKawere/Microsoft-Cloud-Security-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/HerbertKawere/Microsoft-Cloud-Security-Portfolio
+     📝 Enterprise-focused Microsoft cloud and security portfolio featuring Azure, Entra…
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 atharva07-cyber/SOCVision
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/atharva07-cyber/SOCVision
+     📝 AI-Assisted Incident Investigation Platform for SOC Analysts
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 amitambekar510/elk-ir-playbooks
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/amitambekar510/elk-ir-playbooks
+     📝 The most comprehensive open-source ELK SIEM Incident Response Playbook collectio…
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 rohittt21/Cipherguard-AI
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/rohittt21/Cipherguard-AI
+     📝 CipherGuard AI — Next-Gen Multi-Agent SOC Platform that correlates Cybersecurity…
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 NamanSaini04/cybersecurity-incident-analytics
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-16
+     🔗 https://github.com/NamanSaini04/cybersecurity-incident-analytics
+     📝 End-to-end SOC incident analytics — cleaning pipeline, EDA, MTTD/MTTR/SLA-breach…
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 V1ShAl1613/pune-master-rrepo
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/V1ShAl1613/pune-master-rrepo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 rahul0xkr/EdrMonitor
+     ⭐ 0  🗣 C  📅 2026-07-16
+     🔗 https://github.com/rahul0xkr/EdrMonitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 CodingCodon/gromacs-cuda
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/CodingCodon/gromacs-cuda
+     📝 GPU-accelerated GROMACS 2021.3 container image with Python tools
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 okkb354/Enterprise-Cyber-Risk-Assessment-ISO27005
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/okkb354/Enterprise-Cyber-Risk-Assessment-ISO27005
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 Sujal007-max/--SOC-Analyst-responding-
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/Sujal007-max/--SOC-Analyst-responding-
+     📝  SOC Analyst responding to a cyber security incident.
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 SHHSSH/SHHSSH
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/SHHSSH/SHHSSH
+     📝 Categorized index of my public GitHub repositories
+     🏷  github-profile, profile-readme, software-projects
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 Steven20201/Endpoint-Threat-Detection-Lab-Wazuh-SIEM-Sysmon-Atomic-Red-Team
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/Steven20201/Endpoint-Threat-Detection-Lab-Wazuh-SIEM-Sysmon-Atomic-Red-Team
+     📝 Home-lab SIEM built with Wazuh + Sysmon, validated by simulating MITRE ATT&CK te…
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 adamliq/App_Datasource-validator
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/adamliq/App_Datasource-validator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 smjunaidgrid/cybersec-academy
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/smjunaidgrid/cybersec-academy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 K1ngfisherk/rpt-skill
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/K1ngfisherk/rpt-skill
+     📝 实战漏洞挖掘 + 护网红队双模 Claude Code skill
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 developersairaj/FileForensics
+     ⭐ 0  🗣 CSS  📅 2026-07-16
+     🔗 https://github.com/developersairaj/FileForensics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 IBM-Internship-Program/Malware-Analysis-and-Reverse-Engineering
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/IBM-Internship-Program/Malware-Analysis-and-Reverse-Engineering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 byl18/MD-simulation
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-16
+     🔗 https://github.com/byl18/MD-simulation
+     📝 This is the scripts of MD simulation and PacsMD
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 bhd528/h265cutting
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/bhd528/h265cutting
+     📝 h265cutting
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 haniffazal02/finspark01
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/haniffazal02/finspark01
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [NEW]   🆕 📦 collinsnwammuo/Microsoft-Defender-for-Endpoint
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/collinsnwammuo/Microsoft-Defender-for-Endpoint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:54:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-16 13:54:57 UTC] [UPD]   📢 📦 BenjiTrapp/MostShittyEDR
+     ⭐ 1  🗣 C++  📅 2026-07-15
+     🔗 https://github.com/BenjiTrapp/MostShittyEDR
+     📝 The World's Most Intentionally Terrible EDR - An educational platform for learni…
+     🏷  bypass-techniques, ctf, edr, edr-bypass, education, kernel-driver, nim, offensive-security, process-monitoring, red-team, security, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-07-16 13:54:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-16 13:54:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-16 13:55:00 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-16 13:55:00 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-16 13:55:00 UTC] [NEW]   🆕 📦 lowkeyskid/TryhackMeDriverCTF
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/lowkeyskid/TryhackMeDriverCTF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:55:00 UTC] [NEW]   🆕 📦 yayeal/he
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/yayeal/he
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-16 13:55:00 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-16 13:55:00 UTC] [UPD]   📢 📦 mesolimbo/robota
+     ⭐ 0  🗣 Python  📅 2026-07-15
+     🔗 https://github.com/mesolimbo/robota
+     📝 A sandboxed Strands Agent platform
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-16 13:55:00 UTC] [UPD]   📢 📦 Anduamlk/HTB
+     ⭐ 0  🗣 PHP  📅 2026-07-13
+     🔗 https://github.com/Anduamlk/HTB
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-16 13:55:00 UTC] [UPD]   📢 📦 ITherso/venom
+     ⭐ 1  🗣 Rust  📅 2026-07-15
+     🔗 https://github.com/ITherso/venom
+     📝 🐍 VENOM - Rust Web Pentesting Framework
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-16 13:55:00 UTC] [INFO] ============================================================
+[2026-07-16 13:55:00 UTC] [INFO] Completato — 33 nuovi, 6 aggiornati, 0 errori
+[2026-07-16 13:55:00 UTC] [INFO] ============================================================
