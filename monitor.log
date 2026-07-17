@@ -39944,3 +39944,182 @@
 [2026-07-16 19:13:34 UTC] [INFO] ============================================================
 [2026-07-16 19:13:34 UTC] [INFO] Completato — 31 nuovi, 8 aggiornati, 0 errori
 [2026-07-16 19:13:34 UTC] [INFO] ============================================================
+[2026-07-17 02:45:41 UTC] [INFO] ============================================================
+[2026-07-17 02:45:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-17 02:45:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-17 02:45:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-17 02:45:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-17 02:45:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-17 02:45:41 UTC] [INFO] ============================================================
+[2026-07-17 02:45:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-17 02:45:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-17 02:45:43 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 02:45:43 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-17 02:45:43 UTC] [NEW]   🆕 📦 loganhub1996/alibi-forensic-scan-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/loganhub1996/alibi-forensic-scan-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+[2026-07-17 02:45:43 UTC] [NEW]   🆕 📦 owen-west58/alibi-v2026-windows-scan
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/owen-west58/alibi-v2026-windows-scan
+     📝 Alibi v2026 is a portable PowerShell-based Windows forensic scanner for read-onl…
+     🏷  —
+[2026-07-17 02:45:43 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-17 02:45:43 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-17 02:45:43 UTC] [UPD]   📢 📦 carterking37/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/carterking37/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to cre…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 02:45:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-17 02:45:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-17 02:45:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 timothytate/viper
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/timothytate/viper
+     📝 VIPER (Visual Infrastructure Picture & Endpoint Response) is a browser based com…
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 Chumajer14/cyber-01
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/Chumajer14/cyber-01
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 ag2020sa/cti-ai-trust-gateway
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/ag2020sa/cti-ai-trust-gateway
+     📝 Vendor-neutral verification gateway for AI-generated cyber threat intelligence: …
+     🏷  ai-safety, cyber-threat-intelligence, fastapi, python, research, security, stix, stix2, threat-intelligence, verification
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 grisheet/sigma-detection-engineering
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/grisheet/sigma-detection-engineering
+     📝 Detection Engineering project with Sigma rules for threat detection - PowerShell…
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 randomhero-git/phishing-investigation-sop
+     ⭐ 1  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/randomhero-git/phishing-investigation-sop
+     📝 Generalized phishing investigation SOP for K-12 and small/mid-size organizations…
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 randomhero-git/randomhero-git
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/randomhero-git/randomhero-git
+     📝 Profile README
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 callofthev0id/callofthev0id
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/callofthev0id/callofthev0id
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 D3NIZ1921/HTB_Cap-WriteUp
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/D3NIZ1921/HTB_Cap-WriteUp
+     📝 HTB Cap machine solution
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 Brenins/webview-processblocker
+     ⭐ 0  🗣 C#  📅 2026-07-17
+     🔗 https://github.com/Brenins/webview-processblocker
+     📝 Block any application to access webview on your computer
+     🏷  autocad, autodesk, webview, webview2, windows
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 BKFrancis-Cyber/Threat-Hunting-Scenario-TOR
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/BKFrancis-Cyber/Threat-Hunting-Scenario-TOR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 LouisPfirmann/HiRISE-dtm-pipeline
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/LouisPfirmann/HiRISE-dtm-pipeline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 WadeJackson93/cybersecurity-brute-force-investigation
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/WadeJackson93/cybersecurity-brute-force-investigation
+     📝 Investigation of a simulated brute force attack including timeline, risk assessm…
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 coldless0x/Thread-DFIR
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/coldless0x/Thread-DFIR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 rustys-workplace/custom-linux-edr-engine
+     ⭐ 1  🗣 C  📅 2026-07-16
+     🔗 https://github.com/rustys-workplace/custom-linux-edr-engine
+     📝 A custom Endpoint Detection and Response Engine prototype for Linux based system…
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 nebulae/vera
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/nebulae/vera
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 kurone-kito/oc-test
+     ⭐ 0  🗣 JavaScript  📅 2026-07-16
+     🔗 https://github.com/kurone-kito/oc-test
+     📝 Test for opencode
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 edri2or-commits/or-edri-home
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/edri2or-commits/or-edri-home
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 VandanBhuva/ebpf-malware-monitor
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/VandanBhuva/ebpf-malware-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 mickbrowns1/strongisland
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/mickbrowns1/strongisland
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 Dilushan-Ravihara/secure-assets-compliance
+     ⭐ 0  🗣 JavaScript  📅 2026-07-16
+     🔗 https://github.com/Dilushan-Ravihara/secure-assets-compliance
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [NEW]   🆕 📦 manoranjith0808/Nexus
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/manoranjith0808/Nexus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:46 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-17 02:45:46 UTC] [UPD]   📢 📦 leofang2007-maker/prompt-audit
+     ⭐ 1  🗣 Java  📅 2026-07-16
+     🔗 https://github.com/leofang2007-maker/prompt-audit
+     📝 Self-hosted, tool-agnostic audit trail for the prompts your developers send to A…
+     🏷  ai-coding-assistant, ai-compliance, ai-governance, ai-security, audit-log, audit-trail, claude-code, compliance, cursor, devsecops, gdpr, github-copilot, prompt-audit, prompt-logging, qoder, security, self-hosted, shadow-ai, soc2, spring-boot
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 02:45:46 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-17 02:45:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-17 02:45:48 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 02:45:48 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-17 02:45:48 UTC] [NEW]   🆕 📦 davidlehn/asb
+     ⭐ 0  🗣 Shell  📅 2026-07-16
+     🔗 https://github.com/davidlehn/asb
+     📝 Agent Sandbox
+     🏷  —
+[2026-07-17 02:45:48 UTC] [NEW]   🆕 📦 HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 02:45:48 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-17 02:45:48 UTC] [UPD]   📢 📦 ITherso/venom
+     ⭐ 1  🗣 Rust  📅 2026-07-15
+     🔗 https://github.com/ITherso/venom
+     📝 🐍 VENOM - Rust Web Pentesting Framework
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-17 02:45:48 UTC] [INFO] ============================================================
+[2026-07-17 02:45:48 UTC] [INFO] Completato — 26 nuovi, 4 aggiornati, 0 errori
+[2026-07-17 02:45:48 UTC] [INFO] ============================================================
