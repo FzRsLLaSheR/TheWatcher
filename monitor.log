@@ -40469,3 +40469,251 @@
 [2026-07-17 13:41:09 UTC] [INFO] ============================================================
 [2026-07-17 13:41:09 UTC] [INFO] Completato — 20 nuovi, 9 aggiornati, 0 errori
 [2026-07-17 13:41:09 UTC] [INFO] ============================================================
+[2026-07-17 19:12:07 UTC] [INFO] ============================================================
+[2026-07-17 19:12:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-17 19:12:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-17 19:12:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-17 19:12:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-17 19:12:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-17 19:12:07 UTC] [INFO] ============================================================
+[2026-07-17 19:12:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-17 19:12:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-17 19:12:09 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 19:12:09 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-17 19:12:09 UTC] [NEW]   🆕 📦 alasansilla/wizza
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/alasansilla/wizza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:09 UTC] [NEW]   🆕 📦 alasan-art/wizza
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/alasan-art/wizza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:09 UTC] [NEW]   🆕 📦 badchars/living-off-the-land-lolbins-mcp-server
+     ⭐ 0  🗣 TypeScript  📅 2026-07-17
+     🔗 https://github.com/badchars/living-off-the-land-lolbins-mcp-server
+     📝 Living off the Land LOLBins MCP Server — 59 composite tools for LOL binary intel…
+     🏷  blue-team, detection-engineering, gtfobins, living-off-the-land, lolbas, lolbins, loldrivers, lolrmm, loobins, mcp, mcp-server, mitre-attck, privilege-escalation, purple-team, red-team, security, sigma-rules, sysmon, threat-hunting, yara
+[2026-07-17 19:12:09 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-17 19:12:09 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-17 19:12:09 UTC] [UPD]   📢 📦 carterking37/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/carterking37/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to cre…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-17 19:12:09 UTC] [UPD]   📢 📦 loganhub1996/alibi-forensic-scan-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/loganhub1996/alibi-forensic-scan-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 19:12:09 UTC] [UPD]   📢 📦 owen-west58/alibi-v2026-windows-scan
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/owen-west58/alibi-v2026-windows-scan
+     📝 Alibi v2026 is a portable PowerShell-based Windows forensic scanner for read-onl…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 19:12:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-17 19:12:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-17 19:12:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 Adroxz1122/GhostlyIAT
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/Adroxz1122/GhostlyIAT
+     📝 Dynamically resolve Windows APIs using PEB walking and DJB2 hashing, hide import…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 honeyknow/lol
+     ⭐ 0  🗣 TypeScript  📅 2026-07-17
+     🔗 https://github.com/honeyknow/lol
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 Auscki/InterleaverDebugging
+     ⭐ 0  🗣 JavaScript  📅 2026-07-17
+     🔗 https://github.com/Auscki/InterleaverDebugging
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 devalla-jwala/edr-investigation-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/devalla-jwala/edr-investigation-portfolio
+     📝 Real-world CrowdStrike Falcon EDR alert investigations from SOC Analyst Internsh…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 sangramsinghgill1-ux/Incident-response-Plan-Cybersecurity-Policy
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/sangramsinghgill1-ux/Incident-response-Plan-Cybersecurity-Policy
+     📝 Incident Response Plan (IRP) and a Cybersecurity Policy that organizations can u…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 JUS7205/pulse
+     ⭐ 0  🗣 Rust  📅 2026-07-17
+     🔗 https://github.com/JUS7205/pulse
+     📝 Pulse — blue-team host telemetry tripwire: snapshot process tree + TCP table, re…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 JUS7205/sentinel
+     ⭐ 0  🗣 Rust  📅 2026-07-17
+     🔗 https://github.com/JUS7205/sentinel
+     📝 Runtime behavioral guard for AI agents — anti-cheat engine for autonomous agents…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 rayoni01/canary-lab
+     ⭐ 1  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/rayoni01/canary-lab
+     📝 Deception detection lab using Thinkst Canarytokens - attacker path analysis and …
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 KevoT0/Defender-XDR-Defender-for-Endpoint-Simulated-Intrusion-Investigation-Response
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/KevoT0/Defender-XDR-Defender-for-Endpoint-Simulated-Intrusion-Investigation-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 likevrui/shigi-wildfire-capacity
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/likevrui/shigi-wildfire-capacity
+     📝 "Recent health-system capacity and projected growth in landscape-fire smoke mort…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 MananshiSethi/sentinelPulse
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/MananshiSethi/sentinelPulse
+     📝 fintech hackathon team : wisdom
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 ASEP6969/APEX-CENTRUM-ACE
+     ⭐ 0  🗣 Shell  📅 2026-07-17
+     🔗 https://github.com/ASEP6969/APEX-CENTRUM-ACE
+     📝 Apex Centrum (ACE) - autonomous read-only malware/trojan triage agent built on o…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 carolyndiaz914374978/edryj4ce
+     ⭐ 0  🗣 Rust  📅 2026-07-17
+     🔗 https://github.com/carolyndiaz914374978/edryj4ce
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 mattthomasisu8/README.md
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/mattthomasisu8/README.md
+     📝 $ whoami
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 alasansilla/wizza
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/alasansilla/wizza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 alasan-art/wizza
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/alasan-art/wizza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 honeyknow/ishax
+     ⭐ 0  🗣 C  📅 2026-07-17
+     🔗 https://github.com/honeyknow/ishax
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 arronLu-nio/XDRBoost
+     ⭐ 0  🗣 Swift  📅 2026-07-17
+     🔗 https://github.com/arronLu-nio/XDRBoost
+     📝 Open-source macOS XDR brightness utility
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 Triadeia/edrivego_vendas
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/Triadeia/edrivego_vendas
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 TedMercer/Two-Site-SIAM-EDRIXS
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/TedMercer/Two-Site-SIAM-EDRIXS
+     📝 Exact-diagonalization XAS & RIXS simulations using a two-site SIAM, built on EDR…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 300nika-wq/Ai_agent
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/300nika-wq/Ai_agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 HelixCipher/mouse-jiggler
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/HelixCipher/mouse-jiggler
+     📝 Cross-platform Bezier curve hardware mouse jiggler using an RP2350-One. Spoofs a…
+     🏷  adafruit, bezier-curves, circuitpython, edr-evasion, hid, mouse-jiggler, pico, rp2350, waveshare
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 hitesh169/Cybersecurity-Policy-and-Incident-Response-Plan
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/hitesh169/Cybersecurity-Policy-and-Incident-Response-Plan
+     📝 In this we made a Plan or documentation on this project which help small busines…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 Amir-Nuredin/Advanced-Endpoint-Detection-Response-EDR-with-Wazuh
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/Amir-Nuredin/Advanced-Endpoint-Detection-Response-EDR-with-Wazuh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 badchars/living-off-the-land-lolbins-mcp-server
+     ⭐ 0  🗣 TypeScript  📅 2026-07-17
+     🔗 https://github.com/badchars/living-off-the-land-lolbins-mcp-server
+     📝 Living off the Land LOLBins MCP Server — 59 composite tools for LOL binary intel…
+     🏷  blue-team, detection-engineering, gtfobins, living-off-the-land, lolbas, lolbins, loldrivers, lolrmm, loobins, mcp, mcp-server, mitre-attck, privilege-escalation, purple-team, red-team, security, sigma-rules, sysmon, threat-hunting, yara
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 ahmedbelaih11/Computer-Scanner-
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/ahmedbelaih11/Computer-Scanner-
+     📝 A cross-platform endpoint security tool for Windows and Linux featuring real-tim…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 Amtonsi/nodetrace-ir
+     ⭐ 1  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/Amtonsi/nodetrace-ir
+     📝 Bootable WinPE incident-response workstation with AVZ-assisted offline investiga…
+     🏷  —
+[2026-07-17 19:12:11 UTC] [NEW]   🆕 📦 VariableThe/LumaEdge
+     ⭐ 0  🗣 Swift  📅 2026-07-17
+     🔗 https://github.com/VariableThe/LumaEdge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:11 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-17 19:12:11 UTC] [UPD]   📢 📦 yujug5335/EdrawMax-2026
+     ⭐ 0  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/yujug5335/EdrawMax-2026
+     📝 Download the full version of EdrawMax for Windows 10 and 11. Access the installe…
+     🏷  complete-version, diagram, diagram-software-premium-2026, download, edrawmax, edrawmax-2026, edrawmax-download-full-version-windows-11, full-installer, mind-map, office, office-suite, office-suite-edrawmax-install-pc, premium, productivity, software
+     🔄 Motivo: repo recente (1gg)
+[2026-07-17 19:12:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-17 19:12:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-17 19:12:13 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 19:12:13 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-07-17 19:12:13 UTC] [NEW]   🆕 📦 alasansilla/wizza
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/alasansilla/wizza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:13 UTC] [NEW]   🆕 📦 alasan-art/wizza
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/alasan-art/wizza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:13 UTC] [NEW]   🆕 📦 slamo1566/EscapeHatch
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/slamo1566/EscapeHatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 19:12:13 UTC] [NEW]   🆕 📦 Chandrashekar-Bala/Chandrashekar-Bala
+     ⭐ 1  🗣 N/A  📅 2026-07-16
+     🔗 https://github.com/Chandrashekar-Bala/Chandrashekar-Bala
+     📝 Official GitHub profile showcasing my cybersecurity portfolio, hands-on security…
+     🏷  —
+[2026-07-17 19:12:13 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-17 19:12:13 UTC] [UPD]   📢 📦 cwwjacobs/cinder
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/cwwjacobs/cinder
+     📝 Codex Build Week maybe? 
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 19:12:13 UTC] [UPD]   📢 📦 MiaPatsune/cve-2026-43499
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/MiaPatsune/cve-2026-43499
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 19:12:13 UTC] [UPD]   📢 📦 0xSatoruX/SEC-NOTES
+     ⭐ 0  🗣 Python  📅 2026-07-10
+     🔗 https://github.com/0xSatoruX/SEC-NOTES
+     📝 notes
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-17 19:12:13 UTC] [INFO] ============================================================
+[2026-07-17 19:12:13 UTC] [INFO] Completato — 35 nuovi, 8 aggiornati, 0 errori
+[2026-07-17 19:12:13 UTC] [INFO] ============================================================
