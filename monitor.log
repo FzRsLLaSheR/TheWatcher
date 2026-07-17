@@ -40123,3 +40123,170 @@
 [2026-07-17 02:45:48 UTC] [INFO] ============================================================
 [2026-07-17 02:45:48 UTC] [INFO] Completato — 26 nuovi, 4 aggiornati, 0 errori
 [2026-07-17 02:45:48 UTC] [INFO] ============================================================
+[2026-07-17 08:11:32 UTC] [INFO] ============================================================
+[2026-07-17 08:11:32 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-17 08:11:32 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-17 08:11:32 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-17 08:11:32 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-17 08:11:32 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-17 08:11:32 UTC] [INFO] ============================================================
+[2026-07-17 08:11:32 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-17 08:11:32 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-17 08:11:34 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 08:11:34 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-17 08:11:34 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-07-17 08:11:34 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-17 08:11:34 UTC] [UPD]   📢 📦 BenjiTrapp/MostShittyEDR
+     ⭐ 1  🗣 Nim  📅 2026-07-15
+     🔗 https://github.com/BenjiTrapp/MostShittyEDR
+     📝 The World's Most Intentionally Terrible EDR - An educational platform for learni…
+     🏷  bypass-techniques, ctf, edr, edr-bypass, education, kernel-driver, nim, offensive-security, process-monitoring, red-team, security, windows
+     🔄 Motivo: repo recente (2gg)
+[2026-07-17 08:11:34 UTC] [UPD]   📢 📦 loganhub1996/alibi-forensic-scan-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/loganhub1996/alibi-forensic-scan-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 08:11:34 UTC] [UPD]   📢 📦 owen-west58/alibi-v2026-windows-scan
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/owen-west58/alibi-v2026-windows-scan
+     📝 Alibi v2026 is a portable PowerShell-based Windows forensic scanner for read-onl…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 08:11:34 UTC] [UPD]   📢 📦 carterking37/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/carterking37/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to cre…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 08:11:34 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-17 08:11:34 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-17 08:11:37 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 pheonixonfire248/cybersecurity-incident-forensics-case-study
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/pheonixonfire248/cybersecurity-incident-forensics-case-study
+     📝 Educational investigation of a synthetic SSH security incident using Python log …
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 aloc999/ExploitNinja
+     ⭐ 0  🗣 JavaScript  📅 2026-07-17
+     🔗 https://github.com/aloc999/ExploitNinja
+     📝 147 deduplicated security/pentest skills for opencode (bug bounty, web3, mobile,…
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 dontrellkwilson-cyber/GlobalBiz-Solutions-Inc.-Incident-Response-Plan-Recommendations
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/dontrellkwilson-cyber/GlobalBiz-Solutions-Inc.-Incident-Response-Plan-Recommendations
+     📝 This project presents incident response plan recommendations for **GlobalBiz Sol…
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 shoewa/westfin-red-team-capstone
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/shoewa/westfin-red-team-capstone
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 dontrellkwilson-cyber/GlobalBiz-Solutions-Inc.-Information-Security-Governance-Risk-and-Compliance-Review
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/dontrellkwilson-cyber/GlobalBiz-Solutions-Inc.-Information-Security-Governance-Risk-and-Compliance-Review
+     📝 This project presents an information security governance, risk, and compliance a…
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 CynicDog/metchurial
+     ⭐ 1  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/CynicDog/metchurial
+     📝 Treating queries as data: an analytical engine that extracts structural intellig…
+     🏷  antlr, db2
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 dontrellkwilson-cyber/FinSecure-Corp-Data-Security-and-Systems-Defense-Review
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/dontrellkwilson-cyber/FinSecure-Corp-Data-Security-and-Systems-Defense-Review
+     📝 This project presents a data security and systems defense assessment for **FinSe…
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 nafiul-dev01/windows-security-monitor
+     ⭐ 2  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/nafiul-dev01/windows-security-monitor
+     📝 An advanced, multi-threaded real-time Windows security monitor (EDR Layer) featu…
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 bAItherix/edrf
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/bAItherix/edrf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 Shovon30/DecodeLabs-Internship-Project4-
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/Shovon30/DecodeLabs-Internship-Project4-
+     📝 Weighted system vulnerability audit engine — passwords, patch status & unsafe pr…
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 Eswar5313/Eswarpolice-2
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/Eswar5313/Eswarpolice-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 Eswar5313/Eswarpolice-1
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/Eswar5313/Eswarpolice-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 Smriti-netizen/GarudAI
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/Smriti-netizen/GarudAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 naveenreddy4422/naveenreddy4422
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/naveenreddy4422/naveenreddy4422
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 duongtn2201/edr-soar-limacharlie-tines
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/duongtn2201/edr-soar-limacharlie-tines
+     📝 Deploying an automated EDR + SOAR solution using LimaCharlie and Tines.
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 Eswar5313/Eswarpolice-
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/Eswar5313/Eswarpolice-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 lexs201992-gif/unisoc-longcheer-investigation
+     ⭐ 1  🗣 YARA  📅 2026-07-16
+     🔗 https://github.com/lexs201992-gif/unisoc-longcheer-investigation
+     📝 INFORME OFICIAL DE INVESTIGACIÓN: COMPROMISO DE CADENA DE SUMINISTRO UNISOC/LONG…
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 bprochazka-bit/qemu-vbt
+     ⭐ 0  🗣 C  📅 2026-07-17
+     🔗 https://github.com/bprochazka-bit/qemu-vbt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 08:11:37 UTC] [NEW]   🆕 📦 grisheet/incident-response-playbook
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/grisheet/incident-response-playbook
+     📝 A professional Incident Response Playbook for cybersecurity teams covering Phish…
+     🏷  —
+[2026-07-17 08:11:37 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-17 08:11:37 UTC] [UPD]   📢 📦 5yn7hp0w3r/soc-events-cheatsheet
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/5yn7hp0w3r/soc-events-cheatsheet
+     📝 Справочник событий Windows/Linux для SOC-аналитиков, threat hunters и IR-инженер…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 08:11:37 UTC] [UPD]   📢 📦 nebulae/vera
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/nebulae/vera
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 08:11:37 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-17 08:11:37 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-17 08:11:39 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 08:11:39 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-17 08:11:39 UTC] [NEW]   🆕 📦 aloc999/ExploitNinja
+     ⭐ 0  🗣 JavaScript  📅 2026-07-17
+     🔗 https://github.com/aloc999/ExploitNinja
+     📝 147 deduplicated security/pentest skills for opencode (bug bounty, web3, mobile,…
+     🏷  —
+[2026-07-17 08:11:39 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-17 08:11:39 UTC] [INFO] ============================================================
+[2026-07-17 08:11:39 UTC] [INFO] Completato — 20 nuovi, 7 aggiornati, 0 errori
+[2026-07-17 08:11:39 UTC] [INFO] ============================================================
