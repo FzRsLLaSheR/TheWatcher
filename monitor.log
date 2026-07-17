@@ -40290,3 +40290,182 @@
 [2026-07-17 08:11:39 UTC] [INFO] ============================================================
 [2026-07-17 08:11:39 UTC] [INFO] Completato — 20 nuovi, 7 aggiornati, 0 errori
 [2026-07-17 08:11:39 UTC] [INFO] ============================================================
+[2026-07-17 13:41:03 UTC] [INFO] ============================================================
+[2026-07-17 13:41:03 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-17 13:41:03 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-17 13:41:03 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-17 13:41:03 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-17 13:41:03 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-17 13:41:03 UTC] [INFO] ============================================================
+[2026-07-17 13:41:03 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-17 13:41:03 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-17 13:41:05 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 13:41:05 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-17 13:41:05 UTC] [NEW]   🆕 📦 1906reblabs/Global-Cybersecurity-Weekly
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/1906reblabs/Global-Cybersecurity-Weekly
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:05 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-17 13:41:05 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-17 13:41:05 UTC] [UPD]   📢 📦 loganhub1996/alibi-forensic-scan-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/loganhub1996/alibi-forensic-scan-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 13:41:05 UTC] [UPD]   📢 📦 owen-west58/alibi-v2026-windows-scan
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/owen-west58/alibi-v2026-windows-scan
+     📝 Alibi v2026 is a portable PowerShell-based Windows forensic scanner for read-onl…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 13:41:05 UTC] [UPD]   📢 📦 carterking37/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-16
+     🔗 https://github.com/carterking37/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to cre…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-17 13:41:05 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-17 13:41:05 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-17 13:41:07 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 duongtn2201/soc-automation-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/duongtn2201/soc-automation-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 darkbyte-JS/DarksFIDO2
+     ⭐ 0  🗣 C#  📅 2026-07-17
+     🔗 https://github.com/darkbyte-JS/DarksFIDO2
+     📝 Secure local Windows FIDO2/WebAuthn, TPM, and TOTP manager
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 Rifqi-Edr/JOBSTREET-JOBSDB-SCRAPPER
+     ⭐ 0  🗣 JavaScript  📅 2026-07-17
+     🔗 https://github.com/Rifqi-Edr/JOBSTREET-JOBSDB-SCRAPPER
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 abhishekjathanam/CivicShield-AI
+     ⭐ 0  🗣 TypeScript  📅 2026-07-17
+     🔗 https://github.com/abhishekjathanam/CivicShield-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 baobao1044/bedrock-obfuscator
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/baobao1044/bedrock-obfuscator
+     📝 A monolithic Python source obfuscator for CPython 3.10-3.12 with an optional nat…
+     🏷  anti-reverse-engineering, code-protection, obfuscation, obfuscator, python, python-obfuscator, security, source-available
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 thousandvisitors/webshell-manager
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/thousandvisitors/webshell-manager
+     📝 WebShell Manager v2.1 - TCP反向连接架构的安全实验工具 (Chopper-style for education)
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 antovijay1392000-bot/wedding-invitation-Praveen-Gowthami
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/antovijay1392000-bot/wedding-invitation-Praveen-Gowthami
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 drata-rv/sophos
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/drata-rv/sophos
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 devdotnetorg/ESP32-WT32-SC01-3.5
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/devdotnetorg/ESP32-WT32-SC01-3.5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 crypterboss/can-make-your-any-RMM-ie.-Screenconnect-connectwise-Simple-help-file-into-dll-side-loading-
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/crypterboss/can-make-your-any-RMM-ie.-Screenconnect-connectwise-Simple-help-file-into-dll-side-loading-
+     📝 Screenconnect / connectwise available for one month with signed ev via Adobe rea…
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 crypterboss/RMM-screenconnect-connectwise-
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/crypterboss/RMM-screenconnect-connectwise-
+     📝 Screenconnect / connectwise available for one month with signed ev via Adobe rea…
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 siri2811/V2_EDR_MDTI_FINALISED
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/siri2811/V2_EDR_MDTI_FINALISED
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:07 UTC] [NEW]   🆕 📦 phuthodien/vibe_code_mini_edr
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/phuthodien/vibe_code_mini_edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:07 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-17 13:41:07 UTC] [UPD]   📢 📦 k-edr/IntegrationTestingSDK
+     ⭐ 0  🗣 C#  📅 2026-07-16
+     🔗 https://github.com/k-edr/IntegrationTestingSDK
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-17 13:41:07 UTC] [UPD]   📢 📦 HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     📝 RedTeam-Tools  Automated vulnerability scanner with CVE matching, port scanning,…
+     🏷  cve, cve-exploit, database-exploitation, dual-mode, port-scaner, reports, vulnerability-scanner
+     🔄 Motivo: repo recente (0gg) | nuovi topic: database-exploitation, cve-exploit, dual-mode, cve, vulnerability-scanner, reports, port-scaner
+[2026-07-17 13:41:07 UTC] [UPD]   📢 📦 ahmedakbarov/ESAR
+     ⭐ 0  🗣 C#  📅 2026-07-16
+     🔗 https://github.com/ahmedakbarov/ESAR
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-17 13:41:07 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-17 13:41:07 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-17 13:41:09 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-17 13:41:09 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-07-17 13:41:09 UTC] [NEW]   🆕 📦 MiaPatsune/cve-2026-43499
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/MiaPatsune/cve-2026-43499
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:09 UTC] [NEW]   🆕 📦 EsquireProud547/onyx-kernel
+     ⭐ 0  🗣 Shell  📅 2026-07-17
+     🔗 https://github.com/EsquireProud547/onyx-kernel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:09 UTC] [NEW]   🆕 📦 karollooool/CVE-2026-50416-writeup-and-poc
+     ⭐ 2  🗣 C  📅 2026-07-17
+     🔗 https://github.com/karollooool/CVE-2026-50416-writeup-and-poc
+     📝 # CVE-2026-50416: Windows 11 KASLR bypass
+     🏷  —
+[2026-07-17 13:41:09 UTC] [NEW]   🆕 📦 zhengdeyi18/lara-inject
+     ⭐ 0  🗣 Swift  📅 2026-07-17
+     🔗 https://github.com/zhengdeyi18/lara-inject
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:09 UTC] [NEW]   🆕 📦 cwwjacobs/cinder
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/cwwjacobs/cinder
+     📝 Codex Build Week maybe? 
+     🏷  —
+[2026-07-17 13:41:09 UTC] [NEW]   🆕 📦 Muskan-775/Pentest-Tools
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/Muskan-775/Pentest-Tools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-17 13:41:09 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-17 13:41:09 UTC] [UPD]   📢 📦 HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     📝 RedTeam-Tools  Automated vulnerability scanner with CVE matching, port scanning,…
+     🏷  cve, cve-exploit, database-exploitation, dual-mode, port-scaner, reports, vulnerability-scanner
+     🔄 Motivo: repo recente (0gg) | nuovi topic: database-exploitation, cve-exploit, dual-mode, cve, vulnerability-scanner, reports, port-scaner
+[2026-07-17 13:41:09 UTC] [UPD]   📢 📦 ITherso/venom
+     ⭐ 1  🗣 Rust  📅 2026-07-15
+     🔗 https://github.com/ITherso/venom
+     📝 🐍 VENOM - Rust Web Pentesting Framework
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-17 13:41:09 UTC] [INFO] ============================================================
+[2026-07-17 13:41:09 UTC] [INFO] Completato — 20 nuovi, 9 aggiornati, 0 errori
+[2026-07-17 13:41:09 UTC] [INFO] ============================================================
