@@ -40717,3 +40717,199 @@
 [2026-07-17 19:12:13 UTC] [INFO] ============================================================
 [2026-07-17 19:12:13 UTC] [INFO] Completato — 35 nuovi, 8 aggiornati, 0 errori
 [2026-07-17 19:12:13 UTC] [INFO] ============================================================
+[2026-07-18 02:36:34 UTC] [INFO] ============================================================
+[2026-07-18 02:36:34 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-18 02:36:34 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-18 02:36:34 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-18 02:36:34 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-18 02:36:34 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-18 02:36:34 UTC] [INFO] ============================================================
+[2026-07-18 02:36:34 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-18 02:36:34 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-18 02:36:36 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-18 02:36:36 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-18 02:36:36 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-18 02:36:36 UTC] [UPD]   📢 📦 loganhub1996/alibi-forensic-scan-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/loganhub1996/alibi-forensic-scan-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-18 02:36:36 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-18 02:36:36 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-18 02:36:39 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 Jaysolex/Enterprise-XDR-Investigation-Framework
+     ⭐ 0  🗣 N/A  📅 2026-07-18
+     🔗 https://github.com/Jaysolex/Enterprise-XDR-Investigation-Framework
+     📝 Reverse-engineered enterprise XDR investigation workflows (detection → triage → …
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 0-src/ebpf-syscall-tracer
+     ⭐ 0  🗣 Rust  📅 2026-07-17
+     🔗 https://github.com/0-src/ebpf-syscall-tracer
+     📝 Real-time eBPF syscall tracer (Rust/aya) detecting droppers, reverse shells, and…
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 sariftachamo-9/Keystroke-Activity-Analyzer
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/sariftachamo-9/Keystroke-Activity-Analyzer
+     📝 This repository contains a **progressive suite of Python-based keylogger impleme…
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 drogov4122-del/Skyshear
+     ⭐ 0  🗣 JavaScript  📅 2026-07-18
+     🔗 https://github.com/drogov4122-del/Skyshear
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 sangwon-yoon/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-07-18
+     🔗 https://github.com/sangwon-yoon/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 Pirate-Kitty/complex-analysis-git
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/Pirate-Kitty/complex-analysis-git
+     📝 Threat intelligence ingestion and multi-source security analysis with ATT&CK map…
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 arpitgupta369/malware-triage-hasher
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/arpitgupta369/malware-triage-hasher
+     📝 File hashing and static malware-triage helper â€” entropy, PE metadata, YARA-lit…
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 badchars/wifi-security-mcp-server
+     ⭐ 1  🗣 TypeScript  📅 2026-07-17
+     🔗 https://github.com/badchars/wifi-security-mcp-server
+     📝 Full-spectrum wireless security MCP server — WiFi, Bluetooth, RF/SDR, NFC/RFID, …
+     🏷  ai-agent, ble, bluetooth, cellular-security, claude, cybersecurity, iot-security, mcp, mcp-server, model-context-protocol, nfc, pentesting, rfid, sdr, wifi, wifi-security, wireless-security, zigbee
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 jkcousart/job-sprint
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/jkcousart/job-sprint
+     📝 Self-hosted job discovery, prioritization, and application planning
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 ChittineniManideep/soc-fusion-analytics
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-17
+     🔗 https://github.com/ChittineniManideep/soc-fusion-analytics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 bxkus3/apexhunter
+     ⭐ 1  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/bxkus3/apexhunter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 foolish-prophet/wazuh-windows-edr-homelab
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/foolish-prophet/wazuh-windows-edr-homelab
+     📝 Windows endpoint detection and response lab using Wazuh SIEM, Sysmon, and Window…
+     🏷  blue-team, cybersecurity, homelab, siem, soc, sysmon, wazuh, windows-security
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 eyendamuri/aeropod
+     ⭐ 0  🗣 C  📅 2026-07-17
+     🔗 https://github.com/eyendamuri/aeropod
+     📝 An esp32 based mp3 player with the ability to play video too.
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 k-edr/ZeroStateTgCaptchaBot
+     ⭐ 0  🗣 Rust  📅 2026-07-17
+     🔗 https://github.com/k-edr/ZeroStateTgCaptchaBot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 c79942474-cyber/conseilprevcyber
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/c79942474-cyber/conseilprevcyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 Alt21one/signed-kernel-driver-analysis
+     ⭐ 0  🗣 C  📅 2026-07-17
+     🔗 https://github.com/Alt21one/signed-kernel-driver-analysis
+     📝 Reverse engineering and security analysis of the signed RTCore64.sys Windows ker…
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 likevrui/shigi-wildfire-capacity
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/likevrui/shigi-wildfire-capacity
+     📝 Code and data for a BMC Public Health submission on health-system capacity and w…
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 AMCYD/VantEndPoint
+     ⭐ 0  🗣 TypeScript  📅 2026-07-17
+     🔗 https://github.com/AMCYD/VantEndPoint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 vasanthaEda/sentinel-triage
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/vasanthaEda/sentinel-triage
+     📝 Personal project for exploring modern development practices
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 zadwen/Reaper
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/zadwen/Reaper
+     📝 Reaper — a Linux CLI for safe file cleanup: scans for large/duplicate/temp files…
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 VandhanaVemuri/threat-detection-platform
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/VandhanaVemuri/threat-detection-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:39 UTC] [NEW]   🆕 📦 dafuq213/DFIR
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/dafuq213/DFIR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:39 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-18 02:36:39 UTC] [UPD]   📢 📦 Rifqi-Edr/JOBSTREET-JOBSDB-SCRAPPER
+     ⭐ 0  🗣 JavaScript  📅 2026-07-17
+     🔗 https://github.com/Rifqi-Edr/JOBSTREET-JOBSDB-SCRAPPER
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-18 02:36:39 UTC] [UPD]   📢 📦 kurone-kito/oc-test
+     ⭐ 0  🗣 JavaScript  📅 2026-07-16
+     🔗 https://github.com/kurone-kito/oc-test
+     📝 Test for opencode
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-18 02:36:39 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-18 02:36:39 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-18 02:36:41 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-18 02:36:41 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-07-18 02:36:41 UTC] [NEW]   🆕 📦 PeronGH/android-selinux-disabler
+     ⭐ 0  🗣 C  📅 2026-07-18
+     🔗 https://github.com/PeronGH/android-selinux-disabler
+     📝 Use CVE-2026-43074 to disable SELinux on Android
+     🏷  —
+[2026-07-18 02:36:41 UTC] [NEW]   🆕 📦 Chandrashekar-Bala/Chandrashekar-Bala
+     ⭐ 0  🗣 N/A  📅 2026-07-18
+     🔗 https://github.com/Chandrashekar-Bala/Chandrashekar-Bala
+     📝 Official GitHub profile showcasing my cybersecurity portfolio, hands-on security…
+     🏷  —
+[2026-07-18 02:36:41 UTC] [NEW]   🆕 📦 BillZaiD/ps4-kernel-uaf-research-fw1352
+     ⭐ 0  🗣 Lua  📅 2026-07-17
+     🔗 https://github.com/BillZaiD/ps4-kernel-uaf-research-fw1352
+     📝 Kqueue knote UAF vulnerability research on PlayStation 4 FW 13.52
+     🏷  —
+[2026-07-18 02:36:41 UTC] [NEW]   🆕 📦 snowtxc/kernel-exploit-dirtycow-4geeks
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/snowtxc/kernel-exploit-dirtycow-4geeks
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:41 UTC] [NEW]   🆕 📦 0xUb1k/0xUb1k
+     ⭐ 0  🗣 N/A  📅 2026-07-17
+     🔗 https://github.com/0xUb1k/0xUb1k
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-18 02:36:41 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-18 02:36:41 UTC] [UPD]   📢 📦 cwwjacobs/cinder
+     ⭐ 0  🗣 Python  📅 2026-07-17
+     🔗 https://github.com/cwwjacobs/cinder
+     📝 Codex Build Week maybe? 
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-18 02:36:41 UTC] [UPD]   📢 📦 karollooool/CVE-2026-50416-writeup-and-poc
+     ⭐ 5  🗣 C  📅 2026-07-17
+     🔗 https://github.com/karollooool/CVE-2026-50416-writeup-and-poc
+     📝 CVE-2026-50416: Windows 11 KASLR bypass
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-18 02:36:41 UTC] [UPD]   📢 📦 JoinChang/ghostlock-oneplus
+     ⭐ 32  🗣 C  📅 2026-07-12
+     🔗 https://github.com/JoinChang/ghostlock-oneplus
+     📝 GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootlo…
+     🏷  android, coloros, ghostlock, kernelsu, oneplus, root
+     🔄 Motivo: repo recente (5gg)
+[2026-07-18 02:36:41 UTC] [INFO] ============================================================
+[2026-07-18 02:36:41 UTC] [INFO] Completato — 27 nuovi, 6 aggiornati, 0 errori
+[2026-07-18 02:36:41 UTC] [INFO] ============================================================
