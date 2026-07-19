@@ -41379,3 +41379,169 @@
 [2026-07-18 19:06:37 UTC] [INFO] ============================================================
 [2026-07-18 19:06:37 UTC] [INFO] Completato — 20 nuovi, 8 aggiornati, 0 errori
 [2026-07-18 19:06:37 UTC] [INFO] ============================================================
+[2026-07-19 02:51:34 UTC] [INFO] ============================================================
+[2026-07-19 02:51:34 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-19 02:51:34 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-19 02:51:34 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-19 02:51:34 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-19 02:51:34 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-19 02:51:34 UTC] [INFO] ============================================================
+[2026-07-19 02:51:34 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-19 02:51:34 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-19 02:51:35 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-19 02:51:35 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-19 02:51:35 UTC] [NEW]   🆕 📦 J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t
+     📝 A fully red-team(offensive security) weaponized variant of wp2shell, built for a…
+     🏷  —
+[2026-07-19 02:51:35 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-19 02:51:35 UTC] [UPD]   📢 📦 loganhub1996/alibi-forensic-scan-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/loganhub1996/alibi-forensic-scan-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-19 02:51:35 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-19 02:51:35 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-19 02:51:35 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-19 02:51:35 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-19 02:51:38 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 intUnderflow/block-superwhite-abuse
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/intUnderflow/block-superwhite-abuse
+     📝 Chrome extension that neutralizes blinding 'superwhite' HDR avatars by clamping …
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 AhmedOsama2004/AhmedOsama2004
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/AhmedOsama2004/AhmedOsama2004
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 MidLuckLab/rg-win-binary
+     ⭐ 0  🗣 N/A  📅 2026-07-18
+     🔗 https://github.com/MidLuckLab/rg-win-binary
+     📝 ripgrep windows binary files
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 secgeek-stack/skill_trap
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/secgeek-stack/skill_trap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 lanapit/merger-network-design
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/lanapit/merger-network-design
+     📝 Academic network security design covering hybrid Azure architecture, segmentatio…
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 hani-alsulami/SOC-AI-Analyst
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/hani-alsulami/SOC-AI-Analyst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 captivatortechnologies/veltrix-community
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/captivatortechnologies/veltrix-community
+     📝 Open-source, self-hostable Security-as-Code platform. Manage security-tool confi…
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 Kxrma47/ml-host-anomaly-detection
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/Kxrma47/ml-host-anomaly-detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 adios255/awareness-edr-tamper-bypass
+     ⭐ 0  🗣 N/A  📅 2026-07-18
+     🔗 https://github.com/adios255/awareness-edr-tamper-bypass
+     📝 Analyse d'une technique de contournement de la Tamper Protection de Sophos et Bi…
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 davidfweiser/NetworkSentinel-mac
+     ⭐ 0  🗣 C#  📅 2026-07-18
+     🔗 https://github.com/davidfweiser/NetworkSentinel-mac
+     📝 Native macOS network port monitor, intrusion awareness, and PF firewall blocking…
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 Robbie-93/SimTim
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/Robbie-93/SimTim
+     📝 SimTim is a utility tool designed to support train drivers in SimRail. It provid…
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 prasannasalunkhe18/IRIS
+     ⭐ 1  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/prasannasalunkhe18/IRIS
+     📝 IRIS- Incident Response & Intelligence System (SOC1 alert triage agent)
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 xioatem/agent-leak-guard
+     ⭐ 0  🗣 PowerShell  📅 2026-07-18
+     🔗 https://github.com/xioatem/agent-leak-guard
+     📝 AI代码助手泄露防护工具｜阻止 Grok/Claude 把你的代码库偷偷上传到云存储桶
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 Chemsse57/NetLoader
+     ⭐ 0  🗣 C  📅 2026-07-18
+     🔗 https://github.com/Chemsse57/NetLoader
+     📝 In-memory .NET assembly loader with AMSI/ETW bypass
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 rdneuro/spatialrc
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/rdneuro/spatialrc
+     📝 Base-agnostic, spatially-embedded & delay-aware connectome for reservoir computi…
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 freethinkel/fmc
+     ⭐ 7  🗣 Go  📅 2026-07-18
+     🔗 https://github.com/freethinkel/fmc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 abomed95/CorridorIQ
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/abomed95/CorridorIQ
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 02:51:38 UTC] [NEW]   🆕 📦 63018/CYBERGAURD-AI
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/63018/CYBERGAURD-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 02:51:38 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-19 02:51:38 UTC] [UPD]   📢 📦 carolyndiaz914374978/edryj4ce
+     ⭐ 0  🗣 Rust  📅 2026-07-17
+     🔗 https://github.com/carolyndiaz914374978/edryj4ce
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-19 02:51:38 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-19 02:51:38 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-19 02:51:39 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-19 02:51:39 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-19 02:51:39 UTC] [NEW]   🆕 📦 adoemwanmei/DarkSword-PROV2
+     ⭐ 0  🗣 JavaScript  📅 2026-07-19
+     🔗 https://github.com/adoemwanmei/DarkSword-PROV2
+     📝 Provide a toolkit for exploiting various iOS versions with modified scripts to l…
+     🏷  —
+[2026-07-19 02:51:39 UTC] [NEW]   🆕 📦 Abdulrhmanhammad/security-engineering-journey
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/Abdulrhmanhammad/security-engineering-journey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 02:51:39 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-19 02:51:39 UTC] [UPD]   📢 📦 HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/HudzaifahArrantisi/Awesome-RedTeam-Tools-ID
+     📝 RedTeam-Tools  Automated vulnerability scanner with CVE matching, port scanning,…
+     🏷  cve, cve-exploit, database-exploitation, dual-mode, port-scaner, reports, vulnerability-scanner
+     🔄 Motivo: repo recente (2gg)
+[2026-07-19 02:51:39 UTC] [UPD]   📢 📦 sentinelsec-org/nexpeas
+     ⭐ 1  🗣 Shell  📅 2026-07-18
+     🔗 https://github.com/sentinelsec-org/nexpeas
+     📝 Privilege Escalation Assessment Tool - Fast, beautiful & intelligent enumeration
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-19 02:51:39 UTC] [INFO] ============================================================
+[2026-07-19 02:51:39 UTC] [INFO] Completato — 21 nuovi, 6 aggiornati, 0 errori
+[2026-07-19 02:51:39 UTC] [INFO] ============================================================
