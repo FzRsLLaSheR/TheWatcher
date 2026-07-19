@@ -41676,3 +41676,160 @@
 [2026-07-19 08:21:30 UTC] [INFO] ============================================================
 [2026-07-19 08:21:30 UTC] [INFO] Completato — 14 nuovi, 6 aggiornati, 0 errori
 [2026-07-19 08:21:30 UTC] [INFO] ============================================================
+[2026-07-19 13:19:58 UTC] [INFO] ============================================================
+[2026-07-19 13:19:58 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-19 13:19:58 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-19 13:19:58 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-19 13:19:58 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-19 13:19:58 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-19 13:19:58 UTC] [INFO] ============================================================
+[2026-07-19 13:19:58 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-19 13:19:58 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-19 13:20:00 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-19 13:20:00 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-19 13:20:00 UTC] [NEW]   🆕 📦 sameerkhairkar/yaksha
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/sameerkhairkar/yaksha
+     📝 Deterministic, report-only vulnerability and hardening scanner for Windows. Corr…
+     🏷  —
+[2026-07-19 13:20:00 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-19 13:20:00 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-19 13:20:00 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-19 13:20:00 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-19 13:20:00 UTC] [UPD]   📢 📦 loganhub1996/alibi-forensic-scan-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/loganhub1996/alibi-forensic-scan-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-19 13:20:00 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-19 13:20:00 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-19 13:20:02 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 TakahashiTakumi0331/sec_test_installer
+     ⭐ 0  🗣 PowerShell  📅 2026-07-19
+     🔗 https://github.com/TakahashiTakumi0331/sec_test_installer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 HelixCipher/mouse-jiggler
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/HelixCipher/mouse-jiggler
+     📝 Cross-platform Bezier curve hardware mouse jiggler using an RP2350-One. Spoofs a…
+     🏷  adafruit, bezier-curves, circuitpython, edr-evasion, hid, mouse-jiggler, pico, rp2350, waveshare
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 csinsight/acfc-agentic-threat-hunting-framework
+     ⭐ 0  🗣 Dockerfile  📅 2026-07-19
+     🔗 https://github.com/csinsight/acfc-agentic-threat-hunting-framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 yanmyoaung2004/trace
+     ⭐ 0  🗣 Go  📅 2026-07-18
+     🔗 https://github.com/yanmyoaung2004/trace
+     📝 Multi-agent cybersecurity investigation platform with YARA, SIEM, MITRE ATT&CK, …
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 sittelle/esp-BoschLDI
+     ⭐ 0  🗣 C  📅 2026-07-19
+     🔗 https://github.com/sittelle/esp-BoschLDI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 redadmin45525/projekt_redmaster
+     ⭐ 0  🗣 Shell  📅 2026-07-19
+     🔗 https://github.com/redadmin45525/projekt_redmaster
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 0xdhanesh/Iron
+     ⭐ 0  🗣 Shell  📅 2026-07-19
+     🔗 https://github.com/0xdhanesh/Iron
+     📝 Iron - The Unyielding Sentinel
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 mario-salviano/mario-salviano
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/mario-salviano/mario-salviano
+     📝 Enterprise Security | Linux | EDR | Cloud Security | Automation
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 Mihir2808/AI_RootCauseAnalysis_Project
+     ⭐ 1  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/Mihir2808/AI_RootCauseAnalysis_Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 300nika-wq/Ai_sec
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/300nika-wq/Ai_sec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 subhammohanty092-netizen/ReconVault-SHIELD-MVP
+     ⭐ 0  🗣 TypeScript  📅 2026-07-19
+     🔗 https://github.com/subhammohanty092-netizen/ReconVault-SHIELD-MVP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 Amardeep-prog/socverse-ai
+     ⭐ 0  🗣 JavaScript  📅 2026-07-19
+     🔗 https://github.com/Amardeep-prog/socverse-ai
+     📝 AI-powered SOC Analyst simulator with realistic SIEM alerts, EDR detections, phi…
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 bidhata/PhantomPack
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/bidhata/PhantomPack
+     📝 Ghost your way past EDR. 18 plugins. 6 Injection Methods. 0 Detections.
+     🏷  edr-evasion, malware, red-team
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 VioletSoul/macos_security_audit
+     ⭐ 0  🗣 Shell  📅 2026-07-19
+     🔗 https://github.com/VioletSoul/macos_security_audit
+     📝 macOS Security Audit Toolkit — a lightweight Bash utility for checking system in…
+     🏷  —
+[2026-07-19 13:20:02 UTC] [NEW]   🆕 📦 ajitsharmadbg96-create/acronis-mcp-server
+     ⭐ 0  🗣 JavaScript  📅 2026-07-19
+     🔗 https://github.com/ajitsharmadbg96-create/acronis-mcp-server
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 13:20:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-19 13:20:02 UTC] [UPD]   📢 📦 secgeek-stack/skill_trap
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/secgeek-stack/skill_trap
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-19 13:20:02 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-19 13:20:02 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-19 13:20:04 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-19 13:20:04 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-19 13:20:04 UTC] [NEW]   🆕 📦 strawhatdev01/strawhatdev01
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/strawhatdev01/strawhatdev01
+     📝 👋 My GitHub profile README — Cybersecurity, Software Engineering, & Exploit Deve…
+     🏷  —
+[2026-07-19 13:20:04 UTC] [NEW]   🆕 📦 Arpitraj93/Escalate
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/Arpitraj93/Escalate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 13:20:04 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-19 13:20:04 UTC] [UPD]   📢 📦 Abdulrhmanhammad/security-engineering-journey
+     ⭐ 0  🗣 Shell  📅 2026-07-19
+     🔗 https://github.com/Abdulrhmanhammad/security-engineering-journey
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-19 13:20:04 UTC] [UPD]   📢 📦 264312431/picohaxx
+     ⭐ 0  🗣 N/A  📅 2026-07-18
+     🔗 https://github.com/264312431/picohaxx
+     📝 A kernel exploit for Pico 4 devices based on cve-2023-33107
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-19 13:20:04 UTC] [INFO] ============================================================
+[2026-07-19 13:20:04 UTC] [INFO] Completato — 18 nuovi, 7 aggiornati, 0 errori
+[2026-07-19 13:20:04 UTC] [INFO] ============================================================
