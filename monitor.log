@@ -41833,3 +41833,180 @@
 [2026-07-19 13:20:04 UTC] [INFO] ============================================================
 [2026-07-19 13:20:04 UTC] [INFO] Completato — 18 nuovi, 7 aggiornati, 0 errori
 [2026-07-19 13:20:04 UTC] [INFO] ============================================================
+[2026-07-19 19:08:08 UTC] [INFO] ============================================================
+[2026-07-19 19:08:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-19 19:08:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-19 19:08:08 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-19 19:08:08 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-19 19:08:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-19 19:08:08 UTC] [INFO] ============================================================
+[2026-07-19 19:08:08 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-19 19:08:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-19 19:08:09 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-19 19:08:09 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-19 19:08:09 UTC] [NEW]   🆕 📦 uziii2208/cli2pwn
+     ⭐ 2  🗣 Shell  📅 2026-07-19
+     🔗 https://github.com/uziii2208/cli2pwn
+     📝 A modular, agent-based research environment for advanced security analysis, CTF …
+     🏷  —
+[2026-07-19 19:08:09 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-19 19:08:09 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-19 19:08:09 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-19 19:08:09 UTC] [UPD]   📢 📦 loganhub1996/alibi-forensic-scan-hub
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/loganhub1996/alibi-forensic-scan-hub
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-19 19:08:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-19 19:08:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-19 19:08:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 ThanosDrossos/DriveTSLM
+     ⭐ 1  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/ThanosDrossos/DriveTSLM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 andreipaciurca/aegis
+     ⭐ 0  🗣 Go  📅 2026-07-19
+     🔗 https://github.com/andreipaciurca/aegis
+     📝 Adaptive Endpoint Guard for Internet Safety: a fast local security CLI, TUI and …
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 samashech/EdREPO
+     ⭐ 0  🗣 TypeScript  📅 2026-07-18
+     🔗 https://github.com/samashech/EdREPO
+     📝 Support to Sonam Wangchuk
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 giridharan-veda/ThreatForge
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/giridharan-veda/ThreatForge
+     📝 Automated adversary emulation for IoT environments – bridges ATT&CK's MITRE-CALD…
+     🏷  adversary-emulation, attack-simulation, caldera-framework, cybersecurity, detection-engineering, iot-security, mitre-attack, node-red-flow, red-teaming, research, security, siem-testing, soc, vulnerability-scanning, wazuh-integration
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 vandana-acharya/Cybersecurity-Mastery
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/vandana-acharya/Cybersecurity-Mastery
+     📝 Kick start to becoming a Cybersecurity Expert.
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 emonlive949-ship-it/EDR-1
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/emonlive949-ship-it/EDR-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 cdmx-in/chitin
+     ⭐ 0  🗣 Rust  📅 2026-07-19
+     🔗 https://github.com/cdmx-in/chitin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 Sairaviteja6/Sentinel_AI
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/Sairaviteja6/Sentinel_AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 coke-at/IT-Solution-Lab
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/coke-at/IT-Solution-Lab
+     📝 企业IT解决方案学习实验室，记录网络、安全、云计算及售前方案设计学习过程。
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 JoAz111/Phosphor
+     ⭐ 2  🗣 Swift  📅 2026-07-18
+     🔗 https://github.com/JoAz111/Phosphor
+     📝 A native macOS video player that rebuilds every frame as light on a CRT.
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 imi-tech-lab/imi-guard
+     ⭐ 0  🗣 PowerShell  📅 2026-07-18
+     🔗 https://github.com/imi-tech-lab/imi-guard
+     📝 IMI Guard (public beta) — portable, read-only Windows endpoint security audit to…
+     🏷  dfir, endpoint-security, forensics, incident-response, portable, security-audit, windows
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 C6S/one-pair
+     ⭐ 0  🗣 Shell  📅 2026-07-19
+     🔗 https://github.com/C6S/one-pair
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 KarthikeyanDhanakotti/The-Harness-Engineering
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/KarthikeyanDhanakotti/The-Harness-Engineering
+     📝 Designing, Building, and Operating Production AI Systems - the Harness Engineeri…
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 Pratikchandrathakur/AI-SOC-Guardian
+     ⭐ 1  🗣 TypeScript  📅 2026-07-19
+     🔗 https://github.com/Pratikchandrathakur/AI-SOC-Guardian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 Pratikchandrathakur/Guardian-Detection-Ruleset
+     ⭐ 1  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/Pratikchandrathakur/Guardian-Detection-Ruleset
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 swastiksagar/socanalystfromscratch
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/swastiksagar/socanalystfromscratch
+     📝 (nessuna descrizione)
+     🏷  course, scratch, soc-analyst
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 jeremiah-onyema/ai-soc-agents
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/jeremiah-onyema/ai-soc-agents
+     📝 Claude-powered triage agent that turns Wazuh potential TP alerts into TheHive ca…
+     🏷  anthropic, claude, detection-engineering, incident-response, security-automation, soc-automation, thehive, wazuh
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 mitrabethinani/SOC-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/mitrabethinani/SOC-home-lab
+     📝 Documentation for a defensive security home lab featuring a centralized SIEM, ED…
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 sidharthatammineni/gotphoto-data-platform
+     ⭐ 0  🗣 Python  📅 2026-07-18
+     🔗 https://github.com/sidharthatammineni/gotphoto-data-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 mrittikaprakash05/SOC-projects
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/mrittikaprakash05/SOC-projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-19 19:08:11 UTC] [NEW]   🆕 📦 shubham777580/claude-dictation
+     ⭐ 0  🗣 JavaScript  📅 2026-07-19
+     🔗 https://github.com/shubham777580/claude-dictation
+     📝 Free F9 voice dictation for Windows: browser Web Speech API for transcription + …
+     🏷  —
+[2026-07-19 19:08:11 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-19 19:08:11 UTC] [UPD]   📢 📦 redadmin45525/projekt_redmaster
+     ⭐ 0  🗣 Shell  📅 2026-07-19
+     🔗 https://github.com/redadmin45525/projekt_redmaster
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-19 19:08:11 UTC] [UPD]   📢 📦 captivatortechnologies/veltrix-community
+     ⭐ 0  🗣 TypeScript  📅 2026-07-19
+     🔗 https://github.com/captivatortechnologies/veltrix-community
+     📝 Open-source, self-hostable Security-as-Code platform. Manage security-tool confi…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-19 19:08:11 UTC] [UPD]   📢 📦 c79942474-cyber/conseilprevcyber
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/c79942474-cyber/conseilprevcyber
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-19 19:08:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-19 19:08:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-19 19:08:13 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-19 19:08:13 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-19 19:08:13 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-19 19:08:13 UTC] [UPD]   📢 📦 sentinelsec-org/nexpeas
+     ⭐ 1  🗣 Shell  📅 2026-07-18
+     🔗 https://github.com/sentinelsec-org/nexpeas
+     📝 Privilege Escalation Assessment Tool - Fast, beautiful & intelligent enumeration
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-19 19:08:13 UTC] [INFO] ============================================================
+[2026-07-19 19:08:13 UTC] [INFO] Completato — 22 nuovi, 7 aggiornati, 0 errori
+[2026-07-19 19:08:13 UTC] [INFO] ============================================================
