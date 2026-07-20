@@ -42010,3 +42010,157 @@
 [2026-07-19 19:08:13 UTC] [INFO] ============================================================
 [2026-07-19 19:08:13 UTC] [INFO] Completato — 22 nuovi, 7 aggiornati, 0 errori
 [2026-07-19 19:08:13 UTC] [INFO] ============================================================
+[2026-07-20 03:20:01 UTC] [INFO] ============================================================
+[2026-07-20 03:20:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-20 03:20:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-20 03:20:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-20 03:20:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-20 03:20:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-20 03:20:01 UTC] [INFO] ============================================================
+[2026-07-20 03:20:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-20 03:20:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-20 03:20:03 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 03:20:03 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-20 03:20:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-20 03:20:03 UTC] [UPD]   📢 📦 sameerkhairkar/yaksha
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/sameerkhairkar/yaksha
+     📝 Deterministic, report-only vulnerability and hardening scanner for Windows. Corr…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-20 03:20:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-20 03:20:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-20 03:20:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 sayersix/ip_intel
+     ⭐ 0  🗣 HTML  📅 2026-07-20
+     🔗 https://github.com/sayersix/ip_intel
+     📝 SayerSix IP Intelligence — a Qt desktop OSINT tool for IP recon. Cross-reference…
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 JoshLipschultz/claude-jxl-swift
+     ⭐ 0  🗣 Swift  📅 2026-07-20
+     🔗 https://github.com/JoshLipschultz/claude-jxl-swift
+     📝 A (non-clean-room) reimplementation of a JPEG XL decoder in Swift
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 mon5termatt/nogoon
+     ⭐ 0  🗣 PowerShell  📅 2026-07-20
+     🔗 https://github.com/mon5termatt/nogoon
+     📝 Saw nogoon on Reddit. Spent 5 minutes in Cursor dismantling why charging for a h…
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 yogeshvar/maxnits
+     ⭐ 0  🗣 Swift  📅 2026-07-20
+     🔗 https://github.com/yogeshvar/maxnits
+     📝 Free, open-source macOS menu bar app that unlocks full XDR display brightness (u…
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 amrit-singh-28/4T_eDRAM_CIM
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/amrit-singh-28/4T_eDRAM_CIM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 gary23w/android-spyware-guardian
+     ⭐ 1  🗣 Kotlin  📅 2026-07-19
+     🔗 https://github.com/gary23w/android-spyware-guardian
+     📝 Android Spyware Guardian detects and blocks the latest Android spyware in real t…
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 aJosephOwens/domain-hunter-v2
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/aJosephOwens/domain-hunter-v2
+     📝 New domain AND trademark facility v2
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 brimblenot/security-knowledge-base
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/brimblenot/security-knowledge-base
+     📝 My cybersecurity portfolio and study knowledge base — hands-on labs, Security+ (…
+     🏷  blue-team, cybersecurity, obsidian, portfolio, security-plus, soc, sy0-701
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 praneethkoti/active-directory-pentest-writeup
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/praneethkoti/active-directory-pentest-writeup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 Mangaldeep12/endpoint-security-showcase
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/Mangaldeep12/endpoint-security-showcase
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 omaritatumaja-cpu/homework
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/omaritatumaja-cpu/homework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 parawgaysaid-ai/edres
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/parawgaysaid-ai/edres
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 microsoftexpert/terraform-aci-fabric-wide-settings
+     ⭐ 0  🗣 HCL  📅 2026-07-19
+     🔗 https://github.com/microsoftexpert/terraform-aci-fabric-wide-settings
+     📝 Terraform module: terraform-aci-fabric-wide-settings
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 Rysess/ADModularLab
+     ⭐ 0  🗣 HCL  📅 2026-07-19
+     🔗 https://github.com/Rysess/ADModularLab
+     📝 Config-driven Active Directory lab on AWS
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 SkyCyborgNet/EDRF-CFE2020-App
+     ⭐ 0  🗣 JavaScript  📅 2026-07-19
+     🔗 https://github.com/SkyCyborgNet/EDRF-CFE2020-App
+     📝 EDRF-CFE2020-App
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 eyad-ahmed-dev/Edrak-clinic
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/eyad-ahmed-dev/Edrak-clinic
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 theday01/winkillerfinallV
+     ⭐ 0  🗣 Python  📅 2026-07-19
+     🔗 https://github.com/theday01/winkillerfinallV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 03:20:05 UTC] [NEW]   🆕 📦 smolenkovalexander/web-copilot
+     ⭐ 0  🗣 TypeScript  📅 2026-07-19
+     🔗 https://github.com/smolenkovalexander/web-copilot
+     📝 Personal AI Web Assistant - Chrome Extension + API Server + Agent Loop
+     🏷  —
+[2026-07-20 03:20:05 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-20 03:20:05 UTC] [UPD]   📢 📦 coke-at/IT-Solution-Lab
+     ⭐ 0  🗣 JavaScript  📅 2026-07-19
+     🔗 https://github.com/coke-at/IT-Solution-Lab
+     📝 企业IT解决方案学习实验室，记录网络、安全、云计算及售前方案设计学习过程。
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-20 03:20:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-20 03:20:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-20 03:20:07 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 03:20:07 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-20 03:20:07 UTC] [NEW]   🆕 📦 aydencharles/onionHEN
+     ⭐ 1  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/aydencharles/onionHEN
+     📝 Yet another HEN enabler for jailbroken PS5
+     🏷  —
+[2026-07-20 03:20:07 UTC] [NEW]   🆕 📦 Matrix030/debugger
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Matrix030/debugger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 03:20:07 UTC] [NEW]   🆕 📦 0xkite/glove
+     ⭐ 1  🗣 C++  📅 2026-07-19
+     🔗 https://github.com/0xkite/glove
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 03:20:07 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-20 03:20:07 UTC] [UPD]   📢 📦 Colorful-glassblock/duchamp-root
+     ⭐ 24  🗣 C  📅 2026-07-15
+     🔗 https://github.com/Colorful-glassblock/duchamp-root
+     📝 Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU in…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-20 03:20:07 UTC] [UPD]   📢 📦 BlackHatHacker-01/XEX-Menu-And-Linux-.iso-loader
+     ⭐ 0  🗣 Python  📅 2026-07-16
+     🔗 https://github.com/BlackHatHacker-01/XEX-Menu-And-Linux-.iso-loader
+     📝 this will mod the console safely without an RROD/Red Ring Of Death on Xbox 360 C…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-20 03:20:07 UTC] [INFO] ============================================================
+[2026-07-20 03:20:07 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
+[2026-07-20 03:20:07 UTC] [INFO] ============================================================
