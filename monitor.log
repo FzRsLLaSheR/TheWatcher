@@ -42164,3 +42164,186 @@
 [2026-07-20 03:20:07 UTC] [INFO] ============================================================
 [2026-07-20 03:20:07 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
 [2026-07-20 03:20:07 UTC] [INFO] ============================================================
+[2026-07-20 09:16:28 UTC] [INFO] ============================================================
+[2026-07-20 09:16:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-20 09:16:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-20 09:16:28 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-20 09:16:28 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-20 09:16:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-20 09:16:28 UTC] [INFO] ============================================================
+[2026-07-20 09:16:28 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-20 09:16:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-20 09:16:30 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 09:16:30 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-20 09:16:30 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-20 09:16:30 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-20 09:16:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-20 09:16:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-20 09:16:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 edris7394-cmyk/Edris-bot
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/edris7394-cmyk/Edris-bot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 BHUMI-007/AI-Cyber-Resilience-Platform
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/BHUMI-007/AI-Cyber-Resilience-Platform
+     📝 An agentless, zero-hardcoding AI platform for Critical National Infrastructure (…
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 Rosh-1349/SentinelAI
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Rosh-1349/SentinelAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 Nypunya07/Wazuh
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/Nypunya07/Wazuh
+     📝 Hands-on Wazuh SOC analyst learning lab
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 cscsxx606/soc-agent
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/cscsxx606/soc-agent
+     📝 SOC Multi-Agent Security Operations Center - 基于 DeepSeek 的多智能体安全运营平台
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 waradany/Full-SOC-Home-Lab-
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/waradany/Full-SOC-Home-Lab-
+     📝 SOC Home Lab with pfSense, Splunk, Sysmon, Snort and Kali Linux 6
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 ashwinp17/Wazuh-SIEM-Endpoint-Monitoring-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/ashwinp17/Wazuh-SIEM-Endpoint-Monitoring-Lab
+     📝 Wazuh SIEM lab using a Windows endpoint agent, VirtualBox NAT port forwarding, a…
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 akqjq1000/LeJus-EDR
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/akqjq1000/LeJus-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 cx-sonia-dias/security
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/cx-sonia-dias/security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 Afiqjoker/sift
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Afiqjoker/sift
+     📝 Security Inspection & Forensics Toolkit — a zero-dependency CLI to parse logs fo…
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 turalpashayev/turalpashayev
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/turalpashayev/turalpashayev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 maux339-cpu/exploits
+     ⭐ 0  🗣 PowerShell  📅 2026-07-19
+     🔗 https://github.com/maux339-cpu/exploits
+     📝 HUB canônico unificado: AI/redteam pentest (submodules) + OSINT + DeFi skills. L…
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 nexus8124/wanan-public
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/nexus8124/wanan-public
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 AyushNaik04/ShadowSensor
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/AyushNaik04/ShadowSensor
+     📝 Fileless malware behavioral detection for Windows — Sysmon telemetry, behavioral…
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 ravesnoopy/NorthBridge-Manufacturing-Lateral-Movement-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/ravesnoopy/NorthBridge-Manufacturing-Lateral-Movement-Investigation
+     📝 SOC investigation of a suspected lateral movement attack using Sysmon, Windows E…
+     🏷  blue-team, blueteam, cybersecurity, investigation, lateral-movement, living-off-the-land, soc
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 vishalshelke1296/-Setting-up-Wazuh-
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/vishalshelke1296/-Setting-up-Wazuh-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 Nanangn27/ritual-agent-lab
+     ⭐ 0  🗣 TypeScript  📅 2026-07-20
+     🔗 https://github.com/Nanangn27/ritual-agent-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 Sowjanya28-bonthe/Ransomware-Readiness-Assessment-Tool
+     ⭐ 0  🗣 JavaScript  📅 2026-07-20
+     🔗 https://github.com/Sowjanya28-bonthe/Ransomware-Readiness-Assessment-Tool
+     📝 A web-based tool to assess an organization's ransomware readiness.
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 7276054/SOC_PLAT
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/7276054/SOC_PLAT
+     📝 Log Automation Analysis
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 Chill-Ethical-People/TraceQuarry
+     ⭐ 1  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Chill-Ethical-People/TraceQuarry
+     📝 Local-first Linux UAC timeline, triage, and multi-collection DFIR workbench.
+     🏷  dfir, digital-forensics, incident-response, linux, threat-hunting, timeline, uac
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 wolfiee0024-arch/X-ARP-Detector
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/wolfiee0024-arch/X-ARP-Detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 Creeper0809/ZTNA_AI_Model
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Creeper0809/ZTNA_AI_Model
+     📝 Schema-independent field-attention model for ZTNA-UEBA trust scoring
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 noobggs19092006-source/Krypton-EDR
+     ⭐ 0  🗣 Rust  📅 2026-07-20
+     🔗 https://github.com/noobggs19092006-source/Krypton-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 962306tn/p2edrop
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/962306tn/p2edrop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [NEW]   🆕 📦 Apurvabharoliya/Securesoc-SentinalIQ
+     ⭐ 0  🗣 TypeScript  📅 2026-07-20
+     🔗 https://github.com/Apurvabharoliya/Securesoc-SentinalIQ
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:33 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-20 09:16:33 UTC] [UPD]   📢 📦 giridharan-veda/ThreatForge
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/giridharan-veda/ThreatForge
+     📝 Automated adversary emulation for IoT environments – bridges ATT&CK's MITRE-CALD…
+     🏷  adversary-emulation, attack-simulation, caldera-framework, cybersecurity, detection-engineering, iot-security, mitre-attack, node-red-flow, red-teaming, research, security, siem-testing, soc, vulnerability-scanning, wazuh-integration
+     🔄 Motivo: repo recente (0gg)
+[2026-07-20 09:16:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-20 09:16:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-20 09:16:35 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 09:16:35 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-20 09:16:35 UTC] [NEW]   🆕 📦 jatin-offsec/Pentest-Tools-
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/jatin-offsec/Pentest-Tools-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 09:16:35 UTC] [NEW]   🆕 📦 spoj/tg-bot2
+     ⭐ 0  🗣 TypeScript  📅 2026-07-20
+     🔗 https://github.com/spoj/tg-bot2
+     📝 A persistent Telegram agent using Pi, TypeScript, and Bubblewrap
+     🏷  —
+[2026-07-20 09:16:35 UTC] [NEW]   🆕 📦 thehinduhustler/asus-tf103ce-debian-guide
+     ⭐ 0  🗣 C  📅 2026-07-20
+     🔗 https://github.com/thehinduhustler/asus-tf103ce-debian-guide
+     📝 Revive an ASUS Transformer Pad TF103CE (K010E): bootloop recovery, rooted Androi…
+     🏷  android, asus-transformer, bay-trail, debian, dual-boot, kernel-module, linux, tablet, tf103ce
+[2026-07-20 09:16:35 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-20 09:16:35 UTC] [UPD]   📢 📦 0xkite/glove
+     ⭐ 1  🗣 C++  📅 2026-07-19
+     🔗 https://github.com/0xkite/glove
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-20 09:16:35 UTC] [INFO] ============================================================
+[2026-07-20 09:16:35 UTC] [INFO] Completato — 28 nuovi, 3 aggiornati, 0 errori
+[2026-07-20 09:16:35 UTC] [INFO] ============================================================
