@@ -42347,3 +42347,207 @@
 [2026-07-20 09:16:35 UTC] [INFO] ============================================================
 [2026-07-20 09:16:35 UTC] [INFO] Completato — 28 nuovi, 3 aggiornati, 0 errori
 [2026-07-20 09:16:35 UTC] [INFO] ============================================================
+[2026-07-20 14:08:32 UTC] [INFO] ============================================================
+[2026-07-20 14:08:32 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-20 14:08:32 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-20 14:08:32 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-20 14:08:32 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-20 14:08:32 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-20 14:08:32 UTC] [INFO] ============================================================
+[2026-07-20 14:08:32 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-20 14:08:32 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-20 14:08:34 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 14:08:34 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-20 14:08:34 UTC] [NEW]   🆕 📦 OverplusUmbrella/firstlua
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/OverplusUmbrella/firstlua
+     📝 Security research: static reverse-engineering analysis of Umbrella Dota 2 cheat …
+     🏷  —
+[2026-07-20 14:08:34 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-20 14:08:34 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-20 14:08:34 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-20 14:08:34 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 19  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-20 14:08:34 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-20 14:08:34 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-20 14:08:37 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 vishalshelke1296/-EDR-Basics-FIM-using-Wazuh-
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/vishalshelke1296/-EDR-Basics-FIM-using-Wazuh-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 AnonymousApexio/BreachLabs-Tracks
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/AnonymousApexio/BreachLabs-Tracks
+     📝 My BreachLab Writeups
+     🏷  ai-security, breachlab, breachlabs, ci-cd, cryptography, ctf, ctf-writeups, cybersecurity, linux-exploitation, network-security, red-team, red-teaming, web-security, writeups
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 vizadrex/simulador-iso-27032
+     ⭐ 0  🗣 HTML  📅 2026-07-20
+     🔗 https://github.com/vizadrex/simulador-iso-27032
+     📝 Simulador visual de ciberseguridad: ISO 27032 2012 vs 2023 + Zero Trust (JS puro…
+     🏷  cybersecurity, iso27032, javascript, zero-trust
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 857seif/custom-dll-proxy
+     ⭐ 4  🗣 Rust  📅 2026-07-20
+     🔗 https://github.com/857seif/custom-dll-proxy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 EDRNordToulousain/edr-nord-toulousain
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/EDRNordToulousain/edr-nord-toulousain
+     📝 Site officiel de l'École de Rugby Nord Toulousain
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 markzarif/DFIR-Artifact-Collector
+     ⭐ 1  🗣 PowerShell  📅 2026-07-20
+     🔗 https://github.com/markzarif/DFIR-Artifact-Collector
+     📝 Windows DFIR / Incident Response triage artifact collector scripts, built to run…
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 miracaEU/Uncertainty-Modelling
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/miracaEU/Uncertainty-Modelling
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 auzi-rgb/grade-bench
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/auzi-rgb/grade-bench
+     📝 License-free laptop benchmark that grades machines A–F against a reference PC yo…
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 shyn-labs/shyn
+     ⭐ 0  🗣 TypeScript  📅 2026-07-20
+     🔗 https://github.com/shyn-labs/shyn
+     📝 shyn — a register of your days. Local-first memory for your Mac: pages, meetings…
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 mars13-tech/free-soc-analyst-blue-team-resources
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/mars13-tech/free-soc-analyst-blue-team-resources
+     📝 🛡️ A complete 100% free roadmap to become a SOC Analyst or Blue Team professiona…
+     🏷  blue-team, cyberdefenders, cybersecurity, dfir, digital-forensics, incident-response, learning-resources, letsdefend, linux, network-security, roadmap, security-onion, siem, soc, soc-analyst, splunk, threat-hunting, tryhackme, wazuh, windows
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 Un-9oon/stealth-reverse-shell
+     ⭐ 0  🗣 Rust  📅 2026-07-20
+     🔗 https://github.com/Un-9oon/stealth-reverse-shell
+     📝 Fully evasive WSS reverse shell implant — Rust + TLS 1.3 + Chrome JA3 + Tor + 27…
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 Gromak123/Dohnut
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Gromak123/Dohnut
+     📝 Turn a Windows executable into a Donut-backed InstallUtil loade
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 jproma23/Orion-Os
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/jproma23/Orion-Os
+     📝 Robo autonomo com Ia local embarcada
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 JiSeong-Jeon/JiSeong-Jeon
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/JiSeong-Jeon/JiSeong-Jeon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 deepak-kumar-s-tech/EKCMS-EDR
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/deepak-kumar-s-tech/EKCMS-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 Saksham-1994/SentinelEDR
+     ⭐ 0  🗣 TypeScript  📅 2026-07-20
+     🔗 https://github.com/Saksham-1994/SentinelEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 HARIPRAKASH805/Wazuh-EDR-monitoring
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/HARIPRAKASH805/Wazuh-EDR-monitoring
+     📝 Built a complete SOC home lab using Wazuh, Sysmon, and Windows to detect, invest…
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 SanthoshMly/lightweight-edr-tool
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/SanthoshMly/lightweight-edr-tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 tallcyberguy/eksir
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/tallcyberguy/eksir
+     📝 EKSIR — analyst-grade AI SOC workbench: deterministic triage + agent-persona LLM…
+     🏷  ai-security, dfir, edr, fastapi, incident-response, llm, mssp, nextjs, ocsf, security-operations, self-hosted, soc, threat-intelligence
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 sojib321/EDR-1
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/sojib321/EDR-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 tanimaraeliassantos/presentation-edreams-odigeo-next
+     ⭐ 0  🗣 HTML  📅 2026-07-20
+     🔗 https://github.com/tanimaraeliassantos/presentation-edreams-odigeo-next
+     📝 Interview presentation - eDreams ODIGEO NEXT Graduate Program
+     🏷  —
+[2026-07-20 14:08:37 UTC] [NEW]   🆕 📦 Pushpendra858/SOC
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/Pushpendra858/SOC
+     📝 Cybersecurity, SOC, SIEM, EDR, XDR, Incident Response presentations and study ma…
+     🏷  —
+[2026-07-20 14:08:37 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-20 14:08:37 UTC] [UPD]   📢 📦 ahmedakbarov/ESAR
+     ⭐ 0  🗣 C#  📅 2026-07-16
+     🔗 https://github.com/ahmedakbarov/ESAR
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-20 14:08:37 UTC] [UPD]   📢 📦 c79942474-cyber/conseilprevcyber
+     ⭐ 0  🗣 HTML  📅 2026-07-17
+     🔗 https://github.com/c79942474-cyber/conseilprevcyber
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-20 14:08:37 UTC] [UPD]   📢 📦 Nanangn27/ritual-agent-lab
+     ⭐ 0  🗣 Solidity  📅 2026-07-20
+     🔗 https://github.com/Nanangn27/ritual-agent-lab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-20 14:08:37 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-20 14:08:37 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-20 14:08:39 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 14:08:39 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-20 14:08:39 UTC] [NEW]   🆕 📦 XiaoBaiLovesStirring/OPPO_PKV110_vi
+     ⭐ 0  🗣 C  📅 2026-07-20
+     🔗 https://github.com/XiaoBaiLovesStirring/OPPO_PKV110_vi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:39 UTC] [NEW]   🆕 📦 skprakash123/temporal-agent-system
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/skprakash123/temporal-agent-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 14:08:39 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-20 14:08:39 UTC] [UPD]   📢 📦 0xkite/glove
+     ⭐ 1  🗣 C++  📅 2026-07-19
+     🔗 https://github.com/0xkite/glove
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-20 14:08:39 UTC] [UPD]   📢 📦 Abdulrhmanhammad/security-engineering-journey
+     ⭐ 0  🗣 Shell  📅 2026-07-19
+     🔗 https://github.com/Abdulrhmanhammad/security-engineering-journey
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-20 14:08:39 UTC] [UPD]   📢 📦 JoinChang/ghostlock-oneplus
+     ⭐ 44  🗣 C  📅 2026-07-12
+     🔗 https://github.com/JoinChang/ghostlock-oneplus
+     📝 GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootlo…
+     🏷  android, coloros, ghostlock, kernelsu, oneplus, root
+     🔄 Motivo: repo recente (7gg)
+[2026-07-20 14:08:39 UTC] [INFO] ============================================================
+[2026-07-20 14:08:39 UTC] [INFO] Completato — 25 nuovi, 9 aggiornati, 0 errori
+[2026-07-20 14:08:39 UTC] [INFO] ============================================================
