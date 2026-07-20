@@ -42551,3 +42551,248 @@
 [2026-07-20 14:08:39 UTC] [INFO] ============================================================
 [2026-07-20 14:08:39 UTC] [INFO] Completato — 25 nuovi, 9 aggiornati, 0 errori
 [2026-07-20 14:08:39 UTC] [INFO] ============================================================
+[2026-07-20 19:44:47 UTC] [INFO] ============================================================
+[2026-07-20 19:44:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-20 19:44:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-20 19:44:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-20 19:44:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-20 19:44:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-20 19:44:47 UTC] [INFO] ============================================================
+[2026-07-20 19:44:47 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-20 19:44:47 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-20 19:44:49 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 19:44:49 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-20 19:44:49 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-20 19:44:49 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-20 19:44:49 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 17  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-20 19:44:49 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-20 19:44:49 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-20 19:44:49 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-20 19:44:51 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 32 NUOVI repository:
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 TuranAbdulkadir/Elite-Defensive-Security-Tactics
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/TuranAbdulkadir/Elite-Defensive-Security-Tactics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 khadijamohammad/CyberRecon-EDR-SIEM
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/khadijamohammad/CyberRecon-EDR-SIEM
+     📝 A modular Python EDR & SIEM monitoring system with real-time process tracking an…
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 shivansh-dutta/notebooklm-esa-generator
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/shivansh-dutta/notebooklm-esa-generator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 aditri21/mssp-soc-platform
+     ⭐ 0  🗣 JavaScript  📅 2026-07-20
+     🔗 https://github.com/aditri21/mssp-soc-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 whx4mi/GeminiRAT-ClaudeReview
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/whx4mi/GeminiRAT-ClaudeReview
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 hamzaazer/Butter-s-Quantum
+     ⭐ 0  🗣 Rust  📅 2026-07-20
+     🔗 https://github.com/hamzaazer/Butter-s-Quantum
+     📝 This is a full, production-ready, cross-platform (Windows/Linux/macOS) framework…
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 aurekami/ai-security-analyst-copilot
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/aurekami/ai-security-analyst-copilot
+     📝 Open-source FastAPI incident triage and resolution copilot with grounded retriev…
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 TiredMir/MaleDiction
+     ⭐ 0  🗣 C++  📅 2026-07-20
+     🔗 https://github.com/TiredMir/MaleDiction
+     📝 A Shellcode injector combined with shellcode encoding and API call obfuscation f…
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 bernd780/echobuttonfree
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/bernd780/echobuttonfree
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 Jaisurya2823/security-autopilot-agent
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Jaisurya2823/security-autopilot-agent
+     📝 Qwen-powered agent that triages security alerts (EDR/firewall/SIEM/CVE feeds), e…
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 cossackrider8-glitch/LLM-Payload-Generator
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/cossackrider8-glitch/LLM-Payload-Generator
+     📝 AI-assisted Red Team payload generator with AMSI bypass and XOR obfuscation
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 ajitsharmadbg96-create/acronis-mcp-server
+     ⭐ 0  🗣 JavaScript  📅 2026-07-20
+     🔗 https://github.com/ajitsharmadbg96-create/acronis-mcp-server
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 AbhiRLE2016/pulse-qa-automation
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/AbhiRLE2016/pulse-qa-automation
+     📝 Sanitized public mirror of the Annotet Pulse QA Automation framework (credential…
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 adthexyulxet/log-analyzer
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/adthexyulxet/log-analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 bhatvidya419-arch/project-report
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/bhatvidya419-arch/project-report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 Versity1/socENG
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Versity1/socENG
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 Sebastian-Vasquez-security/local-llm-adversary-emulation
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/Sebastian-Vasquez-security/local-llm-adversary-emulation
+     📝 Academic research on Windows API behavior and dynamic sandbox detection using lo…
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 sanchezbelitocalet-ctrl/Evaluacion-integral-CALET-EDRIAM-SANCHEZ-BELITO
+     ⭐ 0  🗣 HTML  📅 2026-07-20
+     🔗 https://github.com/sanchezbelitocalet-ctrl/Evaluacion-integral-CALET-EDRIAM-SANCHEZ-BELITO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 Apoliak7777/CursorKeep
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Apoliak7777/CursorKeep
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 yardenadi24/FltHide
+     ⭐ 0  🗣 C++  📅 2026-07-20
+     🔗 https://github.com/yardenadi24/FltHide
+     📝 Hiding fs operation from edrs
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 benolenick/security-shallots
+     ⭐ 1  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/benolenick/security-shallots
+     📝 Small-footprint AI security scout for homelabs & small networks (1-10 machines).…
+     🏷  homelab, ids, llm, nsm, raspberry-pi, security, security-monitoring, self-hosted, siem, suricata, threat-detection, wazuh
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 ochmunkh/Tatar-Triage
+     ⭐ 0  🗣 PowerShell  📅 2026-07-20
+     🔗 https://github.com/ochmunkh/Tatar-Triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 burn56/liongard-ai
+     ⭐ 0  🗣 JavaScript  📅 2026-07-20
+     🔗 https://github.com/burn56/liongard-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 suhasjk07/resume-screening-agent
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/suhasjk07/resume-screening-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 bhatvidya419-arch/hawkeye-lab-solution
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/bhatvidya419-arch/hawkeye-lab-solution
+     📝 hawkeye lab detailed report.
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 ChrisNippert/EDrumKit
+     ⭐ 0  🗣 C++  📅 2026-07-20
+     🔗 https://github.com/ChrisNippert/EDrumKit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 xiaoyang-xyc/skills
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/xiaoyang-xyc/skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 Stephani-e/policy-as-code-governance
+     ⭐ 0  🗣 Open Policy Agent  📅 2026-07-20
+     🔗 https://github.com/Stephani-e/policy-as-code-governance
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 MarcBernaldo/Artifact-extract
+     ⭐ 0  🗣 PowerShell  📅 2026-07-20
+     🔗 https://github.com/MarcBernaldo/Artifact-extract
+     📝 Native, dependency-free DFIR artifact collector for Windows and Linux
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 fishnado/fishnado
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/fishnado/fishnado
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 DanceNitra/edrn-appendix-fix
+     ⭐ 0  🗣 TeX  📅 2026-07-20
+     🔗 https://github.com/DanceNitra/edrn-appendix-fix
+     📝 Corrected LaTeX package + verification scripts for the EDRN-DMRG manuscript (app…
+     🏷  —
+[2026-07-20 19:44:51 UTC] [NEW]   🆕 📦 kumararunp1-design/zero-trust-lab-killercoda
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/kumararunp1-design/zero-trust-lab-killercoda
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-20 19:44:51 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-20 19:44:51 UTC] [UPD]   📢 📦 JoshLipschultz/claude-jxl-swift
+     ⭐ 0  🗣 Swift  📅 2026-07-20
+     🔗 https://github.com/JoshLipschultz/claude-jxl-swift
+     📝 A (non-clean-room) reimplementation of a JPEG XL decoder in Swift
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-20 19:44:51 UTC] [UPD]   📢 📦 maux339-cpu/exploits
+     ⭐ 0  🗣 PowerShell  📅 2026-07-19
+     🔗 https://github.com/maux339-cpu/exploits
+     📝 HUB canônico unificado: AI/redteam pentest (submodules) + OSINT + DeFi skills. L…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-20 19:44:51 UTC] [UPD]   📢 📦 jproma23/Orion-Os
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/jproma23/Orion-Os
+     📝 Robo autonomo com Ia local embarcada
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-20 19:44:51 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-20 19:44:51 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-20 19:44:53 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-20 19:44:53 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-20 19:44:53 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-20 19:44:53 UTC] [UPD]   📢 📦 Matrix030/debugger
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Matrix030/debugger
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-20 19:44:53 UTC] [UPD]   📢 📦 0xkite/glove
+     ⭐ 1  🗣 C++  📅 2026-07-19
+     🔗 https://github.com/0xkite/glove
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-20 19:44:53 UTC] [UPD]   📢 📦 Abdulrhmanhammad/security-engineering-journey
+     ⭐ 0  🗣 Shell  📅 2026-07-19
+     🔗 https://github.com/Abdulrhmanhammad/security-engineering-journey
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-20 19:44:53 UTC] [UPD]   📢 📦 XiaoBaiLovesStirring/OPPO_PKV110_vi
+     ⭐ 0  🗣 C  📅 2026-07-20
+     🔗 https://github.com/XiaoBaiLovesStirring/OPPO_PKV110_vi
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-20 19:44:53 UTC] [INFO] ============================================================
+[2026-07-20 19:44:53 UTC] [INFO] Completato — 32 nuovi, 10 aggiornati, 0 errori
+[2026-07-20 19:44:53 UTC] [INFO] ============================================================
