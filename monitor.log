@@ -42993,3 +42993,157 @@
 [2026-07-21 02:48:21 UTC] [INFO] ============================================================
 [2026-07-21 02:48:21 UTC] [INFO] Completato — 26 nuovi, 7 aggiornati, 0 errori
 [2026-07-21 02:48:21 UTC] [INFO] ============================================================
+[2026-07-21 08:31:15 UTC] [INFO] ============================================================
+[2026-07-21 08:31:15 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-21 08:31:15 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-21 08:31:15 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-21 08:31:15 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-21 08:31:15 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-21 08:31:15 UTC] [INFO] ============================================================
+[2026-07-21 08:31:15 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-21 08:31:15 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-21 08:31:17 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-21 08:31:17 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-21 08:31:17 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-21 08:31:17 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-21 08:31:17 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-21 08:31:17 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 16  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-21 08:31:17 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-21 08:31:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-21 08:31:19 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 jefedeliu/edrjhy
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/jefedeliu/edrjhy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 KaiHT-Ladiant/JRList
+     ⭐ 0  🗣 JavaScript  📅 2026-07-21
+     🔗 https://github.com/KaiHT-Ladiant/JRList
+     📝 JRList - JS URL Recon List. Chrome extension to extract URLs from Nuxt.js / Vue.…
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 CODECRUNCHWORLDWIDE/C48-CRUNCH-BLUE
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/CODECRUNCHWORLDWIDE/C48-CRUNCH-BLUE
+     📝 A free, open-source 12-week course on defending and detecting: blue-team operati…
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 osvaldobeato/SOAR-EDR-Automated-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/osvaldobeato/SOAR-EDR-Automated-Incident-Response
+     📝 Built a SOAR and EDR incident response workflow using LimaCharlie, Tines, Slack,…
+     🏷  cybersecurity, detection-engineering, edr, endpoint-security, incident-response, limacharlie, security-automation, slack, soar, soc, tines
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 MintKangaroo/AI-SOC-DaschBoard
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/MintKangaroo/AI-SOC-DaschBoard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 Gabriel-P-IT/AS-Rep-Roaster
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Gabriel-P-IT/AS-Rep-Roaster
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 ValeLyris/ValeLyris
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/ValeLyris/ValeLyris
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 tolgaakkapulu/cybercavalry
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/tolgaakkapulu/cybercavalry
+     📝 CYBERCavalry - A Self-Hosted Threat Intelligence & Blacklist Management Platform
+     🏷  abuseipdb, api, blacklist, blacklist-management, edr, hash, ip-blacklist, siem, threat-intelligence, virustotal, whitelist, xdr
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 JeffLiusGitHub/content-masking-tool
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/JeffLiusGitHub/content-masking-tool
+     📝 Local-first, reversible masking of company and people names in Markdown/DOCX/PDF…
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 IoT-gamer/bgm220_le_coded_phy_light5
+     ⭐ 0  🗣 C  📅 2026-07-21
+     🔗 https://github.com/IoT-gamer/bgm220_le_coded_phy_light5
+     📝 BGM220 explorer kit application reads ambient light data from a Mikroe Light 5 C…
+     🏷  bgm220, ble, coded-phy, iot-application, long-range, lux-sensor, mikroe-click-board, opt4041, simplicity-studio
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 hmm-999/slack-mcp-desktop-auth
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/hmm-999/slack-mcp-desktop-auth
+     📝 Bridge your live Slack desktop session into slack-mcp-server — no bot tokens, no…
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 AsherNagel/COS70008-EDR-Portfolio
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/AsherNagel/COS70008-EDR-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 BruceWayne73/thor-lite-manual
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/BruceWayne73/thor-lite-manual
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 TrueFurina/cyber-terms-hub
+     ⭐ 2  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/TrueFurina/cyber-terms-hub
+     📝 Cybersecurity terminology resource navigation - glossary, acronyms, frameworks, …
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 sritejadeyyala/sritejadeyyala
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/sritejadeyyala/sritejadeyyala
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 essible/essible
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/essible/essible
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 dantegalimberti777-coder/open
+     ⭐ 0  🗣 Rust  📅 2026-07-21
+     🔗 https://github.com/dantegalimberti777-coder/open
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 vtomasv/lab13-dll-injection-novnc
+     ⭐ 0  🗣 C  📅 2026-07-21
+     🔗 https://github.com/vtomasv/lab13-dll-injection-novnc
+     📝 Lab 13: DLL Injection & Trojan Analysis - Docker noVNC Lab for MAR404 Threat Hun…
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 cybersupreme/edr
+     ⭐ 0  🗣 C#  📅 2026-07-21
+     🔗 https://github.com/cybersupreme/edr
+     📝 Defensive endpoint monitoring & digital forensics platform (educational use).
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 EvelioMorales/Threat-Hunting-Scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/EvelioMorales/Threat-Hunting-Scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [NEW]   🆕 📦 mrnzdev/aegis
+     ⭐ 0  🗣 TypeScript  📅 2026-07-21
+     🔗 https://github.com/mrnzdev/aegis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 08:31:19 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-21 08:31:19 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-21 08:31:19 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-21 08:31:21 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-21 08:31:21 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-21 08:31:21 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-21 08:31:21 UTC] [UPD]   📢 📦 haha8560/TrollInstallerX-novpn
+     ⭐ 0  🗣 C  📅 2026-07-21
+     🔗 https://github.com/haha8560/TrollInstallerX-novpn
+     📝 No-VPN TrollStore2 installer fork (offline TrollStore.tar + mirror/embedded kern…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-21 08:31:21 UTC] [INFO] ============================================================
+[2026-07-21 08:31:21 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
+[2026-07-21 08:31:21 UTC] [INFO] ============================================================
