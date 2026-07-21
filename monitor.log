@@ -42796,3 +42796,200 @@
 [2026-07-20 19:44:53 UTC] [INFO] ============================================================
 [2026-07-20 19:44:53 UTC] [INFO] Completato — 32 nuovi, 10 aggiornati, 0 errori
 [2026-07-20 19:44:53 UTC] [INFO] ============================================================
+[2026-07-21 02:48:16 UTC] [INFO] ============================================================
+[2026-07-21 02:48:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-21 02:48:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-21 02:48:16 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-21 02:48:16 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-21 02:48:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-21 02:48:16 UTC] [INFO] ============================================================
+[2026-07-21 02:48:16 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-21 02:48:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-21 02:48:18 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-21 02:48:18 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-21 02:48:18 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-21 02:48:18 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-21 02:48:18 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 16  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-21 02:48:18 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 0  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-21 02:48:18 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-21 02:48:18 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-21 02:48:20 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 HydraSoft/CVE-2026-41089-Netlogon-RCE
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/HydraSoft/CVE-2026-41089-Netlogon-RCE
+     📝 Technical analysis and Proof-of-Concept (PoC) for CVE-2026-41089, a critical una…
+     🏷  active-directory, buffer-overflow, cve-2026-41089, cybersecurity, domain-controller, exploit-poc, netlogon-rce, privilege-escalation, remote-code-execution, threat-hunting, windows-security, zero-day
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 dmd777/windows-ir-triage
+     ⭐ 0  🗣 PowerShell  📅 2026-07-21
+     🔗 https://github.com/dmd777/windows-ir-triage
+     📝 Read-only Windows security triage, persistence evidence collection, and remediat…
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 Aken-Teams/jvision-smart-mfg-276-edr-xdr
+     ⭐ 0  🗣 HTML  📅 2026-07-21
+     🔗 https://github.com/Aken-Teams/jvision-smart-mfg-276-edr-xdr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 harshil748/AegisSOC
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/harshil748/AegisSOC
+     📝 An AI-assisted SOC triage platform. AegisSOC ingests high-volume security teleme…
+     🏷  cybersecurity, llm, soc
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 tthanhannguyen-a11y/wifi_signal_tester
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/tthanhannguyen-a11y/wifi_signal_tester
+     📝 Wifi signal tester with Gradio
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 osvaldobeato/SOC-Automation-Detection-Response
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/osvaldobeato/SOC-Automation-Detection-Response
+     📝 Built a SOC automation pipeline using Wazuh, TheHive, Shuffle, VirusTotal, and L…
+     🏷  cybersecurity, detection-engineering, incident-response, limacharlie, security-automation, shuffle, siem, soar, soc, soc-automation, thehive, threat-intelligence, virustotal, wazuh
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 MouhBbt/exchange-hybrid-threat-hunting
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/MouhBbt/exchange-hybrid-threat-hunting
+     📝 A comprehensive Velociraptor artifact bundle for Microsoft Exchange and M365 thr…
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 Rojad09/CTI-MirrorFace-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/Rojad09/CTI-MirrorFace-Analysis
+     📝 Multilingual CTI analysis of the MirrorFace APT. Translates native Japanese OSIN…
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 Nachitzu/ai-incident-response-orchestrator
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/Nachitzu/ai-incident-response-orchestrator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 destiny-creates/silentnet
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/destiny-creates/silentnet
+     📝 completely reversed and detailed analysis of the silentnet malware
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 abdulraheemnohri/AI-Defender-Enterprise
+     ⭐ 0  🗣 TypeScript  📅 2026-07-20
+     🔗 https://github.com/abdulraheemnohri/AI-Defender-Enterprise
+     📝 AI Defender Enterprise
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 Shiyu415/Steam-Player-Trend-Forecasting-with-Time-Series-Models
+     ⭐ 0  🗣 R  📅 2026-07-21
+     🔗 https://github.com/Shiyu415/Steam-Player-Trend-Forecasting-with-Time-Series-Models
+     📝 Time series forecasting of Steam player activity using Prophet, ARIMA, SARIMAX, …
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 pradippandey555/Cyber-HandsOnLab
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/pradippandey555/Cyber-HandsOnLab
+     📝 Cybersecurity Learning 
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 miltech0/VigilScope
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/miltech0/VigilScope
+     📝 Privacy-first local Windows endpoint visibility, threat detection, and incident …
+     🏷  cybersecurity, defensive-security, endpoint-monitoring, incident-response, mitre-attack, network-monitoring, python, sqlite, threat-detection, tkinter, windows
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 themlie/local-soc-analyst-assistant
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/themlie/local-soc-analyst-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 claitonr/blue-team-playbook
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/claitonr/blue-team-playbook
+     📝 Blue Team SOC Playbook — KQL queries, incident response playbooks, Python automa…
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 jemishavasoya/Glowkri
+     ⭐ 0  🗣 HTML  📅 2026-07-20
+     🔗 https://github.com/jemishavasoya/Glowkri
+     📝 A native macOS utility that generates ultra-bright, 10,000-nit glowing HDR logos…
+     🏷  bash-script, branding, colorsync, coregraphics, edr, hdr, image-processing, linkedin, logo-generator, macos, swift
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 GonzaBot/ransomware-ir-playbook-nist-techco
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/GonzaBot/ransomware-ir-playbook-nist-techco
+     📝 Plan de respuesta a incidente de ransomware sobre el marco NIST (Identificación,…
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 mave330/flight-turbulence-map
+     ⭐ 0  🗣 JavaScript  📅 2026-07-20
+     🔗 https://github.com/mave330/flight-turbulence-map
+     📝 Pick departure/arrival airport + cruise altitude → estimated turbulence chart & …
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 martinosani/AegisEDRLab
+     ⭐ 0  🗣 C#  📅 2026-07-20
+     🔗 https://github.com/martinosani/AegisEDRLab
+     📝 A Deliberately Vulnerable Windows Security Endpoint Agent
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 AdrianaVallejo97/EDR
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-20
+     🔗 https://github.com/AdrianaVallejo97/EDR
+     📝 Ecuaciones Diferenciales con Retardo (EDR)  5 ejercicios
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 JacobRHess/agentdetect
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/JacobRHess/agentdetect
+     📝 Detections for autonomous LLM agent intrusions. Behavioral Splunk rules keyed on…
+     🏷  —
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 Faldrag/badusb-awareness-lab
+     ⭐ 0  🗣 C++  📅 2026-07-20
+     🔗 https://github.com/Faldrag/badusb-awareness-lab
+     📝 Preuve de concept BadUSB (Teensy) établissant un reverse shell vers un C2 — proj…
+     🏷  badusb, hid-attacks, physical-security, redteam, reverse-shell, security-research, teensy
+[2026-07-21 02:48:20 UTC] [NEW]   🆕 📦 zimqfbtdnbg/anika-rules
+     ⭐ 0  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/zimqfbtdnbg/anika-rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 02:48:20 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-21 02:48:20 UTC] [UPD]   📢 📦 benolenick/security-shallots
+     ⭐ 4  🗣 Python  📅 2026-07-20
+     🔗 https://github.com/benolenick/security-shallots
+     📝 Small-footprint AI security scout for homelabs & small networks (1-10 machines).…
+     🏷  homelab, ids, llm, nsm, raspberry-pi, security, security-monitoring, self-hosted, siem, suricata, threat-detection, wazuh
+     🔄 Motivo: repo recente (0gg)
+[2026-07-21 02:48:20 UTC] [UPD]   📢 📦 Sebastian-Vasquez-security/local-llm-adversary-emulation
+     ⭐ 1  🗣 C++  📅 2026-07-20
+     🔗 https://github.com/Sebastian-Vasquez-security/local-llm-adversary-emulation
+     📝 Academic research on Windows API behavior and dynamic sandbox detection using lo…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-21 02:48:20 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-21 02:48:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-21 02:48:21 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-21 02:48:21 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-21 02:48:21 UTC] [NEW]   🆕 📦 haha8560/TrollInstallerX-novpn
+     ⭐ 0  🗣 C  📅 2026-07-21
+     🔗 https://github.com/haha8560/TrollInstallerX-novpn
+     📝 No-VPN TrollStore2 installer fork (offline TrollStore.tar + mirror/embedded kern…
+     🏷  —
+[2026-07-21 02:48:21 UTC] [NEW]   🆕 📦 SensitiveWebUser/Sandbox-Claude-Code
+     ⭐ 0  🗣 Shell  📅 2026-07-20
+     🔗 https://github.com/SensitiveWebUser/Sandbox-Claude-Code
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 02:48:21 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-21 02:48:21 UTC] [UPD]   📢 📦 spoj/tg-bot2
+     ⭐ 0  🗣 TypeScript  📅 2026-07-20
+     🔗 https://github.com/spoj/tg-bot2
+     📝 A persistent Telegram agent using Pi, TypeScript, and Bubblewrap
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-21 02:48:21 UTC] [UPD]   📢 📦 0xkite/glove
+     ⭐ 1  🗣 C++  📅 2026-07-19
+     🔗 https://github.com/0xkite/glove
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-21 02:48:21 UTC] [INFO] ============================================================
+[2026-07-21 02:48:21 UTC] [INFO] Completato — 26 nuovi, 7 aggiornati, 0 errori
+[2026-07-21 02:48:21 UTC] [INFO] ============================================================
