@@ -43147,3 +43147,241 @@
 [2026-07-21 08:31:21 UTC] [INFO] ============================================================
 [2026-07-21 08:31:21 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
 [2026-07-21 08:31:21 UTC] [INFO] ============================================================
+[2026-07-21 13:53:44 UTC] [INFO] ============================================================
+[2026-07-21 13:53:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-21 13:53:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-21 13:53:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-21 13:53:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-21 13:53:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-21 13:53:44 UTC] [INFO] ============================================================
+[2026-07-21 13:53:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-21 13:53:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-21 13:53:47 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-21 13:53:47 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-21 13:53:47 UTC] [NEW]   🆕 📦 Cazo-Net/ExploitMind
+     ⭐ 1  🗣 PowerShell  📅 2026-07-21
+     🔗 https://github.com/Cazo-Net/ExploitMind
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:47 UTC] [NEW]   🆕 📦 panwnvda/CRTL-Notes
+     ⭐ 0  🗣 C  📅 2026-07-21
+     🔗 https://github.com/panwnvda/CRTL-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:47 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-21 13:53:47 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 5  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-21 13:53:47 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 15  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-21 13:53:47 UTC] [UPD]   📢 📦 heruixii/cs2-remote-loader
+     ⭐ 0  🗣 C++  📅 2026-07-14
+     🔗 https://github.com/heruixii/cs2-remote-loader
+     📝 cs2远程下载系统
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-21 13:53:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-21 13:53:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-21 13:53:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 Panny777/Meizu-Myvu-SDK
+     ⭐ 0  🗣 Java  📅 2026-07-21
+     🔗 https://github.com/Panny777/Meizu-Myvu-SDK
+     📝 An unofficial Android SDK for Meizu MYVU AR glasses
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 zisad-426/Problem-solving-in-Introduction-to-SIEM-for-Haxcamp
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/zisad-426/Problem-solving-in-Introduction-to-SIEM-for-Haxcamp
+     📝 Haxcamp-এর "Introduction to SIEM" চ্যালেঞ্জটি ছিল একটি beginner-friendly hands-o…
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 Teforello/security-labs
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/Teforello/security-labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 emmanueldceu-byte/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/emmanueldceu-byte/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 DukeSec97/Hopeless
+     ⭐ 1  🗣 C  📅 2026-07-21
+     🔗 https://github.com/DukeSec97/Hopeless
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 PackageBeagle/beagle
+     ⭐ 0  🗣 Go  📅 2026-07-21
+     🔗 https://github.com/PackageBeagle/beagle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 ZheMuxi/HDR-Lift
+     ⭐ 0  🗣 JavaScript  📅 2026-07-21
+     🔗 https://github.com/ZheMuxi/HDR-Lift
+     📝 HDR-like SDR video enhancement for Safari and Chromium browsers on macOS using W…
+     🏷  chrome-extension, hdr, macos, safari-extension, sdr-to-hdr, video-enhancement
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 keerthanamadheswaran/keerthanamadheswaran
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/keerthanamadheswaran/keerthanamadheswaran
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 MuhammadUsman180/OneDefend-Advanced-gRPC-Powered-Endpoint-Detection-Response-Platform
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/MuhammadUsman180/OneDefend-Advanced-gRPC-Powered-Endpoint-Detection-Response-Platform
+     📝 A high-performance, real-time EDR system built on gRPC, featuring kernel-level a…
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 panwnvda/CRTO-Notes
+     ⭐ 0  🗣 PowerShell  📅 2026-07-21
+     🔗 https://github.com/panwnvda/CRTO-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 panwnvda/CRTL-Notes
+     ⭐ 0  🗣 C  📅 2026-07-21
+     🔗 https://github.com/panwnvda/CRTL-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 panwnvda/CAPE-Notes
+     ⭐ 0  🗣 C  📅 2026-07-21
+     🔗 https://github.com/panwnvda/CAPE-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 panwnvda/OSEP-Notes
+     ⭐ 0  🗣 C#  📅 2026-07-21
+     🔗 https://github.com/panwnvda/OSEP-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 gracobjo/secopshub
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/gracobjo/secopshub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 tareksec/siem-lab-home
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/tareksec/siem-lab-home
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 Lakshay-26/AEGISX-AUTONOMOUS-AI-SOC-XDR-
+     ⭐ 0  🗣 JavaScript  📅 2026-07-21
+     🔗 https://github.com/Lakshay-26/AEGISX-AUTONOMOUS-AI-SOC-XDR-
+     📝 AegisX is an autonomous AI-powered Security Operations Center (SOC) & Cloud-Nati…
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 firefoxuz/siem-nats
+     ⭐ 0  🗣 TypeScript  📅 2026-07-21
+     🔗 https://github.com/firefoxuz/siem-nats
+     📝 SIEM NATS gateway service (NestJS)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 Emmanuel1719/cybersecurity-management
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/Emmanuel1719/cybersecurity-management
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 DegreeJr/SLICE
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/DegreeJr/SLICE
+     📝 Token-efficient SIEM log compression for LLM-powered threat analysis. Self-hoste…
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 luciluciano/GOT-YOU-
+     ⭐ 0  🗣 HTML  📅 2026-07-21
+     🔗 https://github.com/luciluciano/GOT-YOU-
+     📝 SOC 
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 Nebula-Code-oss/Security_Tooling_Portfolio
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/Nebula-Code-oss/Security_Tooling_Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/KuniNogu/drupal-openai-provider-ssrf-cve-2026-13233
+     📝 CVE-2026-13233 (Drupal OpenAI Provider, SA-CONTRIB-2026-053): response-URL SSRF …
+     🏷  ai-security, appsec, cve-2026-13233, cwe-918, detection-engineering, drupal, openai, openai-provider, responsible-disclosure, sigma, ssrf
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 DevDumbledore-001/LogSense
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/DevDumbledore-001/LogSense
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 timberlanm/agent-anlyasis
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/timberlanm/agent-anlyasis
+     📝 aimed for auto analysis and soc opeartion
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 ismi9/anthropic-cybersecurity-skills
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/ismi9/anthropic-cybersecurity-skills
+     📝 Anthropic Cybersecurity Skills — collection of security skills for AI agents (fo…
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 AnatoliChe/PowerHuntShares-Trimmed
+     ⭐ 0  🗣 PowerShell  📅 2026-07-21
+     🔗 https://github.com/AnatoliChe/PowerHuntShares-Trimmed
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [NEW]   🆕 📦 nahisaho/mext-edu-infosec-guideline
+     ⭐ 0  🗣 N/A  📅 2026-07-20
+     🔗 https://github.com/nahisaho/mext-edu-infosec-guideline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:50 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-21 13:53:50 UTC] [UPD]   📢 📦 jefedeliu/edrjhy
+     ⭐ 0  🗣 N/A  📅 2026-07-21
+     🔗 https://github.com/jefedeliu/edrjhy
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-21 13:53:50 UTC] [UPD]   📢 📦 2026-Siheung-Bootcamp-Team-I/Midterm-Presentation
+     ⭐ 0  🗣 N/A  📅 2026-07-19
+     🔗 https://github.com/2026-Siheung-Bootcamp-Team-I/Midterm-Presentation
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-21 13:53:50 UTC] [UPD]   📢 📦 ahmedakbarov/ESAR
+     ⭐ 0  🗣 C#  📅 2026-07-16
+     🔗 https://github.com/ahmedakbarov/ESAR
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-21 13:53:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-21 13:53:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-21 13:53:52 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-21 13:53:52 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-07-21 13:53:52 UTC] [NEW]   🆕 📦 Cazo-Net/ExploitMind
+     ⭐ 1  🗣 PowerShell  📅 2026-07-21
+     🔗 https://github.com/Cazo-Net/ExploitMind
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:52 UTC] [NEW]   🆕 📦 jacklv-coder/OrchardProbe
+     ⭐ 0  🗣 Rust  📅 2026-07-21
+     🔗 https://github.com/jacklv-coder/OrchardProbe
+     📝 Planning / pre-alpha: auditable, local-first Mach-O decryption and iOS app expor…
+     🏷  ios-security, macho, mobile-security, reverse-engineering, rust
+[2026-07-21 13:53:52 UTC] [NEW]   🆕 📦 panwnvda/OSEP-Notes
+     ⭐ 0  🗣 C#  📅 2026-07-21
+     🔗 https://github.com/panwnvda/OSEP-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:52 UTC] [NEW]   🆕 📦 OREO-EXE/Flamingo
+     ⭐ 0  🗣 JavaScript  📅 2026-07-21
+     🔗 https://github.com/OREO-EXE/Flamingo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-21 13:53:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-21 13:53:52 UTC] [UPD]   📢 📦 SensitiveWebUser/Sandbox-Claude-Code
+     ⭐ 0  🗣 Shell  📅 2026-07-20
+     🔗 https://github.com/SensitiveWebUser/Sandbox-Claude-Code
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-21 13:53:52 UTC] [UPD]   📢 📦 haha8560/TrollInstallerX-novpn
+     ⭐ 0  🗣 C  📅 2026-07-21
+     🔗 https://github.com/haha8560/TrollInstallerX-novpn
+     📝 No-VPN TrollStore2 installer fork (offline TrollStore.tar + mirror/embedded kern…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-21 13:53:52 UTC] [INFO] ============================================================
+[2026-07-21 13:53:52 UTC] [INFO] Completato — 33 nuovi, 8 aggiornati, 0 errori
+[2026-07-21 13:53:52 UTC] [INFO] ============================================================
