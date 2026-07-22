@@ -43753,3 +43753,156 @@
 [2026-07-22 02:46:14 UTC] [INFO] ============================================================
 [2026-07-22 02:46:14 UTC] [INFO] Completato — 16 nuovi, 7 aggiornati, 0 errori
 [2026-07-22 02:46:14 UTC] [INFO] ============================================================
+[2026-07-22 08:31:01 UTC] [INFO] ============================================================
+[2026-07-22 08:31:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-22 08:31:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-22 08:31:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-22 08:31:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-22 08:31:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-22 08:31:01 UTC] [INFO] ============================================================
+[2026-07-22 08:31:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-22 08:31:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-22 08:31:03 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-22 08:31:03 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-22 08:31:03 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-22 08:31:03 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-22 08:31:03 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 14  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-22 08:31:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-22 08:31:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-22 08:31:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 2026-Siheung-Bootcamp-Team-I/Frontend
+     ⭐ 0  🗣 TypeScript  📅 2026-07-22
+     🔗 https://github.com/2026-Siheung-Bootcamp-Team-I/Frontend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 project-dfir/ir-collect
+     ⭐ 0  🗣 PowerShell  📅 2026-07-22
+     🔗 https://github.com/project-dfir/ir-collect
+     📝 Self-healing forward-party IR triage kit (Windows/Linux) + detection-content gen…
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 spakai/job_scheduling_simulation
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/spakai/job_scheduling_simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 rohithbaggu56-dot/CrowdStrike-Investigations
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/rohithbaggu56-dot/CrowdStrike-Investigations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 LurkSec/LurkSecSuite
+     ⭐ 1  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/LurkSec/LurkSecSuite
+     📝 A lightweight, full-stack Defensive Security Operations Suite built in Python & …
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 khmokoo-del/cloud-gcp-portfolio
+     ⭐ 0  🗣 JavaScript  📅 2026-07-21
+     🔗 https://github.com/khmokoo-del/cloud-gcp-portfolio
+     📝 Enterprise Google Cloud architecture portfolio showcasing serverless security en…
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 Ruzzel-Sese-0/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/Ruzzel-Sese-0/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 LurkSec/LurkZero
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/LurkSec/LurkZero
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 compiler-gdb/winKernel-primitive-scanner
+     ⭐ 0  🗣 C++  📅 2026-07-22
+     🔗 https://github.com/compiler-gdb/winKernel-primitive-scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 LurkSec/lurkedr
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/LurkSec/lurkedr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 Freddyz-coder/Remote-Access-trojan
+     ⭐ 1  🗣 C#  📅 2026-07-22
+     🔗 https://github.com/Freddyz-coder/Remote-Access-trojan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 M-Kay7634/Home-SOC-Lab-with-Wazuh-and-Sysmon
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/M-Kay7634/Home-SOC-Lab-with-Wazuh-and-Sysmon
+     📝 A hands-on Home SOC Lab built with Wazuh SIEM, Sysmon, Windows 11, and Kali Linu…
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 livanshmalhotra/cybersentinel
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/livanshmalhotra/cybersentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 MichaelGaudin/Endpoint-detection-response-limacharlie-tines
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/MichaelGaudin/Endpoint-detection-response-limacharlie-tines
+     📝 Enterprise endpoint detection and response (EDR) project using LimaCharlie and T…
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 avStar33/edrhjgv
+     ⭐ 0  🗣 HTML  📅 2026-07-22
+     🔗 https://github.com/avStar33/edrhjgv
+     📝 SDFFGD
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 Varshini487/malware-classifier
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/Varshini487/malware-classifier
+     📝 PE file feature extraction + CNN/Random Forest pipeline to classify malware fami…
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 kathirvel-p22/CyberMindAI
+     ⭐ 0  🗣 TypeScript  📅 2026-07-22
+     🔗 https://github.com/kathirvel-p22/CyberMindAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 MichaelGaudin/MichaelGaudin
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/MichaelGaudin/MichaelGaudin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 eXitER28/Anthropic-Cybersecurity-Skills-backup
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/eXitER28/Anthropic-Cybersecurity-Skills-backup
+     📝 Independent backup of Anthropic-Cybersecurity-Skills
+     🏷  —
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 Jahny-Robles/Hybrid-Three-Pillar-SOC-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/Jahny-Robles/Hybrid-Three-Pillar-SOC-Detection-Lab
+     📝 A self-built SOC detection lab running Microsoft Sentinel, Defender for Endpoint…
+     🏷  blue-team, defender-for-endpoint, detection-engineering, elastic-security, homelab, kql, microsoft-sentinel, mitre-attack, soc-analyst, threat-detection
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 rmayen/halotrace
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/rmayen/halotrace
+     📝 Defensive security platform: ingests Linux SSH auth logs, detects brute-force an…
+     🏷  blue-team, cybersecurity, defensive-security, fastapi, incident-response, python, siem, threat-detection
+[2026-07-22 08:31:05 UTC] [NEW]   🆕 📦 M1K31/cyber-agents
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/M1K31/cyber-agents
+     📝 Cyber Agents — cybersecurity agent harness with the AegisSIEM daemon; integrates…
+     🏷  —
+[2026-07-22 08:31:05 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-22 08:31:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-22 08:31:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-22 08:31:07 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-22 08:31:07 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-22 08:31:07 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-22 08:31:07 UTC] [UPD]   📢 📦 suchitchopade3110-arch/autoresearch_lite
+     ⭐ 1  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/suchitchopade3110-arch/autoresearch_lite
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-22 08:31:07 UTC] [INFO] ============================================================
+[2026-07-22 08:31:07 UTC] [INFO] Completato — 22 nuovi, 3 aggiornati, 0 errori
+[2026-07-22 08:31:07 UTC] [INFO] ============================================================
