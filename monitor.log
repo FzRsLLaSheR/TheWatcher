@@ -44089,3 +44089,235 @@
 [2026-07-22 13:58:29 UTC] [INFO] ============================================================
 [2026-07-22 13:58:29 UTC] [INFO] Completato — 28 nuovi, 3 aggiornati, 0 errori
 [2026-07-22 13:58:29 UTC] [INFO] ============================================================
+[2026-07-22 19:22:23 UTC] [INFO] ============================================================
+[2026-07-22 19:22:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-22 19:22:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-22 19:22:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-22 19:22:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-22 19:22:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-22 19:22:23 UTC] [INFO] ============================================================
+[2026-07-22 19:22:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-22 19:22:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-22 19:22:25 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-22 19:22:25 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-22 19:22:25 UTC] [NEW]   🆕 📦 TechGuyKy/ArgusMonitor-BYOVD
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/TechGuyKy/ArgusMonitor-BYOVD
+     📝 ArgusMonitor.sys is the kernel-mode driver for Argus Monitor, Argotronic UG's ha…
+     🏷  —
+[2026-07-22 19:22:25 UTC] [NEW]   🆕 📦 mein-0/forti-research
+     ⭐ 0  🗣 C  📅 2026-07-22
+     🔗 https://github.com/mein-0/forti-research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:25 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-22 19:22:25 UTC] [UPD]   📢 📦 Cazo-Net/ExploitMind
+     ⭐ 1  🗣 PowerShell  📅 2026-07-21
+     🔗 https://github.com/Cazo-Net/ExploitMind
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-22 19:22:25 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-22 19:22:25 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 12  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-22 19:22:25 UTC] [UPD]   📢 📦 jayaprasath05/Malware-Analysis-Using-LitterBox
+     ⭐ 0  🗣 YARA  📅 2026-07-22
+     🔗 https://github.com/jayaprasath05/Malware-Analysis-Using-LitterBox
+     📝 Developed a malware analysis web application using Python, Flask, Docker, and YA…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-22 19:22:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-22 19:22:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-22 19:22:28 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 judeewegs/edraro
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/judeewegs/edraro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 Pandeydaksha30/SentinelAI-AI-Driven-Cyber-Resilience-Platform-for-Critical-National-Infrastructure
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/Pandeydaksha30/SentinelAI-AI-Driven-Cyber-Resilience-Platform-for-Critical-National-Infrastructure
+     📝 SentinelAI  AI-Driven Cyber Resilience Platform for Critical National Infrastruc…
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 OpenDojoSystems0/EyesRedStrike
+     ⭐ 1  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/OpenDojoSystems0/EyesRedStrike
+     📝 Cross-platform malware scanner (Windows/Linux/macOS) — Wacatac, trojans, backdoo…
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 Lucem-afferens/Sentinel-dist
+     ⭐ 0  🗣 Shell  📅 2026-07-22
+     🔗 https://github.com/Lucem-afferens/Sentinel-dist
+     📝 Sentinel — загрузки и установка (macOS + Windows). Локальный аудитор доверия.
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 chrisquispe/edrevel-assessment.
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/chrisquispe/edrevel-assessment.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 kr-itika/AI-Cyber-Resilience-Prototype
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/kr-itika/AI-Cyber-Resilience-Prototype
+     📝 An AI-driven, on-device cyber resilience platform designed to discover, profile,…
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 Pushp575/Cyber-resilience
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/Pushp575/Cyber-resilience
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 JoewinPaulKumarM/Cyber_Digital_Twin_V1.0
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/JoewinPaulKumarM/Cyber_Digital_Twin_V1.0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 NavyaSree-H4ck/Intelligent-SOC-Assistant
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/NavyaSree-H4ck/Intelligent-SOC-Assistant
+     📝 Python-based SOC application for Windows event monitoring, correlation, threat d…
+     🏷  blue-team, cybersecurity, detection-engineering, incident-response, mitre-attack, python, soc, threat-detection, windows-security
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 KleeUI/android_external_python_bumble
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/KleeUI/android_external_python_bumble
+     📝 AOSP 17 source history for external/python/bumble
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 Lalit1014/Secure-File-Transfer-Monitoring-System
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/Lalit1014/Secure-File-Transfer-Monitoring-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 nathanskill/pump-and-dump-replication-audit
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/nathanskill/pump-and-dump-replication-audit
+     📝 Replication attempt and evaluation-sensitivity audit of "Pump and Dumps in the B…
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 bhanuteja2007/sential-ai
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/bhanuteja2007/sential-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 hodzhakhov/YieldPool
+     ⭐ 0  🗣 Solidity  📅 2026-07-22
+     🔗 https://github.com/hodzhakhov/YieldPool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 AlloySecureGroup/BlinkLinkSentiennel
+     ⭐ 0  🗣 C#  📅 2026-07-22
+     🔗 https://github.com/AlloySecureGroup/BlinkLinkSentiennel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 shubham-007-yad/sentinelx-edr
+     ⭐ 0  🗣 CSS  📅 2026-07-22
+     🔗 https://github.com/shubham-007-yad/sentinelx-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 vick2715/alert_soc_105-letsdefend
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/vick2715/alert_soc_105-letsdefend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 YdtTran/embedded-linux-rpi-ai-first
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/YdtTran/embedded-linux-rpi-ai-first
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 Top-Celestial-Company-Ltd/DROS-VEP-lite
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/Top-Celestial-Company-Ltd/DROS-VEP-lite
+     📝 Open-source, 100% reproducible AI Agent Runtime Security Benchmark & Sandbox Env…
+     🏷  ai-agents, ai-security, prompt-injection, red-team, rfc-010, runtime-governance, security-benchmark, zero-trust
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 ohutcherson/cybersecurity-notes
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/ohutcherson/cybersecurity-notes
+     📝 Practical cybersecurity notes covering SOC fundamentals, Windows Event IDs, SIEM…
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 Maur1cio-Sousa/estudos-noteboklm
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/Maur1cio-Sousa/estudos-noteboklm
+     📝 Repositório dedicado ao estudo do notebook LM, usando a ferramenta para criar um…
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 MahediCEH/Blue-Team-Toolkit
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/MahediCEH/Blue-Team-Toolkit
+     📝 A curated collection of essential tools used by Blue Teams, SOC analysts, DFIR i…
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 Amine0169/DFIR-LightEDR
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/Amine0169/DFIR-LightEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 Cw17ch/Cw17ch
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/Cw17ch/Cw17ch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 zahrabatool2115-star/Reconnaissance-
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/zahrabatool2115-star/Reconnaissance-
+     📝 Practical analysis of initial host reconnaissance by simulating common attacker …
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 poggymacello/malwaremorph
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/poggymacello/malwaremorph
+     📝 Polymorphism concept study and Shannon-entropy analysis for detection research
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 zahrabatool2115-star/THREAT-DETECTION-ATTACK-MATRIX-REPORT
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/zahrabatool2115-star/THREAT-DETECTION-ATTACK-MATRIX-REPORT
+     📝 This comprehensive technical lab report provides a structured mapping of twenty …
+     🏷  —
+[2026-07-22 19:22:28 UTC] [NEW]   🆕 📦 Apurvabharoliya/securesoc
+     ⭐ 0  🗣 TypeScript  📅 2026-07-22
+     🔗 https://github.com/Apurvabharoliya/securesoc
+     📝 A Python-based security detection engine with 13 threat detection modules, MITRE…
+     🏷  —
+[2026-07-22 19:22:28 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-22 19:22:28 UTC] [UPD]   📢 📦 captivatortechnologies/veltrix-community
+     ⭐ 0  🗣 TypeScript  📅 2026-07-19
+     🔗 https://github.com/captivatortechnologies/veltrix-community
+     📝 Open-source, self-hostable Security-as-Code platform. Manage security-tool confi…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-22 19:22:28 UTC] [UPD]   📢 📦 muhammadzidane632/Hopeless
+     ⭐ 25  🗣 C  📅 2026-07-18
+     🔗 https://github.com/muhammadzidane632/Hopeless
+     📝 Ransomware + Wiper + Bootkit Hybrid (Real Author Only Zdn2Pwn) Look a Date the I…
+     🏷  bootkit, malware, malware-research, offensive-security, power, security-research, windows-se, wiper
+     🔄 Motivo: repo recente (4gg)
+[2026-07-22 19:22:28 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-22 19:22:28 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-22 19:22:30 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-22 19:22:30 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-22 19:22:30 UTC] [NEW]   🆕 📦 ilyasimkosimko-ai/all-kernel-exploits
+     ⭐ 0  🗣 Objective-C  📅 2026-07-22
+     🔗 https://github.com/ilyasimkosimko-ai/all-kernel-exploits
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-22 19:22:30 UTC] [NEW]   🆕 📦 tuanemss/aquila_cdma
+     ⭐ 0  🗣 C  📅 2026-07-22
+     🔗 https://github.com/tuanemss/aquila_cdma
+     📝 jb untethered 4.2.9-4.2.10 cdma 
+     🏷  —
+[2026-07-22 19:22:30 UTC] [NEW]   🆕 📦 pietro-biliato/parallel-computing-mlp
+     ⭐ 0  🗣 C++  📅 2026-07-22
+     🔗 https://github.com/pietro-biliato/parallel-computing-mlp
+     📝 Project for the Modern Computing for Physics course: implementation of a neural …
+     🏷  —
+[2026-07-22 19:22:30 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-22 19:22:30 UTC] [UPD]   📢 📦 Cazo-Net/ExploitMind
+     ⭐ 1  🗣 PowerShell  📅 2026-07-21
+     🔗 https://github.com/Cazo-Net/ExploitMind
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-22 19:22:30 UTC] [INFO] ============================================================
+[2026-07-22 19:22:30 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
+[2026-07-22 19:22:30 UTC] [INFO] ============================================================
