@@ -44321,3 +44321,173 @@
 [2026-07-22 19:22:30 UTC] [INFO] ============================================================
 [2026-07-22 19:22:30 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
 [2026-07-22 19:22:30 UTC] [INFO] ============================================================
+[2026-07-23 02:52:05 UTC] [INFO] ============================================================
+[2026-07-23 02:52:05 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-23 02:52:05 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-23 02:52:05 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-23 02:52:05 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-23 02:52:05 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-23 02:52:05 UTC] [INFO] ============================================================
+[2026-07-23 02:52:05 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-23 02:52:05 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-23 02:52:07 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-23 02:52:07 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-23 02:52:07 UTC] [NEW]   🆕 📦 0xwarl0ck/ExploitPeek
+     ⭐ 1  🗣 C#  📅 2026-07-22
+     🔗 https://github.com/0xwarl0ck/ExploitPeek
+     📝 Security Engineering 'first look' suite
+     🏷  —
+[2026-07-23 02:52:07 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-23 02:52:07 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 12  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-23 02:52:07 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-23 02:52:07 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-23 02:52:07 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-23 02:52:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 vtomasv/osquery-elk-threat-hunting-lab
+     ⭐ 0  🗣 Shell  📅 2026-07-22
+     🔗 https://github.com/vtomasv/osquery-elk-threat-hunting-lab
+     📝 Complete Threat Hunting Lab with Osquery + ELK Stack + 5 Monitored Endpoints + n…
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 Gerrrt/opseclint
+     ⭐ 0  🗣 Rust  📅 2026-07-22
+     🔗 https://github.com/Gerrrt/opseclint
+     📝 Detection-coverage analyzer for Linux/auditd: resolve shell actions to ATT&CK te…
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 deeprooter/Project-NEXUS-Unified-Threat-Intelligence-Automated-IDPS
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/deeprooter/Project-NEXUS-Unified-Threat-Intelligence-Automated-IDPS
+     📝 An ISO/SAE 21434-aligned SIEM/SOAR infrastructure using Wazuh, Splunk, and ChatO…
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 jwinarske/gopro_native
+     ⭐ 0  🗣 C++  📅 2026-07-22
+     🔗 https://github.com/jwinarske/gopro_native
+     📝 Linux-first GoPro camera discovery over USB for Dart and Flutter. Enumerate-only…
+     🏷  bluetooth-low-energy, bluez, camera, cdc-ncm, dart, dart-ffi, ffi, flutter, gatt, gopro, libusb, linux, native-assets, open-gopro, usb
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 finrod-chen/claude-usage
+     ⭐ 0  🗣 JavaScript  📅 2026-07-23
+     🔗 https://github.com/finrod-chen/claude-usage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 austinkregel/runna-diagnostic-probe
+     ⭐ 0  🗣 Go  📅 2026-07-22
+     🔗 https://github.com/austinkregel/runna-diagnostic-probe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 wanmywan/BOF-Sliver-ProccessHollowing
+     ⭐ 1  🗣 C  📅 2026-07-22
+     🔗 https://github.com/wanmywan/BOF-Sliver-ProccessHollowing
+     📝 BOF Process Hollowing - "The Ghost Injector"
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 mohamdeamine10-arch/ENTP-RigVision-EDR
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/mohamdeamine10-arch/ENTP-RigVision-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 Harrison-Wells-Cyber/PS-Proxy
+     ⭐ 0  🗣 Go  📅 2026-07-22
+     🔗 https://github.com/Harrison-Wells-Cyber/PS-Proxy
+     📝 Proxy tool designed to execute in memory
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 louisabraham/lumenated
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/louisabraham/lumenated
+     📝 Independent reverse-engineering of the Lumenate Nova BLE protocol, with a Python…
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 jungsuxx/Remcos-RAT-v7.2.3-Pro-
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/jungsuxx/Remcos-RAT-v7.2.3-Pro-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 Wolf234-ux/sentinelai-live
+     ⭐ 0  🗣 TypeScript  📅 2026-07-22
+     🔗 https://github.com/Wolf234-ux/sentinelai-live
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 Honeyknows/ishax
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/Honeyknows/ishax
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 Sakshitelii/endpoint-security-monitoring
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/Sakshitelii/endpoint-security-monitoring
+     📝 Endpoint security monitoring and automated incident response using Wazuh SIEM, D…
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 rithika-ujjalsingh/Full-Red-Team-C2-Infrastructure
+     ⭐ 0  🗣 Shell  📅 2026-07-22
+     🔗 https://github.com/rithika-ujjalsingh/Full-Red-Team-C2-Infrastructure
+     📝 Full red team engagement — Sliver C2, BloodHound AD enumeration, SYSTEM escalati…
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 jaisogani-ai/prahari-sentinel-
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/jaisogani-ai/prahari-sentinel-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 02:52:10 UTC] [NEW]   🆕 📦 KleeUI/android_tools_rootcanal
+     ⭐ 0  🗣 C++  📅 2026-07-22
+     🔗 https://github.com/KleeUI/android_tools_rootcanal
+     📝 AOSP 17 source history for tools/rootcanal
+     🏷  —
+[2026-07-23 02:52:10 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-23 02:52:10 UTC] [UPD]   📢 📦 captivatortechnologies/veltrix-community
+     ⭐ 0  🗣 TypeScript  📅 2026-07-19
+     🔗 https://github.com/captivatortechnologies/veltrix-community
+     📝 Open-source, self-hostable Security-as-Code platform. Manage security-tool confi…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-23 02:52:10 UTC] [UPD]   📢 📦 judeewegs/edraro
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/judeewegs/edraro
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-23 02:52:10 UTC] [UPD]   📢 📦 lucianoengel/openshield
+     ⭐ 0  🗣 Go  📅 2026-07-20
+     🔗 https://github.com/lucianoengel/openshield
+     📝 Open-source Data Security Platform: a fixed Event to Classification to Policy to…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-23 02:52:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-23 02:52:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-23 02:52:12 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-23 02:52:12 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-07-23 02:52:12 UTC] [NEW]   🆕 📦 Muhammedpirani/9.60
+     ⭐ 0  🗣 JavaScript  📅 2026-07-23
+     🔗 https://github.com/Muhammedpirani/9.60
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 02:52:12 UTC] [NEW]   🆕 📦 erik-larsen/win-sugs
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/erik-larsen/win-sugs
+     📝 A collection of setup guides for optimization, privacy enhancement, cloning, and…
+     🏷  —
+[2026-07-23 02:52:12 UTC] [NEW]   🆕 📦 0xwarl0ck/ExploitPeek
+     ⭐ 1  🗣 C#  📅 2026-07-22
+     🔗 https://github.com/0xwarl0ck/ExploitPeek
+     📝 Security Engineering 'first look' suite
+     🏷  —
+[2026-07-23 02:52:12 UTC] [NEW]   🆕 📦 firaollulu4/firaollulu4
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/firaollulu4/firaollulu4
+     📝 ECE background applied to cybersecurity — RF/SDR (HackRF), satellite comms secur…
+     🏷  —
+[2026-07-23 02:52:12 UTC] [NEW]   🆕 📦 AresHM2324/Hack
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/AresHM2324/Hack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 02:52:12 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-23 02:52:12 UTC] [INFO] ============================================================
+[2026-07-23 02:52:12 UTC] [INFO] Completato — 23 nuovi, 5 aggiornati, 0 errori
+[2026-07-23 02:52:12 UTC] [INFO] ============================================================
