@@ -44782,3 +44782,139 @@
 [2026-07-23 14:03:53 UTC] [INFO] ============================================================
 [2026-07-23 14:03:53 UTC] [INFO] Completato — 22 nuovi, 4 aggiornati, 0 errori
 [2026-07-23 14:03:53 UTC] [INFO] ============================================================
+[2026-07-23 19:20:01 UTC] [INFO] ============================================================
+[2026-07-23 19:20:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-23 19:20:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-23 19:20:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-23 19:20:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-23 19:20:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-23 19:20:01 UTC] [INFO] ============================================================
+[2026-07-23 19:20:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-23 19:20:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-23 19:20:04 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-23 19:20:04 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-23 19:20:04 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-23 19:20:04 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-23 19:20:04 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 12  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-23 19:20:04 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-23 19:20:04 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-23 19:20:06 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 bj112233/sentinel-agent
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/bj112233/sentinel-agent
+     📝 Local-first threat detection agent for Windows. Runs a 4B-parameter LLM (Qwen3.5…
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 didemakalan/cybersecurity-rag-assistant
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/didemakalan/cybersecurity-rag-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 Sakshitelii/penetration-testing-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/Sakshitelii/penetration-testing-lab
+     📝 Offensive security assessment demonstrating reconnaissance, phishing, payload de…
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 dongju93/cybersecurity-chat-agent
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/dongju93/cybersecurity-chat-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 HaydnSmart/eDrawing
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/HaydnSmart/eDrawing
+     📝 win
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 Joedir7-lab/SOC-Analyist-
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/Joedir7-lab/SOC-Analyist-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 TarunYenni/testing
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/TarunYenni/testing
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 spryziel/null
+     ⭐ 0  🗣 Makefile  📅 2026-07-23
+     🔗 https://github.com/spryziel/null
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 glcdi/documentation
+     ⭐ 0  🗣 Shell  📅 2026-07-23
+     🔗 https://github.com/glcdi/documentation
+     📝 The main documentation repository which presents both the technical and governan…
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 yasarx/yasarx
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/yasarx/yasarx
+     📝 My GitHub profile README
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 EdryStarz/EdryStarz
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/EdryStarz/EdryStarz
+     📝 GitHub profile and featured projects.
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 yousephfatouh/NBAD-AI-Network-Behavior-Anomaly-Detection-with-Artificial-Intelligence
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/yousephfatouh/NBAD-AI-Network-Behavior-Anomaly-Detection-with-Artificial-Intelligence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 kimkeonhyo/AI_Secure_Setting_Scan_Demo
+     ⭐ 0  🗣 Shell  📅 2026-07-23
+     🔗 https://github.com/kimkeonhyo/AI_Secure_Setting_Scan_Demo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 19:20:06 UTC] [NEW]   🆕 📦 daminov96/damber-backend
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/daminov96/damber-backend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 19:20:06 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-23 19:20:06 UTC] [UPD]   📢 📦 abhiiibabariya-dev/portfolio
+     ⭐ 0  🗣 HTML  📅 2026-07-23
+     🔗 https://github.com/abhiiibabariya-dev/portfolio
+     📝 Professional cybersecurity portfolio — SOC Analyst | SIEM • EDR • DFIR
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-23 19:20:06 UTC] [UPD]   📢 📦 jwinarske/gopro_native
+     ⭐ 0  🗣 Dart  📅 2026-07-22
+     🔗 https://github.com/jwinarske/gopro_native
+     📝 Linux-first GoPro camera discovery over USB for Dart and Flutter. Enumerate-only…
+     🏷  bluetooth-low-energy, bluez, camera, cdc-ncm, dart, dart-ffi, ffi, flutter, gatt, gopro, libusb, linux, native-assets, open-gopro, usb
+     🔄 Motivo: repo recente (0gg)
+[2026-07-23 19:20:06 UTC] [UPD]   📢 📦 minhleeee123/iExec-WTF-Hackathon-Summer-Edition
+     ⭐ 0  🗣 JavaScript  📅 2026-07-22
+     🔗 https://github.com/minhleeee123/iExec-WTF-Hackathon-Summer-Edition
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-23 19:20:06 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-23 19:20:06 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-23 19:20:09 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-23 19:20:09 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-23 19:20:09 UTC] [NEW]   🆕 📦 seithunaing/HTB-CTF-Linux
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/seithunaing/HTB-CTF-Linux
+     📝 HackTheBox — Linux Machine CTF Guide
+     🏷  —
+[2026-07-23 19:20:09 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-23 19:20:09 UTC] [UPD]   📢 📦 repowazdogz-droid/trustlens
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/repowazdogz-droid/trustlens
+     📝 Surfaces declared-vs-reachable execution and credential gaps in untrusted ML dat…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-23 19:20:09 UTC] [INFO] ============================================================
+[2026-07-23 19:20:09 UTC] [INFO] Completato — 15 nuovi, 6 aggiornati, 0 errori
+[2026-07-23 19:20:09 UTC] [INFO] ============================================================
