@@ -44491,3 +44491,135 @@
 [2026-07-23 02:52:12 UTC] [INFO] ============================================================
 [2026-07-23 02:52:12 UTC] [INFO] Completato — 23 nuovi, 5 aggiornati, 0 errori
 [2026-07-23 02:52:12 UTC] [INFO] ============================================================
+[2026-07-23 08:32:38 UTC] [INFO] ============================================================
+[2026-07-23 08:32:38 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-23 08:32:38 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-23 08:32:38 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-23 08:32:38 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-23 08:32:38 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-23 08:32:38 UTC] [INFO] ============================================================
+[2026-07-23 08:32:38 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-23 08:32:38 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-23 08:32:40 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-23 08:32:40 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-23 08:32:40 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-23 08:32:40 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-23 08:32:40 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-23 08:32:40 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-23 08:32:43 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 Plankenflare/repo-edr25trb
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/Plankenflare/repo-edr25trb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 dimikarl2022/MalSim-Sandbox
+     ⭐ 0  🗣 PowerShell  📅 2026-07-23
+     🔗 https://github.com/dimikarl2022/MalSim-Sandbox
+     📝 Safe Malware Behavior Simulation for Cybersecurity Training — PowerShell & Bash
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 Archer7788/MalwareCheck
+     ⭐ 0  🗣 C++  📅 2026-07-23
+     🔗 https://github.com/Archer7788/MalwareCheck
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 Tlale08/SOC-Analyst
+     ⭐ 1  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/Tlale08/SOC-Analyst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 mate0728/SentinelX
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/mate0728/SentinelX
+     📝 AI: Autonomous Cyber Resilience Platform for Critical National Infrastructure
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 Errorx202/Malscan
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/Errorx202/Malscan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 afzal123-hash/Sentinel-EDR
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/afzal123-hash/Sentinel-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 rizko-d/blue-team-sigma-rules
+     ⭐ 0  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/rizko-d/blue-team-sigma-rules
+     📝 37 Sigma detection rules covering 12/12 MITRE ATT&CK tactics. CI/CD pipeline, un…
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 zshguy/tyrian-detection-pack
+     ⭐ 0  🗣 Vim Snippet  📅 2026-07-23
+     🔗 https://github.com/zshguy/tyrian-detection-pack
+     📝 Free Sigma + Wazuh detection rules for real ATT&CK techniques, by Tyrian (tyrian…
+     🏷  blue-team, detection-engineering, mitre-attack, purple-team, security, siem, sigma, threat-detection, wazuh
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 naji-alawni/SOAR-EDR-Platform
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/naji-alawni/SOAR-EDR-Platform
+     📝 SOAR-EDR Platform — Detection to Automated Response
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 ifannote/poc
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/ifannote/poc
+     📝 本项目是wy876漏洞库的备份,这里我们继承wy876佬的开源精神,所以这里备份这个项目。  免责声明： 文中所有涉及的内容均不针对任何厂商或个人，同时由于传播…
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 okuhle2026/SOC-Analyst-
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/okuhle2026/SOC-Analyst-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 kotashimizu/claude-code-setup-doctor
+     ⭐ 0  🗣 C#  📅 2026-07-23
+     🔗 https://github.com/kotashimizu/claude-code-setup-doctor
+     📝 Claude Code のセットアップを診断・修復する非公式 Windows コンパニオンツール (Unofficial Windows companion u…
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 afiamawuda/Afi-Amawuda
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/afiamawuda/Afi-Amawuda
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 Rajkannan05/endpoint-security-agent
+     ⭐ 1  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/Rajkannan05/endpoint-security-agent
+     📝 Enterprise EDR agent with real-time file integrity monitoring, ransomware detect…
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 razureink/cve-2025-2783-chrome_sandbox_escape_reproduction
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction
+     📝 CVE Reproduction: cve-2025-2783-chrome_sandbox_escape_reproduction
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 razureink/cve-2024-49039-task_scheduler_eop_reproduction
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/razureink/cve-2024-49039-task_scheduler_eop_reproduction
+     📝 CVE Reproduction: cve-2024-49039-task_scheduler_eop_reproduction
+     🏷  —
+[2026-07-23 08:32:43 UTC] [NEW]   🆕 📦 SeanJabri/ai-soc-copilot
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/SeanJabri/ai-soc-copilot
+     📝 AI-powered SOC triage tool that extracts IOCs, enriches them via VirusTotal & Ab…
+     🏷  —
+[2026-07-23 08:32:43 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-23 08:32:43 UTC] [UPD]   📢 📦 jwinarske/gopro_native
+     ⭐ 0  🗣 Dart  📅 2026-07-22
+     🔗 https://github.com/jwinarske/gopro_native
+     📝 Linux-first GoPro camera discovery over USB for Dart and Flutter. Enumerate-only…
+     🏷  bluetooth-low-energy, bluez, camera, cdc-ncm, dart, dart-ffi, ffi, flutter, gatt, gopro, libusb, linux, native-assets, open-gopro, usb
+     🔄 Motivo: repo recente (0gg)
+[2026-07-23 08:32:43 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-23 08:32:43 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-23 08:32:45 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-23 08:32:45 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-23 08:32:45 UTC] [NEW]   🆕 📦 wesso-dev/wesso-dev
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/wesso-dev/wesso-dev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-23 08:32:45 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-23 08:32:45 UTC] [INFO] ============================================================
+[2026-07-23 08:32:45 UTC] [INFO] Completato — 19 nuovi, 2 aggiornati, 0 errori
+[2026-07-23 08:32:45 UTC] [INFO] ============================================================
