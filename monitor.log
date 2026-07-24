@@ -45253,3 +45253,214 @@
 [2026-07-24 08:29:19 UTC] [INFO] ============================================================
 [2026-07-24 08:29:19 UTC] [INFO] Completato — 22 nuovi, 6 aggiornati, 0 errori
 [2026-07-24 08:29:19 UTC] [INFO] ============================================================
+[2026-07-24 13:47:21 UTC] [INFO] ============================================================
+[2026-07-24 13:47:21 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-24 13:47:21 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-24 13:47:21 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-24 13:47:21 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-24 13:47:21 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-24 13:47:21 UTC] [INFO] ============================================================
+[2026-07-24 13:47:21 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-24 13:47:21 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-24 13:47:23 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-24 13:47:23 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-24 13:47:23 UTC] [NEW]   🆕 📦 BruceWayne73/custom-sigma-rules
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/BruceWayne73/custom-sigma-rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:23 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-24 13:47:23 UTC] [UPD]   📢 📦 M5246/EXONERVE
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/M5246/EXONERVE
+     📝 Out-of-band, self-healing SOC & blue-team platform: sentry agent streams AES-GCM…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-24 13:47:23 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 11  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-24 13:47:23 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-24 13:47:23 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-24 13:47:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-24 13:47:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 liangkelty/edrssm
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/liangkelty/edrssm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 NAJEMWEHBE/spyscan
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/NAJEMWEHBE/spyscan
+     📝 Local-only Windows spyware/surveillance awareness scanner (defensive). Baseline-…
+     🏷  anti-stalkerware, defensive-security, malware-detection, privacy, python, security, spyware, stalkerware, windows
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 Siriusthego/wazuh-siem-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/Siriusthego/wazuh-siem-home-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 lquastana/netbox-biomed
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/lquastana/netbox-biomed
+     📝 NetBox plugin - cartographie des equipements biomedicaux connectes : plateaux te…
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 edward960117/edru-patisserie
+     ⭐ 1  🗣 TypeScript  📅 2026-07-24
+     🔗 https://github.com/edward960117/edru-patisserie
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 safayetchowdhury/Azure-Sentinel-KQL-Entra-ID-Threat-Detection-Lab
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/safayetchowdhury/Azure-Sentinel-KQL-Entra-ID-Threat-Detection-Lab
+     📝 Cloud-native SOC lab on Azure Sentinel, real attack simulation, custom KQL detec…
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 sxbezaliel/CS2026-Command-Desc
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/sxbezaliel/CS2026-Command-Desc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 sumaiyarao168-jpg/incident---containment-
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/sumaiyarao168-jpg/incident---containment-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 ValeriaTorresG/quijotes-astra
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-23
+     🔗 https://github.com/ValeriaTorresG/quijotes-astra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 BruceWayne73/custom-sigma-rules
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/BruceWayne73/custom-sigma-rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 abishekaruchamy-oss/Team-Mavericks
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/abishekaruchamy-oss/Team-Mavericks
+     📝 AEGIX AI: Explainable AI-Driven Cyber Defense Platform
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 JOELJOSEPHCHALAKUDY/open-witness-engine
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/JOELJOSEPHCHALAKUDY/open-witness-engine
+     📝 decision provenance and shared operational memory for robot fleets. It records w…
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 0xBlockPay/windows-security
+     ⭐ 0  🗣 C++  📅 2026-07-24
+     🔗 https://github.com/0xBlockPay/windows-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 Terralyp/SunloginLP-Eanalysis-tool
+     ⭐ 0  🗣 C++  📅 2026-07-24
+     🔗 https://github.com/Terralyp/SunloginLP-Eanalysis-tool
+     📝 SunloginLPE is a local verification and analysis tool designed to help researche…
+     🏷  controlled-vulnerability-study, cve-analysis, cybersecurity, documentation, exploit-analysis, local-privilege-escalation, local-verification-tool, lpe-research-project, malware-analysis, privilege-escalation-analysis, reverse-engineering, security-research, security-tools, sunlogin, sunlogin-analysis-tool, sunlogin-lpe-research, sunloginlpe, vulnerability-research, windows-security
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 karthikreddydyapa/LedgerGuard
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/karthikreddydyapa/LedgerGuard
+     📝 SIEM tool with blockchain-based tamper-evident log integrity — AES-128, HMAC-SHA…
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 rethiofficial1828-reka/Team-Titans
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/rethiofficial1828-reka/Team-Titans
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 Radhikajain09/linux-edr
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/Radhikajain09/linux-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 rethish2828/test
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/rethish2828/test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 namtrai/GPT_WindowsOutboundWebAudit
+     ⭐ 0  🗣 PowerShell  📅 2026-07-24
+     🔗 https://github.com/namtrai/GPT_WindowsOutboundWebAudit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 dancat90/meteo-rotta
+     ⭐ 0  🗣 JavaScript  📅 2026-07-24
+     🔗 https://github.com/dancat90/meteo-rotta
+     📝 Meteo in quota e turbolenza lungo la rotta di un volo (PWA)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 mert478/tara
+     ⭐ 0  🗣 PowerShell  📅 2026-07-23
+     🔗 https://github.com/mert478/tara
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [NEW]   🆕 📦 CodedRichy/NullTrace
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/CodedRichy/NullTrace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:25 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-07-24 13:47:25 UTC] [UPD]   📢 📦 cyschan912/edrair
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/cyschan912/edrair
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-24 13:47:25 UTC] [UPD]   📢 📦 bj112233/sentinel-agent
+     ⭐ 1  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/bj112233/sentinel-agent
+     📝 Local-first threat detection agent for Windows. Runs a 4B-parameter LLM (Qwen3.5…
+     🏷  agentic-ai, local-llm, mitre-attack, python, security-agent, threat-detection
+     🔄 Motivo: repo recente (0gg) | nuovi topic: threat-detection, python, security-agent, agentic-ai, local-llm, mitre-attack
+[2026-07-24 13:47:25 UTC] [UPD]   📢 📦 Sazidul0/SOC-Chronicle
+     ⭐ 1  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/Sazidul0/SOC-Chronicle
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-24 13:47:25 UTC] [UPD]   📢 📦 Cryptix-Security/ztca
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/Cryptix-Security/ztca
+     📝 Utility to add Zero Trust certs (like ZScalar) to all certificate stores on a co…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-24 13:47:25 UTC] [UPD]   📢 📦 minhleeee123/iExec-WTF-Hackathon-Summer-Edition
+     ⭐ 0  🗣 JavaScript  📅 2026-07-22
+     🔗 https://github.com/minhleeee123/iExec-WTF-Hackathon-Summer-Edition
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-24 13:47:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-24 13:47:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-24 13:47:27 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-24 13:47:27 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-24 13:47:27 UTC] [NEW]   🆕 📦 marenace380/marenace380
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/marenace380/marenace380
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 13:47:27 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-24 13:47:27 UTC] [UPD]   📢 📦 soralis0912/aristotle-root
+     ⭐ 0  🗣 C  📅 2026-07-24
+     🔗 https://github.com/soralis0912/aristotle-root
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-24 13:47:27 UTC] [UPD]   📢 📦 Muhammedpirani/9.60
+     ⭐ 0  🗣 JavaScript  📅 2026-07-23
+     🔗 https://github.com/Muhammedpirani/9.60
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-24 13:47:27 UTC] [UPD]   📢 📦 wesso-dev/wesso-dev
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/wesso-dev/wesso-dev
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-24 13:47:27 UTC] [INFO] ============================================================
+[2026-07-24 13:47:27 UTC] [INFO] Completato — 24 nuovi, 11 aggiornati, 0 errori
+[2026-07-24 13:47:27 UTC] [INFO] ============================================================
