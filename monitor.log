@@ -45464,3 +45464,190 @@
 [2026-07-24 13:47:27 UTC] [INFO] ============================================================
 [2026-07-24 13:47:27 UTC] [INFO] Completato — 24 nuovi, 11 aggiornati, 0 errori
 [2026-07-24 13:47:27 UTC] [INFO] ============================================================
+[2026-07-24 19:26:25 UTC] [INFO] ============================================================
+[2026-07-24 19:26:25 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-24 19:26:25 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-24 19:26:25 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-24 19:26:25 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-24 19:26:25 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-24 19:26:25 UTC] [INFO] ============================================================
+[2026-07-24 19:26:25 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-24 19:26:25 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-24 19:26:27 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-24 19:26:27 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-24 19:26:27 UTC] [NEW]   🆕 📦 n0qword/byovdmporium
+     ⭐ 1  🗣 C++  📅 2026-07-24
+     🔗 https://github.com/n0qword/byovdmporium
+     📝 Personal repository for research on BYOVD and kernel exploitation
+     🏷  —
+[2026-07-24 19:26:27 UTC] [NEW]   🆕 📦 trezorrrlarps/Lolbindriverdetector
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/trezorrrlarps/Lolbindriverdetector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 19:26:27 UTC] [NEW]   🆕 📦 magicsword-io/Magic-Atomics
+     ⭐ 1  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/magicsword-io/Magic-Atomics
+     📝 Prevention-focused living-off-the-land testing framework mapped to MITRE ATT&CK.
+     🏷  —
+[2026-07-24 19:26:27 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-24 19:26:27 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-24 19:26:27 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-24 19:26:27 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-24 19:26:27 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-24 19:26:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 simohowaanaa/dfir-learning-path
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/simohowaanaa/dfir-learning-path
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 atharv1945/Argus
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/atharv1945/Argus
+     📝 AI-Powered Behavioral Anomaly Detection for Cybersecurity
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 GofMan5/secure-software
+     ⭐ 2  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/GofMan5/secure-software
+     📝 Adversarial, evidence-driven security engineering plugin for Codex
+     🏷  appsec, codex, codex-skill, cybersecurity, devsecops, mitre-attack, openai, owasp, reverse-engineering, security-audit, threat-modeling
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 mikionakamaru/Relatorio-Conformidade-Defender
+     ⭐ 1  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/mikionakamaru/Relatorio-Conformidade-Defender
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 Satya23BDS0326/honeywell-forge-security
+     ⭐ 1  🗣 HTML  📅 2026-07-24
+     🔗 https://github.com/Satya23BDS0326/honeywell-forge-security
+     📝 Honeywell Forge Autonomous AI Behavioral Anomaly Engine (AB-BMS Guard)
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 InSilicoDynamics/EColi-Membrane-Thanatin-MD-Simulation
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/InSilicoDynamics/EColi-Membrane-Thanatin-MD-Simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 AchyuthNamburi/Endpoint-Process_Monitor-
+     ⭐ 0  🗣 C++  📅 2026-07-24
+     🔗 https://github.com/AchyuthNamburi/Endpoint-Process_Monitor-
+     📝 A daemon-based system monitor that watches every process on your machine, tracks…
+     🏷  anamoly-detection, cpp, cybersecurity, process-monitor, python, real-time-monitoring, system-monitoring
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 SanjayKotabagi/SoC-Alert-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/SanjayKotabagi/SoC-Alert-Investigation
+     📝 This collection features 50 real-world threat investigation scenarios across 10 …
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 nachdath-cm/SOC-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/nachdath-cm/SOC-Detection-Lab
+     📝 Mise en place d'un laboratoire de détection SOC avec Wazuh, Sysmon et Windows 11…
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 didjas88-bot/reports-INC-2026-22-07-001
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/didjas88-bot/reports-INC-2026-22-07-001
+     📝 Целевая атака с применением вредоносного ПО класса "downloader/bot" с функцией э…
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 hello-sami/deHDR
+     ⭐ 0  🗣 Swift  📅 2026-07-24
+     🔗 https://github.com/hello-sami/deHDR
+     📝 Stop HDR content from blowing out your Mac's screen — a lightweight, permission-…
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 deva0x/since
+     ⭐ 1  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/deva0x/since
+     📝 A plain-language, severity-ranked daily diff of your Mac — startup items, listen…
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 geethapriyakarthic09/Cybershield-AI
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/geethapriyakarthic09/Cybershield-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 JoshOmoruyi/linux-edr
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/JoshOmoruyi/linux-edr
+     📝 Endpoint Detection Response System implemented in linux via Ubuntu.
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 MHT-LAB/huntress-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/MHT-LAB/huntress-soc-lab
+     📝 Working log from a live Huntress SOC platform trial
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 sahay-aaditya-raj/sahay-aaditya-raj
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/sahay-aaditya-raj/sahay-aaditya-raj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 vdhnvys20/vulnerability-lifecycle-grc
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/vdhnvys20/vulnerability-lifecycle-grc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 davivais999/teste-2
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/davivais999/teste-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 magicsword-io/Magic-Atomics
+     ⭐ 1  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/magicsword-io/Magic-Atomics
+     📝 Prevention-focused living-off-the-land testing framework mapped to MITRE ATT&CK.
+     🏷  —
+[2026-07-24 19:26:29 UTC] [NEW]   🆕 📦 ryanhristovski/firefox-to-chrome-bookmarks
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/ryanhristovski/firefox-to-chrome-bookmarks
+     📝 This keeps a one-directional sync: Firefox is the source of truth, and Chrome's …
+     🏷  —
+[2026-07-24 19:26:29 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-24 19:26:29 UTC] [UPD]   📢 📦 Terralyp/SunloginLP-Eanalysis-tool
+     ⭐ 0  🗣 C++  📅 2026-07-24
+     🔗 https://github.com/Terralyp/SunloginLP-Eanalysis-tool
+     📝 SunloginLPE is a local verification and analysis tool designed to help researche…
+     🏷  controlled-vulnerability-study, cve-analysis, cybersecurity, documentation, exploit-analysis, local-privilege-escalation, local-verification-tool, lpe-research-project, malware-analysis, privilege-escalation-analysis, reverse-engineering, security-research, security-tools, sunlogin, sunlogin-analysis-tool, sunlogin-lpe-research, sunloginlpe, vulnerability-research, windows-security
+     🔄 Motivo: repo recente (0gg)
+[2026-07-24 19:26:29 UTC] [UPD]   📢 📦 rethiofficial1828-reka/Team-Titans
+     ⭐ 0  🗣 Rust  📅 2026-07-24
+     🔗 https://github.com/rethiofficial1828-reka/Team-Titans
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-24 19:26:29 UTC] [UPD]   📢 📦 Sazidul0/SOC-Chronicle
+     ⭐ 1  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/Sazidul0/SOC-Chronicle
+     📝 Open-source SOC investigation engine for automated attack analysis and incident …
+     🏷  cybersecurity, digital-forensics, incident-response, mitre-attack, python, security-automation, soc, threat-intelligence
+     🔄 Motivo: repo recente (0gg) | nuovi topic: soc, security-automation, mitre-attack, incident-response, threat-intelligence, cybersecurity, python, digital-forensics
+[2026-07-24 19:26:29 UTC] [UPD]   📢 📦 bj112233/sentinel-agent
+     ⭐ 1  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/bj112233/sentinel-agent
+     📝 Local-first threat detection agent for Windows. Runs a 4B-parameter LLM (Qwen3.5…
+     🏷  agentic-ai, local-llm, mitre-attack, python, security-agent, threat-detection
+     🔄 Motivo: repo recente (1gg)
+[2026-07-24 19:26:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-24 19:26:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-24 19:26:31 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-24 19:26:31 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-24 19:26:31 UTC] [NEW]   🆕 📦 n0qword/byovdmporium
+     ⭐ 1  🗣 C++  📅 2026-07-24
+     🔗 https://github.com/n0qword/byovdmporium
+     📝 Personal repository for research on BYOVD and kernel exploitation
+     🏷  —
+[2026-07-24 19:26:31 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-24 19:26:31 UTC] [UPD]   📢 📦 soralis0912/aristotle-root
+     ⭐ 1  🗣 C  📅 2026-07-24
+     🔗 https://github.com/soralis0912/aristotle-root
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-24 19:26:31 UTC] [INFO] ============================================================
+[2026-07-24 19:26:31 UTC] [INFO] Completato — 24 nuovi, 7 aggiornati, 0 errori
+[2026-07-24 19:26:31 UTC] [INFO] ============================================================
