@@ -44918,3 +44918,167 @@
 [2026-07-23 19:20:09 UTC] [INFO] ============================================================
 [2026-07-23 19:20:09 UTC] [INFO] Completato — 15 nuovi, 6 aggiornati, 0 errori
 [2026-07-23 19:20:09 UTC] [INFO] ============================================================
+[2026-07-24 02:47:01 UTC] [INFO] ============================================================
+[2026-07-24 02:47:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-24 02:47:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-24 02:47:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-24 02:47:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-24 02:47:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-24 02:47:01 UTC] [INFO] ============================================================
+[2026-07-24 02:47:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-24 02:47:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-24 02:47:03 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-24 02:47:03 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-24 02:47:03 UTC] [NEW]   🆕 📦 nks1097/WAZUH_SYSMON_RULES
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/nks1097/WAZUH_SYSMON_RULES
+     📝 Wazuh Ruleset - Sysmon Complete & Enhanced Security Rules v5.0 (Ultimate SOC)
+     🏷  —
+[2026-07-24 02:47:03 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-24 02:47:03 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 12  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-24 02:47:03 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-24 02:47:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-24 02:47:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-24 02:47:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 alexyudragonsword-collab/polar_tx
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/alexyudragonsword-collab/polar_tx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 ptwistedworld/escanor
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/ptwistedworld/escanor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 Cryptix-Security/ztca
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/Cryptix-Security/ztca
+     📝 Utility to add Zero Trust certs (like ZScalar) to all certificate stores on a co…
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 MintKangaroo/Cyber-Offensive-and-Defensive-Exercise
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/MintKangaroo/Cyber-Offensive-and-Defensive-Exercise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 Pp5901/cybersecurity-skills-router
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/Pp5901/cybersecurity-skills-router
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 artschekoff/egress-guard
+     ⭐ 0  🗣 Shell  📅 2026-07-24
+     🔗 https://github.com/artschekoff/egress-guard
+     📝 Domain-allowlist egress firewall for CI runners — actually blocks non-allowliste…
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 goldsimchoi/rootkit_edr
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/goldsimchoi/rootkit_edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 takuyatakahamaT/photoedit
+     ⭐ 0  🗣 Swift  📅 2026-07-24
+     🔗 https://github.com/takuyatakahamaT/photoedit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 DanielaBenitezHipolito/RequirementsCopilot
+     ⭐ 0  🗣 C#  📅 2026-07-23
+     🔗 https://github.com/DanielaBenitezHipolito/RequirementsCopilot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 eualannascimento/windows-otimiza
+     ⭐ 0  🗣 PowerShell  📅 2026-07-24
+     🔗 https://github.com/eualannascimento/windows-otimiza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 narasast/agentic-cybersecurity-defense
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/narasast/agentic-cybersecurity-defense
+     📝 A plan and implmentation details for a fully automated agent-based cyber securit…
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 ovsh/powerwatch
+     ⭐ 0  🗣 HTML  📅 2026-07-23
+     🔗 https://github.com/ovsh/powerwatch
+     📝 Battery-drain monitor for Apple Silicon Macs — real watts, per-app attribution, …
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 tekgrunt/visual-recognition
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/tekgrunt/visual-recognition
+     📝 Local, no-cloud object detection + traffic survey for Apple Silicon. YOLO + Byte…
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 luferojasv/auria
+     ⭐ 0  🗣 Dart  📅 2026-07-23
+     🔗 https://github.com/luferojasv/auria
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 Scottlexium/npm-malware-scanner
+     ⭐ 1  🗣 Shell  📅 2026-07-23
+     🔗 https://github.com/Scottlexium/npm-malware-scanner
+     📝 Scanner and remediation toolkit for an npm supply-chain malware campaign (patche…
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 Tacha8/Enterprise-Endpoint-Compromise-Investigation-and-Attack-Reconstruction
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/Tacha8/Enterprise-Endpoint-Compromise-Investigation-and-Attack-Reconstruction
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 Hazratqul21/cyberc
+     ⭐ 0  🗣 JavaScript  📅 2026-07-23
+     🔗 https://github.com/Hazratqul21/cyberc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 daman92/BlueTeamEngagement
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/daman92/BlueTeamEngagement
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 jess0133/proyect_beta_amiloid
+     ⭐ 0  🗣 C++  📅 2026-07-23
+     🔗 https://github.com/jess0133/proyect_beta_amiloid
+     📝 Dinámica molecular de una fibrilla de Aβ42 (2NAO) bajo campos magnéticos homogén…
+     🏷  —
+[2026-07-24 02:47:05 UTC] [NEW]   🆕 📦 AshwinNHacker/rulesentry
+     ⭐ 0  🗣 Python  📅 2026-07-23
+     🔗 https://github.com/AshwinNHacker/rulesentry
+     📝 RuleSentry is a Detection-as-Code linter that analyzes Sigma and YARA rules to f…
+     🏷  —
+[2026-07-24 02:47:05 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-24 02:47:05 UTC] [UPD]   📢 📦 deeprooter/Project-NEXUS-Unified-Threat-Intelligence-Automated-IDPS
+     ⭐ 0  🗣 N/A  📅 2026-07-22
+     🔗 https://github.com/deeprooter/Project-NEXUS-Unified-Threat-Intelligence-Automated-IDPS
+     📝 An ISO/SAE 21434-aligned SIEM/SOAR infrastructure using Wazuh, Splunk, and ChatO…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-24 02:47:05 UTC] [UPD]   📢 📦 captivatortechnologies/veltrix-community
+     ⭐ 0  🗣 TypeScript  📅 2026-07-19
+     🔗 https://github.com/captivatortechnologies/veltrix-community
+     📝 Open-source, self-hostable Security-as-Code platform. Manage security-tool confi…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-24 02:47:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-24 02:47:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-24 02:47:07 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-24 02:47:07 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-24 02:47:07 UTC] [NEW]   🆕 📦 UNIFEI-CDA/ozz-halctf
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/UNIFEI-CDA/ozz-halctf
+     📝 🏴 Autonomous Pentesting Agent — DEF CON 34 AI Village HALctf. Built on MNHI 3.5 …
+     🏷  —
+[2026-07-24 02:47:07 UTC] [NEW]   🆕 📦 FernandoCassioDev/CVE-2015-1328
+     ⭐ 0  🗣 N/A  📅 2026-07-23
+     🔗 https://github.com/FernandoCassioDev/CVE-2015-1328
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-24 02:47:07 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-24 02:47:07 UTC] [INFO] ============================================================
+[2026-07-24 02:47:07 UTC] [INFO] Completato — 23 nuovi, 4 aggiornati, 0 errori
+[2026-07-24 02:47:07 UTC] [INFO] ============================================================
