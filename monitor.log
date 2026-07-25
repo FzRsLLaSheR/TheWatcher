@@ -45651,3 +45651,140 @@
 [2026-07-24 19:26:31 UTC] [INFO] ============================================================
 [2026-07-24 19:26:31 UTC] [INFO] Completato — 24 nuovi, 7 aggiornati, 0 errori
 [2026-07-24 19:26:31 UTC] [INFO] ============================================================
+[2026-07-25 02:45:45 UTC] [INFO] ============================================================
+[2026-07-25 02:45:45 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-25 02:45:45 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-25 02:45:45 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-25 02:45:45 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-25 02:45:45 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-25 02:45:45 UTC] [INFO] ============================================================
+[2026-07-25 02:45:45 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-25 02:45:45 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-25 02:45:47 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-25 02:45:47 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-25 02:45:47 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-25 02:45:47 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-25 02:45:47 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-25 02:45:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-25 02:45:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-25 02:45:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 sysbylauren/soc-monitoring
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/sysbylauren/soc-monitoring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 Nezheg0l/automated-soc-triad-soar
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/Nezheg0l/automated-soc-triad-soar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 mister-guiiug/mister-commitia
+     ⭐ 0  🗣 Rust  📅 2026-07-24
+     🔗 https://github.com/mister-guiiug/mister-commitia
+     📝 Étude make-or-buy et architecture d'une application desktop de réécriture contrô…
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 antoniomalheirs/Guardian
+     ⭐ 0  🗣 TypeScript  📅 2026-07-24
+     🔗 https://github.com/antoniomalheirs/Guardian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 asvased/half-way-process-hollowing
+     ⭐ 0  🗣 C#  📅 2026-07-24
+     🔗 https://github.com/asvased/half-way-process-hollowing
+     📝 OPSEC-safe shellcode loader — half-way process hollowing in C#. No unbacked RX r…
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 mirasayon/FileIntegrityMonitor
+     ⭐ 0  🗣 C#  📅 2026-07-24
+     🔗 https://github.com/mirasayon/FileIntegrityMonitor
+     📝 Кроссплатформенный монитор целостности файлов для Windows и Linux.
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 aantoniogarciaa-dev/SOC1-Labs-Portfolio
+     ⭐ 1  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/aantoniogarciaa-dev/SOC1-Labs-Portfolio
+     📝 Investigaciones prácticas de alertas de seguridad en entornos SOC de laboratorio…
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 tridibghosh-acccenture/ZTA-ZeroTrustAdvisory
+     ⭐ 0  🗣 HTML  📅 2026-07-24
+     🔗 https://github.com/tridibghosh-acccenture/ZTA-ZeroTrustAdvisory
+     📝 AI-Powered Zero Trust Maturity Assessment & Security Posture Platform - Enterpri…
+     🏷  ai, cisa, claude-ai, cybersecurity, docker, enterprise-security, fastapi, maturity-model, nist, postgresql, pydantic-ai, python, react, redis, security, security-assessment, tailwindcss, typescript, vite, zero-trust
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 Arnav-005/soc-incident-response-platform
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/Arnav-005/soc-incident-response-platform
+     📝 AI-powered SOC incident response pipeline built in n8n : ingests alerts from het…
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 maniopsecgit/log-ops
+     ⭐ 0  🗣 Shell  📅 2026-07-24
+     🔗 https://github.com/maniopsecgit/log-ops
+     📝 log_ops.sh — Post-exploitation log management for Linux targets: discover loggin…
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 okuhle2026/Common-Cyber-Threats
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/okuhle2026/Common-Cyber-Threats
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 sat720/brig_idea
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/sat720/brig_idea
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 02:45:49 UTC] [NEW]   🆕 📦 brayan23R/CIBERAURORA
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/brayan23R/CIBERAURORA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 02:45:49 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-25 02:45:49 UTC] [UPD]   📢 📦 edward960117/edru-patisserie
+     ⭐ 1  🗣 TypeScript  📅 2026-07-24
+     🔗 https://github.com/edward960117/edru-patisserie
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-25 02:45:49 UTC] [UPD]   📢 📦 alexyudragonsword-collab/polar_tx
+     ⭐ 1  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/alexyudragonsword-collab/polar_tx
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-25 02:45:49 UTC] [UPD]   📢 📦 rethiofficial1828-reka/Team-Titans
+     ⭐ 0  🗣 Rust  📅 2026-07-24
+     🔗 https://github.com/rethiofficial1828-reka/Team-Titans
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-25 02:45:49 UTC] [UPD]   📢 📦 Terralyp/SunloginLP-Eanalysis-tool
+     ⭐ 0  🗣 C++  📅 2026-07-24
+     🔗 https://github.com/Terralyp/SunloginLP-Eanalysis-tool
+     📝 SunloginLPE is a local verification and analysis tool designed to help researche…
+     🏷  controlled-vulnerability-study, cve-analysis, cybersecurity, documentation, exploit-analysis, local-privilege-escalation, local-verification-tool, lpe-research-project, malware-analysis, privilege-escalation-analysis, reverse-engineering, security-research, security-tools, sunlogin, sunlogin-analysis-tool, sunlogin-lpe-research, sunloginlpe, vulnerability-research, windows-security
+     🔄 Motivo: repo recente (0gg)
+[2026-07-25 02:45:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-25 02:45:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-25 02:45:51 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-25 02:45:51 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-25 02:45:51 UTC] [NEW]   🆕 📦 vladimiryaroslav/Kali-Linux-Cheat-Sheet
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/vladimiryaroslav/Kali-Linux-Cheat-Sheet
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 02:45:51 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-25 02:45:51 UTC] [UPD]   📢 📦 soralis0912/aristotle-root
+     ⭐ 1  🗣 C  📅 2026-07-24
+     🔗 https://github.com/soralis0912/aristotle-root
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-25 02:45:51 UTC] [INFO] ============================================================
+[2026-07-25 02:45:51 UTC] [INFO] Completato — 14 nuovi, 7 aggiornati, 0 errori
+[2026-07-25 02:45:51 UTC] [INFO] ============================================================
