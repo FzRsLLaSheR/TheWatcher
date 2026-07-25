@@ -45928,3 +45928,193 @@
 [2026-07-25 08:07:55 UTC] [INFO] ============================================================
 [2026-07-25 08:07:55 UTC] [INFO] Completato — 11 nuovi, 10 aggiornati, 0 errori
 [2026-07-25 08:07:55 UTC] [INFO] ============================================================
+[2026-07-25 13:36:46 UTC] [INFO] ============================================================
+[2026-07-25 13:36:46 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-25 13:36:46 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-25 13:36:46 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-25 13:36:46 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-25 13:36:46 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-25 13:36:46 UTC] [INFO] ============================================================
+[2026-07-25 13:36:46 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-25 13:36:46 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-25 13:36:47 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-25 13:36:47 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-25 13:36:47 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-25 13:36:47 UTC] [UPD]   📢 📦 0xwarl0ck/ExploitPeek
+     ⭐ 1  🗣 C#  📅 2026-07-22
+     🔗 https://github.com/0xwarl0ck/ExploitPeek
+     📝 Security Engineering 'first look' suite
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-25 13:36:47 UTC] [UPD]   📢 📦 CroatiaSecurity/Behavedr
+     ⭐ 0  🗣 C#  📅 2026-07-18
+     🔗 https://github.com/CroatiaSecurity/Behavedr
+     📝 Multi-platform behavioral EDR: Windows, Linux, macOS, Android, iOS.
+     🏷  android, edr, ids, iphone, linux, macos, threat-detection, windows
+     🔄 Motivo: repo recente (6gg)
+[2026-07-25 13:36:47 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-25 13:36:47 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-25 13:36:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-25 13:36:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-25 13:36:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 habayadein/edrbzr
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/habayadein/edrbzr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 kuotunyu/local-llm-mcp
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/kuotunyu/local-llm-mcp
+     📝 把摘要、翻譯、資訊抽取這類敏感任務委派給local端Ollama上的開源模型執行，文件內容不離開本機。完整實作MCP的Tools/Resources/Promp…
+     🏷  fastmcp, local-llm, mcp, model-context-protocol, ollama, privacy, python
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 tubededentifrice/espclock
+     ⭐ 0  🗣 C++  📅 2026-07-25
+     🔗 https://github.com/tubededentifrice/espclock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 ShaikMazher/BioSignal-Monitoring
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/ShaikMazher/BioSignal-Monitoring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 LurkSec/EDR-Coverage-Validator
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/LurkSec/EDR-Coverage-Validator
+     📝 Automated harness to validate Windows EDR & Sysmon telemetry generation against …
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 NeethutBiju/PWNDORA-BasLab---Breach-Attck-Simulation-Training-Module-
+     ⭐ 0  🗣 HTML  📅 2026-07-25
+     🔗 https://github.com/NeethutBiju/PWNDORA-BasLab---Breach-Attck-Simulation-Training-Module-
+     📝 An interactive Breach & Attack Simulation (BAS) platform for SOC analyst trainin…
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 Cyber-Naveen/DFIR-02
+     ⭐ 0  🗣 JavaScript  📅 2026-07-25
+     🔗 https://github.com/Cyber-Naveen/DFIR-02
+     📝 KGiSL Hackathon
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 N1s0n/tg-web-session-hijack
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/N1s0n/tg-web-session-hijack
+     📝 PoC: Telegram Web session hijacking via stolen dc_auth_key  — pentest toolkit,  …
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 R3s3arcmSureness/agentguard
+     ⭐ 0  🗣 Go  📅 2026-07-25
+     🔗 https://github.com/R3s3arcmSureness/agentguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 rahul0xkr/rahul0xkr
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/rahul0xkr/rahul0xkr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 Franklin-Joshua/PWNDORA-IR-Lab
+     ⭐ 0  🗣 TypeScript  📅 2026-07-25
+     🔗 https://github.com/Franklin-Joshua/PWNDORA-IR-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 karanparmar729-bot/SOC-Credential-Dumping-Detection
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/karanparmar729-bot/SOC-Credential-Dumping-Detection
+     📝 Detecting OS Credential Dumping (LSASS Memory Abuse) using Sysmon & Splunk Enter…
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 rupeshkumar10395-png/Sentinel-honeypot
+     ⭐ 0  🗣 JavaScript  📅 2026-07-25
+     🔗 https://github.com/rupeshkumar10395-png/Sentinel-honeypot
+     📝 Watches a decoy folder for ransomware-style behavior — rapid encryption, suspici…
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 nsmadheshwaran/TraceX
+     ⭐ 0  🗣 JavaScript  📅 2026-07-25
+     🔗 https://github.com/nsmadheshwaran/TraceX
+     📝 TRACE-X is an interactive cybersecurity investigation simulator where users anal…
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 HoangEditor/embroidery-converter
+     ⭐ 0  🗣 HTML  📅 2026-07-25
+     🔗 https://github.com/HoangEditor/embroidery-converter
+     📝 Free embroidery file converter — convert between DST, PES, JEF, EXP and 40+ form…
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 Vincent-P-essy/playbook-automator
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/Vincent-P-essy/playbook-automator
+     📝 A minimal SOAR that defaults to doing nothing: dry run by default, approval on i…
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 gokulanandh-21/sigma-academy
+     ⭐ 0  🗣 TypeScript  📅 2026-07-25
+     🔗 https://github.com/gokulanandh-21/sigma-academy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 eris32/About-ME-
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/eris32/About-ME-
+     📝 Red Team Operator | Offensive Security Researcher | Adversary Emulation
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 saravanabalajisciet-crypto/TraceForge
+     ⭐ 0  🗣 TypeScript  📅 2026-07-25
+     🔗 https://github.com/saravanabalajisciet-crypto/TraceForge
+     📝 An Online based  DFFIR lab
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 vllslnt/SIEM-and-XDR-on-Homelab
+     ⭐ 0  🗣 N/A  📅 2026-07-24
+     🔗 https://github.com/vllslnt/SIEM-and-XDR-on-Homelab
+     📝 This project aims to document my hands-on experimentation of SIEM and XDR using …
+     🏷  cybersecurity-tools, dashboard, network-analysis, network-security, siem, ubuntu-server, wazuh, windows, xdr
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 Espresso115/active-directory-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/Espresso115/active-directory-lab
+     📝 A simple Active Directory walkthrough covering lab setup, attack demonstrations,…
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 kishorerajpriyan-lgtm/Ai_driven_next_generation_firewall
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/kishorerajpriyan-lgtm/Ai_driven_next_generation_firewall
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 Juhannuspukki/dynamic-range-extender
+     ⭐ 0  🗣 Shell  📅 2026-07-24
+     🔗 https://github.com/Juhannuspukki/dynamic-range-extender
+     📝 Creates UltraHDR heic files from JPEG and TIFF inputs.
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 pranayesse/soc-alert-analytics
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/pranayesse/soc-alert-analytics
+     📝 Flask + PostgreSQL dashboard over synthetic SOC alert data: MTTR, auto-close rat…
+     🏷  —
+[2026-07-25 13:36:50 UTC] [NEW]   🆕 📦 sajjadgill720/kittydetector
+     ⭐ 0  🗣 TypeScript  📅 2026-07-25
+     🔗 https://github.com/sajjadgill720/kittydetector
+     📝 checks the pdfs for malicious activities.
+     🏷  —
+[2026-07-25 13:36:50 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-25 13:36:50 UTC] [UPD]   📢 📦 2026-Siheung-Bootcamp-Team-I/Frontend
+     ⭐ 0  🗣 TypeScript  📅 2026-07-22
+     🔗 https://github.com/2026-Siheung-Bootcamp-Team-I/Frontend
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-25 13:36:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-25 13:36:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-25 13:36:52 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-25 13:36:52 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-25 13:36:52 UTC] [NEW]   🆕 📦 rahul0xkr/rahul0xkr
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/rahul0xkr/rahul0xkr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 13:36:52 UTC] [NEW]   🆕 📦 tahaemamix/psfree
+     ⭐ 0  🗣 JavaScript  📅 2026-07-25
+     🔗 https://github.com/tahaemamix/psfree
+     📝 PSFree WebKit Exploit & Lapse Kernel Exploit v2.3 for PS4 7.00 - 9.60
+     🏷  —
+[2026-07-25 13:36:52 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-25 13:36:52 UTC] [INFO] ============================================================
+[2026-07-25 13:36:52 UTC] [INFO] Completato — 27 nuovi, 5 aggiornati, 0 errori
+[2026-07-25 13:36:52 UTC] [INFO] ============================================================
