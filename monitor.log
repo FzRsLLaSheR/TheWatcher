@@ -45788,3 +45788,143 @@
 [2026-07-25 02:45:51 UTC] [INFO] ============================================================
 [2026-07-25 02:45:51 UTC] [INFO] Completato — 14 nuovi, 7 aggiornati, 0 errori
 [2026-07-25 02:45:51 UTC] [INFO] ============================================================
+[2026-07-25 08:07:49 UTC] [INFO] ============================================================
+[2026-07-25 08:07:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-25 08:07:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-25 08:07:49 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-25 08:07:49 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-25 08:07:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-25 08:07:49 UTC] [INFO] ============================================================
+[2026-07-25 08:07:49 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-25 08:07:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-25 08:07:51 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-25 08:07:51 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-25 08:07:51 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-25 08:07:51 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-25 08:07:51 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-25 08:07:51 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-25 08:07:51 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-25 08:07:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 10 NUOVI repository:
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 JhonnyValdivieso/forensic-analysis-malware-case-study
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/JhonnyValdivieso/forensic-analysis-malware-case-study
+     📝 Forensic Malware Analysis & Incident Response Case Study on a Phishing Incident.
+     🏷  case-study, cybersecurity, digital-forensics, incident-response, phishing-analysis, soc, threat-analysis
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 karthikreddydyapa/karthikreddydyapa
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/karthikreddydyapa/karthikreddydyapa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 ransomwaredecryption/PleaseForgetMe
+     ⭐ 1  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/ransomwaredecryption/PleaseForgetMe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 kurumonn/EXkururuIPROSgemini
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/kurumonn/EXkururuIPROSgemini
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 liyinzoe/gemma-localsoc-guard
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/liyinzoe/gemma-localsoc-guard
+     📝 Offline agent action firewall for Gemma 4 blue-team workflows.
+     🏷  —
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 AbdelrahmanELSAYEDDD/EventLog-Analyzer
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/AbdelrahmanELSAYEDDD/EventLog-Analyzer
+     📝 Read-only Windows Event Log analyzer for blue-team investigation: normalizes exp…
+     🏷  —
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 kinzawakeel3-coder/Lumma-Stealer-Traffic-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/kinzawakeel3-coder/Lumma-Stealer-Traffic-Investigation
+     📝 SOC Analyst PCAP investigation of Lumma Stealer malware traffic using Wireshark
+     🏷  —
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 rorican4040/sigma
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/rorican4040/sigma
+     📝 fork of sigmaHQ
+     🏷  —
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 ashwanik0777/AI-Assistent-full
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/ashwanik0777/AI-Assistent-full
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 08:07:53 UTC] [NEW]   🆕 📦 beingtahiraziz/NeuroShield-AI-FYP-2027
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/beingtahiraziz/NeuroShield-AI-FYP-2027
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-25 08:07:53 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-07-25 08:07:53 UTC] [UPD]   📢 📦 MintKangaroo/Cyber-Offensive-and-Defensive-Exercise
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/MintKangaroo/Cyber-Offensive-and-Defensive-Exercise
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-25 08:07:53 UTC] [UPD]   📢 📦 qamro/blue-team-roadmap
+     ⭐ 1  🗣 JavaScript  📅 2026-07-21
+     🔗 https://github.com/qamro/blue-team-roadmap
+     📝 The most complete Blue Team cybersecurity roadmap ever built • structured, visua…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-25 08:07:53 UTC] [UPD]   📢 📦 hello-sami/deHDR
+     ⭐ 0  🗣 Swift  📅 2026-07-24
+     🔗 https://github.com/hello-sami/deHDR
+     📝 Stop HDR content from blowing out your Mac's screen — a lightweight, permission-…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-25 08:07:53 UTC] [UPD]   📢 📦 edward960117/edru-patisserie
+     ⭐ 1  🗣 TypeScript  📅 2026-07-24
+     🔗 https://github.com/edward960117/edru-patisserie
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-25 08:07:53 UTC] [UPD]   📢 📦 Terralyp/SunloginLP-Eanalysis-tool
+     ⭐ 0  🗣 C++  📅 2026-07-24
+     🔗 https://github.com/Terralyp/SunloginLP-Eanalysis-tool
+     📝 SunloginLPE is a local verification and analysis tool designed to help researche…
+     🏷  controlled-vulnerability-study, cve-analysis, cybersecurity, documentation, exploit-analysis, local-privilege-escalation, local-verification-tool, lpe-research-project, malware-analysis, privilege-escalation-analysis, reverse-engineering, security-research, security-tools, sunlogin, sunlogin-analysis-tool, sunlogin-lpe-research, sunloginlpe, vulnerability-research, windows-security
+     🔄 Motivo: repo recente (0gg)
+[2026-07-25 08:07:53 UTC] [UPD]   📢 📦 deva0x/since
+     ⭐ 1  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/deva0x/since
+     📝 A plain-language, severity-ranked daily diff of your Mac — startup items, listen…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-25 08:07:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-25 08:07:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-25 08:07:55 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-25 08:07:55 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-25 08:07:55 UTC] [NEW]   🆕 📦 cuteaplane/GhostLock-for-OnePlus15T
+     ⭐ 1  🗣 C  📅 2026-07-25
+     🔗 https://github.com/cuteaplane/GhostLock-for-OnePlus15T
+     📝 （CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加15T.
+     🏷  —
+[2026-07-25 08:07:55 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-25 08:07:55 UTC] [UPD]   📢 📦 UNIFEI-CDA/ozz-halctf
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/UNIFEI-CDA/ozz-halctf
+     📝 🏴 Autonomous Pentesting Agent — DEF CON 34 AI Village HALctf. Built on MNHI 3.5 …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-25 08:07:55 UTC] [UPD]   📢 📦 soralis0912/aristotle-root
+     ⭐ 1  🗣 C  📅 2026-07-24
+     🔗 https://github.com/soralis0912/aristotle-root
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-25 08:07:55 UTC] [INFO] ============================================================
+[2026-07-25 08:07:55 UTC] [INFO] Completato — 11 nuovi, 10 aggiornati, 0 errori
+[2026-07-25 08:07:55 UTC] [INFO] ============================================================
