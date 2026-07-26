@@ -46475,3 +46475,147 @@
 [2026-07-26 02:54:42 UTC] [INFO] ============================================================
 [2026-07-26 02:54:42 UTC] [INFO] Completato — 18 nuovi, 6 aggiornati, 0 errori
 [2026-07-26 02:54:42 UTC] [INFO] ============================================================
+[2026-07-26 08:27:41 UTC] [INFO] ============================================================
+[2026-07-26 08:27:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-26 08:27:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-26 08:27:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-26 08:27:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-26 08:27:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-26 08:27:41 UTC] [INFO] ============================================================
+[2026-07-26 08:27:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-26 08:27:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-26 08:27:42 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-26 08:27:42 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-26 08:27:42 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-26 08:27:42 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-26 08:27:42 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-26 08:27:42 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-26 08:27:42 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-26 08:27:45 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 dhithimos/Vigilant-Sphere
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/dhithimos/Vigilant-Sphere
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 rashedsumon/ai_soc_platform
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/rashedsumon/ai_soc_platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 PotateBulle/UE-Map-Guardian
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/PotateBulle/UE-Map-Guardian
+     📝 UE Map Guardian est un scanner expérimental créé après la découverte d’une map m…
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 sohamsinhax/Kronos
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/sohamsinhax/Kronos
+     📝 Cybersecurity program
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 ManeaAl-Shabrain/Ransomware-Detection-and-Response-as-a-Full-Incident
+     ⭐ 0  🗣 PowerShell  📅 2026-07-26
+     🔗 https://github.com/ManeaAl-Shabrain/Ransomware-Detection-and-Response-as-a-Full-Incident
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 Creck0/DLL-Injection-sim
+     ⭐ 0  🗣 N/A  📅 2026-07-26
+     🔗 https://github.com/Creck0/DLL-Injection-sim
+     📝 i've been created DLL injection without vibe coding
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 lukehazor-gif/EDRMS---V2
+     ⭐ 0  🗣 N/A  📅 2026-07-26
+     🔗 https://github.com/lukehazor-gif/EDRMS---V2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 kush-coder/autopilot-anthropic-cybersecurity-skills
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/kush-coder/autopilot-anthropic-cybersecurity-skills
+     📝 Official Build & Verified Release | 817 structured cybersecurity skills for AI a…
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 Bhoobesh1/SentinelAI
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/Bhoobesh1/SentinelAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 Tyler-Systems/Gilbreth
+     ⭐ 0  🗣 Rust  📅 2026-07-26
+     🔗 https://github.com/Tyler-Systems/Gilbreth
+     📝 A privacy-respecting time & motion study for your computer. Captures how you wor…
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 LurkSec/LurkSec-SOC-Lab
+     ⭐ 1  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/LurkSec/LurkSec-SOC-Lab
+     📝 Local SOC operations lab: live host telemetry, SIEM-style correlation, cases, an…
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 shailesh-kumar-gupta-06/SZ-MVP1
+     ⭐ 0  🗣 HTML  📅 2026-07-26
+     🔗 https://github.com/shailesh-kumar-gupta-06/SZ-MVP1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 LurkSec/LurkSec-ETW-Provider-Lab
+     ⭐ 0  🗣 C#  📅 2026-07-26
+     🔗 https://github.com/LurkSec/LurkSec-ETW-Provider-Lab
+     📝 ETW provider enumeration and patching-simulation lab (enumerate real, patch simu…
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 Lucifer-AI-666/tauros-mobile-sentinel
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/Lucifer-AI-666/tauros-mobile-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:45 UTC] [NEW]   🆕 📦 JAISHREE-BABU/CyberForge_UsingGAN
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/JAISHREE-BABU/CyberForge_UsingGAN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:45 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-26 08:27:45 UTC] [UPD]   📢 📦 Trivexqbk/iMonitor-System-Activity-Monitor
+     ⭐ 1  🗣 C++  📅 2026-07-25
+     🔗 https://github.com/Trivexqbk/iMonitor-System-Activity-Monitor
+     📝 powerful endpoint behavior analysis system and system activity monitor real-time…
+     🏷  cybersecurity, edr, endpoint-behavior-analysis, endpoint-monitoring, endpoint-security, endpoint-telemetry-suite, imonitor-system-activity-monitor, live-process-inspector, low-level-system-monitor, malware-analysis, process-monitoring, process-telemetry-tool, reverse-engineering, runtime-inspection, security-tools, system-activity, system-activity-monitor, telemetry, windows-security
+     🔄 Motivo: repo recente (0gg)
+[2026-07-26 08:27:45 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-26 08:27:45 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-26 08:27:47 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-26 08:27:47 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-07-26 08:27:47 UTC] [NEW]   🆕 📦 iraklizurashvili/privesc-scan
+     ⭐ 0  🗣 Shell  📅 2026-07-26
+     🔗 https://github.com/iraklizurashvili/privesc-scan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:47 UTC] [NEW]   🆕 📦 T-Of-Me/SKILL
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/T-Of-Me/SKILL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 08:27:47 UTC] [NEW]   🆕 📦 SunnyThakur25/CTF
+     ⭐ 0  🗣 Shell  📅 2026-07-26
+     🔗 https://github.com/SunnyThakur25/CTF
+     📝 WEB CTF
+     🏷  —
+[2026-07-26 08:27:47 UTC] [NEW]   🆕 📦 xldrx/rl-training-sandboxes
+     ⭐ 0  🗣 N/A  📅 2026-07-26
+     🔗 https://github.com/xldrx/rl-training-sandboxes
+     📝 Survey of sandbox infrastructure for RL training of LLM agents: tooling, Python …
+     🏷  —
+[2026-07-26 08:27:47 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-26 08:27:47 UTC] [UPD]   📢 📦 suchitchopade3110-arch/autoresearch_lite
+     ⭐ 1  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/suchitchopade3110-arch/autoresearch_lite
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-26 08:27:47 UTC] [INFO] ============================================================
+[2026-07-26 08:27:47 UTC] [INFO] Completato — 19 nuovi, 4 aggiornati, 0 errori
+[2026-07-26 08:27:47 UTC] [INFO] ============================================================
