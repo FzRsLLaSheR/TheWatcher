@@ -46811,3 +46811,234 @@
 [2026-07-26 13:25:06 UTC] [INFO] ============================================================
 [2026-07-26 13:25:06 UTC] [INFO] Completato — 31 nuovi, 2 aggiornati, 0 errori
 [2026-07-26 13:25:06 UTC] [INFO] ============================================================
+[2026-07-26 19:12:44 UTC] [INFO] ============================================================
+[2026-07-26 19:12:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-26 19:12:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-26 19:12:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-26 19:12:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-26 19:12:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-26 19:12:44 UTC] [INFO] ============================================================
+[2026-07-26 19:12:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-26 19:12:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-26 19:12:46 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-26 19:12:46 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-26 19:12:46 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-26 19:12:46 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-26 19:12:46 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-26 19:12:46 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-26 19:12:48 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 ObtuseAI/nimrod
+     ⭐ 1  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/ObtuseAI/nimrod
+     📝 Constitutional cyber-defense research with replay-first evidence, fail-closed au…
+     🏷  blue-team, cyber-defense, cybersecurity, formal-verification, governance, json-schema, local-first
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 ysellami2000/edr-log-normalizer
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/ysellami2000/edr-log-normalizer
+     📝 Normalize heterogeneous EDR/XDR alerts (Defender, CrowdStrike, SentinelOne, Cort…
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 petroplaku/athena_itd_tool
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/petroplaku/athena_itd_tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 sh4lk/Oculus
+     ⭐ 0  🗣 N/A  📅 2026-07-26
+     🔗 https://github.com/sh4lk/Oculus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 greybubghill/edrwda
+     ⭐ 0  🗣 N/A  📅 2026-07-26
+     🔗 https://github.com/greybubghill/edrwda
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 Aditya-Sec/SIEM-Tool-Matrix
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/Aditya-Sec/SIEM-Tool-Matrix
+     📝 All 24 major SIEM platforms researched and compared, with a real, verified Sigma…
+     🏷  chronicle, crowdstrike, cybersecurity, detection-engineering, elastic-security, microsoft-sentinel, qradar, siem, sigma-rules, splunk
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 AbhayKTS/mainbrain
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/AbhayKTS/mainbrain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 Zachary200114/ThreatSequence
+     ⭐ 0  🗣 TypeScript  📅 2026-07-26
+     🔗 https://github.com/Zachary200114/ThreatSequence
+     📝 AI-powered security operations and threat-sequence analysis prototype
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 WismanSec/sharepoint-2026-poc
+     ⭐ 0  🗣 HTML  📅 2026-07-26
+     🔗 https://github.com/WismanSec/sharepoint-2026-poc
+     📝 POC and Artifacts for 
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 SAMINA-PARVEEN/tracelens-ai
+     ⭐ 0  🗣 TypeScript  📅 2026-07-26
+     🔗 https://github.com/SAMINA-PARVEEN/tracelens-ai
+     📝 AI-Powered Digital Investigation Platform
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 Script-Kitty01/columbina--ai-powered-edr-system
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/Script-Kitty01/columbina--ai-powered-edr-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 Monkmode-tech/enterprise-cybersecurity-modernization
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/Monkmode-tech/enterprise-cybersecurity-modernization
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 Bagarok/edrum2pad
+     ⭐ 0  🗣 N/A  📅 2026-07-26
+     🔗 https://github.com/Bagarok/edrum2pad
+     📝 conversor MIDI (inicialmente para dispositivo millenium MD-90) a controlador par…
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 pawan-cyber01/cyberproject4-keylogger
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/pawan-cyber01/cyberproject4-keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 damnkrishna/Detection-Engineering-Ruleset
+     ⭐ 0  🗣 N/A  📅 2026-07-26
+     🔗 https://github.com/damnkrishna/Detection-Engineering-Ruleset
+     📝 Mapping 550+ detection rules to actionable telemetry. This repo provides the rul…
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 sarthakdev143-lite/sentinal
+     ⭐ 0  🗣 Nim  📅 2026-07-26
+     🔗 https://github.com/sarthakdev143-lite/sentinal
+     📝 Nim-based C2 framework (claude says this a *R@T* btw) built for red team ops, We…
+     🏷  adversary-emulation, c2, c2-framework, implant, nim, nim-lang, offensive-security, penetration-testing, post-exploitation, red-team, redteam-tools, security-research
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 vedanthatekar/Honeywell-AI-Behavioral-Anomaly-Detection
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/vedanthatekar/Honeywell-AI-Behavioral-Anomaly-Detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 0xPR4V33N/soc-copilot
+     ⭐ 1  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/0xPR4V33N/soc-copilot
+     📝 Local, AI-assisted security event triage pipeline for Windows Sysmon logs.
+     🏷  analyzer, cybersecurity, lab, local-first, soc
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 xec412/NocturneLdr
+     ⭐ 4  🗣 C++  📅 2026-07-26
+     🔗 https://github.com/xec412/NocturneLdr
+     📝 A CET-compatible Windows x64 loader that produces fully backed call stacks throu…
+     🏷  callstack, cet, cet-bypass, evasion, malware-development, payload-loader, red-team, red-team-tools, stack-spoofing, windbg, windows-x64
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 arthhaaa/Edryan-Portoflio
+     ⭐ 0  🗣 TypeScript  📅 2026-07-26
+     🔗 https://github.com/arthhaaa/Edryan-Portoflio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 Tyrexs1/zta-sdn
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/Tyrexs1/zta-sdn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 devyanibishnoi/claire
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/devyanibishnoi/claire
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 abhiramj092-stack/mirai-malware-triage-project
+     ⭐ 0  🗣 N/A  📅 2026-07-26
+     🔗 https://github.com/abhiramj092-stack/mirai-malware-triage-project
+     📝 SOC malware triage & IOC extraction project — Mirai botnet case study
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 Mahmutekremacar/edr-security-pipeline
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/Mahmutekremacar/edr-security-pipeline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 arunsakthi2802-star/-XDR-Threat-Detection-Platform
+     ⭐ 0  🗣 TypeScript  📅 2026-07-26
+     🔗 https://github.com/arunsakthi2802-star/-XDR-Threat-Detection-Platform
+     📝 Enterprise-grade Extended Detection and Response (XDR) & Security Operations Cen…
+     🏷  —
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 Mukesh-cpu-gif/ThreatSOC
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/Mukesh-cpu-gif/ThreatSOC
+     📝 Evidence-first SOC investigation and detection-engineering platform with threat …
+     🏷  blue-team, cybersecurity, detection-engineering, fastapi, incident-response, mitre-attack, python, react, security-operations, security-tools, siem, soc, threat-hunting, typescript
+[2026-07-26 19:12:48 UTC] [NEW]   🆕 📦 noaedri2012/edri
+     ⭐ 0  🗣 Java  📅 2026-07-26
+     🔗 https://github.com/noaedri2012/edri
+     📝 Code training for 2027 season
+     🏷  —
+[2026-07-26 19:12:48 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-26 19:12:48 UTC] [UPD]   📢 📦 jusso-dev/Muster
+     ⭐ 0  🗣 TypeScript  📅 2026-07-26
+     🔗 https://github.com/jusso-dev/Muster
+     📝 Muster is the shared workspace for human and agent-driven security operations.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-26 19:12:48 UTC] [UPD]   📢 📦 tue3306/TrellixEDR
+     ⭐ 1  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/tue3306/TrellixEDR
+     📝 Console grafico para o Trellix Command Line Scanner: varreduras, painel, grafico…
+     🏷  antivirus, desktop-app, edr, malware-scanner, pyside6, python, qt, security, trellix, windows
+     🔄 Motivo: repo recente (0gg) | nuovi topic: qt, antivirus, pyside6, security, desktop-app, edr, malware-scanner, python, windows, trellix
+[2026-07-26 19:12:48 UTC] [UPD]   📢 📦 tubededentifrice/espclock
+     ⭐ 0  🗣 C++  📅 2026-07-25
+     🔗 https://github.com/tubededentifrice/espclock
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-26 19:12:48 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-26 19:12:48 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-26 19:12:50 UTC] [INFO]   → 25 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-26 19:12:50 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-07-26 19:12:50 UTC] [NEW]   🆕 📦 ChromiteDev/nativewin
+     ⭐ 0  🗣 PowerShell  📅 2026-07-26
+     🔗 https://github.com/ChromiteDev/nativewin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:50 UTC] [NEW]   🆕 📦 DostonD/ps41102
+     ⭐ 0  🗣 HTML  📅 2026-07-26
+     🔗 https://github.com/DostonD/ps41102
+     📝 WebKit host for PlayStation 4
+     🏷  —
+[2026-07-26 19:12:50 UTC] [NEW]   🆕 📦 thedm2612/DM
+     ⭐ 0  🗣 JavaScript  📅 2026-07-26
+     🔗 https://github.com/thedm2612/DM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:50 UTC] [NEW]   🆕 📦 thedm2612/The-DM
+     ⭐ 0  🗣 JavaScript  📅 2026-07-26
+     🔗 https://github.com/thedm2612/The-DM
+     📝 You can be Everything in this World But you can't be DMh
+     🏷  —
+[2026-07-26 19:12:50 UTC] [NEW]   🆕 📦 high9tech/hightechps
+     ⭐ 0  🗣 JavaScript  📅 2026-07-26
+     🔗 https://github.com/high9tech/hightechps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:50 UTC] [NEW]   🆕 📦 thedm2612/The-DM-2010
+     ⭐ 0  🗣 JavaScript  📅 2026-07-26
+     🔗 https://github.com/thedm2612/The-DM-2010
+     📝 You can be Everything in this World But you can't be DMh
+     🏷  —
+[2026-07-26 19:12:50 UTC] [NEW]   🆕 📦 Ziko000/11
+     ⭐ 0  🗣 JavaScript  📅 2026-07-26
+     🔗 https://github.com/Ziko000/11
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 19:12:50 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-26 19:12:50 UTC] [UPD]   📢 📦 thedm2612/DMFree
+     ⭐ 0  🗣 JavaScript  📅 2026-07-26
+     🔗 https://github.com/thedm2612/DMFree
+     📝 You cqn be Everything in this World But you can't be DM
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-26 19:12:50 UTC] [UPD]   📢 📦 Nournasr2/ELRABI3
+     ⭐ 0  🗣 JavaScript  📅 2026-07-26
+     🔗 https://github.com/Nournasr2/ELRABI3
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-26 19:12:50 UTC] [INFO] ============================================================
+[2026-07-26 19:12:50 UTC] [INFO] Completato — 34 nuovi, 6 aggiornati, 0 errori
+[2026-07-26 19:12:50 UTC] [INFO] ============================================================
