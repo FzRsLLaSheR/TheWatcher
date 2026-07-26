@@ -46324,3 +46324,154 @@
 [2026-07-25 19:09:04 UTC] [INFO] ============================================================
 [2026-07-25 19:09:04 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
 [2026-07-25 19:09:04 UTC] [INFO] ============================================================
+[2026-07-26 02:54:36 UTC] [INFO] ============================================================
+[2026-07-26 02:54:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-26 02:54:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-26 02:54:36 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-26 02:54:36 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-26 02:54:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-26 02:54:36 UTC] [INFO] ============================================================
+[2026-07-26 02:54:36 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-26 02:54:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-26 02:54:38 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-26 02:54:38 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-07-26 02:54:38 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-26 02:54:38 UTC] [UPD]   📢 📦 leozzpahughes3787/alibi-v2026-windows-scanner
+     ⭐ 9  🗣 HTML  📅 2026-07-18
+     🔗 https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+     📝 Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat huntin…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-26 02:54:38 UTC] [UPD]   📢 📦 M5246/EXONERVE
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/M5246/EXONERVE
+     📝 Out-of-band, self-healing SOC & blue-team platform: sentry agent streams AES-GCM…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-07-26 02:54:38 UTC] [UPD]   📢 📦 jason-carterrwup3261/alibi-v2026-windows-scanner
+     ⭐ 2  🗣 HTML  📅 2026-07-19
+     🔗 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
+     📝 Portable Windows forensic scanner for anti-cheat investigations, designed to gen…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-26 02:54:38 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-26 02:54:38 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-26 02:54:40 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 michael-borck/defence-in-depth
+     ⭐ 0  🗣 HTML  📅 2026-07-26
+     🔗 https://github.com/michael-borck/defence-in-depth
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 Harsha-223/Penetration-Testing-Report
+     ⭐ 0  🗣 N/A  📅 2026-07-26
+     🔗 https://github.com/Harsha-223/Penetration-Testing-Report
+     📝 Penetration Testing Report covering Red Team offensive assessment, Blue Team def…
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 sunilgentyala/bait-edr
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/sunilgentyala/bait-edr
+     📝 Behavioral Analytics and Intrusion Triage, an open-source endpoint detection, in…
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 leow149/wii-bt-relay
+     ⭐ 0  🗣 C  📅 2026-07-25
+     🔗 https://github.com/leow149/wii-bt-relay
+     📝 Two-ESP32 project: relay a real Bluetooth controller to a Nintendo Wii by emulat…
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 siosta87/file-integrity-monitor
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/siosta87/file-integrity-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 hrana36/hrana36
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/hrana36/hrana36
+     📝 Cybersecurity & Systems Engineer | IAM, Endpoint Security, M365 | PhD-bound
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 hrana36/ClaudeOS
+     ⭐ 1  🗣 PowerShell  📅 2026-07-25
+     🔗 https://github.com/hrana36/ClaudeOS
+     📝 Modular open-source toolkit featuring Claude skills, domain knowledge graphs, an…
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 abhikhilari2912-tech/AI-generated-animal-images-detector-main
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/abhikhilari2912-tech/AI-generated-animal-images-detector-main
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 hrana36/endpoint-monitoring-edr
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/hrana36/endpoint-monitoring-edr
+     📝 Open-source EDR and threat detection lab using Wazuh Agent, Sysmon process audit…
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 JayLindblad/hidproxy
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/JayLindblad/hidproxy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 davidrufinobotte/entra-sentinel-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-25
+     🔗 https://github.com/davidrufinobotte/entra-sentinel-detection-lab
+     📝 Automated risk-based sign-in detection and response pipeline using Microsoft Ent…
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 subash-ramasubbu/KeyLogger
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/subash-ramasubbu/KeyLogger
+     📝 Security research project — keystroke logging techniques for educational purpose…
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 0xATom-ic/System_Vulnerability_Checklist
+     ⭐ 0  🗣 Python  📅 2026-07-25
+     🔗 https://github.com/0xATom-ic/System_Vulnerability_Checklist
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 noreplysonicnetnow/contr98798u8e98428934983984y7edre87yfhsziuer87ryer8ihaiu
+     ⭐ 0  🗣 HTML  📅 2026-07-25
+     🔗 https://github.com/noreplysonicnetnow/contr98798u8e98428934983984y7edre87yfhsziuer87ryer8ihaiu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 02:54:40 UTC] [NEW]   🆕 📦 k3shvz/RansomShield
+     ⭐ 0  🗣 JavaScript  📅 2026-07-25
+     🔗 https://github.com/k3shvz/RansomShield
+     📝 RansomShield, is essentially a real-time ransomware detection and monitoring sys…
+     🏷  —
+[2026-07-26 02:54:40 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-26 02:54:40 UTC] [UPD]   📢 📦 HoangEditor/embroidery-converter
+     ⭐ 0  🗣 HTML  📅 2026-07-25
+     🔗 https://github.com/HoangEditor/embroidery-converter
+     📝 Free embroidery file converter — convert between DST, PES, JEF, EXP and 40+ form…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-26 02:54:40 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-26 02:54:40 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-26 02:54:42 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-26 02:54:42 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-26 02:54:42 UTC] [NEW]   🆕 📦 AbouZaiN1/zain11
+     ⭐ 0  🗣 JavaScript  📅 2026-07-25
+     🔗 https://github.com/AbouZaiN1/zain11
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 02:54:42 UTC] [NEW]   🆕 📦 rezaadi0105/CSS
+     ⭐ 0  🗣 JavaScript  📅 2026-07-25
+     🔗 https://github.com/rezaadi0105/CSS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 02:54:42 UTC] [NEW]   🆕 📦 bjo4/multiplayer-agents
+     ⭐ 0  🗣 Go  📅 2026-07-25
+     🔗 https://github.com/bjo4/multiplayer-agents
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-26 02:54:42 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-26 02:54:42 UTC] [UPD]   📢 📦 UNIFEI-CDA/ozz-halctf
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/UNIFEI-CDA/ozz-halctf
+     📝 🏴 Autonomous Pentesting Agent — DEF CON 34 AI Village HALctf. Built on MNHI 3.5 …
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-07-26 02:54:42 UTC] [UPD]   📢 📦 hopa-almodamer/Ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-07-25
+     🔗 https://github.com/hopa-almodamer/Ps4
+     📝 Ps4 hack
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-26 02:54:42 UTC] [INFO] ============================================================
+[2026-07-26 02:54:42 UTC] [INFO] Completato — 18 nuovi, 6 aggiornati, 0 errori
+[2026-07-26 02:54:42 UTC] [INFO] ============================================================
