@@ -47328,3 +47328,141 @@
 [2026-07-27 09:54:35 UTC] [INFO] ============================================================
 [2026-07-27 09:54:35 UTC] [INFO] Completato — 17 nuovi, 2 aggiornati, 0 errori
 [2026-07-27 09:54:35 UTC] [INFO] ============================================================
+[2026-07-27 14:37:46 UTC] [INFO] ============================================================
+[2026-07-27 14:37:46 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-27 14:37:46 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-27 14:37:46 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-27 14:37:46 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-27 14:37:46 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-27 14:37:46 UTC] [INFO] ============================================================
+[2026-07-27 14:37:46 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-27 14:37:46 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-27 14:37:48 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-27 14:37:48 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-27 14:37:48 UTC] [NEW]   🆕 📦 experienceds/phxpanel-spoofer-analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/experienceds/phxpanel-spoofer-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:48 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-27 14:37:48 UTC] [UPD]   📢 📦 M5246/EXONERVE
+     ⭐ 0  🗣 Python  📅 2026-07-21
+     🔗 https://github.com/M5246/EXONERVE
+     📝 Out-of-band, self-healing SOC & blue-team platform: sentry agent streams AES-GCM…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-07-27 14:37:48 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-27 14:37:48 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-27 14:37:52 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 frankier/blooter
+     ⭐ 0  🗣 Rust  📅 2026-07-26
+     🔗 https://github.com/frankier/blooter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 jkruse27/JSMFPCA
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/jkruse27/JSMFPCA
+     📝 Joint Spectral Multilevel FPCA (JS-MFPCA)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 Tyrexs1/zta-sdn
+     ⭐ 0  🗣 Python  📅 2026-07-27
+     🔗 https://github.com/Tyrexs1/zta-sdn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 samaowatrahman08-max/DeepCharts-Portable
+     ⭐ 0  🗣 Python  📅 2026-07-27
+     🔗 https://github.com/samaowatrahman08-max/DeepCharts-Portable
+     📝 Self-contained trading environment with CQG MITM proxy, mock historical server, …
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 vaibhav-kuma/SOC_plateform
+     ⭐ 0  🗣 Python  📅 2026-07-27
+     🔗 https://github.com/vaibhav-kuma/SOC_plateform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 Kristijan-Peshevski/ueba-system
+     ⭐ 0  🗣 Python  📅 2026-07-27
+     🔗 https://github.com/Kristijan-Peshevski/ueba-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 Ruchi2117/Q-SENTINEL
+     ⭐ 0  🗣 Python  📅 2026-07-27
+     🔗 https://github.com/Ruchi2117/Q-SENTINEL
+     📝 A working end-to-end cybersecurity intelligence platform for banks that correlat…
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 NABABD/forensic-cloud
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/NABABD/forensic-cloud
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 mukendi/ArgusVisor
+     ⭐ 5  🗣 C++  📅 2026-07-26
+     🔗 https://github.com/mukendi/ArgusVisor
+     📝 ArgusVisor is a research-oriented mini security hypervisor for Windows x64.
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 YuuuuuuH/XDRay
+     ⭐ 0  🗣 Swift  📅 2026-07-26
+     🔗 https://github.com/YuuuuuuH/XDRay
+     📝 Native macOS menu bar controller for stable SDR-to-XDR brightness mapping on Mac…
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 dkoret/MinimumViableDS4DPP
+     ⭐ 0  🗣 Bru  📅 2026-07-27
+     🔗 https://github.com/dkoret/MinimumViableDS4DPP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 Spidermanrom/Agents-Rules
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/Spidermanrom/Agents-Rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 gayathri-silva/AI_Polymorphic_Malware_Report
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/gayathri-silva/AI_Polymorphic_Malware_Report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 3rdoct/EDR-XDR-Dashboard-Siam.AI-x-Bangkok-University
+     ⭐ 0  🗣 TypeScript  📅 2026-07-27
+     🔗 https://github.com/3rdoct/EDR-XDR-Dashboard-Siam.AI-x-Bangkok-University
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [NEW]   🆕 📦 khaluc/CyberAttack-Visual-Intelligence
+     ⭐ 0  🗣 Python  📅 2026-07-27
+     🔗 https://github.com/khaluc/CyberAttack-Visual-Intelligence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:52 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-27 14:37:52 UTC] [UPD]   📢 📦 MahediCEH/Hacking-Terms-for-Beginners
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/MahediCEH/Hacking-Terms-for-Beginners
+     📝 A beginner-friendly guide to understanding the most important cybersecurity conc…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-27 14:37:52 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-27 14:37:52 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-27 14:37:54 UTC] [INFO]   → 23 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-27 14:37:54 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-27 14:37:54 UTC] [NEW]   🆕 📦 anshumaan12-2003/Assignment-6-Weather-Condition-Classification
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-27
+     🔗 https://github.com/anshumaan12-2003/Assignment-6-Weather-Condition-Classification
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:54 UTC] [NEW]   🆕 📦 tiffazgamez/fontface
+     ⭐ 0  🗣 JavaScript  📅 2026-07-27
+     🔗 https://github.com/tiffazgamez/fontface
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:54 UTC] [NEW]   🆕 📦 ANKIT48274/vulnhub-machine-notes
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/ANKIT48274/vulnhub-machine-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-27 14:37:54 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-27 14:37:54 UTC] [UPD]   📢 📦 dloucks01/Skoll-Fieldkit
+     ⭐ 0  🗣 Python  📅 2026-07-26
+     🔗 https://github.com/dloucks01/Skoll-Fieldkit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-27 14:37:54 UTC] [INFO] ============================================================
+[2026-07-27 14:37:54 UTC] [INFO] Completato — 19 nuovi, 3 aggiornati, 0 errori
+[2026-07-27 14:37:54 UTC] [INFO] ============================================================
