@@ -47979,3 +47979,201 @@
 [2026-07-28 08:35:45 UTC] [INFO] ============================================================
 [2026-07-28 08:35:45 UTC] [INFO] Completato — 22 nuovi, 3 aggiornati, 0 errori
 [2026-07-28 08:35:45 UTC] [INFO] ============================================================
+[2026-07-28 14:09:38 UTC] [INFO] ============================================================
+[2026-07-28 14:09:38 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-28 14:09:38 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-28 14:09:38 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-28 14:09:38 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-28 14:09:38 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-28 14:09:38 UTC] [INFO] ============================================================
+[2026-07-28 14:09:38 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-28 14:09:38 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-28 14:09:40 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-28 14:09:40 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-28 14:09:40 UTC] [NEW]   🆕 📦 cli0xfa/mmio-for-byovd
+     ⭐ 0  🗣 C++  📅 2026-07-28
+     🔗 https://github.com/cli0xfa/mmio-for-byovd
+     📝 Header-only x64 Windows kernel memory access helper for BYOVD toolchains: System…
+     🏷  —
+[2026-07-28 14:09:40 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-28 14:09:40 UTC] [UPD]   📢 📦 JMarchiori13/defender-evasion-research
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/JMarchiori13/defender-evasion-research
+     📝 Windows Defender evasion research — signatures, AMSI, ETW, cloud protection. Wha…
+     🏷  amsi, etw, mitre-attack, offensive-security, red-team, security-research, windows-defender
+     🔄 Motivo: repo recente (0gg)
+[2026-07-28 14:09:40 UTC] [UPD]   📢 📦 dottorvenom/LolScanner
+     ⭐ 0  🗣 C#  📅 2026-07-28
+     🔗 https://github.com/dottorvenom/LolScanner
+     📝 A lightweight security tool that scans Windows systems for vulnerable or malicio…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-28 14:09:40 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-28 14:09:40 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-28 14:09:42 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 Z3ROROOT3R/Z3ROROOT3R
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/Z3ROROOT3R/Z3ROROOT3R
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 MohammedArhamRafi/edrizz-recall
+     ⭐ 0  🗣 TypeScript  📅 2026-07-28
+     🔗 https://github.com/MohammedArhamRafi/edrizz-recall
+     📝 Turn handwritten notes into organized, active-recall study sessions.
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 IADoronin/MDPipeline
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/IADoronin/MDPipeline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 takainthecloud-glitch/MAAZ
+     ⭐ 0  🗣 HTML  📅 2026-07-28
+     🔗 https://github.com/takainthecloud-glitch/MAAZ
+     📝 ゼロトラスト成熟度（ZTMM）ｘサイバー攻撃フレームワーク（MITRE ATT&CK）クロスマッピングツール 
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 kppcrockschek/edrhvi
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/kppcrockschek/edrhvi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 B-Sriram333/Sophos-EDR-Threat-Triage-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/B-Sriram333/Sophos-EDR-Threat-Triage-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 benjaminLedel/covey
+     ⭐ 0  🗣 Go  📅 2026-07-28
+     🔗 https://github.com/benjaminLedel/covey
+     📝 covey
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 aadebuger/esp32s3-ble-hid-sniffer
+     ⭐ 0  🗣 C  📅 2026-07-28
+     🔗 https://github.com/aadebuger/esp32s3-ble-hid-sniffer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 adeyemisodiq/adeyemisodiq
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/adeyemisodiq/adeyemisodiq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 christarcher/portlisten2dnslog
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/christarcher/portlisten2dnslog
+     📝 用于监听指定端口, 观测内网扫描行为的, 并配合dnslog.org和telegram bot的简易EDR. (纯Vibe)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 kshitijshri99/new
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/kshitijshri99/new
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 hahaevich/graduation_project_smart_contract
+     ⭐ 0  🗣 Solidity  📅 2026-07-28
+     🔗 https://github.com/hahaevich/graduation_project_smart_contract
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 jusso-dev/Brolga
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/jusso-dev/Brolga
+     📝 Open-source Rust threat intelligence context engine
+     🏷  cyber-security, mcp, misp, rust, stix, taxii, threat-intelligence
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 vinit-tyagi-soft/IRLogs-Analyst
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/vinit-tyagi-soft/IRLogs-Analyst
+     📝 CLI for multi-source IR log analysis: ingest, normalize, correlate, detect, and …
+     🏷  cli, cybersecurity, forensics, incident-response, log-analysis, python, security, threat-hunting
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 kaandemir993/Phantom-Stealer-jsc.exe-Injection-C2-Exfiltration-Data-Theft-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/kaandemir993/Phantom-Stealer-jsc.exe-Injection-C2-Exfiltration-Data-Theft-Analysis
+     📝 "Reverse engineering analysis of Phantom Stealer, a multi-stage info-stealer tha…
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 nguoithamdo/granzam
+     ⭐ 0  🗣 Shell  📅 2026-07-28
+     🔗 https://github.com/nguoithamdo/granzam
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 SaiAravindhK/STM32F4-FreeRTOS-BareMetal-EDR
+     ⭐ 0  🗣 C  📅 2026-07-28
+     🔗 https://github.com/SaiAravindhK/STM32F4-FreeRTOS-BareMetal-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 lavanyag21062006/EDR-Lite
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/lavanyag21062006/EDR-Lite
+     📝 A lightweight Endpoint Detection and Response (EDR) system built with Python, Py…
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 ChristopherBalog/SOC-Level-1-Incident-Analysis-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/ChristopherBalog/SOC-Level-1-Incident-Analysis-Portfolio
+     📝 SOC Level 1 incident analysis, alert triage, and threat investigation portfolio.
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 PRATIK-DHARME/incident-response-commander
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/PRATIK-DHARME/incident-response-commander
+     📝 Governed multi-agent SOC analyst built with IBM Bob and watsonx Orchestrate. Aut…
+     🏷  —
+[2026-07-28 14:09:42 UTC] [NEW]   🆕 📦 MSPbotsAI/connectsecure-mcp
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/MSPbotsAI/connectsecure-mcp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:42 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-28 14:09:42 UTC] [UPD]   📢 📦 Eris92/SIRK-Agent
+     ⭐ 0  🗣 C#  📅 2026-07-23
+     🔗 https://github.com/Eris92/SIRK-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-07-28 14:09:42 UTC] [UPD]   📢 📦 enonethreezed/MiniLab
+     ⭐ 0  🗣 Shell  📅 2026-07-27
+     🔗 https://github.com/enonethreezed/MiniLab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-28 14:09:42 UTC] [UPD]   📢 📦 dottorvenom/LolScanner
+     ⭐ 0  🗣 C#  📅 2026-07-28
+     🔗 https://github.com/dottorvenom/LolScanner
+     📝 A lightweight security tool that scans Windows systems for vulnerable or malicio…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-28 14:09:42 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-28 14:09:42 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-28 14:09:44 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-28 14:09:44 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-28 14:09:44 UTC] [NEW]   🆕 📦 Vaishnavishaligram/Weather-Condition-Classification
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-28
+     🔗 https://github.com/Vaishnavishaligram/Weather-Condition-Classification
+     📝 Developed a Weather Condition Classification model using SVM with an RBF kernel …
+     🏷  —
+[2026-07-28 14:09:44 UTC] [NEW]   🆕 📦 tiffazgamez/font
+     ⭐ 0  🗣 JavaScript  📅 2026-07-28
+     🔗 https://github.com/tiffazgamez/font
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:44 UTC] [NEW]   🆕 📦 pointgamestore-create/point-game-ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-07-28
+     🔗 https://github.com/pointgamestore-create/point-game-ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 14:09:44 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-07-28 14:09:44 UTC] [UPD]   📢 📦 ANKIT48274/vulnhub-machine-notes
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/ANKIT48274/vulnhub-machine-notes
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-28 14:09:44 UTC] [UPD]   📢 📦 tiffazgamez/fontface
+     ⭐ 0  🗣 JavaScript  📅 2026-07-27
+     🔗 https://github.com/tiffazgamez/fontface
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-28 14:09:44 UTC] [UPD]   📢 📦 Only7rb-coder/Lk0atch
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/Only7rb-coder/Lk0atch
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-28 14:09:44 UTC] [INFO] ============================================================
+[2026-07-28 14:09:44 UTC] [INFO] Completato — 25 nuovi, 8 aggiornati, 0 errori
+[2026-07-28 14:09:44 UTC] [INFO] ============================================================
