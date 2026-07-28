@@ -48177,3 +48177,252 @@
 [2026-07-28 14:09:44 UTC] [INFO] ============================================================
 [2026-07-28 14:09:44 UTC] [INFO] Completato — 25 nuovi, 8 aggiornati, 0 errori
 [2026-07-28 14:09:44 UTC] [INFO] ============================================================
+[2026-07-28 19:26:12 UTC] [INFO] ============================================================
+[2026-07-28 19:26:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-28 19:26:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-28 19:26:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-28 19:26:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-28 19:26:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-28 19:26:12 UTC] [INFO] ============================================================
+[2026-07-28 19:26:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-28 19:26:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-28 19:26:14 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-28 19:26:14 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-28 19:26:14 UTC] [NEW]   🆕 📦 big-cat365/PtreeView
+     ⭐ 0  🗣 JavaScript  📅 2026-07-28
+     🔗 https://github.com/big-cat365/PtreeView
+     📝 MDE Log Viewer
+     🏷  —
+[2026-07-28 19:26:14 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-28 19:26:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-28 19:26:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-28 19:26:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 32 NUOVI repository:
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 VincentLindsay/IT-and-Cybersecurity-Porfolio
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/VincentLindsay/IT-and-Cybersecurity-Porfolio
+     📝 The goal of this repository to be showcase a library of projects that I have com…
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 oanser-git/PIDSMaker
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/oanser-git/PIDSMaker
+     📝 PIDSMaker with cross-capture tooling support and checkpoint resume extensions
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 danielATD/banking-soc-lab
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/danielATD/banking-soc-lab
+     📝 Lab SOC bancario en VirtualBox: segmentacion de red, SIEM con Wazuh, deteccion p…
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 StellarRequiem/mcp-assure
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/StellarRequiem/mcp-assure
+     📝 Deny-by-default assurance runtime for MCP tool calls: policy, velocity, receipts…
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 aldrinkichu10/Automated-EDR
+     ⭐ 0  🗣 Shell  📅 2026-07-28
+     🔗 https://github.com/aldrinkichu10/Automated-EDR
+     📝 Automated cross-platform EDR pipeline using Wazuh and VirusTotal
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 AdeenaRamzan/Enterprise-Endpoint-Monitoring-System
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/AdeenaRamzan/Enterprise-Endpoint-Monitoring-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 paokuwansui/red-team-skills
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/paokuwansui/red-team-skills
+     📝 Red Team Knowledge Base — CRTO + OSCP + MalDev + 实战笔记，从外网打点到域攻击，从 Win32 API 到间接 …
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 ivan-josef/edrom-aruco
+     ⭐ 0  🗣 Makefile  📅 2026-07-28
+     🔗 https://github.com/ivan-josef/edrom-aruco
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 Kayyummd/Windows-Endpoint-Security-Monitoring-and-Alerting-System-Using-python
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/Kayyummd/Windows-Endpoint-Security-Monitoring-and-Alerting-System-Using-python
+     📝 A lightweight Endpoint Detection and Response (EDR) solution developed in Python…
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 webOSArchive/webos-touchpad-accessories
+     ⭐ 0  🗣 C  📅 2026-07-28
+     🔗 https://github.com/webOSArchive/webos-touchpad-accessories
+     📝 Adding support for modern hardware accessories on the Palm/HP webOS Touchpad
+     🏷  bluetooth, linux, webos
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 GuadalupeUrias/mexico-suicide-data-curation
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-28
+     🔗 https://github.com/GuadalupeUrias/mexico-suicide-data-curation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 hudul1337/file_sentinel
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/hudul1337/file_sentinel
+     📝 File Sentinel is a lightweight Python watchdog that monitors your Downloads fold…
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 Reddeppa336/linux-edr
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/Reddeppa336/linux-edr
+     📝 A modular Linux Endpoint Detection & Response (EDR) agent built in Python featur…
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 satyamkamble11/sme-risk-radar
+     ⭐ 0  🗣 JavaScript  📅 2026-07-28
+     🔗 https://github.com/satyamkamble11/sme-risk-radar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 karrijayanth65/Jayanth-K
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/karrijayanth65/Jayanth-K
+     📝 karrijayanth65
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 HeshamZ29/edrak
+     ⭐ 0  🗣 HTML  📅 2026-07-28
+     🔗 https://github.com/HeshamZ29/edrak
+     📝 منصّة رقمية واحدة تجمع كل أطراف المعادلة العقارية — المستثمر والمطوّر والمقاول و…
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 karrijayanth65/SOC-Investigations
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/karrijayanth65/SOC-Investigations
+     📝 SOC-Investigations
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 bruhhh212/hexora
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/bruhhh212/hexora
+     📝 HEXORA – An Explainable Static Binary Threat Analysis and Risk Intelligence Plat…
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 Murillopl/Cyber_Projects
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/Murillopl/Cyber_Projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 ObunagaLabs/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-07-28
+     🔗 https://github.com/ObunagaLabs/reverse-skill
+     📝 [AI agents] Skill for reverse engineering with agent assistance
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 aldrinkichu10/aldrinkichu10
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/aldrinkichu10/aldrinkichu10
+     📝 Aspiring Security Researcher & VAPT Practitioner | Personal Profile
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 Falconsinan/falcon_security_analyzer
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/Falconsinan/falcon_security_analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 HermesSilva/PastDel
+     ⭐ 0  🗣 Rust  📅 2026-07-28
+     🔗 https://github.com/HermesSilva/PastDel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 danarhirany300-ctrl/letsdefend-platform-investigation
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/danarhirany300-ctrl/letsdefend-platform-investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 willianargume/edr-incident-response-mitre-mapping
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/willianargume/edr-incident-response-mitre-mapping
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 leosp1983/criacao-vm-linux
+     ⭐ 0  🗣 Jinja  📅 2026-07-28
+     🔗 https://github.com/leosp1983/criacao-vm-linux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 big-cat365/PtreeView
+     ⭐ 0  🗣 JavaScript  📅 2026-07-28
+     🔗 https://github.com/big-cat365/PtreeView
+     📝 MDE Log Viewer
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 youngnode691/edrlaz
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/youngnode691/edrlaz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 CanonEngineer/EagleOffensivePlatform
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/CanonEngineer/EagleOffensivePlatform
+     📝 Eagle Destroys is a high-impact project focused on precision, speed, and operati…
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/sachinpatil-soc/Enterprise-Microsoft-Defender-XDR-Lab
+     📝 "An enterprise-grade lab environment simulating a SOC and business endpoints to …
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 kulindukody/Port-Knocking-Backdoor
+     ⭐ 0  🗣 C  📅 2026-07-28
+     🔗 https://github.com/kulindukody/Port-Knocking-Backdoor
+     📝 Linux LKM Port Knocking Backdoor 
+     🏷  —
+[2026-07-28 19:26:16 UTC] [NEW]   🆕 📦 ObunagaLabs/hack-skills-local
+     ⭐ 0  🗣 CSS  📅 2026-07-28
+     🔗 https://github.com/ObunagaLabs/hack-skills-local
+     📝 [cyber security] Helping AI Agent become an awesome practical hacker!
+     🏷  —
+[2026-07-28 19:26:16 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-07-28 19:26:16 UTC] [UPD]   📢 📦 benjaminLedel/covey
+     ⭐ 1  🗣 Go  📅 2026-07-28
+     🔗 https://github.com/benjaminLedel/covey
+     📝 covey
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-28 19:26:16 UTC] [UPD]   📢 📦 enonethreezed/MiniLab
+     ⭐ 0  🗣 Shell  📅 2026-07-27
+     🔗 https://github.com/enonethreezed/MiniLab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-28 19:26:16 UTC] [UPD]   📢 📦 JJDSNT/aros-bluzing
+     ⭐ 0  🗣 C  📅 2026-07-28
+     🔗 https://github.com/JJDSNT/aros-bluzing
+     📝 AROS bluetooth stack
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-28 19:26:16 UTC] [UPD]   📢 📦 ryan-sharpnack/systems-offensive-engineering
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/ryan-sharpnack/systems-offensive-engineering
+     📝 A structured portfolio traversing low-level systems engineering, OS internals, o…
+     🏷  adversarial-ml, assembly, exploit-development, malware-development, reverse-engineering, security-research, systems-programming
+     🔄 Motivo: repo recente (0gg)
+[2026-07-28 19:26:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-28 19:26:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-28 19:26:18 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-28 19:26:18 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-07-28 19:26:18 UTC] [NEW]   🆕 📦 ronsgm/11-02
+     ⭐ 0  🗣 JavaScript  📅 2026-07-28
+     🔗 https://github.com/ronsgm/11-02
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:18 UTC] [NEW]   🆕 📦 KRDNAS-EXP/krdnas-host
+     ⭐ 0  🗣 JavaScript  📅 2026-07-28
+     🔗 https://github.com/KRDNAS-EXP/krdnas-host
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:18 UTC] [NEW]   🆕 📦 ObunagaLabs/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-07-28
+     🔗 https://github.com/ObunagaLabs/reverse-skill
+     📝 [AI agents] Skill for reverse engineering with agent assistance
+     🏷  —
+[2026-07-28 19:26:18 UTC] [NEW]   🆕 📦 ranasen-rat/Android
+     ⭐ 0  🗣 HTML  📅 2026-07-28
+     🔗 https://github.com/ranasen-rat/Android
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:18 UTC] [NEW]   🆕 📦 tjcorp420/emx-tweaks-ps4-host
+     ⭐ 0  🗣 JavaScript  📅 2026-07-28
+     🔗 https://github.com/tjcorp420/emx-tweaks-ps4-host
+     📝 EMX Tweaks branded PS4 11.00 CSSFontFace + Lapse host based on PSFree Enhanced
+     🏷  —
+[2026-07-28 19:26:18 UTC] [NEW]   🆕 📦 saltcute/ghostlock-samsung-s25
+     ⭐ 0  🗣 C  📅 2026-07-28
+     🔗 https://github.com/saltcute/ghostlock-samsung-s25
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 19:26:18 UTC] [NEW]   🆕 📦 ObunagaLabs/hack-skills-local
+     ⭐ 0  🗣 CSS  📅 2026-07-28
+     🔗 https://github.com/ObunagaLabs/hack-skills-local
+     📝 [cyber security] Helping AI Agent become an awesome practical hacker!
+     🏷  —
+[2026-07-28 19:26:18 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-28 19:26:18 UTC] [INFO] ============================================================
+[2026-07-28 19:26:18 UTC] [INFO] Completato — 40 nuovi, 4 aggiornati, 0 errori
+[2026-07-28 19:26:18 UTC] [INFO] ============================================================
