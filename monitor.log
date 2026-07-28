@@ -47660,3 +47660,169 @@
 [2026-07-27 19:35:01 UTC] [INFO] ============================================================
 [2026-07-27 19:35:01 UTC] [INFO] Completato — 29 nuovi, 4 aggiornati, 0 errori
 [2026-07-27 19:35:01 UTC] [INFO] ============================================================
+[2026-07-28 02:38:12 UTC] [INFO] ============================================================
+[2026-07-28 02:38:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-28 02:38:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-28 02:38:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-28 02:38:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-28 02:38:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-28 02:38:12 UTC] [INFO] ============================================================
+[2026-07-28 02:38:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-28 02:38:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-28 02:38:13 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-28 02:38:13 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-28 02:38:13 UTC] [NEW]   🆕 📦 JMarchiori13/defender-evasion-research
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/JMarchiori13/defender-evasion-research
+     📝 Windows Defender evasion research — signatures, AMSI, ETW, cloud protection. Wha…
+     🏷  amsi, etw, mitre-attack, offensive-security, red-team, security-research, windows-defender
+[2026-07-28 02:38:13 UTC] [NEW]   🆕 📦 samartined/hvguard
+     ⭐ 0  🗣 PowerShell  📅 2026-07-27
+     🔗 https://github.com/samartined/hvguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:13 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-28 02:38:13 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-28 02:38:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-28 02:38:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 jtanmalack22-lab/Edrian-Jay-and-Marie-Bianca
+     ⭐ 0  🗣 HTML  📅 2026-07-28
+     🔗 https://github.com/jtanmalack22-lab/Edrian-Jay-and-Marie-Bianca
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 ryan-sharpnack/systems-offensive-engineering
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/ryan-sharpnack/systems-offensive-engineering
+     📝 A structured portfolio traversing low-level systems engineering, OS internals, o…
+     🏷  adversarial-ml, assembly, exploit-development, malware-development, reverse-engineering, security-research, systems-programming
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 Igrekess/ChromaLux
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/Igrekess/ChromaLux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 aguilerasmiguel/J0Witness-release
+     ⭐ 0  🗣 Go  📅 2026-07-27
+     🔗 https://github.com/aguilerasmiguel/J0Witness-release
+     📝 (nessuna descrizione)
+     🏷  audit, go, joomla, security-tools
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 cstreit03/cstreit03
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/cstreit03/cstreit03
+     📝 Personal GitHub profile README. Cybersecurity Specialist focused on zero-trust a…
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 Akeju-ak/soc-hunt-engine
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/Akeju-ak/soc-hunt-engine
+     📝 SOC Threat Hunting Engine built with Python and DuckDB.
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 Danielnwachukwu/Enterprise-Phishing-Incident-Response-Threat-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/Danielnwachukwu/Enterprise-Phishing-Incident-Response-Threat-Hunting
+     📝 End-to-end SOC investigation of a simulated enterprise phishing attack using Spl…
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 a-duliba/cyber-homelab-soc
+     ⭐ 0  🗣 N/A  📅 2026-07-28
+     🔗 https://github.com/a-duliba/cyber-homelab-soc
+     📝 Operational open-source SOC homelab: pfSense/Suricata, Windows AD, Wazuh SIEM, C…
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 jordanhenry601-rgb/soc-analyst-simulation
+     ⭐ 0  🗣 HTML  📅 2026-07-27
+     🔗 https://github.com/jordanhenry601-rgb/soc-analyst-simulation
+     📝 Interactive SOC incident response simulation built to practice detection and res…
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 jtave111/Argus
+     ⭐ 0  🗣 TypeScript  📅 2026-07-28
+     🔗 https://github.com/jtave111/Argus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 ahadxdev/SOC-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/ahadxdev/SOC-Home-Lab
+     📝 Complete SOC environment with ELK Stack, Mythic C2, and incident investigation
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 Herrie82/webos-bt-shim
+     ⭐ 0  🗣 C  📅 2026-07-27
+     🔗 https://github.com/Herrie82/webos-bt-shim
+     📝 BT Shim for Mouse & Gamepad support
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 ChrisLuciano2/the-sentinel
+     ⭐ 0  🗣 TypeScript  📅 2026-07-27
+     🔗 https://github.com/ChrisLuciano2/the-sentinel
+     📝 The Sentinel — Autonomous Cyber Defense microdegree learning environment, with A…
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 JoseloFlores/roadmap_cyber
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/JoseloFlores/roadmap_cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 manish8171/portfolio-Agentic-Ai
+     ⭐ 0  🗣 CSS  📅 2026-07-27
+     🔗 https://github.com/manish8171/portfolio-Agentic-Ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 enonethreezed/MiniLab
+     ⭐ 0  🗣 Shell  📅 2026-07-27
+     🔗 https://github.com/enonethreezed/MiniLab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 darkLabz001/001
+     ⭐ 1  🗣 Python  📅 2026-07-27
+     🔗 https://github.com/darkLabz001/001
+     📝 Polymorphic shellcode encoder for authorized pentesting & CTF
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 nickyanya247/Threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/nickyanya247/Threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 azmaan09/security-incident-response
+     ⭐ 0  🗣 TypeScript  📅 2026-07-27
+     🔗 https://github.com/azmaan09/security-incident-response
+     📝 Security Incident Response Platform — SIEM webhook intake, incident workflow, SL…
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 Lesedi2003/Microsoft-Defender-XDR-Incident-Response-Lab
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/Lesedi2003/Microsoft-Defender-XDR-Incident-Response-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 csezeze/PurpleRAG
+     ⭐ 0  🗣 Python  📅 2026-07-27
+     🔗 https://github.com/csezeze/PurpleRAG
+     📝 Local-first Purple Team RAG assistant powered by Microsoft Foundry Local.
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 bilal-khendaf/bilal-khendaf
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/bilal-khendaf/bilal-khendaf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:16 UTC] [NEW]   🆕 📦 tochi17-ai/airgap-triage
+     ⭐ 0  🗣 Python  📅 2026-07-27
+     🔗 https://github.com/tochi17-ai/airgap-triage
+     📝 Can a laptop do incident response AI? Benchmarking a local 8B model on breach ar…
+     🏷  —
+[2026-07-28 02:38:16 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-28 02:38:16 UTC] [UPD]   📢 📦 PugarHuda/lebur
+     ⭐ 0  🗣 TypeScript  📅 2026-07-26
+     🔗 https://github.com/PugarHuda/lebur
+     📝 Confidential uniform-price batch auction settling against an unmodified Curve St…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-28 02:38:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-28 02:38:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-28 02:38:18 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-28 02:38:18 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-28 02:38:18 UTC] [NEW]   🆕 📦 Alvarojavier22/kernel-exploit-dirty-cow-project
+     ⭐ 0  🗣 N/A  📅 2026-07-27
+     🔗 https://github.com/Alvarojavier22/kernel-exploit-dirty-cow-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-28 02:38:18 UTC] [NEW]   🆕 📦 iamgopaul/GCloud
+     ⭐ 0  🗣 Java  📅 2026-07-27
+     🔗 https://github.com/iamgopaul/GCloud
+     📝 Self-hosted internal developer platform: deploy containerised apps from Git, wit…
+     🏷  —
+[2026-07-28 02:38:18 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-28 02:38:18 UTC] [INFO] ============================================================
+[2026-07-28 02:38:18 UTC] [INFO] Completato — 27 nuovi, 1 aggiornati, 0 errori
+[2026-07-28 02:38:18 UTC] [INFO] ============================================================
