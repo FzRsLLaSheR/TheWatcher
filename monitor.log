@@ -48594,3 +48594,147 @@
 [2026-07-29 02:45:12 UTC] [INFO] ============================================================
 [2026-07-29 02:45:12 UTC] [INFO] Completato — 25 nuovi, 3 aggiornati, 0 errori
 [2026-07-29 02:45:12 UTC] [INFO] ============================================================
+[2026-07-29 08:42:39 UTC] [INFO] ============================================================
+[2026-07-29 08:42:39 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-29 08:42:39 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-29 08:42:39 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-29 08:42:39 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-29 08:42:39 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-29 08:42:39 UTC] [INFO] ============================================================
+[2026-07-29 08:42:39 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-29 08:42:39 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-29 08:42:41 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-29 08:42:41 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-29 08:42:41 UTC] [NEW]   🆕 📦 noSkcaHdat/BYOVD-AGENT
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/noSkcaHdat/BYOVD-AGENT
+     📝 An Agent monitoring  kernel driver that sits in Ring-0 and intercepts every othe…
+     🏷  —
+[2026-07-29 08:42:41 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-29 08:42:41 UTC] [UPD]   📢 📦 dottorvenom/LolScanner
+     ⭐ 0  🗣 C#  📅 2026-07-28
+     🔗 https://github.com/dottorvenom/LolScanner
+     📝 A lightweight security tool that scans Windows systems for vulnerable or malicio…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-29 08:42:41 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-29 08:42:41 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-29 08:42:44 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 trilwu/gauntlet-loop-skills
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/trilwu/gauntlet-loop-skills
+     📝 Claude Skills packaging the Gauntlet Loop: build, blind critic, revise, repeat a…
+     🏷  agentic-workflows, ai-agents, appsec, claude-code, claude-skills, detection-engineering, prompt-engineering
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 Pilgrim18/EDR-COPY
+     ⭐ 0  🗣 Python  📅 2026-07-29
+     🔗 https://github.com/Pilgrim18/EDR-COPY
+     📝 Replicator from https://data.gov.ua/dataset/a1799820-195b-4982-8141-6e84f58103e7…
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 LopezJimenezCarlos/Latmind-AI
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-29
+     🔗 https://github.com/LopezJimenezCarlos/Latmind-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 ruehljens-creator/broadcast-diagnose
+     ⭐ 0  🗣 Shell  📅 2026-07-29
+     🔗 https://github.com/ruehljens-creator/broadcast-diagnose
+     📝 Diagnose-Datensammler für Broadcast-/Pro-Tools-Macs (Apple Silicon) – EINE Datei…
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 jshi7-wmp/extract-nps-to-lake
+     ⭐ 0  🗣 Shell  📅 2026-07-29
+     🔗 https://github.com/jshi7-wmp/extract-nps-to-lake
+     📝 Download NPS reports for 3 Banners and upload to GCS raw
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 ChPratik/certighost-detection-pack
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/ChPratik/certighost-detection-pack
+     📝 CertiGhost Detection Pack — a practical, defender-first package built from my fu…
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 MalbinGerorge/edr-ml-engine
+     ⭐ 0  🗣 Python  📅 2026-07-29
+     🔗 https://github.com/MalbinGerorge/edr-ml-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 Ciel-design/edrianbaradero1.github.io
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/Ciel-design/edrianbaradero1.github.io
+     📝 Ciel designs logos and brand identities for small businesses that are ready to s…
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 diarfirman/elastic-self-manage-estimator
+     ⭐ 0  🗣 HTML  📅 2026-07-29
+     🔗 https://github.com/diarfirman/elastic-self-manage-estimator
+     📝 Tools to estimate elastic self manage deployment
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 likevrui/shigi-wildfire-capacity
+     ⭐ 0  🗣 Python  📅 2026-07-29
+     🔗 https://github.com/likevrui/shigi-wildfire-capacity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 Vikramg077/JD
+     ⭐ 0  🗣 TypeScript  📅 2026-07-29
+     🔗 https://github.com/Vikramg077/JD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 zycxfyh/ordivon-security
+     ⭐ 0  🗣 Python  📅 2026-07-28
+     🔗 https://github.com/zycxfyh/ordivon-security
+     📝 Full-spectrum adversarial Agent systems research laboratory
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 cybertree94842/edreqs
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/cybertree94842/edreqs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 abdullahia6381-netizen/honeypot-incident-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/abdullahia6381-netizen/honeypot-incident-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-29 08:42:44 UTC] [NEW]   🆕 📦 Sakshik24/Enterprise-SOC-Active-Defense
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/Sakshik24/Enterprise-SOC-Active-Defense
+     📝 A distributed Enterprise SOC simulation featuring real-time Red Team attacks (Me…
+     🏷  —
+[2026-07-29 08:42:44 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-29 08:42:44 UTC] [UPD]   📢 📦 AIR-Kit-AI/AIR-Kit
+     ⭐ 0  🗣 Shell  📅 2026-07-28
+     🔗 https://github.com/AIR-Kit-AI/AIR-Kit
+     📝 Autonomous, local-first incident response kit. Analyze telemetry, validate threa…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-29 08:42:44 UTC] [UPD]   📢 📦 lengtsp/aivss-skills-claudecode
+     ⭐ 0  🗣 Python  📅 2026-07-29
+     🔗 https://github.com/lengtsp/aivss-skills-claudecode
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-29 08:42:44 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-29 08:42:44 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-29 08:42:46 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-29 08:42:46 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-07-29 08:42:46 UTC] [NEW]   🆕 📦 nwepn1/kvm-vps-comparison
+     ⭐ 1  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/nwepn1/kvm-vps-comparison
+     📝 KVM VPS Hosting Explained: What It Is, Why It Matters, Which Plan Should You Pic…
+     🏷  —
+[2026-07-29 08:42:46 UTC] [NEW]   🆕 📦 pdmvho/vps-provider-evaluation
+     ⭐ 1  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/pdmvho/vps-provider-evaluation
+     📝 Virtual Private Server Hosting Comparison: How to Evaluate VPS Providers by CPU,…
+     🏷  —
+[2026-07-29 08:42:46 UTC] [NEW]   🆕 📦 Mistyovo/pwn-rag-kb
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/Mistyovo/pwn-rag-kb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-29 08:42:46 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-29 08:42:46 UTC] [UPD]   📢 📦 bjo4/multiplayer-agents
+     ⭐ 0  🗣 Go  📅 2026-07-25
+     🔗 https://github.com/bjo4/multiplayer-agents
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-07-29 08:42:46 UTC] [INFO] ============================================================
+[2026-07-29 08:42:46 UTC] [INFO] Completato — 19 nuovi, 4 aggiornati, 0 errori
+[2026-07-29 08:42:46 UTC] [INFO] ============================================================
