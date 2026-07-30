@@ -49105,3 +49105,130 @@
 [2026-07-29 19:18:00 UTC] [INFO] ============================================================
 [2026-07-29 19:18:00 UTC] [INFO] Completato — 23 nuovi, 4 aggiornati, 0 errori
 [2026-07-29 19:18:00 UTC] [INFO] ============================================================
+[2026-07-30 02:30:29 UTC] [INFO] ============================================================
+[2026-07-30 02:30:29 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-30 02:30:29 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-30 02:30:29 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-30 02:30:29 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-30 02:30:29 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-30 02:30:29 UTC] [INFO] ============================================================
+[2026-07-30 02:30:29 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-30 02:30:29 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-30 02:30:31 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-30 02:30:31 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-30 02:30:31 UTC] [NEW]   🆕 📦 xsbymz/1
+     ⭐ 0  🗣 C++  📅 2026-07-29
+     🔗 https://github.com/xsbymz/1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-30 02:30:31 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-30 02:30:31 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-30 02:30:31 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-30 02:30:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 Sushanth2624/browser-ai-sentinel
+     ⭐ 0  🗣 TypeScript  📅 2026-07-30
+     🔗 https://github.com/Sushanth2624/browser-ai-sentinel
+     📝 Client-side detection of indirect prompt injection and unauthorized data exfiltr…
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 zia-rayan1998/evidence-cliff-llm-hallucination
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-30
+     🔗 https://github.com/zia-rayan1998/evidence-cliff-llm-hallucination
+     📝 Research on evidence scarcity and hallucination in open-source large language mo…
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 Pegasus-01/Pegasus-01
+     ⭐ 0  🗣 N/A  📅 2026-07-30
+     🔗 https://github.com/Pegasus-01/Pegasus-01
+     📝 Profile README
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 QSOLKCB/HERESY-SEC
+     ⭐ 1  🗣 Python  📅 2026-07-29
+     🔗 https://github.com/QSOLKCB/HERESY-SEC
+     📝 HERESY-SEC — Deterministic policy, geometric evidence and exact replay for AI-ag…
+     🏷  deterministic-systems, intrusion-detection-system, replay, security
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 Vyrskal/Windows-Clipboard-Extender
+     ⭐ 1  🗣 PowerShell  📅 2026-07-29
+     🔗 https://github.com/Vyrskal/Windows-Clipboard-Extender
+     📝 Windows Clipboard History Patcher  Removes the hardcoded 25-item and 4 MB limits…
+     🏷  clipboard, clipboard-history, clipboard-management, no-dependencies, patcher, powershell, powershell-script, powershell-scripts, windows-clipboard, windows-clipboard-history, windows-clipboard-history-extension, windows-tweaks
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 codedbyroot/windows-pentest-assessment
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/codedbyroot/windows-pentest-assessment
+     📝 Internal penetration testing against vulnerable Windows systems using Kali Linux…
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 VagabondSEC/s0p0wn3d-c2
+     ⭐ 0  🗣 C++  📅 2026-07-29
+     🔗 https://github.com/VagabondSEC/s0p0wn3d-c2
+     📝 C2 framework with EDR evasion: DLL hijacking, direct syscalls, encrypted traffic…
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 Ahmedraza0725/Malware_classifier
+     ⭐ 0  🗣 Python  📅 2026-07-29
+     🔗 https://github.com/Ahmedraza0725/Malware_classifier
+     📝 An ML-driven malware classification and feature analysis tool designed to test p…
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 rishihabade2008-cyber/deva-wallet-contracts
+     ⭐ 0  🗣 HTML  📅 2026-07-29
+     🔗 https://github.com/rishihabade2008-cyber/deva-wallet-contracts
+     📝 ERC-4337 smart contract wallet stack for seamless Web3 onboarding. Includes a UU…
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 overflowka/mini-process-monitor
+     ⭐ 0  🗣 C++  📅 2026-07-29
+     🔗 https://github.com/overflowka/mini-process-monitor
+     📝 A small Windows kernel driver that hooks into the process, image, registry and h…
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 Epicora-Software-House/epicora-checkup
+     ⭐ 0  🗣 PowerShell  📅 2026-07-29
+     🔗 https://github.com/Epicora-Software-House/epicora-checkup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 bostadurmasin/LokiPing
+     ⭐ 0  🗣 PowerShell  📅 2026-07-29
+     🔗 https://github.com/bostadurmasin/LokiPing
+     📝 Ultimate IT Admin Network Scanner with Layer 2 (ARP), Layer 3 (IP/ICMP), Layer 4…
+     🏷  agentless, agentless-deployment, asset-management, asset-management-system, infrastructure, infrastructure-management, lldp, lldp-map, lldp-tools, network-discovery, network-scanner, port-scanner, powershell, powershell-module, powershell-script, sysadmin, sysadmin-tool, sysadmin-utilities, wmi, wmic
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 B-Sriram333/Purple-Team-LSASS-Detection
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/B-Sriram333/Purple-Team-LSASS-Detection
+     📝 Emulating MITRE ATT&CK T1003.001 (LSASS Memory Read) and analyzing Sysmon/EDR te…
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 HasinduWanigasundara/Automated_IoT_Smart_Water_Meter
+     ⭐ 0  🗣 C  📅 2026-07-29
+     🔗 https://github.com/HasinduWanigasundara/Automated_IoT_Smart_Water_Meter
+     📝 An ultra-low-power, IoT-enabled Smart Water Meter built with STM32L0 and SIM800L…
+     🏷  —
+[2026-07-30 02:30:33 UTC] [NEW]   🆕 📦 xsbymz/1
+     ⭐ 0  🗣 C++  📅 2026-07-29
+     🔗 https://github.com/xsbymz/1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-30 02:30:33 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-30 02:30:33 UTC] [UPD]   📢 📦 em-foundation/bluejoule-adv
+     ⭐ 0  🗣 N/A  📅 2026-07-29
+     🔗 https://github.com/em-foundation/bluejoule-adv
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-30 02:30:33 UTC] [UPD]   📢 📦 Tim-Army/Enterprise-Infrastructure-Encyclopedia
+     ⭐ 2  🗣 Python  📅 2026-07-22
+     🔗 https://github.com/Tim-Army/Enterprise-Infrastructure-Encyclopedia
+     📝 Enterprise-Infrastructure-Encyclopedia
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-07-30 02:30:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-30 02:30:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-30 02:30:34 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-30 02:30:34 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-07-30 02:30:34 UTC] [NEW]   🆕 📦 UsamaArshadJadoon/SecurityTestingMultiAgentWithKali
+     ⭐ 0  🗣 JavaScript  📅 2026-07-29
+     🔗 https://github.com/UsamaArshadJadoon/SecurityTestingMultiAgentWithKali
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-30 02:30:34 UTC] [NEW]   🆕 📦 Lucas18062025/Escalamiento-Privilegios
+     ⭐ 0  🗣 HTML  📅 2026-07-29
+     🔗 https://github.com/Lucas18062025/Escalamiento-Privilegios
+     📝 Guía interactiva completa: desde enumeración hasta root
+     🏷  cheatsheet, ethical-hacking, infosec, oscp-prep, pentesting, privilege-escalation-linux, security-tools-testing, spanish-language
+[2026-07-30 02:30:34 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-30 02:30:34 UTC] [INFO] ============================================================
+[2026-07-30 02:30:34 UTC] [INFO] Completato — 18 nuovi, 2 aggiornati, 0 errori
+[2026-07-30 02:30:34 UTC] [INFO] ============================================================
