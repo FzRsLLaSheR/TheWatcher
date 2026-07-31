@@ -50307,3 +50307,161 @@
 [2026-07-31 14:09:53 UTC] [INFO] ============================================================
 [2026-07-31 14:09:53 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
 [2026-07-31 14:09:53 UTC] [INFO] ============================================================
+[2026-07-31 19:34:17 UTC] [INFO] ============================================================
+[2026-07-31 19:34:17 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-07-31 19:34:17 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-07-31 19:34:17 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-07-31 19:34:17 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-07-31 19:34:17 UTC] [INFO] Token GitHub: ✓ presente
+[2026-07-31 19:34:17 UTC] [INFO] ============================================================
+[2026-07-31 19:34:17 UTC] [INFO] Query: 'byovd-killers'
+[2026-07-31 19:34:17 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-07-31 19:34:19 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-31 19:34:19 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-07-31 19:34:19 UTC] [NEW]   🆕 📦 m524security/EXONERVE
+     ⭐ 1  🗣 Python  📅 2026-07-31
+     🔗 https://github.com/m524security/EXONERVE
+     📝 Automation-first SOC & Blue Team platform — detects 42 ATT&CK techniques in mill…
+     🏷  blue-team, cybersecurity, dfir, incident-response, intrusion-detection, mitre-attack, python, ransomware-detection, self-healing, sigma, soc, threat-detection
+[2026-07-31 19:34:19 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-07-31 19:34:19 UTC] [INFO] Query: 'edr-evasion'
+[2026-07-31 19:34:19 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-07-31 19:34:22 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 Pirate-Kitty/claude-security-personas
+     ⭐ 0  🗣 N/A  📅 2026-07-31
+     🔗 https://github.com/Pirate-Kitty/claude-security-personas
+     📝 Reusable Claude Code security personas for threat hunting, incident response, an…
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 Rdahunsi/powershell-malware-deobfuscation-amsi-bypass
+     ⭐ 0  🗣 PowerShell  📅 2026-07-30
+     🔗 https://github.com/Rdahunsi/powershell-malware-deobfuscation-amsi-bypass
+     📝 Analyzing and de-obfuscation of a Base64-encoded ransomware dropper bypassing Wi…
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 Photon-Security/agentic-offensive-security
+     ⭐ 0  🗣 Python  📅 2026-07-31
+     🔗 https://github.com/Photon-Security/agentic-offensive-security
+     📝 Agentic offensive security skills and workflows
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 CHAITHANYAHEGDE/CIC-MalMem2022-Binary-Malware-Detection
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-31
+     🔗 https://github.com/CHAITHANYAHEGDE/CIC-MalMem2022-Binary-Malware-Detection
+     📝 Dual-Paradigm Binary Malware Detection using Batch Machine Learning and CapyMOA …
+     🏷  active-learning, binary-classification, capymoa, concept-drift, cybersecurity, digital-forensics, explainable-ai, intrusion-detection, jupyter-notebook, lightgbm, lime, machine-learning, malware-detection, online-learning, optuna, python, shap, streaming-machine-learning, xgboost
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 marcelobarrosufu/master_mba
+     ⭐ 0  🗣 C++  📅 2026-07-31
+     🔗 https://github.com/marcelobarrosufu/master_mba
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 PurinatWanthanathanya/My-Cybersecurity-Knowledge-Hub
+     ⭐ 0  🗣 HTML  📅 2026-07-31
+     🔗 https://github.com/PurinatWanthanathanya/My-Cybersecurity-Knowledge-Hub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 ms-j-511/Ti_aggregator
+     ⭐ 0  🗣 Python  📅 2026-07-31
+     🔗 https://github.com/ms-j-511/Ti_aggregator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 m524security/EXONERVE
+     ⭐ 1  🗣 Python  📅 2026-07-31
+     🔗 https://github.com/m524security/EXONERVE
+     📝 Automation-first SOC & Blue Team platform — detects 42 ATT&CK techniques in mill…
+     🏷  blue-team, cybersecurity, dfir, incident-response, intrusion-detection, mitre-attack, python, ransomware-detection, self-healing, sigma, soc, threat-detection
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 RamiPwn/soc-lotl-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-07-31
+     🔗 https://github.com/RamiPwn/soc-lotl-lab
+     📝 Company Blue Team Homelab with Wazuh, OPNsense and LOLTL Detection
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 Robingens1/wazuh-siem-bruteforce-lab
+     ⭐ 0  🗣 N/A  📅 2026-07-31
+     🔗 https://github.com/Robingens1/wazuh-siem-bruteforce-lab
+     📝 SIEM lab demonstrating endpoint deployment, attack simulation, and telemetry ana…
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 KKingZero/Erebus
+     ⭐ 0  🗣 Go  📅 2026-07-31
+     🔗 https://github.com/KKingZero/Erebus
+     📝 Erebus: an AI-native C2 framework, architected from the ground up for AI-assiste…
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 Ayyadi266/LightEDR
+     ⭐ 0  🗣 Python  📅 2026-07-31
+     🔗 https://github.com/Ayyadi266/LightEDR
+     📝 Lightweight Windows EDR — ETW agent, mTLS transport, FastAPI backend, Sigma/YARA…
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 Aimank009/MD_Simulation_5KXI
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-07-31
+     🔗 https://github.com/Aimank009/MD_Simulation_5KXI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 5h1n6o/RedTeam-Operations
+     ⭐ 0  🗣 N/A  📅 2026-07-31
+     🔗 https://github.com/5h1n6o/RedTeam-Operations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 sanjaynandanj/sentra
+     ⭐ 0  🗣 Python  📅 2026-07-31
+     🔗 https://github.com/sanjaynandanj/sentra
+     📝 Agentic AI SOC & Compliance Automation platform — every alert auto-investigated …
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 BraedonHaensel/tier-3-shortcuts
+     ⭐ 0  🗣 PowerShell  📅 2026-07-31
+     🔗 https://github.com/BraedonHaensel/tier-3-shortcuts
+     📝 Script for creating VS Code shortcuts to EDR Tier 3 repositories.
+     🏷  —
+[2026-07-31 19:34:22 UTC] [NEW]   🆕 📦 b0edrj69yk/b0edrj69yk_script
+     ⭐ 0  🗣 Shell  📅 2026-07-31
+     🔗 https://github.com/b0edrj69yk/b0edrj69yk_script
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-31 19:34:22 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-07-31 19:34:22 UTC] [UPD]   📢 📦 bsmensah-ctrl/DLL-Injection-Lab
+     ⭐ 1  🗣 Python  📅 2026-07-31
+     🔗 https://github.com/bsmensah-ctrl/DLL-Injection-Lab
+     📝 Simulate and detect the full DLL-injection telemetry chain—no VM, no admin, zero…
+     🏷  blue-team, cybersecurity, detection-engineering, dll-injection, edr, malware-analysis, mitre-attack, process-injection, python, sarif, security-automation, security-education, security-lab, security-tools, siem, soc, telemetry, threat-detection, vulnify, windows-security
+     🔄 Motivo: repo recente (0gg) | nuovi topic: security-automation, telemetry, edr, siem, vulnify, soc
+[2026-07-31 19:34:22 UTC] [UPD]   📢 📦 nks1097/SOC-MCP-Server-wazuh-thehive-cortex-misp
+     ⭐ 0  🗣 Python  📅 2026-07-30
+     🔗 https://github.com/nks1097/SOC-MCP-Server-wazuh-thehive-cortex-misp
+     📝 Servidor MCP de Orquestração SOC integrando Wazuh, TheHive, Cortex e MISP com 10…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-07-31 19:34:22 UTC] [INFO] Query: 'kernel-exploit'
+[2026-07-31 19:34:22 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-07-31 19:34:23 UTC] [INFO]   → 26 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-07-31 19:34:23 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-07-31 19:34:23 UTC] [NEW]   🆕 📦 ItsBlurf/poorcontrol
+     ⭐ 2  🗣 C  📅 2026-07-31
+     🔗 https://github.com/ItsBlurf/poorcontrol
+     📝 Wireless DualShock 4 to native PS5 controller bridge for firmware 11.60
+     🏷  —
+[2026-07-31 19:34:23 UTC] [NEW]   🆕 📦 wdc6ntjzfr-ship-it/ps4alex
+     ⭐ 0  🗣 JavaScript  📅 2026-07-31
+     🔗 https://github.com/wdc6ntjzfr-ship-it/ps4alex
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-07-31 19:34:23 UTC] [NEW]   🆕 📦 ramadhands/pshen
+     ⭐ 0  🗣 JavaScript  📅 2026-07-31
+     🔗 https://github.com/ramadhands/pshen
+     📝 WebKit HEN Frimware 6.00-11.02
+     🏷  —
+[2026-07-31 19:34:23 UTC] [NEW]   🆕 📦 datfooldive/ghostlock-emerald
+     ⭐ 0  🗣 C  📅 2026-07-31
+     🔗 https://github.com/datfooldive/ghostlock-emerald
+     📝 GhostLock (CVE-2026-43499) kernel exploit for Poco M6 Pro (emerald) with locked …
+     🏷  —
+[2026-07-31 19:34:23 UTC] [NEW]   🆕 📦 boypabloo/webkit
+     ⭐ 0  🗣 JavaScript  📅 2026-07-31
+     🔗 https://github.com/boypabloo/webkit
+     📝 WebKit HEN Frimware 6.00-11.02
+     🏷  —
+[2026-07-31 19:34:23 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-07-31 19:34:23 UTC] [UPD]   📢 📦 ibrahimatmorphis/ProjectSword
+     ⭐ 0  🗣 Objective-C  📅 2026-07-30
+     🔗 https://github.com/ibrahimatmorphis/ProjectSword
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-07-31 19:34:24 UTC] [INFO] ============================================================
+[2026-07-31 19:34:24 UTC] [INFO] Completato — 23 nuovi, 3 aggiornati, 0 errori
+[2026-07-31 19:34:24 UTC] [INFO] ============================================================
