@@ -50819,3 +50819,161 @@
 [2026-08-01 08:22:36 UTC] [INFO] ============================================================
 [2026-08-01 08:22:36 UTC] [INFO] Completato — 20 nuovi, 2 aggiornati, 0 errori
 [2026-08-01 08:22:36 UTC] [INFO] ============================================================
+[2026-08-01 13:23:38 UTC] [INFO] ============================================================
+[2026-08-01 13:23:38 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-01 13:23:38 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-01 13:23:38 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-01 13:23:38 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-01 13:23:38 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-01 13:23:38 UTC] [INFO] ============================================================
+[2026-08-01 13:23:38 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-01 13:23:38 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-01 13:23:40 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-01 13:23:40 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-01 13:23:40 UTC] [NEW]   🆕 📦 gmh5225/cheat-engine-undetectable
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/gmh5225/cheat-engine-undetectable
+     📝 Academic Research Edition - T1: User-mode evasion (obfuscation + syscall gateway…
+     🏷  —
+[2026-08-01 13:23:40 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-01 13:23:40 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-01 13:23:40 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-01 13:23:43 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 w4wcrvzmn2-oss/SentinelGuard
+     ⭐ 0  🗣 C#  📅 2026-08-01
+     🔗 https://github.com/w4wcrvzmn2-oss/SentinelGuard
+     📝 SentinelGuard — система защиты Windows Server (EDR-style для одного хоста)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 dylanpatriarchi/argus
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/dylanpatriarchi/argus
+     📝 Argus. A minimal, educational EDR / endpoint monitor written in Nim. It collects…
+     🏷  blue-team, defensive-security, detection-engineering, edr, educational, endpoint-detection, endpoint-security, learning-project, mitre-attack, nim, nim-lang, security, security-monitoring, siem, threat-detection
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 amit-sharma-5/what-else-review
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/amit-sharma-5/what-else-review
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 ajavonwalter1234-lang/SOC-analyst
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/ajavonwalter1234-lang/SOC-analyst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 Samrudh2006/MY_LINUX_JOURNEY
+     ⭐ 0  🗣 JavaScript  📅 2026-08-01
+     🔗 https://github.com/Samrudh2006/MY_LINUX_JOURNEY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 KArthick707/soc-analyst-agent
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/KArthick707/soc-analyst-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 l74o61eg98/EdRoAnClXq
+     ⭐ 1  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/l74o61eg98/EdRoAnClXq
+     📝 【小程序计算机毕业设计分享】基于微信小程序的社区购物平台开发，MySQL 小程序开发 毕业设计 实战项目【附源码、文档报告、代码讲解】
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 aami63/edrwib
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/aami63/edrwib
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 Onmaynec/SysDiff
+     ⭐ 1  🗣 C#  📅 2026-07-31
+     🔗 https://github.com/Onmaynec/SysDiff
+     📝 Полноценная terminal утилита для снимков, сравнения и расследования изменений Wi…
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 Ninaddeo11/Ninaddeo11
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/Ninaddeo11/Ninaddeo11
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 ARES-SYS/uefi_bootkit_softlanding
+     ⭐ 0  🗣 YARA  📅 2026-08-01
+     🔗 https://github.com/ARES-SYS/uefi_bootkit_softlanding
+     📝 First public analysis of SoftLanding UEFI bootkit: Ring -2 implant, CVE-2025-702…
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 xiaoxiaoy110856-gif/STS-VLDB-Artifact
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/xiaoxiaoy110856-gif/STS-VLDB-Artifact
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 yeahmedia/edrkrr
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/yeahmedia/edrkrr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 AmirrezaRoodsaz/edrive-foc-control
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/AmirrezaRoodsaz/edrive-foc-control
+     📝 Field-oriented control of a simulated PMSM EV traction drive: portable C firmwar…
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 sevephen-max/free-edr
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/sevephen-max/free-edr
+     📝 rdp
+     🏷  —
+[2026-08-01 13:23:43 UTC] [NEW]   🆕 📦 ntantisoluvuyo3-blip/elastic-siem-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/ntantisoluvuyo3-blip/elastic-siem-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:43 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-01 13:23:43 UTC] [UPD]   📢 📦 hgguy/acheron-toolkit
+     ⭐ 0  🗣 Shell  📅 2026-08-01
+     🔗 https://github.com/hgguy/acheron-toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-01 13:23:43 UTC] [UPD]   📢 📦 pranay123-stack/noxstream
+     ⭐ 0  🗣 TypeScript  📅 2026-08-01
+     🔗 https://github.com/pranay123-stack/noxstream
+     📝 Confidential payroll streaming on iExec Nox — one public aggregate Sablier strea…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-01 13:23:43 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-01 13:23:43 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-01 13:23:45 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-01 13:23:45 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-08-01 13:23:45 UTC] [NEW]   🆕 📦 ramadhands/webkit
+     ⭐ 0  🗣 JavaScript  📅 2026-08-01
+     🔗 https://github.com/ramadhands/webkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:45 UTC] [NEW]   🆕 📦 Lum0s-Solutions/CoM-Syn_OS-Public
+     ⭐ 0  🗣 Rust  📅 2026-08-01
+     🔗 https://github.com/Lum0s-Solutions/CoM-Syn_OS-Public
+     📝 Temporary mirror of the Church of Malware / Syn_OS community source (churchofmal…
+     🏷  —
+[2026-08-01 13:23:45 UTC] [NEW]   🆕 📦 nabileoffice/1102
+     ⭐ 0  🗣 JavaScript  📅 2026-08-01
+     🔗 https://github.com/nabileoffice/1102
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:45 UTC] [NEW]   🆕 📦 rezaadi0105/CFF
+     ⭐ 0  🗣 JavaScript  📅 2026-08-01
+     🔗 https://github.com/rezaadi0105/CFF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:45 UTC] [NEW]   🆕 📦 zainsial866/Kioptrix-Level-1
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/zainsial866/Kioptrix-Level-1
+     📝 A comprehensive penetration testing walkthrough of the Kioptrix Level 1 vulnerab…
+     🏷  —
+[2026-08-01 13:23:45 UTC] [NEW]   🆕 📦 kolbymaxx/Project-Lumina
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/kolbymaxx/Project-Lumina
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 13:23:45 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-01 13:23:45 UTC] [UPD]   📢 📦 ibrahimatmorphis/ProjectSword
+     ⭐ 0  🗣 Objective-C  📅 2026-07-30
+     🔗 https://github.com/ibrahimatmorphis/ProjectSword
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-01 13:23:45 UTC] [INFO] ============================================================
+[2026-08-01 13:23:45 UTC] [INFO] Completato — 23 nuovi, 3 aggiornati, 0 errori
+[2026-08-01 13:23:45 UTC] [INFO] ============================================================
