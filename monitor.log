@@ -50977,3 +50977,208 @@
 [2026-08-01 13:23:45 UTC] [INFO] ============================================================
 [2026-08-01 13:23:45 UTC] [INFO] Completato — 23 nuovi, 3 aggiornati, 0 errori
 [2026-08-01 13:23:45 UTC] [INFO] ============================================================
+[2026-08-01 19:09:37 UTC] [INFO] ============================================================
+[2026-08-01 19:09:37 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-01 19:09:37 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-01 19:09:37 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-01 19:09:37 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-01 19:09:37 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-01 19:09:37 UTC] [INFO] ============================================================
+[2026-08-01 19:09:37 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-01 19:09:37 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-01 19:09:39 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-01 19:09:39 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-01 19:09:39 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-01 19:09:39 UTC] [UPD]   📢 📦 m524security/EXONERVE
+     ⭐ 1  🗣 Python  📅 2026-07-31
+     🔗 https://github.com/m524security/EXONERVE
+     📝 Automation-first SOC & Blue Team platform — detects 42 ATT&CK techniques in mill…
+     🏷  blue-team, cybersecurity, dfir, incident-response, intrusion-detection, mitre-attack, python, ransomware-detection, self-healing, sigma, soc, threat-detection
+     🔄 Motivo: repo recente (1gg)
+[2026-08-01 19:09:39 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-01 19:09:39 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-01 19:09:41 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 Sidi3355/saurus
+     ⭐ 0  🗣 C#  📅 2026-08-01
+     🔗 https://github.com/Sidi3355/saurus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 Ayyadi266/Ayyadi266
+     ⭐ 1  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/Ayyadi266/Ayyadi266
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 JoasASantos/NeuroPurple
+     ⭐ 0  🗣 Rust  📅 2026-08-01
+     🔗 https://github.com/JoasASantos/NeuroPurple
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 Malik1051/Phase-2-OCI-Production-Environment
+     ⭐ 0  🗣 HCL  📅 2026-08-01
+     🔗 https://github.com/Malik1051/Phase-2-OCI-Production-Environment
+     📝 Production-style Oracle Cloud Infrastructure (OCI) environment built with Terraf…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 Ayyadi266/soc-siem-detection-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-08-01
+     🔗 https://github.com/Ayyadi266/soc-siem-detection-lab
+     📝 Wazuh + Sysmon home-lab framework for detection engineering: 17 custom, MITRE AT…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 manavag-2005/CyberShield-EDR
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/manavag-2005/CyberShield-EDR
+     📝 CyberShield EDR is an enterprise-inspired behavior-based Endpoint Detection & Re…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 irinerosesajis-dot/soc-ai-agent
+     ⭐ 0  🗣 JavaScript  📅 2026-07-31
+     🔗 https://github.com/irinerosesajis-dot/soc-ai-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 JVBotelho/dcsync-variant-tester
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/JVBotelho/dcsync-variant-tester
+     📝 Tests whether DRS flag manipulation evades DCSync detection; spoiler: it doesn't…
+     🏷  active-directory, dcsync, detection-engineering, impacket, red-team, security-research
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 elvaigh/helpdesk
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/elvaigh/helpdesk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 Seshadri724/Agent-Wires
+     ⭐ 0  🗣 TypeScript  📅 2026-08-01
+     🔗 https://github.com/Seshadri724/Agent-Wires
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 ooladipo/ooladipo
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/ooladipo/ooladipo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 deepseyindark/SOCGPT
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/deepseyindark/SOCGPT
+     📝 AI-powered SOC platform that ingests security logs (EVTX, Sysmon, CloudTrail, Az…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 faris7assan/SentinelAI
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/faris7assan/SentinelAI
+     📝 "Enterprise-ready Endpoint Detection and Response (EDR) & SIEM platform with act…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 RishiNatarajan6932/SOC_Alert_System
+     ⭐ 0  🗣 Python  📅 2026-07-31
+     🔗 https://github.com/RishiNatarajan6932/SOC_Alert_System
+     📝 We will be creating a SOC agent that will help organize levels of suspicious act…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 whereissam/Traceback
+     ⭐ 0  🗣 TypeScript  📅 2026-08-01
+     🔗 https://github.com/whereissam/Traceback
+     📝 AI-Assisted Digital Forensics
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 EDRipper/EDRipper
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/EDRipper/EDRipper
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 Sigmaxx459/Incident-Response-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/Sigmaxx459/Incident-Response-Playbook
+     📝 Incident response playbook covering BEC, Ransomware and DDos attacks scenarios i…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 thomasbeo/WindowsEndpointThreatHuntingLab
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/thomasbeo/WindowsEndpointThreatHuntingLab
+     📝 Python-based Windows endpoint threat hunting lab featuring behavioral detections…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 joseadejezus/oscp-http-serve
+     ⭐ 1  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/joseadejezus/oscp-http-serve
+     📝 Serves my loot dir over HTTP and prints ready-to-paste download commands with my…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 edrnlls/edrnlls.github.io
+     ⭐ 0  🗣 HTML  📅 2026-08-01
+     🔗 https://github.com/edrnlls/edrnlls.github.io
+     📝 Página de Links
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 CyberMartha/Malware-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/CyberMartha/Malware-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 hajrafatima505-tech/Design-a-Cyber-Response-Plan.
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/hajrafatima505-tech/Design-a-Cyber-Response-Plan.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 adelic-ai/agentwatch
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/adelic-ai/agentwatch
+     📝 EDR-style detection for autonomous LLM agents — reconciles what an agent said it…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 Drastixs/ai_duck_hack
+     ⭐ 1  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/Drastixs/ai_duck_hack
+     📝 usb rubber ducky with ai agent. 
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 SOLMANRAW/edr-ticket-bot
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/SOLMANRAW/edr-ticket-bot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:41 UTC] [NEW]   🆕 📦 Talhaarif/Guardian-for-Wordpress
+     ⭐ 0  🗣 PHP  📅 2026-08-01
+     🔗 https://github.com/Talhaarif/Guardian-for-Wordpress
+     📝 a wordpress plugin which help you protect, maintained and scan the critical thre…
+     🏷  —
+[2026-08-01 19:09:41 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-01 19:09:41 UTC] [UPD]   📢 📦 CipherZer0-Core/Cipher-Defense
+     ⭐ 0  🗣 Rust  📅 2026-08-01
+     🔗 https://github.com/CipherZer0-Core/Cipher-Defense
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-01 19:09:41 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-01 19:09:41 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-01 19:09:43 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-01 19:09:43 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-01 19:09:43 UTC] [NEW]   🆕 📦 nabilazil/linux-log-paths-soc.md
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/nabilazil/linux-log-paths-soc.md
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:43 UTC] [NEW]   🆕 📦 DoJoMan18/fs25_ptero
+     ⭐ 0  🗣 Shell  📅 2026-08-01
+     🔗 https://github.com/DoJoMan18/fs25_ptero
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-01 19:09:43 UTC] [NEW]   🆕 📦 ramadhands/webkit
+     ⭐ 0  🗣 JavaScript  📅 2026-08-01
+     🔗 https://github.com/ramadhands/webkit
+     📝 https://ramadhands.github.io/webkit/
+     🏷  —
+[2026-08-01 19:09:43 UTC] [NEW]   🆕 📦 NotebookNomad/icepick-offsec
+     ⭐ 0  🗣 Shell  📅 2026-08-01
+     🔗 https://github.com/NotebookNomad/icepick-offsec
+     📝 A Kali container toolkit for authorized bug bounty and CTF work, driven by ./dec…
+     🏷  —
+[2026-08-01 19:09:43 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-01 19:09:43 UTC] [UPD]   📢 📦 Lum0s-Solutions/CoM-Syn_OS-Public
+     ⭐ 0  🗣 Rust  📅 2026-08-01
+     🔗 https://github.com/Lum0s-Solutions/CoM-Syn_OS-Public
+     📝 Temporary mirror of the Church of Malware / Syn_OS community source (churchofmal…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-01 19:09:43 UTC] [UPD]   📢 📦 ibrahimatmorphis/ProjectSword
+     ⭐ 0  🗣 Objective-C  📅 2026-07-30
+     🔗 https://github.com/ibrahimatmorphis/ProjectSword
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-01 19:09:43 UTC] [UPD]   📢 📦 kolbymaxx/Project-Lumina
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/kolbymaxx/Project-Lumina
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-01 19:09:43 UTC] [INFO] ============================================================
+[2026-08-01 19:09:43 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
+[2026-08-01 19:09:43 UTC] [INFO] ============================================================
