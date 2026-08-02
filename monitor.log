@@ -51182,3 +51182,166 @@
 [2026-08-01 19:09:43 UTC] [INFO] ============================================================
 [2026-08-01 19:09:43 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
 [2026-08-01 19:09:43 UTC] [INFO] ============================================================
+[2026-08-02 02:53:43 UTC] [INFO] ============================================================
+[2026-08-02 02:53:43 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-02 02:53:43 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-02 02:53:43 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-02 02:53:43 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-02 02:53:43 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-02 02:53:43 UTC] [INFO] ============================================================
+[2026-08-02 02:53:43 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-02 02:53:43 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-02 02:53:44 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-02 02:53:44 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-02 02:53:44 UTC] [NEW]   🆕 📦 10fax01/HP_SWTOOLS_DRIVER
+     ⭐ 0  🗣 C++  📅 2026-08-01
+     🔗 https://github.com/10fax01/HP_SWTOOLS_DRIVER
+     📝 HP_SWTOOLS_DRIVER a vulnerable driver
+     🏷  —
+[2026-08-02 02:53:44 UTC] [NEW]   🆕 📦 ZekiTRR/KrnPatch
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/ZekiTRR/KrnPatch
+     📝 Custom BYOVD for educational purpose 
+     🏷  —
+[2026-08-02 02:53:44 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-02 02:53:44 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-02 02:53:44 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-02 02:53:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 anthonycm/Assignment_4A
+     ⭐ 0  🗣 HTML  📅 2026-08-02
+     🔗 https://github.com/anthonycm/Assignment_4A
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 muhammadkashifsecurityengineer/0xBLUE
+     ⭐ 0  🗣 HTML  📅 2026-08-02
+     🔗 https://github.com/muhammadkashifsecurityengineer/0xBLUE
+     📝 Browser-importable bookmark collection (453 links, 61 categories) for SOC Analys…
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 Meyer07/file_scanner
+     ⭐ 0  🗣 Python  📅 2026-08-02
+     🔗 https://github.com/Meyer07/file_scanner
+     📝 This program is a file scanner to scan files for potential malware in Python 
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 CatCorner22/dental
+     ⭐ 0  🗣 TypeScript  📅 2026-08-02
+     🔗 https://github.com/CatCorner22/dental
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 RedHarlowCore/Xyeta-Malware-Analysis
+     ⭐ 1  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/RedHarlowCore/Xyeta-Malware-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 jenishs524/Aegis-Security-Platform-v1.0.0
+     ⭐ 0  🗣 Python  📅 2026-08-02
+     🔗 https://github.com/jenishs524/Aegis-Security-Platform-v1.0.0
+     📝 Aegis Security Platform is a modular Python-based application security platform …
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 Smijal-Mathew-Thomas/SOAR-EDR-Response-Lab-LimaCharlie-Tines
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/Smijal-Mathew-Thomas/SOAR-EDR-Response-Lab-LimaCharlie-Tines
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 hellnbak/AgentSim
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/hellnbak/AgentSim
+     📝 Defensive simulation of autonomous-agent command patterns
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 api-evangelist/deepwatch
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/api-evangelist/deepwatch
+     📝 Company profile (portfolio lead) — Deepwatch
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 BlickandMorty/ai-workspace-guardrails
+     ⭐ 0  🗣 PowerShell  📅 2026-08-01
+     🔗 https://github.com/BlickandMorty/ai-workspace-guardrails
+     📝 Enterprise project isolation, agent authorization gates, NTFS boundaries, integr…
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 ryan-sharpnack/asm-register-dumper
+     ⭐ 0  🗣 C  📅 2026-08-01
+     🔗 https://github.com/ryan-sharpnack/asm-register-dumper
+     📝 A standalone Linux x86_64 assembly utility that captures, formats, and dumps rea…
+     🏷  assembly, c, cpu-registers, debugging-tools, linux-kernel, low-level, x86-64
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 BshayerAhmed1/Ransomware-EDR-Simulation
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/BshayerAhmed1/Ransomware-EDR-Simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 LucioFex/security-data-lake-lab
+     ⭐ 1  🗣 HTML  📅 2026-08-01
+     🔗 https://github.com/LucioFex/security-data-lake-lab
+     📝 Guía interactiva bilingüe de security data lakes para equipos de Threat Intellig…
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 adamvalves/kamranamd
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/adamvalves/kamranamd
+     📝 Systems Programming | Windows & Linux Kernel | Low-level Hypervisor & Security A…
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 younussyed/zero-trust-solution-design
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/younussyed/zero-trust-solution-design
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 spadieri/rhook
+     ⭐ 0  🗣 Rust  📅 2026-08-01
+     🔗 https://github.com/spadieri/rhook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 Wejdan45/soc-lab-elastic-sysmon
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/Wejdan45/soc-lab-elastic-sysmon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 juniorkalvin7/TRUE4SEC-AnyWare
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/juniorkalvin7/TRUE4SEC-AnyWare
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 arharif/Security-plus-sy0-701-roadmap
+     ⭐ 1  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/arharif/Security-plus-sy0-701-roadmap
+     📝 A structured CompTIA Security+ SY0-701 learning roadmap with domain explanations…
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 BadrDr03/enterprise-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/BadrDr03/enterprise-soc-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [NEW]   🆕 📦 czrt431-hue/aura
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/czrt431-hue/aura
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 02:53:46 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-02 02:53:46 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-02 02:53:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-02 02:53:48 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-02 02:53:48 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-02 02:53:48 UTC] [NEW]   🆕 📦 1ndevelopment/CVE-2026-43499-S26
+     ⭐ 1  🗣 C  📅 2026-08-01
+     🔗 https://github.com/1ndevelopment/CVE-2026-43499-S26
+     📝 Root prototype for Galaxy S26
+     🏷  —
+[2026-08-02 02:53:48 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-02 02:53:48 UTC] [UPD]   📢 📦 ibrahimatmorphis/ProjectSword
+     ⭐ 0  🗣 Objective-C  📅 2026-07-30
+     🔗 https://github.com/ibrahimatmorphis/ProjectSword
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-02 02:53:48 UTC] [UPD]   📢 📦 Lum0s-Solutions/CoM-Syn_OS-Public
+     ⭐ 0  🗣 Rust  📅 2026-08-01
+     🔗 https://github.com/Lum0s-Solutions/CoM-Syn_OS-Public
+     📝 Temporary mirror of the Church of Malware / Syn_OS community source (churchofmal…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-02 02:53:48 UTC] [UPD]   📢 📦 kolbymaxx/Project-Lumina
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/kolbymaxx/Project-Lumina
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-02 02:53:48 UTC] [INFO] ============================================================
+[2026-08-02 02:53:48 UTC] [INFO] Completato — 24 nuovi, 3 aggiornati, 0 errori
+[2026-08-02 02:53:48 UTC] [INFO] ============================================================
