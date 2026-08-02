@@ -51345,3 +51345,142 @@
 [2026-08-02 02:53:48 UTC] [INFO] ============================================================
 [2026-08-02 02:53:48 UTC] [INFO] Completato — 24 nuovi, 3 aggiornati, 0 errori
 [2026-08-02 02:53:48 UTC] [INFO] ============================================================
+[2026-08-02 08:25:35 UTC] [INFO] ============================================================
+[2026-08-02 08:25:35 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-02 08:25:35 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-02 08:25:35 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-02 08:25:35 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-02 08:25:35 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-02 08:25:35 UTC] [INFO] ============================================================
+[2026-08-02 08:25:35 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-02 08:25:35 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-02 08:25:37 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-02 08:25:37 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-02 08:25:37 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-02 08:25:37 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-02 08:25:37 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-02 08:25:40 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 plomze/edrled
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/plomze/edrled
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 andring67/edruqg
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/andring67/edruqg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 shrutikamble9764-hue/VM-Risk-Prioritization-Tool
+     ⭐ 0  🗣 JavaScript  📅 2026-08-02
+     🔗 https://github.com/shrutikamble9764-hue/VM-Risk-Prioritization-Tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 mingshsg/data_generator
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/mingshsg/data_generator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 Onmaynec/TraceLens
+     ⭐ 1  🗣 C#  📅 2026-08-01
+     🔗 https://github.com/Onmaynec/TraceLens
+     📝 TraceLens — консольный диагностический инструмент для Windows 10 и Windows 11. О…
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 AbhigyanPratap007/Splunk-SOC-Monitoring-and-Detection-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/AbhigyanPratap007/Splunk-SOC-Monitoring-and-Detection-Engineering
+     📝 This project implements an end-to-end Windows security monitoring environment in…
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 meghanarao-15/governance-calendar
+     ⭐ 0  🗣 HTML  📅 2026-08-02
+     🔗 https://github.com/meghanarao-15/governance-calendar
+     📝 Cybersecurity Governance Activity Calendar - 6 domains across 5 review frequenci…
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 waruna-2002/SOC-Endpoint-Threat-Watchdog
+     ⭐ 0  🗣 HTML  📅 2026-08-02
+     🔗 https://github.com/waruna-2002/SOC-Endpoint-Threat-Watchdog
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 Kora-Manoj/soc-fundamentals-notes
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/Kora-Manoj/soc-fundamentals-notes
+     📝 Flowchart-based notes on SOC concepts (SIEM, EDR, MITRE ATT&CK, Cyber Kill Chain…
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 hemanthkori/beacon-hunter
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/hemanthkori/beacon-hunter
+     📝 Statistical detection of periodic C2 beaconing in Zeek conn logs. Fleet rarity w…
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 tschuegy/AetherEngine
+     ⭐ 0  🗣 Swift  📅 2026-08-02
+     🔗 https://github.com/tschuegy/AetherEngine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 edrugpa9da/edrugpa9da_script
+     ⭐ 0  🗣 Shell  📅 2026-08-02
+     🔗 https://github.com/edrugpa9da/edrugpa9da_script
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 SBecraft/mod11-personas-system-prompts
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/SBecraft/mod11-personas-system-prompts
+     📝 This repo is my working space for Module 11- Personas and System Prompts in AI C…
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 azureflow0288/edrkhm
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/azureflow0288/edrkhm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 MoSamir59-coder/ESP32_PCBdesign
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/MoSamir59-coder/ESP32_PCBdesign
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 Jaraga-Cyber/SOAR-EDR-LaZagne-Detection
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/Jaraga-Cyber/SOAR-EDR-LaZagne-Detection
+     📝 SOAR/EDR home lab: LimaCharlie detection + Tines automation + Slack analyst-in-t…
+     🏷  —
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 GOLDXEGG/ARACHNE
+     ⭐ 0  🗣 Swift  📅 2026-08-01
+     🔗 https://github.com/GOLDXEGG/ARACHNE
+     📝 macOS menu-bar system monitor with a pixel-art spider map. CPU, memory, GPU, dis…
+     🏷  acos, menubar, pixel-art, swift, system-monitor
+[2026-08-02 08:25:40 UTC] [NEW]   🆕 📦 Dcadet050/SOAR-EDR-Project-
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/Dcadet050/SOAR-EDR-Project-
+     📝 SOAR/EDR Project using LimaCharlie 
+     🏷  —
+[2026-08-02 08:25:40 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-02 08:25:40 UTC] [UPD]   📢 📦 BadrDr03/enterprise-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/BadrDr03/enterprise-soc-lab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-02 08:25:40 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-02 08:25:40 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-02 08:25:41 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-02 08:25:41 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-02 08:25:41 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-02 08:25:41 UTC] [UPD]   📢 📦 ibrahimatmorphis/ProjectSword
+     ⭐ 0  🗣 Objective-C  📅 2026-07-30
+     🔗 https://github.com/ibrahimatmorphis/ProjectSword
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-02 08:25:41 UTC] [UPD]   📢 📦 1ndevelopment/CVE-2026-43499-S26
+     ⭐ 1  🗣 C  📅 2026-08-01
+     🔗 https://github.com/1ndevelopment/CVE-2026-43499-S26
+     📝 Root prototype for Galaxy S26
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-02 08:25:41 UTC] [UPD]   📢 📦 Lum0s-Solutions/CoM-Syn_OS-Public
+     ⭐ 0  🗣 Rust  📅 2026-08-01
+     🔗 https://github.com/Lum0s-Solutions/CoM-Syn_OS-Public
+     📝 Temporary mirror of the Church of Malware / Syn_OS community source (churchofmal…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-02 08:25:41 UTC] [INFO] ============================================================
+[2026-08-02 08:25:41 UTC] [INFO] Completato — 18 nuovi, 4 aggiornati, 0 errori
+[2026-08-02 08:25:41 UTC] [INFO] ============================================================
