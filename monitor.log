@@ -52139,3 +52139,237 @@
 [2026-08-03 02:55:11 UTC] [INFO] ============================================================
 [2026-08-03 02:55:11 UTC] [INFO] Completato — 36 nuovi, 6 aggiornati, 0 errori
 [2026-08-03 02:55:11 UTC] [INFO] ============================================================
+[2026-08-03 09:48:01 UTC] [INFO] ============================================================
+[2026-08-03 09:48:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-03 09:48:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-03 09:48:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-03 09:48:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-03 09:48:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-03 09:48:01 UTC] [INFO] ============================================================
+[2026-08-03 09:48:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-03 09:48:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-03 09:48:03 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-03 09:48:03 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-03 09:48:03 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-03 09:48:03 UTC] [UPD]   📢 📦 Cjayy77/Assay
+     ⭐ 0  🗣 N/A  📅 2026-08-01
+     🔗 https://github.com/Cjayy77/Assay
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-03 09:48:03 UTC] [UPD]   📢 📦 0rangec3t/Black-cat
+     ⭐ 202  🗣 Python  📅 2026-07-30
+     🔗 https://github.com/0rangec3t/Black-cat
+     📝 Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红…
+     🏷  pentest, pentest-tools, red-team
+     🔄 Motivo: repo recente (4gg)
+[2026-08-03 09:48:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-03 09:48:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-03 09:48:06 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 35 NUOVI repository:
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 anousonephyakeo/topological-cyber-engine
+     ⭐ 0  🗣 Rust  📅 2026-08-03
+     🔗 https://github.com/anousonephyakeo/topological-cyber-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 Syedraihaan/EDR-AGENT
+     ⭐ 0  🗣 Rust  📅 2026-08-03
+     🔗 https://github.com/Syedraihaan/EDR-AGENT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 srimadhi1112/ai-soc-analyst-platform-main
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/srimadhi1112/ai-soc-analyst-platform-main
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 vasyakiborg123-bit/Edrsmacrorenderer
+     ⭐ 0  🗣 C++  📅 2026-08-03
+     🔗 https://github.com/vasyakiborg123-bit/Edrsmacrorenderer
+     📝 Gd macro renderer(mp4)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 GZ-920/Blog
+     ⭐ 0  🗣 CSS  📅 2026-08-03
+     🔗 https://github.com/GZ-920/Blog
+     📝 个人博客静态网页
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 sysdr/production-xdr-edr
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/sysdr/production-xdr-edr
+     📝 Build a Production-Grade EDR/XDR From Scratch
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 lakshay-0423/GuardianEDR
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/lakshay-0423/GuardianEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 Warzeddd/anssi-hardened-critical-infrastructure
+     ⭐ 0  🗣 Shell  📅 2026-08-03
+     🔗 https://github.com/Warzeddd/anssi-hardened-critical-infrastructure
+     📝 Durcissement d'infrastructure critique (ANSSI BP-028, AD GPO/PSO, Linux Bash), i…
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 3tternp/windows-security-baseline
+     ⭐ 0  🗣 PowerShell  📅 2026-08-03
+     🔗 https://github.com/3tternp/windows-security-baseline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 MuhammadWahab7/Behavioral-Fingerprint-Based-Malware-Detection
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/MuhammadWahab7/Behavioral-Fingerprint-Based-Malware-Detection
+     📝 Detects malware by analyzing behavioral patterns instead of relying only on file…
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 FarhanAfiq3006/Anti-Keylogger-Detector
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/FarhanAfiq3006/Anti-Keylogger-Detector
+     📝 A Python desktop tool for detecting suspicious keylogger files on Windows 11, fe…
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 polarowl827/edrrtg
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/polarowl827/edrrtg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 chengzongcai/reverse-skill-backup
+     ⭐ 0  🗣 PowerShell  📅 2026-08-03
+     🔗 https://github.com/chengzongcai/reverse-skill-backup
+     📝 Independent preservation mirror of zhaoxuya520/reverse-skill
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 yawb00/post-incident-rca
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/yawb00/post-incident-rca
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 TreasureBoy520/sec_profile
+     ⭐ 0  🗣 HTML  📅 2026-08-03
+     🔗 https://github.com/TreasureBoy520/sec_profile
+     📝 Restored from anonymous99-Rise
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 TreasureBoy520/pocWiki
+     ⭐ 0  🗣 HTML  📅 2026-08-03
+     🔗 https://github.com/TreasureBoy520/pocWiki
+     📝 Restored from anonymous99-Rise
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 shinywave1862/edrnhp
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/shinywave1862/edrnhp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 xnasusx/xnasusx
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/xnasusx/xnasusx
+     📝 GitHub profile README: GRC engineering, FAIR cyber risk quantification, complian…
+     🏷  cybersecurity, fair-model, grc, grc-engineering, profile, risk-quantification
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 hdgvfr/REAPER.Crypter
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/hdgvfr/REAPER.Crypter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 edris541/edris541
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/edris541/edris541
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 hariharasudhan10ai/Automated-Security-Technology-Assessment
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/hariharasudhan10ai/Automated-Security-Technology-Assessment
+     📝 Automated Security Technology Assessment using Nagomi
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 hariharasudhan10ai/Global-Enterprise-EDR-Deployment
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/hariharasudhan10ai/Global-Enterprise-EDR-Deployment
+     📝 Enterprise Endpoint Security Transformation & EDR Modernization
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 bhargavich09/Bhargavi_Cortex
+     ⭐ 0  🗣 Batchfile  📅 2026-08-03
+     🔗 https://github.com/bhargavich09/Bhargavi_Cortex
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 kryzhou/edrkvn
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/kryzhou/edrkvn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 bhargavich09/Bhargavi_emios
+     ⭐ 0  🗣 Batchfile  📅 2026-08-03
+     🔗 https://github.com/bhargavich09/Bhargavi_emios
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 TreasureBoy520/cve-2026-poc-collection
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/TreasureBoy520/cve-2026-poc-collection
+     📝 Restored from anonymous99-Rise
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 shinyfire34813/edrzoh
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/shinyfire34813/edrzoh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 cyber-subh/hawk-ai-soc-copilot-
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/cyber-subh/hawk-ai-soc-copilot-
+     📝 HAWK AI is an AI-powered SOC Analyst Copilot that automatically correlates secur…
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 zenflow1631/edrvge
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/zenflow1631/edrvge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 King0fWorm/Security-for-AI
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/King0fWorm/Security-for-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 ekomsSavior/hvnc_implant
+     ⭐ 0  🗣 C++  📅 2026-08-03
+     🔗 https://github.com/ekomsSavior/hvnc_implant
+     📝 hvnc implant with c2 for super educational puroses xo
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-SOC-AI-Windows-Event-Log-Triage-Assistant
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/browndarwin231-Tech/Darwin-SOC-AI-Windows-Event-Log-Triage-Assistant
+     📝 SOC Tier 1 automation lab using Hayabusa, Windows Event Logs, PowerShell, Excel,…
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 Wachn/SOC_Agent
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/Wachn/SOC_Agent
+     📝 Developing the agent framework for SOC graph usage
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 KingSoverus/4NSIC
+     ⭐ 1  🗣 Rust  📅 2026-08-02
+     🔗 https://github.com/KingSoverus/4NSIC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:06 UTC] [NEW]   🆕 📦 TreasureBoy520/POC
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/TreasureBoy520/POC
+     📝 Restored from anonymous99-Rise
+     🏷  —
+[2026-08-03 09:48:06 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-03 09:48:06 UTC] [UPD]   📢 📦 CatCorner22/dental
+     ⭐ 0  🗣 TypeScript  📅 2026-08-02
+     🔗 https://github.com/CatCorner22/dental
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-03 09:48:06 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-03 09:48:06 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-03 09:48:08 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-03 09:48:08 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-03 09:48:08 UTC] [NEW]   🆕 📦 TrevoCastles/writeup-Snapped-HackThebox
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/TrevoCastles/writeup-Snapped-HackThebox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:08 UTC] [NEW]   🆕 📦 waruna-2002/Container-Security-Auditor-Engine
+     ⭐ 0  🗣 HTML  📅 2026-08-03
+     🔗 https://github.com/waruna-2002/Container-Security-Auditor-Engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 09:48:08 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-03 09:48:08 UTC] [UPD]   📢 📦 1ndevelopment/CVE-2026-43499-S26
+     ⭐ 3  🗣 C  📅 2026-08-01
+     🔗 https://github.com/1ndevelopment/CVE-2026-43499-S26
+     📝 Root prototype for Galaxy S26
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-03 09:48:08 UTC] [INFO] ============================================================
+[2026-08-03 09:48:08 UTC] [INFO] Completato — 37 nuovi, 4 aggiornati, 0 errori
+[2026-08-03 09:48:08 UTC] [INFO] ============================================================
