@@ -52373,3 +52373,172 @@
 [2026-08-03 09:48:08 UTC] [INFO] ============================================================
 [2026-08-03 09:48:08 UTC] [INFO] Completato — 37 nuovi, 4 aggiornati, 0 errori
 [2026-08-03 09:48:08 UTC] [INFO] ============================================================
+[2026-08-03 14:41:15 UTC] [INFO] ============================================================
+[2026-08-03 14:41:15 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-03 14:41:15 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-03 14:41:15 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-03 14:41:15 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-03 14:41:15 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-03 14:41:15 UTC] [INFO] ============================================================
+[2026-08-03 14:41:15 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-03 14:41:15 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-03 14:41:16 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-03 14:41:16 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-03 14:41:16 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-03 14:41:16 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-03 14:41:16 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-03 14:41:19 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 autod3structeur/3assas
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/autod3structeur/3assas
+     📝 eBPF-based runtime threat detection engine (Falco-like)
+     🏷  bcc, ebpf, falco, security, threat-detection
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 LearningGallery/terraform-azure-orchestrator
+     ⭐ 0  🗣 HCL  📅 2026-08-03
+     🔗 https://github.com/LearningGallery/terraform-azure-orchestrator
+     📝 Captures the AI-orchestration angle + the IaC tool. 
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 Mheymann1/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/Mheymann1/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 baddilasowmya/soc-alert-correlation-sql
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/baddilasowmya/soc-alert-correlation-sql
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 dragopress/DevSecOps
+     ⭐ 0  🗣 TypeScript  📅 2026-08-02
+     🔗 https://github.com/dragopress/DevSecOps
+     📝 DevSecOps Security Pipeline Studio
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 Squ1shification/CAPE-Notes
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/Squ1shification/CAPE-Notes
+     📝 HTB Certified Active Directory Pentesting Expert (CAPE) study notes and cheatshe…
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 darkdestiny-7/Cyber-Kill-Chain-Guide
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/darkdestiny-7/Cyber-Kill-Chain-Guide
+     📝 A beginner-friendly breakdown of Lockheed Martin's 7-stage Cyber Kill Chain fram…
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 edrtzo59nt/edrtzo59nt_script
+     ⭐ 0  🗣 Shell  📅 2026-08-03
+     🔗 https://github.com/edrtzo59nt/edrtzo59nt_script
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 Squ1shification/CRTO-Notes
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/Squ1shification/CRTO-Notes
+     📝 Red Team Ops (CRTO) study notes and cheatsheet
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 premkrs987-ops/SOC-Project
+     ⭐ 0  🗣 PowerShell  📅 2026-08-03
+     🔗 https://github.com/premkrs987-ops/SOC-Project
+     📝 AI powered SOC-SIEM project using powerful tools.
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 x0-lf/cleaning-scripts
+     ⭐ 0  🗣 PowerShell  📅 2026-08-03
+     🔗 https://github.com/x0-lf/cleaning-scripts
+     📝 A bunch of windows powershell cleaning scripts such you'd run when uninstalling …
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 charan94/security-assessment
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/charan94/security-assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 andhenx/wazuh-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/andhenx/wazuh-soc-lab
+     📝 Home SOC Caseiro com Wazuh
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 stevenke1981/traceforge-security-skills
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/stevenke1981/traceforge-security-skills
+     📝 Defensive security research and evidence-driven analysis Agent Skills
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 DanaSerikova/soc-ir-cases
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/DanaSerikova/soc-ir-cases
+     📝 П1 — Расследования инцидентов (IR Cases)
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 goldenstar8394/edrtix
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/goldenstar8394/edrtix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 dzoba/bright-pixels
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/dzoba/bright-pixels
+     📝 A verified HDR image brightness demo: Rec.2020 + PQ inside an SDR webpage
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 yanfg20/edrgao
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/yanfg20/edrgao
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 kasyapgirijan/Security-report-review-prompts
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/kasyapgirijan/Security-report-review-prompts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 LaurentiuTopai/NETRA
+     ⭐ 0  🗣 C  📅 2026-08-03
+     🔗 https://github.com/LaurentiuTopai/NETRA
+     📝 Netra — NDR/EDR System
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 MozB-lab/enterprise-active-directory-security-assessment
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/MozB-lab/enterprise-active-directory-security-assessment
+     📝 46-day enterprise AD security assessment demonstrating BUILD→ATTACK→DEFEND  life…
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 N00R-cs11/System-Vulnerability-Checklist
+     ⭐ 0  🗣 Python  📅 2026-08-02
+     🔗 https://github.com/N00R-cs11/System-Vulnerability-Checklist
+     📝 A professional Flask-based Cyber Security auditing application that analyzes Win…
+     🏷  —
+[2026-08-03 14:41:19 UTC] [NEW]   🆕 📦 joeabur/Security-Automation-with-python
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/joeabur/Security-Automation-with-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-03 14:41:19 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-03 14:41:19 UTC] [UPD]   📢 📦 VincentLindsay/IT-and-Cybersecurity-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/VincentLindsay/IT-and-Cybersecurity-Portfolio
+     📝 The goal of this repository to be showcase a library of projects that I have com…
+     🏷  cybersecurity, information-technology
+     🔄 Motivo: repo recente (0gg)
+[2026-08-03 14:41:19 UTC] [UPD]   📢 📦 CatCorner22/dental
+     ⭐ 0  🗣 TypeScript  📅 2026-08-02
+     🔗 https://github.com/CatCorner22/dental
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-03 14:41:19 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-03 14:41:19 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-03 14:41:21 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-03 14:41:21 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-03 14:41:21 UTC] [NEW]   🆕 📦 jason5545/ghostlock-myron-tw
+     ⭐ 0  🗣 C  📅 2026-08-03
+     🔗 https://github.com/jason5545/ghostlock-myron-tw
+     📝 GhostLock (CVE-2026-43499) kernel exploit port for REDMI K90 Pro Max Taiwan firm…
+     🏷  —
+[2026-08-03 14:41:21 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-03 14:41:21 UTC] [UPD]   📢 📦 jbshouca/OSCP
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/jbshouca/OSCP
+     📝 Comprehensive study guide for Offensive Security Certified Professional
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-03 14:41:21 UTC] [UPD]   📢 📦 amireager/agent-env
+     ⭐ 0  🗣 Nix  📅 2026-07-31
+     🔗 https://github.com/amireager/agent-env
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-03 14:41:21 UTC] [INFO] ============================================================
+[2026-08-03 14:41:21 UTC] [INFO] Completato — 24 nuovi, 4 aggiornati, 0 errori
+[2026-08-03 14:41:21 UTC] [INFO] ============================================================
