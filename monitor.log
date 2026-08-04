@@ -52715,3 +52715,208 @@
 [2026-08-03 19:38:53 UTC] [INFO] ============================================================
 [2026-08-03 19:38:53 UTC] [INFO] Completato — 26 nuovi, 3 aggiornati, 0 errori
 [2026-08-03 19:38:53 UTC] [INFO] ============================================================
+[2026-08-04 02:39:34 UTC] [INFO] ============================================================
+[2026-08-04 02:39:34 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-04 02:39:34 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-04 02:39:34 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-04 02:39:34 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-04 02:39:34 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-04 02:39:34 UTC] [INFO] ============================================================
+[2026-08-04 02:39:34 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-04 02:39:34 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-04 02:39:36 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-04 02:39:36 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-04 02:39:36 UTC] [NEW]   🆕 📦 iShowLinux/bsideslv-2026-tuesday
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/iShowLinux/bsideslv-2026-tuesday
+     📝 BSidesLV 2026 Tuesday Aug 4 itinerary — rich-hacker path (defensive builder + mo…
+     🏷  —
+[2026-08-04 02:39:36 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-04 02:39:36 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-04 02:39:36 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-04 02:39:39 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-SOC-AI-Threat-Hunting-Query-Generator
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/browndarwin231-Tech/Darwin-SOC-AI-Threat-Hunting-Query-Generator
+     📝 Advanced SOC threat-hunting dashboard that generates KQL, Splunk SPL, and Elasti…
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 HoangGia73/HelpdeskApp
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/HoangGia73/HelpdeskApp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 cyberagha0/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/cyberagha0/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 gmbl474030/manitos-creativas-edrizel
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/gmbl474030/manitos-creativas-edrizel
+     📝 Catálogo web de Manitos Creativas Edrizel.
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 Kevin-Liu-01/HDRPop
+     ⭐ 0  🗣 TypeScript  📅 2026-08-04
+     🔗 https://github.com/Kevin-Liu-01/HDRPop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 coolslaz/detections
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/coolslaz/detections
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 testbots-ai/testbot-agent-releases
+     ⭐ 0  🗣 Shell  📅 2026-08-03
+     🔗 https://github.com/testbots-ai/testbot-agent-releases
+     📝 Public release binaries for testbot-agent (source lives in a private repo)
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 henriquejsza/XeKit
+     ⭐ 0  🗣 C++  📅 2026-08-03
+     🔗 https://github.com/henriquejsza/XeKit
+     📝 Experimental macOS graphics driver for Intel Alder Lake Iris Xe (8086:46a8), bui…
+     🏷  alder-lake, graphics-driver, intel, iokit, iris-xe, kernel-extension, macos, reverse-engineering
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 Aperlock/chronolith-detection-rules
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/Aperlock/chronolith-detection-rules
+     📝  Chronolith SIEM public detection rules
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 lonelyloli/Portable-Multi-Parameter-Patient-Monitor-Based-ON-ESP-NOW
+     ⭐ 0  🗣 C++  📅 2026-08-03
+     🔗 https://github.com/lonelyloli/Portable-Multi-Parameter-Patient-Monitor-Based-ON-ESP-NOW
+     📝 This study developed a portable ESP32-based patient monitor using ESP-NOW for wi…
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 EdrisRijschool/Edris-theorie-
+     ⭐ 0  🗣 HTML  📅 2026-08-04
+     🔗 https://github.com/EdrisRijschool/Edris-theorie-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-Full-SOC-AI-Augmented-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/browndarwin231-Tech/Darwin-Full-SOC-AI-Augmented-Home-Lab
+     📝 Advanced SOC home lab combining Hayabusa Windows log analysis, explainable alert…
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 dabiederrick5000-svg/EDR-ALERT-DASHBOARD
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/dabiederrick5000-svg/EDR-ALERT-DASHBOARD
+     📝 This project builds a Centralized Antivirus/EDR Alert Aggregation Dashboard to e…
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-SOC-AI-Assisted-Sigma-Rule-Builder-Validator
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/browndarwin231-Tech/Darwin-SOC-AI-Assisted-Sigma-Rule-Builder-Validator
+     📝 Streamlit detection-engineering lab that builds Sigma YAML rules, validates requ…
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 BarryRodick/edravoss-lore
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/BarryRodick/edravoss-lore
+     📝 Official public lore for Edravoss.
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-SOC-AI-Incident-Timeline-Shift-Handoff-Generator
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/browndarwin231-Tech/Darwin-SOC-AI-Incident-Timeline-Shift-Handoff-Generator
+     📝 SOC Tier 1 Streamlit application that converts Hayabusa Windows event data into …
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-SOC-AI-False-Positive-Reduction-Dashboard
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/browndarwin231-Tech/Darwin-SOC-AI-False-Positive-Reduction-Dashboard
+     📝 SOC Tier 1 Streamlit dashboard using Python, Pandas, and Hayabusa timeline data …
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 ekomsSavior/hvnc-implant
+     ⭐ 1  🗣 C++  📅 2026-08-03
+     🔗 https://github.com/ekomsSavior/hvnc-implant
+     📝 hvnc implant w/c2 its super educational and fun for the whole fam.
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 Meowmycks/EkkoNtProtect
+     ⭐ 4  🗣 C  📅 2026-08-03
+     🔗 https://github.com/Meowmycks/EkkoNtProtect
+     📝 Arbitrary NtProtectVirtualMemory calls from Ekko-style timer-based sleep obfusca…
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 panic-forge/panic-docs
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/panic-forge/panic-docs
+     📝 Future home of PANIC's Windows EDR documentation.
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 danyelwehbi/local-sentinel-siem
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/danyelwehbi/local-sentinel-siem
+     📝 Local endpoint visibility, detection, and alert triage. A defensive, offline SIE…
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 Imsainthwar/Imsainthwar
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/Imsainthwar/Imsainthwar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 muhiminulhasan/raksha
+     ⭐ 0  🗣 Rust  📅 2026-08-03
+     🔗 https://github.com/muhiminulhasan/raksha
+     📝 A JIT page-fault PE packer for Windows x64, written in Rust
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 Squ1shification/OSEP-Notes
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/Squ1shification/OSEP-Notes
+     📝 OSEP (PEN-300) Evasion Techniques and Breaching Defenses - Study Notes
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 J-xy/iSOC
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/J-xy/iSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 02:39:39 UTC] [NEW]   🆕 📦 C7OUDYdotexe/TI_Aggregator
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/C7OUDYdotexe/TI_Aggregator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 02:39:39 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-04 02:39:39 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-04 02:39:39 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-04 02:39:41 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-04 02:39:41 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-04 02:39:41 UTC] [NEW]   🆕 📦 vagvaz/pocketverse
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/vagvaz/pocketverse
+     📝 The place your agents go, do their thing, An Orchestrated Sandboxing Framework
+     🏷  —
+[2026-08-04 02:39:41 UTC] [NEW]   🆕 📦 Squ1shification/OSEP-Notes
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/Squ1shification/OSEP-Notes
+     📝 OSEP (PEN-300) Evasion Techniques and Breaching Defenses - Study Notes
+     🏷  —
+[2026-08-04 02:39:41 UTC] [NEW]   🆕 📦 OpenBMB/ForgeStencil
+     ⭐ 0  🗣 Cuda  📅 2026-08-03
+     🔗 https://github.com/OpenBMB/ForgeStencil
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 02:39:41 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-04 02:39:41 UTC] [UPD]   📢 📦 sinyuryuu/fireos-framework-analysis
+     ⭐ 0  🗣 Java  📅 2026-08-03
+     🔗 https://github.com/sinyuryuu/fireos-framework-analysis
+     📝 Evidence-driven Fire OS 7 HOME resolver and protected-package analysis for Amazo…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-04 02:39:41 UTC] [UPD]   📢 📦 Lum0s-Solutions/CoM-Syn_OS-Public
+     ⭐ 0  🗣 Rust  📅 2026-08-01
+     🔗 https://github.com/Lum0s-Solutions/CoM-Syn_OS-Public
+     📝 Temporary mirror of the Church of Malware / Syn_OS community source (churchofmal…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-04 02:39:41 UTC] [UPD]   📢 📦 jason5545/ghostlock-myron-tw
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/jason5545/ghostlock-myron-tw
+     📝 GhostLock (CVE-2026-43499) kernel exploit port for REDMI K90 Pro Max Taiwan firm…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-04 02:39:41 UTC] [UPD]   📢 📦 isaacvincent/linux-enumeration-cheatsheet
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/isaacvincent/linux-enumeration-cheatsheet
+     📝 A comprehensive Linux Enumeration & Privilege Escalation Cheatsheet for Penetrat…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-04 02:39:41 UTC] [UPD]   📢 📦 jbshouca/OSCP
+     ⭐ 0  🗣 N/A  📅 2026-08-02
+     🔗 https://github.com/jbshouca/OSCP
+     📝 Comprehensive study guide for Offensive Security Certified Professional
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-04 02:39:41 UTC] [INFO] ============================================================
+[2026-08-04 02:39:41 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
+[2026-08-04 02:39:41 UTC] [INFO] ============================================================
