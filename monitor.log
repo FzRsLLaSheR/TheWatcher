@@ -52920,3 +52920,178 @@
 [2026-08-04 02:39:41 UTC] [INFO] ============================================================
 [2026-08-04 02:39:41 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
 [2026-08-04 02:39:41 UTC] [INFO] ============================================================
+[2026-08-04 08:38:20 UTC] [INFO] ============================================================
+[2026-08-04 08:38:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-04 08:38:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-04 08:38:20 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-04 08:38:20 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-04 08:38:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-04 08:38:20 UTC] [INFO] ============================================================
+[2026-08-04 08:38:20 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-04 08:38:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-04 08:38:22 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-04 08:38:22 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-04 08:38:22 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-04 08:38:22 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-04 08:38:22 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-04 08:38:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 johikaj/edrewd
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/johikaj/edrewd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 prasonegulacoe/edrkqo
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/prasonegulacoe/edrkqo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 xiaou61/codex-destructive-guard
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/xiaou61/codex-destructive-guard
+     📝 Lightweight Codex hook that blocks destructive Windows operations before executi…
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 alvinwongmo/IT-PAM
+     ⭐ 0  🗣 PowerShell  📅 2026-08-04
+     🔗 https://github.com/alvinwongmo/IT-PAM
+     📝 一款輕量級、免伺服器的 PC 端帳號密碼管理工具，專為小型 IT 團隊打造
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 Jamesjaq/ARES
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/Jamesjaq/ARES
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 ArthurBalashov/cs-practise-suricata
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/ArthurBalashov/cs-practise-suricata
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 lougautr/chifoumi-masters
+     ⭐ 0  🗣 JavaScript  📅 2026-08-04
+     🔗 https://github.com/lougautr/chifoumi-masters
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 johnmcgovern-s1/s1-opmc-ansible
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/johnmcgovern-s1/s1-opmc-ansible
+     📝 A one-shot Ansible playbook that installs the SentinelOne self-hosted (on-premis…
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 Varunrajparimi/Automated---IR-Playbooks
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/Varunrajparimi/Automated---IR-Playbooks
+     📝 Automated - IR Playbooks, IOC enrichment, EDR isolate, IP block, identity reset,…
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 harrywvu/mas-governance-bc
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/harrywvu/mas-governance-bc
+     📝 Phase-Scoped Access Control and Statistical Content Attestation for Blockchain-E…
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 Nishmal-00/AtomicRunner
+     ⭐ 0  🗣 CSS  📅 2026-08-04
+     🔗 https://github.com/Nishmal-00/AtomicRunner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 linsyking/btdev-sync
+     ⭐ 1  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/linsyking/btdev-sync
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 kush-coder/autopilot-anthropic-cybersecurity-skills-v3
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/kush-coder/autopilot-anthropic-cybersecurity-skills-v3
+     📝 Official Build & Verified Release | 817 structured cybersecurity skills for AI a…
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 AnimSparrow/AnimSparrow
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/AnimSparrow/AnimSparrow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 PatriqueRaonintsoa/edrive
+     ⭐ 0  🗣 PHP  📅 2026-08-04
+     🔗 https://github.com/PatriqueRaonintsoa/edrive
+     📝 Projet e-drive
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 testbots-ai/scoop-bucket
+     ⭐ 0  🗣 N/A  📅 2026-08-03
+     🔗 https://github.com/testbots-ai/scoop-bucket
+     📝 Scoop bucket for testbot-agent (source lives in a private repo)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 amberpuma3539/edrent
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/amberpuma3539/edrent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 clamontpatrick1425/DeepTech-Sourcing
+     ⭐ 0  🗣 TypeScript  📅 2026-08-03
+     🔗 https://github.com/clamontpatrick1425/DeepTech-Sourcing
+     📝 To locate top PhD-level AI researchers, ML engineers, and core framework contrib…
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 christrinidad/esp32-cyd
+     ⭐ 0  🗣 C  📅 2026-08-04
+     🔗 https://github.com/christrinidad/esp32-cyd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:25 UTC] [NEW]   🆕 📦 Cybereason-edr/.github
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/Cybereason-edr/.github
+     📝 Download cybereason edr to strengthen endpoint defense with behavior-based detec…
+     🏷  —
+[2026-08-04 08:38:25 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-04 08:38:25 UTC] [UPD]   📢 📦 SaidurRahman22/Linux_AV_EDR
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/SaidurRahman22/Linux_AV_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-04 08:38:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-04 08:38:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-04 08:38:27 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-04 08:38:27 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-04 08:38:27 UTC] [NEW]   🆕 📦 zainsial866/Kioptrix-Level-3
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/zainsial866/Kioptrix-Level-3
+     📝 A complete walkthrough of Kioptrix Level 3, covering reconnaissance, LotusCMS fi…
+     🏷  —
+[2026-08-04 08:38:27 UTC] [NEW]   🆕 📦 zweifuchs/limen
+     ⭐ 0  🗣 Shell  📅 2026-08-04
+     🔗 https://github.com/zweifuchs/limen
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:27 UTC] [NEW]   🆕 📦 SatoruGoj0/ProjectSword
+     ⭐ 0  🗣 Objective-C  📅 2026-08-04
+     🔗 https://github.com/SatoruGoj0/ProjectSword
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 08:38:27 UTC] [NEW]   🆕 📦 and0re77/HTB_Orchestrator
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/and0re77/HTB_Orchestrator
+     📝 A per-machine pentest workspace controller for authorized Hack The Box targets, …
+     🏷  —
+[2026-08-04 08:38:27 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-04 08:38:27 UTC] [UPD]   📢 📦 sinyuryuu/fireos-framework-analysis
+     ⭐ 0  🗣 Java  📅 2026-08-03
+     🔗 https://github.com/sinyuryuu/fireos-framework-analysis
+     📝 Evidence-driven Fire OS 7 HOME resolver and protected-package analysis for Amazo…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-04 08:38:27 UTC] [UPD]   📢 📦 OpenBMB/ForgeStencil
+     ⭐ 19  🗣 Cuda  📅 2026-08-03
+     🔗 https://github.com/OpenBMB/ForgeStencil
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-04 08:38:27 UTC] [UPD]   📢 📦 1ndevelopment/CVE-2026-43499-S26
+     ⭐ 5  🗣 C  📅 2026-08-01
+     🔗 https://github.com/1ndevelopment/CVE-2026-43499-S26
+     📝 Root prototype for Galaxy S26 , very much indev
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-04 08:38:27 UTC] [UPD]   📢 📦 Lum0s-Solutions/CoM-Syn_OS-Public
+     ⭐ 0  🗣 Rust  📅 2026-08-01
+     🔗 https://github.com/Lum0s-Solutions/CoM-Syn_OS-Public
+     📝 Temporary mirror of the Church of Malware / Syn_OS community source (churchofmal…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-04 08:38:27 UTC] [INFO] ============================================================
+[2026-08-04 08:38:27 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
+[2026-08-04 08:38:27 UTC] [INFO] ============================================================
