@@ -53095,3 +53095,231 @@
 [2026-08-04 08:38:27 UTC] [INFO] ============================================================
 [2026-08-04 08:38:27 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
 [2026-08-04 08:38:27 UTC] [INFO] ============================================================
+[2026-08-04 14:16:41 UTC] [INFO] ============================================================
+[2026-08-04 14:16:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-04 14:16:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-04 14:16:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-04 14:16:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-04 14:16:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-04 14:16:41 UTC] [INFO] ============================================================
+[2026-08-04 14:16:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-04 14:16:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-04 14:16:44 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-04 14:16:44 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-04 14:16:44 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-04 14:16:44 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-04 14:16:44 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-04 14:16:47 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 33 NUOVI repository:
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 cosmicbear77015/edrbdf
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/cosmicbear77015/edrbdf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 vasikaran24/Enterprise-Sysmon-Threat-Hunting-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/vasikaran24/Enterprise-Sysmon-Threat-Hunting-Lab
+     📝 Enterprise Windows Threat Hunting Lab using Sysmon, Windows Security Logs, Power…
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 VagabondSEC/usb-ghost
+     ⭐ 0  🗣 Batchfile  📅 2026-08-04
+     🔗 https://github.com/VagabondSEC/usb-ghost
+     📝 extract chrome and edge cookies via usb, fully decrypted in one click
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 microlaser/detect-windowlayeringattack
+     ⭐ 0  🗣 PowerShell  📅 2026-08-04
+     🔗 https://github.com/microlaser/detect-windowlayeringattack
+     📝 Small script to detect if you have window layering malware on Windows 11
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 bahiry1/the_graph
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/bahiry1/the_graph
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 HelixCipher/mouse-jiggler
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/HelixCipher/mouse-jiggler
+     📝 Cross-platform Bezier curve hardware mouse jiggler using an RP2350-One. Spoofs a…
+     🏷  adafruit, bezier-curves, circuitpython, edr-evasion, hid, mouse-jiggler, pico, rp2350, waveshare
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 dbarrett-tks/ThreatIntelligence
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/dbarrett-tks/ThreatIntelligence
+     📝 Various Items that can be used for threat intelligence
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 abdo5-jpg/redphantom
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/abdo5-jpg/redphantom
+     📝 graduation project
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 iwasaydev/Malware-Breaches-Analysis-Report-Task-05
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/iwasaydev/Malware-Breaches-Analysis-Report-Task-05
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 nvaert1986/plasma-sony-v1-protocol-headphone-support
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/nvaert1986/plasma-sony-v1-protocol-headphone-support
+     📝 This PyQt application adds full control functionality fo Sony MDR protocol v1 de…
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 ParleStargazer/Tencent-EDR-Test
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/ParleStargazer/Tencent-EDR-Test
+     📝 腾讯mini
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 mfarshadabdullahkhan-png/cve-2025-53770-research
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/mfarshadabdullahkhan-png/cve-2025-53770-research
+     📝 🚨 Threat intel & incident response research on SharePoint "ToolShell" RCE zero-d…
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 lfarssi/defuse-python
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/lfarssi/defuse-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 hezekiahboibiayeofori5-pixel/project22
+     ⭐ 0  🗣 Shell  📅 2026-08-04
+     🔗 https://github.com/hezekiahboibiayeofori5-pixel/project22
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 AngelOlivares842/sentinel_core
+     ⭐ 0  🗣 Makefile  📅 2026-08-04
+     🔗 https://github.com/AngelOlivares842/sentinel_core
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 laneeeey/edr-agent-frontend
+     ⭐ 0  🗣 JavaScript  📅 2026-08-04
+     🔗 https://github.com/laneeeey/edr-agent-frontend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 XuanCarlas/winguard-vuln-scanner
+     ⭐ 0  🗣 PowerShell  📅 2026-08-04
+     🔗 https://github.com/XuanCarlas/winguard-vuln-scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 hameed1408/Aurora
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/hameed1408/Aurora
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 AaYushman41106/AI-Powered-Autonomous-Threat-Hunting-Assistant
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/AaYushman41106/AI-Powered-Autonomous-Threat-Hunting-Assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 cyberbitsorg/infra-utm-anon-egress
+     ⭐ 0  🗣 Shell  📅 2026-08-04
+     🔗 https://github.com/cyberbitsorg/infra-utm-anon-egress
+     📝 Anonymous Kali setup via Mulvad gateway
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 parag1020/cybersentinel-dfir-automation-suite
+     ⭐ 0  🗣 TypeScript  📅 2026-08-04
+     🔗 https://github.com/parag1020/cybersentinel-dfir-automation-suite
+     📝 Enterprise-grade DFIR & SOC Automation Suite built with React, TypeScript, Pytho…
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 DamoDCoder/engineering-playbook
+     ⭐ 0  🗣 Go  📅 2026-08-04
+     🔗 https://github.com/DamoDCoder/engineering-playbook
+     📝 A practical engineering framework, proven on itself: every standard this reposit…
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 zhaoyy0513/Aurora-Remote
+     ⭐ 0  🗣 Dart  📅 2026-08-04
+     🔗 https://github.com/zhaoyy0513/Aurora-Remote
+     📝 远程软件，前期局域网，后期公网
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 rahulsz/csa-v2-question-bank
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/rahulsz/csa-v2-question-bank
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 Megha-Spero/Breeze-
+     ⭐ 0  🗣 TypeScript  📅 2026-08-04
+     🔗 https://github.com/Megha-Spero/Breeze-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 errmorra/SeeSweet
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/errmorra/SeeSweet
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 luizhm-code/endpoint-integrity-monitor
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/luizhm-code/endpoint-integrity-monitor
+     📝 Monitor local de integridade de arquivos para Windows, com baseline SHA-256, aná…
+     🏷  blue-team, cybersecurity, defensive-security, file-integrity, incident-detection, python, security-monitoring, sqlite, windows
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 DarkHorse-InfoSec/argus
+     ⭐ 0  🗣 C  📅 2026-08-03
+     🔗 https://github.com/DarkHorse-InfoSec/argus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 tejashree7358-eng/AEGIS
+     ⭐ 0  🗣 TypeScript  📅 2026-08-04
+     🔗 https://github.com/tejashree7358-eng/AEGIS
+     📝 AI-powered SOC triage agent that correlates scattered alerts into explained, act…
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 alvinwongmo/IT-PAM
+     ⭐ 0  🗣 PowerShell  📅 2026-08-04
+     🔗 https://github.com/alvinwongmo/IT-PAM
+     📝 一款輕量級、免伺服器的 PC 端帳號密碼管理工具，專為小型 IT 團隊打造
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 JH-zhao-goodworks/bird
+     ⭐ 0  🗣 C#  📅 2026-08-04
+     🔗 https://github.com/JH-zhao-goodworks/bird
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 kyojin03/EDRAS
+     ⭐ 0  🗣 Go  📅 2026-08-04
+     🔗 https://github.com/kyojin03/EDRAS
+     📝 Electronic Document Routing and Approval System
+     🏷  —
+[2026-08-04 14:16:47 UTC] [NEW]   🆕 📦 Pinky-Chaudhary/Pinky-Chaudhary
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/Pinky-Chaudhary/Pinky-Chaudhary
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:47 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-04 14:16:47 UTC] [UPD]   📢 📦 muhiminulhasan/raksha
+     ⭐ 0  🗣 Rust  📅 2026-08-03
+     🔗 https://github.com/muhiminulhasan/raksha
+     📝 A JIT page-fault PE packer for Windows x64, written in Rust
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-04 14:16:47 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-04 14:16:47 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-04 14:16:49 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-04 14:16:49 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-04 14:16:49 UTC] [NEW]   🆕 📦 sudoBlackArch/test
+     ⭐ 0  🗣 HTML  📅 2026-08-04
+     🔗 https://github.com/sudoBlackArch/test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:49 UTC] [NEW]   🆕 📦 swapnashu/portfolio
+     ⭐ 0  🗣 TypeScript  📅 2026-08-04
+     🔗 https://github.com/swapnashu/portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:49 UTC] [NEW]   🆕 📦 swapnashu/swapnashu
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/swapnashu/swapnashu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-04 14:16:49 UTC] [NEW]   🆕 📦 harsha135135/sentinel
+     ⭐ 1  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/harsha135135/sentinel
+     📝 Self-healing code agent. 33/33 sandbox threats demonstrated against real Docker;…
+     🏷  —
+[2026-08-04 14:16:49 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-04 14:16:49 UTC] [UPD]   📢 📦 SatoruGoj0/ProjectSword
+     ⭐ 0  🗣 Objective-C  📅 2026-08-04
+     🔗 https://github.com/SatoruGoj0/ProjectSword
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-04 14:16:49 UTC] [UPD]   📢 📦 sinyuryuu/fireos-framework-analysis
+     ⭐ 0  🗣 Java  📅 2026-08-03
+     🔗 https://github.com/sinyuryuu/fireos-framework-analysis
+     📝 Evidence-driven Fire OS 7 HOME resolver and protected-package analysis for Amazo…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-04 14:16:49 UTC] [INFO] ============================================================
+[2026-08-04 14:16:49 UTC] [INFO] Completato — 37 nuovi, 3 aggiornati, 0 errori
+[2026-08-04 14:16:49 UTC] [INFO] ============================================================
