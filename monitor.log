@@ -53687,3 +53687,126 @@
 [2026-08-05 02:37:34 UTC] [INFO] ============================================================
 [2026-08-05 02:37:34 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
 [2026-08-05 02:37:34 UTC] [INFO] ============================================================
+[2026-08-05 08:37:46 UTC] [INFO] ============================================================
+[2026-08-05 08:37:46 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-05 08:37:46 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-05 08:37:46 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-05 08:37:46 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-05 08:37:46 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-05 08:37:46 UTC] [INFO] ============================================================
+[2026-08-05 08:37:46 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-05 08:37:46 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-05 08:37:48 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-05 08:37:48 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-05 08:37:48 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-05 08:37:48 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-05 08:37:48 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-05 08:37:51 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 cscsxx606/aegisguard
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/cscsxx606/aegisguard
+     📝 AegisGuard · AI SOC Operations Platform - 让企业放心用 AI 做安全（FastAPI + 4 Agents + Lay…
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 Syedraihaan/SIEM-ENTERPRISE
+     ⭐ 0  🗣 Go  📅 2026-08-05
+     🔗 https://github.com/Syedraihaan/SIEM-ENTERPRISE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 kelvinodarikpe88/cloud-soc-integration-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/kelvinodarikpe88/cloud-soc-integration-lab
+     📝 Multi-cloud SOC integration lab: SIEM (Sentinel, Chronicle), SOAR, EDR (Defender…
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 yaswanthvasantati/smart-energy-meter
+     ⭐ 0  🗣 C++  📅 2026-08-05
+     🔗 https://github.com/yaswanthvasantati/smart-energy-meter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 donokey/Step-On-Chord
+     ⭐ 0  🗣 TypeScript  📅 2026-08-04
+     🔗 https://github.com/donokey/Step-On-Chord
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 ZIA-NETWORKS/endpoint-detection-response-edr-guide
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/ZIA-NETWORKS/endpoint-detection-response-edr-guide
+     📝 A beginner-friendly guide explaining Endpoint Detection & Response (EDR), how it…
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 Jharnaaa/Enterprise-Security-Incident-Investigator
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/Jharnaaa/Enterprise-Security-Incident-Investigator
+     📝 AI-powered SOC Analyst using Agentic AI, RAG, and Security APIs.
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 yashraj280718/edr-system
+     ⭐ 0  🗣 JavaScript  📅 2026-08-05
+     🔗 https://github.com/yashraj280718/edr-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 nmapgithub/Automated-Semantics-Preserving-Mutations
+     ⭐ 0  🗣 PowerShell  📅 2026-08-05
+     🔗 https://github.com/nmapgithub/Automated-Semantics-Preserving-Mutations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 yslelroi/MalwareAnalysis
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/yslelroi/MalwareAnalysis
+     📝 Malware Analysis Documentation on a file called "Cartel.img"
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 mahialjaber/SOC-Log-Analysis-Datasets
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/mahialjaber/SOC-Log-Analysis-Datasets
+     📝 Curated, simulated dataset of security logs (Windows, Web, Firewall, Cloud) with…
+     🏷  cloud, cybersecurity, cybersecurity-education, cybersecurity-tools, dataset, log-analysis, siem, soc, splunk
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 APJ-S1-SamuelHo/s1-AiSiem-toolkit
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/APJ-S1-SamuelHo/s1-AiSiem-toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 hodn3s/OSINT
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/hodn3s/OSINT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 08:37:51 UTC] [NEW]   🆕 📦 vaishnaviTP123/CCN-Carnival
+     ⭐ 0  🗣 TypeScript  📅 2026-08-05
+     🔗 https://github.com/vaishnaviTP123/CCN-Carnival
+     📝 DBFS project repo
+     🏷  —
+[2026-08-05 08:37:51 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-05 08:37:51 UTC] [UPD]   📢 📦 cosmicbear77015/edrbdf
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/cosmicbear77015/edrbdf
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-05 08:37:51 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-05 08:37:51 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-05 08:37:54 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-05 08:37:54 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-05 08:37:54 UTC] [NEW]   🆕 📦 emR00T/fsociety
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/emR00T/fsociety
+     📝 My hacking lab, exploits, tools and write-ups
+     🏷  —
+[2026-08-05 08:37:54 UTC] [NEW]   🆕 📦 ROCKY2127-tech/SickOs-1.1-Walkthrough
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/ROCKY2127-tech/SickOs-1.1-Walkthrough
+     📝 Comprehensive cybersecurity penetration testing walkthrough and writeup for Vuln…
+     🏷  ctf, cybersecurity, ethical-hacking, penetration-testing, privilege-escalation, sickos, vulnhub, writeup
+[2026-08-05 08:37:54 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-05 08:37:54 UTC] [UPD]   📢 📦 sinyuryuu/fireos-framework-analysis
+     ⭐ 0  🗣 Java  📅 2026-08-03
+     🔗 https://github.com/sinyuryuu/fireos-framework-analysis
+     📝 Evidence-driven Fire OS 7 HOME resolver and protected-package analysis for Amazo…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-05 08:37:54 UTC] [UPD]   📢 📦 harsha135135/sentinel
+     ⭐ 1  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/harsha135135/sentinel
+     📝 Self-healing code agent. 33/33 sandbox threats demonstrated against real Docker;…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-05 08:37:54 UTC] [INFO] ============================================================
+[2026-08-05 08:37:54 UTC] [INFO] Completato — 16 nuovi, 3 aggiornati, 0 errori
+[2026-08-05 08:37:54 UTC] [INFO] ============================================================
