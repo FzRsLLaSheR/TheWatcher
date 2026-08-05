@@ -53512,3 +53512,178 @@
 [2026-08-04 19:38:39 UTC] [INFO] ============================================================
 [2026-08-04 19:38:39 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
 [2026-08-04 19:38:39 UTC] [INFO] ============================================================
+[2026-08-05 02:37:28 UTC] [INFO] ============================================================
+[2026-08-05 02:37:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-05 02:37:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-05 02:37:28 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-05 02:37:28 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-05 02:37:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-05 02:37:28 UTC] [INFO] ============================================================
+[2026-08-05 02:37:28 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-05 02:37:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-05 02:37:30 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-05 02:37:30 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-05 02:37:30 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-05 02:37:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-05 02:37:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-05 02:37:32 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 mimikatz-credential-extractor/.github
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/mimikatz-credential-extractor/.github
+     📝 Mimikatz extracts Windows credentials and manipulates Kerberos tickets, demonstr…
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 GurminderKaur/CareFlow
+     ⭐ 0  🗣 TypeScript  📅 2026-08-04
+     🔗 https://github.com/GurminderKaur/CareFlow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 J0hnTh3Kn1ght/PowerObfuscator
+     ⭐ 0  🗣 TypeScript  📅 2026-08-04
+     🔗 https://github.com/J0hnTh3Kn1ght/PowerObfuscator
+     📝 An editing interface and evasion tool featuring a collection of advanced obfusca…
+     🏷  anti-virus-evasion, cybersecurity-education, cybersecurity-projects, cybersecurity-tools, edr-bypass, evasion-techniques, obfuscation-script, obfuscation-tool, powershell, powershell-obfuscator, powershell-payload, website
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 opencdlee-dotcom/aegis
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/opencdlee-dotcom/aegis
+     📝 A local-only, unprivileged personal security monitor for macOS, Linux and Window…
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 sanish-1/Reverse-shell-dectetor
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/sanish-1/Reverse-shell-dectetor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 Fungirl01/INCIDENT-INTERPRETATION-SUMMARY-BASED-ON-THE-SECURITY-ALERT-REPORT-FROM-EXAMPLECORP.
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/Fungirl01/INCIDENT-INTERPRETATION-SUMMARY-BASED-ON-THE-SECURITY-ALERT-REPORT-FROM-EXAMPLECORP.
+     📝 INCIDENT INTERPRETATION & SUMMARY, BASED ON THE SECURITY ALERT REPORT FROM EXAMP…
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 dallas-x/scsim
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/dallas-x/scsim
+     📝 Benign supply-chain-attack behavioral simulator for EDR/AV detection testing
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 tarhou/chokepoint-finder-playbook
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/tarhou/chokepoint-finder-playbook
+     📝 The chokepoint remediation playbook: from findings to proven fixes, chaining Cyb…
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 tarhou/chokepoint-finder-mcp
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/tarhou/chokepoint-finder-mcp
+     📝 The Chokepoint Finder engine: FastMCP server with nine tools, deterministic demo…
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 44yyyy/Build-And-Bypass-EDR
+     ⭐ 0  🗣 C++  📅 2026-08-05
+     🔗 https://github.com/44yyyy/Build-And-Bypass-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 hippolyte2023/hippolyte2023
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/hippolyte2023/hippolyte2023
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 SamsonCyber/SamsonCyber
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/SamsonCyber/SamsonCyber
+     📝 Profile README: Samson Laird ? AI/LLM security ? OSCP
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 GABRIELBOSSTON/Browser-Extension-Security-Trust-Platform
+     ⭐ 0  🗣 Rust  📅 2026-08-05
+     🔗 https://github.com/GABRIELBOSSTON/Browser-Extension-Security-Trust-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 raifef/ri_implementation
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/raifef/ri_implementation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 KyleZhou0217/Static-Malware-Classifier
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/KyleZhou0217/Static-Malware-Classifier
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 ethansevilla/Threat-Hunt-Scenario-Tor
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/ethansevilla/Threat-Hunt-Scenario-Tor
+     📝 Unauthorized TOR Browser Installation and Use
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-SOC-Agentic-AI-Incident-Response-System
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/browndarwin231-Tech/Darwin-SOC-Agentic-AI-Incident-Response-System
+     📝 Darwin-SOC-Agentic-AI-Incident-Response-System
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 Fungirl01/DaVita-ransomware-attack-2025-
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/Fungirl01/DaVita-ransomware-attack-2025-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 gdiamelas/My_EDR_Project
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/gdiamelas/My_EDR_Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-SOC-MITRE-ATTACK-Detection-Mapping-Dashboard
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/browndarwin231-Tech/Darwin-SOC-MITRE-ATTACK-Detection-Mapping-Dashboard
+     📝 Defensive SOC dashboard built with Python, Streamlit, and SQLite that maps secur…
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 cerberaX/web-darslik
+     ⭐ 0  🗣 HTML  📅 2026-08-04
+     🔗 https://github.com/cerberaX/web-darslik
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 CuedNub/edRuleFR
+     ⭐ 0  🗣 Lua  📅 2026-08-04
+     🔗 https://github.com/CuedNub/edRuleFR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:32 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-AI-SOC-Case-Management-and-Incident-Escalation-Simulator
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/browndarwin231-Tech/Darwin-AI-SOC-Case-Management-and-Incident-Escalation-Simulator
+     📝 Advanced SOC case-management simulator using Python, Streamlit, SQLite, Hayabusa…
+     🏷  —
+[2026-08-05 02:37:32 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-05 02:37:32 UTC] [UPD]   📢 📦 cosmicbear77015/edrbdf
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/cosmicbear77015/edrbdf
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-05 02:37:32 UTC] [UPD]   📢 📦 jhosley/Liszt
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/jhosley/Liszt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-05 02:37:32 UTC] [UPD]   📢 📦 XibalbaTechSol/xibalba-shield
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/XibalbaTechSol/xibalba-shield
+     📝 Endpoint agent for AI-agent discovery, constraint, and Integrity-backed evidence…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-05 02:37:32 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-05 02:37:32 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-05 02:37:34 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-05 02:37:34 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-05 02:37:34 UTC] [NEW]   🆕 📦 diogo0501/CyberMentorTok
+     ⭐ 0  🗣 Python  📅 2026-08-04
+     🔗 https://github.com/diogo0501/CyberMentorTok
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-05 02:37:34 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-05 02:37:34 UTC] [UPD]   📢 📦 sinyuryuu/fireos-framework-analysis
+     ⭐ 0  🗣 Java  📅 2026-08-03
+     🔗 https://github.com/sinyuryuu/fireos-framework-analysis
+     📝 Evidence-driven Fire OS 7 HOME resolver and protected-package analysis for Amazo…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-05 02:37:34 UTC] [UPD]   📢 📦 swapnashu/swapnashu
+     ⭐ 0  🗣 N/A  📅 2026-08-04
+     🔗 https://github.com/swapnashu/swapnashu
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-05 02:37:34 UTC] [INFO] ============================================================
+[2026-08-05 02:37:34 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
+[2026-08-05 02:37:34 UTC] [INFO] ============================================================
