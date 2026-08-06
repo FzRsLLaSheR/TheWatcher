@@ -54579,3 +54579,283 @@
 [2026-08-06 08:37:33 UTC] [INFO] ============================================================
 [2026-08-06 08:37:33 UTC] [INFO] Completato — 20 nuovi, 3 aggiornati, 0 errori
 [2026-08-06 08:37:33 UTC] [INFO] ============================================================
+[2026-08-06 14:12:15 UTC] [INFO] ============================================================
+[2026-08-06 14:12:15 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-06 14:12:15 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-06 14:12:15 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-06 14:12:15 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-06 14:12:15 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-06 14:12:15 UTC] [INFO] ============================================================
+[2026-08-06 14:12:15 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-06 14:12:15 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-06 14:12:17 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-06 14:12:17 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-06 14:12:17 UTC] [NEW]   🆕 📦 utrawal9185-cmd/magnetar
+     ⭐ 0  🗣 C  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/magnetar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:17 UTC] [NEW]   🆕 📦 utrawal9185-cmd/DeepZero
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/DeepZero
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:17 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-06 14:12:17 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-06 14:12:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-06 14:12:20 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 apt-cypher/PORTFOLIO
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/apt-cypher/PORTFOLIO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 matthewinya/edrame
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/matthewinya/edrame
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 EDRS-ai/edrs-mvp-v2
+     ⭐ 0  🗣 TypeScript  📅 2026-08-06
+     🔗 https://github.com/EDRS-ai/edrs-mvp-v2
+     📝 edrs.io MVP v2 — Sprint 2 clean rebuild (PROMPT 0-5: auth, model danych, event l…
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 reacjmn1246/HighSecureAuthSystem
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/reacjmn1246/HighSecureAuthSystem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 johnslie/edrtja
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/johnslie/edrtja
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 hikarakimaeru/SentryEDR
+     ⭐ 0  🗣 C++  📅 2026-08-06
+     🔗 https://github.com/hikarakimaeru/SentryEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 10987325/Microsoft-Security-SOC-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/10987325/Microsoft-Security-SOC-Home-Lab
+     📝 A hands-on Microsoft Security Operations Center (SOC) home lab demonstrating Mic…
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 anjanshiva2219/snare
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/anjanshiva2219/snare
+     📝 Detection engineering: hand-authored Sigma rules for 12 ATT&CK techniques, with …
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 tibinjohn193-blip/cysa--004
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/tibinjohn193-blip/cysa--004
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 Alare-Colin/soc-introductory-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/Alare-Colin/soc-introductory-lab
+     📝 My hands on Security Operations Center (SOC) learning journey through practical …
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 thuanbg111/edr-llc-7361
+     ⭐ 0  🗣 HTML  📅 2026-08-06
+     🔗 https://github.com/thuanbg111/edr-llc-7361
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 GOP963/CyberSecurityNote
+     ⭐ 0  🗣 C++  📅 2026-08-06
+     🔗 https://github.com/GOP963/CyberSecurityNote
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 kelvinodarikpe88/csirt-automation
+     ⭐ 1  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/kelvinodarikpe88/csirt-automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 HackSpeak/falcon-sensor-visibility
+     ⭐ 1  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/HackSpeak/falcon-sensor-visibility
+     📝 Falcon Sensor coverage verification / visibility audit (defensive) — companion t…
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 silvatechf/spec-cti
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/silvatechf/spec-cti
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 bquangthien25-hub/linux-xray
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/bquangthien25-hub/linux-xray
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 hapaaut/edrqws
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/hapaaut/edrqws
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 chenryn/log-sim
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/chenryn/log-sim
+     📝 面向 SOC（安全运营中心）场景的高保真日志仿真器。通过 YAML 模板驱动，结合可配置的环境画像、加权随机分布与攻击场景注入，批量生成贴近真实企业环境的异构安…
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 Jharnaaa/SOC-AI-Analyst
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/Jharnaaa/SOC-AI-Analyst
+     📝 Enterprise Security Incident Investigator
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 devtang-official/macos-es-dlp
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/devtang-official/macos-es-dlp
+     📝 macOS Endpoint Security 기반 EDR/EPP 프로젝트
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 johnnypax/siem-log-simulator
+     ⭐ 0  🗣 JavaScript  📅 2026-08-06
+     🔗 https://github.com/johnnypax/siem-log-simulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 Syedraihaan/Automated-Incident-Response
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/Syedraihaan/Automated-Incident-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 AbhinavVellat/soc-alert-triage-tool
+     ⭐ 0  🗣 HTML  📅 2026-08-06
+     🔗 https://github.com/AbhinavVellat/soc-alert-triage-tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 DimakatsoMalope/Network-Traffic-Analysis-
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/DimakatsoMalope/Network-Traffic-Analysis-
+     📝 Investigate a SIEM alert indicating outbound communication with a known maliciou…
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 ozlemaltin/secureasset-hub
+     ⭐ 0  🗣 TypeScript  📅 2026-08-06
+     🔗 https://github.com/ozlemaltin/secureasset-hub
+     📝 Enterprise IT Asset Management and Security Risk Assessment Platform built with …
+     🏷  asset-management, asset-security, cybersecurity, dashboard, flask, information-security, jwt, nextjs, postgresql, python, react, rest-api, risk-analysis, security, typescript
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 utrawal9185-cmd/RedTeam-Tools
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/RedTeam-Tools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 utrawal9185-cmd/magnetar
+     ⭐ 0  🗣 C  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/magnetar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 utrawal9185-cmd/Digital-Forensics-Guide
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/Digital-Forensics-Guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 honeyknow/eyxa
+     ⭐ 0  🗣 TypeScript  📅 2026-08-06
+     🔗 https://github.com/honeyknow/eyxa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 utrawal9185-cmd/Claude-Red
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/Claude-Red
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 utrawal9185-cmd/bluesploit
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/bluesploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 utrawal9185-cmd/awesome-command-control
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/awesome-command-control
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 utrawal9185-cmd/Atomic-Red-Team-C2
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/Atomic-Red-Team-C2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 utrawal9185-cmd/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 utrawal9185-cmd/AiSOC
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/AiSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [NEW]   🆕 📦 sumitkrsah05/RedAgent
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/sumitkrsah05/RedAgent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:20 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-06 14:12:20 UTC] [UPD]   📢 📦 GMikeru/Intune-Endpoint-Remediations
+     ⭐ 0  🗣 PowerShell  📅 2026-08-05
+     🔗 https://github.com/GMikeru/Intune-Endpoint-Remediations
+     📝 A collection of PowerShell scripts for Microsoft Intune Proactive Remediations t…
+     🏷  endpoint-management, intune, microsoft-intune, powershell, proactive-remediations, sysadmin, windows
+     🔄 Motivo: repo recente (0gg) | nuovi topic: windows, microsoft-intune, endpoint-management, intune, powershell, sysadmin, proactive-remediations
+[2026-08-06 14:12:20 UTC] [UPD]   📢 📦 CatCorner22/dental
+     ⭐ 0  🗣 TypeScript  📅 2026-08-02
+     🔗 https://github.com/CatCorner22/dental
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-06 14:12:20 UTC] [UPD]   📢 📦 Amine-NAHLI/nexus-edr
+     ⭐ 0  🗣 CSS  📅 2026-08-05
+     🔗 https://github.com/Amine-NAHLI/nexus-edr
+     📝 Plateforme EDR (Endpoint Detection and Response) intelligente.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-06 14:12:20 UTC] [UPD]   📢 📦 devslab-kr/editor-ruler
+     ⭐ 1  🗣 TypeScript  📅 2026-08-05
+     🔗 https://github.com/devslab-kr/editor-ruler
+     📝 A Word-like horizontal ruler for web rich-text editors: margin/indent drag handl…
+     🏷  contenteditable, froala, indent, rich-text-editor, ruler, tiptap, typescript, wysiwyg
+     🔄 Motivo: repo recente (1gg)
+[2026-08-06 14:12:20 UTC] [UPD]   📢 📦 janeteneto/Splunk_Upskilling
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/janeteneto/Splunk_Upskilling
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-06 14:12:20 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-06 14:12:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-06 14:12:23 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-06 14:12:23 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-08-06 14:12:23 UTC] [NEW]   🆕 📦 sandrocm-dev/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/sandrocm-dev/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:23 UTC] [NEW]   🆕 📦 Shams-Ul-Mehmood/smb-ghost-local-privilege-escalation-exploit
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/Shams-Ul-Mehmood/smb-ghost-local-privilege-escalation-exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:23 UTC] [NEW]   🆕 📦 uncesaii/boros
+     ⭐ 0  🗣 TypeScript  📅 2026-08-06
+     🔗 https://github.com/uncesaii/boros
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:23 UTC] [NEW]   🆕 📦 kim-el/t95-h616-armbian
+     ⭐ 0  🗣 Shell  📅 2026-08-06
+     🔗 https://github.com/kim-el/t95-h616-armbian
+     📝 Flash Armbian onto a T95 (Allwinner H616) TV box, headless — verified procedure …
+     🏷  —
+[2026-08-06 14:12:23 UTC] [NEW]   🆕 📦 utrawal9185-cmd/ZeroProbe
+     ⭐ 0  🗣 PowerShell  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/ZeroProbe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:23 UTC] [NEW]   🆕 📦 utrawal9185-cmd/awesome-connected-things-sec
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/utrawal9185-cmd/awesome-connected-things-sec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 14:12:23 UTC] [NEW]   🆕 📦 AyeshaKhan-Enigma/post-exploitation-enumeration
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/AyeshaKhan-Enigma/post-exploitation-enumeration
+     📝 Manual & automated post-exploitation enumeration on Metasploitable2 — system, us…
+     🏷  —
+[2026-08-06 14:12:23 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-06 14:12:23 UTC] [INFO] ============================================================
+[2026-08-06 14:12:23 UTC] [INFO] Completato — 45 nuovi, 5 aggiornati, 0 errori
+[2026-08-06 14:12:23 UTC] [INFO] ============================================================
