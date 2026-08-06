@@ -54208,3 +54208,231 @@
 [2026-08-05 19:36:28 UTC] [INFO] ============================================================
 [2026-08-05 19:36:28 UTC] [INFO] Completato — 27 nuovi, 6 aggiornati, 0 errori
 [2026-08-05 19:36:28 UTC] [INFO] ============================================================
+[2026-08-06 02:40:13 UTC] [INFO] ============================================================
+[2026-08-06 02:40:13 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-06 02:40:13 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-06 02:40:13 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-06 02:40:13 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-06 02:40:13 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-06 02:40:13 UTC] [INFO] ============================================================
+[2026-08-06 02:40:13 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-06 02:40:13 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-06 02:40:14 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-06 02:40:14 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-06 02:40:14 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-06 02:40:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-06 02:40:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-06 02:40:17 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 29 NUOVI repository:
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 GargBhavya-tech/T.R.A.C.E.D
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/GargBhavya-tech/T.R.A.C.E.D
+     📝 T.R.A.C.E.D (Tamper Recognition and Camera Event Detection) is a robust video ca…
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 cscb603/memory-safety-net
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/cscb603/memory-safety-net
+     📝 Crash-proof, EDR-safe 4-tier defensive memory layer for LLM agents: verify / sle…
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 msr002/fw-AC792_SDK
+     ⭐ 0  🗣 C  📅 2026-08-06
+     🔗 https://github.com/msr002/fw-AC792_SDK
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 hogheadwillie/aegis-edr
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/hogheadwillie/aegis-edr
+     📝 Aegis EDR — host-based endpoint detection & response in Python: process/network/…
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 borasokgis-boop/https-github.com-borasokgis-boop-timely-crostata-c717bc
+     ⭐ 0  🗣 HTML  📅 2026-08-06
+     🔗 https://github.com/borasokgis-boop/https-github.com-borasokgis-boop-timely-crostata-c717bc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 TreasureBoy99/sec_profile
+     ⭐ 0  🗣 HTML  📅 2026-08-06
+     🔗 https://github.com/TreasureBoy99/sec_profile
+     📝 Restored from anonymous99-Rise
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 TreasureBoy99/pocWiki
+     ⭐ 0  🗣 HTML  📅 2026-08-06
+     🔗 https://github.com/TreasureBoy99/pocWiki
+     📝 Restored from anonymous99-Rise
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 msr002/fw-AC79_AIoT_SDK
+     ⭐ 0  🗣 C  📅 2026-08-06
+     🔗 https://github.com/msr002/fw-AC79_AIoT_SDK
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 MeinardEdrei/MeinardEdrei.github.io
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/MeinardEdrei/MeinardEdrei.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 Roshan-Dennis/Security-
+     ⭐ 0  🗣 TypeScript  📅 2026-08-05
+     🔗 https://github.com/Roshan-Dennis/Security-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 TreasureBoy99/cve-2026-poc-collection
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/TreasureBoy99/cve-2026-poc-collection
+     📝 Restored from anonymous99-Rise
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 White-Shepherd/ai-soc-orchestration-lab
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/White-Shepherd/ai-soc-orchestration-lab
+     📝 Evidence-driven AI-assisted SOC investigation lab with deterministic scenarios, …
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 manitoscreativas/Manitos-Creativas-Edrizel
+     ⭐ 0  🗣 HTML  📅 2026-08-05
+     🔗 https://github.com/manitoscreativas/Manitos-Creativas-Edrizel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 Harsh25s/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/Harsh25s/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 okurinmeta/network-anomaly-detector
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/okurinmeta/network-anomaly-detector
+     📝 Real-time network connection monitor with process attribution, GeoIP, and threat…
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 Amine-NAHLI/nexus-edr
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/Amine-NAHLI/nexus-edr
+     📝 Plateforme EDR (Endpoint Detection and Response) intelligente.
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 GMikeru/Intune-Endpoint-Remediations
+     ⭐ 0  🗣 PowerShell  📅 2026-08-05
+     🔗 https://github.com/GMikeru/Intune-Endpoint-Remediations
+     📝 A collection of PowerShell scripts for Microsoft Intune Proactive Remediations t…
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 egor-shishkarev/bluetooth-proximity-microphone-switcher
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/egor-shishkarev/bluetooth-proximity-microphone-switcher
+     📝 Windows proximity microphone switcher using live BR/EDR RSSI, BTHPORT and VB-CAB…
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 pablo-nieves-sec/ipID
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/pablo-nieves-sec/ipID
+     📝 Network asset identification with Qualys and Defender coverage reconciliation
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 pandacraftgarciamartinez-bot/edriel-chat
+     ⭐ 0  🗣 HTML  📅 2026-08-05
+     🔗 https://github.com/pandacraftgarciamartinez-bot/edriel-chat
+     📝 Chat
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 gayeoral8/edrac
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/gayeoral8/edrac
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 KyleZhou0217/EDR-Agent
+     ⭐ 0  🗣 Go  📅 2026-08-05
+     🔗 https://github.com/KyleZhou0217/EDR-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 gqc-wfph/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-08-05
+     🔗 https://github.com/gqc-wfph/reverse-skill
+     📝 Mirror of zhaoxuya520/reverse-skill - Reverse Engineering / Authorized Penetrati…
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 CharlyFoxAlonso/bastarek
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/CharlyFoxAlonso/bastarek
+     📝 A personal, Windows-first security guardian for developers who run AI coding age…
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 UscTrojansDodgers56/xdr-lab-elastic-defend-correlation
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/UscTrojansDodgers56/xdr-lab-elastic-defend-correlation
+     📝 XDR-style lab correlating SSH auth events with Elastic Defend endpoint telemetry…
+     🏷  blue-team, cybersecurity, detection-engineering, elastic, elastic-defend, eql, hydra, kali-linux, mitre-attack, siem, soc, ubuntu, xdr
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 saltyma/ioc-evidence-packager
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/saltyma/ioc-evidence-packager
+     📝 Local-first tool that packages IOC-related logs, timelines, processes, and file …
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 lrogregory/Connector
+     ⭐ 0  🗣 JavaScript  📅 2026-08-05
+     🔗 https://github.com/lrogregory/Connector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 James19991999/Sentinent-Oversight
+     ⭐ 0  🗣 TypeScript  📅 2026-08-05
+     🔗 https://github.com/James19991999/Sentinent-Oversight
+     📝 Threat Detector and Compliance.
+     🏷  —
+[2026-08-06 02:40:17 UTC] [NEW]   🆕 📦 pyrometheous/Lineage-TV-OS-Wifi-Upgrade-Fix-Information
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/pyrometheous/Lineage-TV-OS-Wifi-Upgrade-Fix-Information
+     📝 Troubleshooted with an LLM to get a SN30 Pro controller paired, this is the writ…
+     🏷  —
+[2026-08-06 02:40:17 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-06 02:40:17 UTC] [UPD]   📢 📦 Reece-Porter/Help
+     ⭐ 0  🗣 JavaScript  📅 2026-08-04
+     🔗 https://github.com/Reece-Porter/Help
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-06 02:40:17 UTC] [UPD]   📢 📦 AakashH2006/Mini-EDR
+     ⭐ 0  🗣 TypeScript  📅 2026-08-05
+     🔗 https://github.com/AakashH2006/Mini-EDR
+     📝 Mini EDR monitors endpoint activity on a Windows machine and provides real-time …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-06 02:40:17 UTC] [UPD]   📢 📦 sallutfederal/-toolkit
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/sallutfederal/-toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-06 02:40:17 UTC] [UPD]   📢 📦 cscsxx606/aegisguard
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/cscsxx606/aegisguard
+     📝 AegisGuard · AI SOC Operations Platform - 让企业放心用 AI 做安全（FastAPI + 4 Agents + Lay…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-06 02:40:17 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-06 02:40:17 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-06 02:40:18 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-06 02:40:18 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-06 02:40:18 UTC] [NEW]   🆕 📦 empty-town/self-hosted
+     ⭐ 0  🗣 Shell  📅 2026-08-06
+     🔗 https://github.com/empty-town/self-hosted
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-06 02:40:18 UTC] [NEW]   🆕 📦 Victorhugofariasvieir66/byte-lotus-do-not-disturb
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/Victorhugofariasvieir66/byte-lotus-do-not-disturb
+     📝 A medium-difficulty Boot2Root challenge focused on web exploitation, Node.js, Li…
+     🏷  —
+[2026-08-06 02:40:18 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-06 02:40:18 UTC] [UPD]   📢 📦 h5i-dev/h5i
+     ⭐ 502  🗣 Rust  📅 2026-03-11
+     🔗 https://github.com/h5i-dev/h5i
+     📝 Integrated sandbox for coding agents. Workspace, shell, dependencies, dev server…
+     🏷  agent-orchestration, agentic-ai, agentic-workflow, ai-coding, ai-coding-agent, ai-orchestration, ai-safety, ai-security, audit-trail, browser, claude-code, codex, git, kanban, mcp-server, multi-agent, prompt-injection, sandbox, vibe-coding, worktree-manager
+     🔄 Motivo: nuovi topic: browser
+[2026-08-06 02:40:18 UTC] [UPD]   📢 📦 WarrantBdoesZT/recon-arc
+     ⭐ 0  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/WarrantBdoesZT/recon-arc
+     📝 Advanced Reconnaissance & Attack-path Ranking Console — LLM-powered enumeration …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-06 02:40:18 UTC] [UPD]   📢 📦 marcinguy-dot/betterscan
+     ⭐ 0  🗣 Go  📅 2026-08-05
+     🔗 https://github.com/marcinguy-dot/betterscan
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-06 02:40:18 UTC] [UPD]   📢 📦 ZonicExists/ZonicExists
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/ZonicExists/ZonicExists
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-06 02:40:18 UTC] [INFO] ============================================================
+[2026-08-06 02:40:18 UTC] [INFO] Completato — 31 nuovi, 8 aggiornati, 0 errori
+[2026-08-06 02:40:18 UTC] [INFO] ============================================================
