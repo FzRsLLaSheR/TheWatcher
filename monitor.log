@@ -55189,3 +55189,203 @@
 [2026-08-07 00:02:54 UTC] [INFO] ============================================================
 [2026-08-07 00:02:54 UTC] [INFO] Completato — 55 nuovi, 5 aggiornati, 0 errori
 [2026-08-07 00:02:54 UTC] [INFO] ============================================================
+[2026-08-07 07:17:41 UTC] [INFO] ============================================================
+[2026-08-07 07:17:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-07 07:17:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-07 07:17:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-07 07:17:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-07 07:17:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-07 07:17:41 UTC] [INFO] ============================================================
+[2026-08-07 07:17:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-07 07:17:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-07 07:17:44 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-07 07:17:44 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-07 07:17:44 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-07 07:17:44 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-07 07:17:44 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-07 07:17:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 31 NUOVI repository:
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 camanit/nantara-os
+     ⭐ 0  🗣 HTML  📅 2026-08-07
+     🔗 https://github.com/camanit/nantara-os
+     📝 **Nantara OS Next-Gen 1 (4in1)** is an ambitious open-source operating system bu…
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 HatefulJb/process-audit
+     ⭐ 0  🗣 PowerShell  📅 2026-08-07
+     🔗 https://github.com/HatefulJb/process-audit
+     📝 One-shot, read-only Windows process and persistence audit. Download, run, read t…
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 plascin/edrppo
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/plascin/edrppo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 KingHuff2083/soc2-evidence-collector
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/KingHuff2083/soc2-evidence-collector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 Yogi-lohani/Yogi-lohani
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/Yogi-lohani/Yogi-lohani
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 cmcer/CMC-EDR-Responsive
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/cmcer/CMC-EDR-Responsive
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 KingHuff2083/endpoint-compliance-lab
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/KingHuff2083/endpoint-compliance-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 c-zerooo/AegisAgent
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/c-zerooo/AegisAgent
+     📝  Autonomous Multi-Agent Security Operations Center (SOC) powered by Agentic AI, …
+     🏷  agentic-ai, ai-agents, cybersecurity, fastapi, llm, multi-agent, orchestrator, python, security, soc, sse
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 Salman-abbasi123/AI-Incident-Response-Automation-Toolkit-for-SOC
+     ⭐ 0  🗣 PLpgSQL  📅 2026-08-07
+     🔗 https://github.com/Salman-abbasi123/AI-Incident-Response-Automation-Toolkit-for-SOC
+     📝 AI-powered Incident Response Automation Toolkit for Security Operations Centers …
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 karndeepbaror/wraith
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/karndeepbaror/wraith
+     📝 A deep file forensics tool that analyzes any file's metadata, entropy, true file…
+     🏷  cybersecurity, file-forensic, malware-analysis, security-tools, static-analysis
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 PratikHarke/cloudora-ato-investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/PratikHarke/cloudora-ato-investigation
+     📝 A simulated investigation to understand the Account Takeover Scenario via unknow…
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 pjdurden/claude-skills-live
+     ⭐ 1  🗣 TypeScript  📅 2026-08-07
+     🔗 https://github.com/pjdurden/claude-skills-live
+     📝 Curated, continuously verified index of Claude Code and Agent Skills tooling. Ev…
+     🏷  agent-skills, ai-agents, anthropic, awesome-list, claude, claude-code, claude-code-plugin, claude-skills, codex, developer-tools, mcp, skills
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 Mentolado/Hash-Verificator
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/Mentolado/Hash-Verificator
+     📝 This program is oriented toward SOC analysts and casual users who want to check …
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 DonDFIR/blue-team-case-studies
+     ⭐ 0  🗣 N/A  📅 2026-08-06
+     🔗 https://github.com/DonDFIR/blue-team-case-studies
+     📝 Real-world inspired Blue Team investigations documenting DFIR, Threat Hunting, D…
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 CynicDog/metchurial
+     ⭐ 1  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/CynicDog/metchurial
+     📝 Metchurial 🥚 - Treating queries as data. An ANTLR-backed engine that turns DB2 S…
+     🏷  antlr4, db2
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 ybazile/sysmon-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/ybazile/sysmon-detection-lab
+     📝 Small home lab simulating common attack techniques (PowerShell download-exec, sc…
+     🏷  blue-team, detection-engineering, mitre-attack, powershell, siem, splunk, sysmon, threat-hunting, windows-security
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 browndarwin231-Tech/Darwin-SOC-LimaCharlie-EDR-PowerShell-Detection-and-Investigation-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/browndarwin231-Tech/Darwin-SOC-LimaCharlie-EDR-PowerShell-Detection-and-Investigation-Lab
+     📝 Hands-on SOC lab using LimaCharlie EDR to deploy a Windows sensor, monitor Power…
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 moe515/soc-level-1-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/moe515/soc-level-1-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 troxanwatter/edrhfg
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/troxanwatter/edrhfg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 nakobobo/edrnpt
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/nakobobo/edrnpt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 furkanulusoy/sentinelpath-ai
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/furkanulusoy/sentinelpath-ai
+     📝 MITRE ATT&CK tabanli attack path prediction motoru
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 pjcampbe11/ai-related-talks-blackhat_defcon-8-6-26
+     ⭐ 1  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/pjcampbe11/ai-related-talks-blackhat_defcon-8-6-26
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 ravikirank29/detection-engineering-platform
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/ravikirank29/detection-engineering-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 jettcarles/edrxcr
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/jettcarles/edrxcr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 Bestleaker321/fmly
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/Bestleaker321/fmly
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 larry4776/SOC-Wazuh-AD-Monitoring
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/larry4776/SOC-Wazuh-AD-Monitoring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 mchittineni/ultimate-devops-guide
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/mchittineni/ultimate-devops-guide
+     📝 233 DevOps, SRE, security, cloud, and platform engineering interview questions a…
+     🏷  aws, azure, cloud-engineering, devops, devops-interview-questions, devsecops, gcp, interview-questions, kubernetes, platform-engineering, secops, sre
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 bolanteedrian-bit/bolante-edrian
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/bolanteedrian-bit/bolante-edrian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 NotSphyynxx/1337-local-ctf
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/NotSphyynxx/1337-local-ctf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 Razanfaris90/agentopsy
+     ⭐ 0  🗣 Python  📅 2026-08-06
+     🔗 https://github.com/Razanfaris90/agentopsy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [NEW]   🆕 📦 praveenallu1/Citrix-demo
+     ⭐ 0  🗣 PowerShell  📅 2026-08-07
+     🔗 https://github.com/praveenallu1/Citrix-demo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:46 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-07 07:17:46 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-07 07:17:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-07 07:17:49 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-07 07:17:49 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-07 07:17:49 UTC] [NEW]   🆕 📦 ahmed548780-ux/playfix159.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-08-07
+     🔗 https://github.com/ahmed548780-ux/playfix159.github.io
+     📝 PlayFix.github.io/0000
+     🏷  —
+[2026-08-07 07:17:49 UTC] [NEW]   🆕 📦 goplemms/diogenes
+     ⭐ 0  🗣 Shell  📅 2026-08-07
+     🔗 https://github.com/goplemms/diogenes
+     📝 A rootless-Docker sandbox for running coding agents against repos you don't full…
+     🏷  —
+[2026-08-07 07:17:49 UTC] [NEW]   🆕 📦 pjcampbe11/ai-related-talks-blackhat_defcon-8-6-26
+     ⭐ 1  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/pjcampbe11/ai-related-talks-blackhat_defcon-8-6-26
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:49 UTC] [NEW]   🆕 📦 manysuq/vivox200pexploittest
+     ⭐ 0  🗣 C  📅 2026-08-07
+     🔗 https://github.com/manysuq/vivox200pexploittest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-07 07:17:49 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-07 07:17:49 UTC] [INFO] ============================================================
+[2026-08-07 07:17:49 UTC] [INFO] Completato — 35 nuovi, 0 aggiornati, 0 errori
+[2026-08-07 07:17:49 UTC] [INFO] ============================================================
