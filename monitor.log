@@ -55726,3 +55726,188 @@
 [2026-08-07 18:58:45 UTC] [INFO] ============================================================
 [2026-08-07 18:58:45 UTC] [INFO] Completato — 31 nuovi, 5 aggiornati, 0 errori
 [2026-08-07 18:58:45 UTC] [INFO] ============================================================
+[2026-08-08 01:43:46 UTC] [INFO] ============================================================
+[2026-08-08 01:43:46 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-08 01:43:46 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-08 01:43:46 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-08 01:43:46 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-08 01:43:46 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-08 01:43:46 UTC] [INFO] ============================================================
+[2026-08-08 01:43:46 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-08 01:43:46 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-08 01:43:48 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-08 01:43:48 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-08 01:43:48 UTC] [NEW]   🆕 📦 MMariasik/BYOVD_GIOSYS
+     ⭐ 0  🗣 C  📅 2026-08-07
+     🔗 https://github.com/MMariasik/BYOVD_GIOSYS
+     📝 Program utilizing vulnerable driver Gio.sys to elevate privileges into NT Author…
+     🏷  —
+[2026-08-08 01:43:48 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-08 01:43:48 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-08 01:43:48 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-08 01:43:51 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 Aadiii00/nulltrace-cybersecurity
+     ⭐ 0  🗣 TypeScript  📅 2026-08-07
+     🔗 https://github.com/Aadiii00/nulltrace-cybersecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 darkm3tter/installprobe
+     ⭐ 0  🗣 JavaScript  📅 2026-08-07
+     🔗 https://github.com/darkm3tter/installprobe
+     📝 (nessuna descrizione)
+     🏷  education, npm, research, security, supply-chain
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 edrick-afk/edrick-afk.github.io
+     ⭐ 0  🗣 HTML  📅 2026-08-07
+     🔗 https://github.com/edrick-afk/edrick-afk.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 whsqm636/acronis-cyber-protect
+     ⭐ 1  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/whsqm636/acronis-cyber-protect
+     📝 Acronis Cyber Protect Cloud: All-in-One Backup & Anti-Ransomware Protection From…
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 goldenlynx592/edrhxn
+     ⭐ 0  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/goldenlynx592/edrhxn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 mynksh/cloudmeta-bof
+     ⭐ 0  🗣 C  📅 2026-08-07
+     🔗 https://github.com/mynksh/cloudmeta-bof
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 h4rry1337/Pug-reGeorg
+     ⭐ 2  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/h4rry1337/Pug-reGeorg
+     📝 Advanced HTTP tunnel through SOCKS proxy - Fork of Neo-reGeorg
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 lblewail/edrxrg
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/lblewail/edrxrg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 Mdsoare/host-coverage-audit
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/Mdsoare/host-coverage-audit
+     📝 Ferramenta em Python para auditoria de ativos, comparação de listas de hosts e v…
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 lrodriguezd/sysmon-qradar-detection
+     ⭐ 0  🗣 PowerShell  📅 2026-08-07
+     🔗 https://github.com/lrodriguezd/sysmon-qradar-detection
+     📝 Config de Sysmon endurecida para IBM QRadar + scripts de validación de detección
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 ZBenkova/Practicing---DevSecOps-Theory---SDLC
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/ZBenkova/Practicing---DevSecOps-Theory---SDLC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 ahmdobeidat/pentest-skills
+     ⭐ 1  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/ahmdobeidat/pentest-skills
+     📝 Claude Code skill library for blackbox penetration testing. 12 trigger-based ski…
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 nickxma/nitsbar
+     ⭐ 0  🗣 Swift  📅 2026-08-07
+     🔗 https://github.com/nickxma/nitsbar
+     📝 A tiny native macOS menu-bar app that shows your current display luminance in ni…
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 benedictemarty/gocoverage
+     ⭐ 0  🗣 Go  📅 2026-08-07
+     🔗 https://github.com/benedictemarty/gocoverage
+     📝 gocoverage : serveur OGC API Coverages/EDR en Go, parité du provider xarray de p…
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 noah-fage/sigil
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/noah-fage/sigil
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 lyonzin/cymulate-mcp-tools
+     ⭐ 0  🗣 TypeScript  📅 2026-08-07
+     🔗 https://github.com/lyonzin/cymulate-mcp-tools
+     📝 Community MCP for Cymulate — 100% API coverage (337 endpoints) via 106 tools. BA…
+     🏷  attack-surface-management, bas, breach-attack-simulation, cymulate, exposure-validation, mcp, model-context-protocol, purple-team, security, typescript
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 kierwin1987/simrail-proxy
+     ⭐ 0  🗣 PHP  📅 2026-08-07
+     🔗 https://github.com/kierwin1987/simrail-proxy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:51 UTC] [NEW]   🆕 📦 faizeeb302/artifact-inspector
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/faizeeb302/artifact-inspector
+     📝 Static file triage for SOC and DFIR — know what a file is before you let it near…
+     🏷  —
+[2026-08-08 01:43:51 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-08 01:43:51 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-08 01:43:51 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-08 01:43:53 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-08 01:43:53 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-08-08 01:43:53 UTC] [NEW]   🆕 📦 mo5fix/fix
+     ⭐ 0  🗣 HTML  📅 2026-08-07
+     🔗 https://github.com/mo5fix/fix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:53 UTC] [NEW]   🆕 📦 retroxd8-cmd/GalliumDS
+     ⭐ 0  🗣 Objective-C  📅 2026-08-08
+     🔗 https://github.com/retroxd8-cmd/GalliumDS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:53 UTC] [NEW]   🆕 📦 eyousf744-oss/maghraby-store
+     ⭐ 0  🗣 JavaScript  📅 2026-08-07
+     🔗 https://github.com/eyousf744-oss/maghraby-store
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:53 UTC] [NEW]   🆕 📦 ahmed548780-ux/playfix12
+     ⭐ 0  🗣 JavaScript  📅 2026-08-07
+     🔗 https://github.com/ahmed548780-ux/playfix12
+     📝 playfix12
+     🏷  —
+[2026-08-08 01:43:53 UTC] [NEW]   🆕 📦 high9tech/ps
+     ⭐ 0  🗣 JavaScript  📅 2026-08-07
+     🔗 https://github.com/high9tech/ps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:53 UTC] [NEW]   🆕 📦 high9tech/11
+     ⭐ 0  🗣 JavaScript  📅 2026-08-07
+     🔗 https://github.com/high9tech/11
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-08 01:43:53 UTC] [NEW]   🆕 📦 Asaad-Suliman/safe-mcp-suite
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/Asaad-Suliman/safe-mcp-suite
+     📝 Two hardened MCP servers - a terminal executor and a file organizer - on one sha…
+     🏷  ai-safety, llm, llm-tools, mcp, model-context-protocol, python, sandboxing, security
+[2026-08-08 01:43:53 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-08 01:43:53 UTC] [UPD]   📢 📦 high9tech/ps11
+     ⭐ 0  🗣 JavaScript  📅 2026-08-03
+     🔗 https://github.com/high9tech/ps11
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-08 01:43:53 UTC] [UPD]   📢 📦 dliptak001/HypercubeWTF
+     ⭐ 1  🗣 C++  📅 2026-08-04
+     🔗 https://github.com/dliptak001/HypercubeWTF
+     📝 HypercubeAI experiment in progress...
+     🏷  convolutional-neural-networks, echo-state-networks, hypercube, hypercubeai, machine-learning, neural-network, reservoir-computing
+     🔄 Motivo: repo recente (3gg)
+[2026-08-08 01:43:53 UTC] [UPD]   📢 📦 kolbymaxx/Project-Lumina
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/kolbymaxx/Project-Lumina
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-08 01:43:53 UTC] [UPD]   📢 📦 betterscan-io/betterscan
+     ⭐ 0  🗣 Go  📅 2026-08-05
+     🔗 https://github.com/betterscan-io/betterscan
+     📝 Deep code security scanning — graph-aware CLI and self-hosted web platform. Mult…
+     🏷  appsec, code-security, cpg, devops, docker, golang, graph-analysis, joern, open-source, opengrep, sast, security, security-scanner, self-hosted, static-analysis, trivy, vulnerability-scanner
+     🔄 Motivo: repo recente (2gg)
+[2026-08-08 01:43:53 UTC] [UPD]   📢 📦 ahmed548780-ux/playfix159.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-08-07
+     🔗 https://github.com/ahmed548780-ux/playfix159.github.io
+     📝 PlayFix.github.io/0000
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-08 01:43:53 UTC] [INFO] ============================================================
+[2026-08-08 01:43:53 UTC] [INFO] Completato — 26 nuovi, 5 aggiornati, 0 errori
+[2026-08-08 01:43:53 UTC] [INFO] ============================================================
