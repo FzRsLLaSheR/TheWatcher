@@ -56712,3 +56712,252 @@
 [2026-08-09 06:58:05 UTC] [INFO] ============================================================
 [2026-08-09 06:58:05 UTC] [INFO] Completato — 26 nuovi, 4 aggiornati, 0 errori
 [2026-08-09 06:58:05 UTC] [INFO] ============================================================
+[2026-08-09 12:52:46 UTC] [INFO] ============================================================
+[2026-08-09 12:52:46 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-09 12:52:46 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-09 12:52:46 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-09 12:52:46 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-09 12:52:46 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-09 12:52:46 UTC] [INFO] ============================================================
+[2026-08-09 12:52:46 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-09 12:52:46 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-09 12:52:47 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-09 12:52:47 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-09 12:52:47 UTC] [NEW]   🆕 📦 Accc86/driver-vuln-reproduction-notes
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/Accc86/driver-vuln-reproduction-notes
+     📝 Personal research notes on reproducing and analyzing publicly disclosed vulnerab…
+     🏷  —
+[2026-08-09 12:52:47 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-09 12:52:47 UTC] [UPD]   📢 📦 victorQ8/reverse-engineering-vault
+     ⭐ 0  🗣 Python  📅 2026-08-07
+     🔗 https://github.com/victorQ8/reverse-engineering-vault
+     📝 A structured reverse-engineering field notebook for binary analysis, exploitatio…
+     🏷  android-security, binary-analysis, bluetooth-low-energy, exploit-development, firmware, malware-analysis, obsidian, reverse-engineering
+     🔄 Motivo: repo recente (1gg)
+[2026-08-09 12:52:47 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-09 12:52:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-09 12:52:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-09 12:52:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 alvaradowilliam560/edrhem
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/alvaradowilliam560/edrhem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 yoginani/SentinelEDR
+     ⭐ 0  🗣 Python  📅 2026-08-09
+     🔗 https://github.com/yoginani/SentinelEDR
+     📝 A cybersecurity EDR (Endpoint Detection & Response) system that performs log ana…
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 arvicco/nabu-places
+     ⭐ 0  🗣 Ruby  📅 2026-08-09
+     🔗 https://github.com/arvicco/nabu-places
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 vet-creator/shiranui2
+     ⭐ 0  🗣 C++  📅 2026-08-09
+     🔗 https://github.com/vet-creator/shiranui2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 Shukla-Jiii/aegis
+     ⭐ 0  🗣 Python  📅 2026-08-09
+     🔗 https://github.com/Shukla-Jiii/aegis
+     📝 AEGIS: Autonomous AI-driven offensive security and penetration testing framework…
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 AatiM/edreams_extra_baggage_prediction
+     ⭐ 1  🗣 Jupyter Notebook  📅 2026-08-09
+     🔗 https://github.com/AatiM/edreams_extra_baggage_prediction
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 tobstealiea/edrocb
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/tobstealiea/edrocb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 SleepTheGod/nightfall-omega
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/SleepTheGod/nightfall-omega
+     📝 Security Engineering AI Prompt Persona By Taylor Christian Newsome
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 inshapardaz/maktab
+     ⭐ 0  🗣 C#  📅 2026-08-09
+     🔗 https://github.com/inshapardaz/maktab
+     📝 Local e-book management library like calibri
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 trimretgo/edrwwc
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/trimretgo/edrwwc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 LvL23HT/PCSentinel
+     ⭐ 0  🗣 Python  📅 2026-08-09
+     🔗 https://github.com/LvL23HT/PCSentinel
+     📝 Which processes talk to the network, to which IPs and domains — all correlated, …
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 recursiveduck/Malware-Information-and-Reference-Guide
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/recursiveduck/Malware-Information-and-Reference-Guide
+     📝 Malware information and reference guide.
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 friyn/waifu
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/friyn/waifu
+     📝 Just Waifu?
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 sotottu-you/edrlfu
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/sotottu-you/edrlfu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 vet-creator/Shiranui
+     ⭐ 0  🗣 C++  📅 2026-08-09
+     🔗 https://github.com/vet-creator/Shiranui
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 umarfarooq003/mini-soc
+     ⭐ 0  🗣 Python  📅 2026-08-09
+     🔗 https://github.com/umarfarooq003/mini-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 Venatord/Day-9-Log-Enrichment-System
+     ⭐ 0  🗣 Python  📅 2026-08-09
+     🔗 https://github.com/Venatord/Day-9-Log-Enrichment-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 sidtoy/edrtgg
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/sidtoy/edrtgg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 martinezrichard9/edryiu
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/martinezrichard9/edryiu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 alvadjackl/edrbqn
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/alvadjackl/edrbqn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 Keerthishreekesavan/ThreatTrace
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/Keerthishreekesavan/ThreatTrace
+     📝 Adaptive cybersecurity threat detection platform that automatically understands …
+     🏷  brute-force, credential-spraying, cybersecurity, endpoint-probing, investigation, isolation-forest, port-scanning, threat-analysis, unsupervised-machine-learning
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 jason2222Taylor22/2edrgirn2paullinda4258
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/jason2222Taylor22/2edrgirn2paullinda4258
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 cyc123456789/macro-signals
+     ⭐ 0  🗣 HTML  📅 2026-08-09
+     🔗 https://github.com/cyc123456789/macro-signals
+     📝 跨領域訊號的交叉觀察：政策、供應鏈、技術與區域態勢
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 5tatusQuo/linux-edr
+     ⭐ 0  🗣 C++  📅 2026-08-09
+     🔗 https://github.com/5tatusQuo/linux-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 ouaisfieu/reaven
+     ⭐ 0  🗣 HTML  📅 2026-08-09
+     🔗 https://github.com/ouaisfieu/reaven
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 Bannelavikram/Cybersecurity-Risk-Assessment-Framework
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/Bannelavikram/Cybersecurity-Risk-Assessment-Framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 aminalqudsy05-cell/Hospital_Database_planning
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/aminalqudsy05-cell/Hospital_Database_planning
+     📝 hospital database planning project (EDR && a report).
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 SAIM-SEC-DEV/soar-playbook-framework
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/SAIM-SEC-DEV/soar-playbook-framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 Jamesjaq/ARES2
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/Jamesjaq/ARES2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [NEW]   🆕 📦 sqlCRT/ds5dongle-bl618-opensource
+     ⭐ 0  🗣 C  📅 2026-08-08
+     🔗 https://github.com/sqlCRT/ds5dongle-bl618-opensource
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:50 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-09 12:52:50 UTC] [UPD]   📢 📦 anushree9497/pdlc-ai
+     ⭐ 0  🗣 Python  📅 2026-08-09
+     🔗 https://github.com/anushree9497/pdlc-ai
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-09 12:52:50 UTC] [UPD]   📢 📦 Yessi-cmd/workboost
+     ⭐ 0  🗣 C++  📅 2026-08-09
+     🔗 https://github.com/Yessi-cmd/workboost
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-09 12:52:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-09 12:52:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-09 12:52:51 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 📦 Shukla-Jiii/aegis
+     ⭐ 0  🗣 Python  📅 2026-08-09
+     🔗 https://github.com/Shukla-Jiii/aegis
+     📝 AEGIS: Autonomous AI-driven offensive security and penetration testing framework…
+     🏷  —
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 📦 HZA96/11
+     ⭐ 0  🗣 JavaScript  📅 2026-08-09
+     🔗 https://github.com/HZA96/11
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 📦 HZA96/2
+     ⭐ 0  🗣 JavaScript  📅 2026-08-09
+     🔗 https://github.com/HZA96/2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 📦 shadow30812/ghost
+     ⭐ 0  🗣 Rust  📅 2026-08-09
+     🔗 https://github.com/shadow30812/ghost
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 📦 SleepTheGod/nightfall-omega
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/SleepTheGod/nightfall-omega
+     📝 Security Engineering AI Prompt Persona By Taylor Christian Newsome
+     🏷  —
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 📦 HZA96/ps4l
+     ⭐ 0  🗣 JavaScript  📅 2026-08-09
+     🔗 https://github.com/HZA96/ps4l
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 📦 HZA96/ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-08-09
+     🔗 https://github.com/HZA96/ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 📦 vn-ncvinh/fenrir
+     ⭐ 0  🗣 Python  📅 2026-08-09
+     🔗 https://github.com/vn-ncvinh/fenrir
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 12:52:51 UTC] [NEW]   🆕 📦 0day-gov/tryhackme
+     ⭐ 0  🗣 Shell  📅 2026-08-09
+     🔗 https://github.com/0day-gov/tryhackme
+     📝 Personal collection of TryHackMe room writeups and scripts
+     🏷  —
+[2026-08-09 12:52:51 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-09 12:52:51 UTC] [INFO] ============================================================
+[2026-08-09 12:52:51 UTC] [INFO] Completato — 40 nuovi, 4 aggiornati, 0 errori
+[2026-08-09 12:52:51 UTC] [INFO] ============================================================
