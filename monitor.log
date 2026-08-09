@@ -56389,3 +56389,147 @@
 [2026-08-08 18:38:45 UTC] [INFO] ============================================================
 [2026-08-08 18:38:45 UTC] [INFO] Completato — 25 nuovi, 1 aggiornati, 0 errori
 [2026-08-08 18:38:45 UTC] [INFO] ============================================================
+[2026-08-09 01:49:45 UTC] [INFO] ============================================================
+[2026-08-09 01:49:45 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-09 01:49:45 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-09 01:49:45 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-09 01:49:45 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-09 01:49:45 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-09 01:49:45 UTC] [INFO] ============================================================
+[2026-08-09 01:49:45 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-09 01:49:45 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-09 01:49:47 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-09 01:49:47 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-09 01:49:47 UTC] [NEW]   🆕 📦 thexin7/kernel-cve-analysis
+     ⭐ 0  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/thexin7/kernel-cve-analysis
+     📝 Defensive analysis notes on publicly disclosed Windows kernel CVEs (EDR / anti-c…
+     🏷  —
+[2026-08-09 01:49:47 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-09 01:49:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-09 01:49:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-09 01:49:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 Jirkosaur/InternetLimiter
+     ⭐ 1  🗣 C#  📅 2026-08-08
+     🔗 https://github.com/Jirkosaur/InternetLimiter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 dev-rootkit/HyperVault
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/dev-rootkit/HyperVault
+     📝 HyperVault - combat hypervisor rootkit for Windows 10/11 x64. Works at CPU level…
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 mikenguyen13/p-hacking-publication-bias-information-systems
+     ⭐ 0  🗣 R  📅 2026-08-08
+     🔗 https://github.com/mikenguyen13/p-hacking-publication-bias-information-systems
+     📝 Replication package for "p-Hacking and Publication Bias in Design-Based Causal S…
+     🏷  caliper-test, causal-inference, difference-in-differences, econometrics, information-systems, instrumental-variables, local-false-discovery-rate, metascience, open-science, p-hacking, publication-bias, quarto, r, regression-discontinuity, replication-package, reproducibility, research-transparency, synthetic-control, weak-instruments, z-curve
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 btdolive/edrkir
+     ⭐ 0  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/btdolive/edrkir
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 wondersofcode/LetsDefend
+     ⭐ 1  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/wondersofcode/LetsDefend
+     📝 In this repository I'm gonna commit about my activity at LetsDefend
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 kateringbauele45/edruxb
+     ⭐ 0  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/kateringbauele45/edruxb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 EDRG-Project/EDRG
+     ⭐ 0  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/EDRG-Project/EDRG
+     📝 Evertum Research Platform
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 morielturgeman/Ai-Security-Investigator
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/morielturgeman/Ai-Security-Investigator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 TheKingOfMoney09/LaptopGuard
+     ⭐ 0  🗣 C#  📅 2026-08-08
+     🔗 https://github.com/TheKingOfMoney09/LaptopGuard
+     📝 A lightweight Windows Service that logs activity and power state on your own lap…
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 thexin7/kernel-cve-analysis
+     ⭐ 0  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/thexin7/kernel-cve-analysis
+     📝 Defensive analysis notes on publicly disclosed Windows kernel CVEs (EDR / anti-c…
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 Arsal51214/Arsal51214
+     ⭐ 0  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/Arsal51214/Arsal51214
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 ug7nwcsc95/repo_edri9fhb
+     ⭐ 0  🗣 Shell  📅 2026-08-08
+     🔗 https://github.com/ug7nwcsc95/repo_edri9fhb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 Valerian-DUFOUR/Hardening-Compliance
+     ⭐ 0  🗣 PowerShell  📅 2026-08-08
+     🔗 https://github.com/Valerian-DUFOUR/Hardening-Compliance
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 javicacheiro/scigen
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/javicacheiro/scigen
+     📝 Scientific workflow trajectory generator
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 Valerian-DUFOUR/Detection-Validation-Tests
+     ⭐ 0  🗣 PowerShell  📅 2026-08-08
+     🔗 https://github.com/Valerian-DUFOUR/Detection-Validation-Tests
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 yoshie50/yoshie50
+     ⭐ 0  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/yoshie50/yoshie50
+     📝 Profile README
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 klydz/scxmal
+     ⭐ 1  🗣 C  📅 2026-08-08
+     🔗 https://github.com/klydz/scxmal
+     📝 sched_ext lets custom BPF programs replace the core Linux CPU dispatcher. But wh…
+     🏷  —
+[2026-08-09 01:49:49 UTC] [NEW]   🆕 📦 Salah-Code-Lab/Empwering-Users
+     ⭐ 0  🗣 N/A  📅 2026-08-08
+     🔗 https://github.com/Salah-Code-Lab/Empwering-Users
+     📝 (nessuna descrizione)
+     🏷  gpt, mbr, partitions, recovery
+[2026-08-09 01:49:49 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-09 01:49:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-09 01:49:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-09 01:49:51 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-09 01:49:51 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-09 01:49:51 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-09 01:49:51 UTC] [UPD]   📢 📦 betterscan-io/betterscan
+     ⭐ 0  🗣 Go  📅 2026-08-05
+     🔗 https://github.com/betterscan-io/betterscan
+     📝 Deep code security scanning — graph-aware CLI and self-hosted web platform. Mult…
+     🏷  appsec, code-security, cpg, devops, docker, golang, graph-analysis, joern, open-source, opengrep, sast, security, security-scanner, self-hosted, static-analysis, trivy, vulnerability-scanner
+     🔄 Motivo: repo recente (3gg)
+[2026-08-09 01:49:51 UTC] [UPD]   📢 📦 PLFJY/sensitive-file-guard
+     ⭐ 0  🗣 Rust  📅 2026-08-07
+     🔗 https://github.com/PLFJY/sensitive-file-guard
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-09 01:49:51 UTC] [UPD]   📢 📦 ma6x9x/Project-Lumina
+     ⭐ 0  🗣 Python  📅 2026-08-01
+     🔗 https://github.com/ma6x9x/Project-Lumina
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-09 01:49:51 UTC] [UPD]   📢 📦 ZonicExists/ZonicExists
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/ZonicExists/ZonicExists
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-09 01:49:51 UTC] [INFO] ============================================================
+[2026-08-09 01:49:51 UTC] [INFO] Completato — 19 nuovi, 4 aggiornati, 0 errori
+[2026-08-09 01:49:51 UTC] [INFO] ============================================================
