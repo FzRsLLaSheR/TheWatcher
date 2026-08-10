@@ -57859,3 +57859,203 @@
 [2026-08-10 13:10:48 UTC] [INFO] ============================================================
 [2026-08-10 13:10:48 UTC] [INFO] Completato — 22 nuovi, 8 aggiornati, 0 errori
 [2026-08-10 13:10:48 UTC] [INFO] ============================================================
+[2026-08-10 18:58:38 UTC] [INFO] ============================================================
+[2026-08-10 18:58:38 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-10 18:58:38 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-10 18:58:38 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-10 18:58:38 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-10 18:58:38 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-10 18:58:38 UTC] [INFO] ============================================================
+[2026-08-10 18:58:38 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-10 18:58:38 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-10 18:58:40 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-10 18:58:40 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-10 18:58:40 UTC] [NEW]   🆕 📦 OmriBaso/Windows-VFS-Virtual-File-System-
+     ⭐ 0  🗣 C  📅 2026-08-10
+     🔗 https://github.com/OmriBaso/Windows-VFS-Virtual-File-System-
+     📝 An evasion technique to create a virtual file system and deliver malicious files…
+     🏷  —
+[2026-08-10 18:58:40 UTC] [NEW]   🆕 📦 YCr0w/Lsass_dump
+     ⭐ 0  🗣 C  📅 2026-08-09
+     🔗 https://github.com/YCr0w/Lsass_dump
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:40 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-10 18:58:40 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-10 18:58:40 UTC] [UPD]   📢 📦 Systemhaus-Schulz/DriverRiskScout
+     ⭐ 0  🗣 PowerShell  📅 2026-08-09
+     🔗 https://github.com/Systemhaus-Schulz/DriverRiskScout
+     📝 Defensive Windows driver security scanner for detecting vulnerable, suspicious a…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-10 18:58:40 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-10 18:58:40 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-10 18:58:43 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 Salman-abbasi123/AI-Incident-Response-Automation-Toolkit-for-SOC
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/Salman-abbasi123/AI-Incident-Response-Automation-Toolkit-for-SOC
+     📝 AI-powered Incident Response Automation Toolkit for Security Operations Centers …
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 KKOCAER/vulnerability-management-n8n
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/KKOCAER/vulnerability-management-n8n
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 AlexxG7/ransomware-detector
+     ⭐ 0  🗣 C#  📅 2026-08-10
+     🔗 https://github.com/AlexxG7/ransomware-detector
+     📝 Native EDR agent for ransomware detection and automated response (university the…
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 tda-bbicuayougg/reverse-skill-bcy
+     ⭐ 0  🗣 PowerShell  📅 2026-08-10
+     🔗 https://github.com/tda-bbicuayougg/reverse-skill-bcy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 Kyrsadak/CbS11_Enterprise_IT_landscape
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/Kyrsadak/CbS11_Enterprise_IT_landscape
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 austinogilvie/New-PC-Windows-Dev-Env-Setup
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/austinogilvie/New-PC-Windows-Dev-Env-Setup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 mar-esther23/CursoPython_DefuncionesCOVID19enMexico
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-10
+     🔗 https://github.com/mar-esther23/CursoPython_DefuncionesCOVID19enMexico
+     📝 ⁣Análisis de datos con Python: Estadísticas de Defunciones Registradas (EDR-INEG…
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 Ziqian-xia/carbon-labeling-meta-analysis-replication
+     ⭐ 0  🗣 R  📅 2026-08-10
+     🔗 https://github.com/Ziqian-xia/carbon-labeling-meta-analysis-replication
+     📝 Replication package for a meta-analysis of the real-world impact of carbon label…
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 YCr0w/Lsass_dump
+     ⭐ 0  🗣 C  📅 2026-08-09
+     🔗 https://github.com/YCr0w/Lsass_dump
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 01WarpDrive/atlasv2_edr_dataset
+     ⭐ 0  🗣 Python  📅 2026-08-10
+     🔗 https://github.com/01WarpDrive/atlasv2_edr_dataset
+     📝 Supplementary ground truth annotations applicable to the AtlasV2_EDR dataset in …
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 AustinTaylor4/AustinTaylor4
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/AustinTaylor4/AustinTaylor4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 ANK-369/ETAF_WFIM
+     ⭐ 0  🗣 Python  📅 2026-08-10
+     🔗 https://github.com/ANK-369/ETAF_WFIM
+     📝 Ethiopian Air Force Weapon System Firmware Integrity Monitor
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 ntts28/web-shell-detection-ml-edr
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-10
+     🔗 https://github.com/ntts28/web-shell-detection-ml-edr
+     📝 Xây dựng mô hình học máy phát hiện hành vi Web Shell trên máy chủ Web dựa trên p…
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 Trishanthsai/ASEIOS-SOC
+     ⭐ 0  🗣 Java  📅 2026-08-10
+     🔗 https://github.com/Trishanthsai/ASEIOS-SOC
+     📝 ASEIOS(Air-gapped Security & Enterprise Intelligence Operations System)-SOC — Of…
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 pratyushadk/threatenx_doc
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/pratyushadk/threatenx_doc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 AkishRaj/Adaptive-Ai-Driven-SOC-Platform
+     ⭐ 0  🗣 HTML  📅 2026-08-10
+     🔗 https://github.com/AkishRaj/Adaptive-Ai-Driven-SOC-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:43 UTC] [NEW]   🆕 📦 SunYao9/DeConav
+     ⭐ 0  🗣 Python  📅 2026-08-10
+     🔗 https://github.com/SunYao9/DeConav
+     📝 DeCoNav: oracle-free collaborative embodied navigation with Semantic VisualBus a…
+     🏷  embodied-navigation, habitat-sim, hm3d, multi-robot, qwen3-vl, semantic-communication, vision-language-navigation
+[2026-08-10 18:58:43 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-10 18:58:43 UTC] [UPD]   📢 📦 alvaradowilliam560/edrhem
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/alvaradowilliam560/edrhem
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-10 18:58:43 UTC] [UPD]   📢 📦 suda98tutup/edrkds
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/suda98tutup/edrkds
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-10 18:58:43 UTC] [UPD]   📢 📦 JyotirmoyBhowmik/ZeroAgent-Scan
+     ⭐ 0  🗣 Go  📅 2026-08-09
+     🔗 https://github.com/JyotirmoyBhowmik/ZeroAgent-Scan
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-10 18:58:43 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-10 18:58:43 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-10 18:58:45 UTC] [INFO]   → 29 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-10 18:58:45 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-10 18:58:45 UTC] [NEW]   🆕 📦 snowflakeovo/privilege-escalation-skills
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/snowflakeovo/privilege-escalation-skills
+     📝 Local privilege escalation and security-mechanism bypass reference modules for W…
+     🏷  —
+[2026-08-10 18:58:45 UTC] [NEW]   🆕 📦 sp10e/1100
+     ⭐ 0  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/sp10e/1100
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 18:58:45 UTC] [NEW]   🆕 📦 aweeraman/kernel-exploitation
+     ⭐ 0  🗣 C  📅 2026-08-10
+     🔗 https://github.com/aweeraman/kernel-exploitation
+     📝 Programs from the book "A Guide to Kernel Exploitation" by Enrico Peria and Mass…
+     🏷  —
+[2026-08-10 18:58:45 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-10 18:58:45 UTC] [UPD]   📢 📦 knklinux/cybergrad
+     ⭐ 0  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/knklinux/cybergrad
+     📝 Simulador de carrera SOC: aprende ciberseguridad defensiva resolviendo incidente…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-10 18:58:45 UTC] [UPD]   📢 📦 badrcoderman/deepslop
+     ⭐ 0  🗣 HTML  📅 2026-08-10
+     🔗 https://github.com/badrcoderman/deepslop
+     📝 DEEPSLOP — PS5 WebKit exploit kit (RCE dashboard): PROBE mode, self-porting offs…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-10 18:58:45 UTC] [UPD]   📢 📦 PLFJY/sensitive-file-guard
+     ⭐ 0  🗣 Rust  📅 2026-08-07
+     🔗 https://github.com/PLFJY/sensitive-file-guard
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-10 18:58:45 UTC] [UPD]   📢 📦 Ahmedaelfatah/jb
+     ⭐ 0  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/Ahmedaelfatah/jb
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-10 18:58:45 UTC] [UPD]   📢 📦 kaffeindecaf/W0lfSword
+     ⭐ 2  🗣 Objective-C  📅 2026-08-10
+     🔗 https://github.com/kaffeindecaf/W0lfSword
+     📝 iOS Kernel Exploit Toolkit | iOS 17.0–26.0.1. EXPERIMENTAL, NO REAL ON-DEVICE TE…
+     🏷  darksword, exploit, ios, jailbreak
+     🔄 Motivo: repo recente (0gg) | nuovi topic: exploit, darksword, ios, jailbreak
+[2026-08-10 18:58:45 UTC] [INFO] ============================================================
+[2026-08-10 18:58:45 UTC] [INFO] Completato — 23 nuovi, 10 aggiornati, 0 errori
+[2026-08-10 18:58:45 UTC] [INFO] ============================================================
