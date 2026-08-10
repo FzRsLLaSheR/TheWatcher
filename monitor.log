@@ -57676,3 +57676,186 @@
 [2026-08-10 07:43:47 UTC] [INFO] ============================================================
 [2026-08-10 07:43:47 UTC] [INFO] Completato — 24 nuovi, 7 aggiornati, 0 errori
 [2026-08-10 07:43:47 UTC] [INFO] ============================================================
+[2026-08-10 13:10:40 UTC] [INFO] ============================================================
+[2026-08-10 13:10:40 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-10 13:10:40 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-10 13:10:40 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-10 13:10:40 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-10 13:10:40 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-10 13:10:40 UTC] [INFO] ============================================================
+[2026-08-10 13:10:40 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-10 13:10:40 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-10 13:10:42 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-10 13:10:42 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-10 13:10:42 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-10 13:10:42 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-10 13:10:42 UTC] [UPD]   📢 📦 Potato-Allens/JIXU_WanZha
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/Potato-Allens/JIXU_WanZha
+     📝 Codex 破甲 · 王炸 / JIXU_WanZha QQ群：766215515
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-10 13:10:42 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-10 13:10:42 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-10 13:10:45 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 FadyAzzi/InPDF
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/FadyAzzi/InPDF
+     📝 PDF viewer and editor that edits the real page, not a layer on top of it.
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 comrade-era/defaceguard
+     ⭐ 0  🗣 TypeScript  📅 2026-08-10
+     🔗 https://github.com/comrade-era/defaceguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 foolinthepool/airflow-app
+     ⭐ 0  🗣 Kotlin  📅 2026-08-10
+     🔗 https://github.com/foolinthepool/airflow-app
+     📝 an android based app to control and monitor your airflow deployment
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 debjit604/Cyberwar-Banking-Defense-Simulation
+     ⭐ 1  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/debjit604/Cyberwar-Banking-Defense-Simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 hrushikesh1199/hrushikesh1199
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/hrushikesh1199/hrushikesh1199
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 ronak9540/UTDS
+     ⭐ 0  🗣 Python  📅 2026-08-10
+     🔗 https://github.com/ronak9540/UTDS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 grcengineering/threat-informed-control-modeling
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/grcengineering/threat-informed-control-modeling
+     📝 Threat-Informed Control Modeling (TICM) — a GRC-Engineering method for modeling …
+     🏷  control-modeling, cybersecurity, fair-cam, grc-engineering, risk-management, security-controls, threat-modeling, ticm
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 Sarmad-ui/Remote-Access-Trojan-RAT---njrat
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/Sarmad-ui/Remote-Access-Trojan-RAT---njrat
+     📝 In this project, i successfully downloaded and worked on remote access trojan(ra…
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 Zam-za/HarpocratesEngine
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/Zam-za/HarpocratesEngine
+     📝 HarpocratesEngine is a JAVA-based threat-detection and simulation engine environ…
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 Yeagerist0/Yeagerist0
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/Yeagerist0/Yeagerist0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 vitaweav-droid/soc-phishing-incident-response-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/vitaweav-droid/soc-phishing-incident-response-lab
+     📝 End-to-end SOC investigation of a simulated phishing incident involving PowerShe…
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 RasheedFarhat/it-secops-lab
+     ⭐ 0  🗣 Python  📅 2026-08-10
+     🔗 https://github.com/RasheedFarhat/it-secops-lab
+     📝 Trace every change. Prove every action. An approval-gated IT/SecOps lab.
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 KdMenon007/secure-paper-publication
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/KdMenon007/secure-paper-publication
+     📝 MCA research project on secure academic paper submission using data mining, plag…
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 timeoslgn-afk/Cyber-Homelab
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/timeoslgn-afk/Cyber-Homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 KdMenon007/kiran-cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/KdMenon007/kiran-cybersecurity-portfolio
+     📝 Personal cybersecurity portfolio featuring SOC experience, threat hunting, incid…
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 JUS7205/detection-rules
+     ⭐ 0  🗣 Python  📅 2026-08-10
+     🔗 https://github.com/JUS7205/detection-rules
+     📝 Detection engineering, blue-team first: Sigma rules + YARA rules mapped to MITRE…
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 jimmy77733/bumblebee
+     ⭐ 0  🗣 Go  📅 2026-08-10
+     🔗 https://github.com/jimmy77733/bumblebee
+     📝 Windows GUI fork of Perplexity Bumblebee: directory/smart scan, HTML reports, co…
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 math-diff/gromacs-gamd
+     ⭐ 0  🗣 C++  📅 2026-08-10
+     🔗 https://github.com/math-diff/gromacs-gamd
+     📝 GROMACS 2025.4 with GPU-accelerated GaMD v1.1
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 qhyuTT/codex-guard
+     ⭐ 0  🗣 Go  📅 2026-08-10
+     🔗 https://github.com/qhyuTT/codex-guard
+     📝 监控中转站行为、敏感行为分级提醒插件
+     🏷  —
+[2026-08-10 13:10:45 UTC] [NEW]   🆕 📦 Yukouf/dns-sentinel
+     ⭐ 0  🗣 Python  📅 2026-08-10
+     🔗 https://github.com/Yukouf/dns-sentinel
+     📝 Détecte les détournements DNS en comparant 3 résolveurs DoH au DNS système — DNS…
+     🏷  —
+[2026-08-10 13:10:45 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-10 13:10:45 UTC] [UPD]   📢 📦 alvaradowilliam560/edrhem
+     ⭐ 0  🗣 N/A  📅 2026-08-09
+     🔗 https://github.com/alvaradowilliam560/edrhem
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-10 13:10:45 UTC] [UPD]   📢 📦 suda98tutup/edrkds
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/suda98tutup/edrkds
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-10 13:10:45 UTC] [UPD]   📢 📦 minichip3/joyfusion
+     ⭐ 0  🗣 Rust  📅 2026-08-09
+     🔗 https://github.com/minichip3/joyfusion
+     📝 Seamless Nintendo Switch Joy-Con (1 & 2) support for Linux -- uinput virtual gam…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-10 13:10:45 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-10 13:10:45 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-10 13:10:48 UTC] [INFO]   → 26 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-10 13:10:48 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-10 13:10:48 UTC] [NEW]   🆕 📦 kaffeindecaf/W0lfSword
+     ⭐ 0  🗣 Objective-C  📅 2026-08-10
+     🔗 https://github.com/kaffeindecaf/W0lfSword
+     📝 iOS Kernel Exploit Toolkit | DarkSword Engine,  Sandbox escape, SSV bypass, mult…
+     🏷  —
+[2026-08-10 13:10:48 UTC] [NEW]   🆕 📦 Ahmedaelfatah/jb
+     ⭐ 0  🗣 Python  📅 2026-08-10
+     🔗 https://github.com/Ahmedaelfatah/jb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-10 13:10:48 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-10 13:10:48 UTC] [UPD]   📢 📦 sinyuryuu/fireos-framework-analysis
+     ⭐ 0  🗣 Java  📅 2026-08-03
+     🔗 https://github.com/sinyuryuu/fireos-framework-analysis
+     📝 Evidence-driven Fire OS 7 HOME resolver and protected-package analysis for Amazo…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-10 13:10:48 UTC] [UPD]   📢 📦 bsk193/slopoopskit
+     ⭐ 0  🗣 JavaScript  📅 2026-08-09
+     🔗 https://github.com/bsk193/slopoopskit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-10 13:10:48 UTC] [UPD]   📢 📦 shadow30812/ghost
+     ⭐ 0  🗣 Rust  📅 2026-08-09
+     🔗 https://github.com/shadow30812/ghost
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-10 13:10:48 UTC] [INFO] ============================================================
+[2026-08-10 13:10:48 UTC] [INFO] Completato — 22 nuovi, 8 aggiornati, 0 errori
+[2026-08-10 13:10:48 UTC] [INFO] ============================================================
