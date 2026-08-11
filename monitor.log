@@ -58390,3 +58390,197 @@
 [2026-08-11 07:09:14 UTC] [INFO] ============================================================
 [2026-08-11 07:09:14 UTC] [INFO] Completato — 22 nuovi, 5 aggiornati, 0 errori
 [2026-08-11 07:09:14 UTC] [INFO] ============================================================
+[2026-08-11 13:07:48 UTC] [INFO] ============================================================
+[2026-08-11 13:07:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-11 13:07:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-11 13:07:48 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-11 13:07:48 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-11 13:07:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-11 13:07:48 UTC] [INFO] ============================================================
+[2026-08-11 13:07:48 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-11 13:07:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-11 13:07:49 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-11 13:07:49 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-11 13:07:49 UTC] [NEW]   🆕 📦 Km851/amd-svm-hv
+     ⭐ 0  🗣 C  📅 2026-08-11
+     🔗 https://github.com/Km851/amd-svm-hv
+     📝 Bare-metal AMD SVM hypervisor with stealth loader, EFI bootkit, and trace cleanu…
+     🏷  amd-svm, anti-cheat-bypasses, byovd, dse-bypass, game-hacking-, hypervisor, kernel-driver, reverse-engineering, stealth, windows-kernel
+[2026-08-11 13:07:49 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-11 13:07:49 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-11 13:07:49 UTC] [UPD]   📢 📦 NetVar1337/NetVar1337
+     ⭐ 1  🗣 N/A  📅 2026-07-10
+     🔗 https://github.com/NetVar1337/NetVar1337
+     📝 Profile README - Developer, Reverse Engineer, Game Hacker
+     🏷  portfolio, profile, readme
+     🔄 Motivo: nuovi topic: portfolio, profile, readme
+[2026-08-11 13:07:49 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-11 13:07:49 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-11 13:07:52 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 imshawndace/RANA-CORP-SOC-Homelab
+     ⭐ 0  🗣 N/A  📅 2026-08-11
+     🔗 https://github.com/imshawndace/RANA-CORP-SOC-Homelab
+     📝 A virtual cybersecurity lab environment using Proxmox as the server hypervisor h…
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 decursio/tenant-identity-repair
+     ⭐ 0  🗣 PowerShell  📅 2026-08-11
+     🔗 https://github.com/decursio/tenant-identity-repair
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 XiaojuCH/SystemDiff
+     ⭐ 1  🗣 Rust  📅 2026-08-11
+     🔗 https://github.com/XiaojuCH/SystemDiff
+     📝 See exactly what changed on your Windows system — privacy-first snapshots, diffs…
+     🏷  forensics, privacy, rust, security, system-auditing, windows, windows-internals
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 MonoEven/ahk-hack-library
+     ⭐ 0  🗣 AutoHotkey  📅 2026-08-11
+     🔗 https://github.com/MonoEven/ahk-hack-library
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 safayetchowdhury/EDR-XDR-Detection-Correlation-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-11
+     🔗 https://github.com/safayetchowdhury/EDR-XDR-Detection-Correlation-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 dist-chinthaka/Invoice
+     ⭐ 0  🗣 HTML  📅 2026-08-11
+     🔗 https://github.com/dist-chinthaka/Invoice
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 dragneel911/Mini-EDR
+     ⭐ 0  🗣 Python  📅 2026-08-11
+     🔗 https://github.com/dragneel911/Mini-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 knklinux/cybergrad
+     ⭐ 1  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/knklinux/cybergrad
+     📝 Simulador de carrera SOC: aprende ciberseguridad defensiva resolviendo incidente…
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 zyberajmal/zyberajmal
+     ⭐ 0  🗣 N/A  📅 2026-08-11
+     🔗 https://github.com/zyberajmal/zyberajmal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 garvranaaa/SentinelAI
+     ⭐ 0  🗣 N/A  📅 2026-08-11
+     🔗 https://github.com/garvranaaa/SentinelAI
+     📝 AI-Powered Cyber Security Incident Response Platform
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 moldstruct/sf-md
+     ⭐ 0  🗣 Assembly  📅 2026-08-11
+     🔗 https://github.com/moldstruct/sf-md
+     📝 Hybrid Strong Field / Molecular Dynamics
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 Ajitha-2001/Rootkit-Hunter
+     ⭐ 0  🗣 Python  📅 2026-08-11
+     🔗 https://github.com/Ajitha-2001/Rootkit-Hunter
+     📝 A host-based memory and process forensics CLI tool for Windows and Linux. It ins…
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 devpnchal1211-hash/Cloud-Security-Posture-Management-CSPM-with-Endpoint-Detection-Response-EDR
+     ⭐ 0  🗣 Python  📅 2026-08-11
+     🔗 https://github.com/devpnchal1211-hash/Cloud-Security-Posture-Management-CSPM-with-Endpoint-Detection-Response-EDR
+     📝 Developed integrated cybersecurity platform with Cloud Security Posture Manageme…
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 alvinwongmo/Light-PAM
+     ⭐ 0  🗣 PowerShell  📅 2026-08-11
+     🔗 https://github.com/alvinwongmo/Light-PAM
+     📝 一款輕量級、免伺服器的伺服器帳號密碼管理工具，專為小型 IT 團隊打造
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 edroozendaal/edroozendaal
+     ⭐ 0  🗣 N/A  📅 2026-08-11
+     🔗 https://github.com/edroozendaal/edroozendaal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 GHSmaster/D-agentic-soc-platform
+     ⭐ 0  🗣 Python  📅 2026-08-11
+     🔗 https://github.com/GHSmaster/D-agentic-soc-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 wilsontank/CS0-004-vs-CS0-003-What-s-New-in-the-CompTIA-CySA-V4-Exam
+     ⭐ 0  🗣 N/A  📅 2026-08-11
+     🔗 https://github.com/wilsontank/CS0-004-vs-CS0-003-What-s-New-in-the-CompTIA-CySA-V4-Exam
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 anamika-soc/phishing-malware-ir-simulation
+     ⭐ 0  🗣 N/A  📅 2026-08-11
+     🔗 https://github.com/anamika-soc/phishing-malware-ir-simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 lokjv/edris
+     ⭐ 0  🗣 N/A  📅 2026-08-11
+     🔗 https://github.com/lokjv/edris
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [NEW]   🆕 📦 h9zdev/WhisperPair-Py
+     ⭐ 0  🗣 TypeScript  📅 2026-08-11
+     🔗 https://github.com/h9zdev/WhisperPair-Py
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:52 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-11 13:07:52 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-11 13:07:52 UTC] [UPD]   📢 📦 donokey/Step-On-Chord
+     ⭐ 0  🗣 TypeScript  📅 2026-08-04
+     🔗 https://github.com/donokey/Step-On-Chord
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-11 13:07:52 UTC] [UPD]   📢 📦 zhaohyperion/DS5DONGLE-AIM61
+     ⭐ 0  🗣 C  📅 2026-08-11
+     🔗 https://github.com/zhaohyperion/DS5DONGLE-AIM61
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-11 13:07:52 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-11 13:07:52 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-11 13:07:53 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-11 13:07:53 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-11 13:07:53 UTC] [NEW]   🆕 📦 kaffeindecaf/Apple-Bug-Bounty-Skill
+     ⭐ 0  🗣 JavaScript  📅 2026-08-11
+     🔗 https://github.com/kaffeindecaf/Apple-Bug-Bounty-Skill
+     📝 iOS Security and Exploiting skills for the Apple Bug Bounty | Kernel exploit | S…
+     🏷  —
+[2026-08-11 13:07:53 UTC] [NEW]   🆕 📦 aymn-bc/pentesting_knowledge_map
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/aymn-bc/pentesting_knowledge_map
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-11 13:07:53 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-11 13:07:53 UTC] [UPD]   📢 📦 PLFJY/sensitive-file-guard
+     ⭐ 0  🗣 Rust  📅 2026-08-07
+     🔗 https://github.com/PLFJY/sensitive-file-guard
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-11 13:07:53 UTC] [UPD]   📢 📦 knklinux/cybergrad
+     ⭐ 1  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/knklinux/cybergrad
+     📝 Simulador de carrera SOC: aprende ciberseguridad defensiva resolviendo incidente…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-11 13:07:53 UTC] [UPD]   📢 📦 kaffeindecaf/W0lfSword
+     ⭐ 3  🗣 Objective-C  📅 2026-08-10
+     🔗 https://github.com/kaffeindecaf/W0lfSword
+     📝 iOS Kernel Exploit Toolkit | iOS 17.0–26.0.1. EXPERIMENTAL, NO REAL ON-DEVICE TE…
+     🏷  darksword, exploit, ios, jailbreak
+     🔄 Motivo: repo recente (1gg)
+[2026-08-11 13:07:53 UTC] [UPD]   📢 📦 mustafs-ps4-ps5/ps5
+     ⭐ 1  🗣 JavaScript  📅 2026-08-11
+     🔗 https://github.com/mustafs-ps4-ps5/ps5
+     📝 Mustafa PS4/PS5 Exploit Host
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-11 13:07:53 UTC] [INFO] ============================================================
+[2026-08-11 13:07:53 UTC] [INFO] Completato — 23 nuovi, 9 aggiornati, 0 errori
+[2026-08-11 13:07:53 UTC] [INFO] ============================================================
