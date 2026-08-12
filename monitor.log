@@ -59203,3 +59203,214 @@
 [2026-08-12 07:26:22 UTC] [INFO] ============================================================
 [2026-08-12 07:26:22 UTC] [INFO] Completato — 16 nuovi, 8 aggiornati, 0 errori
 [2026-08-12 07:26:22 UTC] [INFO] ============================================================
+[2026-08-12 13:12:07 UTC] [INFO] ============================================================
+[2026-08-12 13:12:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-12 13:12:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-12 13:12:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-12 13:12:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-12 13:12:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-12 13:12:07 UTC] [INFO] ============================================================
+[2026-08-12 13:12:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-12 13:12:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-12 13:12:09 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-12 13:12:09 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-12 13:12:09 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-12 13:12:09 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-12 13:12:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-12 13:12:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-12 13:12:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 FadyAzzi/InRedactr
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/FadyAzzi/InRedactr
+     📝 De-Identifier allowing you to paste a document, get back a version that is safe …
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 sakib090/SOC-SPLUNK
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/sakib090/SOC-SPLUNK
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 Edrian12345678910/content-rating-edrianbaroga
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Edrian12345678910/content-rating-edrianbaroga
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 shailesh-zx/ominishell
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/shailesh-zx/ominishell
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 vynguyenit/vdn_ToolKit_ps
+     ⭐ 0  🗣 PowerShell  📅 2026-08-12
+     🔗 https://github.com/vynguyenit/vdn_ToolKit_ps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 ShUmair07/SOC-Detection-Engineering-Lab
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/ShUmair07/SOC-Detection-Engineering-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 Daksle-number-13/quickaccess-launcher
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/Daksle-number-13/quickaccess-launcher
+     📝 Fast Windows tray launcher with global hotkeys and Explorer quick-add
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 kizashi-labs/kizashi
+     ⭐ 0  🗣 TypeScript  📅 2026-08-12
+     🔗 https://github.com/kizashi-labs/kizashi
+     📝 Self-hosted open source EDR — 兆し, the first sign before anything has happened. C…
+     🏷  blue-team, dfir, ebpf, edr, endpoint-security, etw, golang, incident-response, mitre-attack, security, self-hosted, sigma, soc, threat-detection, yara
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 Rayan-and-beyond/Verifact
+     ⭐ 0  🗣 PowerShell  📅 2026-08-12
+     🔗 https://github.com/Rayan-and-beyond/Verifact
+     📝 AI-agent skill for Windows event logs and endpoint posture
+     🏷  agent-skills, claude-code, codex-skill, digital-forensics, endpoint-security, security-assessment, windows-security
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 johwes/autonomous-threat-response
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/johwes/autonomous-threat-response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 mashengwei567/BluetoothIM
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/mashengwei567/BluetoothIM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 pradit2527/aidc-monitoring
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/pradit2527/aidc-monitoring
+     📝 aidc-monitoring
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 batmanpriv/Shit-Cleaner
+     ⭐ 0  🗣 Go  📅 2026-08-11
+     🔗 https://github.com/batmanpriv/Shit-Cleaner
+     📝 Log Cleaner
+     🏷  anti-forensic, anti-forensics, attack-clean, delete-files-forever, log, log-cleaner, log-cleaning, log-cleanup, log-clear, logs, shit-clean, shit-cleaner
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 chiangyaw/cortex-event-forward-samples
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/chiangyaw/cortex-event-forward-samples
+     📝 Redacted sample logs from Cortex XDR/XSIAM event forwarding to cloud storage — x…
+     🏷  cortex-xdr, cwp, edr, event-forwarding, log-samples, palo-alto-networks, sbom, siem, xsiam
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 chaytuta12456789/MeoMeoGate
+     ⭐ 0  🗣 C  📅 2026-08-12
+     🔗 https://github.com/chaytuta12456789/MeoMeoGate
+     📝 (nessuna descrizione)
+     🏷  edr-bypass, edr-evasion, hellgate, syscalls
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 gabryellewalker/phishing-social-engineering-risk-assessment
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/gabryellewalker/phishing-social-engineering-risk-assessment
+     📝 Cybersecurity portfolio project analyzing phishing and social engineering risks,…
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 umitakpinarumit/malware-pe-analyzer-yara
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/umitakpinarumit/malware-pe-analyzer-yara
+     📝 A modular Python tool for Static Malware Analysis: PE Header Parsing, Shannon En…
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 NihaallX/Cloud-sentinel
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/NihaallX/Cloud-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 gayathri1276/AI-Based-Cyber-Security-Threat-Detection-System
+     ⭐ 0  🗣 TypeScript  📅 2026-08-12
+     🔗 https://github.com/gayathri1276/AI-Based-Cyber-Security-Threat-Detection-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 Mokshith04/ai-abuse-detection-rules
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/Mokshith04/ai-abuse-detection-rules
+     📝 SOC detection engineering lab for detecting AI abuse and anomalous LLM activity
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 fnESHJA/oplus-brightness-webui-plg110-plg120
+     ⭐ 0  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/fnESHJA/oplus-brightness-webui-plg110-plg120
+     📝 一个面向 OPlus PLG110/PLG120 设备的 KernelSU、Magisk、APatch 亮度配置模块，可能适配其他OPlus机型。  模块提供离…
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 SasanTazayoni/splunk-soc
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/SasanTazayoni/splunk-soc
+     📝 Cyber accelerator course
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 cybervarun/Cyber-Asset-Analyzer
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/cybervarun/Cyber-Asset-Analyzer
+     📝 Offline desktop application for cybersecurity teams to analyze cyber assets by c…
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 hhgggghdd/2024-windows-7-
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/hhgggghdd/2024-windows-7-
+     📝 获课：aixuetang.xyz/22661/
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 Arkada707/keybeam
+     ⭐ 0  🗣 JavaScript  📅 2026-08-11
+     🔗 https://github.com/Arkada707/keybeam
+     📝 Hands-free typing tool for when clipboard paste doesn't work (remote consoles, K…
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 Sidhesh795/Cloud-sentinel
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/Sidhesh795/Cloud-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 codelassey/SOC-Analyst-LetsDefend
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/codelassey/SOC-Analyst-LetsDefend
+     📝 Complete notes, challenge walkthroughs, and 20+ alert investigations for the Let…
+     🏷  blue-team, ctf-writeups, cyber-kill-chain, cybersecurity, cybersecurity-projects, emotet, letsdefend, log-analysis, mitre-attack, oletools, phishing-analysis, siem, soc-analyst, splunk, threat-intelligence, virustotal, web-attacks, writeups
+[2026-08-12 13:12:12 UTC] [NEW]   🆕 📦 selamsahabe/LetsDefend-SOC163-Certutil-Analysis
+     ⭐ 1  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/selamsahabe/LetsDefend-SOC163-Certutil-Analysis
+     📝 Detailed analysis and investigation of SOC163 - Suspicious Certutil.exe Usage al…
+     🏷  —
+[2026-08-12 13:12:12 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-12 13:12:12 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-12 13:12:12 UTC] [UPD]   📢 📦 jsager-gtg/infrastructure
+     ⭐ 0  🗣 Shell  📅 2026-08-11
+     🔗 https://github.com/jsager-gtg/infrastructure
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-12 13:12:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-12 13:12:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-12 13:12:14 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-12 13:12:14 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-12 13:12:14 UTC] [NEW]   🆕 📦 fdavids77/BlackBoxReborn
+     ⭐ 0  🗣 Java  📅 2026-08-12
+     🔗 https://github.com/fdavids77/BlackBoxReborn
+     📝 Maintained Android 16/17 compatible fork of NewBlackBox — app virtualisation for…
+     🏷  —
+[2026-08-12 13:12:14 UTC] [NEW]   🆕 📦 aliGhadyani/malware-analyst-agent
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/aliGhadyani/malware-analyst-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 13:12:14 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-12 13:12:14 UTC] [UPD]   📢 📦 mustafs-ps4-ps5/ps5
+     ⭐ 1  🗣 JavaScript  📅 2026-08-11
+     🔗 https://github.com/mustafs-ps4-ps5/ps5
+     📝 Mustafa PS4/PS5 Exploit Host
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-12 13:12:14 UTC] [UPD]   📢 📦 Wang200935/security-agent-skills
+     ⭐ 5  🗣 Python  📅 2026-08-11
+     🔗 https://github.com/Wang200935/security-agent-skills
+     📝 79 security skills across 9 domains — installable into Claude Code, Codex, Curso…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-12 13:12:14 UTC] [UPD]   📢 📦 itsPLK/ps5-webkit-autoloader
+     ⭐ 55  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/itsPLK/ps5-webkit-autoloader
+     📝 An automated payload loader for exploited PS5 consoles
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-12 13:12:14 UTC] [INFO] ============================================================
+[2026-08-12 13:12:14 UTC] [INFO] Completato — 30 nuovi, 6 aggiornati, 0 errori
+[2026-08-12 13:12:14 UTC] [INFO] ============================================================
