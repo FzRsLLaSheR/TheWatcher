@@ -59414,3 +59414,279 @@
 [2026-08-12 13:12:14 UTC] [INFO] ============================================================
 [2026-08-12 13:12:14 UTC] [INFO] Completato — 30 nuovi, 6 aggiornati, 0 errori
 [2026-08-12 13:12:14 UTC] [INFO] ============================================================
+[2026-08-12 19:02:48 UTC] [INFO] ============================================================
+[2026-08-12 19:02:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-12 19:02:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-12 19:02:48 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-12 19:02:48 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-12 19:02:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-12 19:02:48 UTC] [INFO] ============================================================
+[2026-08-12 19:02:48 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-12 19:02:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-12 19:02:50 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-12 19:02:50 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-12 19:02:50 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-12 19:02:50 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-12 19:02:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-12 19:02:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-12 19:02:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 32 NUOVI repository:
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Echo506/cybersecurity-learning-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Echo506/cybersecurity-learning-roadmap
+     📝 Roadmap de aprendizaje en ciberseguridad: fundamentos de IAM, IA aplicada a segu…
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Believe-sec-io/ransomware-simulator-
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/Believe-sec-io/ransomware-simulator-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 rajeshsharma-sec/rajeshsharma-sec.github.io
+     ⭐ 0  🗣 HTML  📅 2026-08-12
+     🔗 https://github.com/rajeshsharma-sec/rajeshsharma-sec.github.io
+     📝 Rajesh Sharma’s recruiter-facing cybersecurity portfolio — endpoint security, ED…
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 rajeshsharma-sec/rajeshsharma-sec
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/rajeshsharma-sec/rajeshsharma-sec
+     📝 Rajesh Sharma’s cybersecurity profile — endpoint security, EDR/XDR, data protect…
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Josephjyua/Josephjyua
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Josephjyua/Josephjyua
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Edrian12345678910/CONTENT_RATING-EDRIAN
+     ⭐ 0  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/Edrian12345678910/CONTENT_RATING-EDRIAN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 BB-AI-Arena/User-Intent-AI-Security
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/BB-AI-Arena/User-Intent-AI-Security
+     📝 WAF-protected, low-latency command security that evaluates user intent, privileg…
+     🏷  ai-security, behavioral-analysis, command-line, cybersecurity, devsecops, edr, endpoint-security, grafana, modsecurity, owasp-crs, python, siem, threat-detection, waf, zero-trust
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 jonatan-roytgarts/incident-loom
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/jonatan-roytgarts/incident-loom
+     📝 Open-source security investigation engine for correlating heterogeneous telemetr…
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Productdeveloper5192/Threat-Hunt-Agent
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/Productdeveloper5192/Threat-Hunt-Agent
+     📝 Reads Security/System Event Log + a psutil process/network snapshot. Read-only. …
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Ghanendra3366/ghanendra3366
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Ghanendra3366/ghanendra3366
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Edrian12345678910/Edrian_Content_rating
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Edrian12345678910/Edrian_Content_rating
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Mephistopheleso7/SentinelX
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/Mephistopheleso7/SentinelX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 kittensitos/powershell-abuse-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-08-12
+     🔗 https://github.com/kittensitos/powershell-abuse-lab
+     📝 PowerShell script blocking logging
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Kakuye/Modules-5-6-Cloud-Connectivity-Security-Troubleshooting-Beginner-Friendly-Instructor-Lecture-Notes
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Kakuye/Modules-5-6-Cloud-Connectivity-Security-Troubleshooting-Beginner-Friendly-Instructor-Lecture-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 CrashTest-Dummy/trigonometry-visualizer
+     ⭐ 0  🗣 TypeScript  📅 2026-08-12
+     🔗 https://github.com/CrashTest-Dummy/trigonometry-visualizer
+     📝 An interactive visual bridge between geometry, ratios, angles, and real-world ve…
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 ShUbHaMHiReMaT/lolbins
+     ⭐ 0  🗣 TypeScript  📅 2026-08-12
+     🔗 https://github.com/ShUbHaMHiReMaT/lolbins
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 SHIVAM-PANDEY-SOC/THM-SOC-Level-1
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/SHIVAM-PANDEY-SOC/THM-SOC-Level-1
+     📝 My hands-on journey through the TryHackMe SOC Level 1 learning path, covering SI…
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 N1CYS/Norah-Cyber-Defense-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/N1CYS/Norah-Cyber-Defense-Lab
+     📝  Enterprise-style Cyber Defense Home Lab focused on SOC operations, Active Direc…
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 kittensitos/alert-framework
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/kittensitos/alert-framework
+     📝 A playbook for triaging the 10 common alert types with the reasoning written out…
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Wisemancodes/Splunk_Upskilling
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Wisemancodes/Splunk_Upskilling
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 lxtzfr/porlocal
+     ⭐ 0  🗣 TypeScript  📅 2026-08-12
+     🔗 https://github.com/lxtzfr/porlocal
+     📝 Cross-platform dashboard for your local dev servers — CLI, daemon, and web UI
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 edracode/EdraTok
+     ⭐ 0  🗣 HTML  📅 2026-08-12
+     🔗 https://github.com/edracode/EdraTok
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 ceftriaxon-iv/RedGladiolus
+     ⭐ 0  🗣 C  📅 2026-08-12
+     🔗 https://github.com/ceftriaxon-iv/RedGladiolus
+     📝 BlackLotus UEFI bootkit modification with upgraded AntiVM engine and new AntiEDR…
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Edrian12345678910/content-rating-edrian
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Edrian12345678910/content-rating-edrian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 nemanjacosovic/viber-export-macos
+     ⭐ 0  🗣 Shell  📅 2026-08-12
+     🔗 https://github.com/nemanjacosovic/viber-export-macos
+     📝 Decrypt & export Viber Desktop chat history to CSV on macOS (Apple Silicon & Int…
+     🏷  apple-silicon, chat-history, csv, decrypt, export, forensics, macos, sqlite, viber, viber-desktop
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 chaytuta12456789/Direct-And-Indirect-Syscall
+     ⭐ 0  🗣 C  📅 2026-08-12
+     🔗 https://github.com/chaytuta12456789/Direct-And-Indirect-Syscall
+     📝 (nessuna descrizione)
+     🏷  direct-syscalls, edr-b, edr-evasion, indirect-syscalls, syscall
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 b9hw/malware
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/b9hw/malware
+     📝 IMPORTANT!!! READ .README
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 Creative4405/Creative4405
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Creative4405/Creative4405
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 amrkha1911-alt/ERB-go
+     ⭐ 0  🗣 Dart  📅 2026-08-12
+     🔗 https://github.com/amrkha1911-alt/ERB-go
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 ashrithpeechara/Wazuh-SOC-and-XDR-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/ashrithpeechara/Wazuh-SOC-and-XDR-lab
+     📝 A hands-on SOC/XDR laboratory built using Wazuh, Ubuntu, Windows, and Sysmon. Th…
+     🏷  siem, socanalyst, socanalyst-project, wazuh-agent, wazuh-integration, wazuh-manager, xdr
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 edricked/edricked.github.io
+     ⭐ 0  🗣 CSS  📅 2026-08-12
+     🔗 https://github.com/edricked/edricked.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:53 UTC] [NEW]   🆕 📦 kirilobudigaj-hub/edrf
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/kirilobudigaj-hub/edrf
+     📝 e
+     🏷  —
+[2026-08-12 19:02:53 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-12 19:02:53 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-12 19:02:53 UTC] [UPD]   📢 📦 jsager-gtg/infrastructure
+     ⭐ 0  🗣 Shell  📅 2026-08-11
+     🔗 https://github.com/jsager-gtg/infrastructure
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-12 19:02:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-12 19:02:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-12 19:02:55 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-12 19:02:55 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-08-12 19:02:55 UTC] [NEW]   🆕 📦 rofazhasan/FocusGuard
+     ⭐ 0  🗣 Swift  📅 2026-08-12
+     🔗 https://github.com/rofazhasan/FocusGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:55 UTC] [NEW]   🆕 📦 varshag06/linux-privesc-checker
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/varshag06/linux-privesc-checker
+     📝 Python CLI tool for Linux privilege escalation security auditing
+     🏷  —
+[2026-08-12 19:02:55 UTC] [NEW]   🆕 📦 tqmane/Root-My-Device
+     ⭐ 1  🗣 C  📅 2026-08-12
+     🔗 https://github.com/tqmane/Root-My-Device
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:55 UTC] [NEW]   🆕 📦 xiaoyang-xyc/blackbox
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/xiaoyang-xyc/blackbox
+     📝 黑盒安全测试技能集 | Black-box security testing skills for AI agents
+     🏷  —
+[2026-08-12 19:02:55 UTC] [NEW]   🆕 📦 Elmo7tarf0/3
+     ⭐ 0  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/Elmo7tarf0/3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 19:02:55 UTC] [UPD]   📢 8 repository AGGIORNATI:
+[2026-08-12 19:02:55 UTC] [UPD]   📢 📦 Ahmedaelfatah/go
+     ⭐ 0  🗣 JavaScript  📅 2026-08-09
+     🔗 https://github.com/Ahmedaelfatah/go
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-12 19:02:55 UTC] [UPD]   📢 📦 itsPLK/ps5-webkit-autoloader
+     ⭐ 66  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/itsPLK/ps5-webkit-autoloader
+     📝 An automated payload loader for exploited PS5 consoles
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-12 19:02:55 UTC] [UPD]   📢 📦 kaffeindecaf/Apple-Bug-Bounty-Skill
+     ⭐ 0  🗣 JavaScript  📅 2026-08-11
+     🔗 https://github.com/kaffeindecaf/Apple-Bug-Bounty-Skill
+     📝 iOS Security and Exploiting skills for the Apple Bug Bounty | Kernel exploit | S…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-12 19:02:55 UTC] [UPD]   📢 📦 aliGhadyani/malware-analyst-agent
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/aliGhadyani/malware-analyst-agent
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-12 19:02:55 UTC] [UPD]   📢 📦 Codexia-afk/WasmVault
+     ⭐ 0  🗣 Rust  📅 2026-08-11
+     🔗 https://github.com/Codexia-afk/WasmVault
+     📝 WasmVault is a security-first package manager and runtime sandbox in Rust that e…
+     🏷  capability-based-security, containerization, package-manager, plugin-system, rust, sandbox, security, static-analysis, wasi, wasm, wasmtime, webassembly, zero-trust
+     🔄 Motivo: repo recente (1gg) | nuovi topic: wasm, wasi, capability-based-security, security, containerization, rust, sandbox, wasmtime, zero-trust, webassembly, plugin-system, static-analysis, package-manager
+[2026-08-12 19:02:55 UTC] [UPD]   📢 📦 Balistic123/SloppyKit
+     ⭐ 0  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/Balistic123/SloppyKit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-12 19:02:55 UTC] [UPD]   📢 📦 knklinux/cybergrad
+     ⭐ 1  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/knklinux/cybergrad
+     📝 Simulador de carrera SOC: aprende ciberseguridad defensiva resolviendo incidente…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-12 19:02:55 UTC] [UPD]   📢 📦 fdavids77/BlackBoxReborn
+     ⭐ 0  🗣 Java  📅 2026-08-12
+     🔗 https://github.com/fdavids77/BlackBoxReborn
+     📝 Maintained Android 16/17 compatible fork of NewBlackBox — app virtualisation for…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-12 19:02:55 UTC] [INFO] ============================================================
+[2026-08-12 19:02:55 UTC] [INFO] Completato — 37 nuovi, 11 aggiornati, 0 errori
+[2026-08-12 19:02:55 UTC] [INFO] ============================================================
