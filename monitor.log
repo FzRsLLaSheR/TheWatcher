@@ -59050,3 +59050,156 @@
 [2026-08-12 02:02:54 UTC] [INFO] ============================================================
 [2026-08-12 02:02:54 UTC] [INFO] Completato — 27 nuovi, 10 aggiornati, 0 errori
 [2026-08-12 02:02:54 UTC] [INFO] ============================================================
+[2026-08-12 07:26:15 UTC] [INFO] ============================================================
+[2026-08-12 07:26:15 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-12 07:26:15 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-12 07:26:15 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-12 07:26:15 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-12 07:26:15 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-12 07:26:15 UTC] [INFO] ============================================================
+[2026-08-12 07:26:15 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-12 07:26:15 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-12 07:26:17 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-12 07:26:17 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-12 07:26:17 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-12 07:26:17 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-12 07:26:17 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-12 07:26:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-12 07:26:20 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 Lishan-dev/soar-detect
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/Lishan-dev/soar-detect
+     📝 A SOAR platform that collects and analyzes security alerts, scores risks, create…
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 teriyakki-jin/zero-trust-network-lab
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/teriyakki-jin/zero-trust-network-lab
+     📝 Reproducible zero-trust network lab with Keycloak, OPA, a FastAPI PEP, and Docke…
+     🏷  cybersecurity, docker, keycloak, network-security, open-policy-agent, zero-trust
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 marxhsiteam/edrawhsi
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/marxhsiteam/edrawhsi
+     📝 Program khusus untuk menggambar wiremesh HSI Mesh
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 assembly64bit/Model-
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/assembly64bit/Model-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 umitakpinarumit/soc-log-parser-siem-engine
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/umitakpinarumit/soc-log-parser-siem-engine
+     📝 A modular Python-based SOC Log Parser & SIEM Correlation Engine for log parsing …
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 fight1n/electrical-drawing-review
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/fight1n/electrical-drawing-review
+     📝 电气图纸自动化审核系统：五节点状态机 + LLM抽象层(热切换/全链路Trace) + 两阶段检索 + 三段式动态上下文裁剪 + FreeCAD原子Tool +…
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 Anandhasasidharan/SENTRIX
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/Anandhasasidharan/SENTRIX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 ddfav22/reverse-skill-backup
+     ⭐ 0  🗣 PowerShell  📅 2026-08-12
+     🔗 https://github.com/ddfav22/reverse-skill-backup
+     📝 Backup of reverse-skill with source attribution
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 HiroshiAkutsu/monitorlist-estimate
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/HiroshiAkutsu/monitorlist-estimate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 baic0der/NetSentinel
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/baic0der/NetSentinel
+     📝 NetSentinel — Network Security Monitoring & SIEM-Inspired Project
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 Nakano-04/CyberLens
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Nakano-04/CyberLens
+     📝 CyberLens - plataforma de operaciones ciberneticas de C2-DECT: red team, blue te…
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 Nakano-04/ExploitStrike
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Nakano-04/ExploitStrike
+     📝 ExploitStrike: pipeline estructurado de investigacion de vulnerabilidades y expl…
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 jaespark7-stack/wslim
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/jaespark7-stack/wslim
+     📝 Shrink WSL2 disk space safely: compact ext4.vhdx from a desktop double-click - d…
+     🏷  —
+[2026-08-12 07:26:20 UTC] [NEW]   🆕 📦 r0th-m/suotu-public
+     ⭐ 5  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/r0th-m/suotu-public
+     📝 SuoTu - application-layer log analysis workbench for incident response. Apache-2…
+     🏷  —
+[2026-08-12 07:26:20 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-12 07:26:20 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-12 07:26:20 UTC] [UPD]   📢 📦 TesterAdmin22121331/agent-shield
+     ⭐ 0  🗣 C#  📅 2026-08-11
+     🔗 https://github.com/TesterAdmin22121331/agent-shield
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-12 07:26:20 UTC] [UPD]   📢 📦 MonoEven/ahk-hack-library
+     ⭐ 3  🗣 AutoHotkey  📅 2026-08-11
+     🔗 https://github.com/MonoEven/ahk-hack-library
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-12 07:26:20 UTC] [UPD]   📢 📦 stvoorhees/supershot
+     ⭐ 0  🗣 HTML  📅 2026-08-11
+     🔗 https://github.com/stvoorhees/supershot
+     📝 A modern, local-only screenshot utility for Windows — hotkey capture + a polishe…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-12 07:26:20 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-12 07:26:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-12 07:26:22 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-12 07:26:22 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-12 07:26:22 UTC] [NEW]   🆕 📦 Balistic123/SloppyKit
+     ⭐ 0  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/Balistic123/SloppyKit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 07:26:22 UTC] [NEW]   🆕 📦 UchihaPs/9
+     ⭐ 0  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/UchihaPs/9
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-12 07:26:22 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-12 07:26:22 UTC] [UPD]   📢 📦 Wang200935/security-agent-skills
+     ⭐ 5  🗣 Python  📅 2026-08-11
+     🔗 https://github.com/Wang200935/security-agent-skills
+     📝 79 security skills across 9 domains — installable into Claude Code, Codex, Curso…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-12 07:26:22 UTC] [UPD]   📢 📦 ZonicExists/ZonicExists
+     ⭐ 0  🗣 N/A  📅 2026-08-05
+     🔗 https://github.com/ZonicExists/ZonicExists
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-12 07:26:22 UTC] [UPD]   📢 📦 itsPLK/ps5-webkit-autoloader
+     ⭐ 42  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/itsPLK/ps5-webkit-autoloader
+     📝 An automated payload loader for exploited PS5 consoles
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-12 07:26:22 UTC] [INFO] ============================================================
+[2026-08-12 07:26:22 UTC] [INFO] Completato — 16 nuovi, 8 aggiornati, 0 errori
+[2026-08-12 07:26:22 UTC] [INFO] ============================================================
