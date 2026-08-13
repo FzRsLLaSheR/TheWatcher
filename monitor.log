@@ -59690,3 +59690,169 @@
 [2026-08-12 19:02:55 UTC] [INFO] ============================================================
 [2026-08-12 19:02:55 UTC] [INFO] Completato — 37 nuovi, 11 aggiornati, 0 errori
 [2026-08-12 19:02:55 UTC] [INFO] ============================================================
+[2026-08-13 02:04:57 UTC] [INFO] ============================================================
+[2026-08-13 02:04:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-13 02:04:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-13 02:04:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-13 02:04:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-13 02:04:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-13 02:04:57 UTC] [INFO] ============================================================
+[2026-08-13 02:04:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-13 02:04:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-13 02:04:58 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-13 02:04:58 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-13 02:04:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-13 02:04:58 UTC] [UPD]   📢 📦 nguyentimmy/KQL-Detection-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/nguyentimmy/KQL-Detection-Engineering
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-13 02:04:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-13 02:04:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-13 02:05:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 whlandy/edr-cloud-recorder
+     ⭐ 0  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/whlandy/edr-cloud-recorder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 Lungani-Mncwango/lungani-portfolio-
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Lungani-Mncwango/lungani-portfolio-
+     📝 index.html
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 Heperowt/User-Mode-EDR
+     ⭐ 0  🗣 C#  📅 2026-08-13
+     🔗 https://github.com/Heperowt/User-Mode-EDR
+     📝 A lightweight, asynchronous User-Mode Endpoint Detection and Response (EDR) arch…
+     🏷  c2, csharp, cybersecurity, edr, python
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 Wnewsom96/ciso-outreach
+     ⭐ 1  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Wnewsom96/ciso-outreach
+     📝 Claude Code skill: deep research + targeted outreach for cybersecurity executive…
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 ericust1/windows-etw-edr-agent
+     ⭐ 1  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/ericust1/windows-etw-edr-agent
+     📝 Endpoint Detection and Response (EDR) agent leveraging Windows Event Tracing (ET…
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 GPS-Informatica/comparativa-k7-cyberprotect360-vs-bitdefender-gravityzone-tor
+     ⭐ 0  🗣 HTML  📅 2026-08-13
+     🔗 https://github.com/GPS-Informatica/comparativa-k7-cyberprotect360-vs-bitdefender-gravityzone-tor
+     📝 Comparativa técnica K7 Cyber Protect 360 + EDR + Seceon OTM vs Bitdefender Gravi…
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 kishwordulal2005/ShellDrop
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/kishwordulal2005/ShellDrop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 GonzaloGaBa/mitigacion-seguridad-terminales-edr
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/GonzaloGaBa/mitigacion-seguridad-terminales-edr
+     📝 Caso de estudio sobre mitigación de vulnerabilidades en terminales (SCADA/OT) y …
+     🏷  case-study, cisco-secure-endpoint, cybersecurity, edr, endpoint-security, epp, hardening, nac, ot-security, purdue-model, scada-security, soc-analyst
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 PxPert/a2dp_sink
+     ⭐ 0  🗣 C++  📅 2026-08-12
+     🔗 https://github.com/PxPert/a2dp_sink
+     📝 ESPHome custom component that turns an ESP32 into a Bluetooth A2DP audio sink
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 Lungani-Mncwango/lungani-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Lungani-Mncwango/lungani-portfolio
+     📝 index.html
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 thomasryan0317-cell/macos-hardening-baseline
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/thomasryan0317-cell/macos-hardening-baseline
+     📝 Baseline → remediate → verify hardening of my macOS daily driver — Lynis audit, …
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 n6668764/esp32-wroom-ldac-aptx-amplifier
+     ⭐ 0  🗣 C  📅 2026-08-12
+     🔗 https://github.com/n6668764/esp32-wroom-ldac-aptx-amplifier
+     📝 ESP32-WROOM A2DP sink amplifier with LDAC, aptX HD/Classic, AAC/SBC, PCM5102 and…
+     🏷  a2dp, aptx, bluetooth-audio, esp-idf, esp32, esp32-wroom, fft, ldac, pcm5102, ssd1306
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 Savage1447/FsocietyRAT-Easy
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/Savage1447/FsocietyRAT-Easy
+     📝 Basit Kobtrollü Remote Access Tool
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 odufuwababajide77-Cuj4Cipher/Paul-Pols-UKC-2017
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/odufuwababajide77-Cuj4Cipher/Paul-Pols-UKC-2017
+     📝 Study notes and tactical analysis of Paul Pol's 2017 White paper on UKC
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 sam00/VS-Code-extension-payload-loader
+     ⭐ 0  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/sam00/VS-Code-extension-payload-loader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 AurelioAvila/ransomware-dfir-timeline
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/AurelioAvila/ransomware-dfir-timeline
+     📝 Digital forensics timeline reconstruction of a simulated Windows ransomware inci…
+     🏷  blue-team, dfir, digital-forensics, incident-response, mitre-attack, python, ransomware
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 prithvi1029/hackbot
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/prithvi1029/hackbot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 02:05:01 UTC] [NEW]   🆕 📦 Victorsylvano31/necrosis-lab
+     ⭐ 0  🗣 C  📅 2026-08-12
+     🔗 https://github.com/Victorsylvano31/necrosis-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 02:05:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-13 02:05:01 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-13 02:05:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-13 02:05:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-13 02:05:02 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-13 02:05:02 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-13 02:05:02 UTC] [NEW]   🆕 📦 JoramMalley/Linux-privilege-escalation
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/JoramMalley/Linux-privilege-escalation
+     📝 A curated collection of Linux privilege escalation techniques, enumeration metho…
+     🏷  —
+[2026-08-13 02:05:02 UTC] [NEW]   🆕 📦 OWDERAT/scoobert
+     ⭐ 0  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/OWDERAT/scoobert
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 02:05:02 UTC] [NEW]   🆕 📦 ArmanAbr/CTF-Cheatsheets
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/ArmanAbr/CTF-Cheatsheets
+     📝 A collection of offensive security techniques, commands, and one-liners for CTFs
+     🏷  cheatsheet, cheatsheets, ctf, enumeration, linux, security, web, web-security, windows
+[2026-08-13 02:05:02 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-13 02:05:02 UTC] [UPD]   📢 📦 itsPLK/ps5-webkit-autoloader
+     ⭐ 75  🗣 Python  📅 2026-08-05
+     🔗 https://github.com/itsPLK/ps5-webkit-autoloader
+     📝 An automated payload loader for exploited PS5 consoles
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-13 02:05:02 UTC] [UPD]   📢 📦 tqmane/Root-My-Device
+     ⭐ 1  🗣 C  📅 2026-08-12
+     🔗 https://github.com/tqmane/Root-My-Device
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-13 02:05:02 UTC] [UPD]   📢 📦 h5i-dev/h5i
+     ⭐ 526  🗣 Rust  📅 2026-03-11
+     🔗 https://github.com/h5i-dev/h5i
+     📝 Integrated sandbox for coding agents. Browser, dependencies, dev server, and wor…
+     🏷  agent-orchestration, agentic-ai, agentic-workflow, ai-coding, ai-coding-agent, ai-orchestration, ai-safety, ai-security, audit-trail, browser, browser-security, claude-code, codex, good-first-issue, mcp-server, microvm, prompt-injection, sandbox, vibe-coding, worktree-manager
+     🔄 Motivo: nuovi topic: good-first-issue
+[2026-08-13 02:05:02 UTC] [UPD]   📢 📦 Wang200935/security-agent-skills
+     ⭐ 5  🗣 Python  📅 2026-08-11
+     🔗 https://github.com/Wang200935/security-agent-skills
+     📝 79 security skills across 9 domains — installable into Claude Code, Codex, Curso…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-13 02:05:02 UTC] [INFO] ============================================================
+[2026-08-13 02:05:02 UTC] [INFO] Completato — 21 nuovi, 6 aggiornati, 0 errori
+[2026-08-13 02:05:02 UTC] [INFO] ============================================================
