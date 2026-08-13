@@ -59856,3 +59856,313 @@
 [2026-08-13 02:05:02 UTC] [INFO] ============================================================
 [2026-08-13 02:05:02 UTC] [INFO] Completato — 21 nuovi, 6 aggiornati, 0 errori
 [2026-08-13 02:05:02 UTC] [INFO] ============================================================
+[2026-08-13 07:35:49 UTC] [INFO] ============================================================
+[2026-08-13 07:35:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-13 07:35:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-13 07:35:49 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-13 07:35:49 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-13 07:35:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-13 07:35:49 UTC] [INFO] ============================================================
+[2026-08-13 07:35:49 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-13 07:35:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-13 07:35:51 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-13 07:35:51 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-13 07:35:51 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-13 07:35:51 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-13 07:35:51 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-13 07:35:51 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-13 07:35:54 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 39 NUOVI repository:
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 VAISHNAVI-MORE-SOC-L1/SOC-MEMBER
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/VAISHNAVI-MORE-SOC-L1/SOC-MEMBER
+     📝 A thorough understanding of the SOC and the role of the SOC analyst. Practical s…
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 x7peeps/memshell-auditor
+     ⭐ 0  🗣 Java  📅 2026-08-13
+     🔗 https://github.com/x7peeps/memshell-auditor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 cobbjennifer356/edrptk
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/cobbjennifer356/edrptk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 SHIVAM-PANDEY-SOC/SOC-MEMBER
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/SHIVAM-PANDEY-SOC/SOC-MEMBER
+     📝 A thorough understanding of the SOC and the role of the SOC analyst. Practical s…
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 yidasanqian/defender-cpu-troubleshooting-skills
+     ⭐ 0  🗣 PowerShell  📅 2026-08-13
+     🔗 https://github.com/yidasanqian/defender-cpu-troubleshooting-skills
+     📝 Claude Code Agent Skill: diagnose & resolve Microsoft Defender (MsMpEng.exe) hig…
+     🏷  agent-skill, claude-code, claude-code-skill, developer-experience, microsoft-defender, msmpeng, performance, powershell, troubleshooting, windows, windows-defender
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 kanishk-2010-tech/Windows-Security-Monitor
+     ⭐ 0  🗣 Python  📅 2026-08-12
+     🔗 https://github.com/kanishk-2010-tech/Windows-Security-Monitor
+     📝 A Python-based Windows security monitoring dashboard
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 VAISHNAVI-MORE-SOC-L1/TryHackMe-SOC-Level-1
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/VAISHNAVI-MORE-SOC-L1/TryHackMe-SOC-Level-1
+     📝 Completed hands-on training in key SOC areas, including cyber defense frameworks…
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 johwes/autonomous-threat-response
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/johwes/autonomous-threat-response
+     📝 Autonomous defensive AI agent — Falco → LangGraph → AAP remediation
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 vimalrootben/Zero-Trust-Continuous-Authentication-Framework-for-Insider-Threat-Detection-and-Response
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/vimalrootben/Zero-Trust-Continuous-Authentication-Framework-for-Insider-Threat-Detection-and-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 DLRB888/agent-edr
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/DLRB888/agent-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 AaronMontano99/soc-navigator
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/AaronMontano99/soc-navigator
+     📝 AI-assisted SOC investigation simulator: Sigma detections, MITRE ATT&CK + NIST C…
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-yara
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-yara
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-windows-kernel-security-development
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-windows-kernel-security-development
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 Dheena97/MDE-Health
+     ⭐ 0  🗣 TypeScript  📅 2026-08-13
+     🔗 https://github.com/Dheena97/MDE-Health
+     📝 A complete, production-ready client-side web application for daily Microsoft Int…
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-uefi-security
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-uefi-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-software-supply-chain-security
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-software-supply-chain-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-BlueToolkit
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-BlueToolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-iot-and-hardware-security
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-iot-and-hardware-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-endpoint-detection-and-response
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-endpoint-detection-and-response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-detection-engineer
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-detection-engineer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-cybersecurity-blueteam-cn
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-cybersecurity-blueteam-cn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-cybersecurity-blueteam
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-cybersecurity-blueteam
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-cyber
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-csirt
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-csirt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/ultimate-enhansome
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/ultimate-enhansome
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/enhansome-Blue-Team-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-Blue-Team-Roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 Washday5474/Washday5474
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Washday5474/Washday5474
+     📝 Profile README
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 enhansome/my-infosec-enhansome
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/my-infosec-enhansome
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 legalmindcode/legalmind-claude-office-rtl
+     ⭐ 0  🗣 JavaScript  📅 2026-08-13
+     🔗 https://github.com/legalmindcode/legalmind-claude-office-rtl
+     📝 Client-side RTL fix for Claude's Microsoft Office add-in (Word, Excel, PowerPoin…
+     🏷  accessibility, anthropic, claude, excel, hebrew, office, powerpoint, rtl, webview2, word
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 saptreekly/bupper-2.0
+     ⭐ 0  🗣 Rust  📅 2026-08-12
+     🔗 https://github.com/saptreekly/bupper-2.0
+     📝 Cloud-native malware triage enrichment API (std-only Rust)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 stevewinfieldtx/DRiX-SDR
+     ⭐ 0  🗣 JavaScript  📅 2026-08-13
+     🔗 https://github.com/stevewinfieldtx/DRiX-SDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 drkcormier/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/drkcormier/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 csmeby/redpath
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/csmeby/redpath
+     📝 A continuous, multi tenant attack path monitoring platform for Windows environme…
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 Lost-illusion69/Lost-illusion69
+     ⭐ 1  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Lost-illusion69/Lost-illusion69
+     📝 Special
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 abhinavkishor9/windows-dfir-lab49-suspicious-windows-explorer-activity
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/abhinavkishor9/windows-dfir-lab49-suspicious-windows-explorer-activity
+     📝 Windows DFIR investigation of suspicious Windows Explorer activity using Sysmon …
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 Gavin-LHX/EmojiOverdrive
+     ⭐ 0  🗣 Swift  📅 2026-08-13
+     🔗 https://github.com/Gavin-LHX/EmojiOverdrive
+     📝 SwiftUI Metal 300 BPM Emoji visual synthesizer
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 pablovictorsantos01-crypto/pablovictorsantos01-crypto
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/pablovictorsantos01-crypto/pablovictorsantos01-crypto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 Kushagra-Rai-Nova/SentinalX
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/Kushagra-Rai-Nova/SentinalX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:54 UTC] [NEW]   🆕 📦 rodajrc/workflow-use-case-design-framework
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/rodajrc/workflow-use-case-design-framework
+     📝 A design-first framework for SOAR workflow engineering, inspired by Palantir's A…
+     🏷  —
+[2026-08-13 07:35:54 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-13 07:35:54 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-13 07:35:54 UTC] [UPD]   📢 📦 whlandy/edr-cloud-recorder
+     ⭐ 1  🗣 JavaScript  📅 2026-08-12
+     🔗 https://github.com/whlandy/edr-cloud-recorder
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-13 07:35:54 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-13 07:35:54 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-13 07:35:56 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 12 NUOVI repository:
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 lo1784768-hash/IMGUIDELTA
+     ⭐ 0  🗣 Objective-C  📅 2026-08-13
+     🔗 https://github.com/lo1784768-hash/IMGUIDELTA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/enhansome-privilege-escalation
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-privilege-escalation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/enhansome-vulnerable-apps
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-vulnerable-apps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 jkelly-dev1/agent-sandbox-escape
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/jkelly-dev1/agent-sandbox-escape
+     📝 Which agent-sandbox escapes the isolation flags people actually deploy really st…
+     🏷  agent-security, capability-security, container-escape, isolation, llm-security, measurement, python, red-team, sandboxing, seccomp
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/enhansome-windows-red-team
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-windows-red-team
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/enhansome-windows-kernel-security-development
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-windows-kernel-security-development
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/enhansome-connected-things-sec
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-connected-things-sec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/enhansome-reversing
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-reversing
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/enhansome-os
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-os
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/enhansome-csirt
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-csirt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/enhansome-books
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-books
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [NEW]   🆕 📦 enhansome/my-infosec-enhansome
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/my-infosec-enhansome
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-13 07:35:56 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-13 07:35:56 UTC] [UPD]   📢 📦 fdavids77/BlackBoxReborn
+     ⭐ 0  🗣 Java  📅 2026-08-12
+     🔗 https://github.com/fdavids77/BlackBoxReborn
+     📝 Maintained Android 16/17 compatible fork of NewBlackBox — app virtualisation for…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-13 07:35:56 UTC] [UPD]   📢 📦 badrcoderman/deepslop
+     ⭐ 0  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/badrcoderman/deepslop
+     📝 DEEPSLOP — PS5 WebKit exploit kit (RCE dashboard): PROBE mode, self-porting offs…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-13 07:35:56 UTC] [INFO] ============================================================
+[2026-08-13 07:35:56 UTC] [INFO] Completato — 51 nuovi, 5 aggiornati, 0 errori
+[2026-08-13 07:35:56 UTC] [INFO] ============================================================
