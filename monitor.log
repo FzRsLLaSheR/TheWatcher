@@ -60988,3 +60988,149 @@
 [2026-08-14 02:02:55 UTC] [INFO] ============================================================
 [2026-08-14 02:02:55 UTC] [INFO] Completato — 37 nuovi, 11 aggiornati, 0 errori
 [2026-08-14 02:02:55 UTC] [INFO] ============================================================
+[2026-08-14 07:25:41 UTC] [INFO] ============================================================
+[2026-08-14 07:25:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-14 07:25:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-14 07:25:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-14 07:25:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-14 07:25:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-14 07:25:41 UTC] [INFO] ============================================================
+[2026-08-14 07:25:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-14 07:25:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-14 07:25:43 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 07:25:43 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-14 07:25:43 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-14 07:25:43 UTC] [UPD]   📢 📦 nguyentimmy/KQL-Detection-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/nguyentimmy/KQL-Detection-Engineering
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-14 07:25:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-14 07:25:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-14 07:25:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 longstnguyen/EDR
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/longstnguyen/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 hedrian226/edrian-vibe-portfolio
+     ⭐ 0  🗣 JavaScript  📅 2026-08-14
+     🔗 https://github.com/hedrian226/edrian-vibe-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 ImLegendAdi/Java-MemoryShell-Generator-by-3L173-H4CK3R-v1.0.9
+     ⭐ 1  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/ImLegendAdi/Java-MemoryShell-Generator-by-3L173-H4CK3R-v1.0.9
+     📝 java-memshell-generator (jMG) is a Java-based payload generation framework that …
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 0xsidpandya/STK-Control-Hub-Enterprise-Platform
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/0xsidpandya/STK-Control-Hub-Enterprise-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 prathameshbeldar12/Windows-Service-Process-Monitoring-Agent-Project
+     ⭐ 1  🗣 HTML  📅 2026-08-14
+     🔗 https://github.com/prathameshbeldar12/Windows-Service-Process-Monitoring-Agent-Project
+     📝 Cybersecurity Intern 
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 aneeshajimmis/Windows-Registry-Change-Monitor
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/aneeshajimmis/Windows-Registry-Change-Monitor
+     📝 A Python-based defensive security tool for monitoring Windows Registry changes, …
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 CSSluckyyy095/yeahhh_itzme
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/CSSluckyyy095/yeahhh_itzme
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 kush-coder/verified-anthropic-cybersecurity-skills
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/kush-coder/verified-anthropic-cybersecurity-skills
+     📝 Official Build & Verified Release | 817 structured cybersecurity skills for AI a…
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 abhinavkishor9/windows-dfir-lab50-clipboard-based-data-theft-investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/abhinavkishor9/windows-dfir-lab50-clipboard-based-data-theft-investigation
+     📝 Windows DFIR investigation of controlled clipboard data access and local staging…
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 jebelga31-dev/edrick
+     ⭐ 0  🗣 PHP  📅 2026-08-14
+     🔗 https://github.com/jebelga31-dev/edrick
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 KISHORE5666/ai-cyber-x
+     ⭐ 0  🗣 HTML  📅 2026-08-14
+     🔗 https://github.com/KISHORE5666/ai-cyber-x
+     📝 AI-powered Cyber Security OS & SOC console. Visualizes enterprise security telem…
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 JustinHsu0320/green-light
+     ⭐ 0  🗣 Rust  📅 2026-08-14
+     🔗 https://github.com/JustinHsu0320/green-light
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 candy2jumping/AegisLoop
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/candy2jumping/AegisLoop
+     📝 GOAI Agent Infra赛道一 AegisLoop · 多 Agent 自主协同 SOC 处置
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 k4w8m6d45r-ui/-EDRESE_AMINA
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/k4w8m6d45r-ui/-EDRESE_AMINA
+     📝 УЧРЕЖДЕНИЕ МЕДРЕСЕ "АМИНА"
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 akatetron/signal-over-noise
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/akatetron/signal-over-noise
+     📝 SOC Analyst portfolio - detection engineering (Sigma, KQL, SPL, Suricata), incid…
+     🏷  blue-team, cybersecurity, detection-engineering, dfir, elastic, incident-response, kql, mitre-attack, siem, sigma-rules, soc-analyst, splunk, suricata, sysmon, threat-hunting
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 jagmeetsinghcs/Phishing-Email-template
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/jagmeetsinghcs/Phishing-Email-template
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 07:25:46 UTC] [NEW]   🆕 📦 fjuribe/taller-sumativo-u3-
+     ⭐ 0  🗣 Shell  📅 2026-08-14
+     🔗 https://github.com/fjuribe/taller-sumativo-u3-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 07:25:46 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-14 07:25:46 UTC] [UPD]   📢 📦 stevewinfieldtx/DRiX-SDR
+     ⭐ 0  🗣 JavaScript  📅 2026-08-13
+     🔗 https://github.com/stevewinfieldtx/DRiX-SDR
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 07:25:46 UTC] [UPD]   📢 📦 AnotherSalako/source-code-v2
+     ⭐ 0  🗣 TypeScript  📅 2026-08-13
+     🔗 https://github.com/AnotherSalako/source-code-v2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 07:25:46 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-14 07:25:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-14 07:25:48 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 07:25:48 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-14 07:25:48 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-14 07:25:48 UTC] [UPD]   📢 📦 kostyabelousov001-hue/GreenSn0w
+     ⭐ 1  🗣 C  📅 2026-08-13
+     🔗 https://github.com/kostyabelousov001-hue/GreenSn0w
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 07:25:48 UTC] [UPD]   📢 📦 olaffx/clipwire
+     ⭐ 6  🗣 C  📅 2026-08-13
+     🔗 https://github.com/olaffx/clipwire
+     📝 iOS 26.1 vm_map_clip race + vm_fault_wire_object_pages OOB kernel exploit harnes…
+     🏷  exploit, ios, poc
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 07:25:48 UTC] [UPD]   📢 📦 jkelly-dev1/agent-sandbox-escape
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/jkelly-dev1/agent-sandbox-escape
+     📝 Which agent-sandbox escapes the isolation flags people actually deploy really st…
+     🏷  agent-security, capability-security, container-escape, isolation, llm-security, measurement, python, red-team, sandboxing, seccomp
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 07:25:48 UTC] [INFO] ============================================================
+[2026-08-14 07:25:48 UTC] [INFO] Completato — 17 nuovi, 6 aggiornati, 0 errori
+[2026-08-14 07:25:48 UTC] [INFO] ============================================================
