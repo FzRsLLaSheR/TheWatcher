@@ -61134,3 +61134,196 @@
 [2026-08-14 07:25:48 UTC] [INFO] ============================================================
 [2026-08-14 07:25:48 UTC] [INFO] Completato — 17 nuovi, 6 aggiornati, 0 errori
 [2026-08-14 07:25:48 UTC] [INFO] ============================================================
+[2026-08-14 13:08:44 UTC] [INFO] ============================================================
+[2026-08-14 13:08:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-14 13:08:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-14 13:08:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-14 13:08:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-14 13:08:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-14 13:08:44 UTC] [INFO] ============================================================
+[2026-08-14 13:08:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-14 13:08:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-14 13:08:46 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 13:08:46 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-14 13:08:46 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-14 13:08:46 UTC] [UPD]   📢 📦 enhansome/enhansome-game-security
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-game-security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-14 13:08:46 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-14 13:08:46 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-14 13:08:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 biommsa/biommsa
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/biommsa/biommsa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 sairamnakka4/sairamnakka4
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/sairamnakka4/sairamnakka4
+     📝 Cybersecurity SOC Analyst Portfolio
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 nabiltariq7866/healthguard-ai
+     ⭐ 0  🗣 TypeScript  📅 2026-08-13
+     🔗 https://github.com/nabiltariq7866/healthguard-ai
+     📝 Interactive healthcare cybersecurity and AI governance demo with abnormal-access…
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 naturelle137/navlog-kneeboard
+     ⭐ 0  🗣 HTML  📅 2026-08-14
+     🔗 https://github.com/naturelle137/navlog-kneeboard
+     📝 Compact VFR nav log: 3 slips per landscape A4, duplex, cut to 93x185 mm for a De…
+     🏷  aviation, flight-planning, general-aviation, kneeboard, navlog, vfr, weasyprint
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 Steowbrth/Cobalt-Strike-csload-plugin
+     ⭐ 0  🗣 C#  📅 2026-08-14
+     🔗 https://github.com/Steowbrth/Cobalt-Strike-csload-plugin
+     📝 A Cobalt Strike shellcode loader that bypasses mainstream domestic antivirus sof…
+     🏷  aes-encryption, beacon-loader, c2-framework, cobalt-strike, cobaltstrike, csharp-loader, defense-evasion, dotnet-framework, edr-evasion, exploit-development, malleable-c2, memory-injection, mitre-attack, privilege-escalation, process-hollowing, process-injection, shellcode-injection, stageless-beacon, threat-intelligence, windows-malware
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 skyisoway/Malware-Detection-Research
+     ⭐ 0  🗣 C++  📅 2026-08-14
+     🔗 https://github.com/skyisoway/Malware-Detection-Research
+     📝 Research on malware detection and security mechanisms
+     🏷  antivirus, edr, malware-research, ml, sandbox
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 Theet111/Simple-Keylogger-Detector
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/Theet111/Simple-Keylogger-Detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 nonyrapha83-ship-it/Ransomware-attack-SOC-investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/nonyrapha83-ship-it/Ransomware-attack-SOC-investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 chals00/Cyber-Security-Career-Handbook
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/chals00/Cyber-Security-Career-Handbook
+     📝 Complete 2026 Cyber Security Handbook: SOC operations, network defense, SIEM, in…
+     🏷  cyber-security, ethical-hacking, incident-response, network-security, penetration-testing, security-operations, siem, soc-analyst, spectraonesolutions, wireshark
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 Mew100/edr-adversary-emulation-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/Mew100/edr-adversary-emulation-lab
+     📝 Build a lightweight, hands-on Endpoint Detection and Response (EDR) and SIEM tel…
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 UtkarshDeshmukh17/XSAV-
+     ⭐ 0  🗣 C++  📅 2026-08-14
+     🔗 https://github.com/UtkarshDeshmukh17/XSAV-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 Omkar443/nyx
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/Omkar443/nyx
+     📝 An open-source security research platform combining AI agents, attack surface in…
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 VinayK88/gpu-trust-guardian
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-14
+     🔗 https://github.com/VinayK88/gpu-trust-guardian
+     📝 Explainable NVIDIA-focused GPU workload, attestation, attack-path, and AI-agent …
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 Jbase16/defensive-cybersecurity-incident-analysis-portfolio
+     ⭐ 0  🗣 HTML  📅 2026-08-14
+     🔗 https://github.com/Jbase16/defensive-cybersecurity-incident-analysis-portfolio
+     📝 Portfolio artifact for Defensive Cybersecurity Incident Analysis
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 lvturner/cardputer-microslate-bt
+     ⭐ 0  🗣 C  📅 2026-08-14
+     🔗 https://github.com/lvturner/cardputer-microslate-bt
+     📝 M5Cardputer as a BLE HID keyboard for MicroSlate (Xteink X4) — solves the X4's B…
+     🏷  ble-keyboard, esp32-s3, m5cardputer, microslate, nimble, xteink-x4
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 sheikerdc-del/VPS-Security-Audit
+     ⭐ 0  🗣 Shell  📅 2026-08-14
+     🔗 https://github.com/sheikerdc-del/VPS-Security-Audit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 arjunnxd/Mobile-Malware-Scanner
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/arjunnxd/Mobile-Malware-Scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 Xinyangii/edrive-ai-knowledge-platform
+     ⭐ 0  🗣 TypeScript  📅 2026-08-14
+     🔗 https://github.com/Xinyangii/edrive-ai-knowledge-platform
+     📝 智能电驱 AI 知识与工程实践平台
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 vaishnavi-207/CanaryGuard
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/vaishnavi-207/CanaryGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 yang-qifan/Marti3SAP-CGMD
+     ⭐ 0  🗣 Shell  📅 2026-08-14
+     🔗 https://github.com/yang-qifan/Marti3SAP-CGMD
+     📝 A reproducible Martini 3 CGMD workflow for self-assembling peptides, covering se…
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 stormshadow-csc/MalScope
+     ⭐ 0  🗣 Rust  📅 2026-08-14
+     🔗 https://github.com/stormshadow-csc/MalScope
+     📝 Native Rust platform for malware behavior analysis, threat detection, and securi…
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 supantha8-debug/Cybersecurity-virtual-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/supantha8-debug/Cybersecurity-virtual-lab
+     📝 Made a cybersecurity virtual lab
+     🏷  —
+[2026-08-14 13:08:50 UTC] [NEW]   🆕 📦 fir3storm/win-harness
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/fir3storm/win-harness
+     📝 Memory-enhanced, self-learning tool harness for Windows security operations. Cre…
+     🏷  —
+[2026-08-14 13:08:50 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-14 13:08:50 UTC] [UPD]   📢 📦 Teknesyum/AiScanner
+     ⭐ 1  🗣 C#  📅 2026-08-13
+     🔗 https://github.com/Teknesyum/AiScanner
+     📝 Cross-platform process telemetry and AI-assisted threat triage for Windows, Linu…
+     🏷  ai-assisted, cybersecurity, dotnet, etw, malware-analysis, process-monitoring, threat-detection, windows, wpf
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 13:08:50 UTC] [UPD]   📢 📦 stevewinfieldtx/DRiX-SDR
+     ⭐ 0  🗣 JavaScript  📅 2026-08-13
+     🔗 https://github.com/stevewinfieldtx/DRiX-SDR
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 13:08:50 UTC] [UPD]   📢 📦 johwes/autonomous-threat-response
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/johwes/autonomous-threat-response
+     📝 Autonomous defensive AI agent — Falco → LangGraph → AAP remediation
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 13:08:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-14 13:08:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-14 13:08:52 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 13:08:52 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-14 13:08:52 UTC] [NEW]   🆕 📦 el3atwla/el3atawla-ps5-host
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/el3atwla/el3atawla-ps5-host
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 13:08:52 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-14 13:08:52 UTC] [UPD]   📢 📦 kostyabelousov001-hue/GreenSn0w
+     ⭐ 1  🗣 C  📅 2026-08-13
+     🔗 https://github.com/kostyabelousov001-hue/GreenSn0w
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 13:08:52 UTC] [UPD]   📢 📦 lo1784768-hash/IMGUIDELTA
+     ⭐ 0  🗣 Objective-C  📅 2026-08-13
+     🔗 https://github.com/lo1784768-hash/IMGUIDELTA
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 13:08:52 UTC] [UPD]   📢 📦 olaffx/clipwire
+     ⭐ 9  🗣 C  📅 2026-08-13
+     🔗 https://github.com/olaffx/clipwire
+     📝 iOS 26.1 vm_map_clip race + vm_fault_wire_object_pages OOB kernel exploit harnes…
+     🏷  exploit, ios, poc
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 13:08:52 UTC] [UPD]   📢 📦 nloftis/claude-code-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-08-13
+     🔗 https://github.com/nloftis/claude-code-sandbox
+     📝 Rootless Podman sandbox for Claude Code — isolates an autonomous coding agent fr…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 13:08:52 UTC] [INFO] ============================================================
+[2026-08-14 13:08:52 UTC] [INFO] Completato — 24 nuovi, 8 aggiornati, 0 errori
+[2026-08-14 13:08:52 UTC] [INFO] ============================================================
