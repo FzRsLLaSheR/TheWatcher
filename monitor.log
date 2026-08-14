@@ -61327,3 +61327,221 @@
 [2026-08-14 13:08:52 UTC] [INFO] ============================================================
 [2026-08-14 13:08:52 UTC] [INFO] Completato — 24 nuovi, 8 aggiornati, 0 errori
 [2026-08-14 13:08:52 UTC] [INFO] ============================================================
+[2026-08-14 18:55:21 UTC] [INFO] ============================================================
+[2026-08-14 18:55:21 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-14 18:55:21 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-14 18:55:21 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-14 18:55:21 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-14 18:55:21 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-14 18:55:21 UTC] [INFO] ============================================================
+[2026-08-14 18:55:21 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-14 18:55:21 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-14 18:55:23 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 18:55:23 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-14 18:55:23 UTC] [NEW]   🆕 📦 Adityasingh230058/eyedetect
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/Adityasingh230058/eyedetect
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:23 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-14 18:55:23 UTC] [UPD]   📢 📦 nguyentimmy/KQL-Detection-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-08-07
+     🔗 https://github.com/nguyentimmy/KQL-Detection-Engineering
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-14 18:55:23 UTC] [UPD]   📢 📦 RobSealock/ctf-security-onion-rules
+     ⭐ 0  🗣 Shell  📅 2026-08-13
+     🔗 https://github.com/RobSealock/ctf-security-onion-rules
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 18:55:23 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-14 18:55:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-14 18:55:26 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 FakihaTariq/windows-sysmon-splunk-automation
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/FakihaTariq/windows-sysmon-splunk-automation
+     📝 Endpoint Detection & Response (EDR) and Automation using Windows Event Manager, …
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 857seif/FolderGuard
+     ⭐ 1  🗣 C++  📅 2026-08-14
+     🔗 https://github.com/857seif/FolderGuard
+     📝 RenPy&Amatera Killer
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 patricktsullivan/win_ps_remedy2
+     ⭐ 0  🗣 PowerShell  📅 2026-08-14
+     🔗 https://github.com/patricktsullivan/win_ps_remedy2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 khalfaan01/infrastructure-platform
+     ⭐ 0  🗣 JavaScript  📅 2026-08-14
+     🔗 https://github.com/khalfaan01/infrastructure-platform
+     📝 infrastructure platform designed to demonstrate and upgrade my skills
+     🏷  cybersecurity, infrastructure, management-system
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 Alisha-sh-dev/SOC-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/Alisha-sh-dev/SOC-Home-Lab
+     📝 Enterprise SOC Home Lab - Wazuh SIEM deployment, threat detection, MITRE ATT&CK …
+     🏷  blue-team, compliance, cybersecurity, home-lab, incident-response, linux, malware-analysis, mitre-attack, network-security, nis2, security-operations, siem, soc, soc-analyst, soc-automation, threat-detection, threat-intelligence, virtualization, wazuh, windows-security
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 Adityasingh230058/eyedetect
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/Adityasingh230058/eyedetect
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 Tauseefmalikk/ART
+     ⭐ 0  🗣 PowerShell  📅 2026-08-14
+     🔗 https://github.com/Tauseefmalikk/ART
+     📝 xyz
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 Asaiuta/reverse-workbench-skill
+     ⭐ 1  🗣 PowerShell  📅 2026-08-14
+     🔗 https://github.com/Asaiuta/reverse-workbench-skill
+     📝 (nessuna descrizione)
+     🏷  agent-skills, claude-code, codex-cli, ctf, cybersecurity, deepseek-harness, dsh-plugin, pentesting, pi-extension, reverse-engineering, security, skills
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 n0bra1nce11/Ajax-Security-Team---MITRE-ATT-CK-G0130
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/n0bra1nce11/Ajax-Security-Team---MITRE-ATT-CK-G0130
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 SamVal78/sentinellab
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/SamVal78/sentinellab
+     📝 to be editted
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 gdotbat/aisoc
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/gdotbat/aisoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 J0ohnnyy/soc-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/J0ohnnyy/soc-detection-lab
+     📝 Home SOC / purple-team detection lab — emulate MITRE ATT&CK techniques, engineer…
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 peerapatsrs/vpn-bypass
+     ⭐ 0  🗣 JavaScript  📅 2026-08-14
+     🔗 https://github.com/peerapatsrs/vpn-bypass
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 kayailkerugur/secdoctor
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/kayailkerugur/secdoctor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 KhasanovBakhodirSocAnalyst/soc-alert-investigations
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/KhasanovBakhodirSocAnalyst/soc-alert-investigations
+     📝 Practical SOC L1 investigations covering alert triage, IOC enrichment, SIEM/EDR …
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 jamunachi08/alphax_grc
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/jamunachi08/alphax_grc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 akanbi9/-CYBER-KILL-CHAIN
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/akanbi9/-CYBER-KILL-CHAIN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 ParthShethia25/ai-security-monitoring
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/ParthShethia25/ai-security-monitoring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 vangaaditi2025/AI-THREATSECURITY
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/vangaaditi2025/AI-THREATSECURITY
+     📝 AI_THREATSECURITY
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 NEED-Programming/RedTeamInfra_Adaptix
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/NEED-Programming/RedTeamInfra_Adaptix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 thedetectlab/soc-detection-queries
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/thedetectlab/soc-detection-queries
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 bermudd95/cti-threat-intelligence-brief
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/bermudd95/cti-threat-intelligence-brief
+     📝 Synthesis of CISA advisories and threat intelligence data into actionable detect…
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 bermudd95/sysmon-edr-threat-hunting
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/bermudd95/sysmon-edr-threat-hunting
+     📝 Advanced Windows host telemetry analysis, Sysmon event correlation, and process …
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 CayvinR/Soc-Security-monitoring-dashboard
+     ⭐ 0  🗣 CSS  📅 2026-08-14
+     🔗 https://github.com/CayvinR/Soc-Security-monitoring-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 Kess1Gflex/apache-web-traffic-investigation-splunk
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/Kess1Gflex/apache-web-traffic-investigation-splunk
+     📝 Tier 1 SOC investigation of unusual Apache web traffic using Splunk and SPL, inc…
+     🏷  —
+[2026-08-14 18:55:26 UTC] [NEW]   🆕 📦 vaishnavi-207/CanaryGuard
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/vaishnavi-207/CanaryGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 18:55:26 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-14 18:55:26 UTC] [UPD]   📢 📦 eduvijna/eduvijna-aieos-backend
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/eduvijna/eduvijna-aieos-backend
+     📝 EduVijna AIEOS backend — application APIs, domain services, and AI platform behi…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 18:55:26 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-14 18:55:26 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-14 18:55:29 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 18:55:29 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-14 18:55:29 UTC] [NEW]   🆕 📦 Indegosblade/IOSurface-CacheMode-MIE-Bypass
+     ⭐ 0  🗣 Objective-C  📅 2026-08-14
+     🔗 https://github.com/Indegosblade/IOSurface-CacheMode-MIE-Bypass
+     📝 IOSurface CacheMode — MIE (Memory Integrity Enforcement) bypass via unprivileged…
+     🏷  —
+[2026-08-14 18:55:29 UTC] [NEW]   🆕 📦 joseadejezus/oscp-peas-triage
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/joseadejezus/oscp-peas-triage
+     📝 Offline LinPEAS/WinPEAS output parser — ranks privesc candidates by severity. En…
+     🏷  —
+[2026-08-14 18:55:29 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-14 18:55:29 UTC] [UPD]   📢 📦 olaffx/clipwire
+     ⭐ 10  🗣 C  📅 2026-08-13
+     🔗 https://github.com/olaffx/clipwire
+     📝 iOS 26.1 vm_map_clip race + vm_fault_wire_object_pages OOB kernel exploit harnes…
+     🏷  exploit, ios, poc
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 18:55:29 UTC] [UPD]   📢 📦 kostyabelousov001-hue/GreenSn0w
+     ⭐ 1  🗣 C  📅 2026-08-13
+     🔗 https://github.com/kostyabelousov001-hue/GreenSn0w
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 18:55:29 UTC] [UPD]   📢 📦 lo1784768-hash/IMGUIDELTA
+     ⭐ 0  🗣 Objective-C  📅 2026-08-13
+     🔗 https://github.com/lo1784768-hash/IMGUIDELTA
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 18:55:29 UTC] [UPD]   📢 📦 el3atwla/el3atawla-ps5-host
+     ⭐ 0  🗣 JavaScript  📅 2026-08-14
+     🔗 https://github.com/el3atwla/el3atawla-ps5-host
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 18:55:29 UTC] [UPD]   📢 📦 fdavids77/BlackBoxReborn
+     ⭐ 1  🗣 Java  📅 2026-08-12
+     🔗 https://github.com/fdavids77/BlackBoxReborn
+     📝 Maintained Android 16/17 compatible fork of NewBlackBox — app virtualisation for…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-14 18:55:29 UTC] [INFO] ============================================================
+[2026-08-14 18:55:29 UTC] [INFO] Completato — 29 nuovi, 8 aggiornati, 0 errori
+[2026-08-14 18:55:29 UTC] [INFO] ============================================================
