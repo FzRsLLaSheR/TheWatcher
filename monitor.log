@@ -60712,3 +60712,279 @@
 [2026-08-13 19:03:32 UTC] [INFO] ============================================================
 [2026-08-13 19:03:32 UTC] [INFO] Completato — 40 nuovi, 11 aggiornati, 0 errori
 [2026-08-13 19:03:32 UTC] [INFO] ============================================================
+[2026-08-14 02:02:48 UTC] [INFO] ============================================================
+[2026-08-14 02:02:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-14 02:02:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-14 02:02:48 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-14 02:02:48 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-14 02:02:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-14 02:02:48 UTC] [INFO] ============================================================
+[2026-08-14 02:02:48 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-14 02:02:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-14 02:02:50 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 02:02:50 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-14 02:02:50 UTC] [NEW]   🆕 📦 RobSealock/ctf-security-onion-rules
+     ⭐ 0  🗣 Shell  📅 2026-08-13
+     🔗 https://github.com/RobSealock/ctf-security-onion-rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:50 UTC] [NEW]   🆕 📦 QFunnn/byovd-poc
+     ⭐ 0  🗣 C++  📅 2026-08-13
+     🔗 https://github.com/QFunnn/byovd-poc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:50 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-14 02:02:50 UTC] [UPD]   📢 📦 riceharvest/notnet
+     ⭐ 0  🗣 C  📅 2026-08-06
+     🔗 https://github.com/riceharvest/notnet
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-14 02:02:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-14 02:02:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-14 02:02:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 32 NUOVI repository:
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 timwalkerjr/ps-astro-edruskate
+     ⭐ 0  🗣 Astro  📅 2026-08-14
+     🔗 https://github.com/timwalkerjr/ps-astro-edruskate
+     📝 Converting their live Wordpress Breakdance Website to Astro
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 Kamiyandori/HTB-Responder
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/Kamiyandori/HTB-Responder
+     📝 Explotación de LLMNR/NBT-NS poisoning, captura de hashes NetNTLMv2, descifrado c…
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 kiddoCodex/fimwatch
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/kiddoCodex/fimwatch
+     📝 Small file integrity monitor - baseline a directory's file hashes/mtimes, then c…
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 raymondj24/sourcesentry-sast
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/raymondj24/sourcesentry-sast
+     📝 Python-based SAST scanner using AST analysis to detect OWASP-aligned security is…
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 XCode-Correa/FV_ICT10_Q1Seatwork1_Correa_Edrian
+     ⭐ 0  🗣 CSS  📅 2026-08-13
+     🔗 https://github.com/XCode-Correa/FV_ICT10_Q1Seatwork1_Correa_Edrian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 andrewthamcc/edricsum
+     ⭐ 0  🗣 TypeScript  📅 2026-08-13
+     🔗 https://github.com/andrewthamcc/edricsum
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 francisngunjiri/aedrbf
+     ⭐ 0  🗣 C++  📅 2026-08-14
+     🔗 https://github.com/francisngunjiri/aedrbf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 Lucas18062025/PoC_scripts_for_shell
+     ⭐ 0  🗣 HTML  📅 2026-08-13
+     🔗 https://github.com/Lucas18062025/PoC_scripts_for_shell
+     📝 Red team research: bypassing detection in reverse/bind shells (authorized lab en…
+     🏷  av-evasion, detection-evasion, edr-evasion, offensive-security, penetration-testing, red-team
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 alfredacq/alfredacq
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/alfredacq/alfredacq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 CyberZag/101-cybersecurity-analyst
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/CyberZag/101-cybersecurity-analyst
+     📝 A structured study repository based on The Complete Hands-On Cybersecurity Analy…
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 rrepswal/uai-query-library
+     ⭐ 0  🗣 JavaScript  📅 2026-08-13
+     🔗 https://github.com/rrepswal/uai-query-library
+     📝 UAI SRS Hands-On Activity and API Integrations query library. A companion to Ing…
+     🏷  asset-management, cmdb, infoblox, tampermonkey, uai, userscript
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 raymondj24/raymondj24
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/raymondj24/raymondj24
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 Dylan-H54/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Dylan-H54/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 Prapul1/kcd-web-rdp-compromise-investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Prapul1/kcd-web-rdp-compromise-investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 GPS-Informatica/comparativa-k7-cyberprotect360-vs-bitdefender-gravityzone
+     ⭐ 0  🗣 HTML  📅 2026-08-13
+     🔗 https://github.com/GPS-Informatica/comparativa-k7-cyberprotect360-vs-bitdefender-gravityzone
+     📝 Comparativa técnica K7 Cyber Protect 360 + EDR + Seceon OTM vs Bitdefender Gravi…
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 Blackjack240/GITHUB-PORTFOLIO
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Blackjack240/GITHUB-PORTFOLIO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 jamesdoe6/docker-container-security-thesis
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/jamesdoe6/docker-container-security-thesis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 noble3212/Windows-IOC-Scanner-GUI
+     ⭐ 0  🗣 PowerShell  📅 2026-08-13
+     🔗 https://github.com/noble3212/Windows-IOC-Scanner-GUI
+     📝 NEW with GUI and Vrius total API
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 teckel-io/0bl7oJTggleAojEDr06KJOuaZi9ElN
+     ⭐ 0  🗣 HTML  📅 2026-08-13
+     🔗 https://github.com/teckel-io/0bl7oJTggleAojEDr06KJOuaZi9ElN
+     📝 Auto-generated for client: DENTAL_PRACTICE_MANAGER_PORTAL: zzload 20260813-08353…
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 yashchavan24/cybersentinel
+     ⭐ 0  🗣 JavaScript  📅 2026-08-13
+     🔗 https://github.com/yashchavan24/cybersentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 Teknesyum/AiScanner
+     ⭐ 0  🗣 C#  📅 2026-08-13
+     🔗 https://github.com/Teknesyum/AiScanner
+     📝 Cross-platform process telemetry and AI-assisted threat triage for Windows, Linu…
+     🏷  ai-assisted, cybersecurity, dotnet, etw, malware-analysis, process-monitoring, threat-detection, windows, wpf
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 tqpco/Edra2
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/tqpco/Edra2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 Javosss/Javosss
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Javosss/Javosss
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 IngmarVG-IB/infoblox-uai-query-library
+     ⭐ 0  🗣 JavaScript  📅 2026-08-13
+     🔗 https://github.com/IngmarVG-IB/infoblox-uai-query-library
+     📝 One-click library of 28 curated queries for the Infoblox Universal Asset Insight…
+     🏷  asset-management, cmdb, ddi, infoblox, tampermonkey, userscript
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 tqpco/Edra
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/tqpco/Edra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 Vedant2330/aegis-x-edr
+     ⭐ 0  🗣 TypeScript  📅 2026-08-13
+     🔗 https://github.com/Vedant2330/aegis-x-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 BigPapa6911/soc-analyst-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/BigPapa6911/soc-analyst-portfolio
+     📝 A comprehensive portfolio of SOC (Security Operations Center) investigations, in…
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 lucascostadevrobot/CiberSecurity-Projeto-Phishing-Kali-Linux
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/lucascostadevrobot/CiberSecurity-Projeto-Phishing-Kali-Linux
+     📝 Projeto de desenvolvimento na formação CiberSecurity Specialist.
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 sokhiaryan/officer
+     ⭐ 0  🗣 C++  📅 2026-08-13
+     🔗 https://github.com/sokhiaryan/officer
+     📝 A telemetry agent for my capstone project Panopticon
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 NVD-2019/d
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/NVD-2019/d
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 MdMubinNomani/EDR-lite
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/MdMubinNomani/EDR-lite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:53 UTC] [NEW]   🆕 📦 BVijayabhaskarReddy/AegisIQ-CyberFusion-Analytics
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/BVijayabhaskarReddy/AegisIQ-CyberFusion-Analytics
+     📝 Cybersecurity Data Engineering platform with real time kafka ingestion, medallio…
+     🏷  —
+[2026-08-14 02:02:53 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-14 02:02:53 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-14 02:02:53 UTC] [UPD]   📢 📦 riceharvest/notnet
+     ⭐ 0  🗣 C  📅 2026-08-06
+     🔗 https://github.com/riceharvest/notnet
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-14 02:02:53 UTC] [UPD]   📢 📦 tbrena/previsao-safra
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/tbrena/previsao-safra
+     📝 Previsao de safra de cafe em SP com satelite gratuito (Sentinel-2/MapBiomas), cl…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 02:02:53 UTC] [UPD]   📢 📦 Natnael-Getahun/Eskolx-Open-Knowledge
+     ⭐ 0  🗣 N/A  📅 2026-08-13
+     🔗 https://github.com/Natnael-Getahun/Eskolx-Open-Knowledge
+     📝 Public learning library for statistics, statistical computing, and data analysis…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 02:02:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-14 02:02:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-14 02:02:55 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-14 02:02:55 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-14 02:02:55 UTC] [NEW]   🆕 📦 emris93/Sloptkit-autoloader
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/emris93/Sloptkit-autoloader
+     📝 An automated webkit exploit for PS5
+     🏷  —
+[2026-08-14 02:02:55 UTC] [NEW]   🆕 📦 dm-balakin/solitary
+     ⭐ 0  🗣 Go  📅 2026-08-13
+     🔗 https://github.com/dm-balakin/solitary
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-14 02:02:55 UTC] [NEW]   🆕 📦 nloftis/claude-code-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-08-13
+     🔗 https://github.com/nloftis/claude-code-sandbox
+     📝 Rootless Podman sandbox for Claude Code — isolates an autonomous coding agent fr…
+     🏷  —
+[2026-08-14 02:02:55 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-08-14 02:02:55 UTC] [UPD]   📢 📦 jkelly-dev1/agent-sandbox-escape
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/jkelly-dev1/agent-sandbox-escape
+     📝 Which agent-sandbox escapes the isolation flags people actually deploy really st…
+     🏷  agent-security, capability-security, container-escape, isolation, llm-security, measurement, python, red-team, sandboxing, seccomp
+     🔄 Motivo: repo recente (0gg)
+[2026-08-14 02:02:55 UTC] [UPD]   📢 📦 knklinux/cybergrad
+     ⭐ 1  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/knklinux/cybergrad
+     📝 Simulador de carrera SOC: aprende ciberseguridad defensiva resolviendo incidente…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-14 02:02:55 UTC] [UPD]   📢 📦 enhansome/enhansome-reversing
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-reversing
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 02:02:55 UTC] [UPD]   📢 📦 enhansome/enhansome-windows-red-team
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-windows-red-team
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-14 02:02:55 UTC] [UPD]   📢 📦 olaffx/clipwire
+     ⭐ 5  🗣 C  📅 2026-08-13
+     🔗 https://github.com/olaffx/clipwire
+     📝 iOS 26.1 vm_map_clip race + vm_fault_wire_object_pages OOB kernel exploit harnes…
+     🏷  exploit, ios, poc
+     🔄 Motivo: repo recente (0gg) | nuovi topic: poc, ios, exploit
+[2026-08-14 02:02:55 UTC] [UPD]   📢 📦 badrcoderman/deepslop
+     ⭐ 0  🗣 JavaScript  📅 2026-08-10
+     🔗 https://github.com/badrcoderman/deepslop
+     📝 DEEPSLOP — PS5 WebKit exploit kit (RCE dashboard): PROBE mode, self-porting offs…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-14 02:02:55 UTC] [INFO] ============================================================
+[2026-08-14 02:02:55 UTC] [INFO] Completato — 37 nuovi, 11 aggiornati, 0 errori
+[2026-08-14 02:02:55 UTC] [INFO] ============================================================
