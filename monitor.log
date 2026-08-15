@@ -61717,3 +61717,104 @@
 [2026-08-15 01:18:08 UTC] [INFO] ============================================================
 [2026-08-15 01:18:08 UTC] [INFO] Completato — 27 nuovi, 2 aggiornati, 0 errori
 [2026-08-15 01:18:08 UTC] [INFO] ============================================================
+[2026-08-15 06:39:31 UTC] [INFO] ============================================================
+[2026-08-15 06:39:31 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-15 06:39:31 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-15 06:39:31 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-15 06:39:31 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-15 06:39:31 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-15 06:39:31 UTC] [INFO] ============================================================
+[2026-08-15 06:39:31 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-15 06:39:31 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-15 06:39:33 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-15 06:39:33 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-15 06:39:33 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-15 06:39:33 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-15 06:39:33 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-15 06:39:35 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 codebyneeraj/google-agents
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/codebyneeraj/google-agents
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 i-am-llm/RemediStation
+     ⭐ 0  🗣 C#  📅 2026-08-15
+     🔗 https://github.com/i-am-llm/RemediStation
+     📝 Unify Software Updates, Vulnerability Scans, and Third Party Patch Libraries int…
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 Asaadaslam/loop_engineering_projects
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/Asaadaslam/loop_engineering_projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 imrankh22/ultimate-devops
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/imrankh22/ultimate-devops
+     📝 devops-material
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 Sumico8/Coding1
+     ⭐ 0  🗣 C#  📅 2026-08-15
+     🔗 https://github.com/Sumico8/Coding1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 Helloworldceo/Security-Alert-Triage-Assistant
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/Helloworldceo/Security-Alert-Triage-Assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 Kleffer24/Threat-Hunting-Scenario-TOR-
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/Kleffer24/Threat-Hunting-Scenario-TOR-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 l-thoms/WKC_Developer_Guide
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/l-thoms/WKC_Developer_Guide
+     📝 This document is intended to guide the development of Kigurumi mask terminals an…
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 PhelipeMoraes/project-sentinel-soc-lab
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/PhelipeMoraes/project-sentinel-soc-lab
+     📝 Laboratório defensivo de Blue Team para correlação de eventos, MITRE ATT&CK e re…
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 vladimiracunadev-create/rootcause-macos-inspector
+     ⭐ 0  🗣 Rust  📅 2026-08-15
+     🔗 https://github.com/vladimiracunadev-create/rootcause-macos-inspector
+     📝 🍎 RootCause macOS Inspector v0.1.0 — sensor forense de ciberseguridad para macOS…
+     🏷  blue-team, cybersecurity, desktop-app, dfir, diagnostics, egui, forensics, gatekeeper, launchd, macos, persistence, privacy, rust, security, security-tools, system-monitor, tcc, threat-detection, xprotect
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 ahmetskulekci/OT-EndpointBaselineCollector
+     ⭐ 0  🗣 PowerShell  📅 2026-08-15
+     🔗 https://github.com/ahmetskulekci/OT-EndpointBaselineCollector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 yuqiangcn/dsh-plugin-commands
+     ⭐ 0  🗣 TypeScript  📅 2026-08-15
+     🔗 https://github.com/yuqiangcn/dsh-plugin-commands
+     📝 DSH 通用斜杠命令加载器插件
+     🏷  —
+[2026-08-15 06:39:35 UTC] [NEW]   🆕 📦 iNDiK4/xeno-security-center
+     ⭐ 1  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/iNDiK4/xeno-security-center
+     📝 Self-hosted attack surface management and vulnerability management platform for …
+     🏷  attack-surface-management, cybersecurity, devsecops, fastapi, greenbone, nextjs, nmap, nuclei, self-hosted, vulnerability-management
+[2026-08-15 06:39:35 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-15 06:39:35 UTC] [UPD]   📢 📦 eduvijna/eduvijna-aieos-backend
+     ⭐ 0  🗣 Python  📅 2026-08-13
+     🔗 https://github.com/eduvijna/eduvijna-aieos-backend
+     📝 EduVijna AIEOS backend — application APIs, domain services, and AI platform behi…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-15 06:39:35 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-15 06:39:35 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-15 06:39:37 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-15 06:39:37 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-15 06:39:37 UTC] [NEW]   🆕 📦 littleghost16/Bypassing-UAC
+     ⭐ 1  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/littleghost16/Bypassing-UAC
+     📝 The article I used to learn Bypassing UAC
+     🏷  —
+[2026-08-15 06:39:37 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-15 06:39:37 UTC] [INFO] ============================================================
+[2026-08-15 06:39:37 UTC] [INFO] Completato — 14 nuovi, 1 aggiornati, 0 errori
+[2026-08-15 06:39:37 UTC] [INFO] ============================================================
