@@ -61976,3 +61976,188 @@
 [2026-08-15 12:39:12 UTC] [INFO] ============================================================
 [2026-08-15 12:39:12 UTC] [INFO] Completato — 23 nuovi, 3 aggiornati, 0 errori
 [2026-08-15 12:39:12 UTC] [INFO] ============================================================
+[2026-08-15 18:30:53 UTC] [INFO] ============================================================
+[2026-08-15 18:30:53 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-15 18:30:53 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-15 18:30:53 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-15 18:30:53 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-15 18:30:53 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-15 18:30:53 UTC] [INFO] ============================================================
+[2026-08-15 18:30:53 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-15 18:30:53 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-15 18:30:54 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-15 18:30:54 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-15 18:30:54 UTC] [NEW]   🆕 📦 IbnNizam/ioctl_switch_extractor
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/IbnNizam/ioctl_switch_extractor
+     📝 Static analysis tool for Windows kernel drivers: recovers IOCTL control codes an…
+     🏷  —
+[2026-08-15 18:30:54 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-15 18:30:54 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-15 18:30:54 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-15 18:30:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 gustavopulz/QuickReply
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/gustavopulz/QuickReply
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 JanetKesinro/Threat-Hunt_Nimbus-Health-Credential-Reuse
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/JanetKesinro/Threat-Hunt_Nimbus-Health-Credential-Reuse
+     📝 Microsoft Sentinel threat hunt investigating credential reuse, RDP access, SMB s…
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 Adityajha4590/Home-Lab-CyberSecurity
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/Adityajha4590/Home-Lab-CyberSecurity
+     📝 Built my own full home lab for my purple team practice
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 AhmadTariq1337/bl4ck-antivirus
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/AhmadTariq1337/bl4ck-antivirus
+     📝 Lightweight, open-source, cross-platform antivirus engine (Windows, Linux/Kali, …
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 garimaupadhyayy/RansomGuard-Behavioral-Ransomware-Detection-And-Response-System
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/garimaupadhyayy/RansomGuard-Behavioral-Ransomware-Detection-And-Response-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 kicodjed-bot/MCE-EXPLOIT
+     ⭐ 1  🗣 C  📅 2026-08-15
+     🔗 https://github.com/kicodjed-bot/MCE-EXPLOIT
+     📝 what next
+     🏷  cpu-emulator, dll, dll-hijack, dll-injection, dlls, exploit, famous, fyp, project, rats, source, syscalls, window-manager, windows, windows-10, windows-11, windows-desktop, windows-package
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 nigelsealey-ship-it/cybersecurity-risk-register
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/nigelsealey-ship-it/cybersecurity-risk-register
+     📝 This project demonstrates the development of a cybersecurity risk register for a…
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 MMoizSiddiqui/Python-Keylogger-Malware-Persistence-Simulation
+     ⭐ 3  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/MMoizSiddiqui/Python-Keylogger-Malware-Persistence-Simulation
+     📝 A Python-based keylogger and malware behavior simulation demonstrating keyboard …
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 darkc0de13/edr-research
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/darkc0de13/edr-research
+     📝 A three-volume deep dive into EDR/AV: internals, attacker adaptation, detection …
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 felixhonour247-ops/shieldops-expadox
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/felixhonour247-ops/shieldops-expadox
+     📝 SHIELDOPS Team Expadox - Cybersecurity Project. Endpoint protection, vulnerabili…
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 kteja6411-a11y/aI-assisted-threat-detection-system
+     ⭐ 0  🗣 TypeScript  📅 2026-08-15
+     🔗 https://github.com/kteja6411-a11y/aI-assisted-threat-detection-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 Excalibra/av-evasion-kit
+     ⭐ 3  🗣 C  📅 2026-08-15
+     🔗 https://github.com/Excalibra/av-evasion-kit
+     📝 AV Evasion Kit is a comprehensive shellcode evasion framework using Indirect Sys…
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 4li466as/SIEM-SOC
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/4li466as/SIEM-SOC
+     📝 Aegis-SOC is an advanced cybersecurity monitoring and incident response platform…
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 anjirock/wazuh-phishing-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/anjirock/wazuh-phishing-detection-lab
+     📝 End-to-end SOC detection engineering lab monitoring Windows 11 endpoint telemetr…
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 Vedika1505/cira
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/Vedika1505/cira
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 GhostX1407/SentinelCore
+     ⭐ 0  🗣 HTML  📅 2026-08-15
+     🔗 https://github.com/GhostX1407/SentinelCore
+     📝 SentinelCore: A stateful threat intelligence correlation engine reconciling asyn…
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 Rythorian-oss/Raven_Research_TheRavenDayStarVirius
+     ⭐ 0  🗣 C#  📅 2026-08-15
+     🔗 https://github.com/Rythorian-oss/Raven_Research_TheRavenDayStarVirius
+     📝 Process Hollowing, memory override, payload delivery, then resuming execution
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 Artyomm4/SentinelWatchPro
+     ⭐ 0  🗣 JavaScript  📅 2026-08-15
+     🔗 https://github.com/Artyomm4/SentinelWatchPro
+     📝 CLOUD IT
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 chrisnkuno/Sentry-monitoring
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/chrisnkuno/Sentry-monitoring
+     📝 Monitors what runs on this machine — WSL2 Linux and Windows host
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 cyber-atharv/Cybersecurity-Risk-Assessment-Framework-for-Small-Businesses
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/cyber-atharv/Cybersecurity-Risk-Assessment-Framework-for-Small-Businesses
+     📝  model for evaluating cybersecurity risks in small and medium enterprises (SMEs)
+     🏷  —
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 Javiercm1221/reverse-shell-lab-report
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/Javiercm1221/reverse-shell-lab-report
+     📝 PowerShell reverse shell lab — detection surface analysis, MITRE mapping, and de…
+     🏷  cybersecurity, defensive-security, detection-engineering, mitre-attack, post-exploitation, powershell, reverse-shell
+[2026-08-15 18:30:57 UTC] [NEW]   🆕 📦 babeard1/Internal-DAMS-Middleware
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/babeard1/Internal-DAMS-Middleware
+     📝 Middleware for NWWII internal DAMS communication
+     🏷  —
+[2026-08-15 18:30:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-15 18:30:57 UTC] [UPD]   📢 📦 PatrickChoumi/safezone
+     ⭐ 0  🗣 Shell  📅 2026-08-15
+     🔗 https://github.com/PatrickChoumi/safezone
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-15 18:30:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-15 18:30:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-15 18:30:58 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-15 18:30:58 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-15 18:30:58 UTC] [NEW]   🆕 📦 etc-oss/ragent
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/etc-oss/ragent
+     📝 Confined AI coding agents with human oversight — a forkable-per-project workspac…
+     🏷  —
+[2026-08-15 18:30:58 UTC] [NEW]   🆕 📦 VoxDon3/ps4Host_voxdon3
+     ⭐ 0  🗣 CSS  📅 2026-08-15
+     🔗 https://github.com/VoxDon3/ps4Host_voxdon3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-15 18:30:58 UTC] [NEW]   🆕 📦 lovejoy-cyber/Cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/lovejoy-cyber/Cybersecurity-portfolio
+     📝 central repository for tracking labs, CTFs, and tools
+     🏷  —
+[2026-08-15 18:30:58 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-15 18:30:58 UTC] [UPD]   📢 📦 kostyabelousov001-hue/GreenSn0w
+     ⭐ 1  🗣 C  📅 2026-08-13
+     🔗 https://github.com/kostyabelousov001-hue/GreenSn0w
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-15 18:30:58 UTC] [UPD]   📢 📦 secwexen/aapp-mart
+     ⭐ 8  🗣 Python  📅 2026-01-15
+     🔗 https://github.com/secwexen/aapp-mart
+     📝 AAPP-MART (AI‑Powered Autonomous Attack Path Prediction & Multi‑Agent Red Team S…
+     🏷  adversary-emulation, ai-powered, attack-graph, attack-path-analysis, attack-path-prediction, attack-simulation, autonomous-agents, breach-and-attack-simulation, cybersecurity, mitre-attack, multi-agent, offensive-security, python, red-team, risk-assessment, risk-scoring, security-automation, security-validation, threat-modeling, threat-simulation
+     🔄 Motivo: nuovi topic: ai-powered, multi-agent
+[2026-08-15 18:30:58 UTC] [UPD]   📢 📦 h5i-dev/h5i
+     ⭐ 530  🗣 Rust  📅 2026-03-11
+     🔗 https://github.com/h5i-dev/h5i
+     📝 Integrated sandbox for coding agents. Browser, dependencies, dev server, and wor…
+     🏷  agent-orchestration, agentic-ai, agentic-workflow, ai-coding, ai-coding-agent, ai-orchestration, ai-safety, ai-security, audit-trail, browser, browser-security, claude-code, codex, good-first-issue, microvm, p2p, prompt-injection, sandbox, vibe-coding, worktree-manager
+     🔄 Motivo: nuovi topic: p2p
+[2026-08-15 18:30:58 UTC] [UPD]   📢 📦 ayoubnoob543-lab/firmware-lab
+     ⭐ 0  🗣 C  📅 2026-08-15
+     🔗 https://github.com/ayoubnoob543-lab/firmware-lab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-15 18:30:58 UTC] [INFO] ============================================================
+[2026-08-15 18:30:58 UTC] [INFO] Completato — 26 nuovi, 5 aggiornati, 0 errori
+[2026-08-15 18:30:58 UTC] [INFO] ============================================================
