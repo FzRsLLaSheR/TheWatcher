@@ -62339,3 +62339,150 @@
 [2026-08-16 01:22:35 UTC] [INFO] ============================================================
 [2026-08-16 01:22:35 UTC] [INFO] Completato — 21 nuovi, 8 aggiornati, 0 errori
 [2026-08-16 01:22:35 UTC] [INFO] ============================================================
+[2026-08-16 06:40:47 UTC] [INFO] ============================================================
+[2026-08-16 06:40:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-16 06:40:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-16 06:40:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-16 06:40:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-16 06:40:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-16 06:40:47 UTC] [INFO] ============================================================
+[2026-08-16 06:40:47 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-16 06:40:47 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-16 06:40:48 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-16 06:40:48 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-16 06:40:48 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-16 06:40:48 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-16 06:40:48 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-16 06:40:48 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-16 06:40:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 haseebcm/Cyber-Genesis-Arc
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/haseebcm/Cyber-Genesis-Arc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 noSkcaHdat/myOnsite-Healthcare-EDRops
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/noSkcaHdat/myOnsite-Healthcare-EDRops
+     📝 a real-time endpoint threat reconciliation engine that ingests event streams fro…
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 Sridharsri67/ThreatChronicle
+     ⭐ 0  🗣 JavaScript  📅 2026-08-16
+     🔗 https://github.com/Sridharsri67/ThreatChronicle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 paddman/NTAgentShieldLinux
+     ⭐ 0  🗣 Go  📅 2026-08-16
+     🔗 https://github.com/paddman/NTAgentShieldLinux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 MahanSharifi86/botsv3-threat-hunting-dfir
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/MahanSharifi86/botsv3-threat-hunting-dfir
+     📝 End-to-end Threat Hunting and DFIR investigation using Splunk and the BOTSv3 dat…
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 shreyatokdar152-jpg/SOC-Home-Lab-Security-Monitoring-Threat-Detection
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/shreyatokdar152-jpg/SOC-Home-Lab-Security-Monitoring-Threat-Detection
+     📝 A hands-on SOC home lab using Wazuh SIEM for security monitoring, log analysis, …
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 shahin-hakemi/EDR
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/shahin-hakemi/EDR
+     📝 TMLR 2026
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 RJJxx/Process-Sentinel
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/RJJxx/Process-Sentinel
+     📝 A Python-based Endpoint Detection and Response (EDR) prototype for Windows that …
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 keshavsinha/edrecon
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/keshavsinha/edrecon
+     📝 Explainable reconnaissance framework for security education. Every finding expla…
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 siropkin/neighborhood-rhythm
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/siropkin/neighborhood-rhythm
+     📝 Passive BLE/WiFi/mDNS environment scanner with a live radar dashboard. Runs on a…
+     🏷  ble, dashboard, iot, mdns, raspberry-pi, scanner, sqlite, sse, trilateration, wifi
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 nodbatta/edrbgq
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/nodbatta/edrbgq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 kimjm1116-cmyk/--------
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/kimjm1116-cmyk/--------
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 ChidiRepository/cve-intelligence-platform
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/ChidiRepository/cve-intelligence-platform
+     📝 AI-Powered CVE Intelligence & MITRE Matrix Platform Generator
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 net-serpent/sigmarules
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/net-serpent/sigmarules
+     📝 Sigma detection rules for low-level host tampering: LKM and userland rootkits, e…
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 onkar531/soc-alert-investigations
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/onkar531/soc-alert-investigations
+     📝 Hands-on SOC alert investigations, threat detection, log analysis, incident resp…
+     🏷  —
+[2026-08-16 06:40:50 UTC] [NEW]   🆕 📦 adrngmz34/Home-SIEM-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/adrngmz34/Home-SIEM-Lab
+     📝 Wazuh Agents for home LAN
+     🏷  —
+[2026-08-16 06:40:50 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-16 06:40:50 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-16 06:40:50 UTC] [UPD]   📢 📦 sixfathoms/marque
+     ⭐ 0  🗣 JavaScript  📅 2026-08-15
+     🔗 https://github.com/sixfathoms/marque
+     📝 Reviewed, approved, time-bounded access to production data — submit a statement,…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-16 06:40:50 UTC] [UPD]   📢 📦 i-am-llm/RemediStation
+     ⭐ 0  🗣 C#  📅 2026-08-15
+     🔗 https://github.com/i-am-llm/RemediStation
+     📝 Unify Software Updates, Vulnerability Scans, and Third Party Patch Libraries int…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-16 06:40:50 UTC] [UPD]   📢 📦 Echo506/SOC-Analyst-Now-Notes
+     ⭐ 0  🗣 N/A  📅 2026-08-14
+     🔗 https://github.com/Echo506/SOC-Analyst-Now-Notes
+     📝 Apuntes, laboratorios y recursos de estudio sobre operaciones SOC, análisis de a…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-16 06:40:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-16 06:40:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-16 06:40:52 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-16 06:40:52 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-16 06:40:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-16 06:40:52 UTC] [UPD]   📢 📦 AdityaIndoori/FirstLight-Nvidia-Spark-Hackathon-08-2026
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/AdityaIndoori/FirstLight-Nvidia-Spark-Hackathon-08-2026
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-16 06:40:52 UTC] [UPD]   📢 📦 davasorus/podman-sandbox-runner
+     ⭐ 0  🗣 Go  📅 2026-08-15
+     🔗 https://github.com/davasorus/podman-sandbox-runner
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-16 06:40:52 UTC] [INFO] ============================================================
+[2026-08-16 06:40:52 UTC] [INFO] Completato — 16 nuovi, 7 aggiornati, 0 errori
+[2026-08-16 06:40:52 UTC] [INFO] ============================================================
