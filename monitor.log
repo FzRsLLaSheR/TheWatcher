@@ -62161,3 +62161,181 @@
 [2026-08-15 18:30:58 UTC] [INFO] ============================================================
 [2026-08-15 18:30:58 UTC] [INFO] Completato — 26 nuovi, 5 aggiornati, 0 errori
 [2026-08-15 18:30:58 UTC] [INFO] ============================================================
+[2026-08-16 01:22:29 UTC] [INFO] ============================================================
+[2026-08-16 01:22:29 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-16 01:22:29 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-16 01:22:29 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-16 01:22:29 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-16 01:22:29 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-16 01:22:29 UTC] [INFO] ============================================================
+[2026-08-16 01:22:29 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-16 01:22:29 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-16 01:22:30 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-16 01:22:30 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-16 01:22:30 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-16 01:22:30 UTC] [UPD]   📢 📦 franckferman/KeyMaker
+     ⭐ 1  🗣 Python  📅 2025-06-16
+     🔗 https://github.com/franckferman/KeyMaker
+     📝 Code-signing forge. Generate certs with realistic vendor identities, sign PE fil…
+     🏷  av-evasion, cert-generator, certificates, certificates-generator, certificates-signed, certificates-utils, edr-bypass, edr-evasion, fake-certificate, keymaker, pfx, pfx-certificate, pfx-extraction, pfx-signature, redteam, redteam-tool, redteam-tools, redteaming-tools, self-signed-certificate, self-signed-certificates
+     🔄 Motivo: nuovi topic: certificates, pfx-certificate, pfx-signature, fake-certificate, self-signed-certificates, edr-bypass, av-evasion, certificates-signed, pfx, certificates-utils, redteam-tool, edr-evasion, redteam, redteaming-tools, self-signed-certificate, keymaker, redteam-tools, pfx-extraction, cert-generator, certificates-generator
+[2026-08-16 01:22:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-16 01:22:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-16 01:22:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 KRISH141006/infinity_hacks
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/KRISH141006/infinity_hacks
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 sixfathoms/marque
+     ⭐ 0  🗣 JavaScript  📅 2026-08-15
+     🔗 https://github.com/sixfathoms/marque
+     📝 Reviewed, approved, time-bounded access to production data — submit a statement,…
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 Edrisabdella/edris-and-haykel-BOQ-Calculator
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/Edrisabdella/edris-and-haykel-BOQ-Calculator
+     📝 standard BoQ Calculator
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 danielguillaumont/case-zero
+     ⭐ 1  🗣 TypeScript  📅 2026-08-15
+     🔗 https://github.com/danielguillaumont/case-zero
+     📝 Cybersecurity operations and investigation platform for alert triage, detection …
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 Ret2Voidx/Ret2Voidx
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/Ret2Voidx/Ret2Voidx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 bren-wp/by-ftp
+     ⭐ 0  🗣 Go  📅 2026-08-15
+     🔗 https://github.com/bren-wp/by-ftp
+     📝 Native Windows FTP, FTPS & SFTP client by Brendigo — fast, private, secure and t…
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 toprakahmetaydogmus/04-threatintel-misp-opencti
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/toprakahmetaydogmus/04-threatintel-misp-opencti
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 vinayvobbili/witness
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/vinayvobbili/witness
+     📝 A DFIR agent that can only report what it can prove a tool said.
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 rmotapar/edr-backend-public
+     ⭐ 0  🗣 Java  📅 2026-08-15
+     🔗 https://github.com/rmotapar/edr-backend-public
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 h3lanislorchelly/edrpki
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/h3lanislorchelly/edrpki
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 WillGomezs/versa
+     ⭐ 0  🗣 JavaScript  📅 2026-08-15
+     🔗 https://github.com/WillGomezs/versa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 Faiza2201/CST8919_Assignment-2
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/Faiza2201/CST8919_Assignment-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 houlattascripts/chromelevator-optfork
+     ⭐ 0  🗣 C  📅 2026-08-15
+     🔗 https://github.com/houlattascripts/chromelevator-optfork
+     📝 i dont rlly know lol
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 nithinyeruva/370z
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/nithinyeruva/370z
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 thilob/clamav-linux-automation
+     ⭐ 0  🗣 Shell  📅 2026-08-15
+     🔗 https://github.com/thilob/clamav-linux-automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 FTRep01/CTF-Operation-Nightfall
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/FTRep01/CTF-Operation-Nightfall
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:33 UTC] [NEW]   🆕 📦 siddarthmally38-star/sentinel-triage
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/siddarthmally38-star/sentinel-triage
+     📝 Modern web application demonstrating clean code principles
+     🏷  —
+[2026-08-16 01:22:33 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-16 01:22:33 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-16 01:22:33 UTC] [UPD]   📢 📦 i-am-llm/RemediStation
+     ⭐ 0  🗣 C#  📅 2026-08-15
+     🔗 https://github.com/i-am-llm/RemediStation
+     📝 Unify Software Updates, Vulnerability Scans, and Third Party Patch Libraries int…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-16 01:22:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-16 01:22:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-16 01:22:35 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-16 01:22:35 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-16 01:22:35 UTC] [NEW]   🆕 📦 davasorus/podman-sandbox-runner
+     ⭐ 0  🗣 Go  📅 2026-08-15
+     🔗 https://github.com/davasorus/podman-sandbox-runner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:35 UTC] [NEW]   🆕 📦 thiscitze/autopwn
+     ⭐ 0  🗣 Shell  📅 2026-08-15
+     🔗 https://github.com/thiscitze/autopwn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:35 UTC] [NEW]   🆕 📦 koli41jb/koli41jb.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-08-16
+     🔗 https://github.com/koli41jb/koli41jb.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 01:22:35 UTC] [NEW]   🆕 📦 remileduc/bubbleclaude
+     ⭐ 0  🗣 Shell  📅 2026-08-15
+     🔗 https://github.com/remileduc/bubbleclaude
+     📝 Config for running Claude in full protected sandbox (using bubblewrap)
+     🏷  —
+[2026-08-16 01:22:35 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-16 01:22:35 UTC] [UPD]   📢 📦 AdityaIndoori/FirstLight-Nvidia-Spark-Hackathon-08-2026
+     ⭐ 0  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/AdityaIndoori/FirstLight-Nvidia-Spark-Hackathon-08-2026
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-16 01:22:35 UTC] [UPD]   📢 📦 h5i-dev/h5i
+     ⭐ 530  🗣 Rust  📅 2026-03-11
+     🔗 https://github.com/h5i-dev/h5i
+     📝 Integrated sandbox for coding agents. Browser, dependencies, dev server, and wor…
+     🏷  agentic-ai, agentic-workflow, ai-coding, ai-coding-agent, ai-orchestration, ai-safety, ai-security, audit-trail, browser, browser-security, claude-code, codex, formal-verification, good-first-issue, microvm, p2p, prompt-injection, sandbox, vibe-coding, worktree-manager
+     🔄 Motivo: nuovi topic: formal-verification
+[2026-08-16 01:22:35 UTC] [UPD]   📢 📦 dm-balakin/solitary
+     ⭐ 0  🗣 Go  📅 2026-08-13
+     🔗 https://github.com/dm-balakin/solitary
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-16 01:22:35 UTC] [UPD]   📢 📦 etc-oss/ragent
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/etc-oss/ragent
+     📝 Confined AI coding agents with human oversight — a forkable-per-project workspac…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-16 01:22:35 UTC] [UPD]   📢 📦 lovejoy-cyber/Cybersecurity-portfolio
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/lovejoy-cyber/Cybersecurity-portfolio
+     📝 central repository for tracking labs, CTFs, and tools
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-16 01:22:35 UTC] [INFO] ============================================================
+[2026-08-16 01:22:35 UTC] [INFO] Completato — 21 nuovi, 8 aggiornati, 0 errori
+[2026-08-16 01:22:35 UTC] [INFO] ============================================================
