@@ -62486,3 +62486,163 @@
 [2026-08-16 06:40:52 UTC] [INFO] ============================================================
 [2026-08-16 06:40:52 UTC] [INFO] Completato — 16 nuovi, 7 aggiornati, 0 errori
 [2026-08-16 06:40:52 UTC] [INFO] ============================================================
+[2026-08-16 12:40:34 UTC] [INFO] ============================================================
+[2026-08-16 12:40:34 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-16 12:40:34 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-16 12:40:34 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-16 12:40:34 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-16 12:40:34 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-16 12:40:34 UTC] [INFO] ============================================================
+[2026-08-16 12:40:34 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-16 12:40:34 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-16 12:40:36 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-16 12:40:36 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-16 12:40:36 UTC] [NEW]   🆕 📦 Rashad635/Malware-Analysis-Report
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/Rashad635/Malware-Analysis-Report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 12:40:36 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-16 12:40:36 UTC] [UPD]   📢 📦 enhansome/enhansome-game-security
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-game-security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-16 12:40:36 UTC] [UPD]   📢 📦 proshiba/attack-tool-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-08
+     🔗 https://github.com/proshiba/attack-tool-analysis
+     📝 攻撃用のツール情報を収集するリポジトリです
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-16 12:40:36 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-16 12:40:36 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-16 12:40:38 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 mtheintrude23/Anti-Mining-Cryto-for-GCP
+     ⭐ 0  🗣 C  📅 2026-08-16
+     🔗 https://github.com/mtheintrude23/Anti-Mining-Cryto-for-GCP
+     📝 Lightweight Linux host-defense daemon for detecting and containing cryptomining …
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 bloggins/evasive_edr_injector
+     ⭐ 0  🗣 C#  📅 2026-08-16
+     🔗 https://github.com/bloggins/evasive_edr_injector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 ghulamsarwar05647-ops/ghulamsarwar05647-ops
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/ghulamsarwar05647-ops/ghulamsarwar05647-ops
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 atrixi1337/agentic-soc
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/atrixi1337/agentic-soc
+     📝 Agentic SOC lab: Linux EDR (Wazuh+auditd+Falco) + Wazuh manager + n8n Always-Enr…
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 bimoadis/Buggy
+     ⭐ 0  🗣 TypeScript  📅 2026-08-16
+     🔗 https://github.com/bimoadis/Buggy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 mrshrivasta/netlab
+     ⭐ 1  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/mrshrivasta/netlab
+     📝 Network Security Research Laboratory Toolkit developed by Karanam Shrivasta (15)…
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 k-z33/Healthcare_IOMT-EDR
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/k-z33/Healthcare_IOMT-EDR
+     📝 AI-driven EDR platform for hospital IoMT security — Wazuh, ML anomaly detection,…
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 mrshrivasta/tsprobe
+     ⭐ 1  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/mrshrivasta/tsprobe
+     📝 TCP/TLS Network Probing and Security Diagnostic Tool developed by Karanam Shriva…
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 wanliqin/agentbridge
+     ⭐ 0  🗣 JavaScript  📅 2026-08-16
+     🔗 https://github.com/wanliqin/agentbridge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 inaor/Harn.x
+     ⭐ 0  🗣 TypeScript  📅 2026-08-16
+     🔗 https://github.com/inaor/Harn.x
+     📝 Harness-native flight recorder and pre-execution policy for AI agent harnesses
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 Shikibashi/edriffles-blog
+     ⭐ 0  🗣 CSS  📅 2026-08-16
+     🔗 https://github.com/Shikibashi/edriffles-blog
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 Farooq-Syed/ransomguard
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/Farooq-Syed/ransomguard
+     📝 RansomGuard - early-warning ransomware detector (heuristic + ML engines) with si…
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 vasanth-void-0x/AegisFlow-SOC-Automation
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/vasanth-void-0x/AegisFlow-SOC-Automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 eh-amish/Windows-Defender-Security-Auditor-CVE-2026-50656-
+     ⭐ 0  🗣 PowerShell  📅 2026-08-16
+     🔗 https://github.com/eh-amish/Windows-Defender-Security-Auditor-CVE-2026-50656-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 drsyhshh/valoranthack-dll-sideloading-analysis
+     ⭐ 0  🗣 YARA  📅 2026-08-16
+     🔗 https://github.com/drsyhshh/valoranthack-dll-sideloading-analysis
+     📝 Static analysis of a DLL sideloading trojan distributed via YouTube as a "Valora…
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 gauravjain-cyber/gauravjain-cyber
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/gauravjain-cyber/gauravjain-cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 lumidren/CyberPulse-SOC-Suite
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/lumidren/CyberPulse-SOC-Suite
+     📝 Automated SIEM & SOAR SOC platform: MITRE ATT&CK detection engineering, automate…
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 JesseLee-CN/legacy-cds-db-compat-launcher
+     ⭐ 0  🗣 PowerShell  📅 2026-08-16
+     🔗 https://github.com/JesseLee-CN/legacy-cds-db-compat-launcher
+     📝 Source-only conditional compatibility launcher for legacy Circuit Design Suite d…
+     🏷  compatibility, jet-database, locale-emulator, multisim, powershell, windows-11
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 k4w8m6d45r-ui/-edrese
+     ⭐ 0  🗣 HTML  📅 2026-08-16
+     🔗 https://github.com/k4w8m6d45r-ui/-edrese
+     📝 УЧРЕЖДЕНИЕ МЕДРЕСЕ "АМИНА"
+     🏷  —
+[2026-08-16 12:40:38 UTC] [NEW]   🆕 📦 tyeurada/edrEvasionWorkshop
+     ⭐ 2  🗣 N/A  📅 2026-08-15
+     🔗 https://github.com/tyeurada/edrEvasionWorkshop
+     📝 Workshop materials for “Step-by-Step Malware Development: Evading EDR from Loade…
+     🏷  —
+[2026-08-16 12:40:38 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-16 12:40:38 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-16 12:40:38 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-16 12:40:38 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-16 12:40:40 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-16 12:40:40 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-16 12:40:40 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-16 12:40:40 UTC] [UPD]   📢 📦 AdityaIndoori/FirstLight-Nvidia-Spark-Hackathon-08-2026
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/AdityaIndoori/FirstLight-Nvidia-Spark-Hackathon-08-2026
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-16 12:40:40 UTC] [UPD]   📢 📦 etc-oss/ragent
+     ⭐ 0  🗣 Python  📅 2026-08-15
+     🔗 https://github.com/etc-oss/ragent
+     📝 Confined AI coding agents with human oversight — a forkable-per-project workspac…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-16 12:40:40 UTC] [INFO] ============================================================
+[2026-08-16 12:40:40 UTC] [INFO] Completato — 21 nuovi, 5 aggiornati, 0 errori
+[2026-08-16 12:40:40 UTC] [INFO] ============================================================
