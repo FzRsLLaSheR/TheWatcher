@@ -63412,3 +63412,169 @@
 [2026-08-17 12:45:47 UTC] [INFO] ============================================================
 [2026-08-17 12:45:47 UTC] [INFO] Completato — 25 nuovi, 7 aggiornati, 0 errori
 [2026-08-17 12:45:47 UTC] [INFO] ============================================================
+[2026-08-17 18:40:39 UTC] [INFO] ============================================================
+[2026-08-17 18:40:39 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-17 18:40:39 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-17 18:40:39 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-17 18:40:39 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-17 18:40:39 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-17 18:40:39 UTC] [INFO] ============================================================
+[2026-08-17 18:40:39 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-17 18:40:39 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-17 18:40:41 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-17 18:40:41 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-17 18:40:41 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-17 18:40:41 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-17 18:40:41 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-17 18:40:44 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 eamryfunk/edrahv
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/eamryfunk/edrahv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 CyberAuth/relayldap
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/CyberAuth/relayldap
+     📝 Reuse ntlmrelayx-retained LDAP/LDAPS sessions through a menu-driven ldap3 client…
+     🏷  active-directory, ldap, ldaps, ntlm, ntlmrelayx, penetration-testing, python, security-tools
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 santyrovito2006-sketch/cybersecurity-learning
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/santyrovito2006-sketch/cybersecurity-learning
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 AngelGuevara04/Diagramas-Edrei-Angel
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/AngelGuevara04/Diagramas-Edrei-Angel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 PCzBuilds/isms-akademiedw-iso27001
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/PCzBuilds/isms-akademiedw-iso27001
+     📝 Muster-ISMS nach ISO/IEC 27001:2022 (Amendment 1:2024) für ein fiktives Unterneh…
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 blankInPajamas/SentinelGo
+     ⭐ 0  🗣 Go  📅 2026-08-17
+     🔗 https://github.com/blankInPajamas/SentinelGo
+     📝 Go-powered SIEM for log collection, threat detection, and security monitoring.
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 Soumya-Ranjan-Mohanty-Tech/Mapping-SOC-Analyst-Daily-Responsibilities
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/Soumya-Ranjan-Mohanty-Tech/Mapping-SOC-Analyst-Daily-Responsibilities
+     📝 SOC Analyst Daily Responsibilities
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 mr-edr/LibraryManagementSystem
+     ⭐ 0  🗣 Java  📅 2026-08-17
+     🔗 https://github.com/mr-edr/LibraryManagementSystem
+     📝 A Spring boot application for library management
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 CausalNexusSystems/cns-omega-public
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/CausalNexusSystems/cns-omega-public
+     📝 Deterministic causal decision layer for critical infrastructure. Cryptographical…
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 APT0xSnowdox/EDR-M4n1ac
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/APT0xSnowdox/EDR-M4n1ac
+     📝 This offensive script is for active recon before conducting lateral movement in …
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 Rythorian-oss/Mithra_OS_Core
+     ⭐ 0  🗣 C#  📅 2026-08-17
+     🔗 https://github.com/Rythorian-oss/Mithra_OS_Core
+     📝 Mithra is a hypervisor-enforced, next-generation Endpoint Detection and Response…
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 rock0ne/prometheus-ot-mobile
+     ⭐ 0  🗣 TypeScript  📅 2026-08-17
+     🔗 https://github.com/rock0ne/prometheus-ot-mobile
+     📝 Offline-first purple-team learning lab for Android, iOS and the web
+     🏷  ai-security, android, cybersecurity, ios, ot-security, purple-team, threat-intelligence
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 SulthanMohiddin18/02-brute-force-log-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/SulthanMohiddin18/02-brute-force-log-analysis
+     📝 Python-based SOC detection lab that analyzes Linux authentication logs, detects …
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 NitinSukthe-G/Windows-Service-Process-Monitor
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/NitinSukthe-G/Windows-Service-Process-Monitor
+     📝 Windows endpoint monitoring agent for process, service, and suspicious activity …
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 SHIVAM-PANDEY-SOC/SHIVAM-PANDEY-SOC
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/SHIVAM-PANDEY-SOC/SHIVAM-PANDEY-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 jss1m/RadiusLock
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/jss1m/RadiusLock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 mazzaxx/mazzaxx-keylogger_and_ransomware-DIO
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/mazzaxx/mazzaxx-keylogger_and_ransomware-DIO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 NRG-Wardog/Aydo
+     ⭐ 1  🗣 C++  📅 2026-08-17
+     🔗 https://github.com/NRG-Wardog/Aydo
+     📝 Windows endpoint protection platform with kernel telemetry, AV/EDR detection, C+…
+     🏷  antivirus, cpp, detection-engineering, edr, endpoint-security, epp, etw, malware-analysis, malware-sandbox, sigma, windows-driver, windows-kernel, windows-security, yara
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 ksdk0905/edrfcy
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/ksdk0905/edrfcy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 zedhaarrane/edrezb
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/zedhaarrane/edrezb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 AimesSoft/ErikaSwift
+     ⭐ 0  🗣 Swift  📅 2026-08-17
+     🔗 https://github.com/AimesSoft/ErikaSwift
+     📝 Native Swift SDK for the Erika media engine
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 phonekyawheinez/Linux_Edr
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/phonekyawheinez/Linux_Edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 Cloverag/Teleprompter
+     ⭐ 0  🗣 JavaScript  📅 2026-08-17
+     🔗 https://github.com/Cloverag/Teleprompter
+     📝 A capture-excluded teleprompter overlay for Windows
+     🏷  —
+[2026-08-17 18:40:44 UTC] [NEW]   🆕 📦 v1niciussilva/forensic-investigation-agent
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-17
+     🔗 https://github.com/v1niciussilva/forensic-investigation-agent
+     📝 GenAI-powered DFIR agent for forensic investigation of HTTP logs using LangChain…
+     🏷  —
+[2026-08-17 18:40:44 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-17 18:40:44 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-17 18:40:44 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-17 18:40:46 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-17 18:40:46 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-17 18:40:46 UTC] [NEW]   🆕 📦 Vedantk6403/KOOBE-Guard
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/Vedantk6403/KOOBE-Guard
+     📝 Low-Overhead Kernel Exploit Mitigation
+     🏷  —
+[2026-08-17 18:40:46 UTC] [NEW]   🆕 📦 leon1006965/OpenAqua
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/leon1006965/OpenAqua
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:46 UTC] [NEW]   🆕 📦 JaDDine/Linux_Kernel_challenge
+     ⭐ 0  🗣 C  📅 2026-08-17
+     🔗 https://github.com/JaDDine/Linux_Kernel_challenge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 18:40:46 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-17 18:40:46 UTC] [UPD]   📢 📦 zulusec/sandbox-reference
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/zulusec/sandbox-reference
+     📝 Reference implementation: containment probes for AI agent sandboxes, with a comp…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-17 18:40:46 UTC] [INFO] ============================================================
+[2026-08-17 18:40:46 UTC] [INFO] Completato — 27 nuovi, 1 aggiornati, 0 errori
+[2026-08-17 18:40:46 UTC] [INFO] ============================================================
