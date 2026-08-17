@@ -63220,3 +63220,195 @@
 [2026-08-17 06:57:13 UTC] [INFO] ============================================================
 [2026-08-17 06:57:13 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
 [2026-08-17 06:57:13 UTC] [INFO] ============================================================
+[2026-08-17 12:45:40 UTC] [INFO] ============================================================
+[2026-08-17 12:45:40 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-17 12:45:40 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-17 12:45:40 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-17 12:45:40 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-17 12:45:40 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-17 12:45:40 UTC] [INFO] ============================================================
+[2026-08-17 12:45:40 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-17 12:45:40 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-17 12:45:42 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-17 12:45:42 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-17 12:45:42 UTC] [NEW]   🆕 📦 misternay/eac-internals-research
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/misternay/eac-internals-research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 12:45:42 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-17 12:45:42 UTC] [UPD]   📢 📦 enhansome/enhansome-game-security
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-game-security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-17 12:45:42 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-17 12:45:42 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-17 12:45:45 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 Security-Distractions/detonations
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/Security-Distractions/detonations
+     📝 Malware detonation write-ups: analysis, detections that fired, indicators and at…
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 Baba01hacker666/pinspect
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/Baba01hacker666/pinspect
+     📝 ⚡ Fast Linux process-intelligence CLI & forensics tool that goes far beyond 'ps …
+     🏷  capabilities, cgroups, cli, devops, edr, forensics, linux, namespaces, process-intelligence, process-monitoring, procfs, python, security, siem, sre, systemd, terminal, tui
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 NitinSukthe-G/Windows-Service-Process-Monitor
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/NitinSukthe-G/Windows-Service-Process-Monitor
+     📝 Windows endpoint monitoring agent for process, service, and suspicious activity …
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 WFLM/ha-fiio-btr5
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/WFLM/ha-fiio-btr5
+     📝 Home Assistant integration for volume control on a FiiO BTR5 DAC over GAIA/RFCOM…
+     🏷  bluetooth, btr5, fiio, hacs, home-assistant, home-assistant-integration
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 bloggins/shellcrypt2
+     ⭐ 0  🗣 C#  📅 2026-08-17
+     🔗 https://github.com/bloggins/shellcrypt2
+     📝 Shellcode Obfuscation Toolkit
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 CleMaHo/TSA
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-17
+     🔗 https://github.com/CleMaHo/TSA
+     📝 Algorithms for time series analysis used for measuring two or more time series' …
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 0xSemantic/zero-trust-security
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/0xSemantic/zero-trust-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 ktaz32/SOC-Analyst-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/ktaz32/SOC-Analyst-Portfolio
+     📝 Hands-on SOC investigations, incident reports, detection engineering, threat int…
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 edrivvoll/edrivvoll.github.io
+     ⭐ 0  🗣 HTML  📅 2026-08-17
+     🔗 https://github.com/edrivvoll/edrivvoll.github.io
+     📝 Developer site and app-ads.txt
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 Odin-XD/Drag-Drop-API-Hooker
+     ⭐ 0  🗣 C++  📅 2026-08-17
+     🔗 https://github.com/Odin-XD/Drag-Drop-API-Hooker
+     📝 Windows drag & drop API hooker — transparently intercepts drag/drop, file dialog…
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 divin-d1/abyss
+     ⭐ 5  🗣 C++  📅 2026-08-17
+     🔗 https://github.com/divin-d1/abyss
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 fatihasarmusakci/localmind-rag
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/fatihasarmusakci/localmind-rag
+     📝 Local document Q&A with Microsoft Foundry Local
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 the-naike/agentic-guard
+     ⭐ 0  🗣 TypeScript  📅 2026-08-17
+     🔗 https://github.com/the-naike/agentic-guard
+     📝 Trust-based multi-agent system for autonomous threat hunting and response in sim…
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 imaginelifely/new-secure-qr
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/imaginelifely/new-secure-qr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 mibrahimj1122-sudo/Zynvex-Project
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/mibrahimj1122-sudo/Zynvex-Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 Alberto-Parra/calculadora
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/Alberto-Parra/calculadora
+     📝 calculadora
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 haydarkozat/infra-pilot-de
+     ⭐ 1  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/haydarkozat/infra-pilot-de
+     📝 Bilingual hybrid IT operations lab: monitoring, incident detection, compliance s…
+     🏷  ansible, cybersecurity, devops, docker, germany, incident-response, it-automation, it-operations, linux, monitoring, phyton, portfolio, powershell, sqlite, system-administration, windows-server
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 vinying/edrlsw
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/vinying/edrlsw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 whitehackergeo/AI-JAILBREAKING-GEOHACKER-
+     ⭐ 1  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/whitehackergeo/AI-JAILBREAKING-GEOHACKER-
+     📝 this best for ai jailbreak all model update every week best 
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 oondraa/edrink
+     ⭐ 0  🗣 JavaScript  📅 2026-08-17
+     🔗 https://github.com/oondraa/edrink
+     📝 tracker
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 guneshwari123456-alt/ThreatShield-EDR
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/guneshwari123456-alt/ThreatShield-EDR
+     📝 A local endpoint detection and response (EDR) dashboard engineered in Python, ut…
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 padre-ola69/ble-security-auditor
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/padre-ola69/ble-security-auditor
+     📝 Audit Bluetooth Low Energy device security from Termux (non-rooted Android)
+     🏷  —
+[2026-08-17 12:45:45 UTC] [NEW]   🆕 📦 AmirsMoradi/network
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/AmirsMoradi/network
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 12:45:45 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-17 12:45:45 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-17 12:45:45 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-17 12:45:47 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-17 12:45:47 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-17 12:45:47 UTC] [NEW]   🆕 📦 omarnazeer12345/cybersec-writeups
+     ⭐ 1  🗣 C  📅 2026-08-17
+     🔗 https://github.com/omarnazeer12345/cybersec-writeups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 12:45:47 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-08-17 12:45:47 UTC] [UPD]   📢 📦 SanjeetaAcharya/mini-lovable
+     ⭐ 0  🗣 TypeScript  📅 2026-08-11
+     🔗 https://github.com/SanjeetaAcharya/mini-lovable
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-17 12:45:47 UTC] [UPD]   📢 📦 secwexen/aapp-mart
+     ⭐ 8  🗣 Python  📅 2026-01-15
+     🔗 https://github.com/secwexen/aapp-mart
+     📝 AAPP-MART (AI‑Powered Autonomous Attack Path Prediction & Multi‑Agent Red Team S…
+     🏷  adversary-emulation, ai-powered, attack-graph, attack-path-analysis, attack-path-prediction, attack-simulation, autonomous-agents, blue-team, breach-and-attack-simulation, cybersecurity, defensive-security, mitre-attack, multi-agent, offensive-security, purple-team, python, red-team, risk-assessment, security-validation, threat-modeling
+     🔄 Motivo: nuovi topic: blue-team, purple-team, defensive-security
+[2026-08-17 12:45:47 UTC] [UPD]   📢 📦 bsk193/ps5-webkit-autoloader-x
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/bsk193/ps5-webkit-autoloader-x
+     📝 Fork of itsPLK/ps5-webkit-autoloader that autoloads Payload Manager X. Offline W…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-17 12:45:47 UTC] [UPD]   📢 📦 zulusec/sandbox-reference
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/zulusec/sandbox-reference
+     📝 Reference implementation: containment probes for AI agent sandboxes, with a comp…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-17 12:45:47 UTC] [UPD]   📢 📦 Lazenca/TechNote
+     ⭐ 1  🗣 HTML  📅 2026-08-16
+     🔗 https://github.com/Lazenca/TechNote
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-17 12:45:47 UTC] [UPD]   📢 📦 ArmanAbr/Sentinel
+     ⭐ 0  🗣 Python  📅 2026-08-16
+     🔗 https://github.com/ArmanAbr/Sentinel
+     📝 Autonomous Privilege-Escalation Agent
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-17 12:45:47 UTC] [INFO] ============================================================
+[2026-08-17 12:45:47 UTC] [INFO] Completato — 25 nuovi, 7 aggiornati, 0 errori
+[2026-08-17 12:45:47 UTC] [INFO] ============================================================
