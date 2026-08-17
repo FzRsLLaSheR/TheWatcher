@@ -63066,3 +63066,157 @@
 [2026-08-17 01:19:30 UTC] [INFO] ============================================================
 [2026-08-17 01:19:30 UTC] [INFO] Completato — 21 nuovi, 6 aggiornati, 0 errori
 [2026-08-17 01:19:30 UTC] [INFO] ============================================================
+[2026-08-17 06:57:05 UTC] [INFO] ============================================================
+[2026-08-17 06:57:05 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-17 06:57:05 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-17 06:57:05 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-17 06:57:05 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-17 06:57:05 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-17 06:57:05 UTC] [INFO] ============================================================
+[2026-08-17 06:57:05 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-17 06:57:05 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-17 06:57:07 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-17 06:57:07 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-17 06:57:07 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-17 06:57:07 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-17 06:57:07 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-17 06:57:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 amzarzubaidi7444-commits/edris-ui
+     ⭐ 0  🗣 HTML  📅 2026-08-17
+     🔗 https://github.com/amzarzubaidi7444-commits/edris-ui
+     📝 EDRIS dialysis care UI prototype
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 shaik-nabi87/AI-Powered-Advanced-Driver-Assistance-System_ADAS-2420030408
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/shaik-nabi87/AI-Powered-Advanced-Driver-Assistance-System_ADAS-2420030408
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 liken-sh/bluetooth-operator
+     ⭐ 1  🗣 Go  📅 2026-08-16
+     🔗 https://github.com/liken-sh/bluetooth-operator
+     📝 Publishes paired Bluetooth controllers as DRA devices on liken clusters
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 monubhambhuhsr-commit/6G-IoT-Energy-Minimization-EDRL
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/monubhambhuhsr-commit/6G-IoT-Energy-Minimization-EDRL
+     📝 Simulation code for Ensemble DRL in 6G-IoT networks.
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 ayanglike681-eng/Argus-Agent
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/ayanglike681-eng/Argus-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 ardasevinc/netbird-cli
+     ⭐ 0  🗣 Go  📅 2026-08-17
+     🔗 https://github.com/ardasevinc/netbird-cli
+     📝 An agent-first NetBird management CLI
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 abdideps/edranz
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/abdideps/edranz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 Linuxnginer/ai-zero-trust-cmmc-architect
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/Linuxnginer/ai-zero-trust-cmmc-architect
+     📝 AI Platform with Zero Trust Access, A CMMC Architect Solution
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 marchadop/edrxhc
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/marchadop/edrxhc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 isianbaia-ops/mai600-module5-local-model-bakeoff
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/isianbaia-ops/mai600-module5-local-model-bakeoff
+     📝 Benchmarking llama3.2:3b locally via Ollama for SOC alert triage: speed, quality…
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 QueHayRich/Gromacs_Scripts
+     ⭐ 0  🗣 Shell  📅 2026-08-17
+     🔗 https://github.com/QueHayRich/Gromacs_Scripts
+     📝 Automated, resumable, chunked GROMACS MD pipeline for CHARMM-GUI systems on NVID…
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 HuyDucNguyenn/SOAR-playbook
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/HuyDucNguyenn/SOAR-playbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 sleepyguy396/Simple-Virus
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/sleepyguy396/Simple-Virus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 isianbaia-ops/mai600-module3-attention-walkthrough
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-17
+     🔗 https://github.com/isianbaia-ops/mai600-module3-attention-walkthrough
+     📝 Attention and Transformer architecture walkthrough on a SOC incident note — MAI …
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 amzarzubaidi/edris-ui
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/amzarzubaidi/edris-ui
+     📝 EDRIS dialysis care UI prototype
+     🏷  —
+[2026-08-17 06:57:10 UTC] [NEW]   🆕 📦 Nayra-Carneiro/IA-Ciberseguran-a-notebooklm
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/Nayra-Carneiro/IA-Ciberseguran-a-notebooklm
+     📝 Projeto de estudo sobre aplicações da Inteligência Artificial na Cibersegurança …
+     🏷  —
+[2026-08-17 06:57:10 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-17 06:57:10 UTC] [UPD]   📢 📦 izenmi/networktoys
+     ⭐ 0  🗣 C#  📅 2026-08-14
+     🔗 https://github.com/izenmi/networktoys
+     📝 ぜんぶ同時に測る、Windows向けネットワーク診断ツール
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-17 06:57:10 UTC] [UPD]   📢 📦 aniknohan/misp-phishing-threat-intelligence-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/aniknohan/misp-phishing-threat-intelligence-lab
+     📝 Hands-on MISP threat intelligence lab demonstrating phishing IOC analysis, struc…
+     🏷  blue-team, cyber-threat-intelligence, cybersecurity, incident-response, ioc, ioc-analysis, misp, mitre-attack, phishing, phishing-analysis, security-operation, security-operations, soc, soc-analyst, threat-hunting, threat-intelligence
+     🔄 Motivo: repo recente (0gg)
+[2026-08-17 06:57:10 UTC] [UPD]   📢 📦 Cartsoptions/SOC-Interview-Practice
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/Cartsoptions/SOC-Interview-Practice
+     📝 Daily SOC analyst interview questions with real-world, job-focused answers and s…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-17 06:57:10 UTC] [UPD]   📢 📦 bimoadis/Buggy
+     ⭐ 0  🗣 TypeScript  📅 2026-08-16
+     🔗 https://github.com/bimoadis/Buggy
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-17 06:57:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-17 06:57:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-17 06:57:13 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-17 06:57:13 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-08-17 06:57:13 UTC] [NEW]   🆕 📦 shraddhamaria25/soc-incident-report-metasploitable
+     ⭐ 0  🗣 N/A  📅 2026-08-16
+     🔗 https://github.com/shraddhamaria25/soc-incident-report-metasploitable
+     📝 Simulated attack + incident response lab: SSH brute-force, vsftpd RCE, and privi…
+     🏷  —
+[2026-08-17 06:57:13 UTC] [NEW]   🆕 📦 omnibot007/latencylab
+     ⭐ 0  🗣 PowerShell  📅 2026-08-17
+     🔗 https://github.com/omnibot007/latencylab
+     📝 Complete Windows 10 + Fortnite latency optimization pack. Evidence-based, revers…
+     🏷  —
+[2026-08-17 06:57:13 UTC] [NEW]   🆕 📦 ahm3dgg/cve-2018-8611
+     ⭐ 0  🗣 C++  📅 2026-08-17
+     🔗 https://github.com/ahm3dgg/cve-2018-8611
+     📝 CVE-2018-8611 PrivEsc Exploit
+     🏷  —
+[2026-08-17 06:57:13 UTC] [NEW]   🆕 📦 inoahaipro/samsung-s22-research
+     ⭐ 0  🗣 C  📅 2026-08-17
+     🔗 https://github.com/inoahaipro/samsung-s22-research
+     📝 Kernel security research on Samsung Galaxy S22+ (SM-S906U1, Android 12/5.10.236)…
+     🏷  —
+[2026-08-17 06:57:13 UTC] [NEW]   🆕 📦 3MH-Technologies/host
+     ⭐ 0  🗣 TypeScript  📅 2026-08-16
+     🔗 https://github.com/3MH-Technologies/host
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-17 06:57:13 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-17 06:57:13 UTC] [INFO] ============================================================
+[2026-08-17 06:57:13 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
+[2026-08-17 06:57:13 UTC] [INFO] ============================================================
