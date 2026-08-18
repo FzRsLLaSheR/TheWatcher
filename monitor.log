@@ -63883,3 +63883,228 @@
 [2026-08-18 06:44:15 UTC] [INFO] ============================================================
 [2026-08-18 06:44:15 UTC] [INFO] Completato — 14 nuovi, 4 aggiornati, 0 errori
 [2026-08-18 06:44:15 UTC] [INFO] ============================================================
+[2026-08-18 12:48:28 UTC] [INFO] ============================================================
+[2026-08-18 12:48:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-18 12:48:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-18 12:48:28 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-18 12:48:28 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-18 12:48:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-18 12:48:28 UTC] [INFO] ============================================================
+[2026-08-18 12:48:28 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-18 12:48:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-18 12:48:30 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-18 12:48:30 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-18 12:48:30 UTC] [NEW]   🆕 📦 cihan-atas/shelf
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/cihan-atas/shelf
+     📝 Siber güvenlik döküman arşivleri için terminal tabanlı arama, indeksleme ve otom…
+     🏷  archive, cli, cybersecurity, document-management, full-text-search, pdf-search, python, sqlite-fts5, textual, tui
+[2026-08-18 12:48:30 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-18 12:48:30 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 2  🗣 JavaScript  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的工作模式，目的是服务于redteam进行安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-18 12:48:30 UTC] [UPD]   📢 📦 enhansome/enhansome-game-security
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-game-security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-18 12:48:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-18 12:48:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-18 12:48:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 raviprajapati-it/network-forensics-malware-traffic-analysis
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/raviprajapati-it/network-forensics-malware-traffic-analysis
+     📝 Network forensic investigation of malware C2 traffic, anomalous host behaviour a…
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 ozmvege/md-102-study-guide
+     ⭐ 0  🗣 JavaScript  📅 2026-08-18
+     🔗 https://github.com/ozmvege/md-102-study-guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 netuserDoomdesire/Detection-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/netuserDoomdesire/Detection-Engineering
+     📝 A personal collection of detection rules for various SIEM and EDR/XDR platforms.…
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 zfy424/StyleE2EDrive
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/zfy424/StyleE2EDrive
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Araujo77/Rumo-ao-Blue-Team-Analista-de-SOC
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/Araujo77/Rumo-ao-Blue-Team-Analista-de-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 rajat22999/glassworm-guard
+     ⭐ 0  🗣 Shell  📅 2026-08-18
+     🔗 https://github.com/rajat22999/glassworm-guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 abdulloh404/airpods-linux
+     ⭐ 1  🗣 Rust  📅 2026-08-18
+     🔗 https://github.com/abdulloh404/airpods-linux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 EDY075/EDY-Sentinel
+     ⭐ 0  🗣 Rust  📅 2026-08-18
+     🔗 https://github.com/EDY075/EDY-Sentinel
+     📝 Windows endpoint intelligence and local security posture with real telemetry, de…
+     🏷  blue-team, cisa-kev, cybersecurity, endpoint-security, nvd, rust, security-monitoring, tauri, vulnerability-management, windows
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 J0ohnnyy/SMSI-VoIP
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/J0ohnnyy/SMSI-VoIP
+     📝 Analyse de risques SMSI (ISO 27005 / ISO 27001:2022) d'une infrastructure VoIP t…
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Other-Now/nano-sensor
+     ⭐ 0  🗣 C++  📅 2026-08-18
+     🔗 https://github.com/Other-Now/nano-sensor
+     📝 Lightweight cross-platform security sensor: asset inventory, CVE/CPE matching ag…
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Mateus2411/stealth-kit
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/Mateus2411/stealth-kit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 almazalam-bot/ad-phase1-local-host-enum
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/almazalam-bot/ad-phase1-local-host-enum
+     📝 Command and script reference for Phase 1 (local host enumeration) of an internal…
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 chrispycreeme/Resqbot-Repositories
+     ⭐ 0  🗣 C++  📅 2026-08-18
+     🔗 https://github.com/chrispycreeme/Resqbot-Repositories
+     📝 Every file related to respbot. Visit the site for the manuals.
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Abdullah-Riaz-Pentester/VAPT_Tools_Installation_Scripts
+     ⭐ 0  🗣 PowerShell  📅 2026-08-18
+     🔗 https://github.com/Abdullah-Riaz-Pentester/VAPT_Tools_Installation_Scripts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 frgmntedflower/stabilize-reverse-shell
+     ⭐ 1  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/frgmntedflower/stabilize-reverse-shell
+     📝 Steps for stabilizing a reverse shell using python
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 kenconnet666/zadmin
+     ⭐ 0  🗣 Java  📅 2026-08-18
+     🔗 https://github.com/kenconnet666/zadmin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Zundadark/Lightweight-Python-AntiVirus
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/Zundadark/Lightweight-Python-AntiVirus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 rockzy77/brute-force-detector
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/rockzy77/brute-force-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 cihan-atas/shelf
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/cihan-atas/shelf
+     📝 Siber güvenlik döküman arşivleri için terminal tabanlı arama, indeksleme ve otom…
+     🏷  archive, cli, cybersecurity, document-management, full-text-search, pdf-search, python, sqlite-fts5, textual, tui
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Honeyknows/eyxa
+     ⭐ 0  🗣 TypeScript  📅 2026-08-18
+     🔗 https://github.com/Honeyknows/eyxa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 mantukumar22/malware-threats-field-guide
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/mantukumar22/malware-threats-field-guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Chlowie-cyber/servicenow-soc-triage-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/Chlowie-cyber/servicenow-soc-triage-portfolio
+     📝 Tier 1 SOC Analyst portfolio demonstrating end-to-end ITIL incident response acr…
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 lokeshkumar80/Car-Black-Box-Sim
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/lokeshkumar80/Car-Black-Box-Sim
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 kunsun123/Claude-AI-Skills
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/kunsun123/Claude-AI-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Mrutyunjaya98Gouda/SwarmSec
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/Mrutyunjaya98Gouda/SwarmSec
+     📝 Decentralized, pseudonymous threat-intel sharing — corroboration-based trust ins…
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Prajwal-Chougale/My-Profile
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/Prajwal-Chougale/My-Profile
+     📝 This is about my whole work profile as a Cybersecurity professional!
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 KonstantinosGalanis/All-Seeing-Kostas
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/KonstantinosGalanis/All-Seeing-Kostas
+     📝 Authorization-first Python penetration-testing orchestration framework for scope…
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 ramcharan-vemulapudi/SOC-Analyst-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/ramcharan-vemulapudi/SOC-Analyst-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 Haja-NRN/Project-NECROSIS
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/Haja-NRN/Project-NECROSIS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [NEW]   🆕 📦 duongvanba/macos-smart-display
+     ⭐ 0  🗣 Swift  📅 2026-08-18
+     🔗 https://github.com/duongvanba/macos-smart-display
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-18 12:48:33 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-18 12:48:33 UTC] [UPD]   📢 📦 ktaz32/SOC-Analyst-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-17
+     🔗 https://github.com/ktaz32/SOC-Analyst-Portfolio
+     📝 Hands-on SOC investigations, incident reports, detection engineering, threat int…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-18 12:48:33 UTC] [UPD]   📢 📦 wrightstephanie4/edront
+     ⭐ 0  🗣 N/A  📅 2026-08-10
+     🔗 https://github.com/wrightstephanie4/edront
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-18 12:48:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-18 12:48:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-18 12:48:35 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-18 12:48:35 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-18 12:48:35 UTC] [NEW]   🆕 📦 TullioTera/s24-ultrawide-flash-ksu
+     ⭐ 0  🗣 Shell  📅 2026-08-18
+     🔗 https://github.com/TullioTera/s24-ultrawide-flash-ksu
+     📝 KernelSU module: enables the flash toggle in ultra-wide lens mode on Samsung Gal…
+     🏷  android, android-root, camera-mod, kernelsu, s24-ultra, samsung
+[2026-08-18 12:48:35 UTC] [NEW]   🆕 📦 almazalam-bot/ad-phase1-local-host-enum
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/almazalam-bot/ad-phase1-local-host-enum
+     📝 Command and script reference for Phase 1 (local host enumeration) of an internal…
+     🏷  —
+[2026-08-18 12:48:35 UTC] [NEW]   🆕 📦 cihan-atas/shelf
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/cihan-atas/shelf
+     📝 Siber güvenlik döküman arşivleri için terminal tabanlı arama, indeksleme ve otom…
+     🏷  archive, cli, cybersecurity, document-management, full-text-search, pdf-search, python, sqlite-fts5, textual, tui
+[2026-08-18 12:48:35 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-18 12:48:35 UTC] [UPD]   📢 📦 JaDDine/Linux_Kernel_challenge
+     ⭐ 0  🗣 C  📅 2026-08-17
+     🔗 https://github.com/JaDDine/Linux_Kernel_challenge
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-18 12:48:35 UTC] [INFO] ============================================================
+[2026-08-18 12:48:35 UTC] [INFO] Completato — 34 nuovi, 5 aggiornati, 0 errori
+[2026-08-18 12:48:35 UTC] [INFO] ============================================================
