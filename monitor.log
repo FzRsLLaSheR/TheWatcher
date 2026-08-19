@@ -64893,3 +64893,249 @@
 [2026-08-19 12:49:26 UTC] [INFO] ============================================================
 [2026-08-19 12:49:26 UTC] [INFO] Completato — 32 nuovi, 9 aggiornati, 0 errori
 [2026-08-19 12:49:26 UTC] [INFO] ============================================================
+[2026-08-19 18:36:30 UTC] [INFO] ============================================================
+[2026-08-19 18:36:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-19 18:36:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-19 18:36:30 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-19 18:36:30 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-19 18:36:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-19 18:36:30 UTC] [INFO] ============================================================
+[2026-08-19 18:36:30 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-19 18:36:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-19 18:36:32 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 18:36:32 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-19 18:36:32 UTC] [NEW]   🆕 📦 Ka-b0om/BYOVD-KKYUM.sys-poc
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Ka-b0om/BYOVD-KKYUM.sys-poc
+     📝 Technical analysis and PoC for MmCopyVirtualMemory primitive in vulnerable signe…
+     🏷  —
+[2026-08-19 18:36:32 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-19 18:36:32 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 5  🗣 JavaScript  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模…
+     🏷  dsh-plugin
+     🔄 Motivo: repo recente (2gg)
+[2026-08-19 18:36:32 UTC] [UPD]   📢 📦 cihan-atas/shelf
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/cihan-atas/shelf
+     📝 Siber güvenlik döküman arşivleri için terminal tabanlı arama, indeksleme ve otom…
+     🏷  archive, cli, cybersecurity, document-management, full-text-search, pdf-search, python, sqlite-fts5, textual, tui
+     🔄 Motivo: repo recente (2gg)
+[2026-08-19 18:36:32 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-19 18:36:32 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-19 18:36:34 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 shwetaagarwal-hub/Thread-Intelligence-Aggregator-Non-AI-
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/shwetaagarwal-hub/Thread-Intelligence-Aggregator-Non-AI-
+     📝 This Python toolkit on Kali Linux aggregates text and CSV threat feeds without u…
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 yayefa/Remediation-Agent-
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/yayefa/Remediation-Agent-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 hevaibhav/screenwatcher
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/hevaibhav/screenwatcher
+     📝 Python-based utility that monitors screen changes and exfiltrates screenshots vi…
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 AvishSec/AvishSec
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/AvishSec/AvishSec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 dandgabr/hardening-ia
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/dandgabr/hardening-ia
+     📝 Repositório para scripts de aplicaçào automática de hardening de ferramentas de …
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 AlessioMobilia/socx-query-packs
+     ⭐ 0  🗣 JavaScript  📅 2026-08-19
+     🔗 https://github.com/AlessioMobilia/socx-query-packs
+     📝 Ready to run hunting queries for 20+ SIEM and EDR platforms, loaded by default b…
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 Shikibashi/social-edriffles
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/Shikibashi/social-edriffles
+     📝 User-sovereign Bluesky and ATProto social fork
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 anand-iilm/Hybrid-data-center-security-architecture
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/anand-iilm/Hybrid-data-center-security-architecture
+     📝 3rd Semester B.Tech CSE Core Internship Evaluation Project (2026) — Secure Hybri…
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 DxDefencer/janus
+     ⭐ 1  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/DxDefencer/janus
+     📝 Journaled Application Network Usage Scanner · by Tracewarden
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 HyagoKeller/Sistema_de_Resposta_Incidentes
+     ⭐ 0  🗣 TypeScript  📅 2026-08-19
+     🔗 https://github.com/HyagoKeller/Sistema_de_Resposta_Incidentes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 anandkr30-glitch/Hybrid-data-center-security-architecture-
+     ⭐ 1  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/anandkr30-glitch/Hybrid-data-center-security-architecture-
+     📝 Production-grade hybrid enterprise network security architecture & zero-trust de…
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 mayasimi/-NEXARETAIL
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/mayasimi/-NEXARETAIL
+     📝 Cyber Security Project 
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 syedimraan2007-ship-it/SentinelSheild
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/syedimraan2007-ship-it/SentinelSheild
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 edwardroy-cyber/EdRoyEntertainment
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/edwardroy-cyber/EdRoyEntertainment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 Dovughs/mora-hwbp
+     ⭐ 4  🗣 C  📅 2026-08-19
+     🔗 https://github.com/Dovughs/mora-hwbp
+     📝 Hardware Breakpoint (DR0-DR7) based patch-less user-mode hooking & telemetry ins…
+     🏷  amsi, amsi-bypass, amsi-evasion, c, edr-evasion, etw, etw-bypass, etw-evasion, hardware-breakpoints, hwbp, hwbp-evasion, in-memory, patchless-hooking, security-research, veh, wldp, wldp-bypass
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 ossec25/maldev-for-Toulni
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/ossec25/maldev-for-Toulni
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 danielrco124-lgtm/cybersecurity-homelab
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/danielrco124-lgtm/cybersecurity-homelab
+     📝 Practical cybersecurity homelab covering offensive techniques, defense mechanism…
+     🏷  cybersecurity, edr, forensics, homelab, network-security, osint, python, reverse-shell, scapy
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 anthony968074/edrqxn
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/anthony968074/edrqxn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 Dovughs/Dovughs
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Dovughs/Dovughs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 MalwareInfo/MalwareInfo
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/MalwareInfo/MalwareInfo
+     📝 Evidence-driven Windows security, malware analysis, and threat intelligence for …
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 VinayK88/InsiderGuard
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/VinayK88/InsiderGuard
+     📝 UEBA, DLP, insider-risk and data-exfiltration detection with behavioral sequence…
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 selamsahabe/LetsDefend-SOC143-Password-Stealer-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/selamsahabe/LetsDefend-SOC143-Password-Stealer-Analysis
+     📝 LetsDefend SOC143 - Password Stealer Detected (Email Spoofing & Phishing)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 nitishdeshpande07/nitishdeshpande07
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/nitishdeshpande07/nitishdeshpande07
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 sshpie/epistasis
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/sshpie/epistasis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 Grishank/Network-Traffic-Threat-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Grishank/Network-Traffic-Threat-Investigation
+     📝 A hands-on SOC investigation of suspicious network traffic using Wireshark and p…
+     🏷  —
+[2026-08-19 18:36:34 UTC] [NEW]   🆕 📦 raviprajapati-it/active-directory-penetration-testing
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/raviprajapati-it/active-directory-penetration-testing
+     📝 Authorized penetration-testing lab covering reconnaissance, SMB enumeration, vul…
+     🏷  burp-suite, cve-2022-0824, cybersecurity, enum4linux, ethical-hacking, nmap, penetration-testing, privilege-escalation, smb, sql-injection, sqlmap, webmin
+[2026-08-19 18:36:34 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-19 18:36:34 UTC] [UPD]   📢 📦 Oelayouchi/portfolio-cyber
+     ⭐ 0  🗣 JavaScript  📅 2026-08-18
+     🔗 https://github.com/Oelayouchi/portfolio-cyber
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-19 18:36:34 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-19 18:36:34 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-19 18:36:36 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 18:36:36 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-19 18:36:36 UTC] [NEW]   🆕 📦 ngcongdev/beta1.1.1
+     ⭐ 0  🗣 Swift  📅 2026-08-19
+     🔗 https://github.com/ngcongdev/beta1.1.1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:36 UTC] [NEW]   🆕 📦 redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 18:36:36 UTC] [NEW]   🆕 📦 tuananh404/darksword-esp
+     ⭐ 0  🗣 Objective-C  📅 2026-08-19
+     🔗 https://github.com/tuananh404/darksword-esp
+     📝 DarkSword kernel-exploit ESP for Free Fire (built via GitHub Actions)
+     🏷  —
+[2026-08-19 18:36:36 UTC] [NEW]   🆕 📦 dliptak001/HypercubeCascade
+     ⭐ 1  🗣 C++  📅 2026-08-18
+     🔗 https://github.com/dliptak001/HypercubeCascade
+     📝 A cascaded preprocessor architecture built on the hypercube substrate: an etalon…
+     🏷  —
+[2026-08-19 18:36:36 UTC] [UPD]   📢 8 repository AGGIORNATI:
+[2026-08-19 18:36:36 UTC] [UPD]   📢 📦 enhansome/enhansome-os
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-os
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 18:36:36 UTC] [UPD]   📢 📦 enhansome/enhansome-Awesome-Vulnerability-Research
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-Awesome-Vulnerability-Research
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 18:36:36 UTC] [UPD]   📢 📦 enhansome/enhansome-books
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-books
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 18:36:36 UTC] [UPD]   📢 📦 enhansome/enhansome-agent-runtime-security
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-agent-runtime-security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 18:36:36 UTC] [UPD]   📢 📦 enhansome/enhansome-all
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-all
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 18:36:36 UTC] [UPD]   📢 📦 cihan-atas/shelf
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/cihan-atas/shelf
+     📝 Siber güvenlik döküman arşivleri için terminal tabanlı arama, indeksleme ve otom…
+     🏷  archive, cli, cybersecurity, document-management, full-text-search, pdf-search, python, sqlite-fts5, textual, tui
+     🔄 Motivo: repo recente (2gg)
+[2026-08-19 18:36:36 UTC] [UPD]   📢 📦 enhansome/enhansome-vulnerable-apps
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-vulnerable-apps
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 18:36:36 UTC] [UPD]   📢 📦 enhansome/enhansome-security-study-tutorial
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-security-study-tutorial
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 18:36:36 UTC] [INFO] ============================================================
+[2026-08-19 18:36:36 UTC] [INFO] Completato — 31 nuovi, 11 aggiornati, 0 errori
+[2026-08-19 18:36:36 UTC] [INFO] ============================================================
