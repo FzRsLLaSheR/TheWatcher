@@ -64531,3 +64531,126 @@
 [2026-08-19 01:18:27 UTC] [INFO] ============================================================
 [2026-08-19 01:18:27 UTC] [INFO] Completato — 27 nuovi, 7 aggiornati, 0 errori
 [2026-08-19 01:18:27 UTC] [INFO] ============================================================
+[2026-08-19 06:44:59 UTC] [INFO] ============================================================
+[2026-08-19 06:44:59 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-19 06:44:59 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-19 06:44:59 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-19 06:44:59 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-19 06:44:59 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-19 06:44:59 UTC] [INFO] ============================================================
+[2026-08-19 06:44:59 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-19 06:44:59 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-19 06:45:01 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 06:45:01 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-19 06:45:01 UTC] [NEW]   🆕 📦 mukendi/DetectorOne
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/mukendi/DetectorOne
+     📝 DetectorOne is an experimental Windows kernel-mode EDR sensor focused on defensi…
+     🏷  —
+[2026-08-19 06:45:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-19 06:45:01 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 3  🗣 JavaScript  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的工作模式，目的是服务于redteam进行安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-19 06:45:01 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-19 06:45:01 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-19 06:45:04 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 alexanderkopoyan007-oss/idontliketurbulence
+     ⭐ 0  🗣 HTML  📅 2026-08-19
+     🔗 https://github.com/alexanderkopoyan007-oss/idontliketurbulence
+     📝 A pre-flight turbulence briefing, built from raw numerical weather prediction ou…
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 Aijaz-Mahar/eDraft
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Aijaz-Mahar/eDraft
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 j4murrio/pwnix
+     ⭐ 0  🗣 Shell  📅 2026-08-19
+     🔗 https://github.com/j4murrio/pwnix
+     📝 Cybersecurity-focused Linux dotfiles for Arch Linux and Kali Linux.
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 niaccky/dsh-install-guard
+     ⭐ 0  🗣 TypeScript  📅 2026-08-19
+     🔗 https://github.com/niaccky/dsh-install-guard
+     📝 `dsh-install-guard` 是一个 DeepSeek Harness（DSH）bundle
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 gauravtale-cyber/gauravtale-cyber
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/gauravtale-cyber/gauravtale-cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 mukendi/DetectorOne
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/mukendi/DetectorOne
+     📝 DetectorOne is an experimental Windows kernel-mode EDR sensor focused on defensi…
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 yhny1001/dsh-security-audit
+     ⭐ 1  🗣 JavaScript  📅 2026-08-19
+     🔗 https://github.com/yhny1001/dsh-security-audit
+     📝 Local-first security audit Skill for DeepSeek Harness plugins, Skills, MCP, supp…
+     🏷  agent-skills, ai-security, deepseek-harness, dsh, security-scanner
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 Noz03/Roadmap-DevOps
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Noz03/Roadmap-DevOps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 lemon138-sayed/set-social-engineering-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/lemon138-sayed/set-social-engineering-lab
+     📝 Authorized social-engineering security lab using Kali Linux, SET, Metasploit, an…
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 n0sfs/micro-dfir
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/n0sfs/micro-dfir
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 felipearenas256-dot/tesla-incidencias
+     ⭐ 0  🗣 HTML  📅 2026-08-19
+     🔗 https://github.com/felipearenas256-dot/tesla-incidencias
+     📝 Pipeline de incidencias para una flota Tesla simulada: ingesta distribuida, dete…
+     🏷  aws, dashboard, deteccion-de-anomalias, dynamodb, kinesis, prototipo, sistemas-distribuidos
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 youngdaniel39/edrwhi
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/youngdaniel39/edrwhi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 hims000/reverse-skill
+     ⭐ 1  🗣 Java  📅 2026-08-19
+     🔗 https://github.com/hims000/reverse-skill
+     📝 安全任务技能路由包 — 逆向工程/渗透测试/安全分析（含 ewt360 升学e网通完整逆向）
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 ubitquity/Ransom-Busters-Akira-Mitigation
+     ⭐ 0  🗣 PowerShell  📅 2026-08-19
+     🔗 https://github.com/ubitquity/Ransom-Busters-Akira-Mitigation
+     📝 Tactical configuration patch, PowerShell hardening scripts, and EDR blocklists t…
+     🏷  —
+[2026-08-19 06:45:04 UTC] [NEW]   🆕 📦 KnOMM/elastic-prep-proc
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/KnOMM/elastic-prep-proc
+     📝 Elastic-based investigation environment
+     🏷  —
+[2026-08-19 06:45:04 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-19 06:45:04 UTC] [UPD]   📢 📦 ShalvaLekishvili/DolosBlackMagic
+     ⭐ 0  🗣 JavaScript  📅 2026-08-18
+     🔗 https://github.com/ShalvaLekishvili/DolosBlackMagic
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-19 06:45:04 UTC] [UPD]   📢 📦 taeseokyi/reefwiz-esp32
+     ⭐ 0  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/taeseokyi/reefwiz-esp32
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-19 06:45:04 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-19 06:45:04 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-19 06:45:05 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 06:45:05 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-19 06:45:05 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-19 06:45:05 UTC] [INFO] ============================================================
+[2026-08-19 06:45:05 UTC] [INFO] Completato — 16 nuovi, 3 aggiornati, 0 errori
+[2026-08-19 06:45:05 UTC] [INFO] ============================================================
