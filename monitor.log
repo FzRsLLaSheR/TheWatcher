@@ -64329,3 +64329,205 @@
 [2026-08-18 18:39:12 UTC] [INFO] ============================================================
 [2026-08-18 18:39:12 UTC] [INFO] Completato — 32 nuovi, 6 aggiornati, 0 errori
 [2026-08-18 18:39:12 UTC] [INFO] ============================================================
+[2026-08-19 01:18:21 UTC] [INFO] ============================================================
+[2026-08-19 01:18:21 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-19 01:18:21 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-19 01:18:21 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-19 01:18:21 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-19 01:18:21 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-19 01:18:21 UTC] [INFO] ============================================================
+[2026-08-19 01:18:21 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-19 01:18:21 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-19 01:18:23 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 01:18:23 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-19 01:18:23 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-19 01:18:23 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 3  🗣 JavaScript  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的工作模式，目的是服务于redteam进行安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-19 01:18:23 UTC] [UPD]   📢 📦 cihan-atas/shelf
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/cihan-atas/shelf
+     📝 Siber güvenlik döküman arşivleri için terminal tabanlı arama, indeksleme ve otom…
+     🏷  archive, cli, cybersecurity, document-management, full-text-search, pdf-search, python, sqlite-fts5, textual, tui
+     🔄 Motivo: repo recente (1gg)
+[2026-08-19 01:18:23 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-19 01:18:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-19 01:18:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 AlfeCorona/enterprise-cyber-exposure-architecture
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/AlfeCorona/enterprise-cyber-exposure-architecture
+     📝 Automated enterprise cyber-exposure detection, prioritization, remediation ticke…
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 KdMenon007/KdMenon007
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/KdMenon007/KdMenon007
+     📝 My Profile
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 mc20000-01/WiiQuest
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/mc20000-01/WiiQuest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 bustamantedgarodrigo-coder/edromov
+     ⭐ 0  🗣 HTML  📅 2026-08-18
+     🔗 https://github.com/bustamantedgarodrigo-coder/edromov
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 Charfha/blue-team-security-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Charfha/blue-team-security-portfolio
+     📝 Hands-on SOC Analyst & Blue Team investigation writeups from LetsDefend. Covers …
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 Roshan-Dennis/cyberjobs-ontario
+     ⭐ 0  🗣 TypeScript  📅 2026-08-18
+     🔗 https://github.com/Roshan-Dennis/cyberjobs-ontario
+     📝 Live cybersecurity job aggregator for Ontario and remote-Canada roles. Next.js +…
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 kayosituyo/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/kayosituyo/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 Upforce/Overseer
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/Upforce/Overseer
+     📝 An ML ensemble intrusion detection system combining an Autoencoder for zero-day …
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 Ahmad-M-Lawal/soc-analyst-portfolio
+     ⭐ 1  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/Ahmad-M-Lawal/soc-analyst-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 jacarandadaamazonia2017-eng/Limelighter
+     ⭐ 0  🗣 Go  📅 2026-08-19
+     🔗 https://github.com/jacarandadaamazonia2017-eng/Limelighter
+     📝 A tool for generating fake code signing certificates or signing real ones
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 leUnknown64/leUnknown64
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/leUnknown64/leUnknown64
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 thiagoatorres/Entendendo_Ransomware-_com_Python
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/thiagoatorres/Entendendo_Ransomware-_com_Python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 Wais000/Ransomware-Incident-Response-Memory-Forensics-Lab
+     ⭐ 0  🗣 PowerShell  📅 2026-08-18
+     🔗 https://github.com/Wais000/Ransomware-Incident-Response-Memory-Forensics-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 ronaplayda4/mitre-attack-network-service-discovery-wireshark
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/ronaplayda4/mitre-attack-network-service-discovery-wireshark
+     📝 Wireshark investigation of TCP port-scanning activity mapped to MITRE ATT&CK T10…
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 trachtelviv-bot/bot_edrvd
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/trachtelviv-bot/bot_edrvd
+     📝 bot for json to edrvd
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 WallFacerJ/polymorph
+     ⭐ 0  🗣 TypeScript  📅 2026-08-18
+     🔗 https://github.com/WallFacerJ/polymorph
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 EricCorona08/Threat-Hunting-Scenario-TOR
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/EricCorona08/Threat-Hunting-Scenario-TOR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 gagievibragim/Incident-Response-Casebook
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/gagievibragim/Incident-Response-Casebook
+     📝 Incident response portfolio with SOC investigations, synthetic security incident…
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 Achadufx/VeriMemory
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/Achadufx/VeriMemory
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 tjtravis/Cyber-Security
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/tjtravis/Cyber-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 harbingerlabs/harbinger-cli
+     ⭐ 0  🗣 Go  📅 2026-08-18
+     🔗 https://github.com/harbingerlabs/harbinger-cli
+     📝 Find the routes to Domain Admin your monitoring would not catch — without your A…
+     🏷  active-directory, attack-paths, bloodhound, cli, golang, msp, security
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 ErelEdry/ErelEdry
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/ErelEdry/ErelEdry
+     📝 My GitHub profile
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 ShalvaLekishvili/DolosBlackMagic
+     ⭐ 0  🗣 JavaScript  📅 2026-08-18
+     🔗 https://github.com/ShalvaLekishvili/DolosBlackMagic
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 ivancabrera02/KeyTheft
+     ⭐ 0  🗣 N/A  📅 2026-08-18
+     🔗 https://github.com/ivancabrera02/KeyTheft
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 OLineagent/blue-team-defense
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/OLineagent/blue-team-defense
+     📝 Research repository for blue-team-defense
+     🏷  —
+[2026-08-19 01:18:25 UTC] [NEW]   🆕 📦 bugraayancom/MacScanner
+     ⭐ 0  🗣 Shell  📅 2026-08-18
+     🔗 https://github.com/bugraayancom/MacScanner
+     📝 Local-only macOS security & malware triage scanner. Double-click, get an HTML re…
+     🏷  gatekeeper, macos, malware-detection, privacy, security, security-tools, shell
+[2026-08-19 01:18:25 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-19 01:18:25 UTC] [UPD]   📢 📦 lex0c/aletheia
+     ⭐ 0  🗣 Go  📅 2026-08-17
+     🔗 https://github.com/lex0c/aletheia
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-19 01:18:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-19 01:18:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-19 01:18:27 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 01:18:27 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-19 01:18:27 UTC] [NEW]   🆕 📦 insertchaos/Contain
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/insertchaos/Contain
+     📝 One command to containerize anything
+     🏷  —
+[2026-08-19 01:18:27 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-19 01:18:27 UTC] [UPD]   📢 📦 lo1784768-hash/IMGUIDELTA
+     ⭐ 0  🗣 Objective-C  📅 2026-08-13
+     🔗 https://github.com/lo1784768-hash/IMGUIDELTA
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-19 01:18:27 UTC] [UPD]   📢 📦 cihan-atas/shelf
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/cihan-atas/shelf
+     📝 Siber güvenlik döküman arşivleri için terminal tabanlı arama, indeksleme ve otom…
+     🏷  archive, cli, cybersecurity, document-management, full-text-search, pdf-search, python, sqlite-fts5, textual, tui
+     🔄 Motivo: repo recente (1gg)
+[2026-08-19 01:18:27 UTC] [UPD]   📢 📦 Vedantk6403/KOOBE-Guard
+     ⭐ 0  🗣 Shell  📅 2026-08-17
+     🔗 https://github.com/Vedantk6403/KOOBE-Guard
+     📝 Low-Overhead Kernel Exploit Mitigation
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-19 01:18:27 UTC] [UPD]   📢 📦 vsquare-27/german-credit-risk-classifier
+     ⭐ 0  🗣 Python  📅 2026-08-18
+     🔗 https://github.com/vsquare-27/german-credit-risk-classifier
+     📝 german-credit-risk-classifier - ml assignments
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-19 01:18:27 UTC] [INFO] ============================================================
+[2026-08-19 01:18:27 UTC] [INFO] Completato — 27 nuovi, 7 aggiornati, 0 errori
+[2026-08-19 01:18:27 UTC] [INFO] ============================================================
