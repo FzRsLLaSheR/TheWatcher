@@ -64654,3 +64654,242 @@
 [2026-08-19 06:45:05 UTC] [INFO] ============================================================
 [2026-08-19 06:45:05 UTC] [INFO] Completato — 16 nuovi, 3 aggiornati, 0 errori
 [2026-08-19 06:45:05 UTC] [INFO] ============================================================
+[2026-08-19 12:49:20 UTC] [INFO] ============================================================
+[2026-08-19 12:49:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-19 12:49:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-19 12:49:20 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-19 12:49:20 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-19 12:49:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-19 12:49:20 UTC] [INFO] ============================================================
+[2026-08-19 12:49:20 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-19 12:49:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-19 12:49:22 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 12:49:22 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-19 12:49:22 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-19 12:49:22 UTC] [UPD]   📢 📦 enhansome/enhansome-game-security
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-game-security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 12:49:22 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 5  🗣 JavaScript  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模…
+     🏷  dsh-plugin
+     🔄 Motivo: repo recente (2gg) | nuovi topic: dsh-plugin
+[2026-08-19 12:49:22 UTC] [UPD]   📢 📦 cihan-atas/shelf
+     ⭐ 0  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/cihan-atas/shelf
+     📝 Siber güvenlik döküman arşivleri için terminal tabanlı arama, indeksleme ve otom…
+     🏷  archive, cli, cybersecurity, document-management, full-text-search, pdf-search, python, sqlite-fts5, textual, tui
+     🔄 Motivo: repo recente (1gg)
+[2026-08-19 12:49:22 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-19 12:49:22 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-19 12:49:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 DaPaleta/ray
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/DaPaleta/ray
+     📝 Ray – email threat investigator agent
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 DistantMyth/sync-bt-dualboot
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/DistantMyth/sync-bt-dualboot
+     📝 Synchronize Bluetooth Pairing Keys between Windows and Linux for seamless dual-b…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 Zeclay/budbridge
+     ⭐ 0  🗣 Kotlin  📅 2026-08-19
+     🔗 https://github.com/Zeclay/budbridge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 karthikcyber2028-design/autonomous-soc-alert-triage
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/karthikcyber2028-design/autonomous-soc-alert-triage
+     📝 Autonomous SOC Alert Triage & Investigation Assistant Using AI-Driven Alert Corr…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 Krishita17/KeyWraith
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/Krishita17/KeyWraith
+     📝 Adaptive BadUSB/HID attack emulation + behavioral endpoint detection with the Fl…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 0x1k4rt1k/miatoll-nethunter-boot
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/0x1k4rt1k/miatoll-nethunter-boot
+     📝 NetHunter boot image for Xiaomi Miatoll
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 karthikcyber2028-design/edr-system
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/karthikcyber2028-design/edr-system
+     📝 Lightweight Endpoint Detection & Response System with Behavioral Threat Detectio…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 yash509/Falco-EDR-Implementation-on-Kubernetes
+     ⭐ 1  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/yash509/Falco-EDR-Implementation-on-Kubernetes
+     📝 Through this implemented Kubernetes runtime security monitoring using Falco, Fal…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 Maimoharris/Systems-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Maimoharris/Systems-Engineering
+     📝 This Repository is dedicated to my Systems Software Engineering and Embedded Sys…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 shayantech11/Windows-Malware-Analysis-Incident-Response-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/shayantech11/Windows-Malware-Analysis-Incident-Response-Lab
+     📝 Hands-on Windows malware analysis lab covering static/dynamic analysis, IOC extr…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 Shraddha-Bedre/security-operations-labs
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Shraddha-Bedre/security-operations-labs
+     📝 Practical security operations labs covering EDR, XDR, endpoint security, policy …
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 HazemIt7/HireMind-AI
+     ⭐ 0  🗣 TypeScript  📅 2026-08-19
+     🔗 https://github.com/HazemIt7/HireMind-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 michelics/cypress-automation
+     ⭐ 0  🗣 JavaScript  📅 2026-08-19
+     🔗 https://github.com/michelics/cypress-automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 Radhesh-Mutreja/Jerusalem
+     ⭐ 0  🗣 Assembly  📅 2026-08-19
+     🔗 https://github.com/Radhesh-Mutreja/Jerusalem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 jrrbailey1/ghcp-telemetry-assessment
+     ⭐ 0  🗣 PowerShell  📅 2026-08-19
+     🔗 https://github.com/jrrbailey1/ghcp-telemetry-assessment
+     📝 Empirical assessment of GitHub Copilot's OpenTelemetry output as a SOC log sourc…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 stevennkaada8/threat-hunting-scenario-defender
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/stevennkaada8/threat-hunting-scenario-defender
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 KPranit-2105/ISO-27001_statement-of-applicability
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/KPranit-2105/ISO-27001_statement-of-applicability
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 clickmtaa/TWINLOOT
+     ⭐ 0  🗣 PowerShell  📅 2026-08-19
+     🔗 https://github.com/clickmtaa/TWINLOOT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 MK-DEV369/pokemon-tcg-ai-battle-challenge-strategy-mk
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/MK-DEV369/pokemon-tcg-ai-battle-challenge-strategy-mk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 hekerstech/inpulse
+     ⭐ 0  🗣 Shell  📅 2026-08-19
+     🔗 https://github.com/hekerstech/inpulse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 Edrian12345678910/event-planner-edrian
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Edrian12345678910/event-planner-edrian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 RetiaLLC/NewsheenRadio
+     ⭐ 0  🗣 C++  📅 2026-08-19
+     🔗 https://github.com/RetiaLLC/NewsheenRadio
+     📝 Internet radio, a 38,000-station atlas and an audio-reactive light show inside a…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 moresuo/yrecon
+     ⭐ 0  🗣 Shell  📅 2026-08-19
+     🔗 https://github.com/moresuo/yrecon
+     📝 内网信息收集工具
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 digitalisx/peace-sign
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/digitalisx/peace-sign
+     📝 n8n SOAR Practice Repository
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 priyanshumohantypm2005/IDEATHON2026
+     ⭐ 0  🗣 TypeScript  📅 2026-08-19
+     🔗 https://github.com/priyanshumohantypm2005/IDEATHON2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 mvpdark/edrum-releases
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/mvpdark/edrum-releases
+     📝 e-Drum installer releases
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 noorintelligence/insider-risk-engine
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/noorintelligence/insider-risk-engine
+     📝 Privacy-first Insider Threat Detection & Risk Scoring Engine. Correlates multi-s…
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 EddyKuo/cairn
+     ⭐ 0  🗣 JavaScript  📅 2026-08-19
+     🔗 https://github.com/EddyKuo/cairn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 kaviyarasumaran/Edrevel-AI-task
+     ⭐ 0  🗣 TypeScript  📅 2026-08-19
+     🔗 https://github.com/kaviyarasumaran/Edrevel-AI-task
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [NEW]   🆕 📦 dkooze/cyber-security-practical-projects
+     ⭐ 1  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/dkooze/cyber-security-practical-projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:25 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-19 12:49:25 UTC] [UPD]   📢 📦 harbingerlabs/harbinger-cli
+     ⭐ 1  🗣 Go  📅 2026-08-18
+     🔗 https://github.com/harbingerlabs/harbinger-cli
+     📝 Find the routes to Domain Admin your monitoring would not catch — without your A…
+     🏷  active-directory, attack-paths, bloodhound, cli, golang, msp, security
+     🔄 Motivo: repo recente (0gg)
+[2026-08-19 12:49:25 UTC] [UPD]   📢 📦 n0sfs/micro-dfir
+     ⭐ 0  🗣 HTML  📅 2026-08-19
+     🔗 https://github.com/n0sfs/micro-dfir
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-19 12:49:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-19 12:49:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-19 12:49:26 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-19 12:49:26 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-19 12:49:26 UTC] [NEW]   🆕 📦 aniketjha348/pen-ai
+     ⭐ 1  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/aniketjha348/pen-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:26 UTC] [NEW]   🆕 📦 KadirDuyar/KadirDuyar
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/KadirDuyar/KadirDuyar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-19 12:49:26 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-19 12:49:26 UTC] [UPD]   📢 📦 enhansome/enhansome-privilege-escalation
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-privilege-escalation
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 12:49:26 UTC] [UPD]   📢 📦 enhansome/enhansome-collection-document
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-collection-document
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 12:49:26 UTC] [UPD]   📢 📦 enhansome/enhansome-csirt
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-csirt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 12:49:26 UTC] [UPD]   📢 📦 enhansome/enhansome-Awesome-CobaltStrike
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-Awesome-CobaltStrike
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-19 12:49:26 UTC] [INFO] ============================================================
+[2026-08-19 12:49:26 UTC] [INFO] Completato — 32 nuovi, 9 aggiornati, 0 errori
+[2026-08-19 12:49:26 UTC] [INFO] ============================================================
