@@ -65792,3 +65792,283 @@
 [2026-08-20 12:51:43 UTC] [INFO] ============================================================
 [2026-08-20 12:51:43 UTC] [INFO] Completato — 36 nuovi, 4 aggiornati, 0 errori
 [2026-08-20 12:51:43 UTC] [INFO] ============================================================
+[2026-08-20 18:39:49 UTC] [INFO] ============================================================
+[2026-08-20 18:39:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-20 18:39:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-20 18:39:49 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-20 18:39:49 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-20 18:39:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-20 18:39:49 UTC] [INFO] ============================================================
+[2026-08-20 18:39:49 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-20 18:39:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-20 18:39:51 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-20 18:39:51 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-20 18:39:51 UTC] [NEW]   🆕 📦 BayrdY/vortex-apex-mc_ac
+     ⭐ 0  🗣 PowerShell  📅 2026-08-20
+     🔗 https://github.com/BayrdY/vortex-apex-mc_ac
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:51 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-20 18:39:51 UTC] [UPD]   📢 📦 Pheelbert/pawnio-test
+     ⭐ 0  🗣 Pawn  📅 2026-08-19
+     🔗 https://github.com/Pheelbert/pawnio-test
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 18:39:51 UTC] [UPD]   📢 📦 Adityasingh230058/eyedetect
+     ⭐ 1  🗣 Python  📅 2026-08-14
+     🔗 https://github.com/Adityasingh230058/eyedetect
+     📝 Next-Gen Extended Detection and Response (XDR) & Cyber Threat Detection Engine w…
+     🏷  cybersecurity, edr, incident-response, mitre-attack, python, sigma-rules, threat-detection, ueba, xdr
+     🔄 Motivo: repo recente (6gg) | nuovi topic: incident-response, python, cybersecurity, ueba, edr, threat-detection, mitre-attack, sigma-rules, xdr
+[2026-08-20 18:39:51 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 5  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模…
+     🏷  dsh-plugin
+     🔄 Motivo: repo recente (3gg)
+[2026-08-20 18:39:51 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-20 18:39:51 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-20 18:39:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 35 NUOVI repository:
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 Developer-Amit21/SIH_prototype
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/Developer-Amit21/SIH_prototype
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 mateuszsury/workrouter-windows
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/mateuszsury/workrouter-windows
+     📝 Isolated Windows 11 Wi-Fi hotspot with WFP network segmentation, encrypted SMB s…
+     🏷  dotnet, internet-connection-sharing, iot-security, mobile-hotspot, network-isolation, network-monitoring, network-security, powershell, self-hosted, smb, wfp, wifi-hotspot, windows, windows-11, windows-filtering-platform
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 TerryS2K/modern-web-app
+     ⭐ 0  🗣 HTML  📅 2026-08-20
+     🔗 https://github.com/TerryS2K/modern-web-app
+     📝 Nexus Studio — High-performance, accessible, and responsive modern web platform
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 ersquared/edroberson.com
+     ⭐ 0  🗣 HTML  📅 2026-08-20
+     🔗 https://github.com/ersquared/edroberson.com
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 robertaclare/Windows-Screen-Locker-WinForms
+     ⭐ 9  🗣 C#  📅 2026-08-20
+     🔗 https://github.com/robertaclare/Windows-Screen-Locker-WinForms
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 marielleklebje/Usermode-Rootkit-API-Hooking
+     ⭐ 9  🗣 C#  📅 2026-08-20
+     🔗 https://github.com/marielleklebje/Usermode-Rootkit-API-Hooking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 jordi-murgo/cliptunnel-mcp
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/jordi-murgo/cliptunnel-mcp
+     📝 Operate a locked-down remote machine through its clipboard — MCP server tunneled…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 victormagp6/Ransomware-Incident-Response-and-Digital-Forensics-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/victormagp6/Ransomware-Incident-Response-and-Digital-Forensics-Investigation
+     📝 A hands-on digital forensics and incident response case study focused on a simul…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 maggiemagnuson/adaptix-powershell_extender
+     ⭐ 0  🗣 C  📅 2026-08-20
+     🔗 https://github.com/maggiemagnuson/adaptix-powershell_extender
+     📝 Add powershell-import and powerpick to AdaptixC2
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 CharlesTrombley/Self-hosted-server
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/CharlesTrombley/Self-hosted-server
+     📝 this is a self hosted MC sever where i do real world hardening techines and EDR.
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 kamalijagan2008-commits/CN-CS-CO-4-AT-2
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/kamalijagan2008-commits/CN-CS-CO-4-AT-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 hansenjennifer713/edrpeb
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/hansenjennifer713/edrpeb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 leejoan8643/edrkpa
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/leejoan8643/edrkpa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 StepForIt/no-more-hdr
+     ⭐ 0  🗣 HTML  📅 2026-08-20
+     🔗 https://github.com/StepForIt/no-more-hdr
+     📝 Extension Chrome qui empêche les images HDR de forcer le reste de la page à s'as…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 mrbezarate/OpSec_tutorial
+     ⭐ 0  🗣 C++  📅 2026-08-20
+     🔗 https://github.com/mrbezarate/OpSec_tutorial
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 wiktor-jedski/edralgo
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/wiktor-jedski/edralgo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 abdulrahimgrc/grc-portfolio
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/abdulrahimgrc/grc-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 SC-ENYINDAH/Endpoint-Protection-and-Vulnerability-Management-Expadox-Program
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/SC-ENYINDAH/Endpoint-Protection-and-Vulnerability-Management-Expadox-Program
+     📝 Posture Report: Discovery, Baseline and Remediation-in-Progress
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 ALOITH-exe/LimaCharlie-Tines-SOAR-Project
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/ALOITH-exe/LimaCharlie-Tines-SOAR-Project
+     📝 LimaCharlie EDR and Tines SOAR home lab, demonstrating automated attack detectio…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 kiki-lgtm-dot/security-copilot
+     ⭐ 2  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/kiki-lgtm-dot/security-copilot
+     📝 AI 安全运营助手（Security Copilot）：接入 817 个开源安全技能，用自然语言完成告警研判、技能推荐与 MITRE/NIST 映射报告生成
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 Adityasingh230058/Adityasingh230058
+     ⭐ 1  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/Adityasingh230058/Adityasingh230058
+     📝 Personal GitHub profile README and engineering systems showcase
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 EmberGuild-Labs/voxel
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/EmberGuild-Labs/voxel
+     📝 macOS panic button for games — a global hotkey that collapses your machine from …
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 Bhumika02052002/Splunk-Beginner-Guide-for-SOC-Analysts
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/Bhumika02052002/Splunk-Beginner-Guide-for-SOC-Analysts
+     📝 A practical beginner-level guide to understanding Splunk, searching logs, filter…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 mubarak165/PCAP-Network-Traffic-Analysis-Report
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/mubarak165/PCAP-Network-Traffic-Analysis-Report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 sathi2305/Quantum-Shield
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/sathi2305/Quantum-Shield
+     📝 Quantum Shield is an autonomous, quantum-safe Security Operations Center (SOC) a…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 wadie-ejjoufari/alert-router
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/wadie-ejjoufari/alert-router
+     📝 A small, self-contained SOAR-lite alerting pipeline: dedup, enrich, route (Slack…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 AbhishekN02/phishguard-email-threat-lab-v2
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/AbhishekN02/phishguard-email-threat-lab-v2
+     📝 SOC email threat analysis and phishing investigation platform built with Python …
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 AnujPatel089/sentinel-ai-soc-platform
+     ⭐ 1  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/AnujPatel089/sentinel-ai-soc-platform
+     📝 AI-assisted SOC platform with threat detection, explainable risk scoring, RAG, c…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 chiangyaw/cortex-event-forward-to-aws-security-lake
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/chiangyaw/cortex-event-forward-to-aws-security-lake
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 AtharvanJaiswal/Ransomware-Readiness-Platform
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/AtharvanJaiswal/Ransomware-Readiness-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 YasayanEfsane/KernelScope
+     ⭐ 0  🗣 C++  📅 2026-08-20
+     🔗 https://github.com/YasayanEfsane/KernelScope
+     📝 Defensive Windows KMDF telemetry, PE/COFF analysis, SHA-256, Authenticode, and h…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 Segaotava/havoc-fileless-dropper
+     ⭐ 0  🗣 C++  📅 2026-08-20
+     🔗 https://github.com/Segaotava/havoc-fileless-dropper
+     📝 Fileless shellcode dropper in C++ using WinINet API. Downloads and executes shel…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 dipanshudadhich8-afk/security-architecture-network-defense-week4
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/dipanshudadhich8-afk/security-architecture-network-defense-week4
+     📝  Security architecture and network defense strategy for e-governance digital ser…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 RyanAHayden/omarchy-btsync
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/RyanAHayden/omarchy-btsync
+     📝 Sync Bluetooth link keys from Windows to Linux for dual-boot, as an Omarchy Trig…
+     🏷  —
+[2026-08-20 18:39:53 UTC] [NEW]   🆕 📦 MeNandroid/first-aid-guard
+     ⭐ 0  🗣 TypeScript  📅 2026-08-20
+     🔗 https://github.com/MeNandroid/first-aid-guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:53 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-20 18:39:53 UTC] [UPD]   📢 📦 ishan1223/SentinelX
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/ishan1223/SentinelX
+     📝 Behavioural-Based System Compromise Detection & Threat Reasoning
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 18:39:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-20 18:39:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-20 18:39:55 UTC] [INFO]   → 25 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-20 18:39:55 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-20 18:39:55 UTC] [NEW]   🆕 📦 lomismous/ps4xploit
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/lomismous/ps4xploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:55 UTC] [NEW]   🆕 📦 khoivua90-dot/CheatiOSShare
+     ⭐ 0  🗣 Objective-C  📅 2026-08-20
+     🔗 https://github.com/khoivua90-dot/CheatiOSShare
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 18:39:55 UTC] [NEW]   🆕 📦 amine2-a11y/Amine-ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/amine2-a11y/Amine-ps4
+     📝 Ps4 jailbreak
+     🏷  —
+[2026-08-20 18:39:55 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-08-20 18:39:55 UTC] [UPD]   📢 📦 kuyk15820-cpu/TestPath
+     ⭐ 0  🗣 Swift  📅 2026-08-19
+     🔗 https://github.com/kuyk15820-cpu/TestPath
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 18:39:55 UTC] [UPD]   📢 📦 lo1784768-hash/IMGUIDELTA
+     ⭐ 0  🗣 Objective-C  📅 2026-08-13
+     🔗 https://github.com/lo1784768-hash/IMGUIDELTA
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-20 18:39:55 UTC] [UPD]   📢 📦 authzyonxz/Nuevo
+     ⭐ 0  🗣 Swift  📅 2026-08-17
+     🔗 https://github.com/authzyonxz/Nuevo
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-20 18:39:55 UTC] [UPD]   📢 📦 Dylans7j/Cheatsheets
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/Dylans7j/Cheatsheets
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 18:39:55 UTC] [UPD]   📢 📦 Emmanuelbenedo/DC-3
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/Emmanuelbenedo/DC-3
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 18:39:55 UTC] [UPD]   📢 📦 tranphat1357t-commits/IPA-3105
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tranphat1357t-commits/IPA-3105
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 18:39:55 UTC] [INFO] ============================================================
+[2026-08-20 18:39:55 UTC] [INFO] Completato — 39 nuovi, 10 aggiornati, 0 errori
+[2026-08-20 18:39:55 UTC] [INFO] ============================================================
