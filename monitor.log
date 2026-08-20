@@ -65139,3 +65139,272 @@
 [2026-08-19 18:36:36 UTC] [INFO] ============================================================
 [2026-08-19 18:36:36 UTC] [INFO] Completato — 31 nuovi, 11 aggiornati, 0 errori
 [2026-08-19 18:36:36 UTC] [INFO] ============================================================
+[2026-08-20 01:17:53 UTC] [INFO] ============================================================
+[2026-08-20 01:17:53 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-20 01:17:53 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-20 01:17:53 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-20 01:17:53 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-20 01:17:53 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-20 01:17:53 UTC] [INFO] ============================================================
+[2026-08-20 01:17:53 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-20 01:17:53 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-20 01:17:55 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-20 01:17:55 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-20 01:17:55 UTC] [NEW]   🆕 📦 Pheelbert/pawnio-test
+     ⭐ 0  🗣 Pawn  📅 2026-08-19
+     🔗 https://github.com/Pheelbert/pawnio-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:55 UTC] [NEW]   🆕 📦 Hika-sec/Terminator_Killer
+     ⭐ 0  🗣 C++  📅 2026-08-19
+     🔗 https://github.com/Hika-sec/Terminator_Killer
+     📝 Ring0-level process killer leveraging CVE-2026-0828 (BYOVD). Designed to demonst…
+     🏷  —
+[2026-08-20 01:17:55 UTC] [NEW]   🆕 📦 armourinfosec/Offensive-Windows-Privilege-Escalation
+     ⭐ 1  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/armourinfosec/Offensive-Windows-Privilege-Escalation
+     📝 Offensive Windows Privilege Escalation — hands-on study notes: enumeration & met…
+     🏷  cybersecurity, knowledge-base, obsidian, offensive-security, oscp, penetration-testing, post-exploitation, potato, privesc, privilege-escalation, red-team, study-notes, token-impersonation, uac-bypass, windows
+[2026-08-20 01:17:55 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-20 01:17:55 UTC] [UPD]   📢 📦 Ka-b0om/BYOVD-KKYUM.sys-poc
+     ⭐ 0  🗣 Rust  📅 2026-08-19
+     🔗 https://github.com/Ka-b0om/BYOVD-KKYUM.sys-poc
+     📝 Technical analysis and PoC for MmCopyVirtualMemory primitive in vulnerable signe…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 01:17:55 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-20 01:17:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-20 01:17:58 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 madalitsofrank23-cell/process-vein-injector
+     ⭐ 0  🗣 HTML  📅 2026-08-19
+     🔗 https://github.com/madalitsofrank23-cell/process-vein-injector
+     📝 Advanced Windows Process Injection Suite 2026 - Optimized Code Execution Tool
+     🏷  code-injection, code-injection-tools, csharp, cybersecurity, injector-tool, pentest, winapi, windows-app, windows-injector
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 joshualparris/KaseyaFieldOps
+     ⭐ 0  🗣 TypeScript  📅 2026-08-19
+     🔗 https://github.com/joshualparris/KaseyaFieldOps
+     📝 KaseyaFieldOps
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 NicoleS3009/NicoleS3009
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/NicoleS3009/NicoleS3009
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 L2-JLT/wazuh-atomic-red-team-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/L2-JLT/wazuh-atomic-red-team-detection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cyber-Asset-Attack-Surface-Management
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/ishandutta2007/Awesome-Cyber-Asset-Attack-Surface-Management
+     📝 Top Cyber Asset Attack Surface Management (CAASM) 🌟 Star if you like it! 🌟
+     🏷  asset-discovery, attack-surface-management, caasm
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 joerein-iu/bentham
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/joerein-iu/bentham
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 AyaanB-DotCom/android-tv-supply-chain-malware
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/AyaanB-DotCom/android-tv-supply-chain-malware
+     📝 Hardware-level firmware extraction and malware analysis of a $25 Android TV box
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 KarenEtheridg/hack-skills
+     ⭐ 0  🗣 CSS  📅 2026-08-19
+     🔗 https://github.com/KarenEtheridg/hack-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Customer-Journey-Analytics
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/ishandutta2007/Awesome-Customer-Journey-Analytics
+     📝 Top Customer Journey Analytics 🌟 Star if you like it! 🌟
+     🏷  behavioral-analytics, customer-journey-analytics, product-analytics
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 KingAtomic7/CyberShield-NGO
+     ⭐ 1  🗣 TypeScript  📅 2026-08-19
+     🔗 https://github.com/KingAtomic7/CyberShield-NGO
+     📝 CyberShield NGO is a web-based cybersecurity risk assessment and improvement pla…
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 Sany655/penta-courses
+     ⭐ 0  🗣 JavaScript  📅 2026-08-19
+     🔗 https://github.com/Sany655/penta-courses
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 alexxpavloff6-ai/fujifilm-electronic-shutter-dynamic-range
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/alexxpavloff6-ai/fujifilm-electronic-shutter-dynamic-range
+     📝 Электронный и механический затвор Fujifilm: влияние на динамический диапазон (RU…
+     🏷  camera, dynamic-range, fujifilm, photography
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 EdRody/EdRody
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/EdRody/EdRody
+     📝 Perfil no GitHub
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 Hika-sec/Terminator_Killer
+     ⭐ 0  🗣 C++  📅 2026-08-19
+     🔗 https://github.com/Hika-sec/Terminator_Killer
+     📝 Ring0-level process killer leveraging CVE-2026-0828 (BYOVD). Designed to demonst…
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 Vinitshenkeshi/ai_soc
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/Vinitshenkeshi/ai_soc
+     📝 Educational project for mastering software architecture
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 Henriquesilva0328/Henriquesilva0328
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Henriquesilva0328/Henriquesilva0328
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 Vinitshenkeshi/sentinel-triage
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/Vinitshenkeshi/sentinel-triage
+     📝 Portfolio project showcasing development capabilities
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 cjy513203427/full-security-inspection
+     ⭐ 0  🗣 Go  📅 2026-08-19
+     🔗 https://github.com/cjy513203427/full-security-inspection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 Sarah-hub-loop/ofusca-o-malware-overlay-integridade-de-arquivos
+     ⭐ 1  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/Sarah-hub-loop/ofusca-o-malware-overlay-integridade-de-arquivos
+     📝 Laboratório prático de Defesa Cibernética sobre técnicas de Overlay, análise de …
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 chiddekel/winux-suplement-uwp-winrt
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/chiddekel/winux-suplement-uwp-winrt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 AhmedCyberAnalyst/healthcare-cybersecurity-risk-assessment
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/AhmedCyberAnalyst/healthcare-cybersecurity-risk-assessment
+     📝 simulated cybersecurity risk assessment of a hospital radiology environment, cov…
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 gabrielj718/Threat-Hunting-Scenario-Tor-Browser-Usage-
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/gabrielj718/Threat-Hunting-Scenario-Tor-Browser-Usage-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 Nibir088/Field_Boundary_Detection
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-19
+     🔗 https://github.com/Nibir088/Field_Boundary_Detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 qsr-x/edrin-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/qsr-x/edrin-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 rilegu/secure-access-relay
+     ⭐ 0  🗣 Go  📅 2026-08-19
+     🔗 https://github.com/rilegu/secure-access-relay
+     📝 A self-hostable, policy-scoped remote-access relay for time-bound access to appr…
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 Detox10/cybershield-
+     ⭐ 1  🗣 TypeScript  📅 2026-08-19
+     🔗 https://github.com/Detox10/cybershield-
+     📝 🛡️ Open-source EDR platform — real-time CPU, RAM, disk & network telemetry strea…
+     🏷  —
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 TheFortuneGroup/soc-ip-reputation-orchestrator
+     ⭐ 0  🗣 HTML  📅 2026-08-19
+     🔗 https://github.com/TheFortuneGroup/soc-ip-reputation-orchestrator
+     📝 2026 SOC Threat Telemetry Mastery: Automated IP Reputation Analysis Toolkit
+     🏷  abuseipdb, abuseipdb-api, automation, cybersecurity, python, soc, soc-analyst, soc-automation, soc-tools, virustotal, virustotal-api
+[2026-08-20 01:17:58 UTC] [NEW]   🆕 📦 selamsahabe/-LetsDefend-SOC211-Utilman-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/selamsahabe/-LetsDefend-SOC211-Utilman-Analysis
+     📝 LetsDefend SOC211 - Utilman.exe Winlogon Exploit Attempt Write-up
+     🏷  —
+[2026-08-20 01:17:58 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-20 01:17:58 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-20 01:17:58 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-20 01:18:00 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-20 01:18:00 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-08-20 01:18:00 UTC] [NEW]   🆕 📦 harryhurtado-tech/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/harryhurtado-tech/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:18:00 UTC] [NEW]   🆕 📦 KarenEtheridg/hack-skills
+     ⭐ 0  🗣 CSS  📅 2026-08-19
+     🔗 https://github.com/KarenEtheridg/hack-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:18:00 UTC] [NEW]   🆕 📦 Cfox-dev07/3105w
+     ⭐ 0  🗣 Swift  📅 2026-08-19
+     🔗 https://github.com/Cfox-dev07/3105w
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:18:00 UTC] [NEW]   🆕 📦 armourinfosec/Offensive-Windows-Privilege-Escalation
+     ⭐ 1  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/armourinfosec/Offensive-Windows-Privilege-Escalation
+     📝 Offensive Windows Privilege Escalation — hands-on study notes: enumeration & met…
+     🏷  cybersecurity, knowledge-base, obsidian, offensive-security, oscp, penetration-testing, post-exploitation, potato, privesc, privilege-escalation, red-team, study-notes, token-impersonation, uac-bypass, windows
+[2026-08-20 01:18:00 UTC] [NEW]   🆕 📦 armourinfosec/Offensive-Linux-Privilege-Escalation
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/armourinfosec/Offensive-Linux-Privilege-Escalation
+     📝 Offensive Linux Privilege Escalation — hands-on study notes: enumeration, sudo/S…
+     🏷  capabilities, container-escape, cron, kernel-exploits, knowledge-base, linux, obsidian, offensive-security, oscp, penetration-testing, privesc, privilege-escalation, study-notes, sudo, suid
+[2026-08-20 01:18:00 UTC] [NEW]   🆕 📦 kuyk15820-cpu/TestPath
+     ⭐ 0  🗣 Swift  📅 2026-08-19
+     🔗 https://github.com/kuyk15820-cpu/TestPath
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:18:00 UTC] [NEW]   🆕 📦 kuyk15820-cpu/TestPatch
+     ⭐ 0  🗣 Swift  📅 2026-08-19
+     🔗 https://github.com/kuyk15820-cpu/TestPatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 01:18:00 UTC] [UPD]   📢 8 repository AGGIORNATI:
+[2026-08-20 01:18:00 UTC] [UPD]   📢 📦 authzyonxz/Nuevo
+     ⭐ 0  🗣 Swift  📅 2026-08-17
+     🔗 https://github.com/authzyonxz/Nuevo
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-20 01:18:00 UTC] [UPD]   📢 📦 enhansome/enhansome-fucking-Awesome-Hacking
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-fucking-Awesome-Hacking
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-20 01:18:00 UTC] [UPD]   📢 📦 enhansome/enhansome-Awesome-Redteam
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-Awesome-Redteam
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-20 01:18:00 UTC] [UPD]   📢 📦 enhansome/enhansome-reversing
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-reversing
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-20 01:18:00 UTC] [UPD]   📢 📦 ngcongdev/beta1.1.1
+     ⭐ 0  🗣 Swift  📅 2026-08-19
+     🔗 https://github.com/ngcongdev/beta1.1.1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 01:18:00 UTC] [UPD]   📢 📦 redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup
+     ⭐ 0  🗣 C  📅 2026-08-19
+     🔗 https://github.com/redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 01:18:00 UTC] [UPD]   📢 📦 enhansome/enhansome-windows-red-team
+     ⭐ 0  🗣 N/A  📅 2026-08-12
+     🔗 https://github.com/enhansome/enhansome-windows-red-team
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-08-20 01:18:00 UTC] [UPD]   📢 📦 dliptak001/HypercubeCascade
+     ⭐ 1  🗣 C++  📅 2026-08-18
+     🔗 https://github.com/dliptak001/HypercubeCascade
+     📝 A cascaded preprocessor architecture built on the hypercube substrate: an etalon…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-20 01:18:00 UTC] [INFO] ============================================================
+[2026-08-20 01:18:00 UTC] [INFO] Completato — 38 nuovi, 9 aggiornati, 0 errori
+[2026-08-20 01:18:00 UTC] [INFO] ============================================================
