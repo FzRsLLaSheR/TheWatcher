@@ -65563,3 +65563,232 @@
 [2026-08-20 06:47:32 UTC] [INFO] ============================================================
 [2026-08-20 06:47:32 UTC] [INFO] Completato — 26 nuovi, 0 aggiornati, 0 errori
 [2026-08-20 06:47:32 UTC] [INFO] ============================================================
+[2026-08-20 12:51:35 UTC] [INFO] ============================================================
+[2026-08-20 12:51:35 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-20 12:51:35 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-20 12:51:35 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-20 12:51:35 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-20 12:51:35 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-20 12:51:35 UTC] [INFO] ============================================================
+[2026-08-20 12:51:35 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-20 12:51:35 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-20 12:51:37 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-20 12:51:37 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-20 12:51:37 UTC] [NEW]   🆕 📦 CTER-372/HCS-byovd-blocklist
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/CTER-372/HCS-byovd-blocklist
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:37 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-20 12:51:37 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 5  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模…
+     🏷  dsh-plugin
+     🔄 Motivo: repo recente (3gg)
+[2026-08-20 12:51:37 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-20 12:51:37 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-20 12:51:41 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 prjoni99/k12-workspace-hardening
+     ⭐ 0  🗣 HTML  📅 2026-08-20
+     🔗 https://github.com/prjoni99/k12-workspace-hardening
+     📝 Anti-phishing hardening package for K-12 districts on Google Workspace for Educa…
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 peroskyX/EDRAG
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-20
+     🔗 https://github.com/peroskyX/EDRAG
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 tfpickard/contrail.app
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tfpickard/contrail.app
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 ngtrdai/mktmkt
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/ngtrdai/mktmkt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 GhostSy1/GHOST-RedOps
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/GhostSy1/GHOST-RedOps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 daoge88/ats2851-linux-pairing-fix
+     ⭐ 0  🗣 C  📅 2026-08-20
+     🔗 https://github.com/daoge88/ats2851-linux-pairing-fix
+     📝 Linux btusb workaround for ATS2851 SSP pairing stalls: Dedicated Bonding to Gene…
+     🏷  ats2851, bluetooth, bluez, btusb, linux, sony-wf-c510, ugreen
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 higginssusan5/edrwan
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/higginssusan5/edrwan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 WeedHashPeddler/PussyBlocker-UndefendV2
+     ⭐ 0  🗣 C  📅 2026-08-20
+     🔗 https://github.com/WeedHashPeddler/PussyBlocker-UndefendV2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 0xbitx/DEDSEC_ZARA
+     ⭐ 0  🗣 N/A  📅 2026-08-19
+     🔗 https://github.com/0xbitx/DEDSEC_ZARA
+     📝 Advanced Python Malware Obfuscator & Binary Packer for Evasion-Focused Red-Team …
+     🏷  binary, elf, malware, obfuscator, python
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 Dannyydev/Glyphe
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/Dannyydev/Glyphe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 thecybervendetta/AgentTesla-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/thecybervendetta/AgentTesla-Incident-Response
+     📝 This case study details a comprehensive, dual-phase Incident Response investigat…
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 jakoreilly/ProcessRadar
+     ⭐ 0  🗣 C#  📅 2026-08-20
+     🔗 https://github.com/jakoreilly/ProcessRadar
+     📝 A live 2D graph of the processes running on a Windows machine: parent/child spaw…
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 Wwqter/Process-Watchdog
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/Wwqter/Process-Watchdog
+     📝 Originally created as a lightweight anti-miner, now a modular Windows Host Intru…
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 enilmalus/Chein
+     ⭐ 1  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/enilmalus/Chein
+     📝 内网单 URL 渗透测试编排器
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 swapwarick/swapwarick
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/swapwarick/swapwarick
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 MohitNehru/OfficeNewWorkTesting
+     ⭐ 0  🗣 Nim  📅 2026-08-20
+     🔗 https://github.com/MohitNehru/OfficeNewWorkTesting
+     📝 Basic Tools
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 kiranmahesh01/agentic-end-point
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/kiranmahesh01/agentic-end-point
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 zyekhabdul/volatility3-cyber-suite
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/zyekhabdul/volatility3-cyber-suite
+     📝 Unified Memory Forensics, eBPF Rootkit Detection, and AI-Driven Incident Triage …
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 SK-cs1209/cybersecurity-internship-project
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/SK-cs1209/cybersecurity-internship-project
+     📝 Internship project covering asset inventory, vulnerability management, endpoint …
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 Riptwosec-collab/LUMI
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/Riptwosec-collab/LUMI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 amirsefati/opslens
+     ⭐ 0  🗣 Go  📅 2026-08-20
+     🔗 https://github.com/amirsefati/opslens
+     📝 Self-hosted Linux security monitoring with Go, eBPF, live dashboards, and tamper…
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 muksoftware/edrkillerw2
+     ⭐ 0  🗣 C++  📅 2026-08-20
+     🔗 https://github.com/muksoftware/edrkillerw2
+     📝 killeredraaassss
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 dheerajgowd-18/adversarial-rag-soc-v2
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/dheerajgowd-18/adversarial-rag-soc-v2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 Omarsq1611/CATBOMBER-2020-case-Traffic-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/Omarsq1611/CATBOMBER-2020-case-Traffic-Analysis
+     📝 A hands-on Wireshark investigation of the CATBOMBER incident. This project maps …
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 Yacine-hub-ai/Microsoft-defender-endpoint-ems-e5
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/Yacine-hub-ai/Microsoft-defender-endpoint-ems-e5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 wgm66/mcp-windows-debug
+     ⭐ 0  🗣 TypeScript  📅 2026-08-20
+     🔗 https://github.com/wgm66/mcp-windows-debug
+     📝 Windows MCP server for GUI automation debugging with sandbox isolation
+     🏷  —
+[2026-08-20 12:51:41 UTC] [NEW]   🆕 📦 MCT32/ICT30016-EDR-Project
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/MCT32/ICT30016-EDR-Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:41 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-20 12:51:41 UTC] [UPD]   📢 📦 wookoon2024-cloud/flower
+     ⭐ 0  🗣 Python  📅 2026-08-19
+     🔗 https://github.com/wookoon2024-cloud/flower
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 12:51:41 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-20 12:51:41 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-20 12:51:43 UTC] [INFO]   → 22 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-20 12:51:43 UTC] [NEW]   🆕 8 NUOVI repository:
+[2026-08-20 12:51:43 UTC] [NEW]   🆕 📦 Emmanuelbenedo/DC-3
+     ⭐ 0  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/Emmanuelbenedo/DC-3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:43 UTC] [NEW]   🆕 📦 tranphat1357t-commits/IPA-3105
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tranphat1357t-commits/IPA-3105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:43 UTC] [NEW]   🆕 📦 ucmz851/omasecurity
+     ⭐ 0  🗣 QML  📅 2026-08-20
+     🔗 https://github.com/ucmz851/omasecurity
+     📝 Security posture auditor and plugin code health monitor for Omarchy Quattro shel…
+     🏷  —
+[2026-08-20 12:51:43 UTC] [NEW]   🆕 📦 tranphat1357t-commits/IPA-BRIAN
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tranphat1357t-commits/IPA-BRIAN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:43 UTC] [NEW]   🆕 📦 tranphat1357t-commits/IPA-PROXY
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tranphat1357t-commits/IPA-PROXY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:43 UTC] [NEW]   🆕 📦 badrcoderman/noslop
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/badrcoderman/noslop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:43 UTC] [NEW]   🆕 📦 drakdevil339/Linux_privesc_toolkit
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/drakdevil339/Linux_privesc_toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-20 12:51:43 UTC] [NEW]   🆕 📦 crzyc0d3r/smolvm-agent-sandbox
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/crzyc0d3r/smolvm-agent-sandbox
+     📝 Simulator and scripted walkthrough of microVM agent sandboxing: kernel isolation…
+     🏷  —
+[2026-08-20 12:51:43 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-20 12:51:43 UTC] [UPD]   📢 📦 SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm
+     ⭐ 1  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/SneakyNachos/CVE-2026-2796-escape-wasm-by-using-wasm
+     📝 PoC exploit chain for CVE-2026-2796: SpiderMonkey WebAssembly sandbox escape (si…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 12:51:43 UTC] [UPD]   📢 📦 kuyk15820-cpu/TestPath
+     ⭐ 0  🗣 Swift  📅 2026-08-19
+     🔗 https://github.com/kuyk15820-cpu/TestPath
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-20 12:51:43 UTC] [INFO] ============================================================
+[2026-08-20 12:51:43 UTC] [INFO] Completato — 36 nuovi, 4 aggiornati, 0 errori
+[2026-08-20 12:51:43 UTC] [INFO] ============================================================
