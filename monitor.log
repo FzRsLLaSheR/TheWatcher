@@ -66477,3 +66477,206 @@
 [2026-08-21 06:49:28 UTC] [INFO] ============================================================
 [2026-08-21 06:49:28 UTC] [INFO] Completato — 29 nuovi, 7 aggiornati, 0 errori
 [2026-08-21 06:49:28 UTC] [INFO] ============================================================
+[2026-08-21 12:49:52 UTC] [INFO] ============================================================
+[2026-08-21 12:49:52 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-21 12:49:52 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-21 12:49:52 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-21 12:49:52 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-21 12:49:52 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-21 12:49:52 UTC] [INFO] ============================================================
+[2026-08-21 12:49:52 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-21 12:49:52 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-21 12:49:54 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-21 12:49:54 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-21 12:49:54 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-21 12:49:54 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 5  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模…
+     🏷  dsh-plugin
+     🔄 Motivo: repo recente (4gg)
+[2026-08-21 12:49:54 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-21 12:49:54 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-21 12:49:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 Douglas-042/douglas-042
+     ⭐ 0  🗣 PowerShell  📅 2026-08-21
+     🔗 https://github.com/Douglas-042/douglas-042
+     📝 Collects live Windows artifacts, evaluates them against built-in detection rules…
+     🏷  blue-team, forensic-analysis, forensics, forensics-investigations, incident-response, incident-response-forensics, incident-response-plan, mitre-attack, powershell, sigma, sigma-rules, threat-analysis, threat-detection, threat-hunting, threat-response, yara-rules
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 tamarabelson/context-graph-demo
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/tamarabelson/context-graph-demo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 RafikiScyent888/CySA-CVSS-Center
+     ⭐ 0  🗣 JavaScript  📅 2026-08-21
+     🔗 https://github.com/RafikiScyent888/CySA-CVSS-Center
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 hillamanda916/edrltk
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/hillamanda916/edrltk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 ashwin-gohil-illuminati/threat-detection-engine-poc
+     ⭐ 0  🗣 C++  📅 2026-08-21
+     🔗 https://github.com/ashwin-gohil-illuminati/threat-detection-engine-poc
+     📝 Threat Detection Engine POC
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 echocc00/SecSight
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/echocc00/SecSight
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 prolix-ab/edrobotics-site
+     ⭐ 0  🗣 TypeScript  📅 2026-08-20
+     🔗 https://github.com/prolix-ab/edrobotics-site
+     📝 ED Robotics website
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 Douglas-042/douglas-042-HQ
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/Douglas-042/douglas-042-HQ
+     📝 Central console for Douglas-042 HEADQUARTERS collectors. Sweeps a fleet, correla…
+     🏷  blue-team, cyberops, cyberops-ai-team, cybersecurity, cybersecurity-projects, cybersecurity-tools, forensic-analysis, forensic-tools, forensics, forensics-investigations, forensics-tools, incident-management, incident-response, mitre-attack, powershell, siem, soc, threat-detection, threat-hunting, threat-modeling
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 Detox10/Detox10
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/Detox10/Detox10
+     📝 My GitHub profile README — cybersecurity enthusiast
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Vulnerability-Prioritization-Platform
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/ishandutta2007/Awesome-Vulnerability-Prioritization-Platform
+     📝 Top Vulnerability Prioritization Platform 🌟 Star if you like it! 🌟
+     🏷  exposure-management, risk-based-vulnerability-management, vulnerability-prioritization
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 kunalpatil-hue/EDR_DeltaV
+     ⭐ 0  🗣 C  📅 2026-08-21
+     🔗 https://github.com/kunalpatil-hue/EDR_DeltaV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 Kreesten-hsh/SentinelSOC
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/Kreesten-hsh/SentinelSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 hisyammmmm/wazuh-virus-total-integration
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/hisyammmmm/wazuh-virus-total-integration
+     📝 A Wazuh + VirusTotal integration that automatically flags and removes malicious …
+     🏷  soc, virustotal, wazuh, wazuh-integration
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 MarkRWatts/Argus
+     ⭐ 0  🗣 Swift  📅 2026-08-21
+     🔗 https://github.com/MarkRWatts/Argus
+     📝 Real-time macOS living-off-the-land (LOLBin) activity radar, built on the Sigma …
+     🏷  detection-engineering, endpoint-detection, macos, mitre-attack, security, siem, sigma, swift, swiftui, threat-detection
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 sharukh9811/Endpoint-Detction-Tool
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/sharukh9811/Endpoint-Detction-Tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 cyberlab29/TI-Aggregator
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/cyberlab29/TI-Aggregator
+     📝 A browser-based Threat Intelligence Aggregator with IOC parsing, normalization, …
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 dotlinux26/protectme
+     ⭐ 1  🗣 C++  📅 2026-08-21
+     🔗 https://github.com/dotlinux26/protectme
+     📝 A kernel-level safety interlock for Linux
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 alantsai1024/staticwebfju
+     ⭐ 0  🗣 TypeScript  📅 2026-08-21
+     🔗 https://github.com/alantsai1024/staticwebfju
+     📝 Avocado SenseL static cybersecurity investigation showcase with demo data
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 tuthan/omasafe
+     ⭐ 0  🗣 Rust  📅 2026-08-20
+     🔗 https://github.com/tuthan/omasafe
+     📝 OmaSafe — Trust & Security for Omarchy
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 sarasalem1409/SOC
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/sarasalem1409/SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 K4sku/xdr
+     ⭐ 0  🗣 Swift  📅 2026-08-21
+     🔗 https://github.com/K4sku/xdr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 schultzlacey820/edrjdz
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/schultzlacey820/edrjdz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 m2xdev/cybersecurity-roadmap_v2
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/m2xdev/cybersecurity-roadmap_v2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 lingwei2023/md-skill
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/lingwei2023/md-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 SaqibDFIR/Splunk-capstone-incident-investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/SaqibDFIR/Splunk-capstone-incident-investigation
+     📝 Hands-on Splunk SOC investigation of a compromised Windows endpoint using Sysmon…
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 MrAnoy/Automated-Alert-Triage-SOAR-Playbook
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/MrAnoy/Automated-Alert-Triage-SOAR-Playbook
+     📝 Build an enterprise-grade, portfolio-ready SOC alert triage and SOAR playbook au…
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 FuzailAhmad-Sphericaljudge/AegisGrid
+     ⭐ 1  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/FuzailAhmad-Sphericaljudge/AegisGrid
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:57 UTC] [NEW]   🆕 📦 yrhelm/Meriqo-Protect
+     ⭐ 0  🗣 JavaScript  📅 2026-08-21
+     🔗 https://github.com/yrhelm/Meriqo-Protect
+     📝 Browser-native supply-chain sentry: inventories extensions and on-disk packages,…
+     🏷  chrome-extension, devsecops, manifest-v3, native-messaging, sbom, supply-chain-security
+[2026-08-21 12:49:57 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-21 12:49:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-21 12:49:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-21 12:49:59 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-21 12:49:59 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-21 12:49:59 UTC] [NEW]   🆕 📦 ArminAndalib/ArminAndalib
+     ⭐ 1  🗣 N/A  📅 2026-08-20
+     🔗 https://github.com/ArminAndalib/ArminAndalib
+     📝 README.
+     🏷  —
+[2026-08-21 12:49:59 UTC] [NEW]   🆕 📦 hacktheproof/hacktheproof
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/hacktheproof/hacktheproof
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:59 UTC] [NEW]   🆕 📦 proletarian1966/agent-skills
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/proletarian1966/agent-skills
+     📝 ONEFOX 本机 AI Agent 技能包：以 Grok 技能目录为源，去重后含 Claude 独有技能与 reverse-skill 子模块。
+     🏷  —
+[2026-08-21 12:49:59 UTC] [NEW]   🆕 📦 ceulea/Kme
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/ceulea/Kme
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 12:49:59 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-21 12:49:59 UTC] [UPD]   📢 📦 tranphat1357t-commits/IPA-BRIAN
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tranphat1357t-commits/IPA-BRIAN
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-21 12:49:59 UTC] [UPD]   📢 📦 sladimi92-ps4/Sladimi
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/sladimi92-ps4/Sladimi
+     📝 Ps4
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-21 12:49:59 UTC] [INFO] ============================================================
+[2026-08-21 12:49:59 UTC] [INFO] Completato — 32 nuovi, 3 aggiornati, 0 errori
+[2026-08-21 12:49:59 UTC] [INFO] ============================================================
