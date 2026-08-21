@@ -66680,3 +66680,225 @@
 [2026-08-21 12:49:59 UTC] [INFO] ============================================================
 [2026-08-21 12:49:59 UTC] [INFO] Completato — 32 nuovi, 3 aggiornati, 0 errori
 [2026-08-21 12:49:59 UTC] [INFO] ============================================================
+[2026-08-21 18:37:17 UTC] [INFO] ============================================================
+[2026-08-21 18:37:17 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-21 18:37:17 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-21 18:37:17 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-21 18:37:17 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-21 18:37:17 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-21 18:37:17 UTC] [INFO] ============================================================
+[2026-08-21 18:37:17 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-21 18:37:17 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-21 18:37:19 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-21 18:37:19 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-21 18:37:19 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-21 18:37:19 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-21 18:37:19 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-21 18:37:22 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 29 NUOVI repository:
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 SBflz0721/redteam-pentest
+     ⭐ 1  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/SBflz0721/redteam-pentest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 ganhack50/NexaSandbox
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/ganhack50/NexaSandbox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 Robertredai/cybersecurity-labs
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/Robertredai/cybersecurity-labs
+     📝 Hands-on cybersecurity labs and projects focused on SOC operations, SIEM, incide…
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 Ommniset/defender-xdr-identity
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/Ommniset/defender-xdr-identity
+     📝 Lab de investigación de endpoint (Defender XDR + Sysmon) e identidad (Entra ID, …
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 EvilHooked/EvilHooked-Dashboard
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/EvilHooked/EvilHooked-Dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 jagdeepsinghguraya/cp
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/jagdeepsinghguraya/cp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 RenderSoul2685/Blockchain-Powered-Carbon-Credit-Trading-Platform
+     ⭐ 0  🗣 Solidity  📅 2026-08-21
+     🔗 https://github.com/RenderSoul2685/Blockchain-Powered-Carbon-Credit-Trading-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 jessicaholsopple/signaltrace
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/jessicaholsopple/signaltrace
+     📝 Local-first security log analysis: ingests real logs, normalizes events, runs ex…
+     🏷  cybersecurity, fastapi, python, react, security-analytics, soc, sqlite, sysmon, threat-detection, typescript
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 9deoroo/Proyecto-Ares1337
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/9deoroo/Proyecto-Ares1337
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 GonzaloGaBa/evaluacion-riesgos-athena
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/GonzaloGaBa/evaluacion-riesgos-athena
+     📝 Informe de evaluación de riesgos corporativos (Security Risk Assessment), clasif…
+     🏷  asset-management, byod-security, cisco, cyberops, cybersecurity, grc, incident-response, iso27001, mitigation-strategies, nist-csf, risk-assessment, threat-modeling
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 JordanEsquilin/Wireshark-Lab
+     ⭐ 1  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/JordanEsquilin/Wireshark-Lab
+     📝 Wireshark Lab that had me analyze connections and discuss how to troubleshoot an…
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 FTRep01/Awesome-BlueTeaming-Operations
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/FTRep01/Awesome-BlueTeaming-Operations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 SifatHasanRimon2001/HealthChain
+     ⭐ 0  🗣 JavaScript  📅 2026-08-21
+     🔗 https://github.com/SifatHasanRimon2001/HealthChain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 helomyname234/Home-Soc-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/helomyname234/Home-Soc-Lab
+     📝 A repository to save my journey to create my first home SOC lab
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 SaberArbi/Cerberus
+     ⭐ 0  🗣 Rust  📅 2026-08-21
+     🔗 https://github.com/SaberArbi/Cerberus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 egorrsp/miniEDR
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/egorrsp/miniEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 Nakano-04/SentryGuard-0.0.1-public
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/Nakano-04/SentryGuard-0.0.1-public
+     📝 SentryGuard version 0.0.1 - Documentación pública
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 tm7601237-creator/EdreshaSah-Download
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/tm7601237-creator/EdreshaSah-Download
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 MatteRosati/Comptia-Security-Plus
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/MatteRosati/Comptia-Security-Plus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 MrAnoy/AutoSOC-Triage
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/MrAnoy/AutoSOC-Triage
+     📝 Tier 1 SOC Automation & Incident Response Framework (Python + Threat Intel APIs …
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 cyberreseller/wazuh-project
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/cyberreseller/wazuh-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 johanFuchs/acronis-tenant-manager
+     ⭐ 1  🗣 PHP  📅 2026-08-21
+     🔗 https://github.com/johanFuchs/acronis-tenant-manager
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 schalkiii/ResInject
+     ⭐ 0  🗣 Rust  📅 2026-08-21
+     🔗 https://github.com/schalkiii/ResInject
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 arradrian/HAFSE-Reference-Implementation
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/arradrian/HAFSE-Reference-Implementation
+     📝 Reference implementation of HAFSE for adaptive deep transfer learning and LOF-ba…
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 dmtsredteam-lgtm/DMATICS-Red-Team-Challenge
+     ⭐ 0  🗣 HTML  📅 2026-08-21
+     🔗 https://github.com/dmtsredteam-lgtm/DMATICS-Red-Team-Challenge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 FJ-cyberzilla/UniPass
+     ⭐ 0  🗣 Go  📅 2026-08-21
+     🔗 https://github.com/FJ-cyberzilla/UniPass
+     📝 The ultimate unique password generator 
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 ld-sb/EDRTools
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/ld-sb/EDRTools
+     📝 Collection of EDR tools
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 MrAnoy/PhishSentry
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/MrAnoy/PhishSentry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [NEW]   🆕 📦 manchalarushika/manchalarushika
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/manchalarushika/manchalarushika
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-21 18:37:22 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-21 18:37:22 UTC] [UPD]   📢 📦 echocc00/SecSight
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/echocc00/SecSight
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-21 18:37:22 UTC] [UPD]   📢 📦 n0sfs/micro-dfir
+     ⭐ 0  🗣 YARA  📅 2026-08-19
+     🔗 https://github.com/n0sfs/micro-dfir
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-21 18:37:22 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-21 18:37:22 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-21 18:37:24 UTC] [INFO]   → 25 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-21 18:37:24 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-21 18:37:24 UTC] [NEW]   🆕 📦 anurag-panda-dev/terminal-rizz
+     ⭐ 0  🗣 N/A  📅 2026-08-21
+     🔗 https://github.com/anurag-panda-dev/terminal-rizz
+     📝 The Ultimate Cross-Platform CLI Aesthetic & Flex Collection
+     🏷  —
+[2026-08-21 18:37:24 UTC] [NEW]   🆕 📦 amine2-a11y/Amine
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/amine2-a11y/Amine
+     📝 PS4 Jailbreak
+     🏷  —
+[2026-08-21 18:37:24 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-21 18:37:24 UTC] [UPD]   📢 📦 kuyk15820-cpu/TestPath
+     ⭐ 0  🗣 Swift  📅 2026-08-19
+     🔗 https://github.com/kuyk15820-cpu/TestPath
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-21 18:37:24 UTC] [UPD]   📢 📦 alexd-aero/microvm-playground
+     ⭐ 0  🗣 Python  📅 2026-08-20
+     🔗 https://github.com/alexd-aero/microvm-playground
+     📝 Disposable Linux playgrounds with a glassmorphism UI and a real browser terminal…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-21 18:37:24 UTC] [UPD]   📢 📦 amine2-a11y/Amine-ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/amine2-a11y/Amine-ps4
+     📝 Ps4 jailbreak
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-21 18:37:24 UTC] [UPD]   📢 📦 lomismous/ps4xploit
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/lomismous/ps4xploit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-21 18:37:24 UTC] [UPD]   📢 📦 tranphat1357t-commits/IPA-BRIAN
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tranphat1357t-commits/IPA-BRIAN
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-21 18:37:24 UTC] [INFO] ============================================================
+[2026-08-21 18:37:24 UTC] [INFO] Completato — 31 nuovi, 7 aggiornati, 0 errori
+[2026-08-21 18:37:24 UTC] [INFO] ============================================================
