@@ -67303,3 +67303,230 @@
 [2026-08-22 12:40:32 UTC] [INFO] ============================================================
 [2026-08-22 12:40:32 UTC] [INFO] Completato — 21 nuovi, 3 aggiornati, 0 errori
 [2026-08-22 12:40:32 UTC] [INFO] ============================================================
+[2026-08-22 18:31:49 UTC] [INFO] ============================================================
+[2026-08-22 18:31:49 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-22 18:31:49 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-22 18:31:49 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-22 18:31:49 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-22 18:31:49 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-22 18:31:49 UTC] [INFO] ============================================================
+[2026-08-22 18:31:49 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-22 18:31:49 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-22 18:31:51 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-22 18:31:51 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-22 18:31:51 UTC] [NEW]   🆕 📦 hemuh877-del/soc-telemetry-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/hemuh877-del/soc-telemetry-detection-lab
+     📝 Real-time SOC detection engine that evaluates live telemetry against SIGMA rules…
+     🏷  —
+[2026-08-22 18:31:51 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-22 18:31:51 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 7  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模…
+     🏷  dsh-plugin
+     🔄 Motivo: repo recente (5gg)
+[2026-08-22 18:31:51 UTC] [UPD]   📢 📦 lucianbv1234/AegisAV
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/lucianbv1234/AegisAV
+     📝 AEGIS Security Suite motoarele de detecție sunt scrise de la zero. 
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-22 18:31:51 UTC] [UPD]   📢 📦 RouZuoMong2003/byovd-research-backup
+     ⭐ 0  🗣 C++  📅 2026-08-22
+     🔗 https://github.com/RouZuoMong2003/byovd-research-backup
+     📝 BYOVD research materials backup (drivers/analysis/album)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-22 18:31:51 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-22 18:31:51 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-22 18:31:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 GuhPereira/CyberSentinel
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/GuhPereira/CyberSentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 basitsajidapply-stack/SOC-Investigation-CVE-2024-49138
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138
+     📝 Investigation and Incident Response report for LetsDefend Alert SOC335 (CVE-2024…
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 ties2/BBAP-Sec-Agentic-SOC
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/ties2/BBAP-Sec-Agentic-SOC
+     📝 Built to scale Detection & Response with ML in an AI-driven threat landscape.
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 JankoZed99/windows-security-triage
+     ⭐ 0  🗣 PowerShell  📅 2026-08-22
+     🔗 https://github.com/JankoZed99/windows-security-triage
+     📝 Defensive, primarily read-only PowerShell toolkit for Windows endpoint triage, p…
+     🏷  blue-team, cybersecurity, defensive-security, digital-forensics, endpoint-security, incident-response, powershell, windows
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 sricharan996/hydra
+     ⭐ 2  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/sricharan996/hydra
+     📝 🐉 HYDRA — 7-headed AI bug bounty system for opencode: hunter, verifier, reporter…
+     🏷  ai-agents, bug-bounty, llm-agents, opencode, pentesting, recon, security-tools, vulnerability-scanning
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 musa42069/threat-hunting-dashboard
+     ⭐ 0  🗣 Zeek  📅 2026-08-22
+     🔗 https://github.com/musa42069/threat-hunting-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 adityasoc/Log-Analysis-Dashboard
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/adityasoc/Log-Analysis-Dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 ixfiniti/Sentinel
+     ⭐ 0  🗣 HTML  📅 2026-08-22
+     🔗 https://github.com/ixfiniti/Sentinel
+     📝 Network Security Monitor with real-time threat detection and risk analysis
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 mervedogan272737-byte/VELTRIS
+     ⭐ 0  🗣 C#  📅 2026-08-22
+     🔗 https://github.com/mervedogan272737-byte/VELTRIS
+     📝 Kurumsal Güvenlik İstihbarat Platformu — Tehdit, Olay, Zafiyet, Varlık, Risk ve …
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 official-jahid/regix-direct-syscall-injector
+     ⭐ 0  🗣 C++  📅 2026-08-22
+     🔗 https://github.com/official-jahid/regix-direct-syscall-injector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 mozoii/Asteria
+     ⭐ 0  🗣 C  📅 2026-08-21
+     🔗 https://github.com/mozoii/Asteria
+     📝 A low-latency, local, open-source game streaming client for macOS.
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 Mario8802/opspulse
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/Mario8802/opspulse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 bfoxhound/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/bfoxhound/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 zahirco/zahir-edrees
+     ⭐ 1  🗣 HTML  📅 2026-08-22
+     🔗 https://github.com/zahirco/zahir-edrees
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 petikvx/asm-example
+     ⭐ 0  🗣 Assembly  📅 2026-08-22
+     🔗 https://github.com/petikvx/asm-example
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 nskendrovic/cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/nskendrovic/cybersecurity-portfolio
+     📝 Cybersecurity portfolio featuring sanitized case studies in Microsoft security, …
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 karabonode/Exposed-MySQL-Honeypot
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/karabonode/Exposed-MySQL-Honeypot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 Vishal970/intune-gpo-migration-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-08-22
+     🔗 https://github.com/Vishal970/intune-gpo-migration-toolkit
+     📝 Reference toolkit for Group Policy to Microsoft Intune migration: tiered setting…
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 KaioCastroXZ/Backdoor-Academico
+     ⭐ 0  🗣 C  📅 2026-08-22
+     🔗 https://github.com/KaioCastroXZ/Backdoor-Academico
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 antin3752-web/Google-AMP-Translate-Proxy-Attack-Chains
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/antin3752-web/Google-AMP-Translate-Proxy-Attack-Chains
+     📝 Technical security research and whitepaper analyzing architectural URL processin…
+     🏷  cwe-601, open-redirect, reverse-proxy, security-research, ssrf, threat-modeling, whitepaper
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 Bhandarihansraj/ThreatSynth-79
+     ⭐ 0  🗣 JavaScript  📅 2026-08-22
+     🔗 https://github.com/Bhandarihansraj/ThreatSynth-79
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 RouZuoMong2003/byovd-research-backup
+     ⭐ 0  🗣 C++  📅 2026-08-22
+     🔗 https://github.com/RouZuoMong2003/byovd-research-backup
+     📝 BYOVD research materials backup (drivers/analysis/album)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 bukantarci88-cpu/TryHackMe-Security-Engineer-Path
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/bukantarci88-cpu/TryHackMe-Security-Engineer-Path
+     📝 Personal notes, write-ups, and hands-on labs for the TryHackMe Security Engineer…
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 tarfouss3/Spinae
+     ⭐ 0  🗣 Go  📅 2026-08-22
+     🔗 https://github.com/tarfouss3/Spinae
+     📝 For educational purposes
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 cscnitc/adv_network_scanner
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/cscnitc/adv_network_scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:53 UTC] [NEW]   🆕 📦 Archer7Mi/cti-mssp-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/Archer7Mi/cti-mssp-portfolio
+     📝 Portfolio simulation of an MSSP CTI service capability with fictional client sce…
+     🏷  —
+[2026-08-22 18:31:53 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-22 18:31:53 UTC] [UPD]   📢 📦 ViceCraftsman/Usermode-Rootkit-API-Hooking
+     ⭐ 9  🗣 C#  📅 2026-08-21
+     🔗 https://github.com/ViceCraftsman/Usermode-Rootkit-API-Hooking
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-22 18:31:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-22 18:31:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-22 18:31:55 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-22 18:31:55 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-08-22 18:31:55 UTC] [NEW]   🆕 📦 imthePumpguy/v9x8y8hhs
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/imthePumpguy/v9x8y8hhs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:55 UTC] [NEW]   🆕 📦 kuyk15820-cpu/TestVIPTPPS
+     ⭐ 0  🗣 Swift  📅 2026-08-22
+     🔗 https://github.com/kuyk15820-cpu/TestVIPTPPS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:55 UTC] [NEW]   🆕 📦 ankitrawatgit/iQOO-Z9_5G-Root-GhostLock
+     ⭐ 0  🗣 C  📅 2026-08-22
+     🔗 https://github.com/ankitrawatgit/iQOO-Z9_5G-Root-GhostLock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:55 UTC] [NEW]   🆕 📦 frycm/pi-enclave
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/frycm/pi-enclave
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:55 UTC] [NEW]   🆕 📦 TheStudent00/Airlock
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/TheStudent00/Airlock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 18:31:55 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-22 18:31:55 UTC] [UPD]   📢 📦 tranphat1357t-commits/IPA-BRIAN
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tranphat1357t-commits/IPA-BRIAN
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-22 18:31:55 UTC] [UPD]   📢 📦 dliptak001/HypercubeCascade
+     ⭐ 1  🗣 C++  📅 2026-08-18
+     🔗 https://github.com/dliptak001/HypercubeCascade
+     📝 A cascaded preprocessor architecture built on the hypercube substrate: an etalon…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-22 18:31:55 UTC] [UPD]   📢 📦 kuyk15820-cpu/TestPath
+     ⭐ 0  🗣 Swift  📅 2026-08-19
+     🔗 https://github.com/kuyk15820-cpu/TestPath
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-22 18:31:55 UTC] [INFO] ============================================================
+[2026-08-22 18:31:55 UTC] [INFO] Completato — 32 nuovi, 7 aggiornati, 0 errori
+[2026-08-22 18:31:55 UTC] [INFO] ============================================================
