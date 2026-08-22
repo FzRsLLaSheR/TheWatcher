@@ -67155,3 +67155,151 @@
 [2026-08-22 06:40:57 UTC] [INFO] ============================================================
 [2026-08-22 06:40:57 UTC] [INFO] Completato — 17 nuovi, 6 aggiornati, 0 errori
 [2026-08-22 06:40:57 UTC] [INFO] ============================================================
+[2026-08-22 12:40:27 UTC] [INFO] ============================================================
+[2026-08-22 12:40:27 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-22 12:40:27 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-22 12:40:27 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-22 12:40:27 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-22 12:40:27 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-22 12:40:27 UTC] [INFO] ============================================================
+[2026-08-22 12:40:27 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-22 12:40:27 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-22 12:40:28 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-22 12:40:28 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-22 12:40:28 UTC] [NEW]   🆕 📦 RouZuoMong2003/byovd-research-backup
+     ⭐ 0  🗣 C++  📅 2026-08-22
+     🔗 https://github.com/RouZuoMong2003/byovd-research-backup
+     📝 BYOVD research materials backup (drivers/analysis/album)
+     🏷  —
+[2026-08-22 12:40:28 UTC] [NEW]   🆕 📦 lucianbv1234/AegisAV
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/lucianbv1234/AegisAV
+     📝 AEGIS Security Suite motoarele de detecție sunt scrise de la zero. 
+     🏷  —
+[2026-08-22 12:40:28 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-22 12:40:28 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 5  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模…
+     🏷  dsh-plugin
+     🔄 Motivo: repo recente (5gg)
+[2026-08-22 12:40:28 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-22 12:40:28 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-22 12:40:30 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 zahirco/zahir-edrees
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/zahirco/zahir-edrees
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 SysFr4m3r/kernelsentinel
+     ⭐ 0  🗣 Rust  📅 2026-08-22
+     🔗 https://github.com/SysFr4m3r/kernelsentinel
+     📝 Runtime detection engine for Linux post-exploitation and privilege-escalation be…
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 rhktrth/TestConnection
+     ⭐ 0  🗣 C#  📅 2026-08-22
+     🔗 https://github.com/rhktrth/TestConnection
+     📝 TestConnectionは、ネットワークのTCP/UDP/Pingによる疎通確認を行うためのソフトウェアです。
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 racoten/UltraLdr
+     ⭐ 0  🗣 C  📅 2026-08-22
+     🔗 https://github.com/racoten/UltraLdr
+     📝 Yet another fully* evasive COFF Loader
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 Kamii221/SentinalGard
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/Kamii221/SentinalGard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 Yoursel71/LocalRun
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/Yoursel71/LocalRun
+     📝 Local-only analysis viewer for Sysmon, Procmon, PCAP, Autoruns, Regshot and Fake…
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 aish19siddiqua-commits/mtechweek_05project
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/aish19siddiqua-commits/mtechweek_05project
+     📝 imulated SOC incident investigation & full IR plan (detection → containment → er…
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Executive-Protection-Platform
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/ishandutta2007/Awesome-Executive-Protection-Platform
+     📝 Top Executive Protection Platform 🌟 Star if you like it! 🌟
+     🏷  executive-protection, osint, threat-intelligence
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 GoldCyberCommand/windows-evil-database
+     ⭐ 0  🗣 HTML  📅 2026-08-22
+     🔗 https://github.com/GoldCyberCommand/windows-evil-database
+     📝 224 known-malicious Windows behaviours mapped to MITRE ATT&CK, each with what to…
+     🏷  blue-team, detection-engineering, dfir, mitre-attack, siem, soc, sysmon, threat-detection, threat-hunting, windows-security
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 mu7alovicloud-source/cybershield
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/mu7alovicloud-source/cybershield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 faizan-manazir/AI-Based-insider-threat-detector
+     ⭐ 1  🗣 TypeScript  📅 2026-08-22
+     🔗 https://github.com/faizan-manazir/AI-Based-insider-threat-detector
+     📝 🔐 AI-powered Insider Threat Detection System using Rule-Based Detection and Isol…
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 Arvind29/api-security-guide
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/Arvind29/api-security-guide
+     📝 Practical introduction to APIs for security automation
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 planmarks/Skimmer-Detector-PRO
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/planmarks/Skimmer-Detector-PRO
+     📝 ESP32 Based Wireless Skimmer Detector
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 adulsaa-q/ai-command-center
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/adulsaa-q/ai-command-center
+     📝 A field-tested operating model, governance framework, and memory architecture fo…
+     🏷  ai-agents, architecture, autonomous-agents, claude-code, gemini, governance, multi-agent, prompt-engineering, sqlite
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 NIBRAS19/90-Day-Cybersecurity-Transition-Day-by-Day-Study-Plan
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/NIBRAS19/90-Day-Cybersecurity-Transition-Day-by-Day-Study-Plan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 adityapatil-p/phishing-incident-response
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/adityapatil-p/phishing-incident-response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 12:40:30 UTC] [NEW]   🆕 📦 yasir27uk/ULTIMATE-CYBERSECURITY-MASTER-GUIDE
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/yasir27uk/ULTIMATE-CYBERSECURITY-MASTER-GUIDE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 12:40:30 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-22 12:40:30 UTC] [UPD]   📢 📦 egorrsp/miniEDR
+     ⭐ 0  🗣 C  📅 2026-08-21
+     🔗 https://github.com/egorrsp/miniEDR
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-22 12:40:30 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-22 12:40:30 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-22 12:40:32 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-22 12:40:32 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-22 12:40:32 UTC] [NEW]   🆕 📦 tinysweetUwU/Free-Fire-External-DarkSword
+     ⭐ 0  🗣 Objective-C  📅 2026-08-22
+     🔗 https://github.com/tinysweetUwU/Free-Fire-External-DarkSword
+     📝 DarkSword exploit cheat for FF, only iOS
+     🏷  —
+[2026-08-22 12:40:32 UTC] [NEW]   🆕 📦 pleasantsecto/valorant-vanguard-bypass-2026
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/pleasantsecto/valorant-vanguard-bypass-2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 12:40:32 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-22 12:40:32 UTC] [UPD]   📢 📦 tranphat1357t-commits/IPA-BRIAN
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tranphat1357t-commits/IPA-BRIAN
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-22 12:40:32 UTC] [INFO] ============================================================
+[2026-08-22 12:40:32 UTC] [INFO] Completato — 21 nuovi, 3 aggiornati, 0 errori
+[2026-08-22 12:40:32 UTC] [INFO] ============================================================
