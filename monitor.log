@@ -67009,3 +67009,149 @@
 [2026-08-22 01:17:10 UTC] [INFO] ============================================================
 [2026-08-22 01:17:10 UTC] [INFO] Completato — 14 nuovi, 2 aggiornati, 0 errori
 [2026-08-22 01:17:10 UTC] [INFO] ============================================================
+[2026-08-22 06:40:51 UTC] [INFO] ============================================================
+[2026-08-22 06:40:51 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-22 06:40:51 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-22 06:40:51 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-22 06:40:51 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-22 06:40:51 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-22 06:40:51 UTC] [INFO] ============================================================
+[2026-08-22 06:40:51 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-22 06:40:51 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-22 06:40:52 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-22 06:40:52 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-22 06:40:52 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-22 06:40:52 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 5  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模…
+     🏷  dsh-plugin
+     🔄 Motivo: repo recente (4gg)
+[2026-08-22 06:40:52 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-22 06:40:52 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-22 06:40:55 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 Tena-Sen/WeightScale-workspace
+     ⭐ 0  🗣 C  📅 2026-08-21
+     🔗 https://github.com/Tena-Sen/WeightScale-workspace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 JophielArevalo1998/JophielArevalo1998
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/JophielArevalo1998/JophielArevalo1998
+     📝 Cybersecurity Master's grad building a SOC/Blue Team career. SIEM, EDR, DFIR & t…
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 JophielArevalo1998/SOC-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/JophielArevalo1998/SOC-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 trevorlaing/sentinel-edr
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/trevorlaing/sentinel-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 huzaifah-cyber/threat-hunt-rocky-clinic
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/huzaifah-cyber/threat-hunt-rocky-clinic
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 guswl03/chainfence
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/guswl03/chainfence
+     📝 Node.js 오픈소스 패키지 위험 행동 추적 시스템 — 민감 파일 접근·명령 실행·외부 통신을 일으킨 npm 패키지를 찾고 eBPF로 교차검증
+     🏷  attribution, dependency-security, ebpf, nodejs, npm, runtime-security, software-supply-chain, supply-chain-security
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 joel26832344/edrrxx
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/joel26832344/edrrxx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 Syedraihaan/TIcketX
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/Syedraihaan/TIcketX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 abhinavkishor9/windows-dfir-lab58-in-memory-execution-investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/abhinavkishor9/windows-dfir-lab58-in-memory-execution-investigation
+     📝 Windows DFIR investigation of simulated in-memory processing using PowerShell, S…
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Attack-Path-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/ishandutta2007/Awesome-Attack-Path-Analysis
+     📝 Top Attack Path Analysis 🌟 Star if you like it! 🌟
+     🏷  attack-path-analysis, exposure-management, security-graph
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 racoten/UltraLdr
+     ⭐ 0  🗣 C  📅 2026-08-22
+     🔗 https://github.com/racoten/UltraLdr
+     📝 Yet another evasive COFF Loader
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 fakeminjun7321/fakeminjun-platform
+     ⭐ 0  🗣 JavaScript  📅 2026-08-21
+     🔗 https://github.com/fakeminjun7321/fakeminjun-platform
+     📝 Personal AI research platform for physics, politics, and international affairs
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 musichen/software-classification-system
+     ⭐ 0  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/musichen/software-classification-system
+     📝 Software classification system
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 trueterraxtrrx/KRYNEX-Horizon
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/trueterraxtrrx/KRYNEX-Horizon
+     📝 Defensive external attack surface management: subdomain discovery, DNS/tech fing…
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 rmhowe425/EDR-Killer
+     ⭐ 0  🗣 C  📅 2026-08-22
+     🔗 https://github.com/rmhowe425/EDR-Killer
+     📝 Linux kernel module used to reject network containment requests
+     🏷  —
+[2026-08-22 06:40:55 UTC] [NEW]   🆕 📦 thamothara7/HP-HyperProtection
+     ⭐ 0  🗣 Python  📅 2026-08-21
+     🔗 https://github.com/thamothara7/HP-HyperProtection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-22 06:40:55 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-22 06:40:55 UTC] [UPD]   📢 📦 WallFacerJ/endomorph
+     ⭐ 0  🗣 TypeScript  📅 2026-08-21
+     🔗 https://github.com/WallFacerJ/endomorph
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-22 06:40:55 UTC] [UPD]   📢 📦 CheetahAwaken/Windows-Screen-Locker-WinForms
+     ⭐ 0  🗣 C#  📅 2026-08-21
+     🔗 https://github.com/CheetahAwaken/Windows-Screen-Locker-WinForms
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-22 06:40:55 UTC] [UPD]   📢 📦 ViceCraftsman/Usermode-Rootkit-API-Hooking
+     ⭐ 0  🗣 C#  📅 2026-08-21
+     🔗 https://github.com/ViceCraftsman/Usermode-Rootkit-API-Hooking
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-22 06:40:55 UTC] [UPD]   📢 📦 dotlinux26/protectme
+     ⭐ 1  🗣 C  📅 2026-08-21
+     🔗 https://github.com/dotlinux26/protectme
+     📝 A kernel-level safety interlock for Linux
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-22 06:40:55 UTC] [UPD]   📢 📦 1366214813/shanyun-app
+     ⭐ 0  🗣 Java  📅 2026-08-20
+     🔗 https://github.com/1366214813/shanyun-app
+     📝 Warehouse inventory app with label printing (Expo RN)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-22 06:40:55 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-22 06:40:55 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-22 06:40:57 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-22 06:40:57 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-22 06:40:57 UTC] [NEW]   🆕 📦 dfwamg-bot/kernel-injector
+     ⭐ 1  🗣 N/A  📅 2026-08-22
+     🔗 https://github.com/dfwamg-bot/kernel-injector
+     📝 A new kernel dll injector, currently upon release works win 10 and 11 for all an…
+     🏷  dll-loader, eac-injector, inject, injector-eac, injector-games, injector-tool, internal-loader, kernel-injector, kernel-injector-be-eac-driver, windows-kernel
+[2026-08-22 06:40:57 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-22 06:40:57 UTC] [INFO] ============================================================
+[2026-08-22 06:40:57 UTC] [INFO] Completato — 17 nuovi, 6 aggiornati, 0 errori
+[2026-08-22 06:40:57 UTC] [INFO] ============================================================
