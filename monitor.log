@@ -68117,3 +68117,276 @@
 [2026-08-23 12:41:26 UTC] [INFO] ============================================================
 [2026-08-23 12:41:26 UTC] [INFO] Completato — 26 nuovi, 3 aggiornati, 0 errori
 [2026-08-23 12:41:26 UTC] [INFO] ============================================================
+[2026-08-23 18:30:53 UTC] [INFO] ============================================================
+[2026-08-23 18:30:53 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-23 18:30:53 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-23 18:30:53 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-23 18:30:53 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-23 18:30:53 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-23 18:30:53 UTC] [INFO] ============================================================
+[2026-08-23 18:30:53 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-23 18:30:53 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-23 18:30:55 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-23 18:30:55 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-23 18:30:55 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-23 18:30:55 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-23 18:30:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-23 18:30:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 m0hx65/HackSim
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/m0hx65/HackSim
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 Lakunsin/Automated-Real-Time-Mini-Security-Triage-Station
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/Lakunsin/Automated-Real-Time-Mini-Security-Triage-Station
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 Soumya-CSE/ioc-enrichment-tool
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/Soumya-CSE/ioc-enrichment-tool
+     📝 A command-line tool for enriching Indicators of Compromise (IPs, domains, URLs, …
+     🏷  analysis, cybersecurity, hash, ioc, soc, url
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 NevinAugustine/SecureGuard-v5-pro
+     ⭐ 1  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/NevinAugustine/SecureGuard-v5-pro
+     📝 SecureGuard Pro v5.3 is a lightweight, privacy-focused EDR tool for ransomware d…
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 23521328/IDPS
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/23521328/IDPS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 Vedant2330/Vedant2330
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/Vedant2330/Vedant2330
+     📝 Vedant Bodekar - Personal GitHub Profile
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 yxdooo/lensint
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/yxdooo/lensint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 coderunner786/SAT-SA-Platform
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/coderunner786/SAT-SA-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 OstadRezaulKarimRedTeamer/OstadSSRAT
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/OstadRezaulKarimRedTeamer/OstadSSRAT
+     📝 Python based backdoor that uses Gmail to exfiltrate data as an e-mail attachment…
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 kaviepriyaramu/threat-intel-aggregator
+     ⭐ 0  🗣 JavaScript  📅 2026-08-23
+     🔗 https://github.com/kaviepriyaramu/threat-intel-aggregator
+     📝 Non-AI Threat Intelligence Aggregator — parses IOCs from CSV/TXT/JSON/STIX feeds…
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 punchhhhh/edream-ai-photo-web
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/punchhhhh/edream-ai-photo-web
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 scxtttyy/dsada
+     ⭐ 0  🗣 Lua  📅 2026-08-23
+     🔗 https://github.com/scxtttyy/dsada
+     📝 dsds
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 hackerstchad1/AI_RED_TEAMING
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/hackerstchad1/AI_RED_TEAMING
+     📝 Bienvenue dans **AI RED-TEAM**, une ressource encyclopédique, stylisée et ultra-…
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 Proilmo/Windows-malware-detection-tool
+     ⭐ 1  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/Proilmo/Windows-malware-detection-tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 RevantVishwakarma/ThreatLens
+     ⭐ 1  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/RevantVishwakarma/ThreatLens
+     📝 Multi-source threat intelligence and IOC investigation platform with evidence no…
+     🏷  abuseipdb, alienvault-otx, blue-team, cybersecurity, incident-response, ioc, malwarebazaar, python, soc, threat-hunting, threat-intelligence, urlhaus, virustotal
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 cuitzeno/my-knowledgebase
+     ⭐ 0  🗣 HTML  📅 2026-08-23
+     🔗 https://github.com/cuitzeno/my-knowledgebase
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 EDRIANNNNNN/SILOG-NI-EDRIAN
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/EDRIANNNNNN/SILOG-NI-EDRIAN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 flayvergabriel30-arch/aurora
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/flayvergabriel30-arch/aurora
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 maduhu88/kali-soc-deployment
+     ⭐ 0  🗣 Jinja  📅 2026-08-23
+     🔗 https://github.com/maduhu88/kali-soc-deployment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 CesarSann/CesarSann
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/CesarSann/CesarSann
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 victoroliveiracosta/Vul
+     ⭐ 0  🗣 Kotlin  📅 2026-08-23
+     🔗 https://github.com/victoroliveiracosta/Vul
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 nan14dhu06-dot/Security-Log-investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/nan14dhu06-dot/Security-Log-investigation
+     📝 Analyze synthetic authentication logs to detect brute-force and password-sprayin…
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 ashuchris/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/ashuchris/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 neweryuop-SD/Remote-Trojan-program-
+     ⭐ 1  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/neweryuop-SD/Remote-Trojan-program-
+     📝 通过内网穿透和木马程序进行远程操控
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 EshwarPunna/HiveProDEV
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/EshwarPunna/HiveProDEV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 Islambasha7/cybersecurity-interview-questions
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/Islambasha7/cybersecurity-interview-questions
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 oscardelacuesta/CTOManager-Pro-Releases
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/oscardelacuesta/CTOManager-Pro-Releases
+     📝 Distribución oficial de CTO Manager Pro para Windows
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 MDourado86/Windows11-Hardening-Scripts
+     ⭐ 0  🗣 PowerShell  📅 2026-08-23
+     🔗 https://github.com/MDourado86/Windows11-Hardening-Scripts
+     📝 PowerShell script for Wazuh Agent installation and Windows 11 hardening, adaptab…
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 bulkinator/SIEM-EDR-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/bulkinator/SIEM-EDR-Investigation
+     📝 SOC investigation project using Splunk, Elastic, Sysmon, and Windows Event Logs …
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 awais-ali-dev/wazuh-endpoint-security-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/awais-ali-dev/wazuh-endpoint-security-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 kamilxgriefer/griefer-security-platform
+     ⭐ 0  🗣 Go  📅 2026-08-23
+     🔗 https://github.com/kamilxgriefer/griefer-security-platform
+     📝 GRIEFER — Graph-based Resilient Intelligence Engine for Enforcement & Response. …
+     🏷  blue-team, cybersecurity, golang, incident-response, opa, security-automation, security-graph, siem, soc, threat-detection, typescript, xdr, zero-trust
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 lameiro0x/lolbin-command-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-08-23
+     🔗 https://github.com/lameiro0x/lolbin-command-lab
+     📝 CLI de laboratorio para generar comandos de administración, diagnóstico y respue…
+     🏷  bash, blue-team, cli, cybersecurity, incident-response, lolbins, pentest, powershell, security-tools, threat-hunting
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 fedxgibson/zero-trust-poc
+     ⭐ 0  🗣 Shell  📅 2026-08-23
+     🔗 https://github.com/fedxgibson/zero-trust-poc
+     📝 Proof of concept demonstrating zero trust network concepts
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 rshreya28/rshreya28-Government-Digital-Services-Incident-Response-Plan
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/rshreya28/rshreya28-Government-Digital-Services-Incident-Response-Plan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 NeiveZ/Swiss-Army-knife
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/NeiveZ/Swiss-Army-knife
+     📝 Tools for reconnaissance, enumeration, credential validation, Kerberos, lateral …
+     🏷  c, cybersecurity, cybersecurity-tools, pentest, pentest-tool, pentesting, pentesting-tools, pthon, python, redteam, redteam-tools, ruby, swissarmyknife
+[2026-08-23 18:30:57 UTC] [NEW]   🆕 📦 Wallme/network-analysis-wireshark
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/Wallme/network-analysis-wireshark
+     📝 Network Analysis using Wireshark - Project for analyzing network traffic, protoc…
+     🏷  —
+[2026-08-23 18:30:57 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-23 18:30:57 UTC] [UPD]   📢 📦 slastra/esp32-scanavenger-bridge
+     ⭐ 0  🗣 C  📅 2026-08-23
+     🔗 https://github.com/slastra/esp32-scanavenger-bridge
+     📝 ESP32 firmware bridging a ScanAvenger SA1100 barcode scanner from BLE to MQTT ov…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-23 18:30:57 UTC] [UPD]   📢 📦 n0sfs/micro-dfir
+     ⭐ 0  🗣 YARA  📅 2026-08-19
+     🔗 https://github.com/n0sfs/micro-dfir
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-23 18:30:57 UTC] [UPD]   📢 📦 eLmincfrLu/T--3
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/eLmincfrLu/T--3
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-23 18:30:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-23 18:30:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-23 18:30:59 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-23 18:30:59 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-23 18:30:59 UTC] [NEW]   🆕 📦 yongshu085-alt/LinEnum-python
+     ⭐ 1  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/yongshu085-alt/LinEnum-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:59 UTC] [NEW]   🆕 📦 kuyk15820-cpu/svqios
+     ⭐ 0  🗣 Swift  📅 2026-08-23
+     🔗 https://github.com/kuyk15820-cpu/svqios
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:59 UTC] [NEW]   🆕 📦 0xkernelghost/Windows_Kernel_Exploitation
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/0xkernelghost/Windows_Kernel_Exploitation
+     📝 Just Learn
+     🏷  —
+[2026-08-23 18:30:59 UTC] [NEW]   🆕 📦 msh1307/dbgia
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/msh1307/dbgia
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 18:30:59 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-23 18:30:59 UTC] [UPD]   📢 📦 kuyk15820-cpu/DONEPATCH
+     ⭐ 0  🗣 Swift  📅 2026-08-23
+     🔗 https://github.com/kuyk15820-cpu/DONEPATCH
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-23 18:30:59 UTC] [UPD]   📢 📦 frycm/pi-enclave
+     ⭐ 0  🗣 TypeScript  📅 2026-08-22
+     🔗 https://github.com/frycm/pi-enclave
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-23 18:30:59 UTC] [UPD]   📢 📦 amine2-a11y/Amine-ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-08-20
+     🔗 https://github.com/amine2-a11y/Amine-ps4
+     📝 Ps4 jailbreak
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-23 18:30:59 UTC] [UPD]   📢 📦 ngdungaccff1001-lgtm/appmeomeo
+     ⭐ 0  🗣 Swift  📅 2026-08-23
+     🔗 https://github.com/ngdungaccff1001-lgtm/appmeomeo
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-23 18:30:59 UTC] [UPD]   📢 📦 soniciso1/LuaPSX
+     ⭐ 5  🗣 C  📅 2026-08-23
+     🔗 https://github.com/soniciso1/LuaPSX
+     📝 PlayStation emulator for PS5 via Luac0re -- no kernel exploit. Disc images over …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-23 18:30:59 UTC] [INFO] ============================================================
+[2026-08-23 18:30:59 UTC] [INFO] Completato — 40 nuovi, 8 aggiornati, 0 errori
+[2026-08-23 18:30:59 UTC] [INFO] ============================================================
