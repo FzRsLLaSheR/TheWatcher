@@ -67754,3 +67754,193 @@
 [2026-08-23 01:24:02 UTC] [INFO] ============================================================
 [2026-08-23 01:24:02 UTC] [INFO] Completato — 23 nuovi, 14 aggiornati, 0 errori
 [2026-08-23 01:24:02 UTC] [INFO] ============================================================
+[2026-08-23 06:41:47 UTC] [INFO] ============================================================
+[2026-08-23 06:41:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-23 06:41:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-23 06:41:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-23 06:41:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-23 06:41:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-23 06:41:47 UTC] [INFO] ============================================================
+[2026-08-23 06:41:47 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-23 06:41:47 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-23 06:41:48 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-23 06:41:48 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-23 06:41:48 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-23 06:41:48 UTC] [UPD]   📢 📦 SeaOf0/dsh-redteam-model
+     ⭐ 10  🗣 Python  📅 2026-08-17
+     🔗 https://github.com/SeaOf0/dsh-redteam-model
+     📝 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模…
+     🏷  dsh-plugin
+     🔄 Motivo: repo recente (5gg)
+[2026-08-23 06:41:48 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-23 06:41:48 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-23 06:41:51 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 taigame096/Defender-Goosh
+     ⭐ 0  🗣 Rust  📅 2026-08-23
+     🔗 https://github.com/taigame096/Defender-Goosh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 merterakinci/sophos-edr-endpoint-security
+     ⭐ 1  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/merterakinci/sophos-edr-endpoint-security
+     📝 "Sophos EDR administration — custom endpoint policies,     threat detection, inc…
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 iakshayrathee/AI-Powered-Cyber-Risk-Assistant
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/iakshayrathee/AI-Powered-Cyber-Risk-Assistant
+     📝 An explainable, correlation-driven security risk engine. It ingests TawasolPay's…
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 slastra/esp32-scanavenger-bridge
+     ⭐ 0  🗣 C  📅 2026-08-23
+     🔗 https://github.com/slastra/esp32-scanavenger-bridge
+     📝 ESP32 firmware bridging a ScanAvenger SA1100 barcode scanner from BLE to MQTT ov…
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 Kranthikumar06/ascend-round-2
+     ⭐ 0  🗣 TypeScript  📅 2026-08-23
+     🔗 https://github.com/Kranthikumar06/ascend-round-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 ArnavLifelessCoder/100--polyester-Acc
+     ⭐ 1  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/ArnavLifelessCoder/100--polyester-Acc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 mhen2000/edrzfh
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/mhen2000/edrzfh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 shitalbasnet/Windows-Registry-Monitoring-System
+     ⭐ 0  🗣 Python  📅 2026-08-22
+     🔗 https://github.com/shitalbasnet/Windows-Registry-Monitoring-System
+     📝 A Python-based Windows Registry Monitoring System that detects and logs suspicio…
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 ER723/detection-as-code
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/ER723/detection-as-code
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 asko123/c2
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/asko123/c2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cybersecurity
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/ishandutta2007/Awesome-Cybersecurity
+     📝 Top Cybersecurity 🌟 Star if you like it! 🌟
+     🏷  awesome-list, cybersecurity, security-tools
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 bansal-aryan/turbulence-heatmap
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/bansal-aryan/turbulence-heatmap
+     📝 Maps expected turbulence along a US domestic flight's typical route using histor…
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 tuvodev/mythra-agent
+     ⭐ 1  🗣 Shell  📅 2026-08-22
+     🔗 https://github.com/tuvodev/mythra-agent
+     📝 A research-grade collection of 1,000+ cognitive skills & multi-agent plugins for…
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 bracdani/soc-challenge-acme
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/bracdani/soc-challenge-acme
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 jeshu1161-tech/vulnerability-triage
+     ⭐ 0  🗣 JavaScript  📅 2026-08-23
+     🔗 https://github.com/jeshu1161-tech/vulnerability-triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 tdfofie/tdfofie
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/tdfofie/tdfofie
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 DanielTolczyk/zero-trust-pdp
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/DanielTolczyk/zero-trust-pdp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 abhinavkishor9/windows-dfir-lab59-suspicious-dll-name-investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/abhinavkishor9/windows-dfir-lab59-suspicious-dll-name-investigation
+     📝 Windows DFIR investigation of suspicious DLL naming and masquerading using file …
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 thomas135305/edrsxe
+     ⭐ 0  🗣 N/A  📅 2026-08-23
+     🔗 https://github.com/thomas135305/edrsxe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 saheli56/io_uring_guard
+     ⭐ 0  🗣 C  📅 2026-08-22
+     🔗 https://github.com/saheli56/io_uring_guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 inhyeoklee/xdr-boost-macos
+     ⭐ 0  🗣 Swift  📅 2026-08-23
+     🔗 https://github.com/inhyeoklee/xdr-boost-macos
+     📝 Native macOS menu-bar utility that maps SDR desktop content into Liquid Retina X…
+     🏷  brightness, hdr, macbook-pro, macos, metal, swift, xdr
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 Sudeep72/sentinel-guard
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/Sudeep72/sentinel-guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:51 UTC] [NEW]   🆕 📦 salmoriadev/aegisir
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/salmoriadev/aegisir
+     📝 Evidence-grounded incident response platform with deterministic analysis, option…
+     🏷  —
+[2026-08-23 06:41:51 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-23 06:41:51 UTC] [UPD]   📢 📦 campisimaxi98-lgtm/nexora-guard
+     ⭐ 0  🗣 Dart  📅 2026-08-22
+     🔗 https://github.com/campisimaxi98-lgtm/nexora-guard
+     📝 NEXORA GUARD - Sensor forense de diagnostico para Android e iOS. Cero telemetria…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-23 06:41:51 UTC] [UPD]   📢 📦 rhktrth/TestConnection
+     ⭐ 0  🗣 C#  📅 2026-08-22
+     🔗 https://github.com/rhktrth/TestConnection
+     📝 TestConnectionは、ネットワークのTCP/UDP/Pingによる疎通確認を行うためのソフトウェアです。
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-23 06:41:51 UTC] [UPD]   📢 📦 Ashokkumar-cyber/INCIDENT-RESPONSE
+     ⭐ 0  🗣 TypeScript  📅 2026-08-22
+     🔗 https://github.com/Ashokkumar-cyber/INCIDENT-RESPONSE
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-23 06:41:51 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-23 06:41:51 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-23 06:41:53 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-23 06:41:53 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-23 06:41:53 UTC] [NEW]   🆕 📦 oibog/ThreeOneOSFive
+     ⭐ 0  🗣 Swift  📅 2026-08-23
+     🔗 https://github.com/oibog/ThreeOneOSFive
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:53 UTC] [NEW]   🆕 📦 kuyk15820-cpu/DONEPATCH
+     ⭐ 0  🗣 Swift  📅 2026-08-23
+     🔗 https://github.com/kuyk15820-cpu/DONEPATCH
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:53 UTC] [NEW]   🆕 📦 saheli56/io_uring_guard
+     ⭐ 0  🗣 C  📅 2026-08-22
+     🔗 https://github.com/saheli56/io_uring_guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:53 UTC] [NEW]   🆕 📦 Balistic123/P2JB-45-Minutes
+     ⭐ 0  🗣 JavaScript  📅 2026-08-23
+     🔗 https://github.com/Balistic123/P2JB-45-Minutes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-23 06:41:53 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-23 06:41:53 UTC] [UPD]   📢 📦 tranphat1357t-commits/IPA-BRIAN
+     ⭐ 0  🗣 Swift  📅 2026-08-20
+     🔗 https://github.com/tranphat1357t-commits/IPA-BRIAN
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-23 06:41:53 UTC] [INFO] ============================================================
+[2026-08-23 06:41:53 UTC] [INFO] Completato — 27 nuovi, 5 aggiornati, 0 errori
+[2026-08-23 06:41:53 UTC] [INFO] ============================================================
