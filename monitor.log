@@ -68583,3 +68583,119 @@
 [2026-08-24 01:21:52 UTC] [INFO] ============================================================
 [2026-08-24 01:21:52 UTC] [INFO] Completato — 30 nuovi, 3 aggiornati, 0 errori
 [2026-08-24 01:21:52 UTC] [INFO] ============================================================
+[2026-08-24 07:00:02 UTC] [INFO] ============================================================
+[2026-08-24 07:00:02 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-24 07:00:02 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-24 07:00:02 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-24 07:00:02 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-24 07:00:02 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-24 07:00:02 UTC] [INFO] ============================================================
+[2026-08-24 07:00:02 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-24 07:00:02 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-24 07:00:04 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-24 07:00:04 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-24 07:00:04 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-24 07:00:04 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-24 07:00:04 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-24 07:00:07 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 Anamitra-Sarkar/FusionUncertaintyNet
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/Anamitra-Sarkar/FusionUncertaintyNet
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 santisbon/iphonebridge
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/santisbon/iphonebridge
+     📝 A native Linux desktop bridge for a paired iPhone over Bluetooth. Hard fork of i…
+     🏷  iphone, linux
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 tjakrabirawa-id/tjakra-ap-agent
+     ⭐ 0  🗣 Go  📅 2026-08-23
+     🔗 https://github.com/tjakrabirawa-id/tjakra-ap-agent
+     📝 Patrol collector and command runner for the tjakra-ap platform (Defence and Resp…
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 An0nUD4Y/PoolParty-BOF
+     ⭐ 0  🗣 C  📅 2026-08-24
+     🔗 https://github.com/An0nUD4Y/PoolParty-BOF
+     📝 Cobalt Strike BOF to perform PoolParty injection. It supports variants 4 to 8. E…
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 SunilTheTech/ThreatSense
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/SunilTheTech/ThreatSense
+     📝 Banking & Fintech Security Platform
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 l-brown2756/edrewp
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/l-brown2756/edrewp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 FelipeFarfaaan/Esp32-MicroPhython
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/FelipeFarfaaan/Esp32-MicroPhython
+     📝 Actividad 1
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 Harsh1234-devil/Network-vulnerability-exploitation
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/Harsh1234-devil/Network-vulnerability-exploitation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 MBergmanSec/bluepeak-soc-environment
+     ⭐ 0  🗣 HTML  📅 2026-08-24
+     🔗 https://github.com/MBergmanSec/bluepeak-soc-environment
+     📝 Simulated enterprise SOC environment for hands-on security monitoring, Splunk in…
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 jarvist0254/ftcc-professional-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/jarvist0254/ftcc-professional-portfolio
+     📝 Public cybersecurity portfolio for FTCC coursework and professional review
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 hdiaz16/codeguard
+     ⭐ 0  🗣 Go  📅 2026-08-24
+     🔗 https://github.com/hdiaz16/codeguard
+     📝 CodeGuard — agente local de análisis pre-commit para Windows: bloquea sólo lo qu…
+     🏷  devsecops, git-hooks, go, pre-commit, security, static-analysis, windows
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 maykonlong/blindar-claude
+     ⭐ 0  🗣 Shell  📅 2026-08-24
+     🔗 https://github.com/maykonlong/blindar-claude
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 geofreaks/cybsec-ai-community
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/geofreaks/cybsec-ai-community
+     📝 Public community feedback, docs, roadmap, and beta issue tracking for CybSec-AI
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 h4cknain/SOC-Role-in-Blue-Team
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/h4cknain/SOC-Role-in-Blue-Team
+     📝 Overview  This repository contains my notes and key takeaways from the SOC Role …
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 legrado/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/legrado/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 muzaffarjutt470-star/Ransomware-Detection-Framework
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/muzaffarjutt470-star/Ransomware-Detection-Framework
+     📝 A defensive ransomware detection framework that monitors file-system activity an…
+     🏷  —
+[2026-08-24 07:00:07 UTC] [NEW]   🆕 📦 Koushik21physics/ed_ring
+     ⭐ 0  🗣 C++  📅 2026-08-24
+     🔗 https://github.com/Koushik21physics/ed_ring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-24 07:00:07 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-24 07:00:07 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-24 07:00:07 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-24 07:00:09 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-24 07:00:09 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-24 07:00:09 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-24 07:00:09 UTC] [UPD]   📢 📦 rikterskale/StealthyPrivesc
+     ⭐ 0  🗣 Rust  📅 2026-08-18
+     🔗 https://github.com/rikterskale/StealthyPrivesc
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-24 07:00:09 UTC] [INFO] ============================================================
+[2026-08-24 07:00:09 UTC] [INFO] Completato — 17 nuovi, 1 aggiornati, 0 errori
+[2026-08-24 07:00:09 UTC] [INFO] ============================================================
