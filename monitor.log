@@ -69129,3 +69129,184 @@
 [2026-08-24 18:40:58 UTC] [INFO] ============================================================
 [2026-08-24 18:40:58 UTC] [INFO] Completato — 31 nuovi, 7 aggiornati, 0 errori
 [2026-08-24 18:40:58 UTC] [INFO] ============================================================
+[2026-08-25 01:19:08 UTC] [INFO] ============================================================
+[2026-08-25 01:19:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-25 01:19:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-25 01:19:08 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-25 01:19:08 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-25 01:19:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-25 01:19:08 UTC] [INFO] ============================================================
+[2026-08-25 01:19:08 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-25 01:19:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-25 01:19:10 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-25 01:19:10 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-25 01:19:10 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-25 01:19:10 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-25 01:19:10 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-25 01:19:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 ASMODAX-OPS/threat-hunting-t1059
+     ⭐ 0  🗣 YARA  📅 2026-08-25
+     🔗 https://github.com/ASMODAX-OPS/threat-hunting-t1059
+     📝 Threat hunting de T1059 (Command & Scripting Interpreter) con Elastic, Sigma y Y…
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 BrockSamson777/threat-hunting-scenario-tor-
+     ⭐ 0  🗣 N/A  📅 2026-08-25
+     🔗 https://github.com/BrockSamson777/threat-hunting-scenario-tor-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 ikarus981/winenum
+     ⭐ 0  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/ikarus981/winenum
+     📝 Remote Windows enumration covering EDR Defender LSASS PPL HVCI LAPS and hardenin…
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 rapabru/terminal-ephemeral-analyzer
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/rapabru/terminal-ephemeral-analyzer
+     📝 Real-time Windows process monitor for short-lived/ephemeral malware activity, bu…
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 GabrielAlex01/S3-Injector
+     ⭐ 0  🗣 TypeScript  📅 2026-08-24
+     🔗 https://github.com/GabrielAlex01/S3-Injector
+     📝 Dispositivo USB composto (HID + CDC) baseado em ESP32-S3 para exercicios e estud…
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 Cmdmac/ESP32-GameController-Receiver
+     ⭐ 0  🗣 C++  📅 2026-08-24
+     🔗 https://github.com/Cmdmac/ESP32-GameController-Receiver
+     📝 ESP32游戏手柄接收器
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 malekmlzz/sentinel-log-analyzer
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/malekmlzz/sentinel-log-analyzer
+     📝 Professional Python security log analyzer with anomaly detection, brute-force de…
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Threat-Intelligence-Management
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/ishandutta2007/Awesome-Threat-Intelligence-Management
+     📝 Top Threat Intelligence Management 🌟 Star if you like it! 🌟
+     🏷  cyber-threat-intelligence, threat-intelligence, threat-intelligence-platform
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 projectsadameyd/CyberOpsAI
+     ⭐ 0  🗣 Makefile  📅 2026-08-24
+     🔗 https://github.com/projectsadameyd/CyberOpsAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 Premay/Testing
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/Premay/Testing
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 samueldonkor02-collab/Threat-Feed-Automation-Scripting-Lab-Kali-Linux-iptables-Malware-Remediation-
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/samueldonkor02-collab/Threat-Feed-Automation-Scripting-Lab-Kali-Linux-iptables-Malware-Remediation-
+     📝 Automated threat feed response using Bash — blocks malicious IPs via iptables an…
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 kolya5544/TelegramScreenshot
+     ⭐ 1  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/kolya5544/TelegramScreenshot
+     📝 Ultimate screenshot freedom for Telegram Desktop on Windows.
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 jtryba/OGX-Mini-2026
+     ⭐ 0  🗣 C++  📅 2026-08-24
+     🔗 https://github.com/jtryba/OGX-Mini-2026
+     📝 OGX-Mini 2026 with GP21 RGB support for Pico W and Pico 2 W
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 capimrosacha/malware-simulation-python
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/capimrosacha/malware-simulation-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Threat-Intelligence-Platform
+     ⭐ 1  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/ishandutta2007/Awesome-Threat-Intelligence-Platform
+     📝 Top Threat Intelligence Platform (TIP) 🌟 Star if you like it! 🌟
+     🏷  cyber-threat-intelligence, threat-intelligence, threat-intelligence-platform
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 hbngwu/alphauniverse
+     ⭐ 0  🗣 Svelte  📅 2026-08-24
+     🔗 https://github.com/hbngwu/alphauniverse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 ErzenXz/aegis
+     ⭐ 0  🗣 Go  📅 2026-08-24
+     🔗 https://github.com/ErzenXz/aegis
+     📝 Self-hosted cross-platform endpoint defense with deterministic policy and constr…
+     🏷  ai-agent, cybersecurity, edr, endpoint-security, golang, security, self-hosted, zig
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 eshwarpunna98/HiveProDEV
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/eshwarpunna98/HiveProDEV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 sandysyndy/technical-writing-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/sandysyndy/technical-writing-portfolio
+     📝 Production-ready technical documentation covering SOC Incident Response playbook…
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 gersongtec/audit_system
+     ⭐ 0  🗣 PowerShell  📅 2026-08-24
+     🔗 https://github.com/gersongtec/audit_system
+     📝 Assistente interativo de auditoria, caça a ameaças e remediação tática universal…
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 ceohvtinnovations/osint
+     ⭐ 0  🗣 Shell  📅 2026-08-24
+     🔗 https://github.com/ceohvtinnovations/osint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-25 01:19:12 UTC] [NEW]   🆕 📦 ecapri-dev/ecapri-dev
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/ecapri-dev/ecapri-dev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-25 01:19:12 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-25 01:19:12 UTC] [UPD]   📢 📦 santisbon/iphonebridge
+     ⭐ 0  🗣 Python  📅 2026-08-23
+     🔗 https://github.com/santisbon/iphonebridge
+     📝 A native Linux desktop bridge for a paired iPhone over Bluetooth. Fork of iphone…
+     🏷  iphone, linux
+     🔄 Motivo: repo recente (1gg)
+[2026-08-25 01:19:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-25 01:19:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-25 01:19:13 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-25 01:19:13 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-25 01:19:13 UTC] [NEW]   🆕 📦 rjrb8/htb-pentest-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/rjrb8/htb-pentest-lab
+     📝 Initial HTB penetration testing laboratory
+     🏷  cibersecurity, htb, pentesting
+[2026-08-25 01:19:13 UTC] [NEW]   🆕 📦 turaab97/claude-code-sandbox-hooks
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/turaab97/claude-code-sandbox-hooks
+     📝 Layered containment for Claude Code sessions: hardened container + OS sandbox + …
+     🏷  ai-agents, claude-code, containment, docker, hooks, llm-security, sandboxing, security
+[2026-08-25 01:19:13 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-08-25 01:19:13 UTC] [UPD]   📢 📦 Hoangchim/cu
+     ⭐ 0  🗣 Swift  📅 2026-08-24
+     🔗 https://github.com/Hoangchim/cu
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-25 01:19:13 UTC] [UPD]   📢 📦 rikterskale/StealthyPrivesc
+     ⭐ 0  🗣 Rust  📅 2026-08-18
+     🔗 https://github.com/rikterskale/StealthyPrivesc
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-25 01:19:13 UTC] [UPD]   📢 📦 requiredtruth/AgentAirgap
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/requiredtruth/AgentAirgap
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-25 01:19:13 UTC] [UPD]   📢 📦 kaffeindecaf/W0lfSword
+     ⭐ 4  🗣 Objective-C  📅 2026-08-10
+     🔗 https://github.com/kaffeindecaf/W0lfSword
+     📝 iOS kernel exploit toolkit | DarkSword R/W | SSV Bypass | XPF offset verificatio…
+     🏷  darksword, exploit, ios, ios-security, jailbreak, reverse-engineering
+     🔄 Motivo: nuovi topic: reverse-engineering, ios-security
+[2026-08-25 01:19:13 UTC] [UPD]   📢 📦 codingsushi79/opencc
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/codingsushi79/opencc
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-25 01:19:13 UTC] [INFO] ============================================================
+[2026-08-25 01:19:13 UTC] [INFO] Completato — 24 nuovi, 6 aggiornati, 0 errori
+[2026-08-25 01:19:13 UTC] [INFO] ============================================================
