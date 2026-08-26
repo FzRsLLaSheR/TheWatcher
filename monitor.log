@@ -70157,3 +70157,201 @@
 [2026-08-26 06:51:30 UTC] [INFO] ============================================================
 [2026-08-26 06:51:30 UTC] [INFO] Completato — 21 nuovi, 3 aggiornati, 0 errori
 [2026-08-26 06:51:30 UTC] [INFO] ============================================================
+[2026-08-26 12:54:07 UTC] [INFO] ============================================================
+[2026-08-26 12:54:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-26 12:54:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-26 12:54:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-26 12:54:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-26 12:54:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-26 12:54:07 UTC] [INFO] ============================================================
+[2026-08-26 12:54:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-26 12:54:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-26 12:54:09 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-26 12:54:09 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-26 12:54:09 UTC] [NEW]   🆕 📦 i4Tools/i4BYOVD
+     ⭐ 0  🗣 C++  📅 2026-08-26
+     🔗 https://github.com/i4Tools/i4BYOVD
+     📝 BYOVD (Bring Your Own Vulnerable Driver) security research and testing project.
+     🏷  —
+[2026-08-26 12:54:09 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-26 12:54:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-26 12:54:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-26 12:54:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 Mumin-Abusalama/Home-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/Mumin-Abusalama/Home-SOC-Lab
+     📝  Home SOC lab with Wazuh SIEM, simulated attacks, and detection write-ups
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 Lexvisser/weer
+     ⭐ 0  🗣 JavaScript  📅 2026-08-26
+     🔗 https://github.com/Lexvisser/weer
+     📝 Weer-app met hazard meldingen / Hemel / Navtex
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 ZikrilloDev/KiberShield
+     ⭐ 0  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/ZikrilloDev/KiberShield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 Sleyvazh/b2m2-scripts
+     ⭐ 0  🗣 Shell  📅 2026-08-26
+     🔗 https://github.com/Sleyvazh/b2m2-scripts
+     📝 Scripts d'installation VMs Zabbix, ELK, etc...
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Telecom-Revenue-Assurance
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/ishandutta2007/Awesome-Telecom-Revenue-Assurance
+     📝 Top Revenue Assurance (Telecom) 🌟 Star if you like it! 🌟
+     🏷  fraud-detection, telecom-billing, telecom-revenue-assurance
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 kinnector/core
+     ⭐ 0  🗣 C++  📅 2026-08-26
+     🔗 https://github.com/kinnector/core
+     📝 Kernel-level telemetry & enforcement engine (eBPF/BPF LSM, ETW, ESF) for EDR age…
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 FuzailAhmad-Sphericaljudge/Cascadia
+     ⭐ 0  🗣 TypeScript  📅 2026-08-26
+     🔗 https://github.com/FuzailAhmad-Sphericaljudge/Cascadia
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 nehoraygigi12/Enterprise-SIEM-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/nehoraygigi12/Enterprise-SIEM-Detection-Lab
+     📝 Hands-on threat detection lab using Splunk, Sysmon, and Windows Event Logs mappe…
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 m0ohamedfahmy/Enterprise_Data_Lakehouse_and_BI_Platform_for_Dynamic_Pricing_with_Autonomous_AI_Agent
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-25
+     🔗 https://github.com/m0ohamedfahmy/Enterprise_Data_Lakehouse_and_BI_Platform_for_Dynamic_Pricing_with_Autonomous_AI_Agent
+     📝 Enterprise Data Lakehouse & BI Platform for Dynamic Pricing, powered by Spark, I…
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 SumanChaudhary9/Cybersecurity_Project_Wazuh
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/SumanChaudhary9/Cybersecurity_Project_Wazuh
+     📝 Self-hosted Wazuh SOC lab — offensive security testing, SIEM detection, threat i…
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 Avdhut-Gogawale/Avdhut-Gogawale
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/Avdhut-Gogawale/Avdhut-Gogawale
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 sunga2022/GP2040-WF
+     ⭐ 0  🗣 C  📅 2026-08-26
+     🔗 https://github.com/sunga2022/GP2040-WF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 Reddeppa336/defender-
+     ⭐ 0  🗣 C  📅 2026-08-26
+     🔗 https://github.com/Reddeppa336/defender-
+     📝 Hands-on Windows malware analysis lab exploring C-based Windows APIs, memory exe…
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 AdityaST93/threatsense-ai
+     ⭐ 0  🗣 Python  📅 2026-08-26
+     🔗 https://github.com/AdityaST93/threatsense-ai
+     📝 AI-powered chatbot that analyzes security logs and generates reliable, evidence-…
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 atul-singh-as/EDR_Networking
+     ⭐ 0  🗣 C++  📅 2026-08-26
+     🔗 https://github.com/atul-singh-as/EDR_Networking
+     📝 EDR
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 Rushiii77/RansomWare
+     ⭐ 0  🗣 Python  📅 2026-08-26
+     🔗 https://github.com/Rushiii77/RansomWare
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 danikfmee/edrtkm
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/danikfmee/edrtkm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 aghahaider910-ship-it/Safecmd
+     ⭐ 1  🗣 JavaScript  📅 2026-08-26
+     🔗 https://github.com/aghahaider910-ship-it/Safecmd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 bayshier/awesome-osint-arsenal-zh
+     ⭐ 1  🗣 Shell  📅 2026-08-26
+     🔗 https://github.com/bayshier/awesome-osint-arsenal-zh
+     📝 awesome-osint-arsenal 中文版：753 个 OSINT 与安全工具、50 个分类、一键安装脚本（译自 rawfilejson/awesome…
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 renleighter/SOC-Home-Lab-Project
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/renleighter/SOC-Home-Lab-Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 Huzaif072/soc-copilot
+     ⭐ 0  🗣 Python  📅 2026-08-26
+     🔗 https://github.com/Huzaif072/soc-copilot
+     📝 Private, local RAG assistant for SOC incident response — grounded Q&A, auto-draf…
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 uditsoam/ad_enum
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/uditsoam/ad_enum
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 navanshi-parekh/cyber-risk-platform
+     ⭐ 0  🗣 TypeScript  📅 2026-08-26
+     🔗 https://github.com/navanshi-parekh/cyber-risk-platform
+     📝 AI-powered cyber risk quantification (Open FAIR v3.0) and 0-1 Knapsack MILP capi…
+     🏷  cisa-kev, cyber-risk-quantification, cybersecurity, epss, fastapi, fintech, knapsack-problem, milp-optimisation, monte-carlo-simulation, nextjs, open-fair, rbi-compliance, sebi-cscrf, sih2026
+[2026-08-26 12:54:12 UTC] [NEW]   🆕 📦 Davissss2/SecuLab
+     ⭐ 0  🗣 JavaScript  📅 2026-08-26
+     🔗 https://github.com/Davissss2/SecuLab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:12 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-26 12:54:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-26 12:54:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-26 12:54:14 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-26 12:54:14 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-08-26 12:54:14 UTC] [NEW]   🆕 📦 SINKOFF/3105-filza
+     ⭐ 0  🗣 Swift  📅 2026-08-26
+     🔗 https://github.com/SINKOFF/3105-filza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:14 UTC] [NEW]   🆕 📦 rry0ku/linux-for-cybersecurity
+     ⭐ 0  🗣 N/A  📅 2026-08-25
+     🔗 https://github.com/rry0ku/linux-for-cybersecurity
+     📝 A practical, structured guide to Linux fundamentals for cybersecurity, covering …
+     🏷  —
+[2026-08-26 12:54:14 UTC] [NEW]   🆕 📦 rezaadi0105/ps4jbtest
+     ⭐ 0  🗣 JavaScript  📅 2026-08-26
+     🔗 https://github.com/rezaadi0105/ps4jbtest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:14 UTC] [NEW]   🆕 📦 glslang/kexp
+     ⭐ 0  🗣 Rust  📅 2026-08-26
+     🔗 https://github.com/glslang/kexp
+     📝 Windows kernel exploitation primitives: shellcode, process injection, ROP, drive…
+     🏷  —
+[2026-08-26 12:54:14 UTC] [NEW]   🆕 📦 nlkcodenew/jbps4
+     ⭐ 0  🗣 JavaScript  📅 2026-08-26
+     🔗 https://github.com/nlkcodenew/jbps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-26 12:54:14 UTC] [NEW]   🆕 📦 muhammadwaqasmbd/agent-sandbox
+     ⭐ 1  🗣 TypeScript  📅 2026-08-26
+     🔗 https://github.com/muhammadwaqasmbd/agent-sandbox
+     📝 Run model-generated code without handing it your machine. Process isolation with…
+     🏷  ai-agents, ai-safety, code-execution, isolation, llm, nodejs, sandbox, security, typescript, vm
+[2026-08-26 12:54:14 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-26 12:54:14 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-26 12:54:14 UTC] [UPD]   📢 📦 phanminhnhatPMN/3105essp
+     ⭐ 0  🗣 Swift  📅 2026-08-26
+     🔗 https://github.com/phanminhnhatPMN/3105essp
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-26 12:54:14 UTC] [UPD]   📢 📦 Ial3x92/onionHEN-lite
+     ⭐ 1  🗣 C++  📅 2026-08-25
+     🔗 https://github.com/Ial3x92/onionHEN-lite
+     📝 Based on version 0.10  include yml to build
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-26 12:54:14 UTC] [INFO] ============================================================
+[2026-08-26 12:54:14 UTC] [INFO] Completato — 31 nuovi, 3 aggiornati, 0 errori
+[2026-08-26 12:54:14 UTC] [INFO] ============================================================
