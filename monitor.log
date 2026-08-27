@@ -70826,3 +70826,321 @@
 [2026-08-27 08:03:43 UTC] [INFO] ============================================================
 [2026-08-27 08:03:43 UTC] [INFO] Completato — 36 nuovi, 5 aggiornati, 0 errori
 [2026-08-27 08:03:43 UTC] [INFO] ============================================================
+[2026-08-27 21:54:57 UTC] [INFO] ============================================================
+[2026-08-27 21:54:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-27 21:54:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-27 21:54:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-27 21:54:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-27 21:54:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-27 21:54:57 UTC] [INFO] ============================================================
+[2026-08-27 21:54:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-27 21:54:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-27 21:54:59 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-27 21:54:59 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-27 21:54:59 UTC] [NEW]   🆕 📦 warsang/kernelforge-web
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/warsang/kernelforge-web
+     📝 KernelForge kernelforge-web - split from monorepo
+     🏷  —
+[2026-08-27 21:54:59 UTC] [NEW]   🆕 📦 29Sandesh/sentinel-shield
+     ⭐ 0  🗣 PowerShell  📅 2026-08-27
+     🔗 https://github.com/29Sandesh/sentinel-shield
+     📝 🛡️ 1-Click Anti-Hacking Fortress & Ultimate Performance Engine for Windows 10/11…
+     🏷  anti-hack, cli, cybersecurity, debloater, defender, network-security, open-source, powershell, ransomware-protection, security-hardening, threat-detection, ultimate-performance, windows, windows-11, windows-optimizer
+[2026-08-27 21:54:59 UTC] [NEW]   🆕 📦 NetVar1337/BYOVDScanner
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/NetVar1337/BYOVDScanner
+     📝 Static, evidence-driven discovery and prioritization of potentially vulnerable s…
+     🏷  —
+[2026-08-27 21:54:59 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-27 21:54:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-27 21:54:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-27 21:55:02 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 43 NUOVI repository:
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 warsang/kernelforge-web
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/warsang/kernelforge-web
+     📝 KernelForge kernelforge-web - split from monorepo
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 MadihaSehar/SOAR-lite_automation
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/MadihaSehar/SOAR-lite_automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 TrevinoParker7/Graceful_Degradation
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/TrevinoParker7/Graceful_Degradation
+     📝 Windows 11-native local-first Agentic AI Graceful Degradation Security Control P…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 SebastianLucaciu/security-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/SebastianLucaciu/security-portfolio
+     📝 Hands-on cybersecurity projects focused on incident response, cloud security, De…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 TheNickSanchez/fleet-recon
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/TheNickSanchez/fleet-recon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 darrenparsons1986/endpoint-ai-project
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/darrenparsons1986/endpoint-ai-project
+     📝 Local AI-powered endpoint compliance and remediation lab using Python, Ollama, Q…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 siddhartha9743/ssh-bruteforce-detection-soc
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/siddhartha9743/ssh-bruteforce-detection-soc
+     📝 Linux-based SSH brute-force detection and incident response system
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 darkstinx/Home-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/darkstinx/Home-SOC-Lab
+     📝 Creando un Home SOC Lab con Wazuh SIEM y TheHive. Entorno de detección y respues…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 0x3xp/WinSec
+     ⭐ 0  🗣 C  📅 2026-08-27
+     🔗 https://github.com/0x3xp/WinSec
+     📝 WinSec is A practical Windows security research and learning repository covering…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 aimannajjar/ride
+     ⭐ 0  🗣 C  📅 2026-08-26
+     🔗 https://github.com/aimannajjar/ride
+     📝 eBPF-based next-gen intrusion detection (www.ridesec.org)
+     🏷  ebpf-programs, linux, linux-kernel, security, security-tools
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 jvlatacc/vigilsoc
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/jvlatacc/vigilsoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 loan-mgt/foss-soc-stack
+     ⭐ 0  🗣 Typst  📅 2026-08-27
+     🔗 https://github.com/loan-mgt/foss-soc-stack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 lof1sec/edr-visualizer
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/lof1sec/edr-visualizer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 Cletus-FTL30/isms-case-study
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/Cletus-FTL30/isms-case-study
+     📝 ISO/IEC 27001:2022 ISMS case study for a secondary school — risk register, SoA, …
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 initchirag/beginners-cybersecurity-roadmap
+     ⭐ 1  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/initchirag/beginners-cybersecurity-roadmap
+     📝  A practical, community-driven path from fundamentals to hands-on cybersecurity
+     🏷  cybersecurity, cybersecurity-awareness, cybersecurity-education, cybersecurity-lab, information-security, roadmap
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 DoryNo/edr-ai
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/DoryNo/edr-ai
+     📝 Local LLM-powered Windows EDR that monitors Sysmon telemetry and classifies even…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 IoanGogozan/KubeLineage
+     ⭐ 0  🗣 Shell  📅 2026-08-27
+     🔗 https://github.com/IoanGogozan/KubeLineage
+     📝 KubeLineage is a runtime detection research prototype that will correlate Linux …
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 mjdfrjadrys-eng/majd-edrees-bot
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/mjdfrjadrys-eng/majd-edrees-bot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 kaartikarora/kaartikarora
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/kaartikarora/kaartikarora
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 Aditya-Ajay-Singh/pico2w-usb-hid-edr-research
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/Aditya-Ajay-Singh/pico2w-usb-hid-edr-research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 abrar-sarwar/Arkham
+     ⭐ 0  🗣 Python  📅 2026-08-26
+     🔗 https://github.com/abrar-sarwar/Arkham
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 Panopticon-Co/panopticon-console
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/Panopticon-Co/panopticon-console
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 codeinedark77/Project-OMNI
+     ⭐ 0  🗣 C++  📅 2026-08-27
+     🔗 https://github.com/codeinedark77/Project-OMNI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 Enay-Project/TraceGlass
+     ⭐ 0  🗣 C  📅 2026-08-27
+     🔗 https://github.com/Enay-Project/TraceGlass
+     📝 TraceGlass is a lightweight native Windows behavioral telemetry viewer written i…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 Varunrajparimi/SIEM-Detection-Rules
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/Varunrajparimi/SIEM-Detection-Rules
+     📝 I’ve created a complete 55+ multi-SIEM Detection Rules package written from the …
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 toddmichael9475/edrosm
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/toddmichael9475/edrosm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 gwyneth-collab/EDRM-widgets
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/gwyneth-collab/EDRM-widgets
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 ragin-10-rdg/NIVRA-Android-Agent
+     ⭐ 0  🗣 Kotlin  📅 2026-08-27
+     🔗 https://github.com/ragin-10-rdg/NIVRA-Android-Agent
+     📝 NIVRA (Native Intelligence & Vulnerability Response Agent), a Wazuh-compatible A…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 Ronald-77/SSS
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/Ronald-77/SSS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 ArnavGarg2006/attck-shield-labs
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/ArnavGarg2006/attck-shield-labs
+     📝 MITRE ATT&CK/Shield-mapped Python security tooling portfolio - 22 verified modul…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 HumayunShariarHimu/USB-HID-Attack-Framework
+     ⭐ 0  🗣 HTML  📅 2026-08-27
+     🔗 https://github.com/HumayunShariarHimu/USB-HID-Attack-Framework
+     📝 Cybersecurity Research Baesd Prototype Project
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 weberkim3/edrkfu
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/weberkim3/edrkfu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 abhinavkishor9/windows-dfir-lab63-lsass-access-investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/abhinavkishor9/windows-dfir-lab63-lsass-access-investigation
+     📝 Windows DFIR investigation of LSASS process access using process baselining, Sys…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 meyramesh/optic-edge
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/meyramesh/optic-edge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 AZZEDINE-RIH/Test-Technique-
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/AZZEDINE-RIH/Test-Technique-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 roufbilal313-lab/network-intrusion-investigation-wireshark
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/roufbilal313-lab/network-intrusion-investigation-wireshark
+     📝 SOC-style network intrusion investigation using Wireshark and PCAP analysis
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 thehaider001/CTI-Portal
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/thehaider001/CTI-Portal
+     📝 CTI Insight is an evidence-first cyber threat intelligence portal that parses se…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 h4cknain/SOC-Level-1-Alert-Triage
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/h4cknain/SOC-Level-1-Alert-Triage
+     📝 This repository documents my learning and practical work from the SOC Level 1 Al…
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 RikabCoach/Vulnerability-Agentic-AI
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/RikabCoach/Vulnerability-Agentic-AI
+     📝 Evidence-first, authorization-gated vulnerability assessment assistant with Fast…
+     🏷  cybersecurity, fastapi, openai, python, security-automation, vulnerability-management
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 ranul-laksith/ranul-laksith
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/ranul-laksith/ranul-laksith
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 GetsG/Atividade-Backdoor
+     ⭐ 0  🗣 Java  📅 2026-08-27
+     🔗 https://github.com/GetsG/Atividade-Backdoor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 f4dvk/benshi-esp32-sim
+     ⭐ 1  🗣 C  📅 2026-08-27
+     🔗 https://github.com/f4dvk/benshi-esp32-sim
+     📝 Simulateur Radio Benshi HT afin d'utiliser l'audio. Code fait avec l'IA Claude
+     🏷  —
+[2026-08-27 21:55:02 UTC] [NEW]   🆕 📦 simohowaanaa/100-Days-of-Blue-Team
+     ⭐ 0  🗣 PowerShell  📅 2026-08-27
+     🔗 https://github.com/simohowaanaa/100-Days-of-Blue-Team
+     📝 100 jours de labs blue team : forensic reseau & memoire, threat intelligence et …
+     🏷  blue-team, cybersecurity, dfir, incident-response, malware-analysis, memory-forensics, mitre-attack, network-forensics, soc, threat-intelligence, volatility, wireshark
+[2026-08-27 21:55:02 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-27 21:55:02 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-27 21:55:02 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-27 21:55:04 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 📦 trinhvantu1210-boop/BuildApp
+     ⭐ 0  🗣 Swift  📅 2026-08-27
+     🔗 https://github.com/trinhvantu1210-boop/BuildApp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 📦 alaacentar6-afk/Alaa
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/alaacentar6-afk/Alaa
+     📝 center
+     🏷  —
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 📦 nkhlwf743-afk/GAMEOVER
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/nkhlwf743-afk/GAMEOVER
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 📦 AmorCool/cyanide
+     ⭐ 0  🗣 Objective-C  📅 2026-08-27
+     🔗 https://github.com/AmorCool/cyanide
+     📝 Cyanide 1.2.24 integrated source (App Downgrade). iOS tweak runner on the DarkSw…
+     🏷  —
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 📦 EldanRing/qubicl
+     ⭐ 3  🗣 TypeScript  📅 2026-08-26
+     🔗 https://github.com/EldanRing/qubicl
+     📝 Give any AI agent a real, private computer on your machine.
+     🏷  ai-agents, browser-automation, docker, local-first, mcp, openapi
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 📦 aloulou007/ZERALI-PS4-5.05-9.60
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/aloulou007/ZERALI-PS4-5.05-9.60
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 📦 bibekkumar-sah18/CyberDNA-A-Decentralized-Behavioral-Fingerprinting-and-Collaborative-Cyberattack-Attribution-Network
+     ⭐ 0  🗣 TypeScript  📅 2026-08-27
+     🔗 https://github.com/bibekkumar-sah18/CyberDNA-A-Decentralized-Behavioral-Fingerprinting-and-Collaborative-Cyberattack-Attribution-Network
+     📝 This is an advanced Cybersecurity + AI + Blockchain + Digital Forensics project.…
+     🏷  —
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 📦 edidiongetuk1/assignment-
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/edidiongetuk1/assignment-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 21:55:04 UTC] [NEW]   🆕 📦 lutfailham96/PS4-JB-WebKit
+     ⭐ 1  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/lutfailham96/PS4-JB-WebKit
+     📝 PS4-JB-WebKit is a PlayStation 4 jailbreak research project focused on WebKit-ba…
+     🏷  —
+[2026-08-27 21:55:04 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-27 21:55:04 UTC] [UPD]   📢 📦 kuyk15820-cpu/TTIOS
+     ⭐ 0  🗣 Swift  📅 2026-08-24
+     🔗 https://github.com/kuyk15820-cpu/TTIOS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-27 21:55:04 UTC] [UPD]   📢 📦 SINKOFF/3105-filza
+     ⭐ 0  🗣 Swift  📅 2026-08-26
+     🔗 https://github.com/SINKOFF/3105-filza
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-27 21:55:04 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-27 21:55:04 UTC] [INFO] ============================================================
+[2026-08-27 21:55:04 UTC] [INFO] Completato — 55 nuovi, 3 aggiornati, 0 errori
+[2026-08-27 21:55:04 UTC] [INFO] ============================================================
