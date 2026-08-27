@@ -70591,3 +70591,238 @@
 [2026-08-26 19:48:40 UTC] [INFO] ============================================================
 [2026-08-26 19:48:40 UTC] [INFO] Completato — 35 nuovi, 6 aggiornati, 0 errori
 [2026-08-26 19:48:40 UTC] [INFO] ============================================================
+[2026-08-27 08:03:35 UTC] [INFO] ============================================================
+[2026-08-27 08:03:35 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-27 08:03:35 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-27 08:03:35 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-27 08:03:35 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-27 08:03:35 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-27 08:03:35 UTC] [INFO] ============================================================
+[2026-08-27 08:03:35 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-27 08:03:35 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-27 08:03:38 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-27 08:03:38 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-27 08:03:38 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-27 08:03:38 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-27 08:03:38 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-27 08:03:41 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 33 NUOVI repository:
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 dlnraja/win11-magic-upgrade
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/dlnraja/win11-magic-upgrade
+     📝 One-click portable Windows 10/11 to Windows 11 latest upgrader (Flyby11-class by…
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 BreachOperators/Upload-Server
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/BreachOperators/Upload-Server
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 edrine23/edrine23
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/edrine23/edrine23
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 uvsinduja-creator/sindark-lifeshield
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/uvsinduja-creator/sindark-lifeshield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 Odin-XD/PhantomFilter
+     ⭐ 0  🗣 C  📅 2026-08-27
+     🔗 https://github.com/Odin-XD/PhantomFilter
+     📝 PhantomFilter is the **WORLD'S FIRST** kernel-mode driver that implements transp…
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 xyrlan/display-affinity-lab
+     ⭐ 0  🗣 C++  📅 2026-08-26
+     🔗 https://github.com/xyrlan/display-affinity-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 siddharthsehwag3-ai/aegissiem-enterprise-dashboard
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/siddharthsehwag3-ai/aegissiem-enterprise-dashboard
+     📝 Enterprise-style simulated SIEM dashboard with local event ingestion, MITRE ATT&…
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 kzxl/ThreatMesh
+     ⭐ 0  🗣 C#  📅 2026-08-27
+     🔗 https://github.com/kzxl/ThreatMesh
+     📝 High-Performance Open-Source Windows EDR + UEBA in C#/.NET 8: Behavior Graph, Pr…
+     🏷  attack-graph, csharp, cybersecurity, dotnet, edr, endpoint-security, explainable-ai, incident-response, mitre-attack, process-tree, sigma-rules, soc, threat-detection, ueba
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 Noura452/SpywareSimulation
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/Noura452/SpywareSimulation
+     📝 Controlled telemetry simulation for cybersecurity lab research
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 rc7700-77/security-automation-pentest
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/rc7700-77/security-automation-pentest
+     📝 Authorized Metasploitable 3 penetration testing and security automation capstone…
+     🏷  cybersecurity, ethical-hacking, kali-linux, metasploitable3, nmap, penetration-testing, python, security-automation, soc-analyst, vulnerability-assessment
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 CausalNexusSystems/cns-omega-public-v3.1
+     ⭐ 0  🗣 Shell  📅 2026-08-27
+     🔗 https://github.com/CausalNexusSystems/cns-omega-public-v3.1
+     📝    Falsifiable, externally-auditable proof-of-containment for the CNS Sovereign …
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 slapopotamus/HuntPack-Runner
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/slapopotamus/HuntPack-Runner
+     📝 Run CrowdStrike CQL threat-hunt queries against Falcon Next-Gen SIEM / LogScale,…
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 exFat-KabyLake/CzEdroid
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/exFat-KabyLake/CzEdroid
+     📝 Crazy Error をAndroidで作る場合
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 LVM20/05-LVM-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/LVM20/05-LVM-Incident-Response
+     📝 Incident Response Lab using Wazuh, Windows Event Logs and Active Directory for d…
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 aloc999/DetectionEngineeringPortfolio
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/aloc999/DetectionEngineeringPortfolio
+     📝 Advanced Detection Engineering Portfolio - Sigma, KQL, SPL, YARA-L, YARA rules, …
+     🏷  active-directory, ai, aws, azure, blue-team, detection-as-code, detection-engineering, gcp, kql, kubernetes, mitre-attack, siem, sigma, soar, spl, threat-hunting, yara
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 LuccasLimaa/Projeto-malware-simulation-python
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/LuccasLimaa/Projeto-malware-simulation-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 williamm71/CrowdStrike_Falcon_Deployment_Ansible
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/williamm71/CrowdStrike_Falcon_Deployment_Ansible
+     📝 This is a repository containing steps & files on how to automate the deployment …
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 BVarel4/Identity-Report
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/BVarel4/Identity-Report
+     📝 Reporte de Identity Protection Crowdstrike
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 wittkung/ttzip-plugin-iina
+     ⭐ 0  🗣 Swift  📅 2026-08-26
+     🔗 https://github.com/wittkung/ttzip-plugin-iina
+     📝 Official IINA Video Player Plugin for TTZip (Metal HDR, ASS Subtitles & In-Memor…
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 Guilhermao-TI/reposit-rio
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/Guilhermao-TI/reposit-rio
+     📝 Simplesmente meu repositório
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 marinalivias/backdoor-academico
+     ⭐ 0  🗣 Java  📅 2026-08-26
+     🔗 https://github.com/marinalivias/backdoor-academico
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 NoktaBilisim/SOC
+     ⭐ 0  🗣 TypeScript  📅 2026-08-26
+     🔗 https://github.com/NoktaBilisim/SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 NoktaBilisim/GAP
+     ⭐ 0  🗣 TypeScript  📅 2026-08-26
+     🔗 https://github.com/NoktaBilisim/GAP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 Kaazmo7/Kaazmo7
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/Kaazmo7/Kaazmo7
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 Kaazmo7/fieldwarden
+     ⭐ 0  🗣 Rust  📅 2026-08-26
+     🔗 https://github.com/Kaazmo7/fieldwarden
+     📝 A host-based endpoint detection agent for OT/ICS environments — five detectors m…
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 Pranav-0440/HostOps-Sentinel
+     ⭐ 0  🗣 JavaScript  📅 2026-08-26
+     🔗 https://github.com/Pranav-0440/HostOps-Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 Sarahmuhamedd/AEGIS-EDR
+     ⭐ 0  🗣 HTML  📅 2026-08-26
+     🔗 https://github.com/Sarahmuhamedd/AEGIS-EDR
+     📝 Automated Digital Forensics Endpoint Detection & Response Application
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 prococonsulting/avd-image-precheck
+     ⭐ 0  🗣 PowerShell  📅 2026-08-26
+     🔗 https://github.com/prococonsulting/avd-image-precheck
+     📝 Read-only pre-sysprep readiness check for Windows golden images used in Azure Vi…
+     🏷  avd, azure, powershell, sysprep
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 ArachnidGs/forensic
+     ⭐ 2  🗣 Rust  📅 2026-08-26
+     🔗 https://github.com/ArachnidGs/forensic
+     📝 A modular digital forensics & data sanitization suite: live system/network triag…
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 yayefa/Remediation_Agent
+     ⭐ 0  🗣 Python  📅 2026-08-26
+     🔗 https://github.com/yayefa/Remediation_Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 mapizarro1/fedramp-cr26-vdr-ver-template
+     ⭐ 0  🗣 PowerShell  📅 2026-08-26
+     🔗 https://github.com/mapizarro1/fedramp-cr26-vdr-ver-template
+     📝 Template for FedRAMP CR26 VDR/VER (Rev5 Class C) compliance: rules register, gap…
+     🏷  azure, compliance, cr26, fedramp, govcloud, powershell, vulnerability-management
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 churchwilliam8/edrprh
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/churchwilliam8/edrprh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [NEW]   🆕 📦 whx4mi/GeminiRAT-CodexReview
+     ⭐ 1  🗣 Python  📅 2026-08-26
+     🔗 https://github.com/whx4mi/GeminiRAT-CodexReview
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:41 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-27 08:03:41 UTC] [UPD]   📢 📦 lzt66666/notchpeakglow
+     ⭐ 6  🗣 Swift  📅 2026-08-26
+     🔗 https://github.com/lzt66666/notchpeakglow
+     📝 A MacBook total power notch indicator. Using notch to show quickly if something …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-27 08:03:41 UTC] [UPD]   📢 📦 rainexee/rainexee
+     ⭐ 0  🗣 N/A  📅 2026-08-26
+     🔗 https://github.com/rainexee/rainexee
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-27 08:03:41 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-27 08:03:41 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-27 08:03:43 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-27 08:03:43 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-27 08:03:43 UTC] [NEW]   🆕 📦 dbimortals/dbimortals
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/dbimortals/dbimortals
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-27 08:03:43 UTC] [NEW]   🆕 📦 k3yh013/shuckPEAS
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/k3yh013/shuckPEAS
+     📝 OSCP-focused winPEAS output analyzer. Finds passwords, misconfigs, and priv-esc …
+     🏷  —
+[2026-08-27 08:03:43 UTC] [NEW]   🆕 📦 aloc999/DetectionEngineeringPortfolio
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/aloc999/DetectionEngineeringPortfolio
+     📝 Advanced Detection Engineering Portfolio - Sigma, KQL, SPL, YARA-L, YARA rules, …
+     🏷  active-directory, ai, aws, azure, blue-team, detection-as-code, detection-engineering, gcp, kql, kubernetes, mitre-attack, siem, sigma, soar, spl, threat-hunting, yara
+[2026-08-27 08:03:43 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-27 08:03:43 UTC] [UPD]   📢 📦 Shubh18s/vestibule
+     ⭐ 0  🗣 PowerShell  📅 2026-08-25
+     🔗 https://github.com/Shubh18s/vestibule
+     📝 Run coding agents on Windows without them running as you. One container per proj…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-27 08:03:43 UTC] [UPD]   📢 📦 rry0ku/linux-for-cybersecurity
+     ⭐ 0  🗣 N/A  📅 2026-08-25
+     🔗 https://github.com/rry0ku/linux-for-cybersecurity
+     📝 A practical, structured guide to Linux fundamentals for cybersecurity, covering …
+     🏷  cybersecurity, linux
+     🔄 Motivo: repo recente (1gg) | nuovi topic: cybersecurity, linux
+[2026-08-27 08:03:43 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-27 08:03:43 UTC] [INFO] ============================================================
+[2026-08-27 08:03:43 UTC] [INFO] Completato — 36 nuovi, 5 aggiornati, 0 errori
+[2026-08-27 08:03:43 UTC] [INFO] ============================================================
