@@ -71431,3 +71431,344 @@
 [2026-08-28 10:06:32 UTC] [INFO] ============================================================
 [2026-08-28 10:06:32 UTC] [INFO] Completato — 44 nuovi, 7 aggiornati, 0 errori
 [2026-08-28 10:06:32 UTC] [INFO] ============================================================
+[2026-08-28 21:47:06 UTC] [INFO] ============================================================
+[2026-08-28 21:47:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-28 21:47:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-28 21:47:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-28 21:47:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-28 21:47:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-28 21:47:06 UTC] [INFO] ============================================================
+[2026-08-28 21:47:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-28 21:47:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-28 21:47:07 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-28 21:47:07 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-08-28 21:47:07 UTC] [NEW]   🆕 📦 uLl0a/GoFly-BYOVD-PoC
+     ⭐ 1  🗣 C++  📅 2026-08-28
+     🔗 https://github.com/uLl0a/GoFly-BYOVD-PoC
+     📝 A Proof of Concept (PoC) demonstrating BYOVD (Bring Your Own Vulnerable Driver) …
+     🏷  —
+[2026-08-28 21:47:07 UTC] [NEW]   🆕 📦 lucife03/winC2
+     ⭐ 0  🗣 Go  📅 2026-08-28
+     🔗 https://github.com/lucife03/winC2
+     📝 A research-grade Windows C2 framework in Go: TLS-encrypted beaconing, 40+ post-e…
+     🏷  —
+[2026-08-28 21:47:07 UTC] [NEW]   🆕 📦 ManthanGadiya/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/ManthanGadiya/JOCKY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:07 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-28 21:47:07 UTC] [UPD]   📢 📦 warsang/kernelforge-web
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/warsang/kernelforge-web
+     📝 KernelForge kernelforge-web - split from monorepo
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-28 21:47:07 UTC] [UPD]   📢 📦 DaddyZyn/Windows-Vuln-drivers
+     ⭐ 1  🗣 C++  📅 2026-08-28
+     🔗 https://github.com/DaddyZyn/Windows-Vuln-drivers
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-28 21:47:07 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-28 21:47:07 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-28 21:47:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 issinoho/loadbearer
+     ⭐ 0  🗣 Rust  📅 2026-08-28
+     🔗 https://github.com/issinoho/loadbearer
+     📝 CLI system-assessment tool: benchmarks CPU, memory and disk, then grades the mac…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 armaan-1207/Kavach-CRS
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/armaan-1207/Kavach-CRS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 akinfarfar/soc-homelab
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/akinfarfar/soc-homelab
+     📝 Enterprise SOC Homelab — Uçtan Uca Güvenlik Operasyonları Mimarisi 
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 DiegoSecurityOps/DiegoSecurityOps
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/DiegoSecurityOps/DiegoSecurityOps
+     📝 Cybersecurity profile focused on SOC, Splunk and Security Operations
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 shitan198u/RealmeLinkSurgery
+     ⭐ 1  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/shitan198u/RealmeLinkSurgery
+     📝 Reverse-engineered protocol specifications, opcodes, and tooling for Realme / Op…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 HelgeSverre/bloom-crimes
+     ⭐ 0  🗣 F#  📅 2026-08-28
+     🔗 https://github.com/HelgeSverre/bloom-crimes
+     📝 A twin-stick arena shooter where every wave commits another rendering crime. F# …
+     🏷  arcade-game, bloom, demoscene, dotnet, fractal, fsharp, gamedev, glsl, indie-game, opengl, post-processing, procedural-generation, raymarching, shaders, silk-net, twin-stick-shooter
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 TeeJS/git-updater
+     ⭐ 0  🗣 JavaScript  📅 2026-08-28
+     🔗 https://github.com/TeeJS/git-updater
+     📝 On-demand Windows updater for GitHub-release apps (portable + installed) — a sel…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 Fualem-Lab/Threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/Fualem-Lab/Threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 fborge9/rhel9-stig-hardening
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/fborge9/rhel9-stig-hardening
+     📝 Personal home lab. Hardened RHEL 9 from 48% to 81% DISA STIG compliance, then at…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 Haarshhhrwl/CYBERVAL
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/Haarshhhrwl/CYBERVAL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 sauron666/Honeypot
+     ⭐ 0  🗣 Go  📅 2026-08-28
+     🔗 https://github.com/sauron666/Honeypot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 k2pme/NKOSI
+     ⭐ 0  🗣 Rust  📅 2026-08-28
+     🔗 https://github.com/k2pme/NKOSI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 Pratik-943/mini-EDR
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/Pratik-943/mini-EDR
+     📝 A lightweight, rule-based Endpoint Detection and Response (EDR) system for priva…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 Pratik2001-bit/temp
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/Pratik2001-bit/temp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 NoTrustedx/ioc-enrichment-tool
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/NoTrustedx/ioc-enrichment-tool
+     📝 Herramienta en Python para la extracción, normalización, neutralización y enriqu…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 aaryansingh66665/cisco_vip
+     ⭐ 0  🗣 TypeScript  📅 2026-08-28
+     🔗 https://github.com/aaryansingh66665/cisco_vip
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 jcamilogonzalezr/jcamilogonzalezr
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/jcamilogonzalezr/jcamilogonzalezr
+     📝 Portafolio profesional
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 gabzaf/cybersecurity-officer
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/gabzaf/cybersecurity-officer
+     📝 Study notes for the Security Officer role in Portugal. NIS2/RJC, QNRCS, ISO 2700…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 DehydratedFlask/MacBright
+     ⭐ 0  🗣 Swift  📅 2026-08-28
+     🔗 https://github.com/DehydratedFlask/MacBright
+     📝 ⚡ Free macOS app that unlocks 100%+ of your MacBook Pro XDR display brightness —…
+     🏷  brightintosh, brightness, display-brightness, edr, free, hdr, macbook-pro, macos, macos-app, menu-bar-app, screen-brightness, swift, xdr
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 nchrumka/desktop-icon-toggle
+     ⭐ 0  🗣 PowerShell  📅 2026-08-28
+     🔗 https://github.com/nchrumka/desktop-icon-toggle
+     📝 Windows tray app to hide desktop icons for screenshots, then restore them.
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 edristemory56-gif/edristemory56-gif
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/edristemory56-gif/edristemory56-gif
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 Ah7medSh3ban/mitre-attack-coverage-pipeline
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/Ah7medSh3ban/mitre-attack-coverage-pipeline
+     📝 Threat modeling and SOC detection coverage toolkit: automated threat group TTP a…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 wyqsgy/autosoc
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/wyqsgy/autosoc
+     📝 AutoSOC - AI-driven automated Security Operations platform (detection / AI triag…
+     🏷  ai, fastapi, incident-response, llm, mitre-attack, security, siem, soar, soc, threat-intel
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 AmmanNoor/Implement-Endpoint-Security-Monitoring
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/AmmanNoor/Implement-Endpoint-Security-Monitoring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 Samettr08/PufaAV
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/Samettr08/PufaAV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 gcsagroup/agentguard
+     ⭐ 0  🗣 Rust  📅 2026-08-27
+     🔗 https://github.com/gcsagroup/agentguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 ManthanGadiya/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/ManthanGadiya/JOCKY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 michalsean/Security-Investigation-Tool
+     ⭐ 0  🗣 PowerShell  📅 2026-08-28
+     🔗 https://github.com/michalsean/Security-Investigation-Tool
+     📝 Automatic SOC investigation tool is a framework designed to show the triage proc…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 murdok1982/SkillsClaude
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/murdok1982/SkillsClaude
+     📝 Skills para que claude u otro harness se porte mal
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 vuk0ng/pc-scan-ac
+     ⭐ 0  🗣 C#  📅 2026-08-28
+     🔗 https://github.com/vuk0ng/pc-scan-ac
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 De-Cristo/hep-skills
+     ⭐ 1  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/De-Cristo/hep-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 ASDFGHJKL651/SecurityGuardForWindows
+     ⭐ 1  🗣 C++  📅 2026-08-28
+     🔗 https://github.com/ASDFGHJKL651/SecurityGuardForWindows
+     📝 Security Guard for Windows 端点检测与响应系统（EDR）
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 dashovich/PhishGuard-Public
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/dashovich/PhishGuard-Public
+     📝 Check suspicious link and emails by using phishguard!
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 grantlori514/edrrqn
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/grantlori514/edrrqn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 Igor229/DefenderHealthCheck
+     ⭐ 0  🗣 Shell  📅 2026-08-28
+     🔗 https://github.com/Igor229/DefenderHealthCheck
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 CatciSurn/AppGuard
+     ⭐ 0  🗣 PowerShell  📅 2026-08-28
+     🔗 https://github.com/CatciSurn/AppGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 M74JJI/wazuh-custom-detection-library-4.14.7
+     ⭐ 1  🗣 PowerShell  📅 2026-08-28
+     🔗 https://github.com/M74JJI/wazuh-custom-detection-library-4.14.7
+     📝 wazuh-custom-detection-library-4.14.7 v&
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 sfindley-NICE/SecurityStackAuditor
+     ⭐ 0  🗣 PowerShell  📅 2026-08-28
+     🔗 https://github.com/sfindley-NICE/SecurityStackAuditor
+     📝 tools and instructions to scan your local machine's security stack for performan…
+     🏷  —
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 Little-H-lying-flat/72stack-sec
+     ⭐ 5  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/Little-H-lying-flat/72stack-sec
+     📝 实战 SRC / 众测 / Bug bounty 漏洞挖掘工作流 skill：19 攻击类 playbook、305 结构化 payload、176 WAF 绕…
+     🏷  bug-bounty, llm-security, mcp, pentesting, security, src, vulnerability-hunting
+[2026-08-28 21:47:10 UTC] [NEW]   🆕 📦 phaynatonosbiche/edrlng
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/phaynatonosbiche/edrlng
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:10 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-28 21:47:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-28 21:47:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-28 21:47:12 UTC] [INFO]   → 26 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 ntfyz/X
+     ⭐ 0  🗣 Swift  📅 2026-08-28
+     🔗 https://github.com/ntfyz/X
+     📝 ipa
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 dnnloveyou1804-beep/cc
+     ⭐ 0  🗣 Objective-C  📅 2026-08-28
+     🔗 https://github.com/dnnloveyou1804-beep/cc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 body10a/abu.9.ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-08-28
+     🔗 https://github.com/body10a/abu.9.ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 body10a/abu.9-00.ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-08-28
+     🔗 https://github.com/body10a/abu.9-00.ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 alaacentar6-afk/ADAM
+     ⭐ 0  🗣 JavaScript  📅 2026-08-28
+     🔗 https://github.com/alaacentar6-afk/ADAM
+     📝 CENTER
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 mrxdvibe/MRXDVIBE
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/mrxdvibe/MRXDVIBE
+     📝 The Apex Of Future.
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 nkhlwf743-afk/GAMEOVER
+     ⭐ 0  🗣 JavaScript  📅 2026-08-28
+     🔗 https://github.com/nkhlwf743-afk/GAMEOVER
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 sajibsk758-bit/sajib
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/sajibsk758-bit/sajib
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 sajibsk758-bit/3105
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/sajibsk758-bit/3105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 sajibsk758-bit/sijan
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/sajibsk758-bit/sijan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 sajibsk758-bit/rakin
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/sajibsk758-bit/rakin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 sajibsk758-bit/smiviprakibvi
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/sajibsk758-bit/smiviprakibvi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [NEW]   🆕 📦 sajibsk758-bit/smi-app
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/sajibsk758-bit/smi-app
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 21:47:12 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-28 21:47:12 UTC] [UPD]   📢 📦 kuyk15820-cpu/TTIOS
+     ⭐ 0  🗣 Swift  📅 2026-08-24
+     🔗 https://github.com/kuyk15820-cpu/TTIOS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-28 21:47:12 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-28 21:47:12 UTC] [UPD]   📢 📦 frarius/pure-sshrd
+     ⭐ 0  🗣 Shell  📅 2026-08-27
+     🔗 https://github.com/frarius/pure-sshrd
+     📝 The new generation of SSH-Ramdisk maker
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-28 21:47:12 UTC] [UPD]   📢 📦 alaacentar6-afk/Alaa
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/alaacentar6-afk/Alaa
+     📝 center
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-28 21:47:12 UTC] [INFO] ============================================================
+[2026-08-28 21:47:12 UTC] [INFO] Completato — 56 nuovi, 6 aggiornati, 0 errori
+[2026-08-28 21:47:12 UTC] [INFO] ============================================================
