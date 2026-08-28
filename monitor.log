@@ -71144,3 +71144,290 @@
 [2026-08-27 21:55:04 UTC] [INFO] ============================================================
 [2026-08-27 21:55:04 UTC] [INFO] Completato — 55 nuovi, 3 aggiornati, 0 errori
 [2026-08-27 21:55:04 UTC] [INFO] ============================================================
+[2026-08-28 10:06:25 UTC] [INFO] ============================================================
+[2026-08-28 10:06:25 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-28 10:06:25 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-28 10:06:25 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-28 10:06:25 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-28 10:06:25 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-28 10:06:25 UTC] [INFO] ============================================================
+[2026-08-28 10:06:25 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-28 10:06:25 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-28 10:06:27 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-28 10:06:27 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-28 10:06:27 UTC] [NEW]   🆕 📦 DaddyZyn/Windows-Vuln-drivers
+     ⭐ 1  🗣 C++  📅 2026-08-28
+     🔗 https://github.com/DaddyZyn/Windows-Vuln-drivers
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:27 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-28 10:06:27 UTC] [UPD]   📢 📦 warsang/kernelforge-web
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/warsang/kernelforge-web
+     📝 KernelForge kernelforge-web - split from monorepo
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-28 10:06:27 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-28 10:06:27 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-28 10:06:30 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 39 NUOVI repository:
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Cxxire/Challenge_HEC
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/Cxxire/Challenge_HEC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 drantunes/template-security-incident-triage
+     ⭐ 0  🗣 TypeScript  📅 2026-08-27
+     🔗 https://github.com/drantunes/template-security-incident-triage
+     📝 Agent for Security Incident Triage and Response - SOC Assistant that investigate…
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 jonnnnn-c/synthetic-forensic-scenario-generator
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/jonnnnn-c/synthetic-forensic-scenario-generator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 GOP963/cybersecurity-cheatsheets
+     ⭐ 0  🗣 C++  📅 2026-08-28
+     🔗 https://github.com/GOP963/cybersecurity-cheatsheets
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 alu-z/asset-lighthouse
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/alu-z/asset-lighthouse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 vimalrootben/vimalrootben
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/vimalrootben/vimalrootben
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 jackson-n6890/edryzj
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/jackson-n6890/edryzj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 BofanZhou/Awesome-agent-skills-zh
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/BofanZhou/Awesome-agent-skills-zh
+     📝 精选可用的 AI Agent Skills，中文介绍、保留英文术语，少而精、可快速上手。适用于 Claude Code / Codex / pi 等  Agen…
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 leejoan8643/edrxfb
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/leejoan8643/edrxfb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 qwertyuiopas17/netsentinel
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/qwertyuiopas17/netsentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Edem692/Suspicious-File-Hash-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/Edem692/Suspicious-File-Hash-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 ismailniima-netizen/Olaleye-ismail
+     ⭐ 0  🗣 HTML  📅 2026-08-27
+     🔗 https://github.com/ismailniima-netizen/Olaleye-ismail
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 zcb1010101/EDR-Telemetry-UI
+     ⭐ 1  🗣 PowerShell  📅 2026-08-28
+     🔗 https://github.com/zcb1010101/EDR-Telemetry-UI
+     📝 A Tencent mini project ,which is an offline toolchain designed to validate the t…
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Afsu03/AegisAI
+     ⭐ 0  🗣 TypeScript  📅 2026-08-28
+     🔗 https://github.com/Afsu03/AegisAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 JCasas59/PERSISTENCIA-RED
+     ⭐ 0  🗣 PowerShell  📅 2026-08-28
+     🔗 https://github.com/JCasas59/PERSISTENCIA-RED
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 iliikata/edrogabaritni-sofia
+     ⭐ 0  🗣 JavaScript  📅 2026-08-28
+     🔗 https://github.com/iliikata/edrogabaritni-sofia
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 umarniazafrid/Week-11-Task-3-Part-3-step-3
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/umarniazafrid/Week-11-Task-3-Part-3-step-3
+     📝 Direct Syscall Injection (Bypasses EDR)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 xon1y/src-hunter-skill
+     ⭐ 0  🗣 Shell  📅 2026-08-28
+     🔗 https://github.com/xon1y/src-hunter-skill
+     📝 SRC / bug-bounty Claude Code skill with persistent hunting framework: three-laye…
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 umarniazafrid/Week-11-Task-3-Part-3-step-2
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/umarniazafrid/Week-11-Task-3-Part-3-step-2
+     📝 Standard API Injection (Baseline – Triggers EDR). A C# payload that uses standar…
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 miran-artcode/todolist2026
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/miran-artcode/todolist2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 walshkathryn0/edrxza
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/walshkathryn0/edrxza
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 umarniazafrid/Week-11-Task-3-Part-2-Step-2-
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/umarniazafrid/Week-11-Task-3-Part-2-Step-2-
+     📝 This script crafts the syscall stub in memory, copies the function arguments to …
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Official-Samuel-Ntuen/SOC-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/Official-Samuel-Ntuen/SOC-Detection-Lab
+     📝 Cloud-native SIEM & EDR Detection Engineering using Wazuh, Atomic Red Team, and …
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 xsefirosus/sefi-RAM-optimizer
+     ⭐ 0  🗣 Rust  📅 2026-08-27
+     🔗 https://github.com/xsefirosus/sefi-RAM-optimizer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Mrsystem1/Mrsystem1
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/Mrsystem1/Mrsystem1
+     📝 My personal GitHub profile README.
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Gh05txvx/elastic-attack-simulation-logs
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/Gh05txvx/elastic-attack-simulation-logs
+     📝 Synthetic security logs for an Elastic SIEM lab
+     🏷  elasticsearch, log-generator, siem, simulator
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 ekkor13/cortex-xdr-library
+     ⭐ 1  🗣 XQuery  📅 2026-08-27
+     🔗 https://github.com/ekkor13/cortex-xdr-library
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Tastico/offline-laptop-diagnostics
+     ⭐ 0  🗣 PowerShell  📅 2026-08-28
+     🔗 https://github.com/Tastico/offline-laptop-diagnostics
+     📝 (nessuna descrizione)
+     🏷  diagnostics, it-support, powershell, windows
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Levi271997/edrian-porfolios
+     ⭐ 0  🗣 TypeScript  📅 2026-08-28
+     🔗 https://github.com/Levi271997/edrian-porfolios
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 mcbbugu/runlock
+     ⭐ 1  🗣 TypeScript  📅 2026-08-28
+     🔗 https://github.com/mcbbugu/runlock
+     📝 Audit a command on your laptop, lock what it touched, rerun it under a macOS sea…
+     🏷  audit, cli, macos, sandbox, seatbelt, supply-chain
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Faris-stuck/zaqorin
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/Faris-stuck/zaqorin
+     📝 ZaQorin — AI SOC Assistant berbahasa Indonesia untuk pasar Indonesia. Alert tria…
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 rc7700-77/incident-response-capstone
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/rc7700-77/incident-response-capstone
+     📝 SOC-focused fictional incident response capstone featuring log correlation, IoC …
+     🏷  cybersecurity, digital-forensics, incident-investigation, incident-response, ioc-analysis, log-analysis, powershell, security-operations, snort, soc-analyst, threat-detection, zeek
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 mgrigoryev-pt/mipt_cpp_course
+     ⭐ 0  🗣 N/A  📅 2026-08-27
+     🔗 https://github.com/mgrigoryev-pt/mipt_cpp_course
+     📝 Курс лекций и практических работ по C++ВШПИ МФТИ и Positive Technologies
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 mhacc001/sigma-detections
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/mhacc001/sigma-detections
+     📝 13 Sigma detection rules across Windows, Linux, network, and web, mapped to MITR…
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 jreisdorffer/junoscope
+     ⭐ 0  🗣 PowerShell  📅 2026-08-27
+     🔗 https://github.com/jreisdorffer/junoscope
+     📝 A lightweight DFIR Collector for Junos devices
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 Agent-Mage/ctrlmap
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/Agent-Mage/ctrlmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 dharmitejani/sentinel-triage
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/dharmitejani/sentinel-triage
+     📝 Comprehensive project exploring software design patterns
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 RygartKun/Cyber-Security-Skills
+     ⭐ 1  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/RygartKun/Cyber-Security-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:30 UTC] [NEW]   🆕 📦 yesyfhhf/Process-Monitor-terrible-edition-
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/yesyfhhf/Process-Monitor-terrible-edition-
+     📝 **THIS SOFTWARE IS CREATED WITH AI** Program that lets you see suspicious proces…
+     🏷  —
+[2026-08-28 10:06:30 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-28 10:06:30 UTC] [UPD]   📢 📦 Anamitra-Sarkar/FusionUncertaintyNet
+     ⭐ 0  🗣 Python  📅 2026-08-24
+     🔗 https://github.com/Anamitra-Sarkar/FusionUncertaintyNet
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-28 10:06:30 UTC] [UPD]   📢 📦 Panopticon-Co/panopticon-console
+     ⭐ 0  🗣 Python  📅 2026-08-27
+     🔗 https://github.com/Panopticon-Co/panopticon-console
+     📝 A Sweet Dashboard 
+     🏷  console, dashboard
+     🔄 Motivo: repo recente (0gg) | nuovi topic: console, dashboard
+[2026-08-28 10:06:30 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-28 10:06:30 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-28 10:06:32 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-28 10:06:32 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-28 10:06:32 UTC] [NEW]   🆕 📦 g-cer/stapler-penetration-testing
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/g-cer/stapler-penetration-testing
+     📝 Penetration testing black-box della VM VulnHub Stapler:1 - Narrative + Report te…
+     🏷  —
+[2026-08-28 10:06:32 UTC] [NEW]   🆕 📦 mgrsblower/MGRS-HEN
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/mgrsblower/MGRS-HEN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:32 UTC] [NEW]   🆕 📦 hyprusrarch/hyprusrarch.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-08-28
+     🔗 https://github.com/hyprusrarch/hyprusrarch.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-28 10:06:32 UTC] [NEW]   🆕 📦 frarius/pure-sshrd
+     ⭐ 0  🗣 Shell  📅 2026-08-27
+     🔗 https://github.com/frarius/pure-sshrd
+     📝 The new generation of SSH-Ramdisk maker
+     🏷  —
+[2026-08-28 10:06:32 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-28 10:06:32 UTC] [UPD]   📢 📦 trinhvantu1210-boop/BuildApp
+     ⭐ 0  🗣 Swift  📅 2026-08-27
+     🔗 https://github.com/trinhvantu1210-boop/BuildApp
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-28 10:06:32 UTC] [UPD]   📢 📦 kuyk15820-cpu/TTIOS
+     ⭐ 0  🗣 Swift  📅 2026-08-24
+     🔗 https://github.com/kuyk15820-cpu/TTIOS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-08-28 10:06:32 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-28 10:06:32 UTC] [UPD]   📢 📦 samicryzen/valorant-vanguard-bypass-2026
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/samicryzen/valorant-vanguard-bypass-2026
+     📝 Bypass Vanguard kernel protection on Windows 10/11 to load unsigned drivers and …
+     🏷  24h2, ai, api, bypass-vanguard, counter-strike, discord-bot, dpy, esp, external, game, login, monero, overlay, patch, ranked, secure-boot, update, val-silent-aim-2026, valorant-cheat-2026
+     🔄 Motivo: repo recente (3gg)
+[2026-08-28 10:06:32 UTC] [INFO] ============================================================
+[2026-08-28 10:06:32 UTC] [INFO] Completato — 44 nuovi, 7 aggiornati, 0 errori
+[2026-08-28 10:06:32 UTC] [INFO] ============================================================
