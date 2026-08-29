@@ -71919,3 +71919,306 @@
 [2026-08-29 06:05:06 UTC] [INFO] ============================================================
 [2026-08-29 06:05:06 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
 [2026-08-29 06:05:06 UTC] [INFO] ============================================================
+[2026-08-29 16:20:56 UTC] [INFO] ============================================================
+[2026-08-29 16:20:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-29 16:20:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-29 16:20:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-29 16:20:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-29 16:20:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-29 16:20:56 UTC] [INFO] ============================================================
+[2026-08-29 16:20:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-29 16:20:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-29 16:20:58 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-29 16:20:58 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-29 16:20:58 UTC] [NEW]   🆕 📦 yunxl985211/poc-
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/yunxl985211/poc-
+     📝 1
+     🏷  —
+[2026-08-29 16:20:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-29 16:20:58 UTC] [UPD]   📢 📦 warsang/kernelforge-web
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/warsang/kernelforge-web
+     📝 KernelForge kernelforge-web - split from monorepo
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-29 16:20:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-29 16:20:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-29 16:21:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 luna7724/edrmpz
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/luna7724/edrmpz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 Segaotava/Sphinx
+     ⭐ 1  🗣 C++  📅 2026-08-29
+     🔗 https://github.com/Segaotava/Sphinx
+     📝 Sphinx — Modular Windows implant written in C++. Stager + plugin system architec…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 tcox2/silver
+     ⭐ 0  🗣 Swift  📅 2026-08-29
+     🔗 https://github.com/tcox2/silver
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 vipinsky/Task-3
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/vipinsky/Task-3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 Kucing-Dev/Altair-Ebpf
+     ⭐ 0  🗣 Rust  📅 2026-08-28
+     🔗 https://github.com/Kucing-Dev/Altair-Ebpf
+     📝 sample code 
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 dupewon/veyronis
+     ⭐ 4  🗣 Rust  📅 2026-08-29
+     🔗 https://github.com/dupewon/veyronis
+     📝 VEYRONIS — Observe the behavior. Preserve the evidence. Verify everything. Windo…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 Dejavu845/LogBridge-OSS
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/Dejavu845/LogBridge-OSS
+     📝 Open-source macOS mixed-camera Log → ACES batch tool (proxy EXR / Resolve export…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 medbm5/cqr
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-08-29
+     🔗 https://github.com/medbm5/cqr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 AhmadAlmallah/kepryx
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/AhmadAlmallah/kepryx
+     📝 Open-source Asset Intelligence & Risk Platform for inventory, vulnerability cont…
+     🏷  asset-intelligence, compliance, cybersecurity, devsecops, fastapi, open-source, python, risk-assessment, vulnerability-management
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 edreessafi/edrees-safi
+     ⭐ 0  🗣 CSS  📅 2026-08-29
+     🔗 https://github.com/edreessafi/edrees-safi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 gotr00t0day/CRON_BACKDOOR_TECHNIQUES
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/gotr00t0day/CRON_BACKDOOR_TECHNIQUES
+     📝 This document covers various techniques for establishing and maintaining cron-ba…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 CyberZach8809/Incident-Response-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-28
+     🔗 https://github.com/CyberZach8809/Incident-Response-Investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 jpreddy017/nivxray-xdr
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/jpreddy017/nivxray-xdr
+     📝 Standalone NivXRay XDR security operations platform
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 omid76h/omid76h
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/omid76h/omid76h
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 huseynAgazade/soc-watchfloor
+     ⭐ 0  🗣 HTML  📅 2026-08-29
+     🔗 https://github.com/huseynAgazade/soc-watchfloor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 RedTeamAPT/RedTeam-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/RedTeamAPT/RedTeam-Roadmap
+     📝 Comprehensive Red Teaming & Advanced Threat Emulation (APT) Learning Roadmap bas…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 timshan/janus-scope
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/timshan/janus-scope
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 Parham-Dehghan/security-grade-ndr
+     ⭐ 0  🗣 C#  📅 2026-08-29
+     🔗 https://github.com/Parham-Dehghan/security-grade-ndr
+     📝 Security-grade, NAT-aware, evidence-driven NDR for .NET 10
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 amniato/my_site
+     ⭐ 0  🗣 HTML  📅 2026-08-29
+     🔗 https://github.com/amniato/my_site
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 irajbbibii/End-Point-Security-Iraj-Sajid
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/irajbbibii/End-Point-Security-Iraj-Sajid
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 kimimpr/Autonomous-SOC-Agent
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/kimimpr/Autonomous-SOC-Agent
+     📝 An AI-driven autonomous security operations agent for intelligent threat detecti…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 keiokr/kissedr
+     ⭐ 0  🗣 C++  📅 2026-08-29
+     🔗 https://github.com/keiokr/kissedr
+     📝 kissedr
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 muhmmod0-max/iot-edr
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/muhmmod0-max/iot-edr
+     📝 Multi-protocol IoT EDR system with ML detection, SOAR, and TLS — built as an ind…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 tedxoo/cyber-response
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/tedxoo/cyber-response
+     📝 System for cyber incidents
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 sifatnotes/Free-Cybersecurity-Labs-CTF-Practice
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/sifatnotes/Free-Cybersecurity-Labs-CTF-Practice
+     📝 Additional hands-on cybersecurity labs covering OSINT, source-code reconnaissanc…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 SaniaAfroz786/ssh-bruteforce-detection-soc
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/SaniaAfroz786/ssh-bruteforce-detection-soc
+     📝 Linux-based SSH brute-force detection and incident response system
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 SrikarReddy018/tryhackme-soc-l1
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/SrikarReddy018/tryhackme-soc-l1
+     📝 Hands-on learning and writeups from my TryHackMe SOC Level 1 journey, covering s…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 Jayasankha-dev/NetInspect
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/Jayasankha-dev/NetInspect
+     📝 Loading...
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 SrikarReddy018/SrikarReddy018
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/SrikarReddy018/SrikarReddy018
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 Om261520/phishguard
+     ⭐ 0  🗣 TypeScript  📅 2026-08-29
+     🔗 https://github.com/Om261520/phishguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 huseynAgazade/detection-as-code
+     ⭐ 1  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/huseynAgazade/detection-as-code
+     📝 Detection-as-Code — Reusable CI/CD pipeline templates and tooling for building, …
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 PREMPE/CrowdStrike-Falcon-Endpoint-Detection-Response
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/PREMPE/CrowdStrike-Falcon-Endpoint-Detection-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 lumduan/ev3-remote-vehicle
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/lumduan/ev3-remote-vehicle
+     📝 Bluetooth-gamepad-controlled LEGO MINDSTORMS EV3 vehicle on ev3dev, with ev3ctl:…
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 Abelsoftware1233/M-scan-software-
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/Abelsoftware1233/M-scan-software-
+     📝 Software scanner
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 muhammad-sajid17/pearls-aqi-predictor
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/muhammad-sajid17/pearls-aqi-predictor
+     📝 🌫️ 100% serverless AQI forecasting pipeline — hourly feature engineering, daily …
+     🏷  air-quality, automation, data-pipeline, data-science, etl, feature-engineering, feature-store, github-actions, machine-learning, model-registry, open-meteo, predictive-analytics, python, random-forest, regression, scikit-learn, serverless, streamlit, time-series-forecasting, weather-data
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 rishikeshyadavv/CyberLens
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/rishikeshyadavv/CyberLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 fahadh1112/sentinel-ai
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/fahadh1112/sentinel-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 SongJunguo/jbl-aura-play-together
+     ⭐ 0  🗣 Shell  📅 2026-08-28
+     🔗 https://github.com/SongJunguo/jbl-aura-play-together
+     📝 Experimental Linux link/unlink tooling for JBL Authentics 300 and Harman Kardon …
+     🏷  auracast, bluetooth, bluez, harman-kardon, jbl, linux, reverse-engineering
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 wangzunxiang/CyberSecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/wangzunxiang/CyberSecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [NEW]   🆕 📦 hardbuilder/Pro-Ran-Asses
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/hardbuilder/Pro-Ran-Asses
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-29 16:21:01 UTC] [UPD]   📢 📦 akinfarfar/soc-homelab
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/akinfarfar/soc-homelab
+     📝 Enterprise SOC Homelab — Uçtan Uca Güvenlik Operasyonları Mimarisi 
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-29 16:21:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-29 16:21:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-29 16:21:03 UTC] [INFO]   → 30 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 risytprem58/CheatSheetPT
+     ⭐ 0  🗣 PHP  📅 2026-08-29
+     🔗 https://github.com/risytprem58/CheatSheetPT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 EnderAstra7744/CachyOS-Android-App
+     ⭐ 0  🗣 Kotlin  📅 2026-08-29
+     🔗 https://github.com/EnderAstra7744/CachyOS-Android-App
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 ryven22/expoler-5
+     ⭐ 0  🗣 Swift  📅 2026-08-29
+     🔗 https://github.com/ryven22/expoler-5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 itstallam/Morpheus
+     ⭐ 0  🗣 SCSS  📅 2026-08-29
+     🔗 https://github.com/itstallam/Morpheus
+     📝 Boot to r00t
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 ryven22/expoler4
+     ⭐ 0  🗣 Swift  📅 2026-08-29
+     🔗 https://github.com/ryven22/expoler4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 phamhaicuong/Canxelo
+     ⭐ 0  🗣 Swift  📅 2026-08-29
+     🔗 https://github.com/phamhaicuong/Canxelo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 ryven22/exploler2
+     ⭐ 0  🗣 Swift  📅 2026-08-29
+     🔗 https://github.com/ryven22/exploler2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 Ibhamada0/Root-My-Galaxy-Payloads-Dm3q-S918N
+     ⭐ 0  🗣 C  📅 2026-08-29
+     🔗 https://github.com/Ibhamada0/Root-My-Galaxy-Payloads-Dm3q-S918N
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 natthew905-a11y/proxyxmz
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/natthew905-a11y/proxyxmz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 syedazeez337/agentfoundry
+     ⭐ 0  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/syedazeez337/agentfoundry
+     📝 An experiment platform that makes agent-architecture claims falsifiable. Runs co…
+     🏷  —
+[2026-08-29 16:21:03 UTC] [NEW]   🆕 📦 sajibsk758-bit/last-smi
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/sajibsk758-bit/last-smi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-29 16:21:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-29 16:21:03 UTC] [UPD]   📢 📦 rezaadi0105/700-960
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/rezaadi0105/700-960
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-29 16:21:03 UTC] [INFO] ============================================================
+[2026-08-29 16:21:03 UTC] [INFO] Completato — 52 nuovi, 3 aggiornati, 0 errori
+[2026-08-29 16:21:03 UTC] [INFO] ============================================================
