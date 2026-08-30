@@ -72710,3 +72710,232 @@
 [2026-08-30 11:27:35 UTC] [INFO] ============================================================
 [2026-08-30 11:27:35 UTC] [INFO] Completato — 19 nuovi, 11 aggiornati, 0 errori
 [2026-08-30 11:27:35 UTC] [INFO] ============================================================
+[2026-08-30 16:13:59 UTC] [INFO] ============================================================
+[2026-08-30 16:13:59 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-30 16:13:59 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-30 16:13:59 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-30 16:13:59 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-30 16:13:59 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-30 16:13:59 UTC] [INFO] ============================================================
+[2026-08-30 16:13:59 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-30 16:13:59 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-30 16:14:01 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-30 16:14:01 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-08-30 16:14:01 UTC] [NEW]   🆕 📦 krosgtadcb-debug/Antihook
+     ⭐ 1  🗣 C#  📅 2026-08-30
+     🔗 https://github.com/krosgtadcb-debug/Antihook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:01 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-30 16:14:01 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-30 16:14:01 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-30 16:14:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 RobertGowera/soc-investigations-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/RobertGowera/soc-investigations-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 rajshashwatgrc2001-hue/secops-detection-and-response-portfolio
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/rajshashwatgrc2001-hue/secops-detection-and-response-portfolio
+     📝 Enterprise SecOps portfolio featuring Agentic AI SOC alert triaging, Multi-Cloud…
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 JoaquinHernandez/enterprise-secops-mcp
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/JoaquinHernandez/enterprise-secops-mcp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 Devko/AISIM
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/Devko/AISIM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 parththakurcs28-collab/2024-28_Parth_Thakur_2410030984_5th_semester_3cse15
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/parththakurcs28-collab/2024-28_Parth_Thakur_2410030984_5th_semester_3cse15
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 Valon-Jang/bastion-agent
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/Valon-Jang/bastion-agent
+     📝 A local AI workbench designed to operate within security-constrained environment…
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 Zektopic/esp32-blue-audio-puck
+     ⭐ 0  🗣 C  📅 2026-08-30
+     🔗 https://github.com/Zektopic/esp32-blue-audio-puck
+     📝 Turn wired headphones wireless: an ESP32 Bluetooth audio receiver (A2DP sink) wi…
+     🏷  a2dp, a2dp-sink, audio, avrcp, biquad, bluetooth, bluetooth-audio, dac, diy, dsp, embedded, equalizer, esp-idf, esp32, firmware, freertos, hardware, headphones, i2s, pcm5102a
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 zaimmzulhazziq/soc-log-analysis-siem
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/zaimmzulhazziq/soc-log-analysis-siem
+     📝 SOC L1 hands-on project: alert triage and log analysis on LetsDefend (SIEM/EDR).…
+     🏷  blue-team, cybersecurity, incident-response, letsdefend, siem, soc, threat-detection
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 CybersecurityMS/SOC-Agent
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/CybersecurityMS/SOC-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 noamfadida/CarGuard
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/noamfadida/CarGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 awaizalampatel/Spend-Shield
+     ⭐ 0  🗣 PHP  📅 2026-08-30
+     🔗 https://github.com/awaizalampatel/Spend-Shield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 WingPig99/sec-reconcile
+     ⭐ 0  🗣 Shell  📅 2026-08-30
+     🔗 https://github.com/WingPig99/sec-reconcile
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 Robin43667/donlockleone
+     ⭐ 0  🗣 C  📅 2026-08-29
+     🔗 https://github.com/Robin43667/donlockleone
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 malee006/TTP-Parallax
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/malee006/TTP-Parallax
+     📝 TTP Parallax is an open-source, reproducible benchmark that separates memorized …
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 raunitgrey7/aegis
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/raunitgrey7/aegis
+     📝 AI-powered cybersecurity investigation & threat-intelligence platform — determin…
+     🏷  ai, anomaly-detection, cybersecurity, fastapi, incident-response, mitre-attack, nextjs, security, siem, threat-intelligence
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 afuadahmed/soc-copilot
+     ⭐ 0  🗣 TypeScript  📅 2026-08-30
+     🔗 https://github.com/afuadahmed/soc-copilot
+     📝 AI-powered SOC incident triage and security log analysis
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 SounSom/WatchDogOperation
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/SounSom/WatchDogOperation
+     📝 Mini edr. Prolly a mini edr.
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 ppakka/EDR-Threat-Verification
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/ppakka/EDR-Threat-Verification
+     📝 The program involves four steps: Data cleaning, elimination of false-positives, …
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 Null72X/Null72X
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/Null72X/Null72X
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 adamasnegro/fundamentos-seguranca-informacao
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/adamasnegro/fundamentos-seguranca-informacao
+     📝 Estudos de Fundamentos de Segurança da Informação — CompTIA Security+ | Autentic…
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 AnanyaJain2813/Sentry
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/AnanyaJain2813/Sentry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 pm05042009-rgb/SOC-Log-Analyzer
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/pm05042009-rgb/SOC-Log-Analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 T4riiiiq/Evasion
+     ⭐ 1  🗣 C++  📅 2026-08-30
+     🔗 https://github.com/T4riiiiq/Evasion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 venya11/radhaunt
+     ⭐ 1  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/venya11/radhaunt
+     📝 Remote lightweight EDR for Linux systems based on Telegram backend
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 Ritesh-09225/RiskWeave-Site
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/Ritesh-09225/RiskWeave-Site
+     📝 RiskWeave is an evidence-driven cybersecurity decision-support platform that con…
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 saniyarani524-gif/edretention
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/saniyarani524-gif/edretention
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [NEW]   🆕 📦 Anurag-techie-artist/AgentSOC_BuildSprint
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/Anurag-techie-artist/AgentSOC_BuildSprint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:03 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-30 16:14:03 UTC] [UPD]   📢 📦 Little-H-lying-flat/72stack-sec
+     ⭐ 5  🗣 Python  📅 2026-08-28
+     🔗 https://github.com/Little-H-lying-flat/72stack-sec
+     📝 实战 SRC / 众测 / Bug bounty 漏洞挖掘工作流 skill：19 攻击类 playbook、305 结构化 payload、176 WAF 绕…
+     🏷  bug-bounty, llm-security, mcp, pentesting, security, src, vulnerability-hunting
+     🔄 Motivo: repo recente (2gg)
+[2026-08-30 16:14:03 UTC] [UPD]   📢 📦 jpreddy017/nivxray-xdr
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/jpreddy017/nivxray-xdr
+     📝 Standalone NivXRay XDR security operations platform
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-30 16:14:03 UTC] [UPD]   📢 📦 firatcanbekar/linux-server-pentest-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/firatcanbekar/linux-server-pentest-lab
+     📝 Black-box-style penetration testing lab with evidence-driven reporting, CVSS sco…
+     🏷  cybersecurity, linux, metasploit, nessus, nmap, penetration-testing, privilege-escalation, shellshock, tomcat, vulnerability-assessment
+     🔄 Motivo: repo recente (0gg)
+[2026-08-30 16:14:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-30 16:14:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-30 16:14:05 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-30 16:14:05 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-30 16:14:05 UTC] [NEW]   🆕 📦 ssike138sna/9
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/ssike138sna/9
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:05 UTC] [NEW]   🆕 📦 LetsPlay-ps/aio
+     ⭐ 0  🗣 JavaScript  📅 2026-08-30
+     🔗 https://github.com/LetsPlay-ps/aio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 16:14:05 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-08-30 16:14:05 UTC] [UPD]   📢 📦 NH-NAK/IPAEDIE-ADD-LOGIN
+     ⭐ 0  🗣 Swift  📅 2026-08-30
+     🔗 https://github.com/NH-NAK/IPAEDIE-ADD-LOGIN
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-30 16:14:05 UTC] [UPD]   📢 📦 rezaadi0105/700-960
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/rezaadi0105/700-960
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-30 16:14:05 UTC] [UPD]   📢 📦 shleder/vetto-tiers
+     ⭐ 0  🗣 Rust  📅 2026-08-30
+     🔗 https://github.com/shleder/vetto-tiers
+     📝 Work branches for vetto tier features (integration staging)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-30 16:14:05 UTC] [UPD]   📢 📦 kuyk15820-cpu/TTIOS
+     ⭐ 0  🗣 Swift  📅 2026-08-24
+     🔗 https://github.com/kuyk15820-cpu/TTIOS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-30 16:14:05 UTC] [UPD]   📢 📦 CODE-NAME-IN-B/ps4jb
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/CODE-NAME-IN-B/ps4jb
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-30 16:14:05 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-30 16:14:05 UTC] [INFO] ============================================================
+[2026-08-30 16:14:05 UTC] [INFO] Completato — 30 nuovi, 9 aggiornati, 0 errori
+[2026-08-30 16:14:05 UTC] [INFO] ============================================================
