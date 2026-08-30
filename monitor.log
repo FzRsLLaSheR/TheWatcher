@@ -72371,3 +72371,156 @@
 [2026-08-29 20:33:23 UTC] [INFO] ============================================================
 [2026-08-29 20:33:23 UTC] [INFO] Completato — 20 nuovi, 4 aggiornati, 0 errori
 [2026-08-29 20:33:23 UTC] [INFO] ============================================================
+[2026-08-30 04:12:17 UTC] [INFO] ============================================================
+[2026-08-30 04:12:17 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-30 04:12:17 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-30 04:12:17 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-30 04:12:17 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-30 04:12:17 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-30 04:12:17 UTC] [INFO] ============================================================
+[2026-08-30 04:12:17 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-30 04:12:17 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-30 04:12:19 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-30 04:12:19 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-30 04:12:19 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-30 04:12:19 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-30 04:12:19 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-30 04:12:21 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 i-asifansari/ai-interview-guide
+     ⭐ 0  🗣 HTML  📅 2026-08-30
+     🔗 https://github.com/i-asifansari/ai-interview-guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 ryandus/edrm-litigation-forensics-showcase
+     ⭐ 0  🗣 HTML  📅 2026-08-30
+     🔗 https://github.com/ryandus/edrm-litigation-forensics-showcase
+     📝 High-Stakes Digital Forensics to E-Discovery & Litigation Support Technical Show…
+     🏷  axiom, cdr, cellebrite, digital-forensic, digital-forensic-tool, digital-forensics, digital-forensics-analysis, digital-forensics-incident-response, e-discovery, edrm, litigation-support, relativity
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 neorylet/AEGIS
+     ⭐ 0  🗣 Rust  📅 2026-08-29
+     🔗 https://github.com/neorylet/AEGIS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 YucongDuan/Intent-equilibrium-active-cyber-defense-for-humans-workloads-AI-agents-and-supply-chains.
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/YucongDuan/Intent-equilibrium-active-cyber-defense-for-humans-workloads-AI-agents-and-supply-chains.
+     📝 IntentShield starts from a different premise: cybersecurity is not adequately mo…
+     🏷  —
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 morasantosh2007-rgb/Ciphermind
+     ⭐ 0  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/morasantosh2007-rgb/Ciphermind
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 NadineElliottCyber/SOC335-CVE-2024-49138-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation
+     📝 SOC investigation of a CVE-2024-49138 exploitation alert using log analysis, thr…
+     🏷  —
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 digitalopentech/tcc-soc-copilot
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/digitalopentech/tcc-soc-copilot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 kenjugmail/DroneThingOpen
+     ⭐ 0  🗣 TypeScript  📅 2026-08-29
+     🔗 https://github.com/kenjugmail/DroneThingOpen
+     📝 Guardal — sensing-only aviation and defensive-perception platform. Public snapsh…
+     🏷  aviation, bun, deck-gl, drones, geospatial, maplibre, typescript, uav
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 Khatim-Aly/FrozenWall
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/Khatim-Aly/FrozenWall
+     📝 FrozenWall — Cyber Sentinel of Gilgit-Baltistan. Windows SOC/EDR product details…
+     🏷  edr, frozenwall, security, soc, windows
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 chill-music/windows-security-scanner
+     ⭐ 0  🗣 Python  📅 2026-08-29
+     🔗 https://github.com/chill-music/windows-security-scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 04:12:21 UTC] [NEW]   🆕 📦 jw0n-00/splunk-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/jw0n-00/splunk-soc-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 04:12:21 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-30 04:12:21 UTC] [UPD]   📢 📦 luna7724/edrmpz
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/luna7724/edrmpz
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-30 04:12:21 UTC] [UPD]   📢 📦 jpreddy017/nivxray-xdr
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/jpreddy017/nivxray-xdr
+     📝 Standalone NivXRay XDR security operations platform
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-30 04:12:21 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-30 04:12:21 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-30 04:12:23 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-30 04:12:23 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-08-30 04:12:23 UTC] [NEW]   🆕 📦 NH-NAK/IPAEDIE-ADD-LOGIN
+     ⭐ 0  🗣 Swift  📅 2026-08-30
+     🔗 https://github.com/NH-NAK/IPAEDIE-ADD-LOGIN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 04:12:23 UTC] [NEW]   🆕 📦 htin9326-a11y/iphone
+     ⭐ 0  🗣 Swift  📅 2026-08-29
+     🔗 https://github.com/htin9326-a11y/iphone
+     📝 hhhh
+     🏷  —
+[2026-08-30 04:12:23 UTC] [NEW]   🆕 📦 killernos/PS4-Autoloader
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/killernos/PS4-Autoloader
+     📝 PS4 Autoloader to simi tether jailbreak
+     🏷  —
+[2026-08-30 04:12:23 UTC] [NEW]   🆕 📦 LetsPlay-ps/130
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/LetsPlay-ps/130
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 04:12:23 UTC] [NEW]   🆕 📦 LetsPlay-ps/112
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/LetsPlay-ps/112
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-30 04:12:23 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-08-30 04:12:23 UTC] [UPD]   📢 📦 rezaadi0105/700-960
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/rezaadi0105/700-960
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-30 04:12:23 UTC] [UPD]   📢 📦 CODE-NAME-IN-B/ps4jb
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/CODE-NAME-IN-B/ps4jb
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-30 04:12:23 UTC] [UPD]   📢 📦 BrunoCDN/pentest-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-24
+     🔗 https://github.com/BrunoCDN/pentest-portfolio
+     📝 Practical cybersecurity portfolio focused on penetration testing, Active Directo…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-30 04:12:23 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-08-30 04:12:23 UTC] [UPD]   📢 📦 risytprem58/CheatSheetPT
+     ⭐ 0  🗣 PHP  📅 2026-08-29
+     🔗 https://github.com/risytprem58/CheatSheetPT
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-30 04:12:23 UTC] [UPD]   📢 📦 trinhvantu1210-boop/BuildApp
+     ⭐ 0  🗣 Swift  📅 2026-08-27
+     🔗 https://github.com/trinhvantu1210-boop/BuildApp
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-30 04:12:23 UTC] [INFO] ============================================================
+[2026-08-30 04:12:23 UTC] [INFO] Completato — 16 nuovi, 8 aggiornati, 0 errori
+[2026-08-30 04:12:23 UTC] [INFO] ============================================================
