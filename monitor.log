@@ -73547,3 +73547,288 @@
 [2026-08-31 12:58:27 UTC] [INFO] ============================================================
 [2026-08-31 12:58:27 UTC] [INFO] Completato — 40 nuovi, 6 aggiornati, 0 errori
 [2026-08-31 12:58:27 UTC] [INFO] ============================================================
+[2026-08-31 22:35:34 UTC] [INFO] ============================================================
+[2026-08-31 22:35:34 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-31 22:35:34 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-31 22:35:34 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-31 22:35:34 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-31 22:35:34 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-31 22:35:34 UTC] [INFO] ============================================================
+[2026-08-31 22:35:34 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-31 22:35:34 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-31 22:35:36 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-31 22:35:36 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-08-31 22:35:36 UTC] [NEW]   🆕 📦 christiannagel26-nknx/alien2
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/christiannagel26-nknx/alien2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:36 UTC] [NEW]   🆕 📦 xarjunpatil/SIH26148-Creation-of-scripts-functions-with-new-programming-language-to-commence
+     ⭐ 0  🗣 HTML  📅 2026-08-31
+     🔗 https://github.com/xarjunpatil/SIH26148-Creation-of-scripts-functions-with-new-programming-language-to-commence
+     📝 Creation of scripts/functions with new programming language to commence Computer…
+     🏷  —
+[2026-08-31 22:35:36 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-08-31 22:35:36 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-31 22:35:36 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-31 22:35:39 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 39 NUOVI repository:
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 asterion30/SophosQuick
+     ⭐ 0  🗣 Go  📅 2026-08-31
+     🔗 https://github.com/asterion30/SophosQuick
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 ThySoave/prospeccao-outbound-estudo-de-caso
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/ThySoave/prospeccao-outbound-estudo-de-caso
+     📝 Estudo de caso: motor de prospecção outbound com 7 agentes — 1.919 negócios cata…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 5dg/PHANTOM
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/5dg/PHANTOM
+     📝 Synthetic-only adversary simulation and detection validation framework for purpl…
+     🏷  cybersecurity, detection-engineering, fastapi, mitre-attack, purple-team, python, security-research
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 Swapshadow/openvigie
+     ⭐ 0  🗣 TypeScript  📅 2026-08-30
+     🔗 https://github.com/Swapshadow/openvigie
+     📝 Open-source, asset-centric cybersecurity and vulnerability intelligence platform
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 ThySoave/edrsys-estudo-de-caso
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/ThySoave/edrsys-estudo-de-caso
+     📝 Estudo de caso: sistema de gestão comercial com 10 agentes de IA que substituiu …
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 colinweiner111/azure-defender-scope-planning
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/colinweiner111/azure-defender-scope-planning
+     📝 Runbook for policy-managed resource-level VDI exclusions from Microsoft Defender…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 Denisbondarenko/Wireshark-AI
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/Denisbondarenko/Wireshark-AI
+     📝 Wireshark AI pcap analysis with local Ollama or Cloud AI Connection 
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 pratty010/Toride
+     ⭐ 0  🗣 PowerShell  📅 2026-08-31
+     🔗 https://github.com/pratty010/Toride
+     📝 🛡️ Toride (砦): Offensive Penetration Testing Operations & Defensive Host Posture…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 marcelo-red/-Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/marcelo-red/-Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     📝 "Desenvolvimento prático e documentação de um laboratório controlado de seguranç…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 kleckie7/aegis-one
+     ⭐ 1  🗣 TypeScript  📅 2026-08-31
+     🔗 https://github.com/kleckie7/aegis-one
+     📝 Interactive cybersecurity all-in-one command suite — 10 live security dashboards…
+     🏷  cybersecurity, dashboard, data-visualization, portfolio, react, recharts, tailwindcss, typescript
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 stamang0005/stamang0005
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/stamang0005/stamang0005
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 MrCh0p808/Mum_AI_ESP32_Real_Time_Multilingual_Conversational_AI
+     ⭐ 0  🗣 C  📅 2026-08-30
+     🔗 https://github.com/MrCh0p808/Mum_AI_ESP32_Real_Time_Multilingual_Conversational_AI
+     📝 Autonomous full-duplex conversational voice appliance on ESP32-S3. Powered by Ag…
+     🏷  agora-rtc, agora-rtc-engine, agora-rtc-sdk, agora-rtc-sdk-ng, conversational-agents, conversational-ai, conversational-bots, esp-idf, esp-project-package, esp32-s3, indic-languages, iot-application, iot-device, sarvam-ai, sarvam-api, tts-api, voice-agent, voice-ai, voice-assistant, voice-to-text
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 axkantsinicki-web/soc-incident-investigation1
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/axkantsinicki-web/soc-incident-investigation1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 christiannagel26-nknx/alien2
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/christiannagel26-nknx/alien2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 luanmath-arch/endpoint-security-monitor
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/luanmath-arch/endpoint-security-monitor
+     📝 Solução para inventário, monitoramento de conformidade e tratamento de riscos re…
+     🏷  compliance, device-inventory, edr, endpoint-security, nodejs, observability, postgresql, react, risk-management, security-monitoring, typescript
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 VianaPP/ioc-block-guard
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/VianaPP/ioc-block-guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 carinmadden/cybersecurity-portfolio
+     ⭐ 0  🗣 HTML  📅 2026-08-31
+     🔗 https://github.com/carinmadden/cybersecurity-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 GonzaBot/GonzaBot
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/GonzaBot/GonzaBot
+     📝 Analista de sistemas y desarrollador orientado a seguridad · Blue Team / SOC · h…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 muheebyusufbaba1/soc-triage-agent
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/muheebyusufbaba1/soc-triage-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 joaofarys200/joaofarys200
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/joaofarys200/joaofarys200
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 akshitayadav211/windows-registry-monitor
+     ⭐ 0  🗣 HTML  📅 2026-08-31
+     🔗 https://github.com/akshitayadav211/windows-registry-monitor
+     📝 A defensive Windows Registry monitoring toolkit for detecting unauthorized chang…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 xarjunpatil/SIH26148-Creation-of-scripts-functions-with-new-programming-language-to-commence
+     ⭐ 0  🗣 HTML  📅 2026-08-31
+     🔗 https://github.com/xarjunpatil/SIH26148-Creation-of-scripts-functions-with-new-programming-language-to-commence
+     📝 Creation of scripts/functions with new programming language to commence Computer…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 ssaksa80/SQL-Express-Tool
+     ⭐ 0  🗣 PowerShell  📅 2026-08-31
+     🔗 https://github.com/ssaksa80/SQL-Express-Tool
+     📝 Scheduled, verified backups for SQL Server Express, with a native Windows consol…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 xarjunpatil/SIH26105-AI-Powered-Continuous-Cyber-Risk-Quantification-and-Investment
+     ⭐ 0  🗣 HTML  📅 2026-08-31
+     🔗 https://github.com/xarjunpatil/SIH26105-AI-Powered-Continuous-Cyber-Risk-Quantification-and-Investment
+     📝 AI-Powered Continuous Cyber Risk Quantification and Investment Optimization Plat…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 0xnhsec/From-Chruch
+     ⭐ 0  🗣 Go  📅 2026-08-31
+     🔗 https://github.com/0xnhsec/From-Chruch
+     📝 Re-Publish Legal Windows E[x][]Ploitation
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 YaduvanshiHimanshunfsu/V.A.JR.A._CRS
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/YaduvanshiHimanshunfsu/V.A.JR.A._CRS
+     📝 Indian Army Terrier Cyber Quest 2026 [ AI KAVCH Competition]
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 ericdoyle846851635/m9edr520a
+     ⭐ 0  🗣 Shell  📅 2026-08-31
+     🔗 https://github.com/ericdoyle846851635/m9edr520a
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 ashik-ongit/logmorph
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/ashik-ongit/logmorph
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 Rajesh065/Security
+     ⭐ 0  🗣 TypeScript  📅 2026-08-31
+     🔗 https://github.com/Rajesh065/Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 vishwajeet090807/cyberquant
+     ⭐ 0  🗣 JavaScript  📅 2026-08-31
+     🔗 https://github.com/vishwajeet090807/cyberquant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 pluvshiie-rgb/edrtfgyuhijesd
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/pluvshiie-rgb/edrtfgyuhijesd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 gauravkdeore/assay
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/gauravkdeore/assay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 Thenukee/LAN-Network-Scanner-
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/Thenukee/LAN-Network-Scanner-
+     📝 A diagnostic-grade, Python-based local network scanner that identifies devices (…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 czh051015/ThreatLens
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/czh051015/ThreatLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 OnlyMick/THM-Free-Courses-and-Others
+     ⭐ 0  🗣 N/A  📅 2026-08-30
+     🔗 https://github.com/OnlyMick/THM-Free-Courses-and-Others
+     📝 Master cybersecurity skills with this free-only TryHackMe learning path.
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 Daniel-Luques/network-forensics-icedid-analysis
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/Daniel-Luques/network-forensics-icedid-analysis
+     📝 Analisis forense de red (PCAP) y triaje de incidente SOC sobre una infeccion por…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 chandan000000001/hackathon
+     ⭐ 1  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/chandan000000001/hackathon
+     📝 khao pio so jaoo LAMOO 
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 druiz/omarchy-tether-messages
+     ⭐ 0  🗣 QML  📅 2026-08-31
+     🔗 https://github.com/druiz/omarchy-tether-messages
+     📝 iPhone messages in the Omarchy bar via tether: guided Bluetooth setup, unread ba…
+     🏷  —
+[2026-08-31 22:35:39 UTC] [NEW]   🆕 📦 EmanQazii/ai-job-description-analyzer
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/EmanQazii/ai-job-description-analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:39 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-08-31 22:35:39 UTC] [UPD]   📢 📦 BLFSORENKNUDSEN/sortsoe-dmi-forecast
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/BLFSORENKNUDSEN/sortsoe-dmi-forecast
+     📝 DMI weather forecast 2026
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-31 22:35:39 UTC] [UPD]   📢 📦 ZiGabiZi/Malware_Lab
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/ZiGabiZi/Malware_Lab
+     📝 Un repo in care se vor produce interogari/prelucrari/creare si analiza de malwar…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-08-31 22:35:39 UTC] [UPD]   📢 📦 noqt/Lumi-Eggcracker
+     ⭐ 0  🗣 Python  📅 2026-08-03
+     🔗 https://github.com/noqt/Lumi-Eggcracker
+     📝 Stop unapproved local AI workloads outside the sandbox with a Linux cgroup-v2 gu…
+     🏷  ai-security, ai-workload-containment, cgroup-v2, cgroups, containment, gguf, github-actions, kill-switch, linux, llama-cpp, llm-security, local-ai, local-llm, open-source, pidfd, process-isolation, pytorch, runtime-security, safetensors, systemd
+     🔄 Motivo: nuovi topic: local-llm, gguf, safetensors, ai-workload-containment
+[2026-08-31 22:35:39 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-31 22:35:39 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-31 22:35:41 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-31 22:35:41 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-08-31 22:35:41 UTC] [NEW]   🆕 📦 christiannagel26-nknx/alien2
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/christiannagel26-nknx/alien2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:41 UTC] [NEW]   🆕 📦 Abdul-Wasey3174/mini-onednn
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/Abdul-Wasey3174/mini-onednn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:41 UTC] [NEW]   🆕 📦 0xnhsec/From-Chruch
+     ⭐ 0  🗣 Go  📅 2026-08-31
+     🔗 https://github.com/0xnhsec/From-Chruch
+     📝 Re-Publish Legal Windows E[x][]Ploitation
+     🏷  —
+[2026-08-31 22:35:41 UTC] [NEW]   🆕 📦 Abdo60267/pentest-academy-pr0
+     ⭐ 0  🗣 HTML  📅 2026-08-31
+     🔗 https://github.com/Abdo60267/pentest-academy-pr0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:41 UTC] [NEW]   🆕 📦 Rabs9/forge
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/Rabs9/forge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 22:35:41 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-08-31 22:35:41 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-31 22:35:41 UTC] [UPD]   📢 📦 rezaadi0105/700-960
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/rezaadi0105/700-960
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-31 22:35:41 UTC] [INFO] ============================================================
+[2026-08-31 22:35:41 UTC] [INFO] Completato — 46 nuovi, 5 aggiornati, 0 errori
+[2026-08-31 22:35:41 UTC] [INFO] ============================================================
