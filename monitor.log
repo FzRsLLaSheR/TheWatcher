@@ -73286,3 +73286,264 @@
 [2026-08-31 04:17:55 UTC] [INFO] ============================================================
 [2026-08-31 04:17:55 UTC] [INFO] Completato — 14 nuovi, 9 aggiornati, 0 errori
 [2026-08-31 04:17:55 UTC] [INFO] ============================================================
+[2026-08-31 12:58:20 UTC] [INFO] ============================================================
+[2026-08-31 12:58:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-08-31 12:58:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-08-31 12:58:20 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-08-31 12:58:20 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-08-31 12:58:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-08-31 12:58:20 UTC] [INFO] ============================================================
+[2026-08-31 12:58:20 UTC] [INFO] Query: 'byovd-killers'
+[2026-08-31 12:58:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-08-31 12:58:22 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-31 12:58:22 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-08-31 12:58:22 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-31 12:58:22 UTC] [UPD]   📢 📦 metalx1993/loldex
+     ⭐ 2  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/metalx1993/loldex
+     📝 Unified index of living-off-the-land techniques across Linux, Windows & Active D…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-08-31 12:58:22 UTC] [INFO] Query: 'edr-evasion'
+[2026-08-31 12:58:22 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-08-31 12:58:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 okdkebm/plutox-sec-forge
+     ⭐ 0  🗣 Shell  📅 2026-08-31
+     🔗 https://github.com/okdkebm/plutox-sec-forge
+     📝 AI自动渗透
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 denissakun65-sys/AI-Antivirus-Prototype
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/denissakun65-sys/AI-Antivirus-Prototype
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 foundry-solutions-uk/foundry-solutions-uk
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/foundry-solutions-uk/foundry-solutions-uk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 Pavan-184507/windows-cybersecurity-lab
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/Pavan-184507/windows-cybersecurity-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 nvaert1986/fortinet-forticlient-overlay
+     ⭐ 0  🗣 Shell  📅 2026-08-31
+     🔗 https://github.com/nvaert1986/fortinet-forticlient-overlay
+     📝 Gentoo Portage overlay for the full FortiClient endpoint client (VPN, ZTNA, AV, …
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 yukagil/wifidoctor
+     ⭐ 0  🗣 Swift  📅 2026-08-30
+     🔗 https://github.com/yukagil/wifidoctor
+     📝 Wi-Fiの遅さの原因を「電波 / AP / 回線 / Mac自身」に切り分けて、打てる手を提示する macOS メニューバーアプリ
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 ana-burdean/cynera
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/ana-burdean/cynera
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 furkansahinz/Security-Toolkit
+     ⭐ 0  🗣 JavaScript  📅 2026-08-31
+     🔗 https://github.com/furkansahinz/Security-Toolkit
+     📝 SOC analistleri için tarayıcıda çalışan, çevrimdışı güvenlik araç seti. HTTP req…
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 PahatzIT/PsLauncher
+     ⭐ 0  🗣 C#  📅 2026-08-31
+     🔗 https://github.com/PahatzIT/PsLauncher
+     📝 A lightweight Windows launcher for running PowerShell scripts silently with argu…
+     🏷  automation, csharp, deployment, dotnet, endpoint-management, launcher, powershell, powershell-scripts, rmm, scheduled-tasks, scripting, sysadmin, windows
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 silentcrow09/netpulse
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/silentcrow09/netpulse
+     📝 单文件 Windows 网络诊断命令行工具 · 内置 23 项诊断模块
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 Justine976/eDraw
+     ⭐ 0  🗣 TypeScript  📅 2026-08-31
+     🔗 https://github.com/Justine976/eDraw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 ZiGabiZi/Malware_Lab
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/ZiGabiZi/Malware_Lab
+     📝 Un repo in care se vor produce interogari/prelucrari/creare si analiza de malwar…
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 BLFSORENKNUDSEN/sortsoe-dmi-forecast
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/BLFSORENKNUDSEN/sortsoe-dmi-forecast
+     📝 DMI weather forecast 2026
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 joycegregory473964/edr
+     ⭐ 0  🗣 HTML  📅 2026-08-31
+     🔗 https://github.com/joycegregory473964/edr
+     📝 edr
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 mpgaurav/fenced-lease-coordinator
+     ⭐ 0  🗣 Java  📅 2026-08-31
+     🔗 https://github.com/mpgaurav/fenced-lease-coordinator
+     📝 Java 17 model of fenced lease coordination under worker pauses, delayed requests…
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 rivaed/CaixaDeFerramentasWindows
+     ⭐ 0  🗣 PowerShell  📅 2026-08-31
+     🔗 https://github.com/rivaed/CaixaDeFerramentasWindows
+     📝 Caixa de ferramentas unificada para Windows: debloat (10/11 auto), faxina de dis…
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 dharmstm/cyberroadmap
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/dharmstm/cyberroadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 YucongDuan/JusticeShield-STRATEGOS-10.0.0
+     ⭐ 1  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/YucongDuan/JusticeShield-STRATEGOS-10.0.0
+     📝 Victim-first, consequence-bearing, restitution-centered active defense and strat…
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 fran25ans/breachglass
+     ⭐ 0  🗣 TypeScript  📅 2026-08-31
+     🔗 https://github.com/fran25ans/breachglass
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 ngtd-2609/cybersentinel-ai
+     ⭐ 1  🗣 Python  📅 2026-08-30
+     🔗 https://github.com/ngtd-2609/cybersentinel-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 rexkim1020/pharos-v2x
+     ⭐ 0  🗣 C++  📅 2026-08-31
+     🔗 https://github.com/rexkim1020/pharos-v2x
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 Monalisa0700/cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/Monalisa0700/cybersecurity-portfolio
+     📝 SOC & Detection Engineering portfolio featuring KQL threat hunts, Microsoft Sent…
+     🏷  cybersecurity, detection-engineering, incident-response, kql, microsoft-defender, microsoft-sentinel, mitre-attack, security-operations, sigma-rules, soc, threat-hunting
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 ibkrmasami1996718-creator/document-pdf-automator
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/ibkrmasami1996718-creator/document-pdf-automator
+     📝 CSV/XLSXから帳票PDFを一括生成し、PDFの結合・分割・リネーム・仕分け・文字抽出を行うPython製Windows向け自動化ツール（自主制作）
+     🏷  automation, csv, desktop-app, document-automation, invoice, pdf, portfolio, python, xlsx
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 actions-marketplace-validations/Gerrrt_opseclint
+     ⭐ 0  🗣 Rust  📅 2026-08-31
+     🔗 https://github.com/actions-marketplace-validations/Gerrrt_opseclint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 Echlips/Capstone-project-
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/Echlips/Capstone-project-
+     📝 My 3mtt capstone project 
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 wujmabc/FocusRecorderRS
+     ⭐ 0  🗣 JavaScript  📅 2026-08-31
+     🔗 https://github.com/wujmabc/FocusRecorderRS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 Baharmemarpour/autonomous-soc-agent
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/Baharmemarpour/autonomous-soc-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 Prikshit05/crime_src
+     ⭐ 0  🗣 TypeScript  📅 2026-08-31
+     🔗 https://github.com/Prikshit05/crime_src
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 baohuiking/ShadowPhish
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/baohuiking/ShadowPhish
+     📝 ShadowPhish 钓鱼意识教学 GUI：深色主题、操作手册、启动诊断与子进程 cwd 修复
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 Sethy-dev/Sethy-dev
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/Sethy-dev/Sethy-dev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 Mkway/who-am-i-talking-to
+     ⭐ 0  🗣 HTML  📅 2026-08-31
+     🔗 https://github.com/Mkway/who-am-i-talking-to
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 Krasen007/HardwareAuditToolkit
+     ⭐ 0  🗣 C#  📅 2026-08-31
+     🔗 https://github.com/Krasen007/HardwareAuditToolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 linhh-phv/claude-acc
+     ⭐ 1  🗣 Shell  📅 2026-08-31
+     🔗 https://github.com/linhh-phv/claude-acc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 CSSluckyyy095/infoseclabs
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/CSSluckyyy095/infoseclabs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 aquverdy2h/cEDrwPThkh
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/aquverdy2h/cEDrwPThkh
+     📝 2026软件工程一套 跨平台快递打单系统7.84-AI通过(论文+程序代码源码)定稿.zip
+     🏷  —
+[2026-08-31 12:58:25 UTC] [NEW]   🆕 📦 anand57577-lab/SOC_PILOT_AGENT
+     ⭐ 0  🗣 TypeScript  📅 2026-08-31
+     🔗 https://github.com/anand57577-lab/SOC_PILOT_AGENT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:25 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-08-31 12:58:25 UTC] [UPD]   📢 📦 jpreddy017/nivxray-xdr
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/jpreddy017/nivxray-xdr
+     📝 Standalone NivXRay XDR security operations platform
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-31 12:58:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-08-31 12:58:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-08-31 12:58:27 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-08-31 12:58:27 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-08-31 12:58:27 UTC] [NEW]   🆕 📦 Francisco0604/TCM-Security
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/Francisco0604/TCM-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:27 UTC] [NEW]   🆕 📦 htin9326-a11y/ducthinhios
+     ⭐ 0  🗣 Swift  📅 2026-08-31
+     🔗 https://github.com/htin9326-a11y/ducthinhios
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:27 UTC] [NEW]   🆕 📦 miniLCT/llm-pe
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/miniLCT/llm-pe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-08-31 12:58:27 UTC] [NEW]   🆕 📦 coruna19980101/darksword-en
+     ⭐ 1  🗣 JavaScript  📅 2026-08-31
+     🔗 https://github.com/coruna19980101/darksword-en
+     📝 2026 Latest iOS Coruna Vulnerability Drill and DarkSword 0day Frontier Monitorin…
+     🏷  —
+[2026-08-31 12:58:27 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-08-31 12:58:27 UTC] [UPD]   📢 📦 supercowmoo/podbay
+     ⭐ 0  🗣 Dockerfile  📅 2026-08-29
+     🔗 https://github.com/supercowmoo/podbay
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-31 12:58:27 UTC] [UPD]   📢 📦 rezaadi0105/700-960
+     ⭐ 0  🗣 JavaScript  📅 2026-08-29
+     🔗 https://github.com/rezaadi0105/700-960
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-08-31 12:58:27 UTC] [UPD]   📢 📦 NH-NAK/IPAEDIE-ADD-LOGIN
+     ⭐ 0  🗣 Swift  📅 2026-08-30
+     🔗 https://github.com/NH-NAK/IPAEDIE-ADD-LOGIN
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-08-31 12:58:27 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-08-31 12:58:27 UTC] [INFO] ============================================================
+[2026-08-31 12:58:27 UTC] [INFO] Completato — 40 nuovi, 6 aggiornati, 0 errori
+[2026-08-31 12:58:27 UTC] [INFO] ============================================================
