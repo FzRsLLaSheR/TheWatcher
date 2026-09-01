@@ -74384,3 +74384,190 @@
 [2026-09-01 16:13:00 UTC] [INFO] ============================================================
 [2026-09-01 16:13:00 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
 [2026-09-01 16:13:00 UTC] [INFO] ============================================================
+[2026-09-01 20:41:51 UTC] [INFO] ============================================================
+[2026-09-01 20:41:51 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-01 20:41:51 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-01 20:41:51 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-01 20:41:51 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-01 20:41:51 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-01 20:41:51 UTC] [INFO] ============================================================
+[2026-09-01 20:41:51 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-01 20:41:51 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-01 20:41:53 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-01 20:41:53 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-01 20:41:53 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-01 20:41:53 UTC] [UPD]   📢 📦 stefanutc1/cyber
+     ⭐ 0  🗣 TypeScript  📅 2026-08-27
+     🔗 https://github.com/stefanutc1/cyber
+     📝 Technical research archive and zero-dependency Python toolkit for digital forens…
+     🏷  case-studies, cybersecurity, dfir, digital-forensics, fraud-analysis, incident-response, infosec, mitre-attack, osint, phishing-analysis, reverse-engineering, threat-hunting
+     🔄 Motivo: repo recente (5gg)
+[2026-09-01 20:41:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-01 20:41:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-01 20:41:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 iamblody/cyberops-command-center
+     ⭐ 0  🗣 EJS  📅 2026-09-01
+     🔗 https://github.com/iamblody/cyberops-command-center
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 jamese345/jamese345
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/jamese345/jamese345
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 MAXI8594/omarchy-sec-plugin
+     ⭐ 0  🗣 QML  📅 2026-09-01
+     🔗 https://github.com/MAXI8594/omarchy-sec-plugin
+     📝 Omarchy Sec — Quickshell bar widget showing EDR/XDR sensor state (Wazuh, CrowdSt…
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 secroses/soc-detection-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-09-01
+     🔗 https://github.com/secroses/soc-detection-lab
+     📝 Resource-constrained SOC detection lab featuring Wazuh SIEM, Sysmon Modular, and…
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 patrick-lefler/rQuarto_multi_stage_attack_graph_simulation_via_markov_chains_2026-08-27
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/patrick-lefler/rQuarto_multi_stage_attack_graph_simulation_via_markov_chains_2026-08-27
+     📝 An absorbing Markov chain model of the cyber kill chain in R, quantifying dwell …
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 yogeshscore442/30-Days-SOC-Analyst-Challenge
+     ⭐ 1  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/yogeshscore442/30-Days-SOC-Analyst-Challenge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 GoSim7/src-hunter-skill
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/GoSim7/src-hunter-skill
+     📝 Evidence-Driven Vulnerability Research Engine for SRC / Bug Bounty. Sparse-evide…
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 4V474R101/MANTRA
+     ⭐ 0  🗣 C++  📅 2026-09-01
+     🔗 https://github.com/4V474R101/MANTRA
+     📝 MANTRA 🧘‍♂️ is an AI-powered MCP agent and server suite built in C++, featuring …
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 thomsoe/local-hashes-extractor-ps1
+     ⭐ 0  🗣 PowerShell  📅 2026-09-01
+     🔗 https://github.com/thomsoe/local-hashes-extractor-ps1
+     📝 A Powershell script to exfiltrate SAM and LSA secrets to a Web Server
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 Cyb3rShiv/sha26105
+     ⭐ 0  🗣 JavaScript  📅 2026-09-01
+     🔗 https://github.com/Cyb3rShiv/sha26105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 ganguydhrubo/SENTRA-AI
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/ganguydhrubo/SENTRA-AI
+     📝 Multi-agent SOC copilot: LangGraph agents over a pgvector RAG knowledge base tha…
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 cecilsjs/PROJECT-CERBERUS
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/cecilsjs/PROJECT-CERBERUS
+     📝 Multi-signal detection and correlation engine that combines identity, endpoint, …
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 xmvdmk/edreeq
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/xmvdmk/edreeq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 AaronMBrown01/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/AaronMBrown01/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 bx1x0/stateflow-guard
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/bx1x0/stateflow-guard
+     📝 Runtime security monitoring for AI coding agents that correlates agent intent wi…
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 numxn0/p6
+     ⭐ 0  🗣 JavaScript  📅 2026-09-01
+     🔗 https://github.com/numxn0/p6
+     📝 Tech Dashboard 
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 xfloopx/SOC-l1-Alert-Triage-THM
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/xfloopx/SOC-l1-Alert-Triage-THM
+     📝 Home lab conducted following the Hack the box Soc L1 alert triage module.
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 ikksingh/Prahari
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/ikksingh/Prahari
+     📝 Unified cloud security and compliance copilot for multi-cloud teams. Build With …
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 sanjayvelaan-ai/CIP-SOC
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/sanjayvelaan-ai/CIP-SOC
+     📝 CIP-SOC** is an open-architecture, local defensive cybersecurity prototype that …
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 ishacutm/abc-university-network-securityy
+     ⭐ 0  🗣 JavaScript  📅 2026-09-01
+     🔗 https://github.com/ishacutm/abc-university-network-securityy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 ssonawanesayali/ai_soc
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/ssonawanesayali/ai_soc
+     📝 Personal project for exploring modern development practices
+     🏷  —
+[2026-09-01 20:41:56 UTC] [NEW]   🆕 📦 ssonawanesayali/sentinel-triage
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/ssonawanesayali/sentinel-triage
+     📝 Modern web application demonstrating clean code principles
+     🏷  —
+[2026-09-01 20:41:56 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-01 20:41:56 UTC] [UPD]   📢 📦 luna7724/edrmpz
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/luna7724/edrmpz
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-01 20:41:56 UTC] [UPD]   📢 📦 gauravkdeore/Quietfail
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/gauravkdeore/Quietfail
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-01 20:41:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-01 20:41:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-01 20:41:58 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-01 20:41:58 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-01 20:41:58 UTC] [NEW]   🆕 📦 Booda0119/1
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/Booda0119/1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 20:41:58 UTC] [NEW]   🆕 📦 AsheshChat/Cybersecurity-Penetration-Testing-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/AsheshChat/Cybersecurity-Penetration-Testing-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 20:41:58 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-01 20:41:58 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-01 20:41:58 UTC] [UPD]   📢 📦 volkarts-dev/claude-container
+     ⭐ 0  🗣 PowerShell  📅 2026-08-30
+     🔗 https://github.com/volkarts-dev/claude-container
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-01 20:41:58 UTC] [UPD]   📢 📦 SINKOFF/3105-filza
+     ⭐ 0  🗣 Swift  📅 2026-08-26
+     🔗 https://github.com/SINKOFF/3105-filza
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-01 20:41:58 UTC] [UPD]   📢 📦 ShubMishra/airlock
+     ⭐ 0  🗣 Go  📅 2026-09-01
+     🔗 https://github.com/ShubMishra/airlock
+     📝 A Linux sandbox for running untrusted, LLM-generated code: namespaces, cgroup v2…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-01 20:41:58 UTC] [INFO] ============================================================
+[2026-09-01 20:41:58 UTC] [INFO] Completato — 24 nuovi, 7 aggiornati, 0 errori
+[2026-09-01 20:41:58 UTC] [INFO] ============================================================
