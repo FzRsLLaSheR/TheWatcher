@@ -73832,3 +73832,163 @@
 [2026-08-31 22:35:41 UTC] [INFO] ============================================================
 [2026-08-31 22:35:41 UTC] [INFO] Completato — 46 nuovi, 5 aggiornati, 0 errori
 [2026-08-31 22:35:41 UTC] [INFO] ============================================================
+[2026-09-01 04:03:13 UTC] [INFO] ============================================================
+[2026-09-01 04:03:13 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-01 04:03:13 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-01 04:03:13 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-01 04:03:13 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-01 04:03:13 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-01 04:03:13 UTC] [INFO] ============================================================
+[2026-09-01 04:03:13 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-01 04:03:13 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-01 04:03:15 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-01 04:03:15 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-01 04:03:15 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-01 04:03:15 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-01 04:03:15 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-01 04:03:17 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 AmirithaGuru/AmirithaGuru
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/AmirithaGuru/AmirithaGuru
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 yxkk296/extra-vm-singapore-vps
+     ⭐ 1  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/yxkk296/extra-vm-singapore-vps
+     📝 Singapore Windows VPS Complete Guide: How to Choose the Right Plan, What to Expe…
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 SaiKaligotla/SOC-Home-Lab-Wazuh
+     ⭐ 1  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/SaiKaligotla/SOC-Home-Lab-Wazuh
+     📝 A local Security Operations Center (SOC) home lab for threat simulation, SIEM te…
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 AdrianoPistoia/AudioLink
+     ⭐ 0  🗣 C#  📅 2026-09-01
+     🔗 https://github.com/AdrianoPistoia/AudioLink
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 hanzla2006/Process-Injection-with-Direct-Syscalls
+     ⭐ 0  🗣 C  📅 2026-09-01
+     🔗 https://github.com/hanzla2006/Process-Injection-with-Direct-Syscalls
+     📝 A lightweight, unhooked x64 process injection proof-of-concept utilizing custom …
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 misternay/moonlight-mcp-plugin
+     ⭐ 0  🗣 TypeScript  📅 2026-09-01
+     🔗 https://github.com/misternay/moonlight-mcp-plugin
+     📝 MCP plugin for OpenAI / ChatGPT — the macOS local gateway for ChatGPT web (chatg…
+     🏷  chatgpt, chatgpt-computer-use, chatgpt-web, macos, mcp, openai
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 AmirithaGuru/threat-hunting-and-edr-simulation
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/AmirithaGuru/threat-hunting-and-edr-simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 Manas103/cyber-incident-response-exercise-harness
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/Manas103/cyber-incident-response-exercise-harness
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 mars-sec/frontline
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/mars-sec/frontline
+     📝 AI-scored daily newspaper built from your RSS feeds. Define your interests in a …
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 ryusei-git/winmergeTools
+     ⭐ 0  🗣 Java  📅 2026-08-31
+     🔗 https://github.com/ryusei-git/winmergeTools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 efij/AgentDFIR
+     ⭐ 0  🗣 Go  📅 2026-08-31
+     🔗 https://github.com/efij/AgentDFIR
+     📝 Open-source digital forensics and incident response for AI agents. Collect, pres…
+     🏷  agentic-security, ai-agents, ai-security, claude-code, codex, copilot, cursor, dfir, digital-forensics, forensics, gemini-cli, incident-response, llm-security, mcp, mitre-atlas, prompt-injection
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 thomasellaby/thomasellaby
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/thomasellaby/thomasellaby
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 Talha-Fasih-Khan/SOC_PostMortem_Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/Talha-Fasih-Khan/SOC_PostMortem_Portfolio
+     📝 Cases that I've taken ownership of
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 5dg/BLACKBOX
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/5dg/BLACKBOX
+     📝 Safe, AI-assisted security investigation platform for analyst review.
+     🏷  cybersecurity, fastapi, mitre-attack, python, security-automation, security-operations, soc
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 XCode-Correa/FV_ICT10R_Q1Drill2_Correa_Edrian
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/XCode-Correa/FV_ICT10R_Q1Drill2_Correa_Edrian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 JakubSx01/Proxmox_Security_Check
+     ⭐ 1  🗣 Shell  📅 2026-08-31
+     🔗 https://github.com/JakubSx01/Proxmox_Security_Check
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 paulsonsunny19/sentinel-ip-enrichment
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/paulsonsunny19/sentinel-ip-enrichment
+     📝 Microsoft Sentinel playbook for free, business-friendly IP enrichment and incide…
+     🏷  —
+[2026-09-01 04:03:17 UTC] [NEW]   🆕 📦 Septillion24/daiyaku
+     ⭐ 1  🗣 Go  📅 2026-08-31
+     🔗 https://github.com/Septillion24/daiyaku
+     📝 Operator-in-the-loop testing for agentic coding harnesses. A human authors the t…
+     🏷  adversary-emulation, agent-security, agentic-ai, ai-security, claude-code, detection-engineering, golang, llm-security, mcp, mitm-proxy, offensive-security, penetration-testing, prompt-injection, purple-team, red-team, security-testing, security-tools
+[2026-09-01 04:03:17 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-01 04:03:17 UTC] [UPD]   📢 📦 lof1sec/edr-visualizer
+     ⭐ 0  🗣 JavaScript  📅 2026-08-27
+     🔗 https://github.com/lof1sec/edr-visualizer
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-01 04:03:17 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-01 04:03:17 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-01 04:03:19 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-01 04:03:19 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-01 04:03:19 UTC] [NEW]   🆕 📦 Benjamin-KY/TridentBinExp
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/Benjamin-KY/TridentBinExp
+     📝 Trident: Domain-Specialised Agent Harness for Autonomous Binary Exploitation
+     🏷  —
+[2026-09-01 04:03:19 UTC] [NEW]   🆕 📦 isswyu2/unmanaged-vps-comparison
+     ⭐ 1  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/isswyu2/unmanaged-vps-comparison
+     📝 Unmanaged VPS Server Complete Guide: What Is It, Who Needs It, How to Choose — P…
+     🏷  —
+[2026-09-01 04:03:19 UTC] [NEW]   🆕 📦 jtp3261/miami-vps-hosting
+     ⭐ 1  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/jtp3261/miami-vps-hosting
+     📝 Best Miami VPS Hosting Guide: How to Pick the Right Plan for Latin America & Sou…
+     🏷  —
+[2026-09-01 04:03:19 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-01 04:03:19 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-01 04:03:19 UTC] [UPD]   📢 📦 NH-NAK/IPAEDIE-ADD-LOGIN
+     ⭐ 0  🗣 Swift  📅 2026-08-30
+     🔗 https://github.com/NH-NAK/IPAEDIE-ADD-LOGIN
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-01 04:03:19 UTC] [UPD]   📢 📦 OKNEK/oknek
+     ⭐ 0  🗣 Go  📅 2026-08-30
+     🔗 https://github.com/OKNEK/oknek
+     📝 Runtime security for AI agents, enforced below the agent with BPF-LSM — plus an …
+     🏷  agent-security, ai-agents, ai-security, bpf-lsm, claude-code, ebpf, linux-security, mcp, okular, runtime-security
+     🔄 Motivo: repo recente (1gg)
+[2026-09-01 04:03:19 UTC] [UPD]   📢 📦 JingMatrix/pixel-ksu-root
+     ⭐ 12  🗣 C  📅 2026-08-25
+     🔗 https://github.com/JingMatrix/pixel-ksu-root
+     📝 adb-driven KernelSU loader for stock Google Pixel: temporary kernel R/W via CVE-…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-01 04:03:19 UTC] [INFO] ============================================================
+[2026-09-01 04:03:19 UTC] [INFO] Completato — 21 nuovi, 5 aggiornati, 0 errori
+[2026-09-01 04:03:19 UTC] [INFO] ============================================================
