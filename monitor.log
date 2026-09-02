@@ -74571,3 +74571,165 @@
 [2026-09-01 20:41:58 UTC] [INFO] ============================================================
 [2026-09-01 20:41:58 UTC] [INFO] Completato — 24 nuovi, 7 aggiornati, 0 errori
 [2026-09-01 20:41:58 UTC] [INFO] ============================================================
+[2026-09-02 03:24:40 UTC] [INFO] ============================================================
+[2026-09-02 03:24:40 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-02 03:24:40 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-02 03:24:40 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-02 03:24:40 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-02 03:24:40 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-02 03:24:40 UTC] [INFO] ============================================================
+[2026-09-02 03:24:40 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-02 03:24:40 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-02 03:24:42 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-02 03:24:42 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-02 03:24:42 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-02 03:24:42 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-02 03:24:42 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-02 03:24:44 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 arlytrenck/arlytrenck
+     ⭐ 0  🗣 Shell  📅 2026-09-01
+     🔗 https://github.com/arlytrenck/arlytrenck
+     📝 GitHub profile README — bio, focus areas, and links.
+     🏷  github-profile, portfolio, profile-readme
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 yankywilson/pinhole-ftp-ddr-rats
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/yankywilson/pinhole-ftp-ddr-rats
+     📝 Independent reverse engineering, detection content, and threat-hunting intellige…
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 RaulAlcauter/k-watch
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/RaulAlcauter/k-watch
+     📝 eBPF-based lightweight Linux EDR prototype for real-time security event detectio…
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 Aditya-Khetawat/RANSOMEYE-CYBERSECURITY
+     ⭐ 0  🗣 TypeScript  📅 2026-09-01
+     🔗 https://github.com/Aditya-Khetawat/RANSOMEYE-CYBERSECURITY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 Dantebeastmode/Cameron
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/Dantebeastmode/Cameron
+     📝 InfoSecLabs addon
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 market8qui/edrmah
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/market8qui/edrmah
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 LittleJeter/Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/LittleJeter/Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 LittleJeter/otter-shell
+     ⭐ 0  🗣 JavaScript  📅 2026-09-02
+     🔗 https://github.com/LittleJeter/otter-shell
+     📝 TEST / PORTFOLIO PROJECT — Otter Shell: a defensive threat-hunt authoring & trac…
+     🏷  detection-engineering, mitre-attack, portfolio, siem, sigma, threat-hunting
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 mcshpm/ai-soc-platform
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/mcshpm/ai-soc-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 abdou-4/SOC-Phishing-Triage-AI-Assistant
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/abdou-4/SOC-Phishing-Triage-AI-Assistant
+     📝 I-powered SOC phishing triage tool. Parses headers, checks URLs, and uses a loca…
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 epsagpang/Sagpang-Edriane-CS0065-AN43
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/epsagpang/Sagpang-Edriane-CS0065-AN43
+     📝 Technical Assessment submissions for CS0065 - AN43
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 Jiropole/SwiftEDR
+     ⭐ 0  🗣 Swift  📅 2026-09-01
+     🔗 https://github.com/Jiropole/SwiftEDR
+     📝 Mini-framework for convenient EDR/HDR support
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 cachaloteeGOAT/Home-Lab-Wazuh-SIEM-EDR
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/cachaloteeGOAT/Home-Lab-Wazuh-SIEM-EDR
+     📝 Home Lab SOC com Wazuh
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 malakpentest/soc-alert-monitoring
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/malakpentest/soc-alert-monitoring
+     📝 SOC alert monitoring, triage workflows, and incident response playbooks for Juni…
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 pbmundas/Threat-hunt-labs
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/pbmundas/Threat-hunt-labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 03:24:44 UTC] [NEW]   🆕 📦 Track-For/site-edrey
+     ⭐ 0  🗣 CSS  📅 2026-09-01
+     🔗 https://github.com/Track-For/site-edrey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 03:24:44 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-02 03:24:44 UTC] [UPD]   📢 📦 luna7724/edrmpz
+     ⭐ 0  🗣 N/A  📅 2026-08-29
+     🔗 https://github.com/luna7724/edrmpz
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-02 03:24:44 UTC] [UPD]   📢 📦 farikonsec/topgent
+     ⭐ 0  🗣 Rust  📅 2026-08-31
+     🔗 https://github.com/farikonsec/topgent
+     📝 Monitor your local AI agents. See what they can reach, and stop them if needed.
+     🏷  agent-security, ai-agents, ai-security, cybersecurity, cyclonedx, desktop-app, devsecops, llm-security, rust, sbom, security-monitoring, security-tools
+     🔄 Motivo: repo recente (1gg)
+[2026-09-02 03:24:44 UTC] [UPD]   📢 📦 OfficialLe0/leofly4discovery
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/OfficialLe0/leofly4discovery
+     📝 Offline security/system log discovery, classification & risk-scoring CLI for Lin…
+     🏷  cybersecurity, edr, log, soc, syslog
+     🔄 Motivo: repo recente (1gg) | nuovi topic: syslog, edr, cybersecurity, soc, log
+[2026-09-02 03:24:44 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-02 03:24:44 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-02 03:24:46 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-02 03:24:46 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-02 03:24:46 UTC] [NEW]   🆕 📦 7wekxit20-dotcom/V4TREXX
+     ⭐ 0  🗣 Swift  📅 2026-09-02
+     🔗 https://github.com/7wekxit20-dotcom/V4TREXX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 03:24:46 UTC] [NEW]   🆕 📦 zoozoo-sec/Linux-ExploitDev
+     ⭐ 0  🗣 N/A  📅 2026-09-01
+     🔗 https://github.com/zoozoo-sec/Linux-ExploitDev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 03:24:46 UTC] [NEW]   🆕 📦 kmaruthisrikar/IQOO-Game-Booster-CI69
+     ⭐ 0  🗣 Kotlin  📅 2026-09-01
+     🔗 https://github.com/kmaruthisrikar/IQOO-Game-Booster-CI69
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 03:24:46 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-02 03:24:46 UTC] [UPD]   📢 📦 SaiKaligotla/Cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-08-25
+     🔗 https://github.com/SaiKaligotla/Cyberpulse
+     📝 Bot to scrape internet for cybersecurity and hacker news.
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-02 03:24:46 UTC] [UPD]   📢 📦 ShubMishra/airlock
+     ⭐ 0  🗣 Go  📅 2026-09-01
+     🔗 https://github.com/ShubMishra/airlock
+     📝 A Linux sandbox for running untrusted, LLM-generated code: namespaces, cgroup v2…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-02 03:24:46 UTC] [UPD]   📢 📦 Benjamin-KY/TridentBinExp
+     ⭐ 0  🗣 N/A  📅 2026-08-31
+     🔗 https://github.com/Benjamin-KY/TridentBinExp
+     📝 Trident: Domain-Specialised Agent Harness for Autonomous Binary Exploitation
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-02 03:24:46 UTC] [UPD]   📢 📦 SINKOFF/3105-filza
+     ⭐ 0  🗣 Swift  📅 2026-08-26
+     🔗 https://github.com/SINKOFF/3105-filza
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-02 03:24:46 UTC] [INFO] ============================================================
+[2026-09-02 03:24:46 UTC] [INFO] Completato — 19 nuovi, 7 aggiornati, 0 errori
+[2026-09-02 03:24:46 UTC] [INFO] ============================================================
