@@ -75180,3 +75180,175 @@
 [2026-09-02 16:08:25 UTC] [INFO] ============================================================
 [2026-09-02 16:08:25 UTC] [INFO] Completato — 31 nuovi, 8 aggiornati, 0 errori
 [2026-09-02 16:08:25 UTC] [INFO] ============================================================
+[2026-09-02 20:39:37 UTC] [INFO] ============================================================
+[2026-09-02 20:39:37 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-02 20:39:37 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-02 20:39:37 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-02 20:39:37 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-02 20:39:37 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-02 20:39:37 UTC] [INFO] ============================================================
+[2026-09-02 20:39:37 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-02 20:39:37 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-02 20:39:39 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-02 20:39:39 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-02 20:39:39 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-02 20:39:39 UTC] [UPD]   📢 📦 mukendi/DetectorOne
+     ⭐ 0  🗣 C++  📅 2026-09-02
+     🔗 https://github.com/mukendi/DetectorOne
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-02 20:39:39 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-02 20:39:39 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-02 20:39:42 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 xingxingRealzyx/qmini-dora
+     ⭐ 0  🗣 Rust  📅 2026-09-02
+     🔗 https://github.com/xingxingRealzyx/qmini-dora
+     📝 Qmini 真机控制栈：Rust + dora-rs 四节点（hal/mc/gamepad/imu），纯 Rust 电机与 IMU 驱动，26 个跟踪 ONNX…
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 BM-Soft/innodb-ibdata1-recovery
+     ⭐ 0  🗣 JavaScript  📅 2026-09-02
+     🔗 https://github.com/BM-Soft/innodb-ibdata1-recovery
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 kidrek/OREOA-AI
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/kidrek/OREOA-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 Marouane-2005/soc-lab-chu
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/Marouane-2005/soc-lab-chu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 nitzan8897/ShowerSinger
+     ⭐ 0  🗣 TypeScript  📅 2026-09-02
+     🔗 https://github.com/nitzan8897/ShowerSinger
+     📝 Small vibe code solution to my shower bt speaker
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 shaikmujeebur2007/MyPro
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/shaikmujeebur2007/MyPro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 DKL-strategy/zoeck-weer
+     ⭐ 0  🗣 HTML  📅 2026-09-02
+     🔗 https://github.com/DKL-strategy/zoeck-weer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 AbhijeetGulhane/copilot-to-rctrl
+     ⭐ 0  🗣 C++  📅 2026-09-02
+     🔗 https://github.com/AbhijeetGulhane/copilot-to-rctrl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 GobernaciondeNarino/skill-ciberseguridad
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/GobernaciondeNarino/skill-ciberseguridad
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 JohanBlome/hdrplay
+     ⭐ 0  🗣 C  📅 2026-09-02
+     🔗 https://github.com/JohanBlome/hdrplay
+     📝 Hrd video player with comparison tools
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 Ayan12334/EmailThreatScanner
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/Ayan12334/EmailThreatScanner
+     📝 I engineered an automated Email Threat Scanner using Python and Node.js. It inte…
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 rs58nhgjhf-hub/github.com-edreirbs-plantilla-pagina-s7.
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/rs58nhgjhf-hub/github.com-edreirbs-plantilla-pagina-s7.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 evait-security/incognito-ng
+     ⭐ 0  🗣 C++  📅 2026-09-02
+     🔗 https://github.com/evait-security/incognito-ng
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 AkshayPratapSingh333/ChakraVyuh-Version5
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/AkshayPratapSingh333/ChakraVyuh-Version5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 Napster1998/agentguard
+     ⭐ 0  🗣 JavaScript  📅 2026-09-02
+     🔗 https://github.com/Napster1998/agentguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 jdelong-tenb/tenable-sentinelone-attack-path-interruption
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/jdelong-tenb/tenable-sentinelone-attack-path-interruption
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 jdelong-tenb/tenable-sentinelone-asset-reconciliation
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/jdelong-tenb/tenable-sentinelone-asset-reconciliation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 yassinouuuu/ritual-workshop-2-showcase
+     ⭐ 0  🗣 TypeScript  📅 2026-09-02
+     🔗 https://github.com/yassinouuuu/ritual-workshop-2-showcase
+     📝 Standalone local demo application for Ritual Workshop 2 — interactive dashboard …
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 muhammadasif-pk1/Implement-Endpoint-Security-Monitoring-Guidelines-Submission
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/muhammadasif-pk1/Implement-Endpoint-Security-Monitoring-Guidelines-Submission
+     📝 Implement endpoint security to protect devices. Deploy EDR tools like Wazuh to m…
+     🏷  —
+[2026-09-02 20:39:42 UTC] [NEW]   🆕 📦 KingEmm/KIG
+     ⭐ 0  🗣 C++  📅 2026-09-02
+     🔗 https://github.com/KingEmm/KIG
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:42 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-02 20:39:42 UTC] [UPD]   📢 📦 KishorekumarSrinivasan/mac-edr
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/KishorekumarSrinivasan/mac-edr
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-02 20:39:42 UTC] [UPD]   📢 📦 Lexvisser/weer
+     ⭐ 0  🗣 JavaScript  📅 2026-08-26
+     🔗 https://github.com/Lexvisser/weer
+     📝 Weer-app met hazard meldingen / Hemel / Navtex
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-02 20:39:42 UTC] [UPD]   📢 📦 Cyb3rShiv/sha26105
+     ⭐ 0  🗣 JavaScript  📅 2026-09-01
+     🔗 https://github.com/Cyb3rShiv/sha26105
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-02 20:39:42 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-02 20:39:42 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-02 20:39:44 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-02 20:39:44 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-02 20:39:44 UTC] [NEW]   🆕 📦 GraysonJackson/crf-knowledge-base
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/GraysonJackson/crf-knowledge-base
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-02 20:39:44 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-02 20:39:44 UTC] [UPD]   📢 📦 DanielCabreraL/machines
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/DanielCabreraL/machines
+     📝 Collection of detailed writeups for retired Hack The Box machines, documenting p…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-02 20:39:44 UTC] [UPD]   📢 📦 7wekxit20-dotcom/V4TREXX
+     ⭐ 0  🗣 Swift  📅 2026-09-02
+     🔗 https://github.com/7wekxit20-dotcom/V4TREXX
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-02 20:39:44 UTC] [UPD]   📢 📦 bnasif25/taskguard
+     ⭐ 0  🗣 Go  📅 2026-09-02
+     🔗 https://github.com/bnasif25/taskguard
+     📝 simple task recording app
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-02 20:39:44 UTC] [INFO] ============================================================
+[2026-09-02 20:39:44 UTC] [INFO] Completato — 21 nuovi, 7 aggiornati, 0 errori
+[2026-09-02 20:39:44 UTC] [INFO] ============================================================
