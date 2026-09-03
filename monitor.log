@@ -75824,3 +75824,150 @@
 [2026-09-03 10:49:54 UTC] [INFO] ============================================================
 [2026-09-03 10:49:54 UTC] [INFO] Completato — 45 nuovi, 5 aggiornati, 0 errori
 [2026-09-03 10:49:54 UTC] [INFO] ============================================================
+[2026-09-03 15:57:39 UTC] [INFO] ============================================================
+[2026-09-03 15:57:39 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-03 15:57:39 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-03 15:57:39 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-03 15:57:39 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-03 15:57:39 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-03 15:57:39 UTC] [INFO] ============================================================
+[2026-09-03 15:57:39 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-03 15:57:39 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-03 15:57:41 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 15:57:41 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-03 15:57:41 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-03 15:57:41 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-03 15:57:41 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-03 15:57:44 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 cleber-asilva/ciberseguranca-wazuh-labs
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/cleber-asilva/ciberseguranca-wazuh-labs
+     📝 Documentação prática e write-ups dos meus laboratórios de SIEM/EDR com o Wazuh.
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 bochen2029-pixel/glance
+     ⭐ 0  🗣 C++  📅 2026-09-03
+     🔗 https://github.com/bochen2029-pixel/glance
+     📝 The window, as text, as it changes: reads a window through its own accessibility…
+     🏷  accessibility, blake2b, citrix, cpp20, dxgi, hash-chain, no-network, ocr, opnaorta, organ-procurement, rdp, screen-reading, transplant, uiautomation, win32, windows
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 RAwadFrihat/SOAR-EDR-Automated-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/RAwadFrihat/SOAR-EDR-Automated-Incident-Response
+     📝 A lightweight, fast, and modern [tool/framework/application] built to [primary f…
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 JackMarkhamPhD/gromacs_notebooks
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-09-03
+     🔗 https://github.com/JackMarkhamPhD/gromacs_notebooks
+     📝 GROMACs pipeline built with DeepseekV4Flash + Hermes
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 HarrisTheo/ncs
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/HarrisTheo/ncs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 asaptolya/sentinel-agent
+     ⭐ 0  🗣 C++  📅 2026-09-03
+     🔗 https://github.com/asaptolya/sentinel-agent
+     📝 Windows security monitoring agent and future EDR platform
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 snehajeenur/Cyber_vest
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/snehajeenur/Cyber_vest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 perezyvonne8/edrywq
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/perezyvonne8/edrywq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 Rahulkunwar507/Cyber-risk-platform
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/Rahulkunwar507/Cyber-risk-platform
+     📝 AI-Powered Continuous Cyber Risk Quantification and Investment Optimization Plat…
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 drpars/btbond
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/drpars/btbond
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 Yairoo04/soc_wazuh_n8n
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/Yairoo04/soc_wazuh_n8n
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 rittuvijai/microsoft-defender-for-endpoint-kql-queries
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/rittuvijai/microsoft-defender-for-endpoint-kql-queries
+     📝 Curated Microsoft Defender for Endpoint (MDE) Advanced Hunting KQL queries for a…
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 NIKHIL867-M/TITAN-ENDPOINT-
+     ⭐ 0  🗣 C++  📅 2026-09-03
+     🔗 https://github.com/NIKHIL867-M/TITAN-ENDPOINT-
+     📝 FOR RAZOR  PAY  HACKATHON
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 jpreddy146/Defensive-Security-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/jpreddy146/Defensive-Security-Incident-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 joeabur/bash-security-toolkit
+     ⭐ 0  🗣 Shell  📅 2026-09-03
+     🔗 https://github.com/joeabur/bash-security-toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 Rushi-kesava-Reddy/employee-network
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/Rushi-kesava-Reddy/employee-network
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 mustafambohra/mustafambohra
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/mustafambohra/mustafambohra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 MuriloPK/secure-file-transfer
+     ⭐ 0  🗣 Java  📅 2026-09-03
+     🔗 https://github.com/MuriloPK/secure-file-transfer
+     📝 Secure File Transfer CLI with protected release tags and contract workflows
+     🏷  —
+[2026-09-03 15:57:44 UTC] [NEW]   🆕 📦 totruok/openwithings
+     ⭐ 1  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/totruok/openwithings
+     📝 Talk to Withings scales over Bluetooth LE from Linux. No app, no Wi-Fi, no cloud…
+     🏷  —
+[2026-09-03 15:57:44 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-03 15:57:44 UTC] [UPD]   📢 📦 joedsonalves/rolloutloud
+     ⭐ 0  🗣 C#  📅 2026-09-02
+     🔗 https://github.com/joedsonalves/rolloutloud
+     📝 Drives Claude Code, Codex, Hermes and OpenClaw: a verifiable finish line, a ledg…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-03 15:57:44 UTC] [UPD]   📢 📦 NaveenYadav27/sxl-cyberplatform
+     ⭐ 0  🗣 JavaScript  📅 2026-09-03
+     🔗 https://github.com/NaveenYadav27/sxl-cyberplatform
+     📝 SOC Platform
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-03 15:57:44 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-03 15:57:44 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-03 15:57:45 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 15:57:45 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-03 15:57:45 UTC] [NEW]   🆕 📦 TestingDesyncBug/awesome-vuln
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/TestingDesyncBug/awesome-vuln
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:45 UTC] [NEW]   🆕 📦 amine2-a11y/web
+     ⭐ 0  🗣 Java  📅 2026-09-03
+     🔗 https://github.com/amine2-a11y/web
+     📝 web
+     🏷  —
+[2026-09-03 15:57:45 UTC] [NEW]   🆕 📦 VayuX-Systems/Vayux-Systems
+     ⭐ 0  🗣 TypeScript  📅 2026-09-03
+     🔗 https://github.com/VayuX-Systems/Vayux-Systems
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 15:57:45 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-03 15:57:45 UTC] [INFO] ============================================================
+[2026-09-03 15:57:45 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
+[2026-09-03 15:57:45 UTC] [INFO] ============================================================
