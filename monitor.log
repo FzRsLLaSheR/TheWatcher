@@ -75352,3 +75352,195 @@
 [2026-09-02 20:39:44 UTC] [INFO] ============================================================
 [2026-09-02 20:39:44 UTC] [INFO] Completato — 21 nuovi, 7 aggiornati, 0 errori
 [2026-09-02 20:39:44 UTC] [INFO] ============================================================
+[2026-09-03 03:26:25 UTC] [INFO] ============================================================
+[2026-09-03 03:26:25 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-03 03:26:25 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-03 03:26:25 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-03 03:26:25 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-03 03:26:25 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-03 03:26:25 UTC] [INFO] ============================================================
+[2026-09-03 03:26:25 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-03 03:26:25 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-03 03:26:28 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 03:26:28 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-03 03:26:28 UTC] [NEW]   🆕 📦 Ander-Index/DMT3-Toolchain
+     ⭐ 1  🗣 Batchfile  📅 2026-09-03
+     🔗 https://github.com/Ander-Index/DMT3-Toolchain
+     📝 DMT3 你懂的程序
+     🏷  —
+[2026-09-03 03:26:28 UTC] [NEW]   🆕 📦 Ohcmon/Harden-Windows-Security
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/Ohcmon/Harden-Windows-Security
+     📝 Harden Windows Safely, Securely using Official Supported Microsoft methods and p…
+     🏷  —
+[2026-09-03 03:26:28 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-03 03:26:28 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-03 03:26:28 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-03 03:26:32 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 SounSom/WatchDog_Operation
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/SounSom/WatchDog_Operation
+     📝 A mini edr design to watch over window endpoint.
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 edreirbs/ejemplo-s7-edrei
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/edreirbs/ejemplo-s7-edrei
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 Achref-Abouda/Spam-Phishing-Email-Analyzer
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/Achref-Abouda/Spam-Phishing-Email-Analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 sultanbajamil/AegisAI-SOC
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/sultanbajamil/AegisAI-SOC
+     📝 Autonomous AI Incident Response & SOC Triage Agent supporting local offline LLMs…
+     🏷  ai-agent, cybersecurity, incident-response, mitre-attack, python, soar, soc, threat-intelligence, virustotal
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 ramilnamazov/siemphony-detections
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/ramilnamazov/siemphony-detections
+     📝 400 machine-authored, adversarially reviewed Sigma detection rules for MITRE ATT…
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 trentitan16/AI-PCAP-Security-Analyzer
+     ⭐ 1  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/trentitan16/AI-PCAP-Security-Analyzer
+     📝 Defensive Python PCAP analyzer for detecting suspicious network behavior with op…
+     🏷  cybersecurity, intrusion-detection, network-analysis, network-security, pcap, pyshark, python, soc, threat-detection, wireshark
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 sunsizard/edropv
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/sunsizard/edropv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 thisisntjon/bigboss-approval-plane
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/thisisntjon/bigboss-approval-plane
+     📝 Local-first approval plane for coordinating AI coding harnesses: human gate on i…
+     🏷  ai-agents, human-in-the-loop, mcp
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 sabina25111/soc-analyst-skill
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/sabina25111/soc-analyst-skill
+     📝 Claude skill for SOC alert triage, phishing analysis, hunt queries, detection tu…
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 finrod-chen/mini-EDR
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/finrod-chen/mini-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 kur0s4k1/IoC-ClickFix-PoderJudicial-pjud-online
+     ⭐ 1  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/kur0s4k1/IoC-ClickFix-PoderJudicial-pjud-online
+     📝 Campaña ClickFix activa suplantando al Poder Judicial de Chile (typosquat pjud[.…
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 BentoOre0/2025-2026-UBC-ROCKET-work
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/BentoOre0/2025-2026-UBC-ROCKET-work
+     📝 General Repository for my rocketry work 2025-2026
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 mowardan/edrlite-macos
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/mowardan/edrlite-macos
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 TalesFM/CyberLab-Framework
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/TalesFM/CyberLab-Framework
+     📝 Automated framework for building lightweight, reproducible KVM-based cybersecuri…
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 ixl55/tryhackme
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/ixl55/tryhackme
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 alierik7492/edr
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/alierik7492/edr
+     📝 edr
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 DrakeA13/edreydev
+     ⭐ 0  🗣 HTML  📅 2026-09-02
+     🔗 https://github.com/DrakeA13/edreydev
+     📝 Personal website and portfolio for EDREY DEV
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 aryandhuru49/AI-SOC-Copilot-LLM-Triage-Prompt-Injection-Guardrails
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/aryandhuru49/AI-SOC-Copilot-LLM-Triage-Prompt-Injection-Guardrails
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 solonalvesvasconcelos-del/edr
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/solonalvesvasconcelos-del/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 martingary34606/edr
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/martingary34606/edr
+     📝 edr
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 edreirbs/s7-demo-edrei
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/edreirbs/s7-demo-edrei
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 Abdullah3san/meridian-retail-it-infrastructure
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/Abdullah3san/meridian-retail-it-infrastructure
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 baidyadevomai1-art/autonomous-soc
+     ⭐ 0  🗣 JavaScript  📅 2026-09-02
+     🔗 https://github.com/baidyadevomai1-art/autonomous-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 RaheemC4/cyber-project-grc-risk-assessment
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/RaheemC4/cyber-project-grc-risk-assessment
+     📝 Security risk assessment for a fictional business, mapped to NIST Cybersecurity …
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 Mohammad-Sarsour/edr-threat-hunting-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/Mohammad-Sarsour/edr-threat-hunting-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 sultanbajamil/AegisEDR
+     ⭐ 0  🗣 C#  📅 2026-09-02
+     🔗 https://github.com/sultanbajamil/AegisEDR
+     📝 A lightweight Windows Endpoint Detection & Response (EDR) system with WMI proces…
+     🏷  blue-team, csharp, cybersecurity, dotnet, edr, endpoint-security, fastapi, virustotal, wmi
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 IML15/Mini_Soc
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/IML15/Mini_Soc
+     📝 Python Mini-Soc
+     🏷  —
+[2026-09-03 03:26:32 UTC] [NEW]   🆕 📦 Billynary/Guardian
+     ⭐ 0  🗣 JavaScript  📅 2026-09-02
+     🔗 https://github.com/Billynary/Guardian
+     📝 A self builded MDR/SOC tool
+     🏷  —
+[2026-09-03 03:26:32 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-03 03:26:32 UTC] [UPD]   📢 📦 shivakumarb2145-pixel/CSA-Hands-On-Cybersecurity-Lab-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/shivakumarb2145-pixel/CSA-Hands-On-Cybersecurity-Lab-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-03 03:26:32 UTC] [UPD]   📢 📦 aki-ops/AI_Agent_Hunting
+     ⭐ 0  🗣 Python  📅 2026-09-01
+     🔗 https://github.com/aki-ops/AI_Agent_Hunting
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-03 03:26:32 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-03 03:26:32 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-03 03:26:35 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 03:26:35 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-03 03:26:35 UTC] [NEW]   🆕 📦 yasser101974-a11y/osama
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/yasser101974-a11y/osama
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 03:26:35 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-03 03:26:35 UTC] [INFO] ============================================================
+[2026-09-03 03:26:35 UTC] [INFO] Completato — 31 nuovi, 2 aggiornati, 0 errori
+[2026-09-03 03:26:35 UTC] [INFO] ============================================================
