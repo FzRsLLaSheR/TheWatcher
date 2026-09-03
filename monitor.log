@@ -75544,3 +75544,283 @@
 [2026-09-03 03:26:35 UTC] [INFO] ============================================================
 [2026-09-03 03:26:35 UTC] [INFO] Completato — 31 nuovi, 2 aggiornati, 0 errori
 [2026-09-03 03:26:35 UTC] [INFO] ============================================================
+[2026-09-03 10:49:48 UTC] [INFO] ============================================================
+[2026-09-03 10:49:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-03 10:49:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-03 10:49:48 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-03 10:49:48 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-03 10:49:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-03 10:49:48 UTC] [INFO] ============================================================
+[2026-09-03 10:49:48 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-03 10:49:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-03 10:49:50 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 10:49:50 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-03 10:49:50 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-03 10:49:50 UTC] [UPD]   📢 📦 mukendi/Virunga
+     ⭐ 0  🗣 C++  📅 2026-09-02
+     🔗 https://github.com/mukendi/Virunga
+     📝 A Windows Ring 0/Ring 3 security research PoC demonstrating BYOVD mechanics and …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-03 10:49:50 UTC] [UPD]   📢 📦 Ander-Index/DMT3-Toolchain
+     ⭐ 1  🗣 Batchfile  📅 2026-09-03
+     🔗 https://github.com/Ander-Index/DMT3-Toolchain
+     📝 DMT3 你懂的程序
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-03 10:49:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-03 10:49:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-03 10:49:52 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 41 NUOVI repository:
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 Krishnamanaidu123/Krishnamanaidu123
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/Krishnamanaidu123/Krishnamanaidu123
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 swzhouu/SliverC2-Evasion-Suite-swzhouu
+     ⭐ 1  🗣 Go  📅 2026-09-03
+     🔗 https://github.com/swzhouu/SliverC2-Evasion-Suite-swzhouu
+     📝 Four-kit defense evasion suite for Sliver C2: Crystal Palace loader, sleep maski…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 vmxnet3/rdp-session-manager
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/vmxnet3/rdp-session-manager
+     📝 Lightweight session and process manager for Windows RDS hosts
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 hung071203/bd-discord-update-blocker
+     ⭐ 1  🗣 JavaScript  📅 2026-09-03
+     🔗 https://github.com/hung071203/bd-discord-update-blocker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 joedsonalves/rolloutloud
+     ⭐ 0  🗣 C#  📅 2026-09-02
+     🔗 https://github.com/joedsonalves/rolloutloud
+     📝 Drives Claude Code, Codex, Hermes and OpenClaw: a verifiable finish line, a ledg…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 MKhalafHammad/MKhalafHammad
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/MKhalafHammad/MKhalafHammad
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 loegaire/edr-lite
+     ⭐ 0  🗣 C  📅 2026-09-03
+     🔗 https://github.com/loegaire/edr-lite
+     📝 EDR-lite: eBPF telemetry + behavioral detection for process-injection techniques…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 loegaire/devsecops-platform
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/loegaire/devsecops-platform
+     📝 Security-gated CI/CD platform: SAST/secrets/SCA gates, Ed25519 signing + fail-cl…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 jimuyboqin/edromx
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/jimuyboqin/edromx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 copterbrow/edrqbz
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/copterbrow/edrqbz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 minhnh123/cyberguard-mini-soar
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/minhnh123/cyberguard-mini-soar
+     📝 AI-Driven Mini SOAR Platform with Wazuh SIEM & Automated Response
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 Sn4ck1ng-Sn0rlax/cybersecurity-labs
+     ⭐ 1  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/Sn4ck1ng-Sn0rlax/cybersecurity-labs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 Turbo-Soggy/graphifyrebuild
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/Turbo-Soggy/graphifyrebuild
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 Arunprakash2212/SOC-PROJECT
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/Arunprakash2212/SOC-PROJECT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 eshginallahverdiyev/Microsoft-Sentinentel-Defender-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/eshginallahverdiyev/Microsoft-Sentinentel-Defender-SOC-Lab
+     📝 Hands-on SOC lab on Azure: simulated RDP brute-force & MITRE ATT&CK attack chain…
+     🏷  atomic-red-team, azure, blue-team, cybersecurity, incident-response, kql, microsoft-defender, microsoft-sentinel, mitre-attack, siem, soc-analyst, threat-hunting
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 aaronaji007/T.U.E.S.D.A.Y.
+     ⭐ 0  🗣 JavaScript  📅 2026-09-03
+     🔗 https://github.com/aaronaji007/T.U.E.S.D.A.Y.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 Vaishampayan-salunke/Email_threats
+     ⭐ 0  🗣 JavaScript  📅 2026-09-03
+     🔗 https://github.com/Vaishampayan-salunke/Email_threats
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 SeanSeifer/Incident-Handling-with-Splunk
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/SeanSeifer/Incident-Handling-with-Splunk
+     📝 A technical write-up for handling a web server attack and investigating with Spl…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 mrxfact0r99/Sudarshan_EDR
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/mrxfact0r99/Sudarshan_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 Sn4ck1ng-Sn0rlax/Sn4ck1ng-Sn0rlax
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/Sn4ck1ng-Sn0rlax/Sn4ck1ng-Sn0rlax
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 roschereric/illumio-workloader-import-kit
+     ⭐ 0  🗣 Go  📅 2026-09-03
+     🔗 https://github.com/roschereric/illumio-workloader-import-kit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 epbustak/Active-Response-Wazuh-EDR
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/epbustak/Active-Response-Wazuh-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 yogesh0216/smb-ms17-010-pentest-report
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/yogesh0216/smb-ms17-010-pentest-report
+     📝 Penetration testing lab report demonstrating SMB reconnaissance, MS17-010 (Etern…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 VeerendraSD/BOM_Bridge
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/VeerendraSD/BOM_Bridge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 krishnasaivk2010-tech/ai_soc
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/krishnasaivk2010-tech/ai_soc
+     📝 Educational project for mastering software architecture
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 drubior/edrcnf
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/drubior/edrcnf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 PotateBulle/SentCore
+     ⭐ 0  🗣 C++  📅 2026-09-02
+     🔗 https://github.com/PotateBulle/SentCore
+     📝 High-performance Linux endpoint detection engine for Blue Team monitoring, behav…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 willerxzm-stack/ClaudeNetGuard
+     ⭐ 0  🗣 PowerShell  📅 2026-09-03
+     🔗 https://github.com/willerxzm-stack/ClaudeNetGuard
+     📝 Windows workspace network health gate, configuration integrity and fail-closed v…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 3uph/workshop
+     ⭐ 0  🗣 C++  📅 2026-09-03
+     🔗 https://github.com/3uph/workshop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 NaveenYadav27/sxl-cyberplatform
+     ⭐ 0  🗣 JavaScript  📅 2026-09-03
+     🔗 https://github.com/NaveenYadav27/sxl-cyberplatform
+     📝 SOC Platform
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 SesameH/SesameH
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/SesameH/SesameH
+     📝 Profile README
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 boniyeamincse/Bangla-Cybersecurity-Books
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/boniyeamincse/Bangla-Cybersecurity-Books
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 tejaswar-lionix/secure-soc-lab
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/tejaswar-lionix/secure-soc-lab
+     📝 Sentinel SOC Lab — Security Operations Center Platform (SIEM, IR, Threat Intel, …
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 bochen2029-pixel/caseclock
+     ⭐ 0  🗣 C++  📅 2026-09-03
+     🔗 https://github.com/bochen2029-pixel/caseclock
+     📝 The case clock for organ-procurement coordinators: every deadline a donor case i…
+     🏷  append-only, blake2b, cpp20, deadline-tracking, floyd-warshall, hash-chain, no-network, opnaorta, organ-procurement, simple-temporal-network, temporal-constraints, transplant, win32, windows
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 heyao1996/rtx
+     ⭐ 0  🗣 Go  📅 2026-09-02
+     🔗 https://github.com/heyao1996/rtx
+     📝 AI Reverse RPC remote executor — run commands on unreachable inner-network machi…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 schmidtlorraine617/edrder
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/schmidtlorraine617/edrder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 javidhasanov/letsdefend-soc-analyst-path
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/javidhasanov/letsdefend-soc-analyst-path
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 QSOLKCB/QSOL-BLUE-FORGE
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/QSOLKCB/QSOL-BLUE-FORGE
+     📝 Defensive cyber engineering through adversarial simulation, deterministic eviden…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 pablodsaravia29-dotcom/distribuidoraEdrinks
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/pablodsaravia29-dotcom/distribuidoraEdrinks
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 Sabeelminhas/internee-endpoint-security-monitoring
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/Sabeelminhas/internee-endpoint-security-monitoring
+     📝 Deployment of Wazuh EDR, Microsoft Sysmon telemetry, File Integrity Monitoring (…
+     🏷  —
+[2026-09-03 10:49:52 UTC] [NEW]   🆕 📦 Achref-Abouda/A-Windows-Based-USB-Security-and-Management-Platform
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/Achref-Abouda/A-Windows-Based-USB-Security-and-Management-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-03 10:49:52 UTC] [UPD]   📢 📦 BentoOre0/2025-2026-UBC-ROCKET-work
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/BentoOre0/2025-2026-UBC-ROCKET-work
+     📝 General Repository for my rocketry work 2025-2026
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-03 10:49:52 UTC] [UPD]   📢 📦 kidrek/OREOA-AI
+     ⭐ 0  🗣 Python  📅 2026-09-02
+     🔗 https://github.com/kidrek/OREOA-AI
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-03 10:49:52 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-03 10:49:52 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-03 10:49:54 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 10:49:54 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-03 10:49:54 UTC] [NEW]   🆕 📦 RichardBarron27/nightfall-t171-specter-raven
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/RichardBarron27/nightfall-t171-specter-raven
+     📝 SPECTER RAVEN — Autonomous Red Team Platform (T171)
+     🏷  —
+[2026-09-03 10:49:54 UTC] [NEW]   🆕 📦 samwong-oai/secbench-hevd
+     ⭐ 0  🗣 C  📅 2026-09-03
+     🔗 https://github.com/samwong-oai/secbench-hevd
+     📝 Security evaluation input | Kernel-driver C, memory lifetime, integer errors, do…
+     🏷  codex-security-eval, exploratory, security-benchmark
+[2026-09-03 10:49:54 UTC] [NEW]   🆕 📦 boljka/patchipa
+     ⭐ 0  🗣 Swift  📅 2026-09-03
+     🔗 https://github.com/boljka/patchipa
+     📝 vuanphu
+     🏷  —
+[2026-09-03 10:49:54 UTC] [NEW]   🆕 📦 janusinss/skills
+     ⭐ 0  🗣 JavaScript  📅 2026-09-02
+     🔗 https://github.com/janusinss/skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 10:49:54 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-03 10:49:54 UTC] [UPD]   📢 📦 7wekxit20-dotcom/V4TREXX
+     ⭐ 0  🗣 Swift  📅 2026-09-02
+     🔗 https://github.com/7wekxit20-dotcom/V4TREXX
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-03 10:49:54 UTC] [INFO] ============================================================
+[2026-09-03 10:49:54 UTC] [INFO] Completato — 45 nuovi, 5 aggiornati, 0 errori
+[2026-09-03 10:49:54 UTC] [INFO] ============================================================
