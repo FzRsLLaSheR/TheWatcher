@@ -75971,3 +75971,207 @@
 [2026-09-03 15:57:45 UTC] [INFO] ============================================================
 [2026-09-03 15:57:45 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
 [2026-09-03 15:57:45 UTC] [INFO] ============================================================
+[2026-09-03 20:38:31 UTC] [INFO] ============================================================
+[2026-09-03 20:38:31 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-03 20:38:31 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-03 20:38:31 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-03 20:38:31 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-03 20:38:31 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-03 20:38:31 UTC] [INFO] ============================================================
+[2026-09-03 20:38:31 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-03 20:38:31 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-03 20:38:33 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 20:38:33 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-03 20:38:33 UTC] [NEW]   🆕 📦 crimsonvortex69/HoneyDriver
+     ⭐ 0  🗣 C++  📅 2026-09-03
+     🔗 https://github.com/crimsonvortex69/HoneyDriver
+     📝 This repo consist of all required and important files for working and deployment…
+     🏷  —
+[2026-09-03 20:38:33 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-03 20:38:33 UTC] [UPD]   📢 📦 AJahmadcyber/homelab-mdr
+     ⭐ 26  🗣 Python  📅 2026-06-18
+     🔗 https://github.com/AJahmadcyber/homelab-mdr
+     📝 Open-source MDR home lab — Wazuh, TheHive, Cortex, n8n, pfSense+Suricata. Portfo…
+     🏷  blue-team, detection-engineering, homelab, incident-response, mitre-attack, siem, soc, suricata, sysmon, thehive, threat-detection, wazuh
+     🔄 Motivo: nuovi topic: incident-response, threat-detection, thehive, soc, sysmon, wazuh, mitre-attack, suricata, homelab, siem, blue-team, detection-engineering
+[2026-09-03 20:38:33 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-03 20:38:33 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-03 20:38:37 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 Kinsman4249/nonce-in-a-file
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/Kinsman4249/nonce-in-a-file
+     📝 Client-side file encryption (Argon2id + AES-256-GCM) that builds a self-containe…
+     🏷  aes-gcm, argon2id, client-side, ecdh, encryption, password-protected, self-decrypting, static-html, webcrypto, zero-knowledge
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 jamesilemonaakor24/splunk-l1-soc-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/jamesilemonaakor24/splunk-l1-soc-home-lab
+     📝 Hands-on L1 SOC home lab using Splunk Enterprise and Windows telemetry for detec…
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 tonywestonuk/esp32_wiimote
+     ⭐ 0  🗣 C++  📅 2026-09-03
+     🔗 https://github.com/tonywestonuk/esp32_wiimote
+     📝 Full featured wiimote driver for esp32.
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 aarushsoodjmi-max/hawkeye-soc-final
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/aarushsoodjmi-max/hawkeye-soc-final
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 ved-sec/ved-sec
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/ved-sec/ved-sec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 ShaanGS/Causeway
+     ⭐ 1  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/ShaanGS/Causeway
+     📝 Causal SOC alert correlation and root-cause intelligence
+     🏷  alert-correlation, hackathon, incident-response, python, root-cause-analysis, security, soc
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 VrinceanuSterica/EDR-MACHINE-LEARNING
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/VrinceanuSterica/EDR-MACHINE-LEARNING
+     📝 EDR using ETW telemetry and machine learning.
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 WilBtc/red-team-ops
+     ⭐ 0  🗣 HTML  📅 2026-09-03
+     🔗 https://github.com/WilBtc/red-team-ops
+     📝 NIGHTFALL adversary simulation and red team operations showcase. SDVOSB. Dark Cl…
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 FOUADBASHA-SYS/project
+     ⭐ 0  🗣 JavaScript  📅 2026-09-03
+     🔗 https://github.com/FOUADBASHA-SYS/project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 veruthiaoperations-cloud/B64LAB
+     ⭐ 1  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/veruthiaoperations-cloud/B64LAB
+     📝 Zero-Dependency Cybersecurity Base64 Academy, Simulator & Forensic Triage Engine
+     🏷  base64, blue-team, cybersecurity, forensics, incident-response, mitre-attack, powershell-deobfuscation, python, soc-analyst
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 BryllUmangay/Post-Compromise-Operations
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/BryllUmangay/Post-Compromise-Operations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 nayan45633/securenet-ai
+     ⭐ 0  🗣 TypeScript  📅 2026-09-03
+     🔗 https://github.com/nayan45633/securenet-ai
+     📝 prototype
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 jawadhcyber/SOC-Alert-Triage-System
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/jawadhcyber/SOC-Alert-Triage-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 7Bharanidaran/TRACE-X
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/7Bharanidaran/TRACE-X
+     📝 Causal SOC alert correlation and root-cause intelligence platform that reconstru…
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 namandhanwala01/SentinelFlow
+     ⭐ 0  🗣 TypeScript  📅 2026-09-03
+     🔗 https://github.com/namandhanwala01/SentinelFlow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 theinfiniteprins/SQLGuard
+     ⭐ 0  🗣 C#  📅 2026-09-03
+     🔗 https://github.com/theinfiniteprins/SQLGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 Franck922/Franck922
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/Franck922/Franck922
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 haldaniko/linuxmachine-dashboard
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/haldaniko/linuxmachine-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 Shad272/diskseer
+     ⭐ 0  🗣 Go  📅 2026-09-02
+     🔗 https://github.com/Shad272/diskseer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 kaifpanki786-max/cybershield-x
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/kaifpanki786-max/cybershield-x
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 aaronmcnees/Unified-2.4-gHz-Spectral-Frequency-Ruler
+     ⭐ 1  🗣 HTML  📅 2026-09-02
+     🔗 https://github.com/aaronmcnees/Unified-2.4-gHz-Spectral-Frequency-Ruler
+     📝 Unified 2.4 gHz Spectral Frequency Ruler - Color-coded 2400–2500 MHz spectral ru…
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 jjnikom576/herculesac-anticheat
+     ⭐ 0  🗣 C  📅 2026-09-03
+     🔗 https://github.com/jjnikom576/herculesac-anticheat
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 Arsh-cas/SecureWatch-SIEM
+     ⭐ 0  🗣 Java  📅 2026-09-03
+     🔗 https://github.com/Arsh-cas/SecureWatch-SIEM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 tim-archerround/ArcherRound-Agents
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/tim-archerround/ArcherRound-Agents
+     📝 Archer & Round SIEM Agent — client deployment package
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 chetanaagle2007-sudo/Threat-intelligence-Aggregator
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/chetanaagle2007-sudo/Threat-intelligence-Aggregator
+     📝 A rule-based Streamlit threat intelligence tool for collecting, parsing, normali…
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 ADEMABESSI/Platfome-Threat-Hunting
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/ADEMABESSI/Platfome-Threat-Hunting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:37 UTC] [NEW]   🆕 📦 morning-gu/FinRCVR
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/morning-gu/FinRCVR
+     📝 RCVR: Reason-Code-Verify-Repair Pipeline for Financial Numerical Reasoning with …
+     🏷  —
+[2026-09-03 20:38:37 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-03 20:38:37 UTC] [UPD]   📢 📦 ramilnamazov/siemphony-detections
+     ⭐ 0  🗣 N/A  📅 2026-09-03
+     🔗 https://github.com/ramilnamazov/siemphony-detections
+     📝 400 machine-authored, adversarially reviewed Sigma detection rules for MITRE ATT…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-03 20:38:37 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-03 20:38:37 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-03 20:38:39 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-03 20:38:39 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-03 20:38:39 UTC] [NEW]   🆕 📦 moisesvvanti-dev/moisesvvanti-dev.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-03
+     🔗 https://github.com/moisesvvanti-dev/moisesvvanti-dev.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:39 UTC] [NEW]   🆕 📦 moisesvvanti-dev/webkit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-03
+     🔗 https://github.com/moisesvvanti-dev/webkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:39 UTC] [NEW]   🆕 📦 AmorCool/Yanide
+     ⭐ 0  🗣 Objective-C  📅 2026-09-03
+     🔗 https://github.com/AmorCool/Yanide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-03 20:38:39 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-03 20:38:39 UTC] [UPD]   📢 📦 DanielCabreraL/machines
+     ⭐ 0  🗣 N/A  📅 2026-09-02
+     🔗 https://github.com/DanielCabreraL/machines
+     📝 Collection of detailed writeups for retired Hack The Box machines, documenting p…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-03 20:38:39 UTC] [UPD]   📢 📦 kmaruthisrikar/IQOO-Game-Booster-CI69
+     ⭐ 0  🗣 Kotlin  📅 2026-09-01
+     🔗 https://github.com/kmaruthisrikar/IQOO-Game-Booster-CI69
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-03 20:38:39 UTC] [INFO] ============================================================
+[2026-09-03 20:38:39 UTC] [INFO] Completato — 31 nuovi, 4 aggiornati, 0 errori
+[2026-09-03 20:38:39 UTC] [INFO] ============================================================
