@@ -76979,3 +76979,211 @@
 [2026-09-04 20:25:01 UTC] [INFO] ============================================================
 [2026-09-04 20:25:01 UTC] [INFO] Completato — 32 nuovi, 3 aggiornati, 0 errori
 [2026-09-04 20:25:01 UTC] [INFO] ============================================================
+[2026-09-05 03:26:18 UTC] [INFO] ============================================================
+[2026-09-05 03:26:18 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-05 03:26:18 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-05 03:26:18 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-05 03:26:18 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-05 03:26:18 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-05 03:26:18 UTC] [INFO] ============================================================
+[2026-09-05 03:26:18 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-05 03:26:18 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-05 03:26:19 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-05 03:26:19 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-05 03:26:19 UTC] [NEW]   🆕 📦 A5M1/sadist
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/A5M1/sadist
+     📝 BYOVD exploit chain proof of concept
+     🏷  —
+[2026-09-05 03:26:19 UTC] [NEW]   🆕 📦 abraxas/veneficus
+     ⭐ 0  🗣 Rust  📅 2026-09-05
+     🔗 https://github.com/abraxas/veneficus
+     📝 Super elite end-to-end implant 0day. Full kill-chain. Exploit, escalate, pivot, …
+     🏷  —
+[2026-09-05 03:26:19 UTC] [NEW]   🆕 📦 floppywiggler/directio64-disclosure
+     ⭐ 0  🗣 C  📅 2026-09-04
+     🔗 https://github.com/floppywiggler/directio64-disclosure
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:19 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-05 03:26:19 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-05 03:26:19 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-05 03:26:22 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 AstralOfficially/SOC-Lab-LimaCharlie-Sliver-Emulation
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/AstralOfficially/SOC-Lab-LimaCharlie-Sliver-Emulation
+     📝 Hands-on SOC analyst home lab demonstrating endpoint telemetry ingestion with Li…
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 timastras9/astras-guard
+     ⭐ 0  🗣 Shell  📅 2026-09-05
+     🔗 https://github.com/timastras9/astras-guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 anserabdullah791-collab/rex-guard
+     ⭐ 0  🗣 JavaScript  📅 2026-09-04
+     🔗 https://github.com/anserabdullah791-collab/rex-guard
+     📝 Rex Guard v3.0 — Cybersecurity suite with 22 LIVE working demos (real brute forc…
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 estudiorosa/edrink-app
+     ⭐ 0  🗣 TypeScript  📅 2026-09-05
+     🔗 https://github.com/estudiorosa/edrink-app
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 ishamishra0408/dshEgressObsSlack
+     ⭐ 0  🗣 HTML  📅 2026-09-05
+     🔗 https://github.com/ishamishra0408/dshEgressObsSlack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 cgtrxx/windows-realtime-diagnostics
+     ⭐ 0  🗣 C#  📅 2026-09-05
+     🔗 https://github.com/cgtrxx/windows-realtime-diagnostics
+     📝 Native Windows diagnostics and observability console for process creation, netwo…
+     🏷  csharp, cybersecurity, dfir, digital-forensics, event-logs, incident-response, network-monitoring, observability, process-monitoring, security-tools, system-monitoring, windows, windows-11, windows-security, winforms
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 aeliteestrangeira/governanca-evidencias
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/aeliteestrangeira/governanca-evidencias
+     📝 Demonstrações sintéticas de governança e evidências em cibersegurança, com C2M2,…
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 HKenzoKimura/HKenzoKimura
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/HKenzoKimura/HKenzoKimura
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 Jazblue/harborview-incident-report
+     ⭐ 0  🗣 HTML  📅 2026-09-05
+     🔗 https://github.com/Jazblue/harborview-incident-report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 abraxas/veneficus
+     ⭐ 0  🗣 Rust  📅 2026-09-05
+     🔗 https://github.com/abraxas/veneficus
+     📝 Super elite end-to-end implant 0day. Full kill-chain. Exploit, escalate, pivot, …
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 ghmdevelops/mayblue-v2
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/ghmdevelops/mayblue-v2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 justinmreynolds93-afk/trapline
+     ⭐ 0  🗣 C  📅 2026-09-05
+     🔗 https://github.com/justinmreynolds93-afk/trapline
+     📝 eBPF runtime security sensor: process exec + TCP connect + file-write probes, de…
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 whsiano/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-09-04
+     🔗 https://github.com/whsiano/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 ztel42/ProcessPortSnapshot
+     ⭐ 0  🗣 C#  📅 2026-09-05
+     🔗 https://github.com/ztel42/ProcessPortSnapshot
+     📝 One-shot process + listening-ports inventory for host hygiene and IR triage
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 mdhimancs/cgaurdv1
+     ⭐ 0  🗣 TypeScript  📅 2026-09-04
+     🔗 https://github.com/mdhimancs/cgaurdv1
+     📝 cybergaurd
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 KikeMuller/Get-ServerFullReport
+     ⭐ 0  🗣 PowerShell  📅 2026-09-04
+     🔗 https://github.com/KikeMuller/Get-ServerFullReport
+     📝 Inventario as-built y health check de servidores Windows en un solo .ps1
+     🏷  as-built, audit, documentation, inventory, iso27001, powershell, security, sysadmin, windows-11, windows-server
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 KalofXeno/marci-worldview
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/KalofXeno/marci-worldview
+     📝 web application for MARCI daily global mosaics
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 chavatte/sentinel-forge
+     ⭐ 0  🗣 TypeScript  📅 2026-09-04
+     🔗 https://github.com/chavatte/sentinel-forge
+     📝 Tactical EDR & Software Supply Chain Security toolkit for DevSecOps. SAST, vulne…
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 DanielWueno/postgres-readonly-mcp-plugin
+     ⭐ 0  🗣 PowerShell  📅 2026-09-04
+     🔗 https://github.com/DanielWueno/postgres-readonly-mcp-plugin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 AbdulAlharbi/soc-autopilot
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/AbdulAlharbi/soc-autopilot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 yilmazerturk59/edrfa
+     ⭐ 0  🗣 N/A  📅 2026-09-04
+     🔗 https://github.com/yilmazerturk59/edrfa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 lemrei2025-ai/Anatom-a-de-un-incidente-del-CONPES-al-ransomware
+     ⭐ 0  🗣 N/A  📅 2026-09-04
+     🔗 https://github.com/lemrei2025-ai/Anatom-a-de-un-incidente-del-CONPES-al-ransomware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 rakesh-halucinate/bodyscale
+     ⭐ 0  🗣 JavaScript  📅 2026-09-04
+     🔗 https://github.com/rakesh-halucinate/bodyscale
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 amsaqeeus/An-Interactive-3D-Protfolio
+     ⭐ 0  🗣 TypeScript  📅 2026-09-04
+     🔗 https://github.com/amsaqeeus/An-Interactive-3D-Protfolio
+     📝  A playable 3D cyberpunk RPG portfolio with real-time sound, interactive cyber s…
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 valenlitman1-art/p-edra-papel-tijera.python
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/valenlitman1-art/p-edra-papel-tijera.python
+     📝 Realizamos un juego en Python.
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 shahsad-abd/alert-enrichment
+     ⭐ 0  🗣 JavaScript  📅 2026-09-04
+     🔗 https://github.com/shahsad-abd/alert-enrichment
+     📝 enrich the IOCs in your alert by using this extension , supported in chrome and …
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 shiedahacker/shiedahacker
+     ⭐ 0  🗣 N/A  📅 2026-09-04
+     🔗 https://github.com/shiedahacker/shiedahacker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [NEW]   🆕 📦 0xSe9ment4tionFau1t/EDR-detection-research
+     ⭐ 0  🗣 C  📅 2026-09-04
+     🔗 https://github.com/0xSe9ment4tionFau1t/EDR-detection-research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:22 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-05 03:26:22 UTC] [UPD]   📢 📦 IronBranded/Evil-Encryption-Academy
+     ⭐ 0  🗣 Python  📅 2026-09-03
+     🔗 https://github.com/IronBranded/Evil-Encryption-Academy
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-05 03:26:22 UTC] [UPD]   📢 📦 CliffVale/GROMACS_NA53
+     ⭐ 0  🗣 Shell  📅 2026-09-04
+     🔗 https://github.com/CliffVale/GROMACS_NA53
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-05 03:26:22 UTC] [UPD]   📢 📦 stan0312/NipaPlay-Mod
+     ⭐ 0  🗣 Dart  📅 2026-09-03
+     🔗 https://github.com/stan0312/NipaPlay-Mod
+     📝 NipaPlay-Reload modified: danmaku removed + swipe gesture to switch episodes
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-05 03:26:22 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-05 03:26:22 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-05 03:26:23 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-05 03:26:23 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-05 03:26:23 UTC] [NEW]   🆕 📦 soniciso1/ESP32-S3-Hosts
+     ⭐ 4  🗣 JavaScript  📅 2026-09-04
+     🔗 https://github.com/soniciso1/ESP32-S3-Hosts
+     📝 Offline PS5 WebKit jailbreak served from a standalone ESP32-S3 Wi-Fi AP - 4 imag…
+     🏷  —
+[2026-09-05 03:26:23 UTC] [NEW]   🆕 📦 shetos1991/b20
+     ⭐ 0  🗣 JavaScript  📅 2026-09-04
+     🔗 https://github.com/shetos1991/b20
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 03:26:23 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-05 03:26:23 UTC] [INFO] ============================================================
+[2026-09-05 03:26:23 UTC] [INFO] Completato — 33 nuovi, 3 aggiornati, 0 errori
+[2026-09-05 03:26:23 UTC] [INFO] ============================================================
