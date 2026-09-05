@@ -77187,3 +77187,175 @@
 [2026-09-05 03:26:23 UTC] [INFO] ============================================================
 [2026-09-05 03:26:23 UTC] [INFO] Completato — 33 nuovi, 3 aggiornati, 0 errori
 [2026-09-05 03:26:23 UTC] [INFO] ============================================================
+[2026-09-05 10:06:55 UTC] [INFO] ============================================================
+[2026-09-05 10:06:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-05 10:06:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-05 10:06:55 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-05 10:06:55 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-05 10:06:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-05 10:06:55 UTC] [INFO] ============================================================
+[2026-09-05 10:06:55 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-05 10:06:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-05 10:06:57 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-05 10:06:57 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-05 10:06:57 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-05 10:06:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-05 10:06:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-05 10:06:59 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 scorpionus007/PeoplePay360
+     ⭐ 0  🗣 JavaScript  📅 2026-09-05
+     🔗 https://github.com/scorpionus007/PeoplePay360
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 Khani-Kingsman/PermissionDrift
+     ⭐ 0  🗣 TypeScript  📅 2026-09-05
+     🔗 https://github.com/Khani-Kingsman/PermissionDrift
+     📝 Local-first Windows developer security posture monitor detecting silent privileg…
+     🏷  cybersecurity, drift-detection, local-first, posture-management, python, react, security, windows
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 johnsonhannah6/edrdsr
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/johnsonhannah6/edrdsr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 randrianasolonirinaantoine-design/hebergementSiteWebOpenLDAP
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/randrianasolonirinaantoine-design/hebergementSiteWebOpenLDAP
+     📝 CZUBDUCNZIJNC
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 Sierrae-Ryanl/edrlgo
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/Sierrae-Ryanl/edrlgo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 randrianasolonirinaantoine-design/ssi-opnsense-dmz-suricata-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/randrianasolonirinaantoine-design/ssi-opnsense-dmz-suricata-lab
+     📝 Architecture réseau sécurisée OPNsense / DMZ / Suricata + tests Red Team
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 OZBM/MacLC
+     ⭐ 0  🗣 C  📅 2026-09-05
+     🔗 https://github.com/OZBM/MacLC
+     📝 MacLC - VLC fork with SDR extended range display support
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 Ahmadani-67/SOC
+     ⭐ 0  🗣 JavaScript  📅 2026-09-05
+     🔗 https://github.com/Ahmadani-67/SOC
+     📝 SOC & AI COmp
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 mudss21/vulnerability-management-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/mudss21/vulnerability-management-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 ItsParthPinjarkar/sheildra-ransomware-defense
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/ItsParthPinjarkar/sheildra-ransomware-defense
+     📝 AI-Powered Ransomware Defense System with 99% protection
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 qfc-network/ai-infra-cheatsheet
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/qfc-network/ai-infra-cheatsheet
+     📝 Side-by-side spec tables for AI hardware — from a Mac mini to a 72-GPU NVLink ra…
+     🏷  ai-infrastructure, amd, apple-silicon, blackwell, cheatsheet, datacenter, dgx, dgx-spark, gpu, hopper, llm, mi300x, nvidia, nvlink
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 Babug01/modulai
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/Babug01/modulai
+     📝 Give it a resource name, get back a schema-grounded, tested Terraform module. BY…
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 leemgs/mercucys-bluetooth-5.4-nano-usb-adaptor-ma530
+     ⭐ 0  🗣 Shell  📅 2026-09-05
+     🔗 https://github.com/leemgs/mercucys-bluetooth-5.4-nano-usb-adaptor-ma530
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 venky01-cmd/malware-classification-model
+     ⭐ 0  🗣 JavaScript  📅 2026-09-05
+     🔗 https://github.com/venky01-cmd/malware-classification-model
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 nabir7482-sudo/Sentinal-Shield-V2
+     ⭐ 1  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/nabir7482-sudo/Sentinal-Shield-V2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 raappo/threat_intel_summarizer
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/raappo/threat_intel_summarizer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 hackthensh/hackthensh
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/hackthensh/hackthensh
+     📝 Cyber Security | SOC Analyst | Blue Team | Cloud Security
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 DarkerSniper/record-edrums
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/DarkerSniper/record-edrums
+     📝 A step-by-step personal guide for recording e-drums (like Roland V-Drums) over s…
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 Arazaghzadegan/Cybersecurity-Networking-Interview-Questions
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/Arazaghzadegan/Cybersecurity-Networking-Interview-Questions
+     📝 A structured collection of cybersecurity and networking interview questions cove…
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 gourav4947-king/Enterprise-SOC-Threat-Detection-and-Incident-Response-Lab
+     ⭐ 0  🗣 Shell  📅 2026-09-05
+     🔗 https://github.com/gourav4947-king/Enterprise-SOC-Threat-Detection-and-Incident-Response-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 jaitus/sih26166-lunar-correspondence
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/jaitus/sih26166-lunar-correspondence
+     📝 SIH26166 - multi-sensor lunar image correspondence: Chandrayaan-2 OHRC, TMC-2 an…
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 VptrCipher/Agusta
+     ⭐ 1  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/VptrCipher/Agusta
+     📝 Augusta is an AI-powered SOC platform that helps analysts detect, investigate, p…
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 nkranjith/nkranjith
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/nkranjith/nkranjith
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:06:59 UTC] [NEW]   🆕 📦 hhh2006/HN-SecureDVWA
+     ⭐ 0  🗣 PHP  📅 2026-09-05
+     🔗 https://github.com/hhh2006/HN-SecureDVWA
+     📝 Security-focused DVWA training lab enhanced with the HN Security Layer, security…
+     🏷  —
+[2026-09-05 10:06:59 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-05 10:06:59 UTC] [UPD]   📢 📦 rakesh-halucinate/bodyscale
+     ⭐ 0  🗣 JavaScript  📅 2026-09-04
+     🔗 https://github.com/rakesh-halucinate/bodyscale
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-05 10:06:59 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-05 10:06:59 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-05 10:07:01 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-05 10:07:01 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-05 10:07:01 UTC] [NEW]   🆕 📦 kazan0v2/9
+     ⭐ 0  🗣 JavaScript  📅 2026-09-05
+     🔗 https://github.com/kazan0v2/9
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:07:01 UTC] [NEW]   🆕 📦 samal3tvset-sys/Crystal
+     ⭐ 1  🗣 C  📅 2026-09-05
+     🔗 https://github.com/samal3tvset-sys/Crystal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:07:01 UTC] [NEW]   🆕 📦 Sp33dexY/Samsung_Fullscreen_AOD_Enabler
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/Sp33dexY/Samsung_Fullscreen_AOD_Enabler
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 10:07:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-05 10:07:01 UTC] [UPD]   📢 📦 mrugaj/recoup
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/mrugaj/recoup
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-05 10:07:01 UTC] [INFO] ============================================================
+[2026-09-05 10:07:01 UTC] [INFO] Completato — 27 nuovi, 2 aggiornati, 0 errori
+[2026-09-05 10:07:01 UTC] [INFO] ============================================================
