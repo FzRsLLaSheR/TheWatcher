@@ -77359,3 +77359,205 @@
 [2026-09-05 10:07:01 UTC] [INFO] ============================================================
 [2026-09-05 10:07:01 UTC] [INFO] Completato — 27 nuovi, 2 aggiornati, 0 errori
 [2026-09-05 10:07:01 UTC] [INFO] ============================================================
+[2026-09-05 14:45:26 UTC] [INFO] ============================================================
+[2026-09-05 14:45:26 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-05 14:45:26 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-05 14:45:26 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-05 14:45:26 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-05 14:45:26 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-05 14:45:26 UTC] [INFO] ============================================================
+[2026-09-05 14:45:26 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-05 14:45:26 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-05 14:45:28 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-05 14:45:28 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-05 14:45:28 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-05 14:45:28 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-05 14:45:28 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-05 14:45:31 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 tejassroot/Ethical-Hacking-VAPT-Master-Notes
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/tejassroot/Ethical-Hacking-VAPT-Master-Notes
+     📝 Complete Ethical Hacking & VAPT Master Notes: 12 Volumes, 34 Modules, 30 Standal…
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 drakanor98/vetclinic-soc-investigation-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/drakanor98/vetclinic-soc-investigation-lab
+     📝 SOC investigation and threat hunting lab using Wazuh, Sysmon, Windows Event Logs…
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 HKenzoKimura/Maldev-InfoStealer
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/HKenzoKimura/Maldev-InfoStealer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 okaz-code/HDRScope
+     ⭐ 0  🗣 Swift  📅 2026-09-05
+     🔗 https://github.com/okaz-code/HDRScope
+     📝 HDR Window Capture
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 edrak-club-mu/edrak-game
+     ⭐ 0  🗣 JavaScript  📅 2026-09-05
+     🔗 https://github.com/edrak-club-mu/edrak-game
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 developerharshh67-sys/frontend
+     ⭐ 0  🗣 JavaScript  📅 2026-09-05
+     🔗 https://github.com/developerharshh67-sys/frontend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 Rovel/oma-id
+     ⭐ 0  🗣 Ruby  📅 2026-09-05
+     🔗 https://github.com/Rovel/oma-id
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 Nakiha/VoidPlayer-Web
+     ⭐ 0  🗣 TypeScript  📅 2026-09-05
+     🔗 https://github.com/Nakiha/VoidPlayer-Web
+     📝 Browser video review: WebCodecs first, trimmed FFmpeg WASM fallback
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 V1RAL-H3X/Agentic-Pathfinder
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/V1RAL-H3X/Agentic-Pathfinder
+     📝 Modular, graph-driven security framework using Neo4j, BloodHound, and multi-agen…
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 ajayasai/OpenAutopsyFlow
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/ajayasai/OpenAutopsyFlow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 BG7OOC/jiyu_reverse_shell
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/BG7OOC/jiyu_reverse_shell
+     📝 基于极域电子教室 UDP 协议的局域网聊天套件：沿用原始 16 进制报文格式实现图形化群聊（tkinter GUI、昵称注册、管理员广播），并保留原有课堂控制能…
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 Al-Edrisy/Al-Edrisy
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/Al-Edrisy/Al-Edrisy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 OrionMeows/rebus
+     ⭐ 0  🗣 C#  📅 2026-09-05
+     🔗 https://github.com/OrionMeows/rebus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 994205-p/soc-risk-platform
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/994205-p/soc-risk-platform
+     📝 Mid-Sized Enterprise Security Operations Centre Monitoring Endpoints
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 akiwithsmolbrain19/netwatch
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/akiwithsmolbrain19/netwatch
+     📝 Defensive network threat detection and PCAP analysis (Python + tshark). 8 heuris…
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 lcy666wdwd/medical-model
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/lcy666wdwd/medical-model
+     📝 1Dcnn神经网络卷积模型，包含训练脚本和模型本身，以及包含预处理的调用文件。
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 michaechris123-cmyk/Windows-Password-Audit-Hashcat
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/michaechris123-cmyk/Windows-Password-Audit-Hashcat
+     📝 Security lab demonstrating NTLM hash extraction and auditing password strength u…
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 tangent-zz/edrnbc
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/tangent-zz/edrnbc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 douaekarachi-sys/secure-network-architecture
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/douaekarachi-sys/secure-network-architecture
+     📝 Conception d'une architecture réseau sécurisée multi-sites (hub-and-spoke) : déf…
+     🏷  cybersecurity, defense-in-depth, firewall, network-security, siem, soc
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 Azathothas/appimage-research
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/Azathothas/appimage-research
+     📝 ai slop, don't bother
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 Irradiators/integrity-adapters
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/Irradiators/integrity-adapters
+     📝 VoidMetric Integrity Adapters for Enterprise and Open-Source Platforms
+     🏷  enterprise, integrity-adapters, opensource, voidmetric
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 haniffzain/hubuntu-sentinel
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/haniffzain/hubuntu-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 Atchaya184/security-alert-ai-app
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/Atchaya184/security-alert-ai-app
+     📝 AI-based system to reduce false positives in security alerts using ML + rule-bas…
+     🏷  —
+[2026-09-05 14:45:31 UTC] [NEW]   🆕 📦 David-Koschmann/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/David-Koschmann/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:31 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-05 14:45:31 UTC] [UPD]   📢 📦 qfc-network/ai-infra-cheatsheet
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/qfc-network/ai-infra-cheatsheet
+     📝 Side-by-side spec tables for AI hardware — from a Mac mini to a 72-GPU NVLink ra…
+     🏷  ai-infrastructure, amd, apple-silicon, blackwell, cheatsheet, datacenter, dgx, dgx-spark, gpu, hopper, llm, mi300x, nvidia, nvlink
+     🔄 Motivo: repo recente (1gg)
+[2026-09-05 14:45:31 UTC] [UPD]   📢 📦 Khani-Kingsman/PermissionDrift
+     ⭐ 0  🗣 TypeScript  📅 2026-09-05
+     🔗 https://github.com/Khani-Kingsman/PermissionDrift
+     📝 Local-first Windows developer security posture monitor detecting silent privileg…
+     🏷  cybersecurity, drift-detection, local-first, posture-management, python, react, security, windows
+     🔄 Motivo: repo recente (0gg)
+[2026-09-05 14:45:31 UTC] [UPD]   📢 📦 scorpionus007/PeoplePay360
+     ⭐ 0  🗣 JavaScript  📅 2026-09-05
+     🔗 https://github.com/scorpionus007/PeoplePay360
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-05 14:45:31 UTC] [UPD]   📢 📦 rakesh-halucinate/bodyscale
+     ⭐ 0  🗣 JavaScript  📅 2026-09-04
+     🔗 https://github.com/rakesh-halucinate/bodyscale
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-05 14:45:31 UTC] [UPD]   📢 📦 AstralOfficially/SOC-Lab-LimaCharlie-Sliver-Emulation
+     ⭐ 0  🗣 Shell  📅 2026-09-05
+     🔗 https://github.com/AstralOfficially/SOC-Lab-LimaCharlie-Sliver-Emulation
+     📝 Hands-on SOC analyst home lab demonstrating endpoint telemetry ingestion with Li…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-05 14:45:31 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-05 14:45:31 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-05 14:45:33 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-05 14:45:33 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-05 14:45:33 UTC] [NEW]   🆕 📦 anexbin/Linux_security_lab
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/anexbin/Linux_security_lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-05 14:45:33 UTC] [NEW]   🆕 📦 LogoFoxOfficial/diamond-fox-root-cli
+     ⭐ 0  🗣 Rust  📅 2026-09-05
+     🔗 https://github.com/LogoFoxOfficial/diamond-fox-root-cli
+     📝 A portable command-line utility for temporary root access on explicitly supporte…
+     🏷  —
+[2026-09-05 14:45:33 UTC] [NEW]   🆕 📦 quyicheng03-boop/xiaomi15-dada-cve-2026-64560
+     ⭐ 3  🗣 C  📅 2026-09-05
+     🔗 https://github.com/quyicheng03-boop/xiaomi15-dada-cve-2026-64560
+     📝 Device-bound CVE-2026-64560 adaptation for Xiaomi 15 dada OS4.0.0.8
+     🏷  —
+[2026-09-05 14:45:33 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-05 14:45:33 UTC] [UPD]   📢 📦 kazan0v2/9
+     ⭐ 0  🗣 JavaScript  📅 2026-09-05
+     🔗 https://github.com/kazan0v2/9
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-05 14:45:33 UTC] [UPD]   📢 📦 mrugaj/recoup
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/mrugaj/recoup
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-05 14:45:33 UTC] [INFO] ============================================================
+[2026-09-05 14:45:33 UTC] [INFO] Completato — 27 nuovi, 7 aggiornati, 0 errori
+[2026-09-05 14:45:33 UTC] [INFO] ============================================================
