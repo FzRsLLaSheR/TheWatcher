@@ -77698,3 +77698,168 @@
 [2026-09-05 20:02:30 UTC] [INFO] ============================================================
 [2026-09-05 20:02:30 UTC] [INFO] Completato — 20 nuovi, 2 aggiornati, 0 errori
 [2026-09-05 20:02:30 UTC] [INFO] ============================================================
+[2026-09-06 03:26:45 UTC] [INFO] ============================================================
+[2026-09-06 03:26:45 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-06 03:26:45 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-06 03:26:45 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-06 03:26:45 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-06 03:26:45 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-06 03:26:45 UTC] [INFO] ============================================================
+[2026-09-06 03:26:45 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-06 03:26:45 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-06 03:26:47 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-06 03:26:47 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-06 03:26:47 UTC] [NEW]   🆕 📦 Malwagon/malwagon-cli
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/Malwagon/malwagon-cli
+     📝 Scan a file for malware from your terminal. Automated malware analysis sandbox C…
+     🏷  agentless, byovd, cli, dfir, dynamic-analysis, hypervisor, incident-response, ioc, kernel-driver, malware, malware-analysis, malware-sandbox, mitre-attack, python, sandbox, security-tools, sigma, static-analysis, threat-intelligence, yara
+[2026-09-06 03:26:47 UTC] [NEW]   🆕 📦 Malwagon/.github
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/Malwagon/.github
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:47 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-06 03:26:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-06 03:26:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-06 03:26:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 porterloretta8018/edrxqj
+     ⭐ 0  🗣 N/A  📅 2026-09-06
+     🔗 https://github.com/porterloretta8018/edrxqj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 ogr1989/edrxaz
+     ⭐ 0  🗣 N/A  📅 2026-09-06
+     🔗 https://github.com/ogr1989/edrxaz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 wilsongabriel30/webmailMaquita
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/wilsongabriel30/webmailMaquita
+     📝 Suite de correo y colaboración autoalojada: webmail tipo Outlook con seguridad d…
+     🏷  dlp, dovecot, ecuador, email, email-security, fastapi, mail-server, open-source, outlook, postfix, postgresql, python, react, rspamd, self-hosted, typescript, webmail
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 andersonrafaelsf/pentest-metasploitable2-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-06
+     🔗 https://github.com/andersonrafaelsf/pentest-metasploitable2-lab
+     📝 'Laboratório prático de pentest (Kali + Metasploitable2) documentado sob a ótica…
+     🏷  blue-team, cybersecurity, kali-linux, metasploit, pentest, soc
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 JanusMael/ObexNet
+     ⭐ 0  🗣 C#  📅 2026-09-06
+     🔗 https://github.com/JanusMael/ObexNet
+     📝 Debugger-based DLL-load blocker for Windows (x64 & ARM64) — stops libraries from…
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 Aditya8076550/LogSetu
+     ⭐ 0  🗣 TypeScript  📅 2026-09-06
+     🔗 https://github.com/Aditya8076550/LogSetu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 Justin-Fraze/cybersec-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/Justin-Fraze/cybersec-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 gift56/gtavi-claim-nft-smart-contract
+     ⭐ 0  🗣 Solidity  📅 2026-09-05
+     🔗 https://github.com/gift56/gtavi-claim-nft-smart-contract
+     📝 This repository manages the smart contract suite for claiming/minting GTA VI-ins…
+     🏷  hardhat, openzeppelin, solidity
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 emirbyte/Remote-Mapping-Hijacktion
+     ⭐ 0  🗣 C  📅 2026-09-05
+     🔗 https://github.com/emirbyte/Remote-Mapping-Hijacktion
+     📝 Remote Thread Hijacking + Remote Mapping Injection POC
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 DezmondMcNabb/-Incident-Response-Process
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/DezmondMcNabb/-Incident-Response-Process
+     📝 TryHackMe -  Incident Response Process
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 eliemehintookou/wazuh-sysmon-threat-hunting
+     ⭐ 0  🗣 PowerShell  📅 2026-09-05
+     🔗 https://github.com/eliemehintookou/wazuh-sysmon-threat-hunting
+     📝 Détection d'intrusion et threat hunting sur infrastructure Windows avec Wazuh et…
+     🏷  blue-team, cybersecurity, mitre-attack, sysmon, threat-hunting, wazuh
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 EarnestHobley/Threat-Hunting-Scenario-Tor-Browser-Usage-
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/EarnestHobley/Threat-Hunting-Scenario-Tor-Browser-Usage-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 edristech/edristech
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/edristech/edristech
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 EgorovNikolay/yandex-practicum-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/EgorovNikolay/yandex-practicum-portfolio
+     📝 Портфолио проектов по SOC-аналитике
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 bigopazo-spec/SOC-Incident-Response-Phishing-C2
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/bigopazo-spec/SOC-Incident-Response-Phishing-C2
+     📝 Caso de estudio y triaje de respuesta a incidentes: Phishing con archivo enmasca…
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 dedsec-terminal/TraceIR
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/dedsec-terminal/TraceIR
+     📝 TraceIR defensive DFIR orchestration platform
+     🏷  cybersecurity, detection-engineering, dfir, digital-forensics, incident-response, mitre-attack, python, security-automation, sigma, windows-security
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 JoaquinHernandez/joahdz
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/JoaquinHernandez/joahdz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:50 UTC] [NEW]   🆕 📦 Socatos/EDRIC-PORTFOLIO
+     ⭐ 0  🗣 HTML  📅 2026-09-05
+     🔗 https://github.com/Socatos/EDRIC-PORTFOLIO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:50 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-06 03:26:50 UTC] [UPD]   📢 📦 Rovel/oma-id
+     ⭐ 0  🗣 Rust  📅 2026-09-05
+     🔗 https://github.com/Rovel/oma-id
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-06 03:26:50 UTC] [UPD]   📢 📦 KikeMuller/Get-ServerFullReport
+     ⭐ 18  🗣 PowerShell  📅 2026-09-04
+     🔗 https://github.com/KikeMuller/Get-ServerFullReport
+     📝 Inventario as-built y health check de servidores Windows en un solo .ps1
+     🏷  as-built, audit, documentation, inventory, iso27001, powershell, security, sysadmin, windows-11, windows-server
+     🔄 Motivo: repo recente (1gg)
+[2026-09-06 03:26:50 UTC] [UPD]   📢 📦 parsa-sariri/defender-xdr-mini-soc
+     ⭐ 0  🗣 N/A  📅 2026-09-05
+     🔗 https://github.com/parsa-sariri/defender-xdr-mini-soc
+     📝 Enterprise Mini-SOC & Threat Detection Engineering Lab: Windows Server 2025 on K…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-06 03:26:50 UTC] [UPD]   📢 📦 CliffVale/GROMACS_NA53
+     ⭐ 0  🗣 Shell  📅 2026-09-04
+     🔗 https://github.com/CliffVale/GROMACS_NA53
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-06 03:26:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-06 03:26:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-06 03:26:51 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-06 03:26:51 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-06 03:26:51 UTC] [NEW]   🆕 📦 LXNX701/3105externalmoon
+     ⭐ 0  🗣 Swift  📅 2026-09-06
+     🔗 https://github.com/LXNX701/3105externalmoon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:51 UTC] [NEW]   🆕 📦 marwansammy/2008
+     ⭐ 0  🗣 JavaScript  📅 2026-09-06
+     🔗 https://github.com/marwansammy/2008
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-06 03:26:51 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-06 03:26:51 UTC] [UPD]   📢 📦 FollowTheWizard/install-ubuntu-server-2604-zfs-luks-tpm
+     ⭐ 0  🗣 Shell  📅 2026-09-05
+     🔗 https://github.com/FollowTheWizard/install-ubuntu-server-2604-zfs-luks-tpm
+     📝 # Ubuntu Server 26.04 LTS — ZFS Mirror + LUKS2 FDE + TPM2 Unlock
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-06 03:26:51 UTC] [INFO] ============================================================
+[2026-09-06 03:26:51 UTC] [INFO] Completato — 22 nuovi, 5 aggiornati, 0 errori
+[2026-09-06 03:26:51 UTC] [INFO] ============================================================
