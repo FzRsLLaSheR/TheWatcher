@@ -78496,3 +78496,177 @@
 [2026-09-06 20:06:47 UTC] [INFO] ============================================================
 [2026-09-06 20:06:47 UTC] [INFO] Completato — 34 nuovi, 5 aggiornati, 0 errori
 [2026-09-06 20:06:47 UTC] [INFO] ============================================================
+[2026-09-07 03:26:07 UTC] [INFO] ============================================================
+[2026-09-07 03:26:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-07 03:26:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-07 03:26:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-07 03:26:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-07 03:26:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-07 03:26:07 UTC] [INFO] ============================================================
+[2026-09-07 03:26:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-07 03:26:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-07 03:26:08 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 03:26:08 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-07 03:26:08 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-07 03:26:08 UTC] [UPD]   📢 📦 Malwagon/malwagon-cli
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/Malwagon/malwagon-cli
+     📝 Scan a file for malware from your terminal. Automated malware analysis sandbox C…
+     🏷  agentless, byovd, cli, dfir, dynamic-analysis, hypervisor, incident-response, ioc, kernel-driver, malware, malware-analysis, malware-sandbox, mitre-attack, python, sandbox, security-tools, sigma, static-analysis, threat-intelligence, yara
+     🔄 Motivo: repo recente (1gg)
+[2026-09-07 03:26:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-07 03:26:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-07 03:26:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 tsumon/suite
+     ⭐ 0  🗣 C#  📅 2026-09-07
+     🔗 https://github.com/tsumon/suite
+     📝 Windows tray Suite: F1 screenshot, taskbar net speed, transparency, theme toggle
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 martinsmichele8-cmyk/Soar
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/martinsmichele8-cmyk/Soar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 ramita-0/esp32-gamedev
+     ⭐ 0  🗣 C++  📅 2026-09-07
+     🔗 https://github.com/ramita-0/esp32-gamedev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 martinsmichele8-cmyk/Soc
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/martinsmichele8-cmyk/Soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 igh3izmsua/edrzoc
+     ⭐ 0  🗣 N/A  📅 2026-09-06
+     🔗 https://github.com/igh3izmsua/edrzoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 hawstom/not-epanet.org
+     ⭐ 0  🗣 HTML  📅 2026-09-06
+     🔗 https://github.com/hawstom/not-epanet.org
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 TyWal456/security-login-lab
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/TyWal456/security-login-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 yorgabr/EscapeFromCorporate
+     ⭐ 0  🗣 PowerShell  📅 2026-09-07
+     🔗 https://github.com/yorgabr/EscapeFromCorporate
+     📝 Repository created by GitMe
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 okaz-code/HDRScopeWin
+     ⭐ 0  🗣 C++  📅 2026-09-07
+     🔗 https://github.com/okaz-code/HDRScopeWin
+     📝 HDR Scope for Windows
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 Only1Antz89/artificial-IT
+     ⭐ 0  🗣 TypeScript  📅 2026-09-06
+     🔗 https://github.com/Only1Antz89/artificial-IT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 HKenzoKimura/CVE-2025-31324
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/HKenzoKimura/CVE-2025-31324
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 HKenzoKimura/CVE-2021-1675
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/HKenzoKimura/CVE-2021-1675
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 HKenzoKimura/MALDEV--TrojanStealer
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/HKenzoKimura/MALDEV--TrojanStealer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 ivancabrera02/HashSiphon
+     ⭐ 0  🗣 PowerShell  📅 2026-09-06
+     🔗 https://github.com/ivancabrera02/HashSiphon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 F6-Security/xdr-mcp
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/F6-Security/xdr-mcp
+     📝 MCP server for the F6 XDR platform — gives AI assistants access to alerts, incid…
+     🏷  incident-response, mcp, mcp-server, model-context-protocol, python, security, threat-hunting, xdr
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 jhon-sanchez-python/SecurityMonitor
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/jhon-sanchez-python/SecurityMonitor
+     📝 Sistema modular de monitoreo de seguridad desarrollado en Python para análisis d…
+     🏷  automation, cybersecurity, file-monitoring, malware-detection, process-monitoring, pytest, python, security-monitoring, static-analysis, windows
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 AlloySecureGroup/DNSDriverDetection
+     ⭐ 2  🗣 PowerShell  📅 2026-09-06
+     🔗 https://github.com/AlloySecureGroup/DNSDriverDetection
+     📝 A simple DNS CanaryToken that alerts when an unknown, new driver is loaded.
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 jrgomill/Python-Automation-Lab
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/jrgomill/Python-Automation-Lab
+     📝 This lab demonstrates Python-based automation for cybersecurity engineering, inc…
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 swryder/Snow-Globe
+     ⭐ 0  🗣 Swift  📅 2026-09-06
+     🔗 https://github.com/swryder/Snow-Globe
+     📝 A metal backed Snow Globe AI Activity Indictor Meant for use in AI Chat Apps as …
+     🏷  —
+[2026-09-07 03:26:11 UTC] [NEW]   🆕 📦 apskis/cti-daily-perimeter-scan-public
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/apskis/cti-daily-perimeter-scan-public
+     📝 Weekly external attack surface review and team briefing (public reference build)
+     🏷  —
+[2026-09-07 03:26:11 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-07 03:26:11 UTC] [UPD]   📢 📦 daddy2412/infrastructure-s-curis-e-globale
+     ⭐ 0  🗣 HTML  📅 2026-09-06
+     🔗 https://github.com/daddy2412/infrastructure-s-curis-e-globale
+     📝 homelab, cybersecurity, soc, siem, wazuh, opnsense, hyper-v, network-security,  …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-07 03:26:11 UTC] [UPD]   📢 📦 tomat60/agent-recovery-platform
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/tomat60/agent-recovery-platform
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-07 03:26:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-07 03:26:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-07 03:26:12 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 03:26:12 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-07 03:26:12 UTC] [NEW]   🆕 📦 tyujj2206-source/pes-club
+     ⭐ 0  🗣 JavaScript  📅 2026-09-06
+     🔗 https://github.com/tyujj2206-source/pes-club
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:12 UTC] [NEW]   🆕 📦 null000000000/my-notes
+     ⭐ 0  🗣 N/A  📅 2026-09-06
+     🔗 https://github.com/null000000000/my-notes
+     📝 my-notes "test"
+     🏷  —
+[2026-09-07 03:26:12 UTC] [NEW]   🆕 📦 brstation/ps4.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-06
+     🔗 https://github.com/brstation/ps4.github.io
+     📝 PS4 Webkit Exploit
+     🏷  —
+[2026-09-07 03:26:12 UTC] [NEW]   🆕 📦 riteshsahu16/oscp-prep
+     ⭐ 0  🗣 N/A  📅 2026-09-06
+     🔗 https://github.com/riteshsahu16/oscp-prep
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:12 UTC] [NEW]   🆕 📦 65566/fantasy26
+     ⭐ 0  🗣 JavaScript  📅 2026-09-06
+     🔗 https://github.com/65566/fantasy26
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 03:26:12 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-07 03:26:12 UTC] [UPD]   📢 📦 LXNX701/external-ios-v33
+     ⭐ 0  🗣 Swift  📅 2026-09-06
+     🔗 https://github.com/LXNX701/external-ios-v33
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-07 03:26:12 UTC] [INFO] ============================================================
+[2026-09-07 03:26:12 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
+[2026-09-07 03:26:12 UTC] [INFO] ============================================================
