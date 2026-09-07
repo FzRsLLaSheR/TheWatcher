@@ -79086,3 +79086,152 @@
 [2026-09-07 17:26:59 UTC] [INFO] ============================================================
 [2026-09-07 17:26:59 UTC] [INFO] Completato — 28 nuovi, 2 aggiornati, 0 errori
 [2026-09-07 17:26:59 UTC] [INFO] ============================================================
+[2026-09-07 21:13:23 UTC] [INFO] ============================================================
+[2026-09-07 21:13:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-07 21:13:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-07 21:13:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-07 21:13:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-07 21:13:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-07 21:13:23 UTC] [INFO] ============================================================
+[2026-09-07 21:13:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-07 21:13:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-07 21:13:25 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 21:13:25 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-07 21:13:25 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-07 21:13:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-07 21:13:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-07 21:13:28 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 15 NUOVI repository:
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 gpandres/it-tools
+     ⭐ 0  🗣 TypeScript  📅 2026-09-06
+     🔗 https://github.com/gpandres/it-tools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 ruggdoll/CTI-feeds
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/ruggdoll/CTI-feeds
+     📝 Liste de sources de renseignement d'origine cyber
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 7090073-cyber/practica-
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/7090073-cyber/practica-
+     📝 Zona de Servicios Informáticos | Práctica de Ciberseguridad 2026
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 4438096-hash/TIPOS-DE-VIRUS
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/4438096-hash/TIPOS-DE-VIRUS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 DaniloArantesVieira/windows-threat-detector
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/DaniloArantesVieira/windows-threat-detector
+     📝 Sistema de detecção em Python para análise de Windows Event Logs, identificação …
+     🏷  blue-team, cybersecurity, detection-engineering, mitre-attack, python, security-monitoring, soc, threat-detection, windows-event-logs, windows-security
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 Dhrub69/Phishing-Investigation-Threat-Intelligence-
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/Dhrub69/Phishing-Investigation-Threat-Intelligence-
+     📝 A hands-on SOC Analyst portfolio project simulating real-world phishing email tr…
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 Rolex-1905/wazuh-integrations
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/Rolex-1905/wazuh-integrations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 drake-calahan/40KT1_SENTINEL
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/drake-calahan/40KT1_SENTINEL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 kacpermagiera790/EDR-SIEM-Log-Analyzer-
+     ⭐ 0  🗣 C++  📅 2026-09-07
+     🔗 https://github.com/kacpermagiera790/EDR-SIEM-Log-Analyzer-
+     📝 Mini EDR + SIEM log analyzer written in C++.   Reads endpoint logs (PROCESS, NET…
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 reindrops86/Daily-Cyber-Threat-Intelligence-Briefing
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/reindrops86/Daily-Cyber-Threat-Intelligence-Briefing
+     📝 Correlates multi-source cyber threat intelligence — exploited vulnerabilities, t…
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 sheersh1111/sentryflow
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/sheersh1111/sentryflow
+     📝 Real-time multi-tenant SOC alert-triage agent (LangGraph + RAG + guardrails) - d…
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 Z9D-QAI/Z9D-SRS-v6.3-Elite-Secure-Robotic-System-EDR
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/Z9D-QAI/Z9D-SRS-v6.3-Elite-Secure-Robotic-System-EDR
+     📝 Z9D-SRS-v6.3-Elite Secure Robotic System EDR 
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 hiro001-eth/My-SOC-GRC-Operations-Ecosystem
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/hiro001-eth/My-SOC-GRC-Operations-Ecosystem
+     📝 Enterprise Blue Team Security Operations Center (SOC) & GRC framework Detection …
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 project-draven/SecureTriage
+     ⭐ 0  🗣 PowerShell  📅 2026-09-07
+     🔗 https://github.com/project-draven/SecureTriage
+     📝 Single-file PowerShell triage for Windows endpoints reports what it couldn't che…
+     🏷  —
+[2026-09-07 21:13:28 UTC] [NEW]   🆕 📦 mkarson1997/karzoun-kernwatch
+     ⭐ 0  🗣 C  📅 2026-09-07
+     🔗 https://github.com/mkarson1997/karzoun-kernwatch
+     📝 Linux eBPF observability and runtime telemetry agent in C with CO-RE portability…
+     🏷  —
+[2026-09-07 21:13:28 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-07 21:13:28 UTC] [UPD]   📢 📦 tomat60/agent-recovery-platform
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/tomat60/agent-recovery-platform
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-07 21:13:28 UTC] [UPD]   📢 📦 Rovel/oma-id
+     ⭐ 0  🗣 Rust  📅 2026-09-05
+     🔗 https://github.com/Rovel/oma-id
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-07 21:13:28 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-07 21:13:28 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-07 21:13:30 UTC] [INFO]   → 35 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 21:13:30 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-07 21:13:30 UTC] [NEW]   🆕 📦 Mrmaxicc/ipa-build
+     ⭐ 0  🗣 Swift  📅 2026-09-07
+     🔗 https://github.com/Mrmaxicc/ipa-build
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 21:13:30 UTC] [NEW]   🆕 📦 brstation/ps4.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/brstation/ps4.github.io
+     📝 PS4 WEBKIT EXPLOIT
+     🏷  —
+[2026-09-07 21:13:30 UTC] [NEW]   🆕 📦 bishalu/agent-sandbox
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/bishalu/agent-sandbox
+     📝 Run coding agents in an isolated git worktree inside a hardened, disposable root…
+     🏷  —
+[2026-09-07 21:13:30 UTC] [NEW]   🆕 📦 noah-ing/confined-tool-execution
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/noah-ing/confined-tool-execution
+     📝 Linux reference for capability-scoped tool process confinement
+     🏷  —
+[2026-09-07 21:13:30 UTC] [NEW]   🆕 📦 ITZproVenom/aegis27
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/ITZproVenom/aegis27
+     📝 Authorized iOS 27 security research harness for iPhone 16
+     🏷  —
+[2026-09-07 21:13:30 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-07 21:13:30 UTC] [UPD]   📢 📦 savagedamage/android-security-wizard
+     ⭐ 0  🗣 N/A  📅 2026-09-04
+     🔗 https://github.com/savagedamage/android-security-wizard
+     📝 Android security research corpus: SKILL.md + 18 companion files covering native …
+     🏷  android-malware, android-security, exploit-development, frida, kernel-exploit, malware-analysis, mobile-forensics, mobile-security, reverse-engineering, security-research, shizuku, threat-intelligence
+     🔄 Motivo: repo recente (3gg)
+[2026-09-07 21:13:30 UTC] [UPD]   📢 📦 sinchalkar001-dev/SyncSpace
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/sinchalkar001-dev/SyncSpace
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-07 21:13:30 UTC] [INFO] ============================================================
+[2026-09-07 21:13:30 UTC] [INFO] Completato — 20 nuovi, 4 aggiornati, 0 errori
+[2026-09-07 21:13:30 UTC] [INFO] ============================================================
