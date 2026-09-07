@@ -78909,3 +78909,180 @@
 [2026-09-07 11:50:21 UTC] [INFO] ============================================================
 [2026-09-07 11:50:21 UTC] [INFO] Completato — 38 nuovi, 4 aggiornati, 0 errori
 [2026-09-07 11:50:21 UTC] [INFO] ============================================================
+[2026-09-07 17:26:51 UTC] [INFO] ============================================================
+[2026-09-07 17:26:51 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-07 17:26:51 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-07 17:26:51 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-07 17:26:51 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-07 17:26:51 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-07 17:26:51 UTC] [INFO] ============================================================
+[2026-09-07 17:26:51 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-07 17:26:51 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-07 17:26:53 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 17:26:53 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-07 17:26:53 UTC] [NEW]   🆕 📦 xuehuolll/Invoke-OscpEnum
+     ⭐ 0  🗣 PowerShell  📅 2026-09-07
+     🔗 https://github.com/xuehuolll/Invoke-OscpEnum
+     📝 Read-only Windows/AD enumeration tool for OSCP-style labs: local privesc, AD enu…
+     🏷  —
+[2026-09-07 17:26:53 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-07 17:26:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-07 17:26:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-07 17:26:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 mlvenkatapradeep/CyberTrace
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/mlvenkatapradeep/CyberTrace
+     📝 Lightweight Python SSH security monitoring and brute-force detection tool
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 Prog-Code-Andy/ai-assist-work
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/Prog-Code-Andy/ai-assist-work
+     📝 Governance, roadmap, phase prompts, reports, and learning documentation for AI A…
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 seppegadeyne/btfind
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/seppegadeyne/btfind
+     📝 Bluetooth RSSI device finder with curses TUI and Omarchy Quickshell topbar plugi…
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 BitBrain2811/AegisX
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/BitBrain2811/AegisX
+     📝 AegisX is an Autonomous AI Cyber Defense System for intelligent threat detection…
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 vadla-abhishek/RansomTrace
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/vadla-abhishek/RansomTrace
+     📝 Offline Static PE Analysis & Ransomware Indicator Detection Engine
+     🏷  malware-analysis, mitre-attack, pe-analyzer, python, ransomware, threat-intelligence
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 eslammohamedfawzy1-tech/Enterprise-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/eslammohamedfawzy1-tech/Enterprise-SOC-Lab
+     📝 Bbuilding an enterprise-level virtual security environment for threat detection …
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 abtank09/cybersecurity_portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/abtank09/cybersecurity_portfolio
+     📝 Hands-on SOC Analyst & Blue Team portfolio featuring SIEM investigations, Window…
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 MrSpy00/OmniCore
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/MrSpy00/OmniCore
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 CypherHarsh0/windows-fim-mini-siem
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/CypherHarsh0/windows-fim-mini-siem
+     📝 Progressive Windows File Integrity Monitoring project evolving into a SOC-style …
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 lunaticbugbear/ltx-quasar-free
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/lunaticbugbear/ltx-quasar-free
+     📝 (nessuna descrizione)
+     🏷  ai, bugbounty, cybersecurity, llm, offensive-security, pentest, persona, prompt-engineering, redteam, security
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 Snapskillz123/hh-goa-evidence
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/Snapskillz123/hh-goa-evidence
+     📝 Local Ethereum evidence hashing and tamper verification component
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 ajinkyadg/DetectionAuditTool
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/ajinkyadg/DetectionAuditTool
+     📝 Detection rule catalogue, Event ID lookup CLI, log auditor, and attack simulator…
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 edrees078/edrees078
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/edrees078/edrees078
+     📝 My GitHub profile README - projects, skills, and experience.
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 JayashriMurugan15/Software-Company-Receiving-Security
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/JayashriMurugan15/Software-Company-Receiving-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 belsaadany09-lab/purple-team-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/belsaadany09-lab/purple-team-home-lab
+     📝 Purple team security-research lab: designing and evaluating detection methods fo…
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 n-Sakana/pub-macrostudio
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/n-Sakana/pub-macrostudio
+     📝 Repair Excel VBA macros without opening the VBE: package every module into a req…
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 NiharikaRaut-02/Airnova_Website
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/NiharikaRaut-02/Airnova_Website
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 StudioMatan/soar-edr-reporter
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/StudioMatan/soar-edr-reporter
+     📝 Serverless SOAR pipeline: EDR detections -> SQS -> Lambda triage -> Slack report…
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 gamotmayur/openvas-vulnerability-scanner
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/gamotmayur/openvas-vulnerability-scanner
+     📝 Self-hosted OpenVAS vulnerability scanning setup for automated security assessme…
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 Darreno-Shinu/edrwcq
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/Darreno-Shinu/edrwcq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 17:26:56 UTC] [NEW]   🆕 📦 maorcyght/From-SMB-Write-to-Domain-Admin-Pentest-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/maorcyght/From-SMB-Write-to-Domain-Admin-Pentest-Playbook
+     📝 From SMB Write to Domain Admin – Pentest Playbook
+     🏷  —
+[2026-09-07 17:26:56 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-07 17:26:56 UTC] [UPD]   📢 📦 alexrepsec/dotnet-loader-malware-analysis
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/alexrepsec/dotnet-loader-malware-analysis
+     📝 Static analysis of a .NET loader — AES-256-CBC decryption and reflective loading…
+     🏷  academia-spg, advanced, blue-team, mitre-attack
+     🔄 Motivo: repo recente (0gg) | nuovi topic: academia-spg
+[2026-09-07 17:26:56 UTC] [UPD]   📢 📦 wilsongabriel30/webmailMaquita
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/wilsongabriel30/webmailMaquita
+     📝 Suite de correo y colaboración autoalojada: webmail tipo Outlook con seguridad d…
+     🏷  dlp, dovecot, ecuador, email, email-security, fastapi, mail-server, open-source, outlook, postfix, postgresql, python, react, rspamd, self-hosted, typescript, webmail
+     🔄 Motivo: repo recente (1gg)
+[2026-09-07 17:26:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-07 17:26:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-07 17:26:59 UTC] [INFO]   → 31 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 17:26:59 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-09-07 17:26:59 UTC] [NEW]   🆕 📦 amarko18/1252
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/amarko18/1252
+     📝 تعديل  11.00 , 11.50 , 12.00, 12.02, 12.50, 12.52 ,13.00
+     🏷  —
+[2026-09-07 17:26:59 UTC] [NEW]   🆕 📦 sinchalkar001-dev/SyncSpace
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/sinchalkar001-dev/SyncSpace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 17:26:59 UTC] [NEW]   🆕 📦 Mrmaxicc/3105-build
+     ⭐ 0  🗣 Swift  📅 2026-09-07
+     🔗 https://github.com/Mrmaxicc/3105-build
+     📝 3105 unsigned IPA build
+     🏷  —
+[2026-09-07 17:26:59 UTC] [NEW]   🆕 📦 Vegueta-1/PS4-WebKitty-V2-Offline-Jailbreak-Server-ESP32-S3-MON16R8-WROOM-1
+     ⭐ 1  🗣 HTML  📅 2026-09-07
+     🔗 https://github.com/Vegueta-1/PS4-WebKitty-V2-Offline-Jailbreak-Server-ESP32-S3-MON16R8-WROOM-1
+     📝 A complete, offline PS4 WebKitty V2 exploit host running entirely on the ESP32‑S…
+     🏷  —
+[2026-09-07 17:26:59 UTC] [NEW]   🆕 📦 bysyblaystyshn553-bit/pcalzaeem1300
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/bysyblaystyshn553-bit/pcalzaeem1300
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 17:26:59 UTC] [NEW]   🆕 📦 MR-R00TX/MR-R00TX
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/MR-R00TX/MR-R00TX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 17:26:59 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-07 17:26:59 UTC] [INFO] ============================================================
+[2026-09-07 17:26:59 UTC] [INFO] Completato — 28 nuovi, 2 aggiornati, 0 errori
+[2026-09-07 17:26:59 UTC] [INFO] ============================================================
