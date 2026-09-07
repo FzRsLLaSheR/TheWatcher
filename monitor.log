@@ -78670,3 +78670,242 @@
 [2026-09-07 03:26:12 UTC] [INFO] ============================================================
 [2026-09-07 03:26:12 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
 [2026-09-07 03:26:12 UTC] [INFO] ============================================================
+[2026-09-07 11:50:13 UTC] [INFO] ============================================================
+[2026-09-07 11:50:13 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-07 11:50:13 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-07 11:50:13 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-07 11:50:13 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-07 11:50:13 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-07 11:50:13 UTC] [INFO] ============================================================
+[2026-09-07 11:50:13 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-07 11:50:13 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-07 11:50:15 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 11:50:15 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-07 11:50:15 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-07 11:50:15 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-07 11:50:15 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-07 11:50:19 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 JohnP4p/debian-redteam-toolkit
+     ⭐ 0  🗣 Shell  📅 2026-09-07
+     🔗 https://github.com/JohnP4p/debian-redteam-toolkit
+     📝 Minimal, hardened, checksum-verified red-team toolkit for Debian 13. Built to re…
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 SiteQ8/security-architecture-motion-lab
+     ⭐ 0  🗣 TypeScript  📅 2026-09-07
+     🔗 https://github.com/SiteQ8/security-architecture-motion-lab
+     📝 Interactive, motion-led field guide to modern security architecture, trust bound…
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 fatimahoneino/Purple_Cyber
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/fatimahoneino/Purple_Cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 In0suke-op/aegis-edr
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/In0suke-op/aegis-edr
+     📝 🛡️ Cross-Platform Endpoint Detection & Response (EDR) & Threat Hunting Engine wi…
+     🏷  blue-team, cybersecurity, edr, incident-response, memory-forensics, mitre-attack, soc-analyst, threat-hunting
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 pawel4dollaz/dutch-home-calcs
+     ⭐ 0  🗣 HTML  📅 2026-09-06
+     🔗 https://github.com/pawel4dollaz/dutch-home-calcs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 coretez/fluency-star-rules
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/coretez/fluency-star-rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 alihamedsa-create/servermonitrong
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/alihamedsa-create/servermonitrong
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 saraalzhrani7/ransomware-incident-timeline-powerbi
+     ⭐ 0  🗣 HTML  📅 2026-09-07
+     🔗 https://github.com/saraalzhrani7/ransomware-incident-timeline-powerbi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 Ileanaa-Suei/edrifx
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/Ileanaa-Suei/edrifx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 Wandam-Rileyb/edrdbc
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/Wandam-Rileyb/edrdbc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 kernullist/ntoffsets
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/kernullist/ntoffsets
+     📝 Windows kernel struct layouts and global symbol RVAs, per build, keyed by PDB GU…
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 carthworks/SIH26105-Security-Platform
+     ⭐ 0  🗣 JavaScript  📅 2026-09-06
+     🔗 https://github.com/carthworks/SIH26105-Security-Platform
+     📝 Continuous cyber risk posture quantification, threat intelligence modeling, and …
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 FAIZAN63-CELL/ai-email-analyser
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/FAIZAN63-CELL/ai-email-analyser
+     📝 Safe, explainable AI-assisted email security analysis and SOC incident workflow.
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 Rithwik29102006/Risklens
+     ⭐ 0  🗣 TypeScript  📅 2026-09-07
+     🔗 https://github.com/Rithwik29102006/Risklens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 SuperActionShootingGame4/dummycom
+     ⭐ 0  🗣 Assembly  📅 2026-09-07
+     🔗 https://github.com/SuperActionShootingGame4/dummycom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 sudo-su-coffee/cloud-service-registry
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/sudo-su-coffee/cloud-service-registry
+     📝 A personal reference mapping legacy cloud SaaS to self-hostable, open-source equ…
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 Putznick/Edr-kernel
+     ⭐ 0  🗣 C  📅 2026-09-07
+     🔗 https://github.com/Putznick/Edr-kernel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 sunkencity999/kb-payloads
+     ⭐ 0  🗣 Shell  📅 2026-09-06
+     🔗 https://github.com/sunkencity999/kb-payloads
+     📝 WiFi Pineapple Pager recon payloads (KB NetRecon active sweep + KB GhostRecon pa…
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 Mahabdulla/-hidden-bytes
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/Mahabdulla/-hidden-bytes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 Mahabdulla/escalator
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/Mahabdulla/escalator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 ShashankD210/Sigma
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/ShashankD210/Sigma
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 MysteriousImmature/ClickFix-Awareness-Lab
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/MysteriousImmature/ClickFix-Awareness-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 jasongil003/document_renamer
+     ⭐ 0  🗣 HTML  📅 2026-09-07
+     🔗 https://github.com/jasongil003/document_renamer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 BenjamineButler/Warden-EDR
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/BenjamineButler/Warden-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 neulketing/nightfall
+     ⭐ 0  🗣 Go  📅 2026-09-07
+     🔗 https://github.com/neulketing/nightfall
+     📝 Advanced threat emulation suite for APT simulation
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 alexrepsec/dotnet-loader-malware-analysis
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/alexrepsec/dotnet-loader-malware-analysis
+     📝 Static analysis of a .NET loader — AES-256-CBC decryption and reflective loading…
+     🏷  advanced, blue-team, mitre-attack
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 JoaomouraDDS/soc_log_analyzer
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/JoaomouraDDS/soc_log_analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 berinabraham-sec/threat-modeling-engine
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/berinabraham-sec/threat-modeling-engine
+     📝 A threat modeling engine for endpoint security analysis with MITRE ATT&CK v12 ma…
+     🏷  —
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 Jovalam-3008/EDRSS-Project
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/Jovalam-3008/EDRSS-Project
+     📝 Early Delinquency Risk Scoring System: arquitectura Medallion, notebooks, SQL, m…
+     🏷  credit-risk, data-science, machine-learning, medallion-architecture
+[2026-09-07 11:50:19 UTC] [NEW]   🆕 📦 Jovalam-3008/EDRSS-Dashboard
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/Jovalam-3008/EDRSS-Dashboard
+     📝 Dashboard público agregado de EDRSS V2 para priorización de cobranza temprana
+     🏷  credit-risk, dashboard, data-science, streamlit
+[2026-09-07 11:50:19 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-07 11:50:19 UTC] [UPD]   📢 📦 F6-Security/xdr-mcp
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/F6-Security/xdr-mcp
+     📝 MCP server for the F6 XDR platform — gives AI assistants access to alerts, incid…
+     🏷  incident-response, mcp, mcp-server, model-context-protocol, python, security, threat-hunting, xdr
+     🔄 Motivo: repo recente (0gg)
+[2026-09-07 11:50:19 UTC] [UPD]   📢 📦 Only1Antz89/artificial-IT
+     ⭐ 0  🗣 TypeScript  📅 2026-09-06
+     🔗 https://github.com/Only1Antz89/artificial-IT
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-07 11:50:19 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-07 11:50:19 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-07 11:50:21 UTC] [INFO]   → 25 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-07 11:50:21 UTC] [NEW]   🆕 8 NUOVI repository:
+[2026-09-07 11:50:21 UTC] [NEW]   🆕 📦 tyujj2206-source/hamdon
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/tyujj2206-source/hamdon
+     📝 ps4 webkit
+     🏷  —
+[2026-09-07 11:50:21 UTC] [NEW]   🆕 📦 egon999/egon999
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/egon999/egon999
+     📝 Ayushman (EGON) — Systems & Full-Stack Developer | 12th Grade Student
+     🏷  —
+[2026-09-07 11:50:21 UTC] [NEW]   🆕 📦 pcpapc172/a16rootport
+     ⭐ 0  🗣 C  📅 2026-09-07
+     🔗 https://github.com/pcpapc172/a16rootport
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-07 11:50:21 UTC] [NEW]   🆕 📦 0b0111100/2009
+     ⭐ 0  🗣 C  📅 2026-09-07
+     🔗 https://github.com/0b0111100/2009
+     📝 Linux Kernel Exploits -> CVE-2009-1185  + CVE-2009-1337 + CVE-2009-2692 + CVE-20…
+     🏷  exploit, exploit-db, linux, linux-kernel-exploitation
+[2026-09-07 11:50:21 UTC] [NEW]   🆕 📦 0b0111100/2008
+     ⭐ 0  🗣 C  📅 2026-09-07
+     🔗 https://github.com/0b0111100/2008
+     📝 Linux Kernel Exploits -> CVE-2008-0600 + CVE-2008-0900 + CVE-2008-4210 
+     🏷  exploit, linux, linux-kernel-exploitation, payload, sybersecurity
+[2026-09-07 11:50:21 UTC] [NEW]   🆕 📦 0b0111100/2006
+     ⭐ 0  🗣 C  📅 2026-09-07
+     🔗 https://github.com/0b0111100/2006
+     📝 Linux Kernel Exploits -> CVE-2006-2451 + CVE-2006-3626
+     🏷  cve, cybersecurity, exploit, exploit-db, linux, linux-kernel-exploitation, payload
+[2026-09-07 11:50:21 UTC] [NEW]   🆕 📦 0b0111100/2005
+     ⭐ 0  🗣 C  📅 2026-09-07
+     🔗 https://github.com/0b0111100/2005
+     📝 Linux Kernel Exploits -> CVE-2005-0736 + CVE-2005-1263
+     🏷  cve, cyber-security, exploit, exploit-db, exploitation, linux, linux-kernel-exploitation, payload
+[2026-09-07 11:50:21 UTC] [NEW]   🆕 📦 0b0111100/2004
+     ⭐ 0  🗣 C  📅 2026-09-07
+     🔗 https://github.com/0b0111100/2004
+     📝 Linux Kernel Exploits -> CVE-2004-0077 + CVE-2004-1235 + caps_to_root
+     🏷  cve, exploit, exploit-database, linux, linux-kernel-exploitation
+[2026-09-07 11:50:21 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-07 11:50:21 UTC] [UPD]   📢 📦 camanit/ZentyTeamsCoreSdks
+     ⭐ 1  🗣 Rust  📅 2026-09-06
+     🔗 https://github.com/camanit/ZentyTeamsCoreSdks
+     📝  **ZentyTeamsCore dirancang dengan asumsi terburuk: sistem sudah disusupi, jarin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-07 11:50:21 UTC] [UPD]   📢 📦 brstation/ps4.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-06
+     🔗 https://github.com/brstation/ps4.github.io
+     📝 PS4 Webkit Exploit
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-07 11:50:21 UTC] [INFO] ============================================================
+[2026-09-07 11:50:21 UTC] [INFO] Completato — 38 nuovi, 4 aggiornati, 0 errori
+[2026-09-07 11:50:21 UTC] [INFO] ============================================================
