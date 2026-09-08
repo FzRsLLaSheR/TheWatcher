@@ -79444,3 +79444,230 @@
 [2026-09-08 03:32:15 UTC] [INFO] ============================================================
 [2026-09-08 03:32:15 UTC] [INFO] Completato — 32 nuovi, 4 aggiornati, 0 errori
 [2026-09-08 03:32:15 UTC] [INFO] ============================================================
+[2026-09-08 10:47:16 UTC] [INFO] ============================================================
+[2026-09-08 10:47:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-08 10:47:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-08 10:47:16 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-08 10:47:16 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-08 10:47:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-08 10:47:16 UTC] [INFO] ============================================================
+[2026-09-08 10:47:16 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-08 10:47:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-08 10:47:17 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-08 10:47:17 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-08 10:47:17 UTC] [NEW]   🆕 📦 RootCipherX/cybersecurity-sysmon-threat-hunting-guide
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/RootCipherX/cybersecurity-sysmon-threat-hunting-guide
+     📝 Enterprise-grade Blue Team reference and detection engineering guide covering Mi…
+     🏷  —
+[2026-09-08 10:47:17 UTC] [NEW]   🆕 📦 DawidTrochim/VulnSeek
+     ⭐ 0  🗣 C#  📅 2026-09-08
+     🔗 https://github.com/DawidTrochim/VulnSeek
+     📝 Read-only Windows privilege-escalation scanner in C#/.NET 8. Uses native AccessC…
+     🏷  —
+[2026-09-08 10:47:17 UTC] [NEW]   🆕 📦 legionultramax/Detection-Engineering-MCP
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/legionultramax/Detection-Engineering-MCP
+     📝 Detection Engineering MCP
+     🏷  —
+[2026-09-08 10:47:17 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-08 10:47:17 UTC] [UPD]   📢 📦 S12cybersecurity/HandleRedirect
+     ⭐ 12  🗣 C++  📅 2026-09-06
+     🔗 https://github.com/S12cybersecurity/HandleRedirect
+     📝 Handle Redirect via BYOVD Kernel Read/Write
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-08 10:47:17 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-08 10:47:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-08 10:47:20 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 RootCipherX/cybersecurity-sysmon-threat-hunting-guide
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/RootCipherX/cybersecurity-sysmon-threat-hunting-guide
+     📝 Enterprise-grade Blue Team reference and detection engineering guide covering Mi…
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 cyber-atharv/linux-ebpf-security-tracer
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/cyber-atharv/linux-ebpf-security-tracer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 cyber-atharv/keylogger
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/cyber-atharv/keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 akashuttamraodhobale/akashuttamraodhobale
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/akashuttamraodhobale/akashuttamraodhobale
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 5h4d0wn1k/portfolio-index
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/5h4d0wn1k/portfolio-index
+     📝 5h4d0wn1k portfolio index - 146 working repos, 16 security domains (submodules).…
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 supunkaru/cybersecurity-analyst-toolkit
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/supunkaru/cybersecurity-analyst-toolkit
+     📝 A continuously updated collection of cybersecurity tools and platforms for SOC a…
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 krsnaSuraj/vanta
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/krsnaSuraj/vanta
+     📝 VANTA — post-quantum C2 framework: ML-KEM-768 || X25519 -> HKDF-SHA256 -> AES-25…
+     🏷  aes-256-gcm, c2, command-and-control, cybersecurity, ml-kem, post-quantum, python, red-team, security-tools
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 rocast560/ccdc-siem-edr
+     ⭐ 0  🗣 HTML  📅 2026-09-08
+     🔗 https://github.com/rocast560/ccdc-siem-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 raphschneider21/autonomous-it-support
+     ⭐ 2  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/raphschneider21/autonomous-it-support
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 Andrew190707/BlackBox
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/Andrew190707/BlackBox
+     📝 A Cyber Governance Prototype that monitors file activity, detects anomalous beha…
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 youssif-2005/edrak_flutter
+     ⭐ 0  🗣 HTML  📅 2026-09-08
+     🔗 https://github.com/youssif-2005/edrak_flutter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 zelinsky-alexander/neta-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-09-07
+     🔗 https://github.com/zelinsky-alexander/neta-lab
+     📝 NETA Lab is a catalog of safe, deterministic endpoint and network behavior emula…
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 Dharshini-cmd/RDRS-Next
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/Dharshini-cmd/RDRS-Next
+     📝 Defensive ransomware observability prototype for authorized test environments
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 quantavil/awesome-omarchy-plugins
+     ⭐ 1  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/quantavil/awesome-omarchy-plugins
+     📝 Curated directory of 2,600+ open-source Omarchy plugins, widgets, and status bar…
+     🏷  awesome-list, omarchy, omarchy-shell, plugins, quickshell
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 luismenossi/Homelab-SOC-Wazuh-Deployment
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/luismenossi/Homelab-SOC-Wazuh-Deployment
+     📝 My SIEM home lab project, using a proxmox container, deploying, installing and u…
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 deba751002/DBI-SOC-LAB
+     ⭐ 0  🗣 HTML  📅 2026-09-08
+     🔗 https://github.com/deba751002/DBI-SOC-LAB
+     📝 Full-stack SOC lab — SIEM, NSM, SOAR, DFIR, Threat Intel, AI-powered analysis. 2…
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 Nithin-099/AI-SOC-Adversary-Simulation-Detection-Lab
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/Nithin-099/AI-SOC-Adversary-Simulation-Detection-Lab
+     📝 End-to-end SOC lab simulating MITRE ATT&CK  techniques via Atomic Red Team, dete…
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 kobiturgeman/misp-ioc-distributor
+     ⭐ 1  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/kobiturgeman/misp-ioc-distributor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 Sebastian-Tamayo/Proyeccion
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/Sebastian-Tamayo/Proyeccion
+     📝 3 Agentes
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 proffromqc/operation-scholarship-now
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/proffromqc/operation-scholarship-now
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 chacon-sec/YADDA
+     ⭐ 3  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/chacon-sec/YADDA
+     📝 adaptix c2 javascript agent
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 mh1star/-EDR-
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/mh1star/-EDR-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 splaz-sudo/SentinelClaw
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/splaz-sudo/SentinelClaw
+     📝 Local defensive cybersecurity analysis CLI with optional local AI assistance.
+     🏷  —
+[2026-09-08 10:47:20 UTC] [NEW]   🆕 📦 farrelpratama/25-559602-SV-26319_FarrelEdrikPratama_MagangGMRTD1
+     ⭐ 0  🗣 C++  📅 2026-09-08
+     🔗 https://github.com/farrelpratama/25-559602-SV-26319_FarrelEdrikPratama_MagangGMRTD1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:20 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-08 10:47:20 UTC] [UPD]   📢 📦 edr-jaameijpanis/okepoob
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/edr-jaameijpanis/okepoob
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 10:47:20 UTC] [UPD]   📢 📦 dropendlessmer/Edraw-Mind-Map-Full-Version
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/dropendlessmer/Edraw-Mind-Map-Full-Version
+     📝 EDraw Mind Map is a free full-version mind mapping tool for Windows, designed to…
+     🏷  clarify-objectives, edraw-mind-map, edraw-mind-map-windows, mind-map-application, organize-tasks, presentation-tools, tools, windows
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 10:47:20 UTC] [UPD]   📢 📦 dronvabum57/Edraw-Max-Full-Version
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/dronvabum57/Edraw-Max-Full-Version
+     📝 EdrawMax is a free full-version productivity tool for Windows that allows you to…
+     🏷  diagram-creation-tool, diagram-software, edrawmax-setup, microsoft-visio-compatibility, productivity-tools, tools, trial-version, vector-graphics
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 10:47:20 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-08 10:47:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-08 10:47:22 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-08 10:47:22 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-08 10:47:22 UTC] [NEW]   🆕 📦 nhan210105/TnCheats_build-beta1.0.1
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/nhan210105/TnCheats_build-beta1.0.1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:22 UTC] [NEW]   🆕 📦 osh2211/PS4
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/osh2211/PS4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:22 UTC] [NEW]   🆕 📦 cat0x01/LogSentinel
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/cat0x01/LogSentinel
+     📝 Open source SIEM system with 103 detection rules, real-time monitoring, and even…
+     🏷  —
+[2026-09-08 10:47:22 UTC] [NEW]   🆕 📦 nhan210105/TnPatchVip
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/nhan210105/TnPatchVip
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:22 UTC] [NEW]   🆕 📦 nhan210105/TnCheatsVip
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/nhan210105/TnCheatsVip
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 10:47:22 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-08 10:47:22 UTC] [UPD]   📢 📦 Mrmaxicc/ipa-build
+     ⭐ 0  🗣 Swift  📅 2026-09-07
+     🔗 https://github.com/Mrmaxicc/ipa-build
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 10:47:22 UTC] [UPD]   📢 📦 franjavigonzalez10-cmd/Javi-Gamer-iOS
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/franjavigonzalez10-cmd/Javi-Gamer-iOS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 10:47:22 UTC] [UPD]   📢 📦 AI4SAI/sai-hpc-software
+     ⭐ 0  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/AI4SAI/sai-hpc-software
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-08 10:47:22 UTC] [INFO] ============================================================
+[2026-09-08 10:47:22 UTC] [INFO] Completato — 32 nuovi, 7 aggiornati, 0 errori
+[2026-09-08 10:47:22 UTC] [INFO] ============================================================
