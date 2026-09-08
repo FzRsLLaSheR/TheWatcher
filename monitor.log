@@ -79235,3 +79235,212 @@
 [2026-09-07 21:13:30 UTC] [INFO] ============================================================
 [2026-09-07 21:13:30 UTC] [INFO] Completato — 20 nuovi, 4 aggiornati, 0 errori
 [2026-09-07 21:13:30 UTC] [INFO] ============================================================
+[2026-09-08 03:32:09 UTC] [INFO] ============================================================
+[2026-09-08 03:32:09 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-08 03:32:09 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-08 03:32:09 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-08 03:32:09 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-08 03:32:09 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-08 03:32:09 UTC] [INFO] ============================================================
+[2026-09-08 03:32:09 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-08 03:32:09 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-08 03:32:11 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-08 03:32:11 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-08 03:32:11 UTC] [NEW]   🆕 📦 ttitans955-jpg/qilin-detection-pack
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/ttitans955-jpg/qilin-detection-pack
+     📝 Sigma rules for Qilin/Agenda ransomware - BYOVD, GPO Chrome harvest, Cyberduck e…
+     🏷  —
+[2026-09-08 03:32:11 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-08 03:32:11 UTC] [UPD]   📢 📦 Malwagon/malwagon-cli
+     ⭐ 1  🗣 Python  📅 2026-09-05
+     🔗 https://github.com/Malwagon/malwagon-cli
+     📝 Scan a file for malware from your terminal. Automated malware analysis sandbox C…
+     🏷  agentless, byovd, cli, dfir, dynamic-analysis, hypervisor, incident-response, ioc, kernel-driver, malware, malware-analysis, malware-sandbox, mitre-attack, python, sandbox, security-tools, sigma, static-analysis, threat-intelligence, yara
+     🔄 Motivo: repo recente (2gg)
+[2026-09-08 03:32:11 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-08 03:32:11 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-08 03:32:13 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 edr-jaameijpanis/okepoob
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/edr-jaameijpanis/okepoob
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 Cedrus810/GMX_PYI
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/Cedrus810/GMX_PYI
+     📝 GMX_PYI
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 edricktekwe/edricktekwe
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/edricktekwe/edricktekwe
+     📝 My software engineering journey, projects, and technical work
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 MtxTheus1/Fenda-Stealer
+     ⭐ 1  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/MtxTheus1/Fenda-Stealer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 osiboss/SOC-Incident-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/osiboss/SOC-Incident-Investigation
+     📝 A practical SOC investigation using Microsoft Sentinel and Microsoft Defender to…
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 HKenzoKimura/TOOLS--SecurityControls
+     ⭐ 0  🗣 PowerShell  📅 2026-09-08
+     🔗 https://github.com/HKenzoKimura/TOOLS--SecurityControls
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 wr33ck/CER-Discovery
+     ⭐ 0  🗣 PowerShell  📅 2026-09-07
+     🔗 https://github.com/wr33ck/CER-Discovery
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 gabrielw1000001-droid/SOC-Analyst-Assistant
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/gabrielw1000001-droid/SOC-Analyst-Assistant
+     📝 SOC Analyst Assistant 🛡️ Ferramenta desenvolvida em Python para auxiliar analist…
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 e23882/ClaudeUsageWidget
+     ⭐ 0  🗣 PowerShell  📅 2026-09-08
+     🔗 https://github.com/e23882/ClaudeUsageWidget
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 dropendlessmer/Edraw-Mind-Map-Full-Version
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/dropendlessmer/Edraw-Mind-Map-Full-Version
+     📝 EDraw Mind Map is a free full-version mind mapping tool for Windows, designed to…
+     🏷  clarify-objectives, edraw-mind-map, edraw-mind-map-windows, mind-map-application, organize-tasks, presentation-tools, tools, windows
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 guillermo-rebolledo/dye
+     ⭐ 0  🗣 Swift  📅 2026-09-07
+     🔗 https://github.com/guillermo-rebolledo/dye
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 dronvabum57/Edraw-Max-Full-Version
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/dronvabum57/Edraw-Max-Full-Version
+     📝 EdrawMax is a free full-version productivity tool for Windows that allows you to…
+     🏷  diagram-creation-tool, diagram-software, edrawmax-setup, microsoft-visio-compatibility, productivity-tools, tools, trial-version, vector-graphics
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 AndreLuisDaSilveira/Projeto_Malware-Lab
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/AndreLuisDaSilveira/Projeto_Malware-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 Something94807/colorize-curiosity
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/Something94807/colorize-curiosity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 ttitans955-jpg/detection-engineering-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/ttitans955-jpg/detection-engineering-roadmap
+     📝 A project-driven path to Detection Engineer - stages, salary ranges, 90-day plan
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 ttitans955-jpg/qilin-detection-pack
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/ttitans955-jpg/qilin-detection-pack
+     📝 Sigma rules for Qilin/Agenda ransomware - BYOVD, GPO Chrome harvest, Cyberduck e…
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 ttitans955-jpg/sigma-quickstart
+     ⭐ 0  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/ttitans955-jpg/sigma-quickstart
+     📝 Zero-friction Sigma for SOCs - validate + convert + back-test, with a dep-free l…
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 xkeyscore007/xkeyscore007
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/xkeyscore007/xkeyscore007
+     📝 🛡️Security Engineer | Detection Engineering | Incident Response
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 amooryx/amooryx
+     ⭐ 1  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/amooryx/amooryx
+     📝 Profile README
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 amooryx/av-enum
+     ⭐ 1  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/amooryx/av-enum
+     📝 <C:/Program Files/Git/div>
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 jameswood-01/Threat-Hunting-Scenario
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/jameswood-01/Threat-Hunting-Scenario
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 SKHTay/DATA-FINDER-
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/SKHTay/DATA-FINDER-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 qaistaradeh/ai-soc-analyst-
+     ⭐ 1  🗣 Python  📅 2026-09-07
+     🔗 https://github.com/qaistaradeh/ai-soc-analyst-
+     📝   AI-assisted SOC platform: log ingestion, deterministic detection, incident cor…
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 SabarishYerramsetty/SabarishYerramsetty
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/SabarishYerramsetty/SabarishYerramsetty
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 PirateShip1337/Spotify-Clone
+     ⭐ 0  🗣 PowerShell  📅 2026-09-07
+     🔗 https://github.com/PirateShip1337/Spotify-Clone
+     📝 [Clone Spotify] no more pub.
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 IamFaBii/practica-practicadi.
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/IamFaBii/practica-practicadi.
+     📝 describe la descripcion encriptada 
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 Dhrub69/Phishing-Investigation-Threat-Intelligence
+     ⭐ 1  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/Dhrub69/Phishing-Investigation-Threat-Intelligence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:13 UTC] [NEW]   🆕 📦 eqn-grp/stack-spoof
+     ⭐ 0  🗣 C++  📅 2026-09-07
+     🔗 https://github.com/eqn-grp/stack-spoof
+     📝 C++ Windows stack spoofing PoC for security research and EDR behavioral analysis…
+     🏷  —
+[2026-09-08 03:32:13 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-08 03:32:13 UTC] [UPD]   📢 📦 Rovel/oma-id
+     ⭐ 0  🗣 Rust  📅 2026-09-05
+     🔗 https://github.com/Rovel/oma-id
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-08 03:32:13 UTC] [UPD]   📢 📦 wilsongabriel30/webmailMaquita
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/wilsongabriel30/webmailMaquita
+     📝 Suite de correo y colaboración autoalojada: webmail tipo Outlook con seguridad d…
+     🏷  dlp, dovecot, ecuador, email, email-security, fastapi, mail-server, open-source, outlook, postfix, postgresql, python, react, rspamd, self-hosted, typescript, webmail
+     🔄 Motivo: repo recente (2gg)
+[2026-09-08 03:32:13 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-08 03:32:13 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-08 03:32:15 UTC] [INFO]   → 22 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-08 03:32:15 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-08 03:32:15 UTC] [NEW]   🆕 📦 franjavigonzalez10-cmd/Javi-Gamer-iOS
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/franjavigonzalez10-cmd/Javi-Gamer-iOS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:15 UTC] [NEW]   🆕 📦 LXNX701/moonexternlclinee
+     ⭐ 0  🗣 Objective-C  📅 2026-09-07
+     🔗 https://github.com/LXNX701/moonexternlclinee
+     📝 Moon Place - iOS App with Firebase Auth and Premium UI
+     🏷  —
+[2026-09-08 03:32:15 UTC] [NEW]   🆕 📦 TheRealDannySosa/kernel-exploit-dirtycow-project
+     ⭐ 0  🗣 N/A  📅 2026-09-07
+     🔗 https://github.com/TheRealDannySosa/kernel-exploit-dirtycow-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 03:32:15 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-08 03:32:15 UTC] [UPD]   📢 📦 Mrmaxicc/ipa-build
+     ⭐ 0  🗣 Swift  📅 2026-09-07
+     🔗 https://github.com/Mrmaxicc/ipa-build
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 03:32:15 UTC] [INFO] ============================================================
+[2026-09-08 03:32:15 UTC] [INFO] Completato — 32 nuovi, 4 aggiornati, 0 errori
+[2026-09-08 03:32:15 UTC] [INFO] ============================================================
