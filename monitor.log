@@ -79954,3 +79954,274 @@
 [2026-09-08 16:11:28 UTC] [INFO] ============================================================
 [2026-09-08 16:11:28 UTC] [INFO] Completato — 48 nuovi, 3 aggiornati, 0 errori
 [2026-09-08 16:11:28 UTC] [INFO] ============================================================
+[2026-09-08 20:50:15 UTC] [INFO] ============================================================
+[2026-09-08 20:50:15 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-08 20:50:15 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-08 20:50:15 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-08 20:50:15 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-08 20:50:15 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-08 20:50:15 UTC] [INFO] ============================================================
+[2026-09-08 20:50:15 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-08 20:50:15 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-08 20:50:17 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-08 20:50:17 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-08 20:50:17 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-08 20:50:17 UTC] [UPD]   📢 📦 legionultramax/Detection-Engineering-MCP
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/legionultramax/Detection-Engineering-MCP
+     📝 Detection Engineering MCP
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 20:50:17 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-08 20:50:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-08 20:50:20 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 35 NUOVI repository:
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 actions-marketplace-validations/CTRLRun_ctrlrun
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/actions-marketplace-validations/CTRLRun_ctrlrun
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 FCIS-Edress/Youssef-Edress.github.io
+     ⭐ 0  🗣 Shell  📅 2026-09-08
+     🔗 https://github.com/FCIS-Edress/Youssef-Edress.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 jballesterosc/inegi-defunciones
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/jballesterosc/inegi-defunciones
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 Nix-Phoe/Incident-Tracker
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/Nix-Phoe/Incident-Tracker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 pulsatrixtechnologies/connector-hub
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/pulsatrixtechnologies/connector-hub
+     📝 Product index for the Pulsatrix connector: official vendor MCP, OpenAPI, Swagger…
+     🏷  graphql, mcp, openapi, swagger
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 GasparPeralta0/GasparPeralta0
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/GasparPeralta0/GasparPeralta0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 agisgithub/IAgis
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/agisgithub/IAgis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 vineettonke/SOAR-Driven-EDR-Incident-Response-ChatOps
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/vineettonke/SOAR-Driven-EDR-Incident-Response-ChatOps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 GasparPeralta0/lab-edr-velociraptor
+     ⭐ 1  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/GasparPeralta0/lab-edr-velociraptor
+     📝 Lab de respuesta con EDR (Velociraptor)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 juniordafuture/juniordafuture
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/juniordafuture/juniordafuture
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 jesuslg123/ha-switchbot-outdoor-meter-bridge
+     ⭐ 0  🗣 C++  📅 2026-09-08
+     🔗 https://github.com/jesuslg123/ha-switchbot-outdoor-meter-bridge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 osbonilla/upgrade-arcgis-enterprise
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/osbonilla/upgrade-arcgis-enterprise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 nishantverse/labguard
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/nishantverse/labguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 zubairshafique/soar-malware-detection-wazuh
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zubairshafique/soar-malware-detection-wazuh
+     📝 Automated malware detection & alerting using Wazuh, n8n & VirusTotal
+     🏷  malware-detection, n8n, siem, soar, virustotal, wazuh
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 vikash236/Kavach-NPU
+     ⭐ 0  🗣 Rust  📅 2026-09-08
+     🔗 https://github.com/vikash236/Kavach-NPU
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 INVOICE-GEEK-SQUAD-GBHNJ/repo-i56edr50
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/INVOICE-GEEK-SQUAD-GBHNJ/repo-i56edr50
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 skmainuddin745-spec/CytMyo-Mobile-Proton-MD-Pesticides
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/skmainuddin745-spec/CytMyo-Mobile-Proton-MD-Pesticides
+     📝 GROMACS MD simulations of cytochrome c and myoglobin mobile-proton states in pes…
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 raphaelmta/qwen-strike
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/raphaelmta/qwen-strike
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 carywood7/msp-vulnerability-operations-center
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/carywood7/msp-vulnerability-operations-center
+     📝 MSP-VOC is a read-only Microsoft vulnerability management and security investiga…
+     🏷  cisa-kev, cve, cybersecurity, epss, microsoft-defender, microsoft-graph, msp, msp-tools, saas, security-operations, vulnerability-management
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 OkiemuteEsiri/exposure-management-lab
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/OkiemuteEsiri/exposure-management-lab
+     📝 Risk-based vulnerability management and exposure engineering
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 prashantkr16/sihps105
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/prashantkr16/sihps105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 prashantkr16/ps105
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/prashantkr16/ps105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 shekhu02/linux-security-monitor
+     ⭐ 0  🗣 Shell  📅 2026-09-08
+     🔗 https://github.com/shekhu02/linux-security-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 Erizeez/bmol-iced
+     ⭐ 0  🗣 Rust  📅 2026-09-08
+     🔗 https://github.com/Erizeez/bmol-iced
+     📝 Modern Apple-style Liquid Glass UI framework, spring physics, and desktop window…
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 Erizeez/bmol-window-shell
+     ⭐ 0  🗣 Rust  📅 2026-09-08
+     🔗 https://github.com/Erizeez/bmol-window-shell
+     📝 Modern seamless frameless window shell, macOS SkyLight blur & EDR integration fo…
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 Sourish25/LossLogic
+     ⭐ 1  🗣 HTML  📅 2026-09-08
+     🔗 https://github.com/Sourish25/LossLogic
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 maroon-dim/slitherio-cyber
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/maroon-dim/slitherio-cyber
+     📝 the slitherio game with cyber applications
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 git-asat/Declaw
+     ⭐ 0  🗣 C#  📅 2026-09-08
+     🔗 https://github.com/git-asat/Declaw
+     📝 Initial release of Declaw v1.0
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 mechmukul/set-watchtower
+     ⭐ 1  🗣 HTML  📅 2026-09-08
+     🔗 https://github.com/mechmukul/set-watchtower
+     📝 Live console that monitors security-tool health, raises incidents when a tool go…
+     🏷  detection-engineering, incident-response, security, security-operations, siem, soc
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 r33zi/lokii
+     ⭐ 0  🗣 C++  📅 2026-09-08
+     🔗 https://github.com/r33zi/lokii
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 MOHAMED-EL-HADDIOUI/Vigilon
+     ⭐ 0  🗣 Rust  📅 2026-09-08
+     🔗 https://github.com/MOHAMED-EL-HADDIOUI/Vigilon
+     📝 Local-first system & security observability platform — Rust collectors, heuristi…
+     🏷  axum, dashboard, linux, local-first, macos, network-monitoring, observability, open-source, react, rust, security, sqlite, sysinfo, system-monitoring, tailwindcss, threat-detection, typescript, vite, websocket, windows
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 myounis1996/chameleon-guard
+     ⭐ 1  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/myounis1996/chameleon-guard
+     📝 Per-app hardware-identity guard for Windows. Intercepts machine-ID, SMBIOS, MAC,…
+     🏷  anti-fingerprinting, api-hooking, device-fingerprinting, frida, hardware-identifier, machine-id, privacy, smbios, windows, wmi
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 aswinkishore107-del/epics
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/aswinkishore107-del/epics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 huzxifaa/detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/huzxifaa/detection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:20 UTC] [NEW]   🆕 📦 ControlAssess75/glm-flash-config-editor
+     ⭐ 0  🗣 HTML  📅 2026-09-08
+     🔗 https://github.com/ControlAssess75/glm-flash-config-editor
+     📝 Corporate policy editor for GLM-5.3-Flash deployments — align model responses wi…
+     🏷  cli, config-migrator, corporate-config-editor, desktop-app, enterprise-deployment, glm-5-3-flash, glm-flash, gui, model-settings-manager, utility, windows, zhipu-ai
+[2026-09-08 20:50:20 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-08 20:50:20 UTC] [UPD]   📢 📦 designanym/edrqgqv
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/designanym/edrqgqv
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 20:50:20 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated in real tim…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 20:50:20 UTC] [UPD]   📢 📦 wilsongabriel30/webmailMaquita
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/wilsongabriel30/webmailMaquita
+     📝 Suite de correo y colaboración autoalojada: webmail tipo Outlook con seguridad d…
+     🏷  dlp, dovecot, ecuador, email, email-security, fastapi, mail-server, open-source, outlook, postfix, postgresql, python, react, rspamd, self-hosted, typescript, webmail
+     🔄 Motivo: repo recente (2gg)
+[2026-09-08 20:50:20 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-08 20:50:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-08 20:50:22 UTC] [INFO]   → 49 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-08 20:50:22 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-09-08 20:50:22 UTC] [NEW]   🆕 📦 mops4/mops4.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/mops4/mops4.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:22 UTC] [NEW]   🆕 📦 brstation/ps4.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/brstation/ps4.github.io
+     📝 PS4 WEBKIT EXPLOIT
+     🏷  —
+[2026-09-08 20:50:22 UTC] [NEW]   🆕 📦 balbaks/husk
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/balbaks/husk
+     📝 A hardened, ephemeral Docker sandbox for detonating untrusted or AI-generated Py…
+     🏷  —
+[2026-09-08 20:50:22 UTC] [NEW]   🆕 📦 k3ndzy/TIMOMOD
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/k3ndzy/TIMOMOD
+     📝 Made by Lucas
+     🏷  —
+[2026-09-08 20:50:22 UTC] [NEW]   🆕 📦 osh2211/11
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/osh2211/11
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:22 UTC] [NEW]   🆕 📦 osh2211/H
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/osh2211/H
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:22 UTC] [NEW]   🆕 📦 osh2211/N
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/osh2211/N
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-08 20:50:22 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-08 20:50:22 UTC] [UPD]   📢 📦 ghaibsalma/Inception
+     ⭐ 0  🗣 Dockerfile  📅 2026-09-08
+     🔗 https://github.com/ghaibsalma/Inception
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-08 20:50:22 UTC] [UPD]   📢 📦 Mrmaxicc/ipa-build
+     ⭐ 0  🗣 Swift  📅 2026-09-07
+     🔗 https://github.com/Mrmaxicc/ipa-build
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-08 20:50:22 UTC] [INFO] ============================================================
+[2026-09-08 20:50:22 UTC] [INFO] Completato — 42 nuovi, 6 aggiornati, 0 errori
+[2026-09-08 20:50:22 UTC] [INFO] ============================================================
