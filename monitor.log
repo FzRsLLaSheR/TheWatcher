@@ -80225,3 +80225,216 @@
 [2026-09-08 20:50:22 UTC] [INFO] ============================================================
 [2026-09-08 20:50:22 UTC] [INFO] Completato — 42 nuovi, 6 aggiornati, 0 errori
 [2026-09-08 20:50:22 UTC] [INFO] ============================================================
+[2026-09-09 03:36:26 UTC] [INFO] ============================================================
+[2026-09-09 03:36:26 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-09 03:36:26 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-09 03:36:26 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-09 03:36:26 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-09 03:36:26 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-09 03:36:26 UTC] [INFO] ============================================================
+[2026-09-09 03:36:26 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-09 03:36:26 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-09 03:36:28 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 03:36:28 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-09 03:36:28 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-09 03:36:28 UTC] [UPD]   📢 📦 Gorstak-Zadar/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-09-08
+     🔗 https://github.com/Gorstak-Zadar/Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 03:36:28 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-09 03:36:28 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-09 03:36:30 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 mr-bala-kavi/self-healing-soc-agent
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/mr-bala-kavi/self-healing-soc-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 AstralOfficially/LetsDefend-SOC-Fundamentals
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/AstralOfficially/LetsDefend-SOC-Fundamentals
+     📝 LetsDefend SOC Fundamentals
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 agthinkindigital/wirs
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/agthinkindigital/wirs
+     📝 WIRS - WordPress Incident Response Scanner: motor generico de scanning para resp…
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 aaronfelix00/Threat-Detection-Response-with-Wazuh
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/aaronfelix00/Threat-Detection-Response-with-Wazuh
+     📝 End-to-end Wazuh SOC lab covering SIEM/EDR deployment, Windows and Linux telemet…
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 yashvinthan/aisoc
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/yashvinthan/aisoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 YOUSSEF-HASSAN-336/CyberX-AI
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/YOUSSEF-HASSAN-336/CyberX-AI
+     📝 CYBRX is a RAG-powered AI cybersecurity assistant for learning, research, and pr…
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 RuvicDev/CON-044-CrowdStrike-Falcon
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/RuvicDev/CON-044-CrowdStrike-Falcon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 papaya20020919/-Device-Behavioral-Feature-Catalog-
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/papaya20020919/-Device-Behavioral-Feature-Catalog-
+     📝 電腦 / 端點身分驗證特徵總覽（Device & Behavioral Feature Catalog）
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 robertcvargas/azure-honeypot-threat-hunting-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/robertcvargas/azure-honeypot-threat-hunting-lab
+     📝 Azure-hosted MySQL honeypot with Sentinel/MDE detection engineering — includes b…
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 bigdreamsweb3/trustlink-security-watch
+     ⭐ 0  🗣 PowerShell  📅 2026-09-09
+     🔗 https://github.com/bigdreamsweb3/trustlink-security-watch
+     📝 Defensive Windows security watcher for detecting suspicious Git hooks, Node/Pyth…
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 sudipdasaus/sudipdasaus
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/sudipdasaus/sudipdasaus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 h4d35x0/argus
+     ⭐ 0  🗣 C  📅 2026-09-09
+     🔗 https://github.com/h4d35x0/argus
+     📝 Anti-surveillance firmware for the LILYGO T-Watch Ultra (ESP32-S3): tracker and …
+     🏷  airtag, anti-stalking, arduino, bluetooth-le, esp32, esp32-s3, firmware, gnss, lilygo, lora, lvgl, meshtastic, nfc, platformio, smartwatch, t-watch, t-watch-ultra, tracker-detection, wardriving, wifi
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 random6-xyz/random6-xyz
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/random6-xyz/random6-xyz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 w3n0ga5h/Keylogger
+     ⭐ 0  🗣 PowerShell  📅 2026-09-08
+     🔗 https://github.com/w3n0ga5h/Keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 djeyoboue44-glitch/edr-detection-engineering
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/djeyoboue44-glitch/edr-detection-engineering
+     📝 MITRE ATT&CK detection lab — Wazuh SIEM/EDR, Sysmon telemetry, adversary emulati…
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 talkaboutdesign/elgato-hdr
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/talkaboutdesign/elgato-hdr
+     📝 Native macOS app to capture, view, and record the hidden 10-bit HDR (P010) outpu…
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 ellasypark/agent-runtime-edr
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/ellasypark/agent-runtime-edr
+     📝 An educational AI agent runtime detection and response lab with telemetry and ru…
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 Nakano-04/Motor-Actualizador
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/Nakano-04/Motor-Actualizador
+     📝 Test
+     🏷  —
+[2026-09-09 03:36:30 UTC] [NEW]   🆕 📦 diyarit/ignite
+     ⭐ 0  🗣 PowerShell  📅 2026-09-08
+     🔗 https://github.com/diyarit/ignite
+     📝 IGNITE — a Windows GUI wizard (PowerShell + WPF) that provisions Azure VMs throu…
+     🏷  —
+[2026-09-09 03:36:30 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-09 03:36:30 UTC] [UPD]   📢 📦 designanym/edrqgqv
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/designanym/edrqgqv
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 03:36:30 UTC] [UPD]   📢 📦 Erizeez/bmol-window-shell
+     ⭐ 0  🗣 Rust  📅 2026-09-08
+     🔗 https://github.com/Erizeez/bmol-window-shell
+     📝 Modern seamless frameless window shell, macOS SkyLight blur & EDR integration fo…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 03:36:30 UTC] [UPD]   📢 📦 Erizeez/bmol-iced
+     ⭐ 0  🗣 Rust  📅 2026-09-08
+     🔗 https://github.com/Erizeez/bmol-iced
+     📝 Modern Apple-style Liquid Glass UI framework, spring physics, and desktop window…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 03:36:30 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated in real tim…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (0gg) | nuovi topic: hiring, barcelona, spain-jobs, madrid, careers
+[2026-09-09 03:36:30 UTC] [UPD]   📢 📦 dropendlessmer/Edraw-Mind-Map-Full-Version
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/dropendlessmer/Edraw-Mind-Map-Full-Version
+     📝 EDraw Mind Map is a free full-version mind mapping tool for Windows, designed to…
+     🏷  clarify-objectives, edraw-mind-map, edraw-mind-map-windows, mind-map-application, organize-tasks, presentation-tools, tools, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-09-09 03:36:30 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-09 03:36:30 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-09 03:36:33 UTC] [INFO]   → 37 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 📦 cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4
+     ⭐ 0  🗣 C  📅 2026-09-08
+     🔗 https://github.com/cyberbalsa/GhostLock-NVIDIA-Shield-9.2.4
+     📝 Validated GhostLock CVE-2026-43499 port for NVIDIA Shield TV Pro mdarcy 9.2.4
+     🏷  android, arm64, cve-2026-43499, ghostlock, nvidia-shield, security-research
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 📦 nhan210105/TnCheats_beta2.0
+     ⭐ 0  🗣 Swift  📅 2026-09-09
+     🔗 https://github.com/nhan210105/TnCheats_beta2.0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 📦 nhan210105/TnIOS_beta4-
+     ⭐ 0  🗣 Swift  📅 2026-09-09
+     🔗 https://github.com/nhan210105/TnIOS_beta4-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 📦 nhan210105/TnIOS_beta3
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/nhan210105/TnIOS_beta3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 📦 nhan210105/TnCheats_beta3
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/nhan210105/TnCheats_beta3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 📦 ayazdoruck/sandbin
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/ayazdoruck/sandbin
+     📝 Runs untrusted code and survives it. No Docker, no root, no VM.
+     🏷  bubblewrap, cgroups, code-execution, linux-namespaces, sandbox, seccomp, security
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 📦 rgamersr3/13XX
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/rgamersr3/13XX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 📦 bytes-as/airlock
+     ⭐ 0  🗣 Go  📅 2026-09-08
+     🔗 https://github.com/bytes-as/airlock
+     📝 Ephemeral environment orchestrator in Go — pluggable drivers, lease-based schedu…
+     🏷  —
+[2026-09-09 03:36:33 UTC] [NEW]   🆕 📦 beaumineo/awesome-android-reverse-engineering
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/beaumineo/awesome-android-reverse-engineering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 03:36:33 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-09 03:36:33 UTC] [UPD]   📢 📦 brstation/ps4.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/brstation/ps4.github.io
+     📝 PS4 Webkit Exploit
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 03:36:33 UTC] [UPD]   📢 📦 ghaibsalma/Inception
+     ⭐ 0  🗣 Dockerfile  📅 2026-09-08
+     🔗 https://github.com/ghaibsalma/Inception
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 03:36:33 UTC] [INFO] ============================================================
+[2026-09-09 03:36:33 UTC] [INFO] Completato — 28 nuovi, 8 aggiornati, 0 errori
+[2026-09-09 03:36:33 UTC] [INFO] ============================================================
