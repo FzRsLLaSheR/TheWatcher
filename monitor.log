@@ -80932,3 +80932,209 @@
 [2026-09-09 16:05:43 UTC] [INFO] ============================================================
 [2026-09-09 16:05:43 UTC] [INFO] Completato — 39 nuovi, 7 aggiornati, 0 errori
 [2026-09-09 16:05:43 UTC] [INFO] ============================================================
+[2026-09-09 20:36:21 UTC] [INFO] ============================================================
+[2026-09-09 20:36:21 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-09 20:36:21 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-09 20:36:21 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-09 20:36:21 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-09 20:36:21 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-09 20:36:21 UTC] [INFO] ============================================================
+[2026-09-09 20:36:21 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-09 20:36:21 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-09 20:36:23 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 20:36:23 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-09 20:36:23 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-09 20:36:23 UTC] [UPD]   📢 📦 Gorstak-Zadar/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-09-08
+     🔗 https://github.com/Gorstak-Zadar/Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-09 20:36:23 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-09 20:36:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-09 20:36:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 INVOICE-GEEK-SQUAD-DSAQ/repo-j20edrem
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/INVOICE-GEEK-SQUAD-DSAQ/repo-j20edrem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 jroberts2124/SOC-Analyst-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/jroberts2124/SOC-Analyst-Playbook
+     📝 Step-by-step SOC investigation and incident response playbooks using Splunk, Sys…
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 zishaan1911/MicroSlop
+     ⭐ 1  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/zishaan1911/MicroSlop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 OkiemuteEsiri/cloud-incident-response-lab
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/OkiemuteEsiri/cloud-incident-response-lab
+     📝 Cloud security engineering lab
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 luibp0/SOC-Level-1
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/luibp0/SOC-Level-1
+     📝 Hands-on labs, notes, and practical exercises from the TryHackMe SOC Level 1 lea…
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 PedrxG/Enterprise-Cybersecurity-Assessment
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/PedrxG/Enterprise-Cybersecurity-Assessment
+     📝 Controlled penetration testing and vulnerability assessment of a simulated two-s…
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 Prog-Code-Andy/solution-design-playbook
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/Prog-Code-Andy/solution-design-playbook
+     📝 Model-independent, approval-gated workflow for solution design, EDRs, TDDs, phas…
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 vineettonke/Vineet_Tonke
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/vineettonke/Vineet_Tonke
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 Mariem-werghemmi/wazuh-pfsense-siem-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/Mariem-werghemmi/wazuh-pfsense-siem-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 vyshnavimuppidi/soc-threat-detection-workflow
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/vyshnavimuppidi/soc-threat-detection-workflow
+     📝 Production-grade SOC Threat Detection, IOC Enrichment & AI-Assisted Incident Inv…
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 cfphilippson/cortex-xdr-auto-blocklist
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/cfphilippson/cortex-xdr-auto-blocklist
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 zhoucanzong/PrismStudio
+     ⭐ 0  🗣 Swift  📅 2026-09-09
+     🔗 https://github.com/zhoucanzong/PrismStudio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 Amardeep-prog/ShieldEDR
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/Amardeep-prog/ShieldEDR
+     📝 Advanced endpoint detection and response platform with behavioral threat detecti…
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 AceAryan/tls-fingerprinting
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/AceAryan/tls-fingerprinting
+     📝 Identify client applications passively from their TLS handshake using JA3/JA4 fi…
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 MUGENYIEDRINE/Mugenyi-Edrine
+     ⭐ 0  🗣 C++  📅 2026-09-09
+     🔗 https://github.com/MUGENYIEDRINE/Mugenyi-Edrine
+     📝 Individual assignment
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 surajs-sudo/PCAP-Threat-Detection-Using-Generative-AI
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/surajs-sudo/PCAP-Threat-Detection-Using-Generative-AI
+     📝 Capstone project on PCAP analysis, network traffic investigation, threat detecti…
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 Aditya10102003/Agentic-Cybersecurity-Analyst
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/Aditya10102003/Agentic-Cybersecurity-Analyst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 Loky-rt/elf-bof
+     ⭐ 2  🗣 C  📅 2026-09-08
+     🔗 https://github.com/Loky-rt/elf-bof
+     📝 BOF Loader for Linux
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 hemanthnelli1/SecurityBlast
+     ⭐ 0  🗣 JavaScript  📅 2026-09-09
+     🔗 https://github.com/hemanthnelli1/SecurityBlast
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 victormedinamedina13-cmd/victormedinamedina13-cmd
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/victormedinamedina13-cmd/victormedinamedina13-cmd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 bilalgokcenay43-tech/Anti-Ransomware-Kernel-Level-Honey-Files-Engine
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/bilalgokcenay43-tech/Anti-Ransomware-Kernel-Level-Honey-Files-Engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 navyasree41/sat-sa-supervisory-analytics
+     ⭐ 0  🗣 TypeScript  📅 2026-09-09
+     🔗 https://github.com/navyasree41/sat-sa-supervisory-analytics
+     📝 AI-powered SOC assurance platform for evidence-driven supervisory analytics, ris…
+     🏷  —
+[2026-09-09 20:36:25 UTC] [NEW]   🆕 📦 0xFA709394/ComputerGraphicsLearningRoadMap
+     ⭐ 0  🗣 Swift  📅 2026-09-09
+     🔗 https://github.com/0xFA709394/ComputerGraphicsLearningRoadMap
+     📝 图形学开发入门资料
+     🏷  —
+[2026-09-09 20:36:25 UTC] [UPD]   📢 7 repository AGGIORNATI:
+[2026-09-09 20:36:25 UTC] [UPD]   📢 📦 stafeanmattizapa/edrjotr
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/stafeanmattizapa/edrjotr
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 20:36:25 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (1gg)
+[2026-09-09 20:36:25 UTC] [UPD]   📢 📦 arguar13/Antivirus-inteligente
+     ⭐ 0  🗣 Rust  📅 2026-09-09
+     🔗 https://github.com/arguar13/Antivirus-inteligente
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 20:36:25 UTC] [UPD]   📢 📦 dropendlessmer/Edraw-Mind-Map-Full-Version
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/dropendlessmer/Edraw-Mind-Map-Full-Version
+     📝 EDraw Mind Map is a free full-version mind mapping tool for Windows, designed to…
+     🏷  clarify-objectives, edraw-mind-map, edraw-mind-map-windows, mind-map-application, organize-tasks, presentation-tools, tools, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-09-09 20:36:25 UTC] [UPD]   📢 📦 BlxrryFxce17/DentiScan
+     ⭐ 0  🗣 Dart  📅 2026-09-09
+     🔗 https://github.com/BlxrryFxce17/DentiScan
+     📝 AI-powered dental document scanner & clinical management system built with Flutt…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 20:36:25 UTC] [UPD]   📢 📦 wilsongabriel30/webmailMaquita
+     ⭐ 0  🗣 Python  📅 2026-09-06
+     🔗 https://github.com/wilsongabriel30/webmailMaquita
+     📝 Suite de correo y colaboración autoalojada: webmail tipo Outlook con seguridad d…
+     🏷  dlp, dovecot, ecuador, email, email-security, fastapi, mail-server, open-source, outlook, postfix, postgresql, python, react, rspamd, self-hosted, typescript, webmail
+     🔄 Motivo: repo recente (3gg)
+[2026-09-09 20:36:25 UTC] [UPD]   📢 📦 milklong888/chemical-engineering-skills
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/milklong888/chemical-engineering-skills
+     📝 独立化工设计Skill：分层知识与标准数据库、Aspen工作流、设备计算及流程反馈，附CLI/MCP和离线依赖。
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 20:36:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-09 20:36:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-09 20:36:28 UTC] [INFO]   → 43 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 20:36:28 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-09 20:36:28 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-09 20:36:28 UTC] [UPD]   📢 📦 rgamersr3/13XX
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/rgamersr3/13XX
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 20:36:28 UTC] [UPD]   📢 📦 ayazdoruck/sandbin
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/ayazdoruck/sandbin
+     📝 Runs untrusted code and survives it. No Docker, no root, no VM.
+     🏷  bubblewrap, cgroups, code-execution, linux-namespaces, sandbox, seccomp, security
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 20:36:28 UTC] [UPD]   📢 📦 ghaibsalma/Inception
+     ⭐ 0  🗣 Dockerfile  📅 2026-09-08
+     🔗 https://github.com/ghaibsalma/Inception
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-09 20:36:28 UTC] [INFO] ============================================================
+[2026-09-09 20:36:28 UTC] [INFO] Completato — 23 nuovi, 11 aggiornati, 0 errori
+[2026-09-09 20:36:28 UTC] [INFO] ============================================================
