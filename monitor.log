@@ -80670,3 +80670,265 @@
 [2026-09-09 10:54:15 UTC] [INFO] ============================================================
 [2026-09-09 10:54:15 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
 [2026-09-09 10:54:15 UTC] [INFO] ============================================================
+[2026-09-09 16:05:35 UTC] [INFO] ============================================================
+[2026-09-09 16:05:35 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-09 16:05:35 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-09 16:05:35 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-09 16:05:35 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-09 16:05:35 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-09 16:05:35 UTC] [INFO] ============================================================
+[2026-09-09 16:05:35 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-09 16:05:35 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-09 16:05:37 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 16:05:37 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-09 16:05:37 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-09 16:05:37 UTC] [UPD]   📢 📦 legionultramax/Detection-Engineering-MCP
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/legionultramax/Detection-Engineering-MCP
+     📝 Detection Engineering MCP
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-09 16:05:37 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-09 16:05:37 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-09 16:05:39 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 34 NUOVI repository:
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 milklong888/chemical-engineering-skills
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/milklong888/chemical-engineering-skills
+     📝 化工设计、Aspen流程建模与设备校核的分层技能、通用工具和工程使用手册
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 stafeanmattizapa/edrjotr
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/stafeanmattizapa/edrjotr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 mahimakulkarnii/agentic-soc-investigation
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/mahimakulkarnii/agentic-soc-investigation
+     📝 Agentic SOC investigation and response lab using Splunk, Python, LLM-driven evid…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 loegaire/devguard
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/loegaire/devguard
+     📝 DevGuard: security-gated CI/CD platform + EDR-lite eBPF behavioral detection — o…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 ockree/TerminalFix-Demo
+     ⭐ 0  🗣 HTML  📅 2026-09-09
+     🔗 https://github.com/ockree/TerminalFix-Demo
+     📝 Demo of the Terminal Fix campaign tactic
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 arguar13/Antivirus-inteligente
+     ⭐ 0  🗣 Rust  📅 2026-09-09
+     🔗 https://github.com/arguar13/Antivirus-inteligente
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 rithika07sk-coder/XO48_CS02
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/rithika07sk-coder/XO48_CS02
+     📝 “Adaptive Behavioral Trust for Non-Human Identities.” The goal is to build a rea…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 Invoice-Subscription-Plan-AHTS/repo-edrlstpk
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/Invoice-Subscription-Plan-AHTS/repo-edrlstpk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 SMutaf/can-edr-ids
+     ⭐ 0  🗣 C++  📅 2026-09-09
+     🔗 https://github.com/SMutaf/can-edr-ids
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 BlxrryFxce17/DentiScan
+     ⭐ 0  🗣 Dart  📅 2026-09-09
+     🔗 https://github.com/BlxrryFxce17/DentiScan
+     📝 AI-powered dental document scanner & clinical management system built with Flutt…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 lcleveland/falcon-sensor
+     ⭐ 0  🗣 Nix  📅 2026-09-09
+     🔗 https://github.com/lcleveland/falcon-sensor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 Schmandarine/edrum-ai-engine
+     ⭐ 0  🗣 TypeScript  📅 2026-09-09
+     🔗 https://github.com/Schmandarine/edrum-ai-engine
+     📝 E-drum hi-hat engine that models the damping of the ringing cymbal instead of sw…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Security-Information-n-Event-Management
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/ishandutta2007/Awesome-Security-Information-n-Event-Management
+     📝 Top Security Information & Event Management (SIEM) (Opensource) 🌟 Star if you li…
+     🏷  awesome-list, curated-list, log-management, security-information-and-event-management, siem, soc, threat-detection
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 tarunTejaDesireddy/master-the-azure
+     ⭐ 1  🗣 PowerShell  📅 2026-09-08
+     🔗 https://github.com/tarunTejaDesireddy/master-the-azure
+     📝 Master the Azure - a 61-module Azure security engineer learning path (AZ-500 / S…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Security-Orchestration-Automation-n-Response
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/ishandutta2007/Awesome-Security-Orchestration-Automation-n-Response
+     📝 Top Security Orchestration Automation & Response (SOAR) (Opensource) 🌟 Star if y…
+     🏷  awesome-list, curated-list, incident-response, secops, security-automation, security-orchestration, soar
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 abhishekgarg1400-hub/AI-Cybersecurity-Threat-Detection-Response-System
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/abhishekgarg1400-hub/AI-Cybersecurity-Threat-Detection-Response-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 Manojshivprasad/INSIDENT
+     ⭐ 0  🗣 TypeScript  📅 2026-09-09
+     🔗 https://github.com/Manojshivprasad/INSIDENT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 ciphralab/windows11-antimalware-evaluation
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/ciphralab/windows11-antimalware-evaluation
+     📝 Objective, region-specific anti-malware recommendations for Windows 11, evaluati…
+     🏷  anti-malware, antivirus, cybersecurity, infosec, privacy, threat-intelligence, windows-11
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 OmidBaSec/log-masker
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/OmidBaSec/log-masker
+     📝 Mask sensitive data out of raw logs locally, before sending them to an AI for se…
+     🏷  cybersecurity, dfir, generative-ai, soc
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 frodr1k/mRemoteNF
+     ⭐ 0  🗣 C#  📅 2026-09-09
+     🔗 https://github.com/frodr1k/mRemoteNF
+     📝 Fork of mRemoteNG with added security fixes and restrictions. 
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 bladehstream/patchtuesday
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/bladehstream/patchtuesday
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 tomaszkaseya/process-monitor
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/tomaszkaseya/process-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 lanafaga091-create/BlackHead
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/lanafaga091-create/BlackHead
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 naotohayashi1991/engineer-roadmap-1000
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/naotohayashi1991/engineer-roadmap-1000
+     📝 初心者から年収2000万円エンジニアを目指す1000項目｜AI開発・実務・セキュリティのロードマップ。完全版(図解・PDF・演習)は everydayprep.…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 Olapadebabalola/enterprise-zero-trust-security
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/Olapadebabalola/enterprise-zero-trust-security
+     📝 Complete Zero Trust Architecture framework aligned with NIST 800-207, including …
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 ibrahimmozlu-65/van-edremit-ogretmen-formu
+     ⭐ 0  🗣 HTML  📅 2026-09-09
+     🔗 https://github.com/ibrahimmozlu-65/van-edremit-ogretmen-formu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 tshwanelomiya/SOC-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/tshwanelomiya/SOC-Home-Lab
+     📝 Burp suite and Juice Shop XSS
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 imrantheexploithunter/TrackingIP
+     ⭐ 1  🗣 AutoIt  📅 2026-09-09
+     🔗 https://github.com/imrantheexploithunter/TrackingIP
+     📝 Security Research PoC Simulated Payload Execution, C2 Telemetry & IOC Collection…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 jatnnik/edric
+     ⭐ 0  🗣 PHP  📅 2026-09-09
+     🔗 https://github.com/jatnnik/edric
+     📝 A simple PHP router
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 imrantheexploithunter/AutoMalwareScript
+     ⭐ 1  🗣 AutoIt  📅 2026-09-09
+     🔗 https://github.com/imrantheexploithunter/AutoMalwareScript
+     📝 FOR EDUCATIONAL AND AUTHORIZED PENTESTING PURPOSES ONLY. This repository contain…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 manarone/Guardian
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/manarone/Guardian
+     📝 Guardian is an AI security analyst agent SIEM/EDR alerts and logs.
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 eatm-cert/MAVAMA
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/eatm-cert/MAVAMA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 YentlHendrickx/shokz-openfit-battery-sdk
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/YentlHendrickx/shokz-openfit-battery-sdk
+     📝 Python SDK to read Shokz battery data over Bluetooth RFCOMM. Left, Right, Case b…
+     🏷  —
+[2026-09-09 16:05:39 UTC] [NEW]   🆕 📦 OkiemuteEsiri/attack-surface-inventory
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/OkiemuteEsiri/attack-surface-inventory
+     📝 Risk-based vulnerability management and exposure engineering
+     🏷  —
+[2026-09-09 16:05:39 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-09 16:05:39 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (1gg)
+[2026-09-09 16:05:39 UTC] [UPD]   📢 📦 agthinkindigital/wirs
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/agthinkindigital/wirs
+     📝 WIRS - WordPress Incident Response Scanner: motor generico de scanning para resp…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 16:05:39 UTC] [UPD]   📢 📦 robertcvargas/azure-honeypot-threat-hunting-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/robertcvargas/azure-honeypot-threat-hunting-lab
+     📝 Azure-hosted MySQL honeypot with Sentinel/MDE detection engineering includes bru…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 16:05:39 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-09 16:05:39 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-09 16:05:43 UTC] [INFO]   → 44 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 16:05:43 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-09 16:05:43 UTC] [NEW]   🆕 📦 CharlieMong/OSCP_Scripts
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/CharlieMong/OSCP_Scripts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:43 UTC] [NEW]   🆕 📦 lanafaga091-create/BlackHead
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/lanafaga091-create/BlackHead
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:43 UTC] [NEW]   🆕 📦 Yulet458/9.00
+     ⭐ 0  🗣 JavaScript  📅 2026-09-09
+     🔗 https://github.com/Yulet458/9.00
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 16:05:43 UTC] [NEW]   🆕 📦 torizon/squashfs-lockboxes
+     ⭐ 0  🗣 Shell  📅 2026-09-09
+     🔗 https://github.com/torizon/squashfs-lockboxes
+     📝 Demo of how to set up Torizon OS to use squashfs-formatted lockboxes, with optio…
+     🏷  —
+[2026-09-09 16:05:43 UTC] [NEW]   🆕 📦 riccardomenegazzo/boundary-proof
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/riccardomenegazzo/boundary-proof
+     📝 Verify that AI agents can do their work and stay within their boundaries.
+     🏷  —
+[2026-09-09 16:05:43 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-09 16:05:43 UTC] [UPD]   📢 📦 Mrmaxicc/ipa-build
+     ⭐ 0  🗣 Swift  📅 2026-09-07
+     🔗 https://github.com/Mrmaxicc/ipa-build
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-09 16:05:43 UTC] [UPD]   📢 📦 brstation/ps4.github.io
+     ⭐ 1  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/brstation/ps4.github.io
+     📝 PS4 Webkit Exploits
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 16:05:43 UTC] [UPD]   📢 📦 ayazdoruck/sandbin
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/ayazdoruck/sandbin
+     📝 Runs untrusted code and survives it. No Docker, no root, no VM.
+     🏷  bubblewrap, cgroups, code-execution, linux-namespaces, sandbox, seccomp, security
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 16:05:43 UTC] [INFO] ============================================================
+[2026-09-09 16:05:43 UTC] [INFO] Completato — 39 nuovi, 7 aggiornati, 0 errori
+[2026-09-09 16:05:43 UTC] [INFO] ============================================================
