@@ -80438,3 +80438,235 @@
 [2026-09-09 03:36:33 UTC] [INFO] ============================================================
 [2026-09-09 03:36:33 UTC] [INFO] Completato — 28 nuovi, 8 aggiornati, 0 errori
 [2026-09-09 03:36:33 UTC] [INFO] ============================================================
+[2026-09-09 10:54:08 UTC] [INFO] ============================================================
+[2026-09-09 10:54:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-09 10:54:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-09 10:54:08 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-09 10:54:08 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-09 10:54:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-09 10:54:08 UTC] [INFO] ============================================================
+[2026-09-09 10:54:08 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-09 10:54:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-09 10:54:10 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 10:54:10 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-09 10:54:10 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-09 10:54:10 UTC] [UPD]   📢 📦 legionultramax/Detection-Engineering-MCP
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/legionultramax/Detection-Engineering-MCP
+     📝 Detection Engineering MCP
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-09 10:54:10 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-09 10:54:10 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-09 10:54:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 31 NUOVI repository:
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 jimmiebrehmer-source/soc-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-09-09
+     🔗 https://github.com/jimmiebrehmer-source/soc-dashboard
+     📝 A simulated Security Operations Center (SOC) dashboard demonstrating security mo…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 jpequegn/event-driven-agent-runtime
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/jpequegn/event-driven-agent-runtime
+     📝 Local event-driven agent runtime with markdown definitions, durable queues, revi…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 farrelpratama/25-559602-SV-26319_FarrelEdrikPratama_MagangGMRTD2
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/farrelpratama/25-559602-SV-26319_FarrelEdrikPratama_MagangGMRTD2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 sebia1993/safe-file-sync-windows
+     ⭐ 0  🗣 C#  📅 2026-09-09
+     🔗 https://github.com/sebia1993/safe-file-sync-windows
+     📝 Windows 11 read-only-source folder replication and verification tool for local a…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 Muhammad12710/Barys-Framework
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/Muhammad12710/Barys-Framework
+     📝 Advanced offensive security toolkit for critical infrastructure red teaming. Dev…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 rayoni01/linux-to-aws-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/rayoni01/linux-to-aws-lab
+     📝 Self-directed 180-day Linux-to-AWS DevOps lab — hands-on systems administration …
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 RamatenkiCharan/SAT-SA
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/RamatenkiCharan/SAT-SA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 fahdaguenouz/hidden-bytes
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/fahdaguenouz/hidden-bytes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 mrorange-sysbeheer/SwiftLocV3
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/mrorange-sysbeheer/SwiftLocV3
+     📝 09092026
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 praveenkumar0407/praveen-project
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/praveenkumar0407/praveen-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 Qitangwen/cs-internal-pentest
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/Qitangwen/cs-internal-pentest
+     📝 4层隔离内网环境下的Cobalt Strike渗透测试
+     🏷  cobalt-strike, cybersecurity, internal-network, penetration-testing, red-team
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 aneechas/mastercortex
+     ⭐ 0  🗣 Shell  📅 2026-09-09
+     🔗 https://github.com/aneechas/mastercortex
+     📝 A second brain for running AI project agents. Websites, apps, SaaS and video wit…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 VCNA2K/VCNA-Display-releases
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/VCNA2K/VCNA-Display-releases
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 futurismsec/ai-edr-endpoint-security
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/futurismsec/ai-edr-endpoint-security
+     📝 AI-powered endpoint detection and response for real-time threat detection, behav…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Security-Orchestration
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/ishandutta2007/Awesome-Security-Orchestration
+     📝 Top Security Orchestration (Opensource) 🌟 Star if you like it! 🌟
+     🏷  awesome-list, curated-list, incident-response, security-automation, security-orchestration, soar, threat-intelligence
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 Youssef-Edress/Youssef-Edress.github.io
+     ⭐ 0  🗣 Shell  📅 2026-09-09
+     🔗 https://github.com/Youssef-Edress/Youssef-Edress.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 snehaag2108-hue/CyberRisk-Board-Assistant
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/snehaag2108-hue/CyberRisk-Board-Assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 JohnP4p/debian-redteam-toolkit
+     ⭐ 0  🗣 Shell  📅 2026-09-09
+     🔗 https://github.com/JohnP4p/debian-redteam-toolkit
+     📝 Minimal, hardened, checksum-verified red-team toolkit for Debian 13. Built to re…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 DarkGreen-projects/darkgreen-siem
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/DarkGreen-projects/darkgreen-siem
+     📝 Demo multi-source SIEM: ingest, normalize, search, detect — Docker Compose one-c…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 OkiemuteEsiri/ransomware-response-lab
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/OkiemuteEsiri/ransomware-response-lab
+     📝 Detection engineering and incident response lab
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 RATHI-VIVEK07/XO20_CS02
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/RATHI-VIVEK07/XO20_CS02
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 Sudhanshu-00/payload
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/Sudhanshu-00/payload
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 ksindhu1s/riskguard-cnt-logistics-grc
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/ksindhu1s/riskguard-cnt-logistics-grc
+     📝 GRC Risk Management Framework for CNT Logistics LLC — NIST CSF, PCI DSS, ISO 270…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 harmansingh-cyber/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/harmansingh-cyber/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 DhimEscuyos/soc-homelab
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/DhimEscuyos/soc-homelab
+     📝 SOC Analyst homelab — hands-on SIEM (Wazuh), EDR-style endpoint monitoring, Sysm…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 Sehrabx/ai-powered-malware-ransomware-detection
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/Sehrabx/ai-powered-malware-ransomware-detection
+     📝 AI-powered malware and ransomware detection using PE static analysis, machine le…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 akashuttamraodhobale/enterprise-threat-risk-simulator
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/akashuttamraodhobale/enterprise-threat-risk-simulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 farhadakhtar/Network-Intrusion-Detection-SVM-
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/farhadakhtar/Network-Intrusion-Detection-SVM-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 ayaan-jpg-cell/soc-simulation-lab
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/ayaan-jpg-cell/soc-simulation-lab
+     📝 A SOC analyst training lab — generates realistic enterprise logs with attacks hi…
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 FllnSef/Endpoint-Detection-Mini-EDR
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/FllnSef/Endpoint-Detection-Mini-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [NEW]   🆕 📦 ahmedshpop2005-boop/CyberX-AI
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/ahmedshpop2005-boop/CyberX-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:12 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-09 10:54:12 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated in real tim…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 10:54:12 UTC] [UPD]   📢 📦 Erizeez/bmol-iced
+     ⭐ 0  🗣 Rust  📅 2026-09-08
+     🔗 https://github.com/Erizeez/bmol-iced
+     📝 Modern Apple-style Liquid Glass UI framework, spring physics, and desktop window…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 10:54:12 UTC] [UPD]   📢 📦 h4d35x0/argus
+     ⭐ 0  🗣 C  📅 2026-09-09
+     🔗 https://github.com/h4d35x0/argus
+     📝 Anti-surveillance firmware for the LILYGO T-Watch Ultra (ESP32-S3): tracker and …
+     🏷  airtag, anti-stalking, arduino, bluetooth-le, esp32, esp32-s3, firmware, gnss, lilygo, lora, lvgl, meshtastic, nfc, platformio, smartwatch, t-watch, t-watch-ultra, tracker-detection, wardriving, wifi
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 10:54:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-09 10:54:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-09 10:54:15 UTC] [INFO]   → 39 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-09 10:54:15 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-09 10:54:15 UTC] [NEW]   🆕 📦 SnowX26/sx26
+     ⭐ 0  🗣 JavaScript  📅 2026-09-09
+     🔗 https://github.com/SnowX26/sx26
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:15 UTC] [NEW]   🆕 📦 Wayang1337/lpe-toolkit
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/Wayang1337/lpe-toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-09 10:54:15 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-09 10:54:15 UTC] [UPD]   📢 📦 ayazdoruck/sandbin
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/ayazdoruck/sandbin
+     📝 Runs untrusted code and survives it. No Docker, no root, no VM.
+     🏷  bubblewrap, cgroups, code-execution, linux-namespaces, sandbox, seccomp, security
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 10:54:15 UTC] [UPD]   📢 📦 brstation/ps4.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/brstation/ps4.github.io
+     📝 PS4 Webkit Exploits
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-09 10:54:15 UTC] [UPD]   📢 📦 cioplanna65-png/seven7
+     ⭐ 0  🗣 Swift  📅 2026-09-05
+     🔗 https://github.com/cioplanna65-png/seven7
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-09 10:54:15 UTC] [INFO] ============================================================
+[2026-09-09 10:54:15 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
+[2026-09-09 10:54:15 UTC] [INFO] ============================================================
