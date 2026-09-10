@@ -81388,3 +81388,208 @@
 [2026-09-10 03:34:03 UTC] [INFO] ============================================================
 [2026-09-10 03:34:03 UTC] [INFO] Completato — 33 nuovi, 10 aggiornati, 0 errori
 [2026-09-10 03:34:03 UTC] [INFO] ============================================================
+[2026-09-10 10:50:39 UTC] [INFO] ============================================================
+[2026-09-10 10:50:39 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-10 10:50:39 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-10 10:50:39 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-10 10:50:39 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-10 10:50:39 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-10 10:50:39 UTC] [INFO] ============================================================
+[2026-09-10 10:50:39 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-10 10:50:39 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-10 10:50:41 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-10 10:50:41 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-10 10:50:41 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-10 10:50:41 UTC] [UPD]   📢 📦 legionultramax/Detection-Engineering-MCP
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/legionultramax/Detection-Engineering-MCP
+     📝 Detection Engineering MCP
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-10 10:50:41 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-10 10:50:41 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-10 10:50:44 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 Fuzzy4-arch/SentinelEDR
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/Fuzzy4-arch/SentinelEDR
+     📝 Endpoint Detection and Response platform built with Python
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 zwei007/LogPY
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/zwei007/LogPY
+     📝 A lightweight, Python-based EDR and system telemetry engine. It monitors active …
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 iasi-org-dev/iasi-edr
+     ⭐ 0  🗣 SCSS  📅 2026-09-10
+     🔗 https://github.com/iasi-org-dev/iasi-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 boniyeamincse/SOc-interviewboninote
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/boniyeamincse/SOc-interviewboninote
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 nandacikaanisa/Payment-Complete-niu9edr0
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/nandacikaanisa/Payment-Complete-niu9edr0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 ghgg1246/Invoice-Receipt-edrj2v19
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/ghgg1246/Invoice-Receipt-edrj2v19
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 rongo270/vigil
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/rongo270/vigil
+     📝 A SOC analyst training range
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 rishendraane/JOCKY
+     ⭐ 0  🗣 Rust  📅 2026-09-10
+     🔗 https://github.com/rishendraane/JOCKY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 JaneHax/Agent-SKILL
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/JaneHax/Agent-SKILL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 uarisoy-cyber/test-edr-dlp
+     ⭐ 0  🗣 PowerShell  📅 2026-09-10
+     🔗 https://github.com/uarisoy-cyber/test-edr-dlp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 febriyansyah-id/febriyansyah-id
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/febriyansyah-id/febriyansyah-id
+     📝 Profile README — FEBRIYANSYAH | Presales Consultant | IT Infrastructure & Cybers…
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 Akune122/Akune122
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/Akune122/Akune122
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 Matvey6M6/k8s-auth-menu
+     ⭐ 0  🗣 TypeScript  📅 2026-09-09
+     🔗 https://github.com/Matvey6M6/k8s-auth-menu
+     📝 Adds a menu for quick connection to clusters.
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 imopositive/Peg-With-A-Sus
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/imopositive/Peg-With-A-Sus
+     📝 Turtle
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 ananthkrishnangv/Desktop-Audit-Tool
+     ⭐ 0  🗣 C#  📅 2026-09-10
+     🔗 https://github.com/ananthkrishnangv/Desktop-Audit-Tool
+     📝 Desktop-Audit-Tool
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 gndec-ced/Event
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/gndec-ced/Event
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 YusufMarall/Procmon-Siem-
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/YusufMarall/Procmon-Siem-
+     📝 A SIEM pipeline monitoring Windows process creation via Sysmon, enriched with Vi…
+     🏷  blue-team, docker, elasticsearch, elk-stack, endpoint-security, groq, kibana, logstash, mitre-attack, process-monitoring, procmon, python, security-monitoring, siem, soc, sysmon, threat-detection, threat-hunting, virustotal, winlogbeat
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 zhangjisheng1990/dsh-desktop-launcher
+     ⭐ 0  🗣 JavaScript  📅 2026-09-10
+     🔗 https://github.com/zhangjisheng1990/dsh-desktop-launcher
+     📝 GUI desktop launcher for DeepSeek Harness: multiple launch modes, and AI self-he…
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 fptxinchao/IAM302t
+     ⭐ 0  🗣 Shell  📅 2026-09-10
+     🔗 https://github.com/fptxinchao/IAM302t
+     📝 Final Project
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 pallavidomreddy0417/playwright_automation_framework_with_tags
+     ⭐ 0  🗣 JavaScript  📅 2026-09-09
+     🔗 https://github.com/pallavidomreddy0417/playwright_automation_framework_with_tags
+     📝 playwright_automation_framework with executing based on tag selection
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 TrazTech-Inc/awesome-soc2
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/TrazTech-Inc/awesome-soc2
+     📝 A curated list of SOC 2 resources: readiness checklists, automation platforms, p…
+     🏷  audit, audit-readiness, awesome, awesome-list, cloud-security, compliance, compliance-checklist, cybersecurity, governance-risk-compliance, grc, infosec, iso27001, security, soc-2, soc2, startup-security, trust-services-criteria
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 praharshkumar23/CloudLog
+     ⭐ 0  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/praharshkumar23/CloudLog
+     📝 Single-file, offline SOC log triage tool. Drop in raw logs (JSON, CSV, syslog, W…
+     🏷  dfir, log-analysis, miter-attack, security, soc, threat-detection
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 BSAL2770/sportstalk-e2e
+     ⭐ 0  🗣 JavaScript  📅 2026-09-10
+     🔗 https://github.com/BSAL2770/sportstalk-e2e
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 khoasos123-coder/EDR-XDR
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/khoasos123-coder/EDR-XDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:44 UTC] [NEW]   🆕 📦 AlinaaKang/StreamLens
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/AlinaaKang/StreamLens
+     📝 StreamLens AI security agent platform for Prompt and PCAP investigation
+     🏷  —
+[2026-09-10 10:50:44 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-10 10:50:44 UTC] [UPD]   📢 📦 BlxrryFxce17/DentiScan
+     ⭐ 0  🗣 Dart  📅 2026-09-09
+     🔗 https://github.com/BlxrryFxce17/DentiScan
+     📝 AI-powered dental document scanner & clinical management system built with Flutt…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-10 10:50:44 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 10:50:44 UTC] [UPD]   📢 📦 ScriptType/metal-dlss-mac-video
+     ⭐ 0  🗣 Swift  📅 2026-09-09
+     🔗 https://github.com/ScriptType/metal-dlss-mac-video
+     📝 Native macOS HDR video player research with MLX/Metal neural enhancement. Develo…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-10 10:50:44 UTC] [UPD]   📢 📦 JohnP4p/debian-redteam-toolkit
+     ⭐ 0  🗣 Shell  📅 2026-09-09
+     🔗 https://github.com/JohnP4p/debian-redteam-toolkit
+     📝 Minimal, hardened, checksum-verified red-team toolkit for Debian 13. Built to re…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 10:50:44 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-10 10:50:44 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-10 10:50:46 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-10 10:50:46 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-10 10:50:46 UTC] [NEW]   🆕 📦 murieeltjie-lang/Apple-BP-Attempt-Sessions
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/murieeltjie-lang/Apple-BP-Attempt-Sessions
+     📝 An extensive research document done on a activation locked iPhone 14 running on …
+     🏷  —
+[2026-09-10 10:50:46 UTC] [NEW]   🆕 📦 imopositive/Peg-With-A-Sus
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/imopositive/Peg-With-A-Sus
+     📝 Turtle
+     🏷  —
+[2026-09-10 10:50:46 UTC] [NEW]   🆕 📦 leviiexesc/Chiro
+     ⭐ 0  🗣 Swift  📅 2026-09-10
+     🔗 https://github.com/leviiexesc/Chiro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:46 UTC] [NEW]   🆕 📦 NelzyKN/exp401-toolkit
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/NelzyKN/exp401-toolkit
+     📝 AWE/EXP-401 automation: egghunter variants, venetian/unicode helpers, PEB-walk s…
+     🏷  —
+[2026-09-10 10:50:46 UTC] [NEW]   🆕 📦 okphong582-png/-
+     ⭐ 0  🗣 Swift  📅 2026-09-10
+     🔗 https://github.com/okphong582-png/-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 10:50:46 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-10 10:50:46 UTC] [INFO] ============================================================
+[2026-09-10 10:50:46 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
+[2026-09-10 10:50:46 UTC] [INFO] ============================================================
