@@ -81825,3 +81825,237 @@
 [2026-09-10 15:59:08 UTC] [INFO] ============================================================
 [2026-09-10 15:59:08 UTC] [INFO] Completato — 39 nuovi, 2 aggiornati, 0 errori
 [2026-09-10 15:59:08 UTC] [INFO] ============================================================
+[2026-09-10 20:31:31 UTC] [INFO] ============================================================
+[2026-09-10 20:31:31 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-10 20:31:31 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-10 20:31:31 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-10 20:31:31 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-10 20:31:31 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-10 20:31:31 UTC] [INFO] ============================================================
+[2026-09-10 20:31:31 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-10 20:31:31 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-10 20:31:33 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-10 20:31:33 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-10 20:31:33 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-10 20:31:33 UTC] [UPD]   📢 📦 Gorstak-Zadar/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-09-08
+     🔗 https://github.com/Gorstak-Zadar/Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-10 20:31:33 UTC] [UPD]   📢 📦 legionultramax/Detection-Engineering-MCP
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/legionultramax/Detection-Engineering-MCP
+     📝 Detection Engineering MCP
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-10 20:31:33 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-10 20:31:33 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-10 20:31:35 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 33 NUOVI repository:
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 guhanashok07/guhanashok07
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/guhanashok07/guhanashok07
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 john-ogletree/Zero-trust-article
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/john-ogletree/Zero-trust-article
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 matias00allende/soc-threat-intel-pipeline
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/matias00allende/soc-threat-intel-pipeline
+     📝 Pipeline SOC de boletines de inteligencia de amenazas: ingesta por correo, extra…
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 omerAlBa/lnkBuilder
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/omerAlBa/lnkBuilder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 CasperRoot/RansomWatch
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/CasperRoot/RansomWatch
+     📝 Behavioral ransomware detection: catches mass file-encryption by how it behaves …
+     🏷  behavioral-detection, cybersecurity, endpoint-security, macos, malware-detection, python, ransomware, security
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 ivoskonarik-del/propozice-edrazby-next
+     ⭐ 0  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/ivoskonarik-del/propozice-edrazby-next
+     📝 Webový návrh — edrazby-next
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 CyberNinja9/SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/CyberNinja9/SOC-Lab
+     📝 Enterprise SOC Detection & Automated Response Lab - Wazuh + Splunk + Sysmon + MI…
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 hyeong9819/edrksgs
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/hyeong9819/edrksgs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 deathslike/edrmhyv
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/deathslike/edrmhyv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 valiauga/wind-calendar
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/valiauga/wind-calendar
+     📝 Public kitesurfing wind-window calendar subscribe feature
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 ProjectRubyRing/Container_Compose_Build_Push_v2_from_Codex_v2
+     ⭐ 0  🗣 Shell  📅 2026-09-10
+     🔗 https://github.com/ProjectRubyRing/Container_Compose_Build_Push_v2_from_Codex_v2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 antoniobarreda-glitch/tres-fuentes-tamaulipas
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/antoniobarreda-glitch/tres-fuentes-tamaulipas
+     📝 Auditoría de observabilidad de tres registros de siniestros viales (aseguradora,…
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 Marianoortizz/aegis-soc
+     ⭐ 0  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/Marianoortizz/aegis-soc
+     📝 AI-assisted Security Operations Center laboratory built with FastAPI, JavaScript…
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 gtamac/macVC
+     ⭐ 0  🗣 Shell  📅 2026-09-10
+     🔗 https://github.com/gtamac/macVC
+     📝 Native Metal build of GTA Vice City for Apple Silicon Macs — download only
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 xyraopsec/binder-stealer-44ebea48
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/xyraopsec/binder-stealer-44ebea48
+     📝 Static teardown of a binder-dropper + browser/crypto stealer: TLS-immediate reso…
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 abdullah-almasum/abdullah-almasum
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/abdullah-almasum/abdullah-almasum
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 Sandesh-M94/Incident-Response-Playbook-Ransomware-Scenario
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/Sandesh-M94/Incident-Response-Playbook-Ransomware-Scenario
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 hammahc/SentinelAI
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/hammahc/SentinelAI
+     📝 Multi-agent AI security operations and solutions engineering platform
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 trophic-corp/trophic-hardware
+     ⭐ 0  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/trophic-corp/trophic-hardware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 edrichbea/Edrichrouting
+     ⭐ 0  🗣 JavaScript  📅 2026-09-10
+     🔗 https://github.com/edrichbea/Edrichrouting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 Lakshmidurga250/Sentine1AI
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/Lakshmidurga250/Sentine1AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 eylommaayan/THM---Introduction-to-EDR
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/eylommaayan/THM---Introduction-to-EDR
+     📝 החדר סוקר את יסודות ה-EDR (סוכנים וקונסולה), איסוף טלמטריה מעמדות קצה וההבדל המה…
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 mr-edr/manga
+     ⭐ 0  🗣 TypeScript  📅 2026-09-10
+     🔗 https://github.com/mr-edr/manga
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 natarajthangavelu-cyber/incident_response_plan
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/natarajthangavelu-cyber/incident_response_plan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 farrelpratama/25-559602-SV-26319_FarrelEdrikPratama_MagangGMRT_ORCA
+     ⭐ 0  🗣 C++  📅 2026-09-10
+     🔗 https://github.com/farrelpratama/25-559602-SV-26319_FarrelEdrikPratama_MagangGMRT_ORCA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 farrelpratama/25-559602-SV-26319_FarrelEdrikPratama_MagangGMRT_HEROES
+     ⭐ 0  🗣 C++  📅 2026-09-10
+     🔗 https://github.com/farrelpratama/25-559602-SV-26319_FarrelEdrikPratama_MagangGMRT_HEROES
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 canerkocamaz/WinScope11
+     ⭐ 0  🗣 PowerShell  📅 2026-09-10
+     🔗 https://github.com/canerkocamaz/WinScope11
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 eylommaayan/THM---SOC-Workbooks-and-Lookups
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/eylommaayan/THM---SOC-Workbooks-and-Lookups
+     📝 החדר מתמקד בהעשרת הקשר (Context) להתרעות באמצעות הצלבת נתוני זהויות (Identity In…
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 PRANESH2804/splunk-siem-soar-homelab
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/PRANESH2804/splunk-siem-soar-homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 ivamsiponnada-max/Brute-force-login-detection
+     ⭐ 1  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/ivamsiponnada-max/Brute-force-login-detection
+     📝 Windows brute-force login (Event ID 4625) detection lab
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 D1se0/aegis-edr
+     ⭐ 0  🗣 TypeScript  📅 2026-09-10
+     🔗 https://github.com/D1se0/aegis-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 eylommaayan/THM---SOC-L1-Alert-Reporting
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/eylommaayan/THM---SOC-L1-Alert-Reporting
+     📝 החדר מקנה מיומנויות קריטיות לאנליסט SOC L1 בתיעוד חקירות לפי מודל חמשת המ"מים (F…
+     🏷  —
+[2026-09-10 20:31:35 UTC] [NEW]   🆕 📦 jorfernandez3/tfm-rag-web-log-attacks
+     ⭐ 0  🗣 TeX  📅 2026-09-09
+     🔗 https://github.com/jorfernandez3/tfm-rag-web-log-attacks
+     📝 TFM Project (Master Degree)
+     🏷  —
+[2026-09-10 20:31:35 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-10 20:31:35 UTC] [UPD]   📢 📦 TheFilipcom4607/circuitpython-st25dv
+     ⭐ 1  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/TheFilipcom4607/circuitpython-st25dv
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-10 20:31:35 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-10 20:31:35 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-10 20:31:37 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-10 20:31:37 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-10 20:31:37 UTC] [NEW]   🆕 📦 aivarsse/webos5.6_root
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/aivarsse/webos5.6_root
+     📝 Unjailed root on an LG webOS 5.6 TV.
+     🏷  —
+[2026-09-10 20:31:37 UTC] [NEW]   🆕 📦 aris-infosec/European-Secure-Smartphones
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/aris-infosec/European-Secure-Smartphones
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 20:31:37 UTC] [NEW]   🆕 📦 thebelx/Egyptian-PS4-Jailbreak-DEBUNKED
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/thebelx/Egyptian-PS4-Jailbreak-DEBUNKED
+     📝 Raw game debunked!
+     🏷  debunk, debunking, ps4, ps4-jailbreak, ps4-payload, ps4exploit, ps4jailbreak, ps4jb
+[2026-09-10 20:31:37 UTC] [NEW]   🆕 📦 bs8369953-del/Free-fire-
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/bs8369953-del/Free-fire-
+     📝 you can use root/kernel hacks on ron rooted devices without ever rooting or unlo…
+     🏷  —
+[2026-09-10 20:31:37 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-10 20:31:37 UTC] [UPD]   📢 📦 HackForgeX/LPE-AutoScan
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/HackForgeX/LPE-AutoScan
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-10 20:31:37 UTC] [INFO] ============================================================
+[2026-09-10 20:31:37 UTC] [INFO] Completato — 37 nuovi, 4 aggiornati, 0 errori
+[2026-09-10 20:31:37 UTC] [INFO] ============================================================
