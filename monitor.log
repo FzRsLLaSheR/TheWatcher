@@ -81138,3 +81138,253 @@
 [2026-09-09 20:36:28 UTC] [INFO] ============================================================
 [2026-09-09 20:36:28 UTC] [INFO] Completato — 23 nuovi, 11 aggiornati, 0 errori
 [2026-09-09 20:36:28 UTC] [INFO] ============================================================
+[2026-09-10 03:33:57 UTC] [INFO] ============================================================
+[2026-09-10 03:33:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-10 03:33:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-10 03:33:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-10 03:33:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-10 03:33:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-10 03:33:57 UTC] [INFO] ============================================================
+[2026-09-10 03:33:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-10 03:33:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-10 03:33:59 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-10 03:33:59 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-10 03:33:59 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-10 03:33:59 UTC] [UPD]   📢 📦 Gorstak-Zadar/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-09-08
+     🔗 https://github.com/Gorstak-Zadar/Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 03:33:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-10 03:33:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-10 03:34:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 29 NUOVI repository:
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 5h4d0wn1k/endpointaegis
+     ⭐ 1  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/5h4d0wn1k/endpointaegis
+     📝 endpointaegis: ignore pip build artifacts (build/)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 bx215osz5a/edrmbz
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/bx215osz5a/edrmbz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 ScriptType/metal-dlss-mac-video
+     ⭐ 0  🗣 Swift  📅 2026-09-09
+     🔗 https://github.com/ScriptType/metal-dlss-mac-video
+     📝 Native macOS HDR video player research with MLX/Metal neural enhancement. Develo…
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 cheongcode/edr-workshop
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/cheongcode/edr-workshop
+     📝 Incremental Python EDR workshop (labs 1.1–3.5)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 Merhan-AI/Cyber-Vault
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/Merhan-AI/Cyber-Vault
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 0628DAO/0628DAO-Protocol
+     ⭐ 0  🗣 Solidity  📅 2026-09-10
+     🔗 https://github.com/0628DAO/0628DAO-Protocol
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 Sid-git399/soc-insight-Sid
+     ⭐ 1  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/Sid-git399/soc-insight-Sid
+     📝 SOC-Insight — A defensive security investigation workbench that correlates secur…
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 tanu-1309/iocextract
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/tanu-1309/iocextract
+     📝 Personal project for exploring modern development practices
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 SimplyICT/Jarvis
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/SimplyICT/Jarvis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 caiocgslucca/Chapa-ID
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/caiocgslucca/Chapa-ID
+     📝 Sistema inteligente para identificação de chapas por visão computacional
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 nickolson66/mde-banking-baseline-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-09-10
+     🔗 https://github.com/nickolson66/mde-banking-baseline-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 R0n1nW0lf/SOC-SIEM-Investigation-Field-Guide
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/R0n1nW0lf/SOC-SIEM-Investigation-Field-Guide
+     📝 A practical SOC/SIEM investigation field guide built from hands-on security labs…
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 djangohermoso/soc-routine
+     ⭐ 0  🗣 Shell  📅 2026-09-10
+     🔗 https://github.com/djangohermoso/soc-routine
+     📝 daily soc
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 dicnunz/mars-stereo
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/dicnunz/mars-stereo
+     📝 Reconstruct Spirit rover stereo images as textured terrain using calibrated came…
+     🏷  computer-vision, nasa, opencv, python, stereo-vision
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 fareed1-ataf/CDE
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/fareed1-ataf/CDE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 JamesPabon11/Just-Another-Day-Part-2
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/JamesPabon11/Just-Another-Day-Part-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 tanu-1309/sentinel-triage
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/tanu-1309/sentinel-triage
+     📝 Full-featured application built as a learning exercise
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 aminjlassi-CS/soc-analysis-writeups
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/aminjlassi-CS/soc-analysis-writeups
+     📝 Detailed SOC investigation walkthroughs written as lessons for analysts starting…
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 FerminGonzalez/SOC-Lab
+     ⭐ 0  🗣 Shell  📅 2026-09-09
+     🔗 https://github.com/FerminGonzalez/SOC-Lab
+     📝 Guía Completa: Implementación de un SOC-Lab
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 chrumck/KnurLogger
+     ⭐ 0  🗣 C++  📅 2026-09-09
+     🔗 https://github.com/chrumck/KnurLogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 RaghavPujari/MalwareGuard
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/RaghavPujari/MalwareGuard
+     📝 A Flask-based static malware analysis platform that scans files for hashes, entr…
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 vineettonke/Wazuh-SIEM-File-Integrity-Monitoring-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/vineettonke/Wazuh-SIEM-File-Integrity-Monitoring-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 dupewon/single-file-lnk-deobfuscator
+     ⭐ 1  🗣 C  📅 2026-09-09
+     🔗 https://github.com/dupewon/single-file-lnk-deobfuscator
+     📝 Single-file C99 offline triage tool: LNK chain analyzer + string deobfuscator fo…
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 1223356/edrispr
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/1223356/edrispr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 Danielle-Respes/EmberForge-Source-Leak
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/Danielle-Respes/EmberForge-Source-Leak
+     📝 Active Directory attack investigation
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 rexballester1201/clipguard
+     ⭐ 0  🗣 Rust  📅 2026-09-09
+     🔗 https://github.com/rexballester1201/clipguard
+     📝 Detects and defeats clipper malware that swaps cryptocurrency receiving addresse…
+     🏷  browser-extension, clipboard, clipper, cryptocurrency, infosec, malware-detection, rust, security, windows, yara
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 erikcisash/edrfxmk
+     ⭐ 0  🗣 N/A  📅 2026-09-09
+     🔗 https://github.com/erikcisash/edrfxmk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 xairob1992/DASHBOARD-EDRU
+     ⭐ 0  🗣 HTML  📅 2026-09-09
+     🔗 https://github.com/xairob1992/DASHBOARD-EDRU
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [NEW]   🆕 📦 aishwary191/Palo-Alto-Frankestien-Design
+     ⭐ 0  🗣 Python  📅 2026-09-09
+     🔗 https://github.com/aishwary191/Palo-Alto-Frankestien-Design
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:01 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-10 03:34:01 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 03:34:01 UTC] [UPD]   📢 📦 arguar13/Antivirus-inteligente
+     ⭐ 0  🗣 Rust  📅 2026-09-09
+     🔗 https://github.com/arguar13/Antivirus-inteligente
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 03:34:01 UTC] [UPD]   📢 📦 Gorstak-Zadar/gorstakssite
+     ⭐ 0  🗣 HTML  📅 2026-09-08
+     🔗 https://github.com/Gorstak-Zadar/gorstakssite
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 03:34:01 UTC] [UPD]   📢 📦 Gorstak-Zadar/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-09-08
+     🔗 https://github.com/Gorstak-Zadar/Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 03:34:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-10 03:34:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-10 03:34:03 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-10 03:34:03 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-10 03:34:03 UTC] [NEW]   🆕 📦 emmajestevex-ui/GREEG-APP
+     ⭐ 0  🗣 Swift  📅 2026-09-09
+     🔗 https://github.com/emmajestevex-ui/GREEG-APP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:03 UTC] [NEW]   🆕 📦 slapah/slapah
+     ⭐ 0  🗣 N/A  📅 2026-09-10
+     🔗 https://github.com/slapah/slapah
+     📝 profile
+     🏷  —
+[2026-09-10 03:34:03 UTC] [NEW]   🆕 📦 hamzawigamer-1/ps4-11.02
+     ⭐ 0  🗣 JavaScript  📅 2026-09-10
+     🔗 https://github.com/hamzawigamer-1/ps4-11.02
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:03 UTC] [NEW]   🆕 📦 PlayGame2000/13
+     ⭐ 0  🗣 JavaScript  📅 2026-09-09
+     🔗 https://github.com/PlayGame2000/13
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-10 03:34:03 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-10 03:34:03 UTC] [UPD]   📢 📦 brstation/ps4.github.io
+     ⭐ 1  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/brstation/ps4.github.io
+     📝 PS4 Webkit Exploits
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 03:34:03 UTC] [UPD]   📢 📦 rgamersr3/13XX
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/rgamersr3/13XX
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 03:34:03 UTC] [UPD]   📢 📦 asim-aa/breakpoint
+     ⭐ 0  🗣 Python  📅 2026-09-04
+     🔗 https://github.com/asim-aa/breakpoint
+     📝 Adversarial Prover/Skeptic code-generation loop, verified by real sandboxed exec…
+     🏷  adversarial-testing, ai-code-generation, code-verification, langgraph, llm, llm-agent, multi-agent-systems, openrouter, python, sandboxing
+     🔄 Motivo: repo recente (5gg)
+[2026-09-10 03:34:03 UTC] [UPD]   📢 📦 ayazdoruck/sandbin
+     ⭐ 0  🗣 JavaScript  📅 2026-09-08
+     🔗 https://github.com/ayazdoruck/sandbin
+     📝 Runs untrusted code and survives it. No Docker, no root, no VM.
+     🏷  bubblewrap, cgroups, code-execution, linux-namespaces, sandbox, seccomp, security
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 03:34:03 UTC] [UPD]   📢 📦 Loky-rt/linux-bof
+     ⭐ 2  🗣 C  📅 2026-09-08
+     🔗 https://github.com/Loky-rt/linux-bof
+     📝 Collection of BOFs for Linux
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-10 03:34:03 UTC] [INFO] ============================================================
+[2026-09-10 03:34:03 UTC] [INFO] Completato — 33 nuovi, 10 aggiornati, 0 errori
+[2026-09-10 03:34:03 UTC] [INFO] ============================================================
