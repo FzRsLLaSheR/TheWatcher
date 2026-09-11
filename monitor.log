@@ -82271,3 +82271,312 @@
 [2026-09-11 03:32:09 UTC] [INFO] ============================================================
 [2026-09-11 03:32:09 UTC] [INFO] Completato — 35 nuovi, 2 aggiornati, 0 errori
 [2026-09-11 03:32:09 UTC] [INFO] ============================================================
+[2026-09-11 10:46:34 UTC] [INFO] ============================================================
+[2026-09-11 10:46:34 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-11 10:46:34 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-11 10:46:34 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-11 10:46:34 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-11 10:46:34 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-11 10:46:34 UTC] [INFO] ============================================================
+[2026-09-11 10:46:34 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-11 10:46:34 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-11 10:46:37 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-11 10:46:37 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-11 10:46:37 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-11 10:46:37 UTC] [UPD]   📢 📦 legionultramax/Detection-Engineering-MCP
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/legionultramax/Detection-Engineering-MCP
+     📝 Detection Engineering MCP
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-11 10:46:37 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-11 10:46:37 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-11 10:46:40 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 38 NUOVI repository:
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 parthtomar2706-ctrl/SIH26105
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/parthtomar2706-ctrl/SIH26105
+     📝 AI-powered platform that converts enterprise cybersecurity telemetry into quanti…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 FaresBadaj/FaresBadaj
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/FaresBadaj/FaresBadaj
+     📝 Fares Badaj - Red Team Operator | Penetration Tester Specialist
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Farihin/IDB30102_GroupAI_Antivirus-Agent-for-Real-Time-Malware
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/Farihin/IDB30102_GroupAI_Antivirus-Agent-for-Real-Time-Malware
+     📝 Final Assignment Research Methodology
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 ishantmehara2-cyber/ECHO-CyberSecurity
+     ⭐ 0  🗣 TypeScript  📅 2026-09-11
+     🔗 https://github.com/ishantmehara2-cyber/ECHO-CyberSecurity
+     📝 Echo - Security Telemetry Correlation and Attack Reconstruction Engine
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 locallhosts/ebpf-edr
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/locallhosts/ebpf-edr
+     📝 Next-gen Linux EDR using  eBPF. Run C programs in the kernel to detect reverse s…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 techwings0710/aegisquant
+     ⭐ 0  🗣 TypeScript  📅 2026-09-11
+     🔗 https://github.com/techwings0710/aegisquant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 edgeworks/deepsnout
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/edgeworks/deepsnout
+     📝 Local-first security analytics
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Elif-Moorei/edrjvli
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/Elif-Moorei/edrjvli
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 evilcoder13/waze_mod_hud
+     ⭐ 0  🗣 C  📅 2026-09-11
+     🔗 https://github.com/evilcoder13/waze_mod_hud
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Invoice62652/Receipt-tjc9edrs
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/Invoice62652/Receipt-tjc9edrs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 soroush44d/cabbage-api-hooking-lab
+     ⭐ 0  🗣 C++  📅 2026-09-11
+     🔗 https://github.com/soroush44d/cabbage-api-hooking-lab
+     📝 Educational Windows API hooking laboratory exploring DLL side-loading, inline ho…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Luzw-OSullivanv/edricen
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/Luzw-OSullivanv/edricen
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Opheliam-Westbrookd/edrdvmu
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/Opheliam-Westbrookd/edrdvmu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 ciphralab/windows11-antimalware-evaluation
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/ciphralab/windows11-antimalware-evaluation
+     📝 Objective, region-specific anti-malware recommendations for Windows 11, evaluati…
+     🏷  anti-malware, antivirus, cybersecurity, infosec, privacy, threat-intelligence, windows-11
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Deem-Paynee/edruosp
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/Deem-Paynee/edruosp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Joshl-Truen/edrquhr
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/Joshl-Truen/edrquhr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 rhimavanth32-max/Windows-7-EternalBlue-Exploitation-and-Meterpreter-Keylogging-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/rhimavanth32-max/Windows-7-EternalBlue-Exploitation-and-Meterpreter-Keylogging-Lab
+     📝 Hands-on lab exploiting MS17-010 (EternalBlue) on Windows 7 and demonstrating Me…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 0xNull499/Malwareguard
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/0xNull499/Malwareguard
+     📝 A small Windows tool to prevent accidental execution of executable files.
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 adleone/edrqjbm
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/adleone/edrqjbm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 aloc999/aloc999
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/aloc999/aloc999
+     📝 Hashemi Rafsanjani (aloc999) — Cybersecurity Researcher · Bug Bounty Hunter · Th…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 EdRemets/EdRemets
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/EdRemets/EdRemets
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 gijotour/gijo-solution
+     ⭐ 0  🗣 HTML  📅 2026-09-11
+     🔗 https://github.com/gijotour/gijo-solution
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 novolang/l2cap-nv
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/novolang/l2cap-nv
+     📝 The Bluetooth L2CAP layer with no radio: basic-mode frames to and from bytes, th…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 florancarv/edrqvpo
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/florancarv/edrqvpo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 heavendry5/edrukvs
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/heavendry5/edrukvs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 ajamrnt/juice-shop-attacks
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/ajamrnt/juice-shop-attacks
+     📝 A collection of attack vectors against OWASP Juice Shop vulnerable web applicati…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Eyadhazem1/Eyadhazem1
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/Eyadhazem1/Eyadhazem1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Louannv-Straubx/edrqauc
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/Louannv-Straubx/edrqauc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 tantech2904-ctrl/SIH
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/tantech2904-ctrl/SIH
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 moruku36/enterprise-sec-distillation
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/moruku36/enterprise-sec-distillation
+     📝 Enterprise Security LLM Knowledge Distillation (Gemini 3.8 Flash -> Local OSS Mo…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 hanzla2006/Process-Injection-with-Indirect-Syscalls-and-Tartarus-Gate
+     ⭐ 0  🗣 C  📅 2026-09-11
+     🔗 https://github.com/hanzla2006/Process-Injection-with-Indirect-Syscalls-and-Tartarus-Gate
+     📝 Low-level Windows process injection using indirect syscalls and Tartarus Gate-st…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 obbrand90/edroemw
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/obbrand90/edroemw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 VARUNTEJA113/VSHIELD
+     ⭐ 0  🗣 JavaScript  📅 2026-09-11
+     🔗 https://github.com/VARUNTEJA113/VSHIELD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 Im-manojkumar/MailRecon
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/Im-manojkumar/MailRecon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 nmdsolution/SIEM_IA
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/nmdsolution/SIEM_IA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 NnavaNova/SUMMEX
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/NnavaNova/SUMMEX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 WomenCISO-MenCISO/hypatia-mvp
+     ⭐ 0  🗣 HTML  📅 2026-09-11
+     🔗 https://github.com/WomenCISO-MenCISO/hypatia-mvp
+     📝 HYPATIA no intenta adivinar la instrucción maliciosa: asume que llegará y gobier…
+     🏷  —
+[2026-09-11 10:46:40 UTC] [NEW]   🆕 📦 cleasaji/AdaptiveComputingEnv
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/cleasaji/AdaptiveComputingEnv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:40 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-11 10:46:40 UTC] [UPD]   📢 📦 VoidSecSoftwares/voidsyscall
+     ⭐ 37  🗣 Go  📅 2026-09-10
+     🔗 https://github.com/VoidSecSoftwares/voidsyscall
+     📝 Cross-platform syscall-powered implant & C2 — direct syscalls (Win), raw syscall…
+     🏷  c2, edr-evasion, golang, red-team, syscall
+     🔄 Motivo: repo recente (0gg)
+[2026-09-11 10:46:40 UTC] [UPD]   📢 📦 ElBachir237/cybersecurity-academy-simulation-game
+     ⭐ 0  🗣 TypeScript  📅 2026-09-10
+     🔗 https://github.com/ElBachir237/cybersecurity-academy-simulation-game
+     📝 Horizon Cyber Academy — simulation pedagogique immersive de cybersecurity
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-11 10:46:40 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-11 10:46:40 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-11 10:46:43 UTC] [INFO]   → 40 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 ALSHD3D/Linux-Privilege-Escalation
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/ALSHD3D/Linux-Privilege-Escalation
+     📝 All the Resources and Tools you need for your Linux Priv Esc
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 ALSHD3D/Windows-Privilege-Escalation
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/ALSHD3D/Windows-Privilege-Escalation
+     📝 All the Sources and Tools you need for you Windows Priv Esc
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 henrique33621306/3105VERSAOFINAL
+     ⭐ 0  🗣 Swift  📅 2026-09-11
+     🔗 https://github.com/henrique33621306/3105VERSAOFINAL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 HumayunShariarHimu/bug-bounty
+     ⭐ 0  🗣 PHP  📅 2026-09-10
+     🔗 https://github.com/HumayunShariarHimu/bug-bounty
+     📝 Bug bounty resources, methodologies, tools, and learning references for authoriz…
+     🏷  application-security, bug-bounty, cybersecurity, ethical-hacking, osint, owasp, penetration-testing, reconnaissance, vulnerability-research, web-security
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 hamzavaid/Online-Coding-Judge
+     ⭐ 0  🗣 Go  📅 2026-09-11
+     🔗 https://github.com/hamzavaid/Online-Coding-Judge
+     📝 A secure, scalable online coding judge built with Go, PostgreSQL, Redis, Docker,…
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 leviiexesc/Chiro
+     ⭐ 0  🗣 Swift  📅 2026-09-11
+     🔗 https://github.com/leviiexesc/Chiro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 aharnish-aryan/Labmentix-projects
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/aharnish-aryan/Labmentix-projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 henrique33621306/3105-login
+     ⭐ 0  🗣 Swift  📅 2026-09-11
+     🔗 https://github.com/henrique33621306/3105-login
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 nhan210105/Tn10
+     ⭐ 0  🗣 Swift  📅 2026-09-11
+     🔗 https://github.com/nhan210105/Tn10
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 nhan210105/Tn-8-
+     ⭐ 0  🗣 Swift  📅 2026-09-11
+     🔗 https://github.com/nhan210105/Tn-8-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 henrique33621306/3105novo
+     ⭐ 0  🗣 Swift  📅 2026-09-11
+     🔗 https://github.com/henrique33621306/3105novo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 nhan210105/Tn9-
+     ⭐ 0  🗣 Swift  📅 2026-09-11
+     🔗 https://github.com/nhan210105/Tn9-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 Sarathy0106/lms
+     ⭐ 1  🗣 TypeScript  📅 2026-09-11
+     🔗 https://github.com/Sarathy0106/lms
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [NEW]   🆕 📦 henrique33621306/3105-teste
+     ⭐ 0  🗣 Swift  📅 2026-09-11
+     🔗 https://github.com/henrique33621306/3105-teste
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-11 10:46:43 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-11 10:46:43 UTC] [UPD]   📢 📦 HackForgeX/LPE-AutoScan
+     ⭐ 0  🗣 Python  📅 2026-09-10
+     🔗 https://github.com/HackForgeX/LPE-AutoScan
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-11 10:46:43 UTC] [INFO] ============================================================
+[2026-09-11 10:46:43 UTC] [INFO] Completato — 52 nuovi, 4 aggiornati, 0 errori
+[2026-09-11 10:46:43 UTC] [INFO] ============================================================
