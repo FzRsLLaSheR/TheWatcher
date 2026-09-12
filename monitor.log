@@ -83286,3 +83286,190 @@
 [2026-09-12 03:37:09 UTC] [INFO] ============================================================
 [2026-09-12 03:37:09 UTC] [INFO] Completato — 30 nuovi, 3 aggiornati, 0 errori
 [2026-09-12 03:37:09 UTC] [INFO] ============================================================
+[2026-09-12 10:15:32 UTC] [INFO] ============================================================
+[2026-09-12 10:15:32 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-12 10:15:32 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-12 10:15:32 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-12 10:15:32 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-12 10:15:32 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-12 10:15:32 UTC] [INFO] ============================================================
+[2026-09-12 10:15:32 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-12 10:15:32 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-12 10:15:34 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-12 10:15:34 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-12 10:15:34 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-12 10:15:34 UTC] [UPD]   📢 📦 TRI7AAN/Jangiya
+     ⭐ 1  🗣 C++  📅 2026-09-11
+     🔗 https://github.com/TRI7AAN/Jangiya
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-12 10:15:34 UTC] [UPD]   📢 📦 legionultramax/Detection-Engineering-MCP
+     ⭐ 0  🗣 TypeScript  📅 2026-09-08
+     🔗 https://github.com/legionultramax/Detection-Engineering-MCP
+     📝 Detection Engineering MCP
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-12 10:15:34 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-12 10:15:34 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-12 10:15:37 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 intelQong/vm-access-anywhere
+     ⭐ 0  🗣 Shell  📅 2026-09-12
+     🔗 https://github.com/intelQong/vm-access-anywhere
+     📝 Zero-Trust In-Browser Remote Desktop Gateway for Linux VMs via Apache Guacamole …
+     🏷  cloudflare-tunnel, guacamole, remote-desktop, xrdp, zero-trust
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 sharmaronit/Onyx
+     ⭐ 0  🗣 TypeScript  📅 2026-09-12
+     🔗 https://github.com/sharmaronit/Onyx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 artichautttt/siem
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/artichautttt/siem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 ashmyth/TUESDAY
+     ⭐ 0  🗣 JavaScript  📅 2026-09-12
+     🔗 https://github.com/ashmyth/TUESDAY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 Sabesh1/AgeiX-SOC
+     ⭐ 0  🗣 JavaScript  📅 2026-09-12
+     🔗 https://github.com/Sabesh1/AgeiX-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 memohasanen51-droid/mini-soc
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/memohasanen51-droid/mini-soc
+     📝 A Python-based Mini Security Operations Center for security monitoring, threat d…
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 Mafifrizi/Mafifrizi
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/Mafifrizi/Mafifrizi
+     📝 kraii_ profile
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 sandrolucy/mtw4-gaia-protocol
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/sandrolucy/mtw4-gaia-protocol
+     📝 Sennheiser MOMENTUM TW4 GAIA-over-RFCOMM 协议逆向笔记（非官方）
+     🏷  bluetooth, gaia, mtw4, qualcomm, reverse-engineering, rfcomm, sennheiser
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 Spellskite-coding/Open-SOC
+     ⭐ 1  🗣 JavaScript  📅 2026-09-12
+     🔗 https://github.com/Spellskite-coding/Open-SOC
+     📝 Open-SOC is an SOC simulator with multi-shifts for train in real world SOC shift…
+     🏷  blue-team, blueteam, cyber-security, cybersecurity, open-source, soc
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 Lakshmidurga250/soc_system-
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/Lakshmidurga250/soc_system-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 Manju735/car_block_box
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/Manju735/car_block_box
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 security-attack/RingKiller
+     ⭐ 2  🗣 C  📅 2026-09-12
+     🔗 https://github.com/security-attack/RingKiller
+     📝 RingKiller — BYOD PoC for DCRCVDrv.sys. Abuses IOCTL 0x2205C0 to kill arbitrary …
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 Ayobami-Hash-AI/Project-Letter
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/Ayobami-Hash-AI/Project-Letter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 imam-chowdhury/imam-chowdhury
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/imam-chowdhury/imam-chowdhury
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 Dark-Devil-Lucifer/PHOENIX
+     ⭐ 0  🗣 HTML  📅 2026-09-12
+     🔗 https://github.com/Dark-Devil-Lucifer/PHOENIX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 arpwatcher/llm-soc-injection-lab
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/arpwatcher/llm-soc-injection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 porucznikswext-source/Production-Implementation-Autonomous-Data-Lake-Threat-Hunter
+     ⭐ 1  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/porucznikswext-source/Production-Implementation-Autonomous-Data-Lake-Threat-Hunter
+     📝 Production Implementation: Autonomous Data Lake Threat Hunter ...
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 NimishaSinha42/SharePoint-Attack-Chain-Detection
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/NimishaSinha42/SharePoint-Attack-Chain-Detection
+     📝 Blue Team investigation of a simulated SharePoint attack chain covering credenti…
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 k5kuue3pyb/edrtkp
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/k5kuue3pyb/edrtkp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 wizardy0ga/improving-my-x64-PIC-shellcode-windows-peb-walk
+     ⭐ 0  🗣 Assembly  📅 2026-09-11
+     🔗 https://github.com/wizardy0ga/improving-my-x64-PIC-shellcode-windows-peb-walk
+     📝 An updated version of the x64 PIC shellcode windows shellcode pebwalk that i cod…
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 arnavwarale27-bot/ZEROTRACE
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/arnavwarale27-bot/ZEROTRACE
+     📝 AI Security Investigation Agent for SOC Analysts , made for 24hr national hackat…
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 Aymn-Ahmed/EDRAK-Real-Estate
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/Aymn-Ahmed/EDRAK-Real-Estate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 10:15:37 UTC] [NEW]   🆕 📦 marioandthezoo/home-soc
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/marioandthezoo/home-soc
+     📝 A small security operations centre for your own home network: device discovery, …
+     🏷  adblocker, cve, dns-sinkhole, home-network, homelab, network-monitoring, network-scanner, privacy, python, security, self-hosted, soc, vulnerability-management, windows-defender
+[2026-09-12 10:15:37 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-12 10:15:37 UTC] [UPD]   📢 📦 vvgaditya-8123/xto
+     ⭐ 0  🗣 TypeScript  📅 2026-09-11
+     🔗 https://github.com/vvgaditya-8123/xto
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-12 10:15:37 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (3gg)
+[2026-09-12 10:15:37 UTC] [UPD]   📢 📦 yjiod/aegis-ai-agent-security
+     ⭐ 0  🗣 TypeScript  📅 2026-09-06
+     🔗 https://github.com/yjiod/aegis-ai-agent-security
+     📝 Enterprise AI coding agent security governance platform: endpoint discovery, bas…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-12 10:15:37 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-12 10:15:37 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-12 10:15:40 UTC] [INFO]   → 41 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-12 10:15:40 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-12 10:15:40 UTC] [NEW]   🆕 📦 dashen666666-gif/DarkSword-18.4-18.7
+     ⭐ 0  🗣 JavaScript  📅 2026-09-12
+     🔗 https://github.com/dashen666666-gif/DarkSword-18.4-18.7
+     📝 暗剑DarkSword18.4-18.7
+     🏷  —
+[2026-09-12 10:15:40 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-12 10:15:40 UTC] [UPD]   📢 📦 sinchalkar001-dev/SyncSpace
+     ⭐ 0  🗣 JavaScript  📅 2026-09-07
+     🔗 https://github.com/sinchalkar001-dev/SyncSpace
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-12 10:15:40 UTC] [UPD]   📢 📦 genksome/kxray
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/genksome/kxray
+     📝 Kernel offset extraction tool for Android boot images. Parses boot.img, extracts…
+     🏷  android, arm64, bootimg, btf, kernel, offset-extraction, python
+     🔄 Motivo: repo recente (0gg)
+[2026-09-12 10:15:40 UTC] [INFO] ============================================================
+[2026-09-12 10:15:40 UTC] [INFO] Completato — 24 nuovi, 7 aggiornati, 0 errori
+[2026-09-12 10:15:40 UTC] [INFO] ============================================================
