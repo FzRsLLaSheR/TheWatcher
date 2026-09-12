@@ -83473,3 +83473,178 @@
 [2026-09-12 10:15:40 UTC] [INFO] ============================================================
 [2026-09-12 10:15:40 UTC] [INFO] Completato — 24 nuovi, 7 aggiornati, 0 errori
 [2026-09-12 10:15:40 UTC] [INFO] ============================================================
+[2026-09-12 15:10:18 UTC] [INFO] ============================================================
+[2026-09-12 15:10:18 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-12 15:10:18 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-12 15:10:18 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-12 15:10:18 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-12 15:10:18 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-12 15:10:18 UTC] [INFO] ============================================================
+[2026-09-12 15:10:18 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-12 15:10:18 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-12 15:10:20 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-12 15:10:20 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-12 15:10:20 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-12 15:10:20 UTC] [UPD]   📢 📦 TRI7AAN/Jangiya
+     ⭐ 1  🗣 C++  📅 2026-09-11
+     🔗 https://github.com/TRI7AAN/Jangiya
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-12 15:10:20 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-12 15:10:20 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-12 15:10:23 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 KartikGoel448/ThreatLens
+     ⭐ 0  🗣 TypeScript  📅 2026-09-12
+     🔗 https://github.com/KartikGoel448/ThreatLens
+     📝 AI-assisted email forensic analysis platform for phishing detection, security in…
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 sandeepmothukuri/Autonomous-SOC
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/sandeepmothukuri/Autonomous-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 moisesceazard-creator/Wazuh-SIEM-Endpoint-Monitoring-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/moisesceazard-creator/Wazuh-SIEM-Endpoint-Monitoring-Lab
+     📝 Hands-on Wazuh SIEM/XDR deployment, endpoint monitoring, and threat detection la…
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 0xf-0/hook-scanner
+     ⭐ 1  🗣 C++  📅 2026-09-12
+     🔗 https://github.com/0xf-0/hook-scanner
+     📝 fast user-mode api hook scanner & memory restorer in c++
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 Yara-Alotom/Aging-Portrait-Defense-APD-
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/Yara-Alotom/Aging-Portrait-Defense-APD-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 ijaz-aj/stackfit
+     ⭐ 0  🗣 TypeScript  📅 2026-09-12
+     🔗 https://github.com/ijaz-aj/stackfit
+     📝 Security stack advisor and three-year TCO model. Sizes an environment from its a…
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 Aiyub150/wismon
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/Aiyub150/wismon
+     📝 WISMON singkatan dari WIndows System MONitoring, project ini dibuat dengan vibe …
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 osamashalabi432-png/doc-osamashalabi
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/osamashalabi432-png/doc-osamashalabi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 SoloviovIvan85/EDreamsTest
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/SoloviovIvan85/EDreamsTest
+     📝 test project avia aggregator
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 0xBunnyBoo/bun.lockc
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/0xBunnyBoo/bun.lockc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 cleasaji/MemGuard
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/cleasaji/MemGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 Kozphy/windows-network-recovery-toolkit-public
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/Kozphy/windows-network-recovery-toolkit-public
+     📝 Public mirror: WNRT CLI + fixture demo API
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 cleasaji/SyntheticComputerLab
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/cleasaji/SyntheticComputerLab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 Vishu1197/DynaMate
+     ⭐ 0  🗣 Shell  📅 2026-09-12
+     🔗 https://github.com/Vishu1197/DynaMate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 KikeMuller/Cat-ServerFullReport
+     ⭐ 0  🗣 Shell  📅 2026-09-12
+     🔗 https://github.com/KikeMuller/Cat-ServerFullReport
+     📝 Inventario as-built y health check de servidores Linux en un solo script de bash…
+     🏷  as-built, audit, bash, cis-benchmark, devops, health-check, inventory, iso27001, linux, security-audit, server-management, sysadmin
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 petrospetran13-bit/pEdrito11
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/petrospetran13-bit/pEdrito11
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 sphbndc/vanguardintel
+     ⭐ 2  🗣 HTML  📅 2026-09-12
+     🔗 https://github.com/sphbndc/vanguardintel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 Loccao102/Agent-Guard
+     ⭐ 0  🗣 Go  📅 2026-09-12
+     🔗 https://github.com/Loccao102/Agent-Guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 ioscastaway/airpods-on-android
+     ⭐ 0  🗣 Kotlin  📅 2026-09-12
+     🔗 https://github.com/ioscastaway/airpods-on-android
+     📝 AirPods battery widget, an iOS-style connect card, and pause-when-you-take-one-o…
+     🏷  airpods, android, bluetooth-le, ioscastaway, series-guest-pass-to-the-walled-garden
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 jithinkrishnanrs/CVE-2026-86218-N-central-IOC-Toolkit
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/jithinkrishnanrs/CVE-2026-86218-N-central-IOC-Toolkit
+     📝 Defensive IOC and detection toolkit for CVE-2026-86218, a critical pre-auth RCE …
+     🏷  cybersecurity, detection-rules, elastic, incident-response, ioc, n-able, n-central, pre-auth-rce, rce, remote-code-execution
+[2026-09-12 15:10:23 UTC] [NEW]   🆕 📦 dredarsenic/ransomware-incident-response-capstone
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/dredarsenic/ransomware-incident-response-capstone
+     📝 AfricaHackon AH200 capstone focused on ransomware incident response, threat anal…
+     🏷  —
+[2026-09-12 15:10:23 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-12 15:10:23 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (4gg)
+[2026-09-12 15:10:23 UTC] [UPD]   📢 📦 waraperkin/SentinelDock
+     ⭐ 0  🗣 TypeScript  📅 2026-09-11
+     🔗 https://github.com/waraperkin/SentinelDock
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-12 15:10:23 UTC] [UPD]   📢 📦 Erizeez/bmol-iced
+     ⭐ 0  🗣 Rust  📅 2026-09-08
+     🔗 https://github.com/Erizeez/bmol-iced
+     📝 Modern Apple-style Liquid Glass UI framework, spring physics, and desktop window…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-12 15:10:23 UTC] [UPD]   📢 📦 Erizeez/bmol-window-shell
+     ⭐ 0  🗣 Rust  📅 2026-09-08
+     🔗 https://github.com/Erizeez/bmol-window-shell
+     📝 Modern seamless frameless window shell, macOS SkyLight blur & EDR integration fo…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-12 15:10:23 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-12 15:10:23 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-12 15:10:26 UTC] [INFO]   → 44 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-12 15:10:26 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-12 15:10:26 UTC] [NEW]   🆕 📦 BELO10/goldhen-ar
+     ⭐ 0  🗣 JavaScript  📅 2026-09-12
+     🔗 https://github.com/BELO10/goldhen-ar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:26 UTC] [NEW]   🆕 📦 nhan210105/Tn15
+     ⭐ 0  🗣 Swift  📅 2026-09-12
+     🔗 https://github.com/nhan210105/Tn15
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 15:10:26 UTC] [NEW]   🆕 📦 The-Freelauncer/TryHackMe-Writeups
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/The-Freelauncer/TryHackMe-Writeups
+     📝 Curated writeups, walkthroughs, and security notes for rooms and challenges comp…
+     🏷  —
+[2026-09-12 15:10:26 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-12 15:10:26 UTC] [INFO] ============================================================
+[2026-09-12 15:10:26 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
+[2026-09-12 15:10:26 UTC] [INFO] ============================================================
