@@ -83648,3 +83648,225 @@
 [2026-09-12 15:10:26 UTC] [INFO] ============================================================
 [2026-09-12 15:10:26 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
 [2026-09-12 15:10:26 UTC] [INFO] ============================================================
+[2026-09-12 20:17:30 UTC] [INFO] ============================================================
+[2026-09-12 20:17:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-12 20:17:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-12 20:17:30 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-12 20:17:30 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-12 20:17:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-12 20:17:30 UTC] [INFO] ============================================================
+[2026-09-12 20:17:30 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-12 20:17:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-12 20:17:32 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-12 20:17:32 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-12 20:17:32 UTC] [NEW]   🆕 📦 sshioo/win-audit-dashboard
+     ⭐ 0  🗣 PowerShell  📅 2026-09-12
+     🔗 https://github.com/sshioo/win-audit-dashboard
+     📝 (nessuna descrizione)
+     🏷  audit, dashboard, flask, powershell, security, windows
+[2026-09-12 20:17:32 UTC] [NEW]   🆕 📦 5forzin/abraham
+     ⭐ 0  🗣 Rust  📅 2026-09-12
+     🔗 https://github.com/5forzin/abraham
+     📝 A critique of the conditions of possibility of trust in kernel space — every tec…
+     🏷  detection-engineering, rust, security-research, windows-internals
+[2026-09-12 20:17:32 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-12 20:17:32 UTC] [UPD]   📢 📦 TRI7AAN/Jangiya
+     ⭐ 1  🗣 C++  📅 2026-09-11
+     🔗 https://github.com/TRI7AAN/Jangiya
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-12 20:17:32 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-12 20:17:32 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-12 20:17:35 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 Sunil56224972/Agies-Security
+     ⭐ 0  🗣 JavaScript  📅 2026-09-12
+     🔗 https://github.com/Sunil56224972/Agies-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 jhoney787813/collection-domonow
+     ⭐ 0  🗣 TypeScript  📅 2026-09-12
+     🔗 https://github.com/jhoney787813/collection-domonow
+     📝 DomoNow PropTech: Visitor Parking Management System. High-concurrency Clean Arch…
+     🏷  angular, dotnet, microfrontends, openspec, postgresql, proptech, single-spa, vue
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 Aamod007/ai-agents
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/Aamod007/ai-agents
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 irfanalkan23/irfanalkan23.github.io
+     ⭐ 1  🗣 Astro  📅 2026-09-12
+     🔗 https://github.com/irfanalkan23/irfanalkan23.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 aa22396584/aa22396584
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/aa22396584/aa22396584
+     📝 Profile README
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 sandeepmothukuri/AI-SOC-Decision-Engine
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/sandeepmothukuri/AI-SOC-Decision-Engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 sameerwire/COWA-Windows-API-Labs
+     ⭐ 0  🗣 C++  📅 2026-09-12
+     🔗 https://github.com/sameerwire/COWA-Windows-API-Labs
+     📝 Hands-on Windows API, Windows internals, and offensive security labs completed d…
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 himanshu-0033/Agentic-AI-Hackathon
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/himanshu-0033/Agentic-AI-Hackathon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 cybervet99/cybersecurity-lab-reports
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/cybervet99/cybersecurity-lab-reports
+     📝 Hands-on Security Operations Center (SOC) investigation write-ups, incident resp…
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 farhadakhtar/Wanna_build_VM
+     ⭐ 0  🗣 C  📅 2026-09-12
+     🔗 https://github.com/farhadakhtar/Wanna_build_VM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 n4uu/wraith
+     ⭐ 0  🗣 C  📅 2026-09-12
+     🔗 https://github.com/n4uu/wraith
+     📝 eBPF sensor for fileless execution and process injection on Linux — 6 tracepoint…
+     🏷  detection-engineering, ebpf, golang, linux-security, malware-analysis, mitre-attack, process-injection, threat-detection
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 balookrd/ibeacon
+     ⭐ 0  🗣 Kotlin  📅 2026-09-12
+     🔗 https://github.com/balookrd/ibeacon
+     📝 iBeacon Broadcaster превращает ваш Android-смартфон в полноценный Bluetooth LE м…
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 cleasaji/GhostProcess
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/cleasaji/GhostProcess
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 snehalsing/sai
+     ⭐ 0  🗣 TypeScript  📅 2026-09-12
+     🔗 https://github.com/snehalsing/sai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 rajanya-dutt/soc-agent
+     ⭐ 0  🗣 TypeScript  📅 2026-09-12
+     🔗 https://github.com/rajanya-dutt/soc-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 IIT4coders/SOC-agent
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/IIT4coders/SOC-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 geejamedp/edrfgv
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/geejamedp/edrfgv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 aliakpoyraz/klapa
+     ⭐ 0  🗣 Swift  📅 2026-09-12
+     🔗 https://github.com/aliakpoyraz/klapa
+     📝 macOS menu bar display manager — finds the HiDPI modes macOS hides when the lid …
+     🏷  betterdisplay, ddc, display, hidpi, macos, menubar, swift, swiftui
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 Pedr0Leite/SNSecOpsKit
+     ⭐ 0  🗣 TypeScript  📅 2026-09-12
+     🔗 https://github.com/Pedr0Leite/SNSecOpsKit
+     📝 SecOps Universal Connector Framework
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 M0nteCarl0/SimpleRFCOMM
+     ⭐ 0  🗣 C++  📅 2026-09-12
+     🔗 https://github.com/M0nteCarl0/SimpleRFCOMM
+     📝  Cross-platform C++20 Bluetooth RFCOMM client/server library with SDP support an…
+     🏷  bluetooth, rfcomm
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 krbexj3uup/edrckz
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/krbexj3uup/edrckz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:35 UTC] [NEW]   🆕 📦 jfrance167/windows-event-log-investigation
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/jfrance167/windows-event-log-investigation
+     📝 Defensive Windows security lab that collects and analyzes event logs, detects su…
+     🏷  —
+[2026-09-12 20:17:35 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-12 20:17:35 UTC] [UPD]   📢 📦 Sebastian-Tamayo/Proyeccion
+     ⭐ 0  🗣 Python  📅 2026-09-08
+     🔗 https://github.com/Sebastian-Tamayo/Proyeccion
+     📝 3 Agentes
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-12 20:17:35 UTC] [UPD]   📢 📦 ashmyth/TUESDAY
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/ashmyth/TUESDAY
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-12 20:17:35 UTC] [UPD]   📢 📦 Fumlop/EDRhinoSpotter
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/Fumlop/EDRhinoSpotter
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-12 20:17:35 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (4gg)
+[2026-09-12 20:17:35 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-12 20:17:35 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-12 20:17:38 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-12 20:17:38 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-09-12 20:17:38 UTC] [NEW]   🆕 📦 eldorochilov/0xCyberSecUz
+     ⭐ 1  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/eldorochilov/0xCyberSecUz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:38 UTC] [NEW]   🆕 📦 Xorriath/lg-velvet-eu-bootloader-unlock
+     ⭐ 0  🗣 C  📅 2026-09-12
+     🔗 https://github.com/Xorriath/lg-velvet-eu-bootloader-unlock
+     📝 Reproducible software-only bootloader unlock and Magisk root guide for the Europ…
+     🏷  android, bootloader-unlock, cve-2023-33107, lg-velvet, magisk, reverse-engineering
+[2026-09-12 20:17:38 UTC] [NEW]   🆕 📦 htin9326-a11y/vipmoi
+     ⭐ 0  🗣 Swift  📅 2026-09-12
+     🔗 https://github.com/htin9326-a11y/vipmoi
+     📝 hhhh
+     🏷  —
+[2026-09-12 20:17:38 UTC] [NEW]   🆕 📦 ddddddedcds/silentIO
+     ⭐ 0  🗣 C  📅 2026-09-12
+     🔗 https://github.com/ddddddedcds/silentIO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:38 UTC] [NEW]   🆕 📦 apawzee/Cheat-Sheet-PT-2026
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/apawzee/Cheat-Sheet-PT-2026
+     📝 Pentest Cheat Sheet 
+     🏷  —
+[2026-09-12 20:17:38 UTC] [NEW]   🆕 📦 nhan210105/Tn17
+     ⭐ 0  🗣 Swift  📅 2026-09-12
+     🔗 https://github.com/nhan210105/Tn17
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:38 UTC] [NEW]   🆕 📦 nhan210105/Tn16
+     ⭐ 0  🗣 Swift  📅 2026-09-12
+     🔗 https://github.com/nhan210105/Tn16
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-12 20:17:38 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-12 20:17:38 UTC] [UPD]   📢 📦 itsbadsignal/thc
+     ⭐ 0  🗣 N/A  📅 2026-09-11
+     🔗 https://github.com/itsbadsignal/thc
+     📝 The Hacker's Curriculum
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-12 20:17:38 UTC] [UPD]   📢 📦 BELO10/goldhen-ar
+     ⭐ 0  🗣 JavaScript  📅 2026-09-12
+     🔗 https://github.com/BELO10/goldhen-ar
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-12 20:17:38 UTC] [INFO] ============================================================
+[2026-09-12 20:17:38 UTC] [INFO] Completato — 31 nuovi, 7 aggiornati, 0 errori
+[2026-09-12 20:17:38 UTC] [INFO] ============================================================
