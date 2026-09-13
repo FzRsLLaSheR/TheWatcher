@@ -84326,3 +84326,201 @@
 [2026-09-13 11:16:05 UTC] [INFO] ============================================================
 [2026-09-13 11:16:05 UTC] [INFO] Completato — 35 nuovi, 4 aggiornati, 0 errori
 [2026-09-13 11:16:05 UTC] [INFO] ============================================================
+[2026-09-13 15:46:06 UTC] [INFO] ============================================================
+[2026-09-13 15:46:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-13 15:46:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-13 15:46:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-13 15:46:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-13 15:46:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-13 15:46:06 UTC] [INFO] ============================================================
+[2026-09-13 15:46:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-13 15:46:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-13 15:46:08 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 15:46:08 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-13 15:46:08 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-13 15:46:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-13 15:46:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-13 15:46:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 Soumya-CSE/mitre-threat-hunting-dashboard
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Soumya-CSE/mitre-threat-hunting-dashboard
+     📝 SOC threat-hunting dashboard for investigating alerts, correlating IOCs, mapping…
+     🏷  blue-team, cybersecurity, defensive-security, mitre-attack, soc, threat-hunting
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 EVONETRTK/baseesp32-ethelite
+     ⭐ 0  🗣 C  📅 2026-09-13
+     🔗 https://github.com/EVONETRTK/baseesp32-ethelite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 joass1/frechet-edit
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/joass1/frechet-edit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 Soyam-Patra/argus-autonomous-soc
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Soyam-Patra/argus-autonomous-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 alcurt/YuanZhiTrainer
+     ⭐ 0  🗣 C++  📅 2026-09-13
+     🔗 https://github.com/alcurt/YuanZhiTrainer
+     📝 一款远志多媒体教学管理软件(学生端)的解控软件，仅供教育研究与技术学习，禁止任何非法用途；与厂商无关联，使用者自行承担全部后果。
+     🏷  classroom-management, cpp, hooking, minhook, remote-teaching, windows
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 KOD-GIT/threatpilot
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/KOD-GIT/threatpilot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 Panopticon-Co/panopticon-linux-agent
+     ⭐ 0  🗣 C++  📅 2026-09-12
+     🔗 https://github.com/Panopticon-Co/panopticon-linux-agent
+     📝 Linux endpoint telemetry and response agent for the Panopticon EDR platform.
+     🏷  cpp, cpp20, cybersecurity, digital-forensics, edr, endpoint-agent, endpoint-security, incident-response, linux, panopticon, telemetry, threat-detection
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 namelessweakl1ng/vexDB
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/namelessweakl1ng/vexDB
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 Panopticon-Co/panopticon-response-engine
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Panopticon-Co/panopticon-response-engine
+     📝 Controlled response execution engine for the Panopticon EDR platform.
+     🏷  containment, cybersecurity, edr, endpoint-response, incident-response, panopticon, remediation, response-engine, security-automation, security-engineering, threat-response
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 martise4-art/First-Siem-Deployment
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/martise4-art/First-Siem-Deployment
+     📝 Windows Logs (AD01) Securing the Environment and Testing Environment
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 asoneinstein-design/Sentinel-SOC
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/asoneinstein-design/Sentinel-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 ahmetemirbarlas2010-lgtm/CyberShield
+     ⭐ 2  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/ahmetemirbarlas2010-lgtm/CyberShield
+     📝 Next-Gen EDR Platform with AI Zero-Day Classifier, Micro-Sandbox & MITRE ATT&CK …
+     🏷  cybersecurity, edr, malware-analysis, python, sandbox
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 sentryuhq/fakezoom-screenconnect
+     ⭐ 0  🗣 Batchfile  📅 2026-09-13
+     🔗 https://github.com/sentryuhq/fakezoom-screenconnect
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 nandinpbiju-star/Dynamic-Analyzer
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/nandinpbiju-star/Dynamic-Analyzer
+     📝 Dynamic Malware Analyzer
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 nandinpbiju-star/Static-Analyzer
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/nandinpbiju-star/Static-Analyzer
+     📝 Static Malware Analyzer
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 typicallyajay/bob-ai-hackathon-MindMesh
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/typicallyajay/bob-ai-hackathon-MindMesh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 inan19x/spiEDR
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/inan19x/spiEDR
+     📝 spiEDR is a simple cross-platform, playground-level EDR that monitors files and …
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 raunaksahahere/JOCKY--earhworm-for-forensic
+     ⭐ 0  🗣 C++  📅 2026-09-12
+     🔗 https://github.com/raunaksahahere/JOCKY--earhworm-for-forensic
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 2004js/Sentinel_X
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/2004js/Sentinel_X
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [NEW]   🆕 📦 maissahamdi047-sys/SOC
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/maissahamdi047-sys/SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:10 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-13 15:46:10 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (5gg)
+[2026-09-13 15:46:10 UTC] [UPD]   📢 📦 bajoicheg/g-pc-health-check
+     ⭐ 0  🗣 C#  📅 2026-09-09
+     🔗 https://github.com/bajoicheg/g-pc-health-check
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-13 15:46:10 UTC] [UPD]   📢 📦 artichautttt/siem
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/artichautttt/siem
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-13 15:46:10 UTC] [UPD]   📢 📦 dangtuanhuy-international/Edras-Microservice-Education
+     ⭐ 0  🗣 C#  📅 2026-09-13
+     🔗 https://github.com/dangtuanhuy-international/Edras-Microservice-Education
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-13 15:46:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-13 15:46:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-13 15:46:12 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 15:46:12 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-13 15:46:12 UTC] [NEW]   🆕 📦 Nebulasltd/The-Hack_Point
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/Nebulasltd/The-Hack_Point
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:12 UTC] [NEW]   🆕 📦 BELO10/belo10.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/BELO10/belo10.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 15:46:12 UTC] [NEW]   🆕 📦 markimods/markimods.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/markimods/markimods.github.io
+     📝 WebKit 13.02
+     🏷  —
+[2026-09-13 15:46:12 UTC] [NEW]   🆕 📦 rshamilton/bibscan
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/rshamilton/bibscan
+     📝 Point a camera at runners, read their bib numbers, and show who they are — durin…
+     🏷  —
+[2026-09-13 15:46:12 UTC] [NEW]   🆕 📦 balbaks/warden
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/balbaks/warden
+     📝 Thin orchestration CLI that runs secfix, inlet, husk, witness, and escrow agains…
+     🏷  —
+[2026-09-13 15:46:12 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-13 15:46:12 UTC] [UPD]   📢 📦 apawzee/Cheat-Sheet-PT-2026
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/apawzee/Cheat-Sheet-PT-2026
+     📝 Pentest Cheat Sheet 
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-13 15:46:12 UTC] [UPD]   📢 📦 mZynths/nixos-hil-bench
+     ⭐ 0  🗣 Nix  📅 2026-09-11
+     🔗 https://github.com/mZynths/nixos-hil-bench
+     📝 NixOS Hardware-in-the-Loop bench for embedded development, firmware/binary rever…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-13 15:46:12 UTC] [UPD]   📢 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 9  🗣 C  📅 2026-09-13
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 The definitive zero-to-operator offensive engineering curriculum and operational…
+     🏷  active-directory, anti-forensics, binary-exploitation, c2-framework, cloud-security, cybersecurity, edr-evasion, exploit-development, kernel-exploitation, malware-development, mitre-attack, offensive-rust, offensive-security, opsec, penetration-testing, red-team, reverse-engineering, roadmap, security-research, threat-hunting
+     🔄 Motivo: repo recente (0gg) | nuovi topic: malware-development, reverse-engineering, offensive-security, offensive-rust, opsec, anti-forensics, active-directory, roadmap, kernel-exploitation, exploit-development, c2-framework, penetration-testing, binary-exploitation, security-research, mitre-attack, threat-hunting, cybersecurity, cloud-security, edr-evasion, red-team
+[2026-09-13 15:46:12 UTC] [UPD]   📢 📦 eldorochilov/0xCyberSecUz
+     ⭐ 1  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/eldorochilov/0xCyberSecUz
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-13 15:46:12 UTC] [INFO] ============================================================
+[2026-09-13 15:46:12 UTC] [INFO] Completato — 25 nuovi, 8 aggiornati, 0 errori
+[2026-09-13 15:46:12 UTC] [INFO] ============================================================
