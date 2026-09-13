@@ -83870,3 +83870,235 @@
 [2026-09-12 20:17:38 UTC] [INFO] ============================================================
 [2026-09-12 20:17:38 UTC] [INFO] Completato — 31 nuovi, 7 aggiornati, 0 errori
 [2026-09-12 20:17:38 UTC] [INFO] ============================================================
+[2026-09-13 03:43:44 UTC] [INFO] ============================================================
+[2026-09-13 03:43:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-13 03:43:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-13 03:43:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-13 03:43:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-13 03:43:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-13 03:43:44 UTC] [INFO] ============================================================
+[2026-09-13 03:43:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-13 03:43:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-13 03:43:47 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 03:43:47 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-13 03:43:47 UTC] [NEW]   🆕 📦 planetraman/thermocli
+     ⭐ 0  🗣 C++  📅 2026-09-12
+     🔗 https://github.com/planetraman/thermocli
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:47 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-13 03:43:47 UTC] [UPD]   📢 📦 5forzin/abraham
+     ⭐ 0  🗣 Rust  📅 2026-09-12
+     🔗 https://github.com/5forzin/abraham
+     📝 A critique of the conditions of possibility of trust in kernel space — every tec…
+     🏷  detection-engineering, rust, security-research, windows-internals
+     🔄 Motivo: repo recente (0gg)
+[2026-09-13 03:43:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-13 03:43:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-13 03:43:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 Unoun-Gani/AlertSentry
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Unoun-Gani/AlertSentry
+     📝 AlertSentry — an automated SOC L1 triage tool (fits since it "watches" alerts/em…
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 dragon-str/fastmode-md
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/dragon-str/fastmode-md
+     📝 Audit fast-mode GROMACS integration settings against a 2 fs reference
+     🏷  computational-chemistry, gromacs, md-simulation, molecular-dynamics, molecular-simulation, python, reproducibility, validation
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 ry-ktlh/xteink-x4-jp-firmware
+     ⭐ 0  🗣 C  📅 2026-09-13
+     🔗 https://github.com/ry-ktlh/xteink-x4-jp-firmware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 proton43573/Terminator
+     ⭐ 1  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/proton43573/Terminator
+     📝 windows edr antivirüs sistemi
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 dangtuanhuy-international/Edras-Microservice-Education
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/dangtuanhuy-international/Edras-Microservice-Education
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 recronge9/edrsbc
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/recronge9/edrsbc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 Nithin078/Nomen
+     ⭐ 0  🗣 C++  📅 2026-09-13
+     🔗 https://github.com/Nithin078/Nomen
+     📝 Firewall that still sees names — userspace Windows host egress controller (WFP +…
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 johngalt603/Hyper-V
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/johngalt603/Hyper-V
+     📝 MS Hyper-V Resources, References, & Guides
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 Aryan-Nair-2006/we-kan-code
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/Aryan-Nair-2006/we-kan-code
+     📝 HackQuest Hackathon
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 KammerKev/Microsoft-Defender-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/KammerKev/Microsoft-Defender-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 tremfs/p-kernyx
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/tremfs/p-kernyx
+     📝 Linux EDR with Vulnerability Management
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 n4uu/wraith
+     ⭐ 0  🗣 C  📅 2026-09-12
+     🔗 https://github.com/n4uu/wraith
+     📝 eBPF sensor for fileless execution and process injection on Linux: six tracepoin…
+     🏷  detection-engineering, ebpf, golang, linux-security, malware-analysis, mitre-attack, process-injection, threat-detection
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 SteveBlackbeard/NULLA-LABS
+     ⭐ 0  🗣 JavaScript  📅 2026-09-12
+     🔗 https://github.com/SteveBlackbeard/NULLA-LABS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 BlackSentinel-Cibersecurity/blacksentinel-forge-free
+     ⭐ 0  🗣 TypeScript  📅 2026-09-12
+     🔗 https://github.com/BlackSentinel-Cibersecurity/blacksentinel-forge-free
+     📝 BlackSentinel Forge — Free / Open-Source Edition (limited: no AI decision engine…
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 xtb20/Organization-Security-Plan
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/xtb20/Organization-Security-Plan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 BlackSentinel-Cibersecurity/blacksentinel-guardian-free
+     ⭐ 0  🗣 TypeScript  📅 2026-09-12
+     🔗 https://github.com/BlackSentinel-Cibersecurity/blacksentinel-guardian-free
+     📝 BlackSentinel Guardian — Free / Open-Source Edition (limited: no AI Copilot, Dec…
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 JUMMIE-tech/Threat-Intelligence
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/JUMMIE-tech/Threat-Intelligence
+     📝 Leveraging OSINT for Business Risk Profiling and Threat Assessment
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 HCBequipe/projeto-Ransomware-em-python
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/HCBequipe/projeto-Ransomware-em-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 LisandraDv/LisandraDv
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/LisandraDv/LisandraDv
+     📝 Cloud & Cybersecurity Engineer | Azure Infrastructure | IAM | Microsoft Security
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 lautaroperezg/Proyectos
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/lautaroperezg/Proyectos
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 pythonhellimasta/edrmgb
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/pythonhellimasta/edrmgb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 ddvabbvxv-cmyk/edrsgdg
+     ⭐ 1  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/ddvabbvxv-cmyk/edrsgdg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 shreesaravanan24-ss/cyber-risk-analyzer
+     ⭐ 0  🗣 Java  📅 2026-09-12
+     🔗 https://github.com/shreesaravanan24-ss/cyber-risk-analyzer
+     📝 Enterprise Cyber Risk & Security Investment Optimization Platform for FinSecure …
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 ryker-ai/PORTAFOLIO
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/ryker-ai/PORTAFOLIO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 jajof90969-glitch/DAN-prompt
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/jajof90969-glitch/DAN-prompt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [NEW]   🆕 📦 firecstud/wiimoted
+     ⭐ 0  🗣 C++  📅 2026-09-12
+     🔗 https://github.com/firecstud/wiimoted
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:50 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-13 03:43:50 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (4gg)
+[2026-09-13 03:43:50 UTC] [UPD]   📢 📦 osamashalabi432-png/doc-osamashalabi
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/osamashalabi432-png/doc-osamashalabi
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-13 03:43:50 UTC] [UPD]   📢 📦 aa22396584/aa22396584
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/aa22396584/aa22396584
+     📝 Profile README
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-13 03:43:50 UTC] [UPD]   📢 📦 KikeMuller/Cat-ServerFullReport
+     ⭐ 0  🗣 Shell  📅 2026-09-12
+     🔗 https://github.com/KikeMuller/Cat-ServerFullReport
+     📝 Inventario as-built y health check de servidores Linux en un solo script de bash…
+     🏷  as-built, audit, bash, centos, cis-benchmark, devops, health-check, inventory, iso27001, linux, redhat, security-audit, server-management, suse, sysadmin, ubuntu
+     🔄 Motivo: repo recente (0gg)
+[2026-09-13 03:43:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-13 03:43:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-13 03:43:52 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 03:43:52 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-09-13 03:43:52 UTC] [NEW]   🆕 📦 nhan210105/Tn19
+     ⭐ 0  🗣 Swift  📅 2026-09-12
+     🔗 https://github.com/nhan210105/Tn19
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:52 UTC] [NEW]   🆕 📦 nhan210105/Tn20-
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/nhan210105/Tn20-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:52 UTC] [NEW]   🆕 📦 saivishwaa/eJPT-Prep-Guide
+     ⭐ 1  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/saivishwaa/eJPT-Prep-Guide
+     📝 eJPT (Junior Penetration Tester) preparation and revision guide with practical p…
+     🏷  —
+[2026-09-13 03:43:52 UTC] [NEW]   🆕 📦 nhan210105/Tn18
+     ⭐ 0  🗣 Swift  📅 2026-09-12
+     🔗 https://github.com/nhan210105/Tn18
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 03:43:52 UTC] [NEW]   🆕 📦 MeisterLone/Amazon-Fire7-HD-Rooted-Unlocked
+     ⭐ 0  🗣 Shell  📅 2026-09-12
+     🔗 https://github.com/MeisterLone/Amazon-Fire7-HD-Rooted-Unlocked
+     📝 Liberate your Fire 7 12th Gen (quartz / MT8168): Persistent bootloader unlock, M…
+     🏷  —
+[2026-09-13 03:43:52 UTC] [NEW]   🆕 📦 genksome/a17-offsets
+     ⭐ 0  🗣 C  📅 2026-09-12
+     🔗 https://github.com/genksome/a17-offsets
+     📝 Pre-generated BTF offsets for Samsung Galaxy A17 (BZA5, kernel 6.12.23)
+     🏷  android, bza5, kernel, offsets, samsung
+[2026-09-13 03:43:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-13 03:43:52 UTC] [UPD]   📢 📦 nhan210105/Tn10
+     ⭐ 0  🗣 Swift  📅 2026-09-11
+     🔗 https://github.com/nhan210105/Tn10
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-13 03:43:52 UTC] [UPD]   📢 📦 Rusickk1995/pentest-roadmap-ru
+     ⭐ 1  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/Rusickk1995/pentest-roadmap-ru
+     📝 Путь от нуля до Junior Pentester: Networking, Linux, Windows, Web, Active Direct…
+     🏷  active-directory, cybersecurity, cybersecurity-roadmap, ethical-hacking, infosec, learning, linux, network-security, networking, penetration-testing, pentesting, pentesting-roadmap, russian, web-security, windows
+     🔄 Motivo: repo recente (2gg)
+[2026-09-13 03:43:52 UTC] [INFO] ============================================================
+[2026-09-13 03:43:52 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
+[2026-09-13 03:43:52 UTC] [INFO] ============================================================
