@@ -84102,3 +84102,227 @@
 [2026-09-13 03:43:52 UTC] [INFO] ============================================================
 [2026-09-13 03:43:52 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
 [2026-09-13 03:43:52 UTC] [INFO] ============================================================
+[2026-09-13 11:15:58 UTC] [INFO] ============================================================
+[2026-09-13 11:15:58 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-13 11:15:58 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-13 11:15:58 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-13 11:15:58 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-13 11:15:58 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-13 11:15:58 UTC] [INFO] ============================================================
+[2026-09-13 11:15:58 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-13 11:15:58 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-13 11:16:00 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 11:16:00 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-13 11:16:00 UTC] [NEW]   🆕 📦 rainfantry/persistence-triage
+     ⭐ 0  🗣 PowerShell  📅 2026-09-13
+     🔗 https://github.com/rainfantry/persistence-triage
+     📝 Windows persistence hunting toolkit - offline forensic investigation
+     🏷  —
+[2026-09-13 11:16:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-13 11:16:00 UTC] [UPD]   📢 📦 TRI7AAN/Jangiya
+     ⭐ 1  🗣 C++  📅 2026-09-11
+     🔗 https://github.com/TRI7AAN/Jangiya
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-13 11:16:00 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-13 11:16:00 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-13 11:16:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 29 NUOVI repository:
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 NdrZet/Omni-Eye
+     ⭐ 0  🗣 C#  📅 2026-09-13
+     🔗 https://github.com/NdrZet/Omni-Eye
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 Aamod007/Harness
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Aamod007/Harness
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 adyoi/WymC2
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/adyoi/WymC2
+     📝 Wym C2 are What you missed is Command and Control Frameworks
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 Git805/ai-soc-investigation-engine
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Git805/ai-soc-investigation-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 Nobodyz-404/Malware_project
+     ⭐ 0  🗣 HTML  📅 2026-09-13
+     🔗 https://github.com/Nobodyz-404/Malware_project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 maissahamdi047-sys/AsyncRAT
+     ⭐ 0  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/maissahamdi047-sys/AsyncRAT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 Justine976/eDraw
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/Justine976/eDraw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 ciphralab/windows11-antimalware-evaluation
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/ciphralab/windows11-antimalware-evaluation
+     📝 Objective, region-specific anti-malware recommendations for Windows 11, evaluati…
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 ishxn-s11/cerberus-ai
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/ishxn-s11/cerberus-ai
+     📝 CERBERUS AI is an autonomous SOC agent that investigates security alerts, verifi…
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 AeonMind-hub/ip-tracking-lab
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/AeonMind-hub/ip-tracking-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 k4nz1er/k4nz1er
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/k4nz1er/k4nz1er
+     📝 Lead Information Security Specialist | Red/Purple Teaming & Reverse Engineering
+     🏷  cybersecurity, malware-analysis, offensive-security, purple-team, red-ream, reverse-engineering, threat-emulation
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 MotionflowOffical/UniversalDLSS5
+     ⭐ 0  🗣 C++  📅 2026-09-12
+     🔗 https://github.com/MotionflowOffical/UniversalDLSS5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 ullas23/Windows11-ReverseShell
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/ullas23/Windows11-ReverseShell
+     📝 Reverse Shell via Meterpreter Windows x64 Reverse-TCP Executable Payload
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 zyraaatod/Sixth
+     ⭐ 0  🗣 HTML  📅 2026-09-12
+     🔗 https://github.com/zyraaatod/Sixth
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 niraj-cmd/STAGING_TECHNIQUES
+     ⭐ 0  🗣 C  📅 2026-09-13
+     🔗 https://github.com/niraj-cmd/STAGING_TECHNIQUES
+     📝 ⚡ Windows C-based security research loader exploring WinINet, remote payload ret…
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 Jaisurya2823/Security-AutoPilot-Agent-V2
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Jaisurya2823/Security-AutoPilot-Agent-V2
+     📝 Option 1 (technical)  Autonomous AI security agent for alert triage, threat mode…
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 adhamekramy1/EDRAK
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/adhamekramy1/EDRAK
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 haikalaiman-dev/haikalaiman-dev
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/haikalaiman-dev/haikalaiman-dev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 sundaramyadav-55632/SentinelSOC
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/sundaramyadav-55632/SentinelSOC
+     📝 Unified Cyber Defense and Mini-SOC platform built with Python
+     🏷  cybersecurity, detection-engineering, fastapi, incident-response, python, security-monitoring, siem, soc, sqlite, threat-detection
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 freingruber/VibeEDR
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/freingruber/VibeEDR
+     📝 Placeholder for my EDR developed with Codex
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 Sandilyakavi/-Linux-Security-Monitor-Intrusion-Detection-System
+     ⭐ 0  🗣 JavaScript  📅 2026-09-12
+     🔗 https://github.com/Sandilyakavi/-Linux-Security-Monitor-Intrusion-Detection-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 Revprm/wazuh-homelab
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/Revprm/wazuh-homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 cybermarksecurity-alt/How-are-small-teams-actually-handling-EDR-Not-another-just-use-CrowdStrike-thread-
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/cybermarksecurity-alt/How-are-small-teams-actually-handling-EDR-Not-another-just-use-CrowdStrike-thread-
+     📝 A comparison of 7 EDR platforms by independent SoftwareReviews scores, plus an o…
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 aumghelani/MyEDR
+     ⭐ 0  🗣 C  📅 2026-09-13
+     🔗 https://github.com/aumghelani/MyEDR
+     📝 Minimal educational Windows EDR: WDM kernel driver with notification callbacks p…
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 Stufusic/CyberV
+     ⭐ 0  🗣 Rust  📅 2026-09-13
+     🔗 https://github.com/Stufusic/CyberV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 sifatnotes/comptia-security-plus-sy0-701-study-guide
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/sifatnotes/comptia-security-plus-sy0-701-study-guide
+     📝 Complete CompTIA Security+ SY0-701 study guide with exam objectives, security no…
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 0xf-0/indirect-syscall
+     ⭐ 1  🗣 C++  📅 2026-09-13
+     🔗 https://github.com/0xf-0/indirect-syscall
+     📝 lightweight x64 indirect syscall resolver with halo's gate in c++17
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 Laibacodes/threat-intel-llm-summarizer
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Laibacodes/threat-intel-llm-summarizer
+     📝 LLM-powered threat intelligence summarizer using VirusTotal and URLhaus.
+     🏷  —
+[2026-09-13 11:16:03 UTC] [NEW]   🆕 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 2  🗣 C  📅 2026-09-13
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:03 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-13 11:16:03 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (4gg)
+[2026-09-13 11:16:03 UTC] [UPD]   📢 📦 bajoicheg/g-pc-health-check
+     ⭐ 0  🗣 C#  📅 2026-09-09
+     🔗 https://github.com/bajoicheg/g-pc-health-check
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-13 11:16:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-13 11:16:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-13 11:16:05 UTC] [INFO]   → 23 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 11:16:05 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-13 11:16:05 UTC] [NEW]   🆕 📦 BELO10/goldhen-host-test
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/BELO10/goldhen-host-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:05 UTC] [NEW]   🆕 📦 2favapt/zscript
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/2favapt/zscript
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:05 UTC] [NEW]   🆕 📦 ggbg6666/ps4jb
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/ggbg6666/ps4jb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:05 UTC] [NEW]   🆕 📦 Elmo7tarf0/4
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/Elmo7tarf0/4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:05 UTC] [NEW]   🆕 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 2  🗣 C  📅 2026-09-13
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 11:16:05 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-13 11:16:05 UTC] [UPD]   📢 📦 eldorochilov/0xCyberSecUz
+     ⭐ 1  🗣 N/A  📅 2026-09-12
+     🔗 https://github.com/eldorochilov/0xCyberSecUz
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-13 11:16:05 UTC] [INFO] ============================================================
+[2026-09-13 11:16:05 UTC] [INFO] Completato — 35 nuovi, 4 aggiornati, 0 errori
+[2026-09-13 11:16:05 UTC] [INFO] ============================================================
