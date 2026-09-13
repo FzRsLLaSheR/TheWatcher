@@ -84524,3 +84524,285 @@
 [2026-09-13 15:46:12 UTC] [INFO] ============================================================
 [2026-09-13 15:46:12 UTC] [INFO] Completato — 25 nuovi, 8 aggiornati, 0 errori
 [2026-09-13 15:46:12 UTC] [INFO] ============================================================
+[2026-09-13 20:27:33 UTC] [INFO] ============================================================
+[2026-09-13 20:27:33 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-13 20:27:33 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-13 20:27:33 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-13 20:27:33 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-13 20:27:33 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-13 20:27:33 UTC] [INFO] ============================================================
+[2026-09-13 20:27:33 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-13 20:27:33 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-13 20:27:35 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 20:27:35 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-13 20:27:35 UTC] [NEW]   🆕 📦 methmind/gomik
+     ⭐ 1  🗣 C++  📅 2026-09-13
+     🔗 https://github.com/methmind/gomik
+     📝 Windows process memory mirroring through the signed vulnerable Panda driver PSME…
+     🏷  byovd, cpp20, cr3, cve, driver, exploit, memory, vulnerable, vulnerable-driver, windows
+[2026-09-13 20:27:35 UTC] [NEW]   🆕 📦 wwwab123/pxscan_ZwDeleteFile_ZwTerminateProcess_BSOD_BYOVD
+     ⭐ 0  🗣 C++  📅 2026-09-13
+     🔗 https://github.com/wwwab123/pxscan_ZwDeleteFile_ZwTerminateProcess_BSOD_BYOVD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:35 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-13 20:27:35 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-13 20:27:35 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-13 20:27:37 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 35 NUOVI repository:
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 gekoli/edrwdmy
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/gekoli/edrwdmy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 harish-ravichandra/endpointsweep
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/harish-ravichandra/endpointsweep
+     📝 Find every MCP server and AI agent on your endpoint fleet. Dependency-free colle…
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 mccabedd/tinyredactiontool
+     ⭐ 0  🗣 PowerShell  📅 2026-09-12
+     🔗 https://github.com/mccabedd/tinyredactiontool
+     📝 A lightweight Windows tool for redacting sensitive areas in videos and images us…
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 Consortium-EDR/Scripts
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/Consortium-EDR/Scripts
+     📝 Scripts for various EDRs
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 jeonck/explaineasily
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/jeonck/explaineasily
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 Consortium-EDR/Reports
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/Consortium-EDR/Reports
+     📝 Report files for various EDRs
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 thot-corp/thot-secure
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/thot-corp/thot-secure
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 hornmichael3/edrqnto
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/hornmichael3/edrqnto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 sob3rnull/sentinalflow
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/sob3rnull/sentinalflow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 jalalym256-gif/Edris123
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/jalalym256-gif/Edris123
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 thisismycv/forensic-lab-report-
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/thisismycv/forensic-lab-report-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 cliffcollinsjr-cyber/cybersecurity-portfolio
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/cliffcollinsjr-cyber/cybersecurity-portfolio
+     📝 Hiring-ready cybersecurity portfolio: IR/SIEM, SOC automation, Defender EDR, Pal…
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 samuelgodoy/samuelgodoy
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/samuelgodoy/samuelgodoy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 TOOSHY2/Ashford-Grove-SOC
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/TOOSHY2/Ashford-Grove-SOC
+     📝 Evidence-backed SOC L1 portfolio: 100 detection and investigation scenarios acro…
+     🏷  active-directory, blue-team, cybersecurity, detection-engineering, dfir, incident-response, mitre-attack, security-onion, siem, soc, threat-hunting, wazuh
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 svrajadba/esp32-frostwatch
+     ⭐ 0  🗣 C++  📅 2026-09-13
+     🔗 https://github.com/svrajadba/esp32-frostwatch
+     📝 Touchscreen ESP32 dashboard that reads a BLE temperature/humidity sensor, auto-c…
+     🏷  arduino, ble, esp32, home-automation, iot, smart-home, switchbot, tft-espi, touchscreen, tuya
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 tj003/AI-Powered-Cyber-Risk-Assistant
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/tj003/AI-Powered-Cyber-Risk-Assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 SchiadaresisC/nexora-dynamics-incident-investigation
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/SchiadaresisC/nexora-dynamics-incident-investigation
+     📝 Academic DFIR investigation of a simulated enterprise compromise involving phish…
+     🏷  cybersecurity, dfir, digital-forensics, incident-response, log-analysis, mitre-attack, network-security, powershell, soc, threat-analysis
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 Shika248/WinGuard-Windows-Threat-Detection-Security-Analyzer-Software
+     ⭐ 0  🗣 HTML  📅 2026-09-13
+     🔗 https://github.com/Shika248/WinGuard-Windows-Threat-Detection-Security-Analyzer-Software
+     📝 AI-powered Windows cybersecurity analyzer software for process monitoring, anoma…
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 krishagg2029/cyber-risk-ai
+     ⭐ 0  🗣 Python  📅 2026-09-12
+     🔗 https://github.com/krishagg2029/cyber-risk-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 pairswap5150/ps-aviation
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/pairswap5150/ps-aviation
+     📝 NASR Data parser
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 D1se0/educationalMalware
+     ⭐ 1  🗣 TypeScript  📅 2026-09-13
+     🔗 https://github.com/D1se0/educationalMalware
+     📝 🛡️ Laboratorio educativo para probar EDRs: orquestador purple team (panel web + …
+     🏷  attack-simulation, cibersecurity, detection-engineering, edr, edr-testing, educational, endpoint-security, lab, malware-analysis, mitre-attack, nodejs, purple-team, react, security-testing, soc, telegram-bot, typescript, windows
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 KawaiiIRi/WindowsServerPatchAutomation
+     ⭐ 0  🗣 PowerShell  📅 2026-09-13
+     🔗 https://github.com/KawaiiIRi/WindowsServerPatchAutomation
+     📝 Infrastructure Automation for Vulnerability Mitigation.
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 sakibrezalunik/file-integrity-monitor
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/sakibrezalunik/file-integrity-monitor
+     📝 Cryptographic file integrity monitoring tool with real-time detection and a live…
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 EazyHood/reorg-lab
+     ⭐ 0  🗣 TypeScript  📅 2026-09-13
+     🔗 https://github.com/EazyHood/reorg-lab
+     📝 Reproduce stale event projections after a local EVM branch replacement. Inspect …
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 CristianNLC/KILLVirus---NextGen-Forensics-Local-EDR
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/CristianNLC/KILLVirus---NextGen-Forensics-Local-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 jasiek/esp32-bluetooth-pan-proto
+     ⭐ 0  🗣 C  📅 2026-09-13
+     🔗 https://github.com/jasiek/esp32-bluetooth-pan-proto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 PRANAVSONAR23/Personal-Security-Monitor
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/PRANAVSONAR23/Personal-Security-Monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 vimalrootben/Zero-Trust-Continuous-Authentication-Framework-for-Insider-Threat-Detection-and-Response
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/vimalrootben/Zero-Trust-Continuous-Authentication-Framework-for-Insider-Threat-Detection-and-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 zwsx990099-create/security_roblox
+     ⭐ 0  🗣 Lua  📅 2026-09-12
+     🔗 https://github.com/zwsx990099-create/security_roblox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 SURYA16-T/DeceptEnv
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/SURYA16-T/DeceptEnv
+     📝 (nessuna descrizione)
+     🏷  active-defense, cybersecurity, endpoint-security, infostealer, malware-analysis, python, systems-programming
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 lufeidebug/CTKDTestApp
+     ⭐ 0  🗣 Java  📅 2026-09-13
+     🔗 https://github.com/lufeidebug/CTKDTestApp
+     📝 CTKD Headphones Test App - Android BLE / BR-EDR dual-mode bonding test tool
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 ustdbus/cunnel
+     ⭐ 0  🗣 Go  📅 2026-09-13
+     🔗 https://github.com/ustdbus/cunnel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 ZeyadAssem/sentinelguard
+     ⭐ 0  🗣 TypeScript  📅 2026-09-13
+     🔗 https://github.com/ZeyadAssem/sentinelguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 Lolavine777/play-the-game
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Lolavine777/play-the-game
+     📝 It's so easy when you know the rules
+     🏷  —
+[2026-09-13 20:27:37 UTC] [NEW]   🆕 📦 willamstru/edrzhp
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/willamstru/edrzhp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:37 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-13 20:27:37 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (5gg)
+[2026-09-13 20:27:37 UTC] [UPD]   📢 📦 bajoicheg/g-pc-health-check
+     ⭐ 0  🗣 C#  📅 2026-09-09
+     🔗 https://github.com/bajoicheg/g-pc-health-check
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-13 20:27:37 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-13 20:27:37 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-13 20:27:40 UTC] [INFO]   → 33 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-13 20:27:40 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-09-13 20:27:40 UTC] [NEW]   🆕 📦 vonhatqui/ipa
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/vonhatqui/ipa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:40 UTC] [NEW]   🆕 📦 EnyellValdez/EnyellTools
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/EnyellValdez/EnyellTools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:40 UTC] [NEW]   🆕 📦 WayneEnterprisesec/ctf-arsenal
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/WayneEnterprisesec/ctf-arsenal
+     📝 Research-grade CTF writeups, automated exploit chains & mathematical cryptanalys…
+     🏷  —
+[2026-09-13 20:27:40 UTC] [NEW]   🆕 📦 EitaPreulaJhol/ida_mcp
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/EitaPreulaJhol/ida_mcp
+     📝 A simple IDA Pro MCP Server for your reverse engineering needs!
+     🏷  ida-plugin, idapro, idapython, mcp-server, reverse-engineering
+[2026-09-13 20:27:40 UTC] [NEW]   🆕 📦 EnyellValdez/ALEXLANDS
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/EnyellValdez/ALEXLANDS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-13 20:27:40 UTC] [NEW]   🆕 📦 ykhoroshevskiy-tech/cell
+     ⭐ 0  🗣 Go  📅 2026-09-13
+     🔗 https://github.com/ykhoroshevskiy-tech/cell
+     📝 Isolate coding agents in microVMs. Full shell access, bounded blast radius.
+     🏷  —
+[2026-09-13 20:27:40 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-13 20:27:40 UTC] [UPD]   📢 📦 Rusickk1995/pentest-roadmap-ru
+     ⭐ 1  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/Rusickk1995/pentest-roadmap-ru
+     📝 Путь от нуля до Junior Pentester: Networking, Linux, Windows, Web, Active Direct…
+     🏷  active-directory, cybersecurity, cybersecurity-roadmap, ethical-hacking, infosec, learning, linux, network-security, networking, penetration-testing, pentesting, pentesting-roadmap, russian, web-security, windows
+     🔄 Motivo: repo recente (2gg)
+[2026-09-13 20:27:40 UTC] [UPD]   📢 📦 mZynths/nixos-hil-bench
+     ⭐ 0  🗣 Nix  📅 2026-09-11
+     🔗 https://github.com/mZynths/nixos-hil-bench
+     📝 NixOS Hardware-in-the-Loop bench for embedded development, firmware/binary rever…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-13 20:27:40 UTC] [UPD]   📢 📦 SatvikO7/codearena
+     ⭐ 0  🗣 Java  📅 2026-09-10
+     🔗 https://github.com/SatvikO7/codearena
+     📝 CodeArena - an online judge that compiles and runs untrusted submissions in disp…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-13 20:27:40 UTC] [UPD]   📢 📦 BELO10/belo10.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/BELO10/belo10.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-13 20:27:40 UTC] [UPD]   📢 📦 Nebulasltd/The-Hack_Point
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/Nebulasltd/The-Hack_Point
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-13 20:27:40 UTC] [INFO] ============================================================
+[2026-09-13 20:27:40 UTC] [INFO] Completato — 43 nuovi, 7 aggiornati, 0 errori
+[2026-09-13 20:27:40 UTC] [INFO] ============================================================
