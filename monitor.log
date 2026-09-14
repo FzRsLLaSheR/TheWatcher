@@ -84806,3 +84806,230 @@
 [2026-09-13 20:27:40 UTC] [INFO] ============================================================
 [2026-09-13 20:27:40 UTC] [INFO] Completato — 43 nuovi, 7 aggiornati, 0 errori
 [2026-09-13 20:27:40 UTC] [INFO] ============================================================
+[2026-09-14 03:52:14 UTC] [INFO] ============================================================
+[2026-09-14 03:52:14 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-14 03:52:14 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-14 03:52:14 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-14 03:52:14 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-14 03:52:14 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-14 03:52:14 UTC] [INFO] ============================================================
+[2026-09-14 03:52:14 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-14 03:52:14 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-14 03:52:16 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-14 03:52:16 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-14 03:52:16 UTC] [NEW]   🆕 📦 varilm/byovde
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/varilm/byovde
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:16 UTC] [NEW]   🆕 📦 uLl0a/bdapiutil-bydov
+     ⭐ 0  🗣 C++  📅 2026-09-13
+     🔗 https://github.com/uLl0a/bdapiutil-bydov
+     📝 C++ Windows research tool for studying the BdApiUtil64.sys vulnerable driver and…
+     🏷  —
+[2026-09-14 03:52:16 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-14 03:52:16 UTC] [UPD]   📢 📦 5forzin/abraham
+     ⭐ 0  🗣 Rust  📅 2026-09-12
+     🔗 https://github.com/5forzin/abraham
+     📝 Purple-team C2 research framework for Windows. Every offensive technique ships w…
+     🏷  detection-engineering, rust, security-research, windows-internals
+     🔄 Motivo: repo recente (1gg)
+[2026-09-14 03:52:16 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-14 03:52:16 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-14 03:52:18 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 dyevenwyw/maclean
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/dyevenwyw/maclean
+     📝 mac清理已经删除的应用项目的残留，清理不断重建的幽灵服务
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 VulneraDev/RATtler
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/VulneraDev/RATtler
+     📝 Open-source behavioral anti-RAT endpoint monitor
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 Dreveian/Edrian
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Dreveian/Edrian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 Arthurs011/raven
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Arthurs011/raven
+     📝 Offline, deterministic runtime-behavior analysis & attack-chain detection for Li…
+     🏷  attack-chains, blue-team, detection-engineering, deterministic, ebpf, linux-security, python, security-analytics, tetragon, threat-detection
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 Edrolo/edrolo-cli
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Edrolo/edrolo-cli
+     📝 Edrolo CLI releases
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 m4n14ck/Maldev-C
+     ⭐ 0  🗣 C  📅 2026-09-13
+     🔗 https://github.com/m4n14ck/Maldev-C
+     📝 MalDev-C — Técnicas de desarrollo de malware en C para operadores de Red Team. I…
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 Edrolo/homebrew-edrolo
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Edrolo/homebrew-edrolo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 robinwintertaylor/Sentry
+     ⭐ 0  🗣 PowerShell  📅 2026-09-14
+     🔗 https://github.com/robinwintertaylor/Sentry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 majidoussama/secure-network-fortigate-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-09-14
+     🔗 https://github.com/majidoussama/secure-network-fortigate-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 MikeTechSecurity/WhoAmI
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/MikeTechSecurity/WhoAmI
+     📝 Cybersecurity portfolio, homelab projects, network security, infrastructure, and…
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 MiracleDvm/ir-firstline
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/MiracleDvm/ir-firstline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 na-tamim00/my-portfolio
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/na-tamim00/my-portfolio
+     📝 Md. Nurul Anwar — Enterprise Cloud & Systems Engineering Portfolio
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 UTTAL-KUMAR-RAWANI/sat-sa-website
+     ⭐ 0  🗣 TypeScript  📅 2026-09-13
+     🔗 https://github.com/UTTAL-KUMAR-RAWANI/sat-sa-website
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 na-tamim00/sentinel-cyber-edr
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/na-tamim00/sentinel-cyber-edr
+     📝 Autonomous SIEM & threat-hunting platform processing 100,000+ packets/sec with m…
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 azurejoga/claude-bypass
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/azurejoga/claude-bypass
+     📝 Bypass
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 adop05/adop05
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/adop05/adop05
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 Gauravi-01/Malware-Analysis-Sandbox-Tool
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/Gauravi-01/Malware-Analysis-Sandbox-Tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 paul-bkt/edrgab
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/paul-bkt/edrgab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [NEW]   🆕 📦 ravexadmain-png/edroply
+     ⭐ 0  🗣 HTML  📅 2026-09-13
+     🔗 https://github.com/ravexadmain-png/edroply
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:18 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-14 03:52:18 UTC] [UPD]   📢 📦 gekoli/edrwdmy
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/gekoli/edrwdmy
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-14 03:52:18 UTC] [UPD]   📢 📦 thot-corp/thot-secure
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/thot-corp/thot-secure
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-14 03:52:18 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (5gg)
+[2026-09-14 03:52:18 UTC] [UPD]   📢 📦 ustdbus/cunnel
+     ⭐ 0  🗣 Go  📅 2026-09-13
+     🔗 https://github.com/ustdbus/cunnel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-14 03:52:18 UTC] [UPD]   📢 📦 bajoicheg/g-pc-health-check
+     ⭐ 0  🗣 C#  📅 2026-09-09
+     🔗 https://github.com/bajoicheg/g-pc-health-check
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-14 03:52:18 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-14 03:52:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-14 03:52:20 UTC] [INFO]   → 22 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-14 03:52:20 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-14 03:52:20 UTC] [NEW]   🆕 📦 amineelghazi/HTB-reports
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/amineelghazi/HTB-reports
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:20 UTC] [NEW]   🆕 📦 bts2019amo-ctrl/3105-compiled
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/bts2019amo-ctrl/3105-compiled
+     📝 Compiled build of YangJiiii/3105
+     🏷  —
+[2026-09-14 03:52:20 UTC] [NEW]   🆕 📦 kakaka1234567890000ka-lab/main
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/kakaka1234567890000ka-lab/main
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:20 UTC] [NEW]   🆕 📦 Freedomjet/venom4.0
+     ⭐ 0  🗣 JavaScript  📅 2026-09-14
+     🔗 https://github.com/Freedomjet/venom4.0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:20 UTC] [NEW]   🆕 📦 Freedomjet/venom4.1
+     ⭐ 0  🗣 JavaScript  📅 2026-09-14
+     🔗 https://github.com/Freedomjet/venom4.1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 03:52:20 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-09-14 03:52:20 UTC] [UPD]   📢 📦 EitaPreulaJhol/ida_mcp
+     ⭐ 1  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/EitaPreulaJhol/ida_mcp
+     📝 A simple IDA Pro MCP Server for your reverse engineering needs!
+     🏷  ida-plugin, idapro, idapython, mcp-server, reverse-engineering
+     🔄 Motivo: repo recente (0gg)
+[2026-09-14 03:52:20 UTC] [UPD]   📢 📦 SatvikO7/codearena
+     ⭐ 0  🗣 Java  📅 2026-09-10
+     🔗 https://github.com/SatvikO7/codearena
+     📝 CodeArena - an online judge that compiles and runs untrusted submissions in disp…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-14 03:52:20 UTC] [UPD]   📢 📦 vonhatqui/ipa
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/vonhatqui/ipa
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-14 03:52:20 UTC] [UPD]   📢 📦 JJRoberts902/POC
+     ⭐ 0  🗣 JavaScript  📅 2026-09-11
+     🔗 https://github.com/JJRoberts902/POC
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-14 03:52:20 UTC] [UPD]   📢 📦 BELO10/belo10.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/BELO10/belo10.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-14 03:52:20 UTC] [UPD]   📢 📦 Rusickk1995/pentest-roadmap-ru
+     ⭐ 1  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/Rusickk1995/pentest-roadmap-ru
+     📝 Путь от нуля до Junior Pentester: Networking, Linux, Windows, Web, Active Direct…
+     🏷  active-directory, cybersecurity, cybersecurity-roadmap, ethical-hacking, infosec, learning, linux, network-security, networking, penetration-testing, pentesting, pentesting-roadmap, russian, web-security, windows
+     🔄 Motivo: repo recente (3gg)
+[2026-09-14 03:52:20 UTC] [INFO] ============================================================
+[2026-09-14 03:52:20 UTC] [INFO] Completato — 26 nuovi, 12 aggiornati, 0 errori
+[2026-09-14 03:52:20 UTC] [INFO] ============================================================
