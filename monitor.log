@@ -85342,3 +85342,324 @@
 [2026-09-14 12:05:05 UTC] [INFO] ============================================================
 [2026-09-14 12:05:05 UTC] [INFO] Completato — 46 nuovi, 9 aggiornati, 0 errori
 [2026-09-14 12:05:05 UTC] [INFO] ============================================================
+[2026-09-14 21:35:56 UTC] [INFO] ============================================================
+[2026-09-14 21:35:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-14 21:35:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-14 21:35:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-14 21:35:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-14 21:35:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-14 21:35:56 UTC] [INFO] ============================================================
+[2026-09-14 21:35:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-14 21:35:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-14 21:35:58 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-14 21:35:58 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-14 21:35:58 UTC] [NEW]   🆕 📦 cli0xfa/cli0xfa
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/cli0xfa/cli0xfa
+     📝 Windows kernel & low-level security research · profile README
+     🏷  —
+[2026-09-14 21:35:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-14 21:35:58 UTC] [UPD]   📢 📦 TRI7AAN/Jangiya
+     ⭐ 1  🗣 C++  📅 2026-09-11
+     🔗 https://github.com/TRI7AAN/Jangiya
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-14 21:35:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-14 21:35:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-14 21:36:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 42 NUOVI repository:
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 kamikaze-05/Detection-Coverage-Engine
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/kamikaze-05/Detection-Coverage-Engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 dontrellwest/win11-troubleshooting-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-09-14
+     🔗 https://github.com/dontrellwest/win11-troubleshooting-toolkit
+     📝 30 PowerShell diagnostic and repair tools for Windows 11 on AD + Microsoft 365, …
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 lancasteralicia49-lgtm/cybersecurity-career-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/lancasteralicia49-lgtm/cybersecurity-career-portfolio
+     📝 Cybersecurity projects, SOC simulations, incident response, technical labs, and …
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 spearb0lt/ai-cyber-risk-assistant
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/spearb0lt/ai-cyber-risk-assistant
+     📝 Prioritised, explainable cyber risk: ranks vulnerabilities by exposure, confirme…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 eahilder/nanodump
+     ⭐ 0  🗣 C  📅 2026-09-14
+     🔗 https://github.com/eahilder/nanodump
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 Pushkar2520/Cyber_risk_assistant
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Pushkar2520/Cyber_risk_assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 ramswaroopchoyal444/Quantora
+     ⭐ 0  🗣 TypeScript  📅 2026-09-14
+     🔗 https://github.com/ramswaroopchoyal444/Quantora
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 GabrielGhedin/python-vulnerability-scanner
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/GabrielGhedin/python-vulnerability-scanner
+     📝 Safety-first Python vulnerability scanner for authorized private lab environment…
+     🏷  blue-team, cybersecurity, network-security, python, security-automation, vulnerability-scanner
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 alexandre-gambuto/ClassicOutlook-Toolkit
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/alexandre-gambuto/ClassicOutlook-Toolkit
+     📝 Productivity automation suite for Outlook Classic, pure VBA, zero install, locke…
+     🏷  email-automation, microsoft-365, office-automation, outlook, outlook-vba, productivity, vba
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 shahiqimam/security-events-dashboard
+     ⭐ 0  🗣 TypeScript  📅 2026-09-14
+     🔗 https://github.com/shahiqimam/security-events-dashboard
+     📝 SentinelView - Security events dashboard focused on integrations and normalizati…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 Dx-Alz-xD/CrimGuard
+     ⭐ 0  🗣 JavaScript  📅 2026-09-14
+     🔗 https://github.com/Dx-Alz-xD/CrimGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 mhacc001/edr-sensor-manager-lab
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/mhacc001/edr-sensor-manager-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 chadibazzi/wireshark-formbook-soc-investigation
+     ⭐ 0  🗣 PowerShell  📅 2026-09-14
+     🔗 https://github.com/chadibazzi/wireshark-formbook-soc-investigation
+     📝 Hands-on Wireshark SOC investigation analyzing FormBook-style C2 traffic, DNS, H…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 toonscascade/SOAR-Playbook-Engine-MVP
+     ⭐ 0  🗣 TypeScript  📅 2026-09-14
+     🔗 https://github.com/toonscascade/SOAR-Playbook-Engine-MVP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 Amevi-isi/cyber-agent
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Amevi-isi/cyber-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 FuturoInsight/realtime-hids-dashboard
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/FuturoInsight/realtime-hids-dashboard
+     📝 Real-time host intrusion detection agent and live web dashboard for Windows: fil…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 locallhosts/Wraith
+     ⭐ 0  🗣 Go  📅 2026-09-13
+     🔗 https://github.com/locallhosts/Wraith
+     📝 Security detection engineering platform for validating Sigma rules through adver…
+     🏷  adversarial-security, ci-cd, detection-as-code, detection-engineering, development, devsecops, docker, elasticsearch, github-actions, golang, incident-response, kubernetes, python, security-automation, security-engineering, siem, sigma, soar, terraform
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 desodploxomne0/Edraw-Mind-Map
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/desodploxomne0/Edraw-Mind-Map
+     📝 Download EDraw Mind Map — a productivity tool for Windows offering free download…
+     🏷  clarify-objectives, download-edraw-mind-map, edraw-mindmap, mind-maps, productivity-software, software, visual-relationships, windows-software
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 ndogota/alert_forensics
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/ndogota/alert_forensics
+     📝 SOC alert triage agent with grounded claims, human-in-the-loop control, and a me…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 siuee/minimal-C2
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/siuee/minimal-C2
+     📝 learn how to make minimal c2 for your lab
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 desodhunny1907/Edraw-Max
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/desodhunny1907/Edraw-Max
+     📝 Download EdrawMax — a versatile mind mapping tool for Windows with free download…
+     🏷  business-cards, diagram-creation-tool, diagram-software, infographics, productivity-tools, software, tools, vector-graphics
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 THANK-YOU-FOR-YOUR-ORDER-CCXDF/repo-edrro5e5
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/THANK-YOU-FOR-YOUR-ORDER-CCXDF/repo-edrro5e5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 sifatnotes/CompTIA-Security-SY0-701-Study-Guide-Security-Certification-Preparati
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/sifatnotes/CompTIA-Security-SY0-701-Study-Guide-Security-Certification-Preparati
+     📝 Practical CompTIA Security+ SY0-701 study guide covering current exam domains, c…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 madonnadeloy/Payment-On-Purchase-by-raneeliamichaud-outlook.com-sa438edr
+     ⭐ 0  🗣 DIGITAL Command Language  📅 2026-09-14
+     🔗 https://github.com/madonnadeloy/Payment-On-Purchase-by-raneeliamichaud-outlook.com-sa438edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 citizen204/noisefloor
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/citizen204/noisefloor
+     📝 A SOC triage drill that grades your reasoning, not just your verdict. Paired sce…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 meriatjoseph/cyber-risk-triage
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/meriatjoseph/cyber-risk-triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 Jesig-Westj/edrbhnb
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Jesig-Westj/edrbhnb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 ArielleBerthe/ArielleBerthe
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/ArielleBerthe/ArielleBerthe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 firatcanbekar/vulnerability-management-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/firatcanbekar/vulnerability-management-lab
+     📝 Evidence-driven vulnerability management lab using Nmap and Tenable Nessus to va…
+     🏷  authenticated-scanning, credential-validation, cybersecurity, nessus, nmap, remediation, remediation-planning, security-assessment, tenable, vulnerability-assessment, vulnerability-management
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 THANK-YOU-FOR-YOUR-ORDER-TER4/repo-edr9p11u
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/THANK-YOU-FOR-YOUR-ORDER-TER4/repo-edr9p11u
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 gxwane/agy-orbit
+     ⭐ 0  🗣 Rust  📅 2026-09-14
+     🔗 https://github.com/gxwane/agy-orbit
+     📝 Lightweight, transactional multi-account manager and lifetime lease supervisor f…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 Prabhudev5061/AI-RAT-Detection-Dashboard
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Prabhudev5061/AI-RAT-Detection-Dashboard
+     📝 Cross-Platform AI RAT Detection and System Network Monitoring Dashboard
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 Lleooli/authlog-sentinel
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Lleooli/authlog-sentinel
+     📝 CLI para detectar brute-force, credential stuffing e login suspeito em logs de a…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 CodeStartUp/LibraX
+     ⭐ 0  🗣 Rust  📅 2026-09-14
+     🔗 https://github.com/CodeStartUp/LibraX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 4ryanwalia/4ryanwalia
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/4ryanwalia/4ryanwalia
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 vernthedragon/HollowExecutable
+     ⭐ 0  🗣 C++  📅 2026-09-14
+     🔗 https://github.com/vernthedragon/HollowExecutable
+     📝 Implementation of windows x64 process hollowing
+     🏷  cybersecurity, memory, memory-forensics, memory-hacking, memory-manipulation, process-hollowing, process-hollowing-poc, research
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 GoghOrz/hw_toolkit
+     ⭐ 0  🗣 Shell  📅 2026-09-14
+     🔗 https://github.com/GoghOrz/hw_toolkit
+     📝 Linux 应急响应一键排查脚本 — 28 个模块，只检测不处置，一份完整报告 + 疑似清单 + 简报
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 AnjaliVB/SOC_home_labs
+     ⭐ 0  🗣 N/A  📅 2026-09-13
+     🔗 https://github.com/AnjaliVB/SOC_home_labs
+     📝 Reports and Assessments of all the Security Operations Center (SOC) related proj…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 Wilburk-Saccof/edrpcuh
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Wilburk-Saccof/edrpcuh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 wzk112/LyricsX-Next
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/wzk112/LyricsX-Next
+     📝 LyricsX Next — native macOS desktop lyrics, bilingual word timing and Liquid Gla…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 Ekremunalytu/ConfigLume
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Ekremunalytu/ConfigLume
+     📝 Lightweight local security auditing tool for developer workstations
+     🏷  —
+[2026-09-14 21:36:01 UTC] [NEW]   🆕 📦 YuShyam/OpenBastion
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/YuShyam/OpenBastion
+     📝 現代化輕量開源 SSH-2.0 終端跳板機與操作審計系統 (Lightweight SSH-2.0 Bastion JumpServer & Audit Sys…
+     🏷  —
+[2026-09-14 21:36:01 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-14 21:36:01 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (6gg)
+[2026-09-14 21:36:01 UTC] [UPD]   📢 📦 dropendlessmer/Edraw-Mind-Map-Full-Version
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/dropendlessmer/Edraw-Mind-Map-Full-Version
+     📝 EDraw Mind Map is a free full-version mind mapping tool for Windows, designed to…
+     🏷  clarify-objectives, edraw-mind-map, edraw-mind-map-windows, mind-map-application, organize-tasks, presentation-tools, tools, windows
+     🔄 Motivo: repo recente (6gg)
+[2026-09-14 21:36:01 UTC] [UPD]   📢 📦 smith77788/infraua-hub
+     ⭐ 0  🗣 TypeScript  📅 2026-09-07
+     🔗 https://github.com/smith77788/infraua-hub
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-14 21:36:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-14 21:36:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-14 21:36:04 UTC] [INFO]   → 37 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 📦 liam8282828-creator/liam7
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/liam8282828-creator/liam7
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 📦 k-o-n-t-o-r/ghostlock-sabrina
+     ⭐ 1  🗣 C  📅 2026-09-14
+     🔗 https://github.com/k-o-n-t-o-r/ghostlock-sabrina
+     📝 CVE-2026-43499 GhostLock root exploit for Chromecast with Google TV (sabrina)
+     🏷  —
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 📦 zhangtao838/3105_source
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/zhangtao838/3105_source
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 📦 abraaoskoro-wq/Ipa-3105s
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/abraaoskoro-wq/Ipa-3105s
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 📦 tyyuuii/tyyuuii.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-14
+     🔗 https://github.com/tyyuuii/tyyuuii.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 📦 ymh001/meizu21-ghostlock-root
+     ⭐ 0  🗣 Shell  📅 2026-09-14
+     🔗 https://github.com/ymh001/meizu21-ghostlock-root
+     📝 MEIZU 21 locked-bootloader runtime root via CVE-2026-43499 and KernelSU late-loa…
+     🏷  android, cve-2026-43499, ghostlock, kernelsu, meizu21, root
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 📦 RahadHack99/iqoo-z9x-vivo-t3x-ghostlock
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/RahadHack99/iqoo-z9x-vivo-t3x-ghostlock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 📦 alpha08-BNR/Check--Privilege-escalation-vulnerability
+     ⭐ 1  🗣 C++  📅 2026-09-14
+     🔗 https://github.com/alpha08-BNR/Check--Privilege-escalation-vulnerability
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:04 UTC] [NEW]   🆕 📦 Johnyyd/pegasus
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Johnyyd/pegasus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 21:36:04 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-14 21:36:04 UTC] [UPD]   📢 📦 vonhatqui/ipa
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/vonhatqui/ipa
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-14 21:36:04 UTC] [UPD]   📢 📦 SatvikO7/codearena
+     ⭐ 0  🗣 Java  📅 2026-09-10
+     🔗 https://github.com/SatvikO7/codearena
+     📝 CodeArena - an online judge that compiles and runs untrusted submissions in disp…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-14 21:36:04 UTC] [INFO] ============================================================
+[2026-09-14 21:36:04 UTC] [INFO] Completato — 52 nuovi, 6 aggiornati, 0 errori
+[2026-09-14 21:36:04 UTC] [INFO] ============================================================
