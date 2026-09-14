@@ -85033,3 +85033,312 @@
 [2026-09-14 03:52:20 UTC] [INFO] ============================================================
 [2026-09-14 03:52:20 UTC] [INFO] Completato — 26 nuovi, 12 aggiornati, 0 errori
 [2026-09-14 03:52:20 UTC] [INFO] ============================================================
+[2026-09-14 12:04:57 UTC] [INFO] ============================================================
+[2026-09-14 12:04:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-14 12:04:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-14 12:04:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-14 12:04:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-14 12:04:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-14 12:04:57 UTC] [INFO] ============================================================
+[2026-09-14 12:04:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-14 12:04:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-14 12:05:00 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-14 12:05:00 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-14 12:05:00 UTC] [NEW]   🆕 📦 nucios236marti/byovdr
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/nucios236marti/byovdr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-14 12:05:00 UTC] [UPD]   📢 📦 Twodragon0/Twodragon0
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/Twodragon0/Twodragon0
+     📝 Profile README
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-14 12:05:00 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-14 12:05:00 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-14 12:05:02 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 39 NUOVI repository:
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 BalabanAndrei20/microsoft-purview-data-protection-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/BalabanAndrei20/microsoft-purview-data-protection-lab
+     📝 Enterprise Information Protection, Endpoint DLP, and Data Lifecycle Management i…
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 Paramount50/RansomTrace
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Paramount50/RansomTrace
+     📝 Automated ransomware forensic analysis and threat intelligence correlation tool.
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 chul1016/enterprise-security-lab
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/chul1016/enterprise-security-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 KrunalWankhade9021/Hive-pro-Assignment
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/KrunalWankhade9021/Hive-pro-Assignment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 karneish/Cybersecurity-in-Finance
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/karneish/Cybersecurity-in-Finance
+     📝 Cybersecurity Risk Twin Platform - 12-service Docker stack with RBAC dashboards
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 LayerByte/auditvault
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/LayerByte/auditvault
+     📝 SQL-powered defensive security event database and analysis CLI built with Python…
+     🏷  blue-team, cybersecurity, python, sql, sqlite
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 mziviani/FAIR-Risk-Assessment---Valutazione-del-Rischio
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/mziviani/FAIR-Risk-Assessment---Valutazione-del-Rischio
+     📝 Modello quantitativo open source conforme a FAIR e ISO 27005:2022 per stimare il…
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 mdzeeshank578/Threat-detection-web
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/mdzeeshank578/Threat-detection-web
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 Priyanshu8yadav/sih-2026
+     ⭐ 0  🗣 JavaScript  📅 2026-09-14
+     🔗 https://github.com/Priyanshu8yadav/sih-2026
+     📝 CSPC · Cascaded Structural-Phase Correspondence for Lunar Imagery (SIH 2026 / IS…
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 SyedHaris2510/tenantscope-capstone
+     ⭐ 0  🗣 Go Template  📅 2026-09-14
+     🔗 https://github.com/SyedHaris2510/tenantscope-capstone
+     📝 14th September 2026
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 JAYDEEP143573/Warden
+     ⭐ 0  🗣 HTML  📅 2026-09-14
+     🔗 https://github.com/JAYDEEP143573/Warden
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 mohiyunu0-arch/order-Details-3jnd3edr
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/mohiyunu0-arch/order-Details-3jnd3edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 leevictoria6/edrwst
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/leevictoria6/edrwst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 Babug01/argonaut
+     ⭐ 0  🗣 TypeScript  📅 2026-09-14
+     🔗 https://github.com/Babug01/argonaut
+     📝 A lightweight, read-only ArgoCD Application viewer -- sync/health status across …
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 INV-4536445354/Subscription-edrrmghc
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/INV-4536445354/Subscription-edrrmghc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 tnzisa/tnzisa
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/tnzisa/tnzisa
+     📝 Profile README
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 rizwan0110/assignement_hivepro
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/rizwan0110/assignement_hivepro
+     📝 Cyber Risk Assistant - Hive Pro
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 Voxel7/seer
+     ⭐ 1  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Voxel7/seer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 zjurillpolymer/Analysis-of-Selectivity-in-Sequential-Olefin-Metathesis-Reactions
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/zjurillpolymer/Analysis-of-Selectivity-in-Sequential-Olefin-Metathesis-Reactions
+     📝 Analysis of Selectivity in Sequential Olefin Metathesis Reactions
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 hhgggghdd/2026-24-0-1-web-
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/hhgggghdd/2026-24-0-1-web-
+     📝 2026蚁景24期从0到1学web安全
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 22kavyapatel/bob-ai-hackathon-cyberguard
+     ⭐ 0  🗣 Python  📅 2026-09-13
+     🔗 https://github.com/22kavyapatel/bob-ai-hackathon-cyberguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 LINWOO0099/digital
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/LINWOO0099/digital
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 olafier/sc-900-study-notes
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/olafier/sc-900-study-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 necr0-mancer/Mini-EDR
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/necr0-mancer/Mini-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 Red-Parakeet/.github
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Red-Parakeet/.github
+     📝 About Us
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 Loreneh-Krausev/edrdbob
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Loreneh-Krausev/edrdbob
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 okinaawa/infosec-cis
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/okinaawa/infosec-cis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 Prashant-1008/SOC-100-scenarios
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Prashant-1008/SOC-100-scenarios
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 Trinaf-Totteny/edrclmp
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Trinaf-Totteny/edrclmp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 GrowPilot-Leo/Novel-Reader
+     ⭐ 0  🗣 HTML  📅 2026-09-14
+     🔗 https://github.com/GrowPilot-Leo/Novel-Reader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 edric234/edric-portofolio
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/edric234/edric-portofolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 shinezkinji/SKJ
+     ⭐ 0  🗣 JavaScript  📅 2026-09-14
+     🔗 https://github.com/shinezkinji/SKJ
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 heeega/heeega
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/heeega/heeega
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 Pattys-Foremanh/edrkbmd
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/Pattys-Foremanh/edrkbmd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 jash1711/GhostWatch
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/jash1711/GhostWatch
+     📝 Passive, lifecycle-aware asset discovery with OT/Modbus forensic recording — cat…
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 bohanyt/windows_no_sleep
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/bohanyt/windows_no_sleep
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 HelixCipher/mouse-jiggler
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/HelixCipher/mouse-jiggler
+     📝 Cross-platform Bezier curve hardware mouse jiggler using an RP2350-One. Spoofs a…
+     🏷  adafruit, bezier-curves, circuitpython, edr-evasion, hid, mouse-jiggler, pico, rp2350, waveshare
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 arighmt67-bit/zero-trust-endpoint-hardening
+     ⭐ 0  🗣 PowerShell  📅 2026-09-14
+     🔗 https://github.com/arighmt67-bit/zero-trust-endpoint-hardening
+     📝 Enterprise fleet hardening baseline, least-privilege automation, USB DLP lockdow…
+     🏷  —
+[2026-09-14 12:05:02 UTC] [NEW]   🆕 📦 federicochorny/edreams-tableros-ux
+     ⭐ 0  🗣 JavaScript  📅 2026-09-14
+     🔗 https://github.com/federicochorny/edreams-tableros-ux
+     📝 Tableros de evaluación UX de eDreams: leyes UX, heurísticas de Nielsen y flujos …
+     🏷  —
+[2026-09-14 12:05:02 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-14 12:05:02 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (5gg)
+[2026-09-14 12:05:02 UTC] [UPD]   📢 📦 EVONETRTK/baseesp32-ethelite
+     ⭐ 0  🗣 C  📅 2026-09-13
+     🔗 https://github.com/EVONETRTK/baseesp32-ethelite
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-14 12:05:02 UTC] [UPD]   📢 📦 angelsj913/GCAD
+     ⭐ 0  🗣 C++  📅 2026-09-10
+     🔗 https://github.com/angelsj913/GCAD
+     📝 GCAD (지케드) — Galoisconnection Antivirus & Defense. From-scratch EDR/AV with 4 cu…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-14 12:05:02 UTC] [UPD]   📢 📦 Aamod007/Harness
+     ⭐ 0  🗣 JavaScript  📅 2026-09-13
+     🔗 https://github.com/Aamod007/Harness
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-14 12:05:02 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-14 12:05:02 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-14 12:05:05 UTC] [INFO]   → 28 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-14 12:05:05 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-09-14 12:05:05 UTC] [NEW]   🆕 📦 al3raQe/ps4jb
+     ⭐ 0  🗣 JavaScript  📅 2026-09-14
+     🔗 https://github.com/al3raQe/ps4jb
+     📝 PS4 WebKit Exploit Jailbreak (11.00 – 13.00)
+     🏷  —
+[2026-09-14 12:05:05 UTC] [NEW]   🆕 📦 ngdungaccff1001-lgtm/meomro
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/ngdungaccff1001-lgtm/meomro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:05 UTC] [NEW]   🆕 📦 idevakk/t3code-docker
+     ⭐ 0  🗣 Shell  📅 2026-09-14
+     🔗 https://github.com/idevakk/t3code-docker
+     📝 Hardened Docker environment for T3 Code Server and OpenCode Web with persistent …
+     🏷  agent-harness, ai-agents, claude-code, coding-agents, developer-tools, docker, docker-compose, dokploy, opencode, remote-development, self-hosted, t3code, traefik
+[2026-09-14 12:05:05 UTC] [NEW]   🆕 📦 majidoussama/soc-pentest-siem-lab
+     ⭐ 0  🗣 Shell  📅 2026-09-14
+     🔗 https://github.com/majidoussama/soc-pentest-siem-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:05 UTC] [NEW]   🆕 📦 harishkannanjs/glyph.sh
+     ⭐ 0  🗣 Astro  📅 2026-09-14
+     🔗 https://github.com/harishkannanjs/glyph.sh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-14 12:05:05 UTC] [NEW]   🆕 📦 accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup
+     📝 Security research write-up on exploiting CVE-2026-43499 on the Amazon Fire TV St…
+     🏷  —
+[2026-09-14 12:05:05 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-14 12:05:05 UTC] [UPD]   📢 📦 kakaka1234567890000ka-lab/main
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/kakaka1234567890000ka-lab/main
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-14 12:05:05 UTC] [UPD]   📢 📦 vonhatqui/ipa
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/vonhatqui/ipa
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-14 12:05:05 UTC] [UPD]   📢 📦 SatvikO7/codearena
+     ⭐ 0  🗣 Java  📅 2026-09-10
+     🔗 https://github.com/SatvikO7/codearena
+     📝 CodeArena - an online judge that compiles and runs untrusted submissions in disp…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-14 12:05:05 UTC] [UPD]   📢 📦 bts2019amo-ctrl/3105-compiled
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/bts2019amo-ctrl/3105-compiled
+     📝 Compiled build of YangJiiii/3105
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-14 12:05:05 UTC] [INFO] ============================================================
+[2026-09-14 12:05:05 UTC] [INFO] Completato — 46 nuovi, 9 aggiornati, 0 errori
+[2026-09-14 12:05:05 UTC] [INFO] ============================================================
