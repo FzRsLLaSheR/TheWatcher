@@ -85663,3 +85663,192 @@
 [2026-09-14 21:36:04 UTC] [INFO] ============================================================
 [2026-09-14 21:36:04 UTC] [INFO] Completato — 52 nuovi, 6 aggiornati, 0 errori
 [2026-09-14 21:36:04 UTC] [INFO] ============================================================
+[2026-09-15 03:52:03 UTC] [INFO] ============================================================
+[2026-09-15 03:52:03 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-15 03:52:03 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-15 03:52:03 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-15 03:52:03 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-15 03:52:03 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-15 03:52:03 UTC] [INFO] ============================================================
+[2026-09-15 03:52:03 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-15 03:52:03 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-15 03:52:05 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-15 03:52:05 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-15 03:52:05 UTC] [NEW]   🆕 📦 Yavuzhanzgen/ValleyRAT-Malware-Analysis
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Yavuzhanzgen/ValleyRAT-Malware-Analysis
+     📝 Technical analysis of ValleyRAT, covering static and dynamic analysis, reverse e…
+     🏷  —
+[2026-09-15 03:52:05 UTC] [NEW]   🆕 📦 DaoshuReal/malicious-thread-detection
+     ⭐ 0  🗣 C  📅 2026-09-15
+     🔗 https://github.com/DaoshuReal/malicious-thread-detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:05 UTC] [NEW]   🆕 📦 DeathShotXD/0xCr0ssCrush
+     ⭐ 2  🗣 Rust  📅 2026-09-14
+     🔗 https://github.com/DeathShotXD/0xCr0ssCrush
+     📝 Windows BYOVD research on DCRCVDrv.sys and Alinubx.sys, reverse engineering thei…
+     🏷  antivirus, av-bypass, av-killer, byovd, driver-security, edr, edr-evasion, edr-killer, ioctl, kernel-exploitation, kernel-mode, kernel-security, process-termination, reverse-engineering, ring0, threatresearch, vulnerable-driver, windows-exploit, windows-internals, windows-security
+[2026-09-15 03:52:05 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-15 03:52:05 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-15 03:52:05 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-15 03:52:07 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 Waldo0926/enterprise-network-security-architecture
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Waldo0926/enterprise-network-security-architecture
+     📝 Architecture-as-code for a segmented enterprise network with CIDR-safe VLAN plan…
+     🏷  802-1x, architecture-as-code, cybersecurity, dmz, firewall, network-architecture, network-security, networking, python, radius, security-architecture, threat-modeling, vlan, vpn, zero-trust
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 ValenBertu/Hardening-Endpoint
+     ⭐ 0  🗣 PowerShell  📅 2026-09-15
+     🔗 https://github.com/ValenBertu/Hardening-Endpoint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 sunjae12/malware-analysis-lab
+     ⭐ 1  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/sunjae12/malware-analysis-lab
+     📝 Educational malware samples for security research - safe simulations only
+     🏷  ctf, education, malware, python, security
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 aishikachadha/cyber
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/aishikachadha/cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 982025030-collab/lontar-zt-access-key-policy
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/982025030-collab/lontar-zt-access-key-policy
+     📝 Reproducible research artifact for evidence-aware risk-bounded access–key policy…
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 pupetytmpk/edryll
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/pupetytmpk/edryll
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 onkar531/SOC114-Malicious-Attachment-Phishing-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/onkar531/SOC114-Malicious-Attachment-Phishing-Investigation
+     📝 SOC L1 investigation of a malicious attachment phishing alert using email analys…
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 AWZShraim/Blackbox
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/AWZShraim/Blackbox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 shinobi-coder701/Shell3er
+     ⭐ 0  🗣 PowerShell  📅 2026-09-15
+     🔗 https://github.com/shinobi-coder701/Shell3er
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 Roxy-DD/LeopardLink
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Roxy-DD/LeopardLink
+     📝 红米手环3 (M2434B1) 私有 BLE 协议逆向实验存档：PC 端 Python 复刻、表盘自制、可编程常驻服务。含能力边界与失败清单。
+     🏷  ble, gadgetbridge, protocol, python, redmi-band, reverse-engineering, wearable, xiaomi
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 mcassaniti/clamguard
+     ⭐ 0  🗣 Go  📅 2026-09-14
+     🔗 https://github.com/mcassaniti/clamguard
+     📝 High-performance, mount-aware on-access scanner and quarantine daemon for ClamAV
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 mehdibrk455-cloud/DFIR-Cheatsheet
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/mehdibrk455-cloud/DFIR-Cheatsheet
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 jenkinstyrone7/edrqgu
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/jenkinstyrone7/edrqgu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 Pinzon250/Proyecto-Cienca-Datos
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Pinzon250/Proyecto-Cienca-Datos
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 4rass/Context-Enriched-User-and-Entity-Behavior-Analytics
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/4rass/Context-Enriched-User-and-Entity-Behavior-Analytics
+     📝 An academic proof-of-concept web application for a Cyber Information Systems cap…
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 DeathShotXD/0xCr0ssCrush
+     ⭐ 2  🗣 Rust  📅 2026-09-14
+     🔗 https://github.com/DeathShotXD/0xCr0ssCrush
+     📝 Windows BYOVD research on DCRCVDrv.sys and Alinubx.sys, reverse engineering thei…
+     🏷  antivirus, av-bypass, av-killer, byovd, driver-security, edr, edr-evasion, edr-killer, ioctl, kernel-exploitation, kernel-mode, kernel-security, process-termination, reverse-engineering, ring0, threatresearch, vulnerable-driver, windows-exploit, windows-internals, windows-security
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 stlaszlo/project-axion
+     ⭐ 0  🗣 Mermaid  📅 2026-09-14
+     🔗 https://github.com/stlaszlo/project-axion
+     📝 Agentic Security Framework - SSE for agentic workloads
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 abdalrahmanalfatih/Microsoft.sentinel.contenthub
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/abdalrahmanalfatih/Microsoft.sentinel.contenthub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 WorkWithAnjola/ransomware-investigation-playbook
+     ⭐ 0  🗣 PowerShell  📅 2026-09-14
+     🔗 https://github.com/WorkWithAnjola/ransomware-investigation-playbook
+     📝 DFIR playbook and triage simulation for LockBit 3.0 precursor activity, shadow c…
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 megha653/AEGIS-X
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/megha653/AEGIS-X
+     📝 Explainable SOC detection and incident investigation engine with event correlati…
+     🏷  —
+[2026-09-15 03:52:07 UTC] [NEW]   🆕 📦 odavietges/odavidetges
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/odavietges/odavidetges
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:07 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-15 03:52:07 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated daily. Post…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (6gg)
+[2026-09-15 03:52:07 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-15 03:52:07 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-15 03:52:09 UTC] [INFO]   → 25 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-15 03:52:09 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-15 03:52:09 UTC] [NEW]   🆕 📦 bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     ⭐ 0  🗣 Swift  📅 2026-09-15
+     🔗 https://github.com/bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     📝 Rebuild of the 3105 iOS project with macOS GitHub Actions build automation
+     🏷  —
+[2026-09-15 03:52:09 UTC] [NEW]   🆕 📦 Coolaid003/xbox-sftp-tool
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Coolaid003/xbox-sftp-tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:09 UTC] [NEW]   🆕 📦 liam8282828-creator/gg-tr
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/liam8282828-creator/gg-tr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:09 UTC] [NEW]   🆕 📦 liam8282828-creator/prueba-1
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/liam8282828-creator/prueba-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 03:52:09 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-15 03:52:09 UTC] [UPD]   📢 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 10  🗣 C  📅 2026-09-13
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 The definitive zero-to-operator offensive engineering curriculum and operational…
+     🏷  active-directory, anti-forensics, binary-exploitation, c2-framework, cloud-security, cybersecurity, edr-evasion, exploit-development, kernel-exploitation, malware-development, mitre-attack, offensive-rust, offensive-security, opsec, penetration-testing, red-team, reverse-engineering, roadmap, security-research, threat-hunting
+     🔄 Motivo: repo recente (2gg)
+[2026-09-15 03:52:09 UTC] [UPD]   📢 📦 abraaoskoro-wq/Ipa-3105s
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/abraaoskoro-wq/Ipa-3105s
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-15 03:52:09 UTC] [UPD]   📢 📦 franjavigonzalez10-cmd/Javi-Gamer-iOS
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/franjavigonzalez10-cmd/Javi-Gamer-iOS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-15 03:52:10 UTC] [INFO] ============================================================
+[2026-09-15 03:52:10 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
+[2026-09-15 03:52:10 UTC] [INFO] ============================================================
