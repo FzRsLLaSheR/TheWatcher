@@ -85852,3 +85852,267 @@
 [2026-09-15 03:52:10 UTC] [INFO] ============================================================
 [2026-09-15 03:52:10 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
 [2026-09-15 03:52:10 UTC] [INFO] ============================================================
+[2026-09-15 11:17:44 UTC] [INFO] ============================================================
+[2026-09-15 11:17:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-15 11:17:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-15 11:17:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-15 11:17:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-15 11:17:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-15 11:17:44 UTC] [INFO] ============================================================
+[2026-09-15 11:17:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-15 11:17:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-15 11:17:46 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-15 11:17:46 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-15 11:17:46 UTC] [NEW]   🆕 📦 MasonJacKK29/Kernel-HVCI-Spoof-Detection
+     ⭐ 1  🗣 C++  📅 2026-09-15
+     🔗 https://github.com/MasonJacKK29/Kernel-HVCI-Spoof-Detection
+     📝 Detects Windows Core Isolation / HVCI spoofing by cross-checking the kernel's HV…
+     🏷  —
+[2026-09-15 11:17:46 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-15 11:17:46 UTC] [UPD]   📢 📦 5forzin/abraham
+     ⭐ 0  🗣 Rust  📅 2026-09-12
+     🔗 https://github.com/5forzin/abraham
+     📝 Purple-team C2 research framework for Windows. Every offensive technique ships w…
+     🏷  detection-engineering, rust, security-research, windows-internals
+     🔄 Motivo: repo recente (3gg)
+[2026-09-15 11:17:46 UTC] [UPD]   📢 📦 Yavuzhanzgen/ValleyRAT-Malware-Analysis
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Yavuzhanzgen/ValleyRAT-Malware-Analysis
+     📝 Technical analysis of ValleyRAT, covering static and dynamic analysis, reverse e…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-15 11:17:46 UTC] [UPD]   📢 📦 Twodragon0/Twodragon0
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/Twodragon0/Twodragon0
+     📝 Profile README
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-15 11:17:46 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-15 11:17:46 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-15 11:17:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 35 NUOVI repository:
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 SpikePy/Windows-Audio-Output-Switcher
+     ⭐ 0  🗣 Go  📅 2026-09-15
+     🔗 https://github.com/SpikePy/Windows-Audio-Output-Switcher
+     📝 Tray utility for Windows that switches the default audio output device via a glo…
+     🏷  audio, audio-switcher, default-audio-device, golang, hotkey, notifications, systray, tray-application, windows, windows-tray-app
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 A-Bragg-tech/Canary-Security
+     ⭐ 0  🗣 HTML  📅 2026-09-15
+     🔗 https://github.com/A-Bragg-tech/Canary-Security
+     📝 Interactive SOC simulator and cybersecurity training platform focused on Tier 1 …
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 QualityLee/router-monitor
+     ⭐ 0  🗣 Kotlin  📅 2026-09-15
+     🔗 https://github.com/QualityLee/router-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Tair-Kochavi/Summer26Project_Mini_EDR
+     ⭐ 0  🗣 C++  📅 2026-09-15
+     🔗 https://github.com/Tair-Kochavi/Summer26Project_Mini_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 fathiamustafamusa-hash/nationalbank-redteam-capstone
+     ⭐ 0  🗣 HTML  📅 2026-09-14
+     🔗 https://github.com/fathiamustafamusa-hash/nationalbank-redteam-capstone
+     📝 NationalBank Reserve — Red Team Capstone
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Kouamemarc/cybersecurity_operations_challenge
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/Kouamemarc/cybersecurity_operations_challenge
+     📝 SOC opérationnel (EDR Wazuh · SIEM Elastic · SOAR TheHive/Cortex) - détection, i…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 ScriptKiddie913/defender
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/ScriptKiddie913/defender
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Devendra-git-acc/cyber_risk_copilot
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Devendra-git-acc/cyber_risk_copilot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 ShreyasBairyKS/Hijax
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/ShreyasBairyKS/Hijax
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 gayatricomics-sys/js-recon-tool
+     ⭐ 0  🗣 JavaScript  📅 2026-09-15
+     🔗 https://github.com/gayatricomics-sys/js-recon-tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 jessenkurien/cyber-pnl
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/jessenkurien/cyber-pnl
+     📝 Open-source cyber risk quantification: Monte Carlo loss modeling, control valuat…
+     🏷  board-reporting, cfo, ciso, control-effectiveness, cyber-risk, cybersecurity, cybersecurity-roi, factor-analysis-information-risk, fair-risk-analysis, grc, loss-exceedance-curve, monte-carlo, monte-carlo-simulation, python, risk-analysis, risk-appetite, risk-quantification, security-economics, security-investment, security-leadership
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Ankitlakhatariya/bob-ai-hackathon-threat-intelligence
+     ⭐ 1  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/Ankitlakhatariya/bob-ai-hackathon-threat-intelligence
+     📝 IBM HACKATHON 
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Nando-suka/edr
+     ⭐ 0  🗣 Go  📅 2026-09-15
+     🔗 https://github.com/Nando-suka/edr
+     📝 A cross-platform endpoint protection agent written in Go, built around privilege…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 mahesh262005/Windows7-EternalBlue-Security-Assessment
+     ⭐ 0  🗣 HTML  📅 2026-09-15
+     🔗 https://github.com/mahesh262005/Windows7-EternalBlue-Security-Assessment
+     📝 An authorized end-to-end security evaluation and remote code execution (MS17-010…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 iakisme/session-guard
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/iakisme/session-guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Selen-Totuk/LoginGuard
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Selen-Totuk/LoginGuard
+     📝 Python-based suspicious login detection and risk analysis system.
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Anthonyl-Ruckeru/edrzzzl
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/Anthonyl-Ruckeru/edrzzzl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 zenishrana00/Smart-India-Hackathon
+     ⭐ 0  🗣 JavaScript  📅 2026-09-15
+     🔗 https://github.com/zenishrana00/Smart-India-Hackathon
+     📝 A small hackathon project based on AI powered 
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Aradala-Pawan-Kalyan/AI-Powered-Multi-Vector-Cybersecurity-Threat-Detection-Suite
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Aradala-Pawan-Kalyan/AI-Powered-Multi-Vector-Cybersecurity-Threat-Detection-Suite
+     📝 Sentinel is a full-stack AI cybersecurity suite that detects phishing URLs, mali…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 alpha08-BNR/Log-filtering-support
+     ⭐ 1  🗣 C++  📅 2026-09-14
+     🔗 https://github.com/alpha08-BNR/Log-filtering-support
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 habachcp6/RAG2ATTCK
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/habachcp6/RAG2ATTCK
+     📝 Research prototype for evaluating MITRE ATT&CK-grounded RAG in technique attribu…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Michel-DV/3cx-desktopapp-supply-chain-case-study
+     ⭐ 0  🗣 HTML  📅 2026-09-15
+     🔗 https://github.com/Michel-DV/3cx-desktopapp-supply-chain-case-study
+     📝 Technical case study of the 3CX DesktopApp compromise, covering cascading supply…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 raihanaydinabrar/yara-malware-scanner-v1.0
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/raihanaydinabrar/yara-malware-scanner-v1.0
+     📝 Python-based malware scanner using YARA for static file analysis.
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 sathvikraok2018-eng/GRC-Risk-and-Compliance-Assessment1-
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/sathvikraok2018-eng/GRC-Risk-and-Compliance-Assessment1-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 khanghulamuddin2/ai-threatpath
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/khanghulamuddin2/ai-threatpath
+     📝 AI-powered cybersecurity platform for threat detection, risk scoring, MITRE ATT&…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 th3d3ck3r/Moonlight-en-en
+     ⭐ 0  🗣 Objective-C  📅 2026-09-15
+     🔗 https://github.com/th3d3ck3r/Moonlight-en-en
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 dhwaniLabs/bob-ai-hackathon-clarion
+     ⭐ 0  🗣 TypeScript  📅 2026-09-15
+     🔗 https://github.com/dhwaniLabs/bob-ai-hackathon-clarion
+     📝 CLARION — AI-Powered Threat Intelligence Correlation & Alert Prioritisation Assi…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 superheroCEO/endpoint-triage
+     ⭐ 0  🗣 Shell  📅 2026-09-15
+     🔗 https://github.com/superheroCEO/endpoint-triage
+     📝 Tier-1 SOC endpoint triage using Bash and simulated EDR/network telemetry
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 MasonJacKK29/Kernel-HVCI-Spoof-Detection
+     ⭐ 1  🗣 C++  📅 2026-09-15
+     🔗 https://github.com/MasonJacKK29/Kernel-HVCI-Spoof-Detection
+     📝 Detects Windows Core Isolation / HVCI spoofing by cross-checking the kernel's HV…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 aa22396584/ImL1s
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/aa22396584/ImL1s
+     📝 Profile README
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 AmitAnil/behaviour-based-cyber-threat-detector
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/AmitAnil/behaviour-based-cyber-threat-detector
+     📝 PS07 - Behaviour-Based Cyber Threat Detector (MeitY/CERT-In hackathon): baseline…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 anvil008/phalanx
+     ⭐ 0  🗣 TypeScript  📅 2026-09-15
+     🔗 https://github.com/anvil008/phalanx
+     📝 Autonomous blue-team agent swarm: peer-to-peer coordination over A2A, self-built…
+     🏷  a2a, a2ui, adk, agentic-ui, agents, gemini, mcp, multi-agent
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 FlamingPanda101/MBA693R-AI-Class-Setup
+     ⭐ 0  🗣 PowerShell  📅 2026-09-15
+     🔗 https://github.com/FlamingPanda101/MBA693R-AI-Class-Setup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 worldcybereyes-blip/Rushikesh-
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/worldcybereyes-blip/Rushikesh-
+     📝 # 🛡️ Rushikesh — Cybersecurity & SOC Analyst Portfolio  > **Verified InfoSecLabs…
+     🏷  —
+[2026-09-15 11:17:49 UTC] [NEW]   🆕 📦 Mabdelnaby1924/SOC-Investigation-and-Reporting-Assistant
+     ⭐ 0  🗣 TypeScript  📅 2026-09-15
+     🔗 https://github.com/Mabdelnaby1924/SOC-Investigation-and-Reporting-Assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:49 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-15 11:17:49 UTC] [UPD]   📢 📦 ndogota/alert_forensics
+     ⭐ 0  🗣 Python  📅 2026-09-14
+     🔗 https://github.com/ndogota/alert_forensics
+     📝 SOC alert triage agent with grounded claims, human-in-the-loop control, and a me…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-15 11:17:49 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated every 10 mi…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (6gg)
+[2026-09-15 11:17:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-15 11:17:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-15 11:17:51 UTC] [INFO]   → 26 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-15 11:17:51 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-15 11:17:51 UTC] [NEW]   🆕 📦 wesleyyyy2712/C-mera-
+     ⭐ 0  🗣 Swift  📅 2026-09-15
+     🔗 https://github.com/wesleyyyy2712/C-mera-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-15 11:17:51 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-15 11:17:51 UTC] [UPD]   📢 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 10  🗣 C  📅 2026-09-13
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 The definitive zero-to-operator offensive engineering curriculum and operational…
+     🏷  active-directory, anti-forensics, binary-exploitation, c2-framework, cloud-security, cybersecurity, edr-evasion, exploit-development, kernel-exploitation, malware-development, mitre-attack, offensive-rust, offensive-security, opsec, penetration-testing, red-team, reverse-engineering, roadmap, security-research, threat-hunting
+     🔄 Motivo: repo recente (2gg)
+[2026-09-15 11:17:51 UTC] [UPD]   📢 📦 kakaka1234567890000ka-lab/main
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/kakaka1234567890000ka-lab/main
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-15 11:17:51 UTC] [UPD]   📢 📦 franjavigonzalez10-cmd/Javi-Gamer-iOS
+     ⭐ 0  🗣 Swift  📅 2026-09-08
+     🔗 https://github.com/franjavigonzalez10-cmd/Javi-Gamer-iOS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-15 11:17:51 UTC] [UPD]   📢 📦 bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     ⭐ 0  🗣 Swift  📅 2026-09-15
+     🔗 https://github.com/bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     📝 Rebuild of the 3105 iOS project with macOS GitHub Actions build automation
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-15 11:17:51 UTC] [INFO] ============================================================
+[2026-09-15 11:17:51 UTC] [INFO] Completato — 37 nuovi, 9 aggiornati, 0 errori
+[2026-09-15 11:17:51 UTC] [INFO] ============================================================
