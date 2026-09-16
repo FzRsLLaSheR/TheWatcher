@@ -87328,3 +87328,210 @@
 [2026-09-16 16:19:55 UTC] [INFO] ============================================================
 [2026-09-16 16:19:55 UTC] [INFO] Completato — 32 nuovi, 6 aggiornati, 0 errori
 [2026-09-16 16:19:55 UTC] [INFO] ============================================================
+[2026-09-16 20:58:55 UTC] [INFO] ============================================================
+[2026-09-16 20:58:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-16 20:58:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-16 20:58:55 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-16 20:58:55 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-16 20:58:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-16 20:58:55 UTC] [INFO] ============================================================
+[2026-09-16 20:58:55 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-16 20:58:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-16 20:58:57 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-16 20:58:57 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-16 20:58:57 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-16 20:58:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-16 20:58:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-16 20:59:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 dhanunjay-123/cybersphere-defense-3d
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/dhanunjay-123/cybersphere-defense-3d
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 mattmillen15/ImpersoTater
+     ⭐ 0  🗣 C#  📅 2026-09-16
+     🔗 https://github.com/mattmillen15/ImpersoTater
+     📝 SeImpersonatePrivilege FTW
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 ismailkudar77/Edremitkimya
+     ⭐ 0  🗣 HTML  📅 2026-09-16
+     🔗 https://github.com/ismailkudar77/Edremitkimya
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 Michael-Bockhoff-GmbH/gravityzone-erpnext-billing
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/Michael-Bockhoff-GmbH/gravityzone-erpnext-billing
+     📝 Sync Bitdefender GravityZone MSP license counts into ERPNext recurring Subscript…
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 TheJohnnyJJK/Soc-Analyst
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/TheJohnnyJJK/Soc-Analyst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 annatchijova/zaynor
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/annatchijova/zaynor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 FelixKuon/vcgsuite
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/FelixKuon/vcgsuite
+     📝 Python-Bibliothek zur EKG/VCG-Signalverarbeitung: 12-Kanal-/EASI-EKG zu Vektorka…
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 Whoisyle/Amari-Offensive-automation-toolkit-
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/Whoisyle/Amari-Offensive-automation-toolkit-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 maxmccutcheon59/watchwire
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/maxmccutcheon59/watchwire
+     📝 Local-first defensive CLI + Action/pre-commit: policy packs, secret scan + SARIF…
+     🏷  cli, defensive-security, devtools, github-actions, hardening, linux, pre-commit, proc, python, sarif, secrets, security, systems, toml
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 Maicololiveras/coding-agent-pc-health-check
+     ⭐ 0  🗣 PowerShell  📅 2026-09-16
+     🔗 https://github.com/Maicololiveras/coding-agent-pc-health-check
+     📝 A safe skill and Windows audit for diagnosing coding-agent process leaks and sto…
+     🏷  coding-agents, diagnostics, git, powershell, windows
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 vivek-rob-mec/devsecops-security-gates-pipeline
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/vivek-rob-mec/devsecops-security-gates-pipeline
+     📝 DevSecOps security gates reference project
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 lookmoo130-alt/ESP32-WROOM
+     ⭐ 0  🗣 C++  📅 2026-09-16
+     🔗 https://github.com/lookmoo130-alt/ESP32-WROOM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 danieldcit/app-dcit
+     ⭐ 0  🗣 TypeScript  📅 2026-09-16
+     🔗 https://github.com/danieldcit/app-dcit
+     📝 Aplicação DCIT
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 alexdakwar/alexdakwar
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/alexdakwar/alexdakwar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 exc-indresh/ai-cyber-risk-intelligence
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/exc-indresh/ai-cyber-risk-intelligence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 mastaan66/shuchi
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/mastaan66/shuchi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 goutham-hegde/vigil
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/goutham-hegde/vigil
+     📝 AI-driven threat detection & attack simulation engine with a SOC dashboard: Ligh…
+     🏷  cybersecurity, fastapi, lightgbm, machine-learning, mitre-attack, react, shap, soc, threat-detection
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 alirzx/Agentic_SOC
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/alirzx/Agentic_SOC
+     📝 automated SOC workflow from T1 to etc.
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 thesparshpandya/ai-cyber-risk-assistant
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/thesparshpandya/ai-cyber-risk-assistant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 Geeksquad52152/Request-edrxb1ec
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/Geeksquad52152/Request-edrxb1ec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 hamdymohamedak/TeamTracker
+     ⭐ 0  🗣 TypeScript  📅 2026-09-15
+     🔗 https://github.com/hamdymohamedak/TeamTracker
+     📝  employee desktop tracker and admin dashboard for small businesses
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 nandana1318biju/veyra-ai-cyber-risk
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/nandana1318biju/veyra-ai-cyber-risk
+     📝 AI Cyber Risk Intelligence Assistant for TawasolPay
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 sujal2005code/AI-SOC-Copilot
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/sujal2005code/AI-SOC-Copilot
+     📝 AI-SOC-Copilot — A defensive SOC platform that simulates cyber attacks, performs…
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 SalmaC79/threat-hunting-soc
+     ⭐ 0  🗣 XML  📅 2026-09-16
+     🔗 https://github.com/SalmaC79/threat-hunting-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 RajRajeshwariDani/VSIRS-task2
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/RajRajeshwariDani/VSIRS-task2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 mgritnpt/npt_risk_assessment
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/mgritnpt/npt_risk_assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [NEW]   🆕 📦 SonjaCoe/coffee-management-u0edrnsm
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/SonjaCoe/coffee-management-u0edrnsm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-16 20:59:00 UTC] [UPD]   📢 📦 f8al/shrimp-loader
+     ⭐ 1  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/f8al/shrimp-loader
+     📝 In memory loader for binaries via msbuild or installutil. Kinda like how execute…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-16 20:59:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-16 20:59:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-16 20:59:01 UTC] [INFO]   → 29 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-16 20:59:01 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-16 20:59:01 UTC] [NEW]   🆕 📦 houexzo-byte/MoewAP
+     ⭐ 0  🗣 Swift  📅 2026-09-16
+     🔗 https://github.com/houexzo-byte/MoewAP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 20:59:01 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-09-16 20:59:01 UTC] [UPD]   📢 📦 vonhatqui/ipa
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/vonhatqui/ipa
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-16 20:59:01 UTC] [UPD]   📢 📦 nanofuxion/Whetstone
+     ⭐ 1  🗣 C  📅 2026-09-16
+     🔗 https://github.com/nanofuxion/Whetstone
+     📝 On-device JIT enabler for iOS 12/13 (Amethyst exploits, per-app proc patching, n…
+     🏷  dirtyjit, ios12, jit
+     🔄 Motivo: repo recente (0gg)
+[2026-09-16 20:59:01 UTC] [UPD]   📢 📦 Rusickk1995/pentest-roadmap-ru
+     ⭐ 2  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/Rusickk1995/pentest-roadmap-ru
+     📝 Путь от нуля до Junior Pentester: Networking, Linux, Windows, Web, Active Direct…
+     🏷  active-directory, cybersecurity, cybersecurity-roadmap, ethical-hacking, infosec, learning, linux, network-security, networking, penetration-testing, pentesting, pentesting-roadmap, russian, web-security, windows
+     🔄 Motivo: repo recente (5gg)
+[2026-09-16 20:59:01 UTC] [UPD]   📢 📦 SatvikO7/codearena
+     ⭐ 0  🗣 Java  📅 2026-09-10
+     🔗 https://github.com/SatvikO7/codearena
+     📝 CodeArena - an online judge that compiles and runs untrusted submissions in disp…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-16 20:59:01 UTC] [UPD]   📢 📦 bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     ⭐ 0  🗣 Swift  📅 2026-09-15
+     🔗 https://github.com/bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     📝 Rebuild of the 3105 iOS project with macOS GitHub Actions build automation
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-16 20:59:01 UTC] [UPD]   📢 📦 k-o-n-t-o-r/ghostlock-sabrina
+     ⭐ 2  🗣 C  📅 2026-09-14
+     🔗 https://github.com/k-o-n-t-o-r/ghostlock-sabrina
+     📝 CVE-2026-43499 GhostLock root exploit for Chromecast with Google TV (sabrina)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-16 20:59:01 UTC] [INFO] ============================================================
+[2026-09-16 20:59:01 UTC] [INFO] Completato — 28 nuovi, 7 aggiornati, 0 errori
+[2026-09-16 20:59:01 UTC] [INFO] ============================================================
