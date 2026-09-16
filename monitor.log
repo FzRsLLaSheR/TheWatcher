@@ -86662,3 +86662,214 @@
 [2026-09-15 20:57:25 UTC] [INFO] ============================================================
 [2026-09-15 20:57:25 UTC] [INFO] Completato — 46 nuovi, 6 aggiornati, 0 errori
 [2026-09-15 20:57:25 UTC] [INFO] ============================================================
+[2026-09-16 03:48:56 UTC] [INFO] ============================================================
+[2026-09-16 03:48:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-16 03:48:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-16 03:48:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-16 03:48:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-16 03:48:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-16 03:48:56 UTC] [INFO] ============================================================
+[2026-09-16 03:48:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-16 03:48:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-16 03:48:58 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-16 03:48:58 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-16 03:48:58 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-16 03:48:58 UTC] [UPD]   📢 📦 Pamure/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Pamure/jocky-forensics
+     📝 JOCKY (SIH26148): Advanced forensic scripting language and stealth runtime for c…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-16 03:48:58 UTC] [UPD]   📢 📦 5forzin/abraham
+     ⭐ 0  🗣 Rust  📅 2026-09-12
+     🔗 https://github.com/5forzin/abraham
+     📝 Purple-team C2 research framework for Windows. Every offensive technique ships w…
+     🏷  detection-engineering, rust, security-research, windows-internals
+     🔄 Motivo: repo recente (3gg)
+[2026-09-16 03:48:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-16 03:48:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-16 03:49:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 dmtrKovalenko/bashka
+     ⭐ 1  🗣 Rust  📅 2026-09-15
+     🔗 https://github.com/dmtrKovalenko/bashka
+     📝 Stop running unverified bash scripts to install software! curl <url> | bashKA fo…
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 eeholmes/xpublish-erddap
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/eeholmes/xpublish-erddap
+     📝 ERDDAP-compatible griddap router for Xpublish — lets erddapy and rerddap code wo…
+     🏷  erddap, griddap, icechunk, oceanography, opendap, xarray, xpublish, zarr
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 yinjiajiu/DingDing
+     ⭐ 0  🗣 Go  📅 2026-09-16
+     🔗 https://github.com/yinjiajiu/DingDing
+     📝 获取指定群消息且发送通知
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 renchris/fde-crossos-devloop-bench
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/renchris/fde-crossos-devloop-bench
+     📝 Reproducible cross-OS dev-loop benchmark for a Next.js 16 / React 19 RSC / TypeS…
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 vanderstark/Claude-Red
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/vanderstark/Claude-Red
+     📝 Claude-Red source code
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 kopidingin01/Claude-Red
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/kopidingin01/Claude-Red
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 SixStarX/Linux-Security-Pre-Flight
+     ⭐ 0  🗣 Shell  📅 2026-09-16
+     🔗 https://github.com/SixStarX/Linux-Security-Pre-Flight
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 wil-ckaew/sentinel-quantum-xdr
+     ⭐ 0  🗣 Rust  📅 2026-09-15
+     🔗 https://github.com/wil-ckaew/sentinel-quantum-xdr
+     📝 cibersegurança XDR platform with hybrid detection (rules + ML), SOAR automation,…
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 het06/het06.github.io
+     ⭐ 0  🗣 HTML  📅 2026-09-16
+     🔗 https://github.com/het06/het06.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 LindsayAlexandraDealy/SOC
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/LindsayAlexandraDealy/SOC
+     📝 Infrastructure Monitoring Tools
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 Santo-Ryu/llm-analyzed-iocs
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Santo-Ryu/llm-analyzed-iocs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 paulocesar00148-hub/malware-lab-educacional
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/paulocesar00148-hub/malware-lab-educacional
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 izourane/Security-Analyzer-
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/izourane/Security-Analyzer-
+     📝 Analysis of processes, services, and suspicious connections
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 nludd25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/nludd25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 Iamh4mm3r/Iamh4mm3r
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/Iamh4mm3r/Iamh4mm3r
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 sforrati-blue-team/attd-a-bt
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/sforrati-blue-team/attd-a-bt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 vantya/win-virus-veo
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/vantya/win-virus-veo
+     📝 Windows includes MpCmdRun.exe, the command-line utility for Windows Defender. Yo…
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 rgregorio278-GRC/hail-software-cybersecurity-assessment
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/rgregorio278-GRC/hail-software-cybersecurity-assessment
+     📝 Independent cybersecurity risk assessment and GRC case study aligned with ISO 27…
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 edrive-pakistan/EDrive-pakistan
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/edrive-pakistan/EDrive-pakistan
+     📝 ride hiling taxi service 
+     🏷  —
+[2026-09-16 03:49:01 UTC] [NEW]   🆕 📦 sclem34/telehealth-cybersecurity-assessment
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/sclem34/telehealth-cybersecurity-assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:01 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-16 03:49:01 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated every 10 mi…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (7gg)
+[2026-09-16 03:49:01 UTC] [UPD]   📢 📦 desodhunny1907/Edraw-Max
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/desodhunny1907/Edraw-Max
+     📝 Download EdrawMax — a versatile mind mapping tool for Windows with free download…
+     🏷  business-cards, diagram-creation-tool, diagram-software, infographics, productivity-tools, software, tools, vector-graphics
+     🔄 Motivo: repo recente (1gg)
+[2026-09-16 03:49:01 UTC] [UPD]   📢 📦 gxwane/agy-orbit
+     ⭐ 0  🗣 Rust  📅 2026-09-14
+     🔗 https://github.com/gxwane/agy-orbit
+     📝 Lightweight, transactional multi-account manager and lifetime lease supervisor f…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-16 03:49:01 UTC] [UPD]   📢 📦 GSC-V12/healthrmm-agent
+     ⭐ 0  🗣 TypeScript  📅 2026-09-15
+     🔗 https://github.com/GSC-V12/healthrmm-agent
+     📝 Health RMM white-label agent (private)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-16 03:49:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-16 03:49:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-16 03:49:03 UTC] [INFO]   → 23 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-16 03:49:03 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-16 03:49:03 UTC] [NEW]   🆕 📦 kopidingin01/Claude-Red
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/kopidingin01/Claude-Red
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:03 UTC] [NEW]   🆕 📦 shetos1991/6.72v9.00
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/shetos1991/6.72v9.00
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 03:49:03 UTC] [NEW]   🆕 📦 Wigglez-sudo/Bagagwa-Exploit-PS5
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/Wigglez-sudo/Bagagwa-Exploit-PS5
+     📝 Work in progress: Bagagwa (the aio_multi_wait use-after-free) native kernel expl…
+     🏷  bagagwa, exploit, firmware-12-40, jailbreak, ps5, use-after-free
+[2026-09-16 03:49:03 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-16 03:49:03 UTC] [UPD]   📢 📦 ngdungaccff1001-lgtm/meomro
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/ngdungaccff1001-lgtm/meomro
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-16 03:49:03 UTC] [UPD]   📢 📦 accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup
+     📝 Security research write-up on exploiting CVE-2026-43499 on the Amazon Fire TV St…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-16 03:49:03 UTC] [UPD]   📢 📦 vonhatqui/ipa
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/vonhatqui/ipa
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-16 03:49:03 UTC] [UPD]   📢 📦 Freedomjet/venom4.1
+     ⭐ 0  🗣 JavaScript  📅 2026-09-14
+     🔗 https://github.com/Freedomjet/venom4.1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-16 03:49:03 UTC] [UPD]   📢 📦 Rusickk1995/pentest-roadmap-ru
+     ⭐ 2  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/Rusickk1995/pentest-roadmap-ru
+     📝 Путь от нуля до Junior Pentester: Networking, Linux, Windows, Web, Active Direct…
+     🏷  active-directory, cybersecurity, cybersecurity-roadmap, ethical-hacking, infosec, learning, linux, network-security, networking, penetration-testing, pentesting, pentesting-roadmap, russian, web-security, windows
+     🔄 Motivo: repo recente (5gg)
+[2026-09-16 03:49:03 UTC] [INFO] ============================================================
+[2026-09-16 03:49:03 UTC] [INFO] Completato — 24 nuovi, 11 aggiornati, 0 errori
+[2026-09-16 03:49:03 UTC] [INFO] ============================================================
