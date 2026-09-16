@@ -86873,3 +86873,237 @@
 [2026-09-16 03:49:03 UTC] [INFO] ============================================================
 [2026-09-16 03:49:03 UTC] [INFO] Completato — 24 nuovi, 11 aggiornati, 0 errori
 [2026-09-16 03:49:03 UTC] [INFO] ============================================================
+[2026-09-16 11:00:07 UTC] [INFO] ============================================================
+[2026-09-16 11:00:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-16 11:00:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-16 11:00:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-16 11:00:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-16 11:00:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-16 11:00:07 UTC] [INFO] ============================================================
+[2026-09-16 11:00:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-16 11:00:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-16 11:00:09 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-16 11:00:09 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-16 11:00:09 UTC] [NEW]   🆕 📦 ShubhiDixit09/JOCKY-
+     ⭐ 0  🗣 Rust  📅 2026-09-16
+     🔗 https://github.com/ShubhiDixit09/JOCKY-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:09 UTC] [NEW]   🆕 📦 Krishay-Verma/SIH26148-JOCKY
+     ⭐ 1  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Krishay-Verma/SIH26148-JOCKY
+     📝 JOCKY is a cross-platform forensic analysis framework with a domain-specific lan…
+     🏷  —
+[2026-09-16 11:00:09 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-16 11:00:09 UTC] [UPD]   📢 📦 Pamure/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Pamure/jocky-forensics
+     📝 JOCKY (SIH26148): Advanced forensic scripting language and stealth runtime for c…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-16 11:00:09 UTC] [UPD]   📢 📦 5forzin/abraham
+     ⭐ 0  🗣 Rust  📅 2026-09-12
+     🔗 https://github.com/5forzin/abraham
+     📝 Purple-team C2 research framework for Windows. Every offensive technique ships w…
+     🏷  detection-engineering, rust, security-research, windows-internals
+     🔄 Motivo: repo recente (4gg)
+[2026-09-16 11:00:09 UTC] [UPD]   📢 📦 Twodragon0/Twodragon0
+     ⭐ 0  🗣 Python  📅 2026-09-11
+     🔗 https://github.com/Twodragon0/Twodragon0
+     📝 Profile README
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-09-16 11:00:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-16 11:00:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-16 11:00:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 32 NUOVI repository:
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 agentshield-sh/agentshield
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/agentshield-sh/agentshield
+     📝 The security audit for your AI agents: exposed secrets, risky agent and MCP conf…
+     🏷  agent-skills, ai-agents, claude-code, cli, mcp, secrets-detection, security
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 locallhosts/Zero-Trust-IAP
+     ⭐ 0  🗣 Go  📅 2026-09-16
+     🔗 https://github.com/locallhosts/Zero-Trust-IAP
+     📝 Security-focused Zero Trust Identity-Aware Proxy built in Go with mTLS, SPIFFE/S…
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 ZincProjects/NocturneAnalysis
+     ⭐ 0  🗣 TypeScript  📅 2026-09-16
+     🔗 https://github.com/ZincProjects/NocturneAnalysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 peanfium-prog/pEDRO
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/peanfium-prog/pEDRO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 E-drive-pakistan/EDrive-Lahore-
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/E-drive-pakistan/EDrive-Lahore-
+     📝 EDrive Pakistan — A Pakistan-focused ride-hailing and taxi platform, founded and…
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 adee5a/edr-strategy-sanitized
+     ⭐ 0  🗣 Mermaid  📅 2026-09-16
+     🔗 https://github.com/adee5a/edr-strategy-sanitized
+     📝 Sanitized EDR architecture and incident-response case study covering endpoint te…
+     🏷  cybersecurity, edr, endpoint-security, incident-response, network-security, security-monitoring
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 MARCIOSAGER/sga-onpremise-stack
+     ⭐ 0  🗣 PowerShell  📅 2026-09-16
+     🔗 https://github.com/MARCIOSAGER/sga-onpremise-stack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 William-Edric-Harianto/VisualProgramming_Week01_Edric
+     ⭐ 0  🗣 Kotlin  📅 2026-09-16
+     🔗 https://github.com/William-Edric-Harianto/VisualProgramming_Week01_Edric
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 NotLucifer18/hindustan
+     ⭐ 0  🗣 HTML  📅 2026-09-16
+     🔗 https://github.com/NotLucifer18/hindustan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 rainfantry/wsl-airgap-windows-expansion
+     ⭐ 1  🗣 PowerShell  📅 2026-09-15
+     🔗 https://github.com/rainfantry/wsl-airgap-windows-expansion
+     📝 Air-gapped Windows setup that allows only VPS, and Claude API access.
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 HariffSoft/HariffShield
+     ⭐ 0  🗣 N/A  📅 2026-09-15
+     🔗 https://github.com/HariffSoft/HariffShield
+     📝 HariffShield Endpoint Updater
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 Zeeeepa/Awesome_AI_to_AGI
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/Zeeeepa/Awesome_AI_to_AGI
+     📝 Curated Awesome AI to AGI Repository Catalog & Lakehouse with 9-Field Provenance…
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 Samirsain/POS
+     ⭐ 0  🗣 TypeScript  📅 2026-09-15
+     🔗 https://github.com/Samirsain/POS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 smokericeash/kandor
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/smokericeash/kandor
+     📝 KANDOR is a containerized C2 (Command-and-Control) lab platform for authorized c…
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 ErMeetkanteliya/VR_SOC
+     ⭐ 0  🗣 TypeScript  📅 2026-09-16
+     🔗 https://github.com/ErMeetkanteliya/VR_SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 GargiRawat00/KernelGate
+     ⭐ 0  🗣 C++  📅 2026-09-16
+     🔗 https://github.com/GargiRawat00/KernelGate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 skillre/prototype-s1-incident-command
+     ⭐ 0  🗣 TypeScript  📅 2026-09-16
+     🔗 https://github.com/skillre/prototype-s1-incident-command
+     📝 Prototype S1 · 事件指挥台（Factory 派生产品）
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 rahuldebjana/Unified-EDR-Dashboard
+     ⭐ 0  🗣 TypeScript  📅 2026-09-16
+     🔗 https://github.com/rahuldebjana/Unified-EDR-Dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 Mr-N1ck/reghive
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/Mr-N1ck/reghive
+     📝 Windows registry persistence & execution research lab exploring autostart keys, …
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 CH-GAGANRAJ/TawasolPay
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/CH-GAGANRAJ/TawasolPay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 Mr-N1ck/badusb-hid-arsenal
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/Mr-N1ck/badusb-hid-arsenal
+     📝 Enterprise-grade BadUSB HID keystroke injection suite for physical penetration t…
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 sanu06-hub/Malware-Detection-Classification
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/sanu06-hub/Malware-Detection-Classification
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 ashwinp17/Azure-Microsoft-Defender-Endpoint-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/ashwinp17/Azure-Microsoft-Defender-Endpoint-Lab
+     📝 Hands-on Azure security lab using Microsoft Entra ID, RBAC, Microsoft Defender f…
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 ka1julele/ReKai
+     ⭐ 1  🗣 Go  📅 2026-09-16
+     🔗 https://github.com/ka1julele/ReKai
+     📝 Simple payload in Go for reverse shell in windows architecture
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 swatv3nub/threatLens
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/swatv3nub/threatLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 yuvraj-shahi-011/Learning-Cyber-Security
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/yuvraj-shahi-011/Learning-Cyber-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 eylommaayan/THM---ntroduction-to-SOAR
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/eylommaayan/THM---ntroduction-to-SOAR
+     📝 חדר מעשי המציג את תפקידה של מערכת SOAR באיחוד כלי הגנה שונים (SIEM, EDR, Firewal…
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 Jagadish-116/argus-reference
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/Jagadish-116/argus-reference
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 unaAtadura/renpy-overlay
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/unaAtadura/renpy-overlay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 Mr-N1ck/sentrix
+     ⭐ 0  🗣 Tape  📅 2026-09-16
+     🔗 https://github.com/Mr-N1ck/sentrix
+     📝 High-performance Linux host defense sentinel auditing /proc and socket state to …
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 Mr-N1ck/cryptovenom
+     ⭐ 0  🗣 N/A  📅 2026-09-16
+     🔗 https://github.com/Mr-N1ck/cryptovenom
+     📝 Educational ransomware & double-extortion simulation lab modeling AES/RSA hybrid…
+     🏷  —
+[2026-09-16 11:00:11 UTC] [NEW]   🆕 📦 SREEVATHSAN07/AI-Enhanced-Memory-Injection-and-process-Hollowing-Detection-Using-Memory-Forensics
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/SREEVATHSAN07/AI-Enhanced-Memory-Injection-and-process-Hollowing-Detection-Using-Memory-Forensics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:11 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-16 11:00:11 UTC] [UPD]   📢 📦 zapplyjobs/Spain-Jobs-2027
+     ⭐ 0  🗣 N/A  📅 2026-09-08
+     🔗 https://github.com/zapplyjobs/Spain-Jobs-2027
+     📝 🇪🇸 Jobs across Spain — tech, finance, healthcare, and more — updated every 10 mi…
+     🏷  barcelona, careers, hiring, madrid, spain-jobs
+     🔄 Motivo: repo recente (7gg)
+[2026-09-16 11:00:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-16 11:00:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-16 11:00:13 UTC] [INFO]   → 26 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-16 11:00:13 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-16 11:00:13 UTC] [NEW]   🆕 📦 iwillsolo/123
+     ⭐ 0  🗣 C++  📅 2026-09-16
+     🔗 https://github.com/iwillsolo/123
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:13 UTC] [NEW]   🆕 📦 SOJU001/CatSec-TryHackMe-WriteUps
+     ⭐ 0  🗣 ASP.NET  📅 2026-09-16
+     🔗 https://github.com/SOJU001/CatSec-TryHackMe-WriteUps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-16 11:00:13 UTC] [NEW]   🆕 📦 nanofuxion/Whetstone
+     ⭐ 1  🗣 C  📅 2026-09-16
+     🔗 https://github.com/nanofuxion/Whetstone
+     📝 On-device JIT enabler for iOS 12/13 (Amethyst exploits, per-app proc patching, n…
+     🏷  —
+[2026-09-16 11:00:13 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-16 11:00:13 UTC] [INFO] ============================================================
+[2026-09-16 11:00:13 UTC] [INFO] Completato — 37 nuovi, 4 aggiornati, 0 errori
+[2026-09-16 11:00:13 UTC] [INFO] ============================================================
