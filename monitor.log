@@ -87535,3 +87535,148 @@
 [2026-09-16 20:59:01 UTC] [INFO] ============================================================
 [2026-09-16 20:59:01 UTC] [INFO] Completato — 28 nuovi, 7 aggiornati, 0 errori
 [2026-09-16 20:59:01 UTC] [INFO] ============================================================
+[2026-09-17 03:54:20 UTC] [INFO] ============================================================
+[2026-09-17 03:54:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-17 03:54:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-17 03:54:20 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-17 03:54:20 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-17 03:54:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-17 03:54:20 UTC] [INFO] ============================================================
+[2026-09-17 03:54:20 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-17 03:54:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-17 03:54:22 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-17 03:54:22 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-17 03:54:22 UTC] [NEW]   🆕 📦 stoltembergg-png/pubg
+     ⭐ 0  🗣 C++  📅 2026-09-16
+     🔗 https://github.com/stoltembergg-png/pubg
+     📝 PubgExt - overlay ImGui + driver leitura memoria (C++20/MSVC)
+     🏷  —
+[2026-09-17 03:54:22 UTC] [NEW]   🆕 📦 uLl0a/MSRMapper
+     ⭐ 1  🗣 C++  📅 2026-09-17
+     🔗 https://github.com/uLl0a/MSRMapper
+     📝 MSRMapper is a manual kernel driver mapper for Windows x64 that abuses CVE-2025-…
+     🏷  —
+[2026-09-17 03:54:22 UTC] [NEW]   🆕 📦 kilicsizoglu/project-guard
+     ⭐ 0  🗣 Rust  📅 2026-09-16
+     🔗 https://github.com/kilicsizoglu/project-guard
+     📝 Next-gen open-source Windows Antivirus, EDR & Threat Hunting agent in pure Rust …
+     🏷  —
+[2026-09-17 03:54:22 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-17 03:54:22 UTC] [UPD]   📢 📦 5forzin/abraham
+     ⭐ 0  🗣 Rust  📅 2026-09-12
+     🔗 https://github.com/5forzin/abraham
+     📝 Purple-team C2 research framework for Windows. Every offensive technique ships w…
+     🏷  detection-engineering, rust, security-research, windows-internals
+     🔄 Motivo: repo recente (4gg)
+[2026-09-17 03:54:22 UTC] [UPD]   📢 📦 Yavuzhanzgen/ValleyRAT-Malware-Analysis
+     ⭐ 0  🗣 Python  📅 2026-09-15
+     🔗 https://github.com/Yavuzhanzgen/ValleyRAT-Malware-Analysis
+     📝 Technical analysis of ValleyRAT, covering static and dynamic analysis, reverse e…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-17 03:54:22 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-17 03:54:22 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-17 03:54:24 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 wittkung/ttmpv
+     ⭐ 0  🗣 C  📅 2026-09-17
+     🔗 https://github.com/wittkung/ttmpv
+     📝 TTMPV: High-performance native media engine and headless playback core for Apple…
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 yet2333333/heat-exchanger-datasheet
+     ⭐ 1  🗣 HTML  📅 2026-09-17
+     🔗 https://github.com/yet2333333/heat-exchanger-datasheet
+     📝 化工换热器设计辅助工具：按 GB/T 28712、GB/T 151 自动选型计算，解析 Aspen EDR 文件做对比验证，一键导出条件图表 xlsx。单文件 …
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 rajpriyanshu148/cybersecurity-zero-trust-platform
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/rajpriyanshu148/cybersecurity-zero-trust-platform
+     📝 Track 2 Zero-Trust Telemetry & Insider Threat Analytics Platform (TransOrg Agent…
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 penjagakres/Secure-Wipe-File
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/penjagakres/Secure-Wipe-File
+     📝 "Console-based secure free-space wiping tool for Windows" — prevents recovery of…
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 viking6972/Europese-Controlestaat-Dossier.
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/viking6972/Europese-Controlestaat-Dossier.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 rostillwell/RoStillwell
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/rostillwell/RoStillwell
+     📝 Hands-on cybersecurity labs and security investigations covering phishing, endpo…
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 Ibrahim-BlueTeam/Ibrahim-BlueTeam
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/Ibrahim-BlueTeam/Ibrahim-BlueTeam
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 HARZE12/payload-forge
+     ⭐ 0  🗣 HTML  📅 2026-09-16
+     🔗 https://github.com/HARZE12/payload-forge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 jakeleekr13-otter/hydrotone
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/jakeleekr13-otter/hydrotone
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 kilicsizoglu/project-guard
+     ⭐ 0  🗣 Rust  📅 2026-09-16
+     🔗 https://github.com/kilicsizoglu/project-guard
+     📝 Next-gen open-source Windows Antivirus, EDR & Threat Hunting agent in pure Rust …
+     🏷  —
+[2026-09-17 03:54:24 UTC] [NEW]   🆕 📦 nicky-quist/soc-analyst-simulator
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/nicky-quist/soc-analyst-simulator
+     📝 A Tier-1 SOC analyst console: work a simulated shift, triage alerts, and track y…
+     🏷  —
+[2026-09-17 03:54:24 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-17 03:54:24 UTC] [UPD]   📢 📦 mgritnpt/npt_risk_assessment
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/mgritnpt/npt_risk_assessment
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-17 03:54:24 UTC] [UPD]   📢 📦 annatchijova/zaynor
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/annatchijova/zaynor
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-17 03:54:24 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-17 03:54:24 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-17 03:54:26 UTC] [INFO]   → 13 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-17 03:54:26 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-17 03:54:26 UTC] [NEW]   🆕 📦 raminho111/externalios
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/raminho111/externalios
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 03:54:26 UTC] [NEW]   🆕 📦 S7ruc7ureV01d/sharp-leitz-phone-2-bootloader-research
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/S7ruc7ureV01d/sharp-leitz-phone-2-bootloader-research
+     📝 Personal bootloader-unlock/root research on a SHARP Leitz Phone 2 (LP-02, SoftBa…
+     🏷  —
+[2026-09-17 03:54:26 UTC] [NEW]   🆕 📦 staturnzz/procyon
+     ⭐ 10  🗣 C  📅 2026-09-16
+     🔗 https://github.com/staturnzz/procyon
+     📝 untethered re-jailbreak for iOS 10.0-10.3.4 (32bit)
+     🏷  —
+[2026-09-17 03:54:26 UTC] [NEW]   🆕 📦 rushiranpise/samsu
+     ⭐ 0  🗣 C  📅 2026-09-16
+     🔗 https://github.com/rushiranpise/samsu
+     📝 WIP
+     🏷  —
+[2026-09-17 03:54:26 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-17 03:54:26 UTC] [UPD]   📢 📦 bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     ⭐ 0  🗣 Swift  📅 2026-09-15
+     🔗 https://github.com/bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     📝 Rebuild of the 3105 iOS project with macOS GitHub Actions build automation
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-17 03:54:26 UTC] [INFO] ============================================================
+[2026-09-17 03:54:26 UTC] [INFO] Completato — 18 nuovi, 5 aggiornati, 0 errori
+[2026-09-17 03:54:26 UTC] [INFO] ============================================================
