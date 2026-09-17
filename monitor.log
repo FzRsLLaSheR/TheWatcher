@@ -87680,3 +87680,161 @@
 [2026-09-17 03:54:26 UTC] [INFO] ============================================================
 [2026-09-17 03:54:26 UTC] [INFO] Completato — 18 nuovi, 5 aggiornati, 0 errori
 [2026-09-17 03:54:26 UTC] [INFO] ============================================================
+[2026-09-17 11:10:40 UTC] [INFO] ============================================================
+[2026-09-17 11:10:40 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-17 11:10:40 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-17 11:10:40 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-17 11:10:40 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-17 11:10:40 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-17 11:10:40 UTC] [INFO] ============================================================
+[2026-09-17 11:10:40 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-17 11:10:40 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-17 11:10:42 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-17 11:10:42 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-17 11:10:42 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-17 11:10:42 UTC] [UPD]   📢 📦 stoltembergg-png/pubg
+     ⭐ 0  🗣 C++  📅 2026-09-16
+     🔗 https://github.com/stoltembergg-png/pubg
+     📝 PubgExt - overlay ImGui + driver leitura memoria (C++20/MSVC)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-17 11:10:42 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-17 11:10:42 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-17 11:10:44 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 Heero195/SOC-Analyst-WriteUp-LetsDefend-practice-2026
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/Heero195/SOC-Analyst-WriteUp-LetsDefend-practice-2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 ganockii-arch/most
+     ⭐ 0  🗣 TypeScript  📅 2026-09-17
+     🔗 https://github.com/ganockii-arch/most
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 YaTut1901/polymorphic-malware
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/YaTut1901/polymorphic-malware
+     📝 This repository contains an example script of polymorphic malware
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 Neha010906/CyberRiskQuant
+     ⭐ 0  🗣 TypeScript  📅 2026-09-17
+     🔗 https://github.com/Neha010906/CyberRiskQuant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 HHT0rro/Xenolith
+     ⭐ 1  🗣 Rust  📅 2026-09-16
+     🔗 https://github.com/HHT0rro/Xenolith
+     📝 Open-source post-link packer for Windows x64 PE (experimental Linux ELF): select…
+     🏷  anti-tamper, binary-analysis, binary-protection, code-obfuscation, dll, elf, obfuscator, packer, pe, reverse-engineering, rust, virtual-machine, vm-obfuscation, windows, x86-64
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 Kronoscba/shroud
+     ⭐ 0  🗣 Rust  📅 2026-09-17
+     🔗 https://github.com/Kronoscba/shroud
+     📝 Professional shellcode encoder & AV/EDR evasion framework written in Rust
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 pinereste/edrf
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/pinereste/edrf
+     📝 content
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 Ikmy247/security-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/Ikmy247/security-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 arokepg/QDDCA-FW
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/arokepg/QDDCA-FW
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 icysun/AI_Pent_Bot
+     ⭐ 1  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/icysun/AI_Pent_Bot
+     📝 自主渗透解题 Agent | TSecBench 六大能力域 AI 攻防跑分 Agent（实测 21,200/23,000 = 92.17%）
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 Aashir-Rajpoot/SOCANALYSTBYAASHIRRAJPOOT
+     ⭐ 0  🗣 JavaScript  📅 2026-09-17
+     🔗 https://github.com/Aashir-Rajpoot/SOCANALYSTBYAASHIRRAJPOOT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 JohnYezub/Code-obfuscator
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/JohnYezub/Code-obfuscator
+     📝 A Claude skill
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 cihanuralkaya/Kut-Security-Suit
+     ⭐ 0  🗣 Go  📅 2026-09-16
+     🔗 https://github.com/cihanuralkaya/Kut-Security-Suit
+     📝 Kut Security Suit - XDR/EDR/MDM guvenlik paketi
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 pengpeng10/UjianPraktikPBO_EdraChristian
+     ⭐ 0  🗣 Kotlin  📅 2026-09-17
+     🔗 https://github.com/pengpeng10/UjianPraktikPBO_EdraChristian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 rockaitech/Project-BlackStar
+     ⭐ 0  🗣 HTML  📅 2026-09-17
+     🔗 https://github.com/rockaitech/Project-BlackStar
+     📝 Adversarial cyber risk quantification for Indian colleges & MSMEs — turns a doma…
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 Allen-Mai/agent-reach-douyin-notes
+     ⭐ 0  🗣 PowerShell  📅 2026-09-17
+     🔗 https://github.com/Allen-Mai/agent-reach-douyin-notes
+     📝 抖音视频抓取实战笔记：yt-dlp 因 App-Bound Encryption 失效，改用 OpenCLI 浏览器自动化（含可复用脚本与 9 条踩坑记录）
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 jng011/irys
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/jng011/irys
+     📝 Face unlock for your Mac. On-device, no network. Fork of jonnyoo/glance.
+     🏷  —
+[2026-09-17 11:10:44 UTC] [NEW]   🆕 📦 AndrewSanAntonio1/Cybersecurity-Roadmap
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/AndrewSanAntonio1/Cybersecurity-Roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:44 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-17 11:10:44 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-17 11:10:44 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-17 11:10:46 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-17 11:10:46 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-17 11:10:46 UTC] [NEW]   🆕 📦 Sebastian0211-vs/DiscordPythonApp
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/Sebastian0211-vs/DiscordPythonApp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:46 UTC] [NEW]   🆕 📦 j4nak445/TRYHACKME-SUPPORT-WALKTHROUGH
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/j4nak445/TRYHACKME-SUPPORT-WALKTHROUGH
+     📝 Support Walkthrough
+     🏷  —
+[2026-09-17 11:10:46 UTC] [NEW]   🆕 📦 Ahmedsss-Sketch/AHMAD112233
+     ⭐ 0  🗣 JavaScript  📅 2026-09-17
+     🔗 https://github.com/Ahmedsss-Sketch/AHMAD112233
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:46 UTC] [NEW]   🆕 📦 bts2019amo-ctrl/3105-build
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/bts2019amo-ctrl/3105-build
+     📝 Build workflow for the 3105 iOS project
+     🏷  —
+[2026-09-17 11:10:46 UTC] [NEW]   🆕 📦 SOJU001/Sec-TryHackMe
+     ⭐ 0  🗣 ASP.NET  📅 2026-09-17
+     🔗 https://github.com/SOJU001/Sec-TryHackMe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 11:10:46 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-17 11:10:46 UTC] [UPD]   📢 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 10  🗣 C  📅 2026-09-13
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 The definitive zero-to-operator offensive engineering curriculum and operational…
+     🏷  active-directory, anti-forensics, binary-exploitation, c2-framework, cloud-security, cybersecurity, edr-evasion, exploit-development, kernel-exploitation, malware-development, mitre-attack, offensive-rust, offensive-security, opsec, penetration-testing, red-team, reverse-engineering, roadmap, security-research, threat-hunting
+     🔄 Motivo: repo recente (4gg)
+[2026-09-17 11:10:46 UTC] [UPD]   📢 📦 bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     ⭐ 0  🗣 Swift  📅 2026-09-15
+     🔗 https://github.com/bts2019amo-ctrl/3105-proxy-system-ios-rebuild
+     📝 Rebuild of the 3105 iOS project with macOS GitHub Actions build automation
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-17 11:10:46 UTC] [INFO] ============================================================
+[2026-09-17 11:10:46 UTC] [INFO] Completato — 23 nuovi, 3 aggiornati, 0 errori
+[2026-09-17 11:10:46 UTC] [INFO] ============================================================
