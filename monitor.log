@@ -87838,3 +87838,308 @@
 [2026-09-17 11:10:46 UTC] [INFO] ============================================================
 [2026-09-17 11:10:46 UTC] [INFO] Completato — 23 nuovi, 3 aggiornati, 0 errori
 [2026-09-17 11:10:46 UTC] [INFO] ============================================================
+[2026-09-17 16:27:28 UTC] [INFO] ============================================================
+[2026-09-17 16:27:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-17 16:27:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-17 16:27:28 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-17 16:27:28 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-17 16:27:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-17 16:27:28 UTC] [INFO] ============================================================
+[2026-09-17 16:27:28 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-17 16:27:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-17 16:27:31 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-17 16:27:31 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-17 16:27:31 UTC] [NEW]   🆕 📦 kmlgping/KKYUMPoc-lxx
+     ⭐ 0  🗣 C++  📅 2026-09-17
+     🔗 https://github.com/kmlgping/KKYUMPoc-lxx
+     📝 KKYUM POC
+     🏷  —
+[2026-09-17 16:27:31 UTC] [NEW]   🆕 📦 Dar1anMar1us/Pentesting-Environment
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/Dar1anMar1us/Pentesting-Environment
+     📝 Penetration testing environment, used locally or VPS
+     🏷  —
+[2026-09-17 16:27:31 UTC] [NEW]   🆕 📦 Dar1anMar1us/windows-pentest-kit
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/Dar1anMar1us/windows-pentest-kit
+     📝 windows-pentest-kit
+     🏷  —
+[2026-09-17 16:27:31 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-17 16:27:31 UTC] [UPD]   📢 📦 kilicsizoglu/project-guard
+     ⭐ 0  🗣 Rust  📅 2026-09-16
+     🔗 https://github.com/kilicsizoglu/project-guard
+     📝 Next-gen open-source Windows Antivirus, EDR & Threat Hunting agent in pure Rust …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-17 16:27:31 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-17 16:27:31 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-17 16:27:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 38 NUOVI repository:
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 FEDeRATED-Customs/Deployment-Example
+     ⭐ 0  🗣 Go Template  📅 2026-09-17
+     🔗 https://github.com/FEDeRATED-Customs/Deployment-Example
+     📝 A prepared example deployment and tools 
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 YOUR-PAYMENT-SUCCESSFULLY-E56T/repo-4k5edrmr
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/YOUR-PAYMENT-SUCCESSFULLY-E56T/repo-4k5edrmr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 d7qrhsspop/edri
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/d7qrhsspop/edri
+     📝 content
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 NOT-Z3R0/payload-obfuscation-framework
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/NOT-Z3R0/payload-obfuscation-framework
+     📝 Educational payload encoding and obfuscation framework for evasion testing.
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 f8al/ShrimpInjector
+     ⭐ 1  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/f8al/ShrimpInjector
+     📝 Unified .NET assembly & shellcode payload builder — msfvenom-style CLI for LOLBi…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 devkancheti4-design/crossing-escrow
+     ⭐ 0  🗣 TypeScript  📅 2026-09-17
+     🔗 https://github.com/devkancheti4-design/crossing-escrow
+     📝 Non-custodial stablecoin settlement escrow whose release is ruled by a branchles…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 mh-jsx/codebase-guard
+     ⭐ 0  🗣 TypeScript  📅 2026-09-17
+     🔗 https://github.com/mh-jsx/codebase-guard
+     📝 Local zero-execution static scanner for suspicious code and risky project config…
+     🏷  cursor, open-vsx, security, static-analysis, typescript, vscode-extension
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 yashdua4/sentinelQ
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/yashdua4/sentinelQ
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 raiFWnet/raiFWnet
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/raiFWnet/raiFWnet
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 tngoc1810/Blueteam-Notes
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/tngoc1810/Blueteam-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 Sandesh14015/EDR-Sub-project.
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/Sandesh14015/EDR-Sub-project.
+     📝 This is a subprpoject of a vastly designed main project.
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 securepixels/security-operations-lab
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/securepixels/security-operations-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 coder8820/ai-cyber-investigator
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/coder8820/ai-cyber-investigator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 zerocallbacks/rangeforge-user-emulation
+     ⭐ 0  🗣 Go  📅 2026-09-16
+     🔗 https://github.com/zerocallbacks/rangeforge-user-emulation
+     📝 Go based User Emulation Suite for training purposes. 
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 adityarajgupta154/MailGuard-AI
+     ⭐ 0  🗣 TypeScript  📅 2026-09-17
+     🔗 https://github.com/adityarajgupta154/MailGuard-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 Tanmay-Anand/pre-meeting-briefing-assistant
+     ⭐ 1  🗣 Java  📅 2026-09-17
+     🔗 https://github.com/Tanmay-Anand/pre-meeting-briefing-assistant
+     📝 AI pre-meeting briefing assistant for CRM agents: grounded, cited briefings gene…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 lopes/graft
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/lopes/graft
+     📝 Unified Detection-as-Code engine for Google SecOps and beyond.
+     🏷  detection-as-code, google, google-secops, siem, threat-detection
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 iandrade1987/playbooks_cybersecurity
+     ⭐ 0  🗣 HTML  📅 2026-09-17
+     🔗 https://github.com/iandrade1987/playbooks_cybersecurity
+     📝 Playbooks de resposta a incidentes de cibersegurança — Flask + SQLite, MITRE ATT…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 blankshiro/ZPS-Notes
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/blankshiro/ZPS-Notes
+     📝 Command-first Zero-Point Security CRTO and CRTL field notes
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 Scrocisss/VSKB_course
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/Scrocisss/VSKB_course
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 collinstevens/rust-pwsh-git-prompt
+     ⭐ 0  🗣 PowerShell  📅 2026-09-17
+     🔗 https://github.com/collinstevens/rust-pwsh-git-prompt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 Ramos679/behavioral-security-system
+     ⭐ 0  🗣 CSS  📅 2026-09-17
+     🔗 https://github.com/Ramos679/behavioral-security-system
+     📝 Behavioral security system design for detecting suspicious account behavior shif…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 spyko-app/monitorpilot
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/spyko-app/monitorpilot
+     📝 Menu-bar + CLI display control for macOS: DDC/CI brightness, HiDPI, XDR boost, v…
+     🏷  brightness, ddc, display, hidpi, macos, menubar, swift
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 blankshiro/OSEP-Notes
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/blankshiro/OSEP-Notes
+     📝 Command-first PEN-300/OSEP field notes with validated examples and website synch…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 kmlgping/KKYUMPoc-lxx
+     ⭐ 0  🗣 C++  📅 2026-09-17
+     🔗 https://github.com/kmlgping/KKYUMPoc-lxx
+     📝 KKYUM POC
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 sbyba/Cyber-Threat-Intelligence-for-Android-Mobile-Application-Security
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/sbyba/Cyber-Threat-Intelligence-for-Android-Mobile-Application-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 oshandi/malware-beaconing-detection
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/oshandi/malware-beaconing-detection
+     📝 Simulating and detecting malware C2 beaconing behavior in an isolated home lab u…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 gokifujiya/edrm-rag
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/gokifujiya/edrm-rag
+     📝 Local RAG system for e-discovery and information governance documents using Chro…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 ganockii-arch/most
+     ⭐ 0  🗣 TypeScript  📅 2026-09-17
+     🔗 https://github.com/ganockii-arch/most
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 bacescuandrei/macos-inspector
+     ⭐ 1  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/bacescuandrei/macos-inspector
+     📝 Read-only macOS security inspection and DFIR triage tool for incident responders…
+     🏷  dfir, digital-forensics, incident-response, macos, macos-security, python, security, security-audit, threat-hunting, yara
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 yatinkhr/Advanced-Keylogger-and-Endpoint-Data-Collection-Simulator
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/yatinkhr/Advanced-Keylogger-and-Endpoint-Data-Collection-Simulator
+     📝 project
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 amassaro1978/ai-agent-sandbox-comparison
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/amassaro1978/ai-agent-sandbox-comparison
+     📝 Security comparison for nono, NVIDIA OpenShell, and Podman
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 ivanlomeli/comfy-secure-bootstrap
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/ivanlomeli/comfy-secure-bootstrap
+     📝 Bootstrap seguro para Ubuntu 24.04 + WireGuard-only SSH + ComfyUI en GPU (L40S/A…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 serdarnas/olive_edremit
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/serdarnas/olive_edremit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 invoice235989/Checkout-Route-161edrbu
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/invoice235989/Checkout-Route-161edrbu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 Kronoscba/wraith
+     ⭐ 0  🗣 Go  📅 2026-09-17
+     🔗 https://github.com/Kronoscba/wraith
+     📝 Professional C2 framework written in Go — multi-protocol (TCP/HTTP/HTTPS/DNS), A…
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 Dar1anMar1us/windows-pentest-kit
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/Dar1anMar1us/windows-pentest-kit
+     📝 windows-pentest-kit
+     🏷  —
+[2026-09-17 16:27:33 UTC] [NEW]   🆕 📦 mikasaw/dimenData
+     ⭐ 0  🗣 C++  📅 2026-09-17
+     🔗 https://github.com/mikasaw/dimenData
+     📝 Windows 硬件信息采集与设备指纹工具：模块化多通道采集（smbios/registry/native/wmi）+ 四种归并策略 + 指纹引擎（整机/子指纹…
+     🏷  cpp17, device-fingerprint, hardware-id, licensing, smbios, windows, wmi
+[2026-09-17 16:27:33 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-17 16:27:33 UTC] [UPD]   📢 📦 jng011/irys
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/jng011/irys
+     📝 Face unlock for your Mac. On-device, no network. Fork of jonnyoo/glance.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-17 16:27:33 UTC] [UPD]   📢 📦 Heero195/SOC-Analyst-WriteUp-LetsDefend-practice-2026
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/Heero195/SOC-Analyst-WriteUp-LetsDefend-practice-2026
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-17 16:27:33 UTC] [UPD]   📢 📦 NdrZet/Omni-Eye
+     ⭐ 0  🗣 C#  📅 2026-09-13
+     🔗 https://github.com/NdrZet/Omni-Eye
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-17 16:27:33 UTC] [UPD]   📢 📦 annatchijova/zaynor
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/annatchijova/zaynor
+     📝 Local, deterministic DFIR investigation tool — a sealed math engine decides, a l…
+     🏷  cybersecurity, deterministic, dfir, digital-forensics, forensics, hackathon, incident-response, llm, ollama, python, security
+     🔄 Motivo: repo recente (1gg) | nuovi topic: llm, security, cybersecurity, forensics, incident-response, hackathon, dfir, digital-forensics, python, deterministic, ollama
+[2026-09-17 16:27:33 UTC] [UPD]   📢 📦 Ibrahim-BlueTeam/Ibrahim-BlueTeam
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/Ibrahim-BlueTeam/Ibrahim-BlueTeam
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-17 16:27:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-17 16:27:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-17 16:27:35 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-17 16:27:35 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-17 16:27:35 UTC] [NEW]   🆕 📦 Vk553/Vk
+     ⭐ 0  🗣 JavaScript  📅 2026-09-17
+     🔗 https://github.com/Vk553/Vk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:35 UTC] [NEW]   🆕 📦 zaniixx/Hack-the-Dice
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/zaniixx/Hack-the-Dice
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:35 UTC] [NEW]   🆕 📦 hoang-nam-dev12/36363636
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/hoang-nam-dev12/36363636
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-17 16:27:35 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-17 16:27:35 UTC] [UPD]   📢 📦 bts2019amo-ctrl/3105-build
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/bts2019amo-ctrl/3105-build
+     📝 Build workflow for the 3105 iOS project
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-17 16:27:35 UTC] [UPD]   📢 📦 Ahmedsss-Sketch/AHMAD112233
+     ⭐ 0  🗣 JavaScript  📅 2026-09-17
+     🔗 https://github.com/Ahmedsss-Sketch/AHMAD112233
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-17 16:27:35 UTC] [UPD]   📢 📦 Sebastian0211-vs/DiscordPythonApp
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/Sebastian0211-vs/DiscordPythonApp
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-17 16:27:35 UTC] [UPD]   📢 📦 k-o-n-t-o-r/ghostlock-sabrina
+     ⭐ 3  🗣 C  📅 2026-09-14
+     🔗 https://github.com/k-o-n-t-o-r/ghostlock-sabrina
+     📝 CVE-2026-43499 GhostLock root exploit for Chromecast with Google TV (sabrina)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-17 16:27:35 UTC] [INFO] ============================================================
+[2026-09-17 16:27:35 UTC] [INFO] Completato — 44 nuovi, 10 aggiornati, 0 errori
+[2026-09-17 16:27:35 UTC] [INFO] ============================================================
