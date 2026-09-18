@@ -88362,3 +88362,175 @@
 [2026-09-17 21:02:16 UTC] [INFO] ============================================================
 [2026-09-17 21:02:16 UTC] [INFO] Completato — 34 nuovi, 4 aggiornati, 0 errori
 [2026-09-17 21:02:16 UTC] [INFO] ============================================================
+[2026-09-18 03:41:32 UTC] [INFO] ============================================================
+[2026-09-18 03:41:32 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-18 03:41:32 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-18 03:41:32 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-18 03:41:32 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-18 03:41:32 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-18 03:41:32 UTC] [INFO] ============================================================
+[2026-09-18 03:41:32 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-18 03:41:32 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-18 03:41:34 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-18 03:41:34 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-18 03:41:34 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-18 03:41:34 UTC] [UPD]   📢 📦 vmmuthu31/jocky
+     ⭐ 0  🗣 Rust  📅 2026-09-11
+     🔗 https://github.com/vmmuthu31/jocky
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-18 03:41:34 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-18 03:41:34 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-18 03:41:37 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 21 NUOVI repository:
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 tchungseecheong-cell/wazuh-edr-homelab
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/tchungseecheong-cell/wazuh-edr-homelab
+     📝 Hands-on cybersecurity home lab demonstrating endpoint monitoring, threat detect…
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 huoqi1004/Xuanjian-agent-Sec
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/huoqi1004/Xuanjian-agent-Sec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 bassrxl/edrcb
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/bassrxl/edrcb
+     📝 content
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 neostyling/apktools
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/neostyling/apktools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 zaw44d/Poison-Ivy-RAT-Analysis-Logic
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/zaw44d/Poison-Ivy-RAT-Analysis-Logic
+     📝 Analysing the Poison Ivy RAT with ghidra and creating threat detection logic for…
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 warrenrebecca20/edridh
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/warrenrebecca20/edridh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 edrees-76/edrees-and-reda
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/edrees-76/edrees-and-reda
+     📝 مشروع ادريس و رضا
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 romanbogin/edrd
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/romanbogin/edrd
+     📝 content
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 muskansahcom-stack/CYBERRISKIQ
+     ⭐ 0  🗣 TypeScript  📅 2026-09-17
+     🔗 https://github.com/muskansahcom-stack/CYBERRISKIQ
+     📝 AI-powered cyber risk quantification, financial exposure analysis, what-if simul…
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 greenShimada/GANCHO
+     ⭐ 0  🗣 C  📅 2026-09-18
+     🔗 https://github.com/greenShimada/GANCHO
+     📝 Generic API Native Custom Hook Operator
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 enzopereira1212/Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/enzopereira1212/Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 axeljohnedroso-web/edroso
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/axeljohnedroso-web/edroso
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 Saintlovesyouu/Infosec-labs
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/Saintlovesyouu/Infosec-labs
+     📝 SOC Labs Academy
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 yNopaak/Noychox-painel-novo-2010
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/yNopaak/Noychox-painel-novo-2010
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 Mateusfb-ai/monitorpilot
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/Mateusfb-ai/monitorpilot
+     📝 Menu-bar + CLI display control for macOS: DDC/CI brightness, HiDPI, XDR boost, v…
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 bratkoo99/threat-ioc-platform
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/bratkoo99/threat-ioc-platform
+     📝 Threat Intelligence & IOC Scanner Platform — C scanner + Python/SSE web dashboar…
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 saideekshithareddypalpunoori-cloud/iocextract
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/saideekshithareddypalpunoori-cloud/iocextract
+     📝 Practice repository for exploring advanced features
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 CiscoCertifications/cisco-200-201
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/CiscoCertifications/cisco-200-201
+     📝 Cisco 200-201 CBROPS Exam: Understanding Cisco Cybersecurity Operations Fundamen…
+     🏷  200-201-cisco, 200-201-exam, 200-201-pdf, cbrops, cisco, cisco-certification, cisco-certification-exam, cisco-certification-practice-test, cyberops-associate, soc-analyst, soc-analysts
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 CiscoCertifications/cisco-100-160
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/CiscoCertifications/cisco-100-160
+     📝 Cisco 100-160 Exam: Cisco Certified Support Technician (CCST) Cybersecurity Stud…
+     🏷  100-160, 100-160-exam, 100-160-practice-test, ccst-cybersecurity, cisco, cisco-certification
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 ZhawrtDev/DismCore-Proxy-Loader
+     ⭐ 1  🗣 C++  📅 2026-09-17
+     🔗 https://github.com/ZhawrtDev/DismCore-Proxy-Loader
+     📝 Proxy DLL COM para Windows com payload RC4 embutido. Encaminha exports COM para …
+     🏷  —
+[2026-09-18 03:41:37 UTC] [NEW]   🆕 📦 phantomroot0x/windows-malware-analysis-IR
+     ⭐ 0  🗣 N/A  📅 2026-09-17
+     🔗 https://github.com/phantomroot0x/windows-malware-analysis-IR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 03:41:37 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-18 03:41:37 UTC] [UPD]   📢 📦 annatchijova/zaynor
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/annatchijova/zaynor
+     📝 Local, deterministic DFIR investigation tool — a sealed math engine decides, a l…
+     🏷  cybersecurity, deterministic, dfir, digital-forensics, forensics, hackathon, incident-response, llm, ollama, python, security
+     🔄 Motivo: repo recente (2gg)
+[2026-09-18 03:41:37 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-18 03:41:37 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-18 03:41:39 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-18 03:41:39 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-18 03:41:39 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-18 03:41:39 UTC] [UPD]   📢 📦 bts2019amo-ctrl/3105-ios-build
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/bts2019amo-ctrl/3105-ios-build
+     📝 Build of the original YangJiiii/3105 iOS project
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-18 03:41:39 UTC] [UPD]   📢 📦 zaniixx/Hack-the-Dice
+     ⭐ 0  🗣 JavaScript  📅 2026-09-16
+     🔗 https://github.com/zaniixx/Hack-the-Dice
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-18 03:41:39 UTC] [UPD]   📢 📦 abraaoskoro-wq/Ipa-3105s
+     ⭐ 0  🗣 Swift  📅 2026-09-14
+     🔗 https://github.com/abraaoskoro-wq/Ipa-3105s
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-18 03:41:39 UTC] [UPD]   📢 📦 Lupinofc/MainIos
+     ⭐ 0  🗣 Swift  📅 2026-09-15
+     🔗 https://github.com/Lupinofc/MainIos
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-18 03:41:39 UTC] [UPD]   📢 📦 milouk/mls-maic
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/milouk/mls-maic
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-18 03:41:39 UTC] [INFO] ============================================================
+[2026-09-18 03:41:39 UTC] [INFO] Completato — 21 nuovi, 7 aggiornati, 0 errori
+[2026-09-18 03:41:39 UTC] [INFO] ============================================================
