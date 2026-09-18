@@ -88534,3 +88534,177 @@
 [2026-09-18 03:41:39 UTC] [INFO] ============================================================
 [2026-09-18 03:41:39 UTC] [INFO] Completato — 21 nuovi, 7 aggiornati, 0 errori
 [2026-09-18 03:41:39 UTC] [INFO] ============================================================
+[2026-09-18 10:44:12 UTC] [INFO] ============================================================
+[2026-09-18 10:44:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-18 10:44:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-18 10:44:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-18 10:44:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-18 10:44:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-18 10:44:12 UTC] [INFO] ============================================================
+[2026-09-18 10:44:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-18 10:44:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-18 10:44:14 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-18 10:44:14 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-18 10:44:14 UTC] [NEW]   🆕 📦 xrip/ravencuu
+     ⭐ 1  🗣 C  📅 2026-09-18
+     🔗 https://github.com/xrip/ravencuu
+     📝 AMD Raven Ridge CU unlock. Unlock 11 (8 -> 11) compute units on AMD Ryzen 3 2200…
+     🏷  —
+[2026-09-18 10:44:14 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-18 10:44:14 UTC] [UPD]   📢 📦 vmmuthu31/jocky
+     ⭐ 0  🗣 Rust  📅 2026-09-11
+     🔗 https://github.com/vmmuthu31/jocky
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-18 10:44:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-18 10:44:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-18 10:44:17 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 Kinley-pal8/AS2026_SWS405_lab3
+     ⭐ 0  🗣 Shell  📅 2026-09-18
+     🔗 https://github.com/Kinley-pal8/AS2026_SWS405_lab3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 Kritsana-cmd/EDRXDR-Morpheus-BlueField-DOCA
+     ⭐ 0  🗣 TypeScript  📅 2026-09-18
+     🔗 https://github.com/Kritsana-cmd/EDRXDR-Morpheus-BlueField-DOCA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 mail-ninja/kalive
+     ⭐ 0  🗣 Shell  📅 2026-09-18
+     🔗 https://github.com/mail-ninja/kalive
+     📝 sec og ces
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 Enceka/e5-linux
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/Enceka/e5-linux
+     📝 Linux bringup for  Rongyue E5 | WIP
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 3rdoct/3rdoct-EDR-XDR-Dashboard-Siam.AI-x-Bangkok-University
+     ⭐ 0  🗣 TypeScript  📅 2026-09-18
+     🔗 https://github.com/3rdoct/3rdoct-EDR-XDR-Dashboard-Siam.AI-x-Bangkok-University
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 Boye2099/security-log-correlation-engine
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/Boye2099/security-log-correlation-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 diulumanu/edrvzmd
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/diulumanu/edrvzmd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 makers-ev/myverein-mobile
+     ⭐ 0  🗣 HTML  📅 2026-09-18
+     🔗 https://github.com/makers-ev/myverein-mobile
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 IceAllManGoal/Chronoscope
+     ⭐ 1  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/IceAllManGoal/Chronoscope
+     📝 Local-first history of your computer: collects, normalizes and stores Windows sy…
+     🏷  csharp, dotnet, event-log, event-sourcing, fastapi, local-first, observability, privacy, process-monitor, python, sqlite, system-monitoring, timeline, windows
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 sherynayakinnova/SampleMCP
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/sherynayakinnova/SampleMCP
+     📝 SampleMCP for eduction purpose
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 1doiliemkhoet/AI_SOC_low_quality
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/1doiliemkhoet/AI_SOC_low_quality
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 cfabregas/jpg2heif
+     ⭐ 0  🗣 Swift  📅 2026-09-18
+     🔗 https://github.com/cfabregas/jpg2heif
+     📝 macOS 工具：把「照片」图库里的 JPEG/PNG 转成 HEIF，原样保留 HDR 增益图，校验通过后再删原图
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 hlgaz/INC-2MIN-inhibitor-film-MD
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/hlgaz/INC-2MIN-inhibitor-film-MD
+     📝 MD data and inputs: indole-3-carbaldehyde (INC) and 2-methylindole (2MIN) inhibi…
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 ac1dz1337/ShadowWeaver
+     ⭐ 0  🗣 C++  📅 2026-09-18
+     🔗 https://github.com/ac1dz1337/ShadowWeaver
+     📝 A monolithic, version-agnostic Windows x64 shellcode loader demonstrating hardwa…
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 nstamalmail/track-10-capstones-cross-discipline
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/nstamalmail/track-10-capstones-cross-discipline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 vinaynayak2007/signature-scanner
+     ⭐ 0  🗣 HTML  📅 2026-09-18
+     🔗 https://github.com/vinaynayak2007/signature-scanner
+     📝 Signature + heuristic file scanner built from scratch — 33 tests, zero dependenc…
+     🏷  antivirus, blue-team, case-study, cybersecurity, heuristics, infosec, malware-analysis, portfolio, python, security-tools
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 rippsec/shellfuscate
+     ⭐ 0  🗣 Python  📅 2026-09-17
+     🔗 https://github.com/rippsec/shellfuscate
+     📝 shell obfuscator written in python
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 kennedyrobert1/edrrsl
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/kennedyrobert1/edrrsl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 brunomarsola/host-triage-tool
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/brunomarsola/host-triage-tool
+     📝 Educational host triage tool — detect, contain, log and reverse basic host-level…
+     🏷  blue-team, cybersecurity, dfir, host-triage, incident-response, network-monitoring, python, threat-hunting
+[2026-09-18 10:44:17 UTC] [NEW]   🆕 📦 edrickjohnbarren727-hub/edrickjohnbarren727
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/edrickjohnbarren727-hub/edrickjohnbarren727
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:17 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-18 10:44:17 UTC] [UPD]   📢 📦 annatchijova/zaynor
+     ⭐ 0  🗣 Python  📅 2026-09-16
+     🔗 https://github.com/annatchijova/zaynor
+     📝 Local, deterministic DFIR investigation tool — a sealed math engine decides, a l…
+     🏷  cybersecurity, deterministic, dfir, digital-forensics, forensics, hackathon, incident-response, llm, ollama, python, security
+     🔄 Motivo: repo recente (2gg)
+[2026-09-18 10:44:17 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-18 10:44:17 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-18 10:44:19 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-18 10:44:19 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-18 10:44:19 UTC] [NEW]   🆕 📦 mdunfjeld/sandbx
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/mdunfjeld/sandbx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:19 UTC] [NEW]   🆕 📦 NyderGX/ps
+     ⭐ 0  🗣 JavaScript  📅 2026-09-18
+     🔗 https://github.com/NyderGX/ps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:19 UTC] [NEW]   🆕 📦 AymenLaroussi/PS4-JB-11.00..13.00
+     ⭐ 0  🗣 JavaScript  📅 2026-09-17
+     🔗 https://github.com/AymenLaroussi/PS4-JB-11.00..13.00
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-18 10:44:19 UTC] [NEW]   🆕 📦 coruna19980101/cyanide
+     ⭐ 0  🗣 Objective-C  📅 2026-09-18
+     🔗 https://github.com/coruna19980101/cyanide
+     📝 Cyanide —— 一款基于 DarkSword 内核读写漏洞构建的 iOS 插件运行器。
+     🏷  —
+[2026-09-18 10:44:19 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-18 10:44:19 UTC] [UPD]   📢 📦 Rusickk1995/pentest-roadmap-ru
+     ⭐ 2  🗣 HTML  📅 2026-09-10
+     🔗 https://github.com/Rusickk1995/pentest-roadmap-ru
+     📝 Путь от нуля до Junior Pentester: Networking, Linux, Windows, Web, Active Direct…
+     🏷  active-directory, cybersecurity, cybersecurity-roadmap, ethical-hacking, infosec, learning, linux, network-security, networking, penetration-testing, pentesting, pentesting-roadmap, russian, web-security, windows
+     🔄 Motivo: repo recente (7gg)
+[2026-09-18 10:44:19 UTC] [UPD]   📢 📦 milouk/mls-maic
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/milouk/mls-maic
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-18 10:44:19 UTC] [INFO] ============================================================
+[2026-09-18 10:44:19 UTC] [INFO] Completato — 25 nuovi, 4 aggiornati, 0 errori
+[2026-09-18 10:44:19 UTC] [INFO] ============================================================
