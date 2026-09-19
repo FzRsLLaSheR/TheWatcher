@@ -89044,3 +89044,144 @@
 [2026-09-18 20:33:42 UTC] [INFO] ============================================================
 [2026-09-18 20:33:42 UTC] [INFO] Completato — 16 nuovi, 3 aggiornati, 0 errori
 [2026-09-18 20:33:42 UTC] [INFO] ============================================================
+[2026-09-19 03:38:16 UTC] [INFO] ============================================================
+[2026-09-19 03:38:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-19 03:38:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-19 03:38:16 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-19 03:38:16 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-19 03:38:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-19 03:38:16 UTC] [INFO] ============================================================
+[2026-09-19 03:38:16 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-19 03:38:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-19 03:38:18 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-19 03:38:18 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-19 03:38:18 UTC] [NEW]   🆕 📦 AGILLY-BU-CYBERDEFENSE/audit-evasion-edr
+     ⭐ 0  🗣 PowerShell  📅 2026-09-18
+     🔗 https://github.com/AGILLY-BU-CYBERDEFENSE/audit-evasion-edr
+     📝 Script PowerShell d'audit du socle de durcissement Windows face aux techniques d…
+     🏷  —
+[2026-09-19 03:38:18 UTC] [NEW]   🆕 📦 yannick978/audit-evasion-edr
+     ⭐ 0  🗣 PowerShell  📅 2026-09-18
+     🔗 https://github.com/yannick978/audit-evasion-edr
+     📝 Script PowerShell d'audit du socle de durcissement Windows face aux techniques d…
+     🏷  —
+[2026-09-19 03:38:18 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-19 03:38:18 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-19 03:38:18 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-19 03:38:21 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 lr22mt2vd6/edrwmr
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/lr22mt2vd6/edrwmr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 alwinsoman777-creator/ai-soc-triage-pipeline
+     ⭐ 0  🗣 HTML  📅 2026-09-19
+     🔗 https://github.com/alwinsoman777-creator/ai-soc-triage-pipeline
+     📝 Production-grade AI SOC triage & SOAR pipeline integrating Windows Sysmon teleme…
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 arusestech/web-tester
+     ⭐ 0  🗣 JavaScript  📅 2026-09-19
+     🔗 https://github.com/arusestech/web-tester
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 xAlayham/xAlayham
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/xAlayham/xAlayham
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 angalaeswariv17/autonomous-soc-_assistant
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/angalaeswariv17/autonomous-soc-_assistant
+     📝 A modern React-based Security Operations Center (SOC) Assistant dashboard for mo…
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 hzmndt/secops-gti-ioc-guide-and-rules
+     ⭐ 0  🗣 Python  📅 2026-09-19
+     🔗 https://github.com/hzmndt/secops-gti-ioc-guide-and-rules
+     📝 Complete Google SecOps GTI_IOC Entity Graph Schema Reference, Legacy Feed Migrat…
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 irocsecurity/dair-containment-loop
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/irocsecurity/dair-containment-loop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 karimfayadd/MrR0b0t
+     ⭐ 0  🗣 Python  📅 2026-09-19
+     🔗 https://github.com/karimfayadd/MrR0b0t
+     📝 Elite AI Agent for Red Team Operators & Bug Bounty Hunters — works with any AI A…
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 mrflippermen/mrflippermen
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/mrflippermen/mrflippermen
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 awjrcdprbe/edrfdr
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/awjrcdprbe/edrfdr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 jordanheather3/edrkhs
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/jordanheather3/edrkhs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 AGILLY-BU-CYBERDEFENSE/audit-evasion-edr
+     ⭐ 0  🗣 PowerShell  📅 2026-09-18
+     🔗 https://github.com/AGILLY-BU-CYBERDEFENSE/audit-evasion-edr
+     📝 Script PowerShell d'audit du socle de durcissement Windows face aux techniques d…
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 LINWOO0099/LINWOO0099
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/LINWOO0099/LINWOO0099
+     📝 Personal profile README for LINWOO0099 — an AI and data science student building…
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 yannick978/audit-evasion-edr
+     ⭐ 0  🗣 PowerShell  📅 2026-09-18
+     🔗 https://github.com/yannick978/audit-evasion-edr
+     📝 Script PowerShell d'audit du socle de durcissement Windows face aux techniques d…
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 spencerbeth5775/edrjgv
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/spencerbeth5775/edrjgv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 vamsee9201/ai_soc
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/vamsee9201/ai_soc
+     📝 Educational project for mastering software architecture
+     🏷  —
+[2026-09-19 03:38:21 UTC] [NEW]   🆕 📦 xqth/imhap
+     ⭐ 0  🗣 N/A  📅 2026-09-18
+     🔗 https://github.com/xqth/imhap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-19 03:38:21 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-19 03:38:21 UTC] [UPD]   📢 📦 sidharth-v-s/procsec
+     ⭐ 0  🗣 Go  📅 2026-09-18
+     🔗 https://github.com/sidharth-v-s/procsec
+     📝 procsec is a Linux process security explorer built around /proc, providing deep …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-19 03:38:21 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-19 03:38:21 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-19 03:38:24 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-19 03:38:24 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-19 03:38:24 UTC] [NEW]   🆕 📦 bts2019amo-ctrl/3105-public-build-20260918
+     ⭐ 0  🗣 Swift  📅 2026-09-19
+     🔗 https://github.com/bts2019amo-ctrl/3105-public-build-20260918
+     📝 Independent public build repository for the 3105 iOS project
+     🏷  —
+[2026-09-19 03:38:24 UTC] [NEW]   🆕 📦 karimfayadd/MrR0b0t
+     ⭐ 0  🗣 Python  📅 2026-09-19
+     🔗 https://github.com/karimfayadd/MrR0b0t
+     📝 Elite AI Agent for Red Team Operators & Bug Bounty Hunters — works with any AI A…
+     🏷  —
+[2026-09-19 03:38:24 UTC] [NEW]   🆕 📦 seahurstgames/ps4-13.52-kernel-exploit
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/seahurstgames/ps4-13.52-kernel-exploit
+     📝 The brand new kernel exploit for PS4 firmware 13.52
+     🏷  —
+[2026-09-19 03:38:24 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-19 03:38:24 UTC] [INFO] ============================================================
+[2026-09-19 03:38:24 UTC] [INFO] Completato — 22 nuovi, 1 aggiornati, 0 errori
+[2026-09-19 03:38:24 UTC] [INFO] ============================================================
