@@ -89904,3 +89904,206 @@
 [2026-09-19 20:10:58 UTC] [INFO] ============================================================
 [2026-09-19 20:10:58 UTC] [INFO] Completato — 38 nuovi, 4 aggiornati, 0 errori
 [2026-09-19 20:10:58 UTC] [INFO] ============================================================
+[2026-09-20 03:54:23 UTC] [INFO] ============================================================
+[2026-09-20 03:54:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-20 03:54:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-20 03:54:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-20 03:54:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-20 03:54:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-20 03:54:23 UTC] [INFO] ============================================================
+[2026-09-20 03:54:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-20 03:54:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-20 03:54:25 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-20 03:54:25 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-20 03:54:25 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-20 03:54:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-20 03:54:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-20 03:54:28 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 gigachadusers/edr
+     ⭐ 0  🗣 C++  📅 2026-09-20
+     🔗 https://github.com/gigachadusers/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 147pop/147pop
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/147pop/147pop
+     📝 Cybersecurity profile
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 LeeHoang26/canary-ransomware-triage
+     ⭐ 0  🗣 PowerShell  📅 2026-09-19
+     🔗 https://github.com/LeeHoang26/canary-ransomware-triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 eylommaayan/THM---Pyramid-of-Pain
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/eylommaayan/THM---Pyramid-of-Pain
+     📝 מודל פירמידת הכאב (Pyramid of Pain), שנהגה על ידי חוקר האבטחה דייוויד ביאנקו (Da…
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 febre0720/edrz
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/febre0720/edrz
+     📝 content
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 aimansam/badang
+     ⭐ 0  🗣 Rust  📅 2026-09-19
+     🔗 https://github.com/aimansam/badang
+     📝 EDR Evasion Research Toolkit — demonstrates and documents Windows EDR evasion te…
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 sec25sc077-ai/FORAX
+     ⭐ 0  🗣 TypeScript  📅 2026-09-20
+     🔗 https://github.com/sec25sc077-ai/FORAX
+     📝 FORAX — Multilingual deterministic forensic programming language
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 hliangzhao/velodex
+     ⭐ 0  🗣 TypeScript  📅 2026-09-19
+     🔗 https://github.com/hliangzhao/velodex
+     📝 VÉLODEX: local full-stack road bike catalog with component hotspots, model-speci…
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Kubernetes-Runtime-Security
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/ishandutta2007/Awesome-Kubernetes-Runtime-Security
+     📝 Top Kubernetes Runtime Security (Opensource) 🌟 Star if you like it! 🌟
+     🏷  awesome-list, cloud-native, curated-list, ebpf, kubernetes, runtime-security, security
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 paulatwork/BROADCOM-Exit
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/paulatwork/BROADCOM-Exit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 Bibasgautam77/AI-Powered-Mini-SIEM-SOC
+     ⭐ 0  🗣 Batchfile  📅 2026-09-20
+     🔗 https://github.com/Bibasgautam77/AI-Powered-Mini-SIEM-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 rivaskerry36/edrknb
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/rivaskerry36/edrknb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 lme23a49hf/edrg
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/lme23a49hf/edrg
+     📝 content
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 kogunlowo123/hypothesis-threat-hunting-agent
+     ⭐ 0  🗣 Python  📅 2026-09-19
+     🔗 https://github.com/kogunlowo123/hypothesis-threat-hunting-agent
+     📝 Hypothesis-driven threat hunting: baselines and eleven hunts over process, auth,…
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 kogunlowo123/ai-incident-response-agent
+     ⭐ 0  🗣 Python  📅 2026-09-19
+     🔗 https://github.com/kogunlowo123/ai-incident-response-agent
+     📝 Multi-agent incident response: alert normalization, correlation, investigation, …
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 DILSHAND2025/Email-Analyzer
+     ⭐ 0  🗣 Python  📅 2026-09-19
+     🔗 https://github.com/DILSHAND2025/Email-Analyzer
+     📝 AI-powered phishing email detection, triage, risk scoring, and threat intelligen…
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 boydamy18/edrm
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/boydamy18/edrm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 Alzareus/SailfishOS-MagicPods
+     ⭐ 0  🗣 Shell  📅 2026-09-20
+     🔗 https://github.com/Alzareus/SailfishOS-MagicPods
+     📝 AirPods on Sailfish OS
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 villastephanie193/edrmwn
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/villastephanie193/edrmwn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 NicolasSolis/SOC-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/NicolasSolis/SOC-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 Haris-Ali-CybersecurityAnalyst/SOC-Analyst-Playbooks
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/Haris-Ali-CybersecurityAnalyst/SOC-Analyst-Playbooks
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 CSLedbetter/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/CSLedbetter/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 lanesherry5758/edrrxr
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/lanesherry5758/edrrxr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 farmeranna65/edrpux
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/farmeranna65/edrpux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 ferhatcicek/kalkan
+     ⭐ 0  🗣 Python  📅 2026-09-19
+     🔗 https://github.com/ferhatcicek/kalkan
+     📝 Enterprise-grade Windows endpoint security auditing & CIS benchmark compliance p…
+     🏷  cis-benchmark, cybersecurity, cybersecurity-tools, endpoint-security, endpoint-security-windows-platform, fastapi, infosec, infosectools, python, security-audit, security-auditing-tool, vulnerability-scanner, vulnerability-scanner-tools, windows, windows-11, windows-hardening
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 alrahmaa40-hue/edros
+     ⭐ 0  🗣 Java  📅 2026-09-19
+     🔗 https://github.com/alrahmaa40-hue/edros
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 savagedamage/windows-edr-evasion-corpus
+     ⭐ 0  🗣 Python  📅 2026-09-19
+     🔗 https://github.com/savagedamage/windows-edr-evasion-corpus
+     📝 Generation-only corpus: Windows user-mode EDR-evasion primitives, a representati…
+     🏷  —
+[2026-09-20 03:54:28 UTC] [NEW]   🆕 📦 Focing123/Focing123
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/Focing123/Focing123
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:28 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-20 03:54:28 UTC] [UPD]   📢 📦 Saitanveesh/1
+     ⭐ 0  🗣 Python  📅 2026-09-18
+     🔗 https://github.com/Saitanveesh/1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-20 03:54:28 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-20 03:54:28 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-20 03:54:30 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-20 03:54:30 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-20 03:54:30 UTC] [NEW]   🆕 📦 Y4s7cyzyfm-png/angel
+     ⭐ 0  🗣 Objective-C++  📅 2026-09-19
+     🔗 https://github.com/Y4s7cyzyfm-png/angel
+     📝 别看了
+     🏷  —
+[2026-09-20 03:54:30 UTC] [NEW]   🆕 📦 beoc611-debug/CheatiOSShare
+     ⭐ 0  🗣 Swift  📅 2026-09-20
+     🔗 https://github.com/beoc611-debug/CheatiOSShare
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:30 UTC] [NEW]   🆕 📦 novaxverse/CSSExploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-19
+     🔗 https://github.com/novaxverse/CSSExploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 03:54:30 UTC] [NEW]   🆕 📦 PlayGame2000/13
+     ⭐ 0  🗣 JavaScript  📅 2026-09-19
+     🔗 https://github.com/PlayGame2000/13
+     📝 Tarek Saad
+     🏷  —
+[2026-09-20 03:54:30 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-20 03:54:30 UTC] [UPD]   📢 📦 zozo123/nyc-talk
+     ⭐ 0  🗣 Python  📅 2026-09-19
+     🔗 https://github.com/zozo123/nyc-talk
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-20 03:54:30 UTC] [UPD]   📢 📦 vonhatqui/ipa
+     ⭐ 0  🗣 Swift  📅 2026-09-13
+     🔗 https://github.com/vonhatqui/ipa
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-20 03:54:30 UTC] [INFO] ============================================================
+[2026-09-20 03:54:30 UTC] [INFO] Completato — 32 nuovi, 3 aggiornati, 0 errori
+[2026-09-20 03:54:30 UTC] [INFO] ============================================================
