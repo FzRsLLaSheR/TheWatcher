@@ -90107,3 +90107,216 @@
 [2026-09-20 03:54:30 UTC] [INFO] ============================================================
 [2026-09-20 03:54:30 UTC] [INFO] Completato — 32 nuovi, 3 aggiornati, 0 errori
 [2026-09-20 03:54:30 UTC] [INFO] ============================================================
+[2026-09-20 10:50:07 UTC] [INFO] ============================================================
+[2026-09-20 10:50:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-20 10:50:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-20 10:50:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-20 10:50:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-20 10:50:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-20 10:50:07 UTC] [INFO] ============================================================
+[2026-09-20 10:50:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-20 10:50:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-20 10:50:09 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-20 10:50:09 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-20 10:50:09 UTC] [NEW]   🆕 📦 dyz131005/BanJiu-Guard
+     ⭐ 0  🗣 C++  📅 2026-09-20
+     🔗 https://github.com/dyz131005/BanJiu-Guard
+     📝 BanJiu-Guard是一款由C++和QT开发的安全软件
+     🏷  —
+[2026-09-20 10:50:09 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-20 10:50:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-20 10:50:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-20 10:50:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 jaineshchaurasiya20/AegisAi
+     ⭐ 1  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/jaineshchaurasiya20/AegisAi
+     📝 A Hybrid Air-Gapped EDR & Enterprise Fleet Governance, Edge Native Cyber Threat …
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 radxzi-creator/sentinellite
+     ⭐ 0  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/radxzi-creator/sentinellite
+     📝 Lightweight Linux Endpoint Detection and Response (EDR) platform built in Python
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 Usman-543/SOC-HomeLab-Wazuh
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/Usman-543/SOC-HomeLab-Wazuh
+     📝 Blue Team SOC Home Lab using Wazuh SIEM + Windows Agent + Sysmon + File Integrit…
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 aligoraya213/CyberSentinel-AI-main-
+     ⭐ 0  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/aligoraya213/CyberSentinel-AI-main-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 DINESHKUMARVR41/SentinelX
+     ⭐ 0  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/DINESHKUMARVR41/SentinelX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 ahad137/active-directory-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/ahad137/active-directory-home-lab
+     📝 Hands-on Active Directory home lab focused on Windows Server, domain administrat…
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 smokericeash/ashborne
+     ⭐ 0  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/smokericeash/ashborne
+     📝 ASHBORNE is a secure adversary emulation lab platform for controlled reconnaissa…
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 heisenlul/EDRPG-System-for-FoundryVTT
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/heisenlul/EDRPG-System-for-FoundryVTT
+     📝 Based on original system from Lukas Kodiz
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 Ramkumar2545/SigmaForge
+     ⭐ 0  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/Ramkumar2545/SigmaForge
+     📝 Self-hosted Detection Engineering Platform for Sigma rules, MITRE ATT&CK mapping…
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 ZerDevStudio/ZervHub
+     ⭐ 0  🗣 TypeScript  📅 2026-09-19
+     🔗 https://github.com/ZerDevStudio/ZervHub
+     📝 ⚡ High-Performance Desktop Developer Workstation built with Tauri v2, Rust & Rea…
+     🏷  api-client, desktop-app, developer-tools, jwt, offline-first, productivity, react, regex, rust, tauri
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 Tejas8275/SentinelX_AI
+     ⭐ 0  🗣 TypeScript  📅 2026-09-20
+     🔗 https://github.com/Tejas8275/SentinelX_AI
+     📝 AI-powered Security Operations Center (SOC) platform with threat detection, risk…
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 hitesh-982/mlran
+     ⭐ 0  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/hitesh-982/mlran
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 dylanevans-cybersec/SoftwareInc-Cybersecurity
+     ⭐ 0  🗣 PowerShell  📅 2026-09-20
+     🔗 https://github.com/dylanevans-cybersec/SoftwareInc-Cybersecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 radegast-edr/radegast-rustinel-updater
+     ⭐ 0  🗣 Rust  📅 2026-09-20
+     🔗 https://github.com/radegast-edr/radegast-rustinel-updater
+     📝 Secure auto-updater service for the Radegast Rustinel EDR sensor
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 janfernand/edrt
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/janfernand/edrt
+     📝 content
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 GoSlowPoke168/wandering-blackhole
+     ⭐ 0  🗣 C++  📅 2026-09-20
+     🔗 https://github.com/GoSlowPoke168/wandering-blackhole
+     📝 A ray-traced black hole that floats over your Windows desktop and gravitationall…
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 johnsonmelanie3/edrcdb
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/johnsonmelanie3/edrcdb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 CE47/meridian-lab-cti
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/CE47/meridian-lab-cti
+     📝 CTIA meridian-lab-cti
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 unkn-tech/SOC-Analyst-L1-Learning-Platform
+     ⭐ 0  🗣 HTML  📅 2026-09-20
+     🔗 https://github.com/unkn-tech/SOC-Analyst-L1-Learning-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 saadatayat3526-hub/leak-1789885715
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/saadatayat3526-hub/leak-1789885715
+     📝 Intel: feat Bot Screen  per-bot Xfce desktop streamed into Hermes Desktop take o…
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 un0bs3rvd/soc-analyst-virgil
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-09-20
+     🔗 https://github.com/un0bs3rvd/soc-analyst-virgil
+     📝 Fast probabilistic triage for SOC alerts. Proof of concept
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 jiraphat-j/linux-kernel-build-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/jiraphat-j/linux-kernel-build-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 fw911/999
+     ⭐ 0  🗣 PowerShell  📅 2026-09-20
+     🔗 https://github.com/fw911/999
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 bobloblawlobslawbomb/esphome-sma-bluetooth
+     ⭐ 0  🗣 C++  📅 2026-09-20
+     🔗 https://github.com/bobloblawlobslawbomb/esphome-sma-bluetooth
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 qea19hvafu/edre
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/qea19hvafu/edre
+     📝 content
+     🏷  —
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 DevCop95/BDB-Guardian
+     ⭐ 9  🗣 PowerShell  📅 2026-09-20
+     🔗 https://github.com/DevCop95/BDB-Guardian
+     📝 Defensive PowerShell monitor that detects BigDiskBuster-style DoS attacks agains…
+     🏷  blueteam, mitre-attack, powershell, windows-defender
+[2026-09-20 10:50:12 UTC] [NEW]   🆕 📦 thejair55/edroxef
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/thejair55/edroxef
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:12 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-20 10:50:12 UTC] [UPD]   📢 📦 AiPersonacademy/Awesome-jev-use
+     ⭐ 2  🗣 N/A  📅 2026-09-19
+     🔗 https://github.com/AiPersonacademy/Awesome-jev-use
+     📝 A curated list of awesome Jev / TypeSafe System One applications, libraries, and…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-20 10:50:12 UTC] [UPD]   📢 📦 jogggggggggg/EDRG
+     ⭐ 0  🗣 TypeScript  📅 2026-09-19
+     🔗 https://github.com/jogggggggggg/EDRG
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-20 10:50:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-20 10:50:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-20 10:50:14 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-20 10:50:14 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-09-20 10:50:14 UTC] [NEW]   🆕 📦 intellectumlab/steploop
+     ⭐ 0  🗣 HTML  📅 2026-09-20
+     🔗 https://github.com/intellectumlab/steploop
+     📝 A durable agent loop in ~7100 lines of dependency-free Python, plus a public reg…
+     🏷  —
+[2026-09-20 10:50:14 UTC] [NEW]   🆕 📦 ah95ba-web/w90008.github.io.-55-
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/ah95ba-web/w90008.github.io.-55-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:14 UTC] [NEW]   🆕 📦 UBISOFT4GAME/13521
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/UBISOFT4GAME/13521
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:14 UTC] [NEW]   🆕 📦 ah95ba-web/alazawistore.github.io-95-
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/ah95ba-web/alazawistore.github.io-95-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:14 UTC] [NEW]   🆕 📦 dalmac39/1352
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/dalmac39/1352
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 10:50:14 UTC] [NEW]   🆕 📦 eduardoahumadaleall-design/PS4-goldhen-beta-13.52-
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/eduardoahumadaleall-design/PS4-goldhen-beta-13.52-
+     📝 lanzador exploit 13.52
+     🏷  —
+[2026-09-20 10:50:14 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-20 10:50:14 UTC] [UPD]   📢 📦 atgreen/scute
+     ⭐ 1  🗣 Common Lisp  📅 2026-09-19
+     🔗 https://github.com/atgreen/scute
+     📝 An agent sandbox (mirror of https://cave.moxielogic.com/atgreen/scute)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-20 10:50:14 UTC] [INFO] ============================================================
+[2026-09-20 10:50:14 UTC] [INFO] Completato — 34 nuovi, 3 aggiornati, 0 errori
+[2026-09-20 10:50:14 UTC] [INFO] ============================================================
