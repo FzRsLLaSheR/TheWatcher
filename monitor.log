@@ -90563,3 +90563,216 @@
 [2026-09-20 15:37:51 UTC] [INFO] ============================================================
 [2026-09-20 15:37:51 UTC] [INFO] Completato — 34 nuovi, 8 aggiornati, 0 errori
 [2026-09-20 15:37:51 UTC] [INFO] ============================================================
+[2026-09-20 20:27:36 UTC] [INFO] ============================================================
+[2026-09-20 20:27:36 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-20 20:27:36 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-20 20:27:36 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-20 20:27:36 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-20 20:27:36 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-20 20:27:36 UTC] [INFO] ============================================================
+[2026-09-20 20:27:36 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-20 20:27:36 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-20 20:27:37 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-20 20:27:37 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-20 20:27:37 UTC] [NEW]   🆕 📦 GhostOverflow/BSidesBwp_BYOVD_Talk
+     ⭐ 0  🗣 HTML  📅 2026-09-20
+     🔗 https://github.com/GhostOverflow/BSidesBwp_BYOVD_Talk
+     📝 The presentation content and assets for the Bsides Bwp Tradecraft Summit on BYOV…
+     🏷  —
+[2026-09-20 20:27:37 UTC] [NEW]   🆕 📦 khanmanjo161-hash/Windows-Privilege-Escalation
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/khanmanjo161-hash/Windows-Privilege-Escalation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:37 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-20 20:27:37 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-20 20:27:37 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-20 20:27:40 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 alinurettin/XSOAR-Canary-Trigger
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/alinurettin/XSOAR-Canary-Trigger
+     📝 Ransomware Decoy Canary Watcher, Shannon Entropy Jump Detector & Automated Host …
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 alinurettin/XSOAR-Playbook-Linter
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/alinurettin/XSOAR-Playbook-Linter
+     📝 Static Analysis Linter, Directed Acyclic Graph (DAG) Loop Inspector & CI/CD Qual…
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 alinurettin/XSOAR-Sysmon-Carver
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/alinurettin/XSOAR-Sysmon-Carver
+     📝 Endpoint Process Lineage Carver & Living-off-the-Land (LOLBAS) Attack Chain Reco…
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 kaushalrola/xdr-brightness
+     ⭐ 0  🗣 Swift  📅 2026-09-20
+     🔗 https://github.com/kaushalrola/xdr-brightness
+     📝 Unlock the full brightness of your Mac's XDR display. Menu-bar app that uses EDR…
+     🏷  appkit, apple-silicon, brightness, edr, hdr, macbook-pro, macos, macos-app, menu-bar-app, menubar, metal, swift, swiftui, vivid-alternative, xdr, xdr-display
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 alinurettin/XSOAR-AlertDeduplicator
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/alinurettin/XSOAR-AlertDeduplicator
+     📝 Palo Alto Cortex XSOAR High-Throughput Alert Deduplication & Clustering Engine f…
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 cruelben/netconn-triage
+     ⭐ 1  🗣 PowerShell  📅 2026-09-20
+     🔗 https://github.com/cruelben/netconn-triage
+     📝 PowerShell tool for Windows that audits established outbound TCP connections, fl…
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 garynair/federal-compliance
+     ⭐ 0  🗣 HTML  📅 2026-09-20
+     🔗 https://github.com/garynair/federal-compliance
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 Fosrur/meteonexa
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/Fosrur/meteonexa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 GhostOverflow/BSidesBwp_BYOVD_Talk
+     ⭐ 0  🗣 HTML  📅 2026-09-20
+     🔗 https://github.com/GhostOverflow/BSidesBwp_BYOVD_Talk
+     📝 The presentation content and assets for the Bsides Bwp Tradecraft Summit on BYOV…
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 saiefedinetech/Cybersecurity-Labs
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/saiefedinetech/Cybersecurity-Labs
+     📝 Hands-on cybersecurity labs, home lab setups, and proof-of-concepts.
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 AntonioooAs/trenazher-pomoschi
+     ⭐ 0  🗣 HTML  📅 2026-09-20
+     🔗 https://github.com/AntonioooAs/trenazher-pomoschi
+     📝 Тренажёр первой помощи — Windows, Android, Web
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 marcelodinizsec/windows-process-injection-research
+     ⭐ 0  🗣 C++  📅 2026-09-20
+     🔗 https://github.com/marcelodinizsec/windows-process-injection-research
+     📝 A personal research repository documenting my study of process injection techniq…
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 AbdulAhadH/endpoint-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/AbdulAhadH/endpoint-detection-lab
+     📝 Enterprise Endpoint Detection Lab: Wazuh EDR/XDR + Sysmon + Atomic Red Team
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 walkerbrooke0/edrlyl
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/walkerbrooke0/edrlyl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 Aditya-180404/ForenLang
+     ⭐ 0  🗣 Rust  📅 2026-09-20
+     🔗 https://github.com/Aditya-180404/ForenLang
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 fowlerautumn33/edrynl
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/fowlerautumn33/edrynl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 MakersNeedMore-MnM/Round2-The-Falcons
+     ⭐ 0  🗣 TypeScript  📅 2026-09-19
+     🔗 https://github.com/MakersNeedMore-MnM/Round2-The-Falcons
+     📝 Repository for team The Falcons for Round 2
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 MAYANKSHARMA01010/SysGuard
+     ⭐ 0  🗣 TypeScript  📅 2026-09-20
+     🔗 https://github.com/MAYANKSHARMA01010/SysGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 shamshadulhaque/ShamshadulHaque
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/shamshadulhaque/ShamshadulHaque
+     📝 Senior Infrastructure & Security Lead | Microsoft | VMware | Azure | Active Dire…
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 ahmed-abdel-aal-a/enterprise-dental-clinical-erp
+     ⭐ 1  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/ahmed-abdel-aal-a/enterprise-dental-clinical-erp
+     📝 Enterprise Clinical Dental Practice Management & AI Copilot ERP | High-Level Sys…
+     🏷  ai-copilot, clean-architecture, enterprise-erp, fastapi, nuxt3, postgresql, python
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 abdulmanan2728/CLO4-IDS-ML-Solution-
+     ⭐ 0  🗣 HTML  📅 2026-09-20
+     🔗 https://github.com/abdulmanan2728/CLO4-IDS-ML-Solution-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 jtthre/detection-lab
+     ⭐ 0  🗣 Shell  📅 2026-09-20
+     🔗 https://github.com/jtthre/detection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 zuv2/DisableWindows10Update
+     ⭐ 0  🗣 PowerShell  📅 2026-09-20
+     🔗 https://github.com/zuv2/DisableWindows10Update
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 Parth-Denge47/malware-alert-agent
+     ⭐ 0  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/Parth-Denge47/malware-alert-agent
+     📝 AI agent that triages malware alerts like a Tier-1 SOC analyst: verdict, malicio…
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 donerciselo/discord-guardian-edr
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/donerciselo/discord-guardian-edr
+     📝 Discord oturum hırsızlığına karşı kişisel EDR ajanı — DPAPI izleme, karantina, a…
+     🏷  —
+[2026-09-20 20:27:40 UTC] [NEW]   🆕 📦 nwachukwuemma/Comprehensive-Security-Audit-and-Endpoint-Hardening
+     ⭐ 0  🗣 PowerShell  📅 2026-09-20
+     🔗 https://github.com/nwachukwuemma/Comprehensive-Security-Audit-and-Endpoint-Hardening
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:40 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-20 20:27:40 UTC] [UPD]   📢 📦 sebcarley/MetalQuake
+     ⭐ 0  🗣 C  📅 2026-09-20
+     🔗 https://github.com/sebcarley/MetalQuake
+     📝 Quake on Apple Silicon: a DarkPlaces fork with a native Metal renderer, ray-trac…
+     🏷  apple-silicon, darkplaces, macos, metal, quake, raytracing
+     🔄 Motivo: repo recente (0gg)
+[2026-09-20 20:27:40 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-20 20:27:40 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-20 20:27:42 UTC] [INFO]   → 37 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-20 20:27:42 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-09-20 20:27:42 UTC] [NEW]   🆕 📦 sudoBlackArch/1
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/sudoBlackArch/1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:42 UTC] [NEW]   🆕 📦 TheAndersMadsen/humane-aipin-ghostlock
+     ⭐ 0  🗣 C  📅 2026-09-20
+     🔗 https://github.com/TheAndersMadsen/humane-aipin-ghostlock
+     📝 Guarded, source-only Humane AI Pin root PoC for CVE-2026-43499
+     🏷  —
+[2026-09-20 20:27:42 UTC] [NEW]   🆕 📦 PSDealsBH/ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/PSDealsBH/ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:42 UTC] [NEW]   🆕 📦 anveeksh/ctf-linux
+     ⭐ 0  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/anveeksh/ctf-linux
+     📝 Debian CTF VM recipes for ARM64 and x86-64 with a local AI assistant
+     🏷  —
+[2026-09-20 20:27:42 UTC] [NEW]   🆕 📦 khanmanjo161-hash/Windows-Privilege-Escalation
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/khanmanjo161-hash/Windows-Privilege-Escalation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:42 UTC] [NEW]   🆕 📦 just-saleh/OSCP_Notes
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/just-saleh/OSCP_Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-20 20:27:42 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-20 20:27:42 UTC] [UPD]   📢 📦 bts2019amo-ctrl/3105-public-build-20260918
+     ⭐ 0  🗣 Swift  📅 2026-09-19
+     🔗 https://github.com/bts2019amo-ctrl/3105-public-build-20260918
+     📝 Independent public build repository for the 3105 iOS project
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-20 20:27:42 UTC] [UPD]   📢 📦 jmanzo/ralph-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-09-19
+     🔗 https://github.com/jmanzo/ralph-sandbox
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-20 20:27:42 UTC] [INFO] ============================================================
+[2026-09-20 20:27:42 UTC] [INFO] Completato — 34 nuovi, 3 aggiornati, 0 errori
+[2026-09-20 20:27:42 UTC] [INFO] ============================================================
