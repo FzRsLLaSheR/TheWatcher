@@ -91256,3 +91256,352 @@
 [2026-09-21 12:14:44 UTC] [INFO] ============================================================
 [2026-09-21 12:14:44 UTC] [INFO] Completato — 53 nuovi, 7 aggiornati, 0 errori
 [2026-09-21 12:14:44 UTC] [INFO] ============================================================
+[2026-09-21 21:46:51 UTC] [INFO] ============================================================
+[2026-09-21 21:46:51 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-21 21:46:51 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-21 21:46:51 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-21 21:46:51 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-21 21:46:51 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-21 21:46:51 UTC] [INFO] ============================================================
+[2026-09-21 21:46:51 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-21 21:46:51 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-21 21:46:53 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-21 21:46:53 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-21 21:46:53 UTC] [NEW]   🆕 📦 k7codes/Valhalla-Hunter
+     ⭐ 0  🗣 C#  📅 2026-09-21
+     🔗 https://github.com/k7codes/Valhalla-Hunter
+     📝 Professional Malware Analyses Studio
+     🏷  —
+[2026-09-21 21:46:53 UTC] [NEW]   🆕 📦 jineshkumar134/jocky
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/jineshkumar134/jocky
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:53 UTC] [NEW]   🆕 📦 xssd84/faulthawk
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/xssd84/faulthawk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:53 UTC] [NEW]   🆕 📦 zihaaaad/volatriage
+     ⭐ 0  🗣 PowerShell  📅 2026-09-21
+     🔗 https://github.com/zihaaaad/volatriage
+     📝 Enterprise-grade, zero-dependency live Windows digital forensics and incident re…
+     🏷  byovd, dfir, incident-response, memory-forensics, powershell, security-tools, threat-hunting, triage, windows-forensics
+[2026-09-21 21:46:53 UTC] [NEW]   🆕 📦 thechosenone-shall-prevail/MEEDRBleeder
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/thechosenone-shall-prevail/MEEDRBleeder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:53 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-21 21:46:53 UTC] [UPD]   📢 📦 maicolcabreragit/lol
+     ⭐ 0  🗣 C#  📅 2026-09-20
+     🔗 https://github.com/maicolcabreragit/lol
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-21 21:46:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-21 21:46:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-21 21:46:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 46 NUOVI repository:
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 luishuallpa1202-lab/LummaC2-Reverse-Engineering-Lab
+     ⭐ 0  🗣 HTML  📅 2026-09-21
+     🔗 https://github.com/luishuallpa1202-lab/LummaC2-Reverse-Engineering-Lab
+     📝 LummaC2 Stealer Analysis and Binary Reversing Guide 2026
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 7ytrr/Invoice-Order-edryo4sg
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/7ytrr/Invoice-Order-edryo4sg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 k7codes/Valhalla-Hunter
+     ⭐ 0  🗣 C#  📅 2026-09-21
+     🔗 https://github.com/k7codes/Valhalla-Hunter
+     📝 Professional Malware Analyses Studio
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 The-Rabbit-Knight/Warren
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/The-Rabbit-Knight/Warren
+     📝 A local, human-in-the-loop pseudonymization pipeline. It pairs an AI decision en…
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 vitoramaral10/pmos-xiaomi-thunder
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/vitoramaral10/pmos-xiaomi-thunder
+     📝 postmarketOS port for the Xiaomi thunder (Redmi 10 5G / POCO M4 5G, MediaTek MT6…
+     🏷  alpine-linux, linux-kernel, mediatek, mt6833, porting, postmarketos, redmi, reverse-engineering, wifi, xiaomi
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 PAUNYWSE34/-Your-Payment-Receipt-Details-blaisdelljim-msn.com--180edrug
+     ⭐ 0  🗣 DIGITAL Command Language  📅 2026-09-21
+     🔗 https://github.com/PAUNYWSE34/-Your-Payment-Receipt-Details-blaisdelljim-msn.com--180edrug
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 agunix/UserBehaviorAnalysis
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/agunix/UserBehaviorAnalysis
+     📝 This repo about the User Behavior Analysis (UBA), main purpose is automate analy…
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 INV-568468/Payment-Successful-edrrm1ps
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/INV-568468/Payment-Successful-edrrm1ps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 epicmajid/Project-Doomsday
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/epicmajid/Project-Doomsday
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 securitysonar/spark-blackbox
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/securitysonar/spark-blackbox
+     📝 Forensic-Grade Agent Telemetry (FGAT) on NVIDIA DGX Spark -- supporting code, co…
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 lonjuy494/Payment-Receipt-edrv1luq
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/lonjuy494/Payment-Receipt-edrv1luq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 selma-oguz/SOC-Incident-Report-Advanced-PowerShell-C2-Persistence-Custom-RAT-Deployment
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/selma-oguz/SOC-Incident-Report-Advanced-PowerShell-C2-Persistence-Custom-RAT-Deployment
+     📝 On April 20, 2026, Microsoft Defender triggered high-severity alerts on endpoint…
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 shwetalmehta72/security-posture-sim
+     ⭐ 0  🗣 TypeScript  📅 2026-09-21
+     🔗 https://github.com/shwetalmehta72/security-posture-sim
+     📝 Interactive security posture simulator: toggle 15 controls across 4 enterprise s…
+     🏷  cybersecurity, data-visualization, react, risk-modeling, security-architecture, simulation, stakeholder-communication, typescript, vite
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 YOUR-PAYMENT-SUCCESSFULLY-DDFCG/repo-edr44w62
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/YOUR-PAYMENT-SUCCESSFULLY-DDFCG/repo-edr44w62
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 jhopan/SocksClient
+     ⭐ 0  🗣 Go  📅 2026-09-20
+     🔗 https://github.com/jhopan/SocksClient
+     📝 SOCKS5 client for Android and Windows - TUN or system-proxy mode (no admin). And…
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 lonjuy752/Purchase-Update-edrwq6uy
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/lonjuy752/Purchase-Update-edrwq6uy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 sandeepmothukuri/socforge
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/sandeepmothukuri/socforge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 heavenzreal05/Windows_Endpoint_Incidence_Response_And_Malware_analysy
+     ⭐ 1  🗣 Python  📅 2026-09-20
+     🔗 https://github.com/heavenzreal05/Windows_Endpoint_Incidence_Response_And_Malware_analysy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 stan0312/SwipePlay
+     ⭐ 0  🗣 Dart  📅 2026-09-20
+     🔗 https://github.com/stan0312/SwipePlay
+     📝 刷片播放器 - 基于 Emby 的抖音式刷片客户端
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 INV-386753/Security-Plan-k5edru3x
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/INV-386753/Security-Plan-k5edru3x
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 necesitoplataokgracias-hue/DMvs-script
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/necesitoplataokgracias-hue/DMvs-script
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 Edward-Owusu/IT-OT-Convergence-Smart-Factory-Risk-Governance
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/Edward-Owusu/IT-OT-Convergence-Smart-Factory-Risk-Governance
+     📝 A practical GRC and IT Audit project focused on IT/OT convergence risks in smart…
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 INV-28963/Payment-Successful-edrwuobv
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/INV-28963/Payment-Successful-edrwuobv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 imeneamami/SOAR-EDR-Project
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/imeneamami/SOAR-EDR-Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 vickyramadhn860/Order-Update-5edri5ht
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/vickyramadhn860/Order-Update-5edri5ht
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 xssd84/faulthawk
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/xssd84/faulthawk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 keivantayebipour/NewGen-AV
+     ⭐ 0  🗣 C++  📅 2026-09-21
+     🔗 https://github.com/keivantayebipour/NewGen-AV
+     📝 A Windows antivirus prototype with EDR-like capabilities, built in C++ through a…
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 garnetfickett91/Status-Update-by-edruizzo-aol.com-9yrtzk9t
+     ⭐ 0  🗣 DIGITAL Command Language  📅 2026-09-21
+     🔗 https://github.com/garnetfickett91/Status-Update-by-edruizzo-aol.com-9yrtzk9t
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 cihan-atas/mitre-app
+     ⭐ 0  🗣 Dart  📅 2026-09-21
+     🔗 https://github.com/cihan-atas/mitre-app
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 garnetfickett91/Status-Update-by-edroun-comcast.net-h29fddgw
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/garnetfickett91/Status-Update-by-edroun-comcast.net-h29fddgw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 garnetfickett91/Status-Update-by-edrocca4600-comcast.net-oxujzxnu
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/garnetfickett91/Status-Update-by-edrocca4600-comcast.net-oxujzxnu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 garnetfickett91/Status-Update-by-edramirez3-comcast.net-ds02sy15
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/garnetfickett91/Status-Update-by-edramirez3-comcast.net-ds02sy15
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 AeintKyiPyarSoe/SOC_Alert_Analyzer
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/AeintKyiPyarSoe/SOC_Alert_Analyzer
+     📝 Defensive cybersecurity workbench & real-time host intrusion detection (EDR-Lite…
+     🏷  blue-team, cybersecurity, edr, fastapi, incident-response, mitre-attack, python, siem, soc-analyst, threat-detection
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 rajvee123/threat-quotient
+     ⭐ 0  🗣 TypeScript  📅 2026-09-21
+     🔗 https://github.com/rajvee123/threat-quotient
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 MrAlmm/Leran-Malware-Process-Thread-Hijacking
+     ⭐ 0  🗣 C  📅 2026-09-21
+     🔗 https://github.com/MrAlmm/Leran-Malware-Process-Thread-Hijacking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 Yasserkdr1/Soc-Investigation-Writeups
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/Yasserkdr1/Soc-Investigation-Writeups
+     📝 Hands-on SOC investigation write-ups covering SIEM triage, EDR analysis, inciden…
+     🏷  edr, incident-response, investigation, mitre-attack, siem, soc, writeups
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 gdesignersaps/agentic-soc-triage
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/gdesignersaps/agentic-soc-triage
+     📝 Agentic SOC alert triage with deterministic risk scoring, MITRE ATT&CK, Sigma en…
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 ingwaltergomez/quetzal-risk-assessment
+     ⭐ 0  🗣 HTML  📅 2026-09-21
+     🔗 https://github.com/ingwaltergomez/quetzal-risk-assessment
+     📝 Análisis de riesgo cibernético cuantitativo aplicado a una PyME guatemalteca fic…
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 varunathlete7-ux/USING-SERVO-MOTER-PPROJECT
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/varunathlete7-ux/USING-SERVO-MOTER-PPROJECT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 udhayauk401/USING-SERVO-MOTER-IN-ARDIUNO
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/udhayauk401/USING-SERVO-MOTER-IN-ARDIUNO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 SanFlash/sanvi-ai
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/SanFlash/sanvi-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 zihaaaad/volatriage
+     ⭐ 0  🗣 PowerShell  📅 2026-09-21
+     🔗 https://github.com/zihaaaad/volatriage
+     📝 Enterprise-grade, zero-dependency live Windows digital forensics and incident re…
+     🏷  byovd, dfir, incident-response, memory-forensics, powershell, security-tools, threat-hunting, triage, windows-forensics
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 mfroshan/insight-shield-nest
+     ⭐ 0  🗣 TypeScript  📅 2026-09-21
+     🔗 https://github.com/mfroshan/insight-shield-nest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 Geek-squad752/Transaction-edrj2a99
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/Geek-squad752/Transaction-edrj2a99
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 Runewardd/Runeward-Guard
+     ⭐ 0  🗣 Rust  📅 2026-09-21
+     🔗 https://github.com/Runewardd/Runeward-Guard
+     📝 Detects and responds to risky agentic activity on your machine
+     🏷  —
+[2026-09-21 21:46:56 UTC] [NEW]   🆕 📦 crossrebecca09/edrcok
+     ⭐ 0  🗣 N/A  📅 2026-09-21
+     🔗 https://github.com/crossrebecca09/edrcok
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:56 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-21 21:46:56 UTC] [UPD]   📢 📦 desodhunny1907/Edraw-Max
+     ⭐ 0  🗣 N/A  📅 2026-09-14
+     🔗 https://github.com/desodhunny1907/Edraw-Max
+     📝 Download EdrawMax — a versatile mind mapping tool for Windows with free download…
+     🏷  business-cards, diagram-creation-tool, diagram-software, infographics, productivity-tools, software, tools, vector-graphics
+     🔄 Motivo: repo recente (7gg)
+[2026-09-21 21:46:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-21 21:46:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-21 21:46:58 UTC] [INFO]   → 35 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 📦 CODEOGH/gold13xxPS4
+     ⭐ 0  🗣 JavaScript  📅 2026-09-21
+     🔗 https://github.com/CODEOGH/gold13xxPS4
+     📝 Add GoldHEN 13.02---13.52
+     🏷  —
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 📦 phanminhnhatPMN/3105mod
+     ⭐ 0  🗣 Swift  📅 2026-09-21
+     🔗 https://github.com/phanminhnhatPMN/3105mod
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 📦 NoobPeen/distributed-oj
+     ⭐ 1  🗣 Shell  📅 2026-09-21
+     🔗 https://github.com/NoobPeen/distributed-oj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 📦 aydencharles/ps5-dpi-server
+     ⭐ 4  🗣 C++  📅 2026-09-21
+     🔗 https://github.com/aydencharles/ps5-dpi-server
+     📝 A standalone Direct Package Installer server for PS5
+     🏷  —
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 📦 NoobPeen/distributed-online-judge
+     ⭐ 0  🗣 Shell  📅 2026-09-21
+     🔗 https://github.com/NoobPeen/distributed-online-judge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 📦 alinbloch016/Linux_Privilege_Escalation_Automation
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/alinbloch016/Linux_Privilege_Escalation_Automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 📦 CODEOGH/13xxPS4
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/CODEOGH/13xxPS4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 📦 apk100866/aaa
+     ⭐ 0  🗣 JavaScript  📅 2026-09-21
+     🔗 https://github.com/apk100866/aaa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-21 21:46:58 UTC] [NEW]   🆕 📦 killernos/PS4-WebKit-Reporting-System-
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/killernos/PS4-WebKit-Reporting-System-
+     📝 PS4 WebKit Reporting System 
+     🏷  —
+[2026-09-21 21:46:58 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-21 21:46:58 UTC] [UPD]   📢 📦 sudoBlackArch/1
+     ⭐ 0  🗣 JavaScript  📅 2026-09-20
+     🔗 https://github.com/sudoBlackArch/1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-21 21:46:58 UTC] [UPD]   📢 📦 ggnicchen0x/ipa
+     ⭐ 0  🗣 Swift  📅 2026-09-18
+     🔗 https://github.com/ggnicchen0x/ipa
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-21 21:46:58 UTC] [INFO] ============================================================
+[2026-09-21 21:46:58 UTC] [INFO] Completato — 60 nuovi, 4 aggiornati, 0 errori
+[2026-09-21 21:46:58 UTC] [INFO] ============================================================
