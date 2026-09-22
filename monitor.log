@@ -91907,3 +91907,339 @@
 [2026-09-22 03:48:33 UTC] [INFO] ============================================================
 [2026-09-22 03:48:33 UTC] [INFO] Completato — 53 nuovi, 2 aggiornati, 0 errori
 [2026-09-22 03:48:33 UTC] [INFO] ============================================================
+[2026-09-22 11:07:54 UTC] [INFO] ============================================================
+[2026-09-22 11:07:54 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-22 11:07:54 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-22 11:07:54 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-22 11:07:54 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-22 11:07:54 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-22 11:07:54 UTC] [INFO] ============================================================
+[2026-09-22 11:07:54 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-22 11:07:54 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-22 11:07:56 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-22 11:07:56 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-22 11:07:56 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-22 11:07:56 UTC] [UPD]   📢 📦 maicolcabreragit/lol
+     ⭐ 0  🗣 C#  📅 2026-09-20
+     🔗 https://github.com/maicolcabreragit/lol
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-22 11:07:56 UTC] [UPD]   📢 📦 Hayliy/naixi-desktop
+     ⭐ 0  🗣 Python  📅 2026-07-24
+     🔗 https://github.com/Hayliy/naixi-desktop
+     📝 本地优先的桌面 AI 智能体：对话 / 桌宠 / 直播互动 / 工作流 / 自动化 / 知识库 / 记忆，模型调用走你自己的 Key，数据留在本机。Tauri …
+     🏷  ai-agent, bilibili, desktop-app, desktop-pet, knowledge-base, live2d, llm-agent, local-first, mcp, python, react, searxng, tauri, tauri-v2, text-to-speech, typescript, vrm, vtuber, windows, workflow-automation
+     🔄 Motivo: nuovi topic: windows, python, bilibili, local-first, text-to-speech, llm-agent, tauri, typescript, ai-agent, searxng, workflow-automation, tauri-v2, react, vrm, desktop-pet, desktop-app, knowledge-base
+[2026-09-22 11:07:56 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-22 11:07:56 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-22 11:07:58 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 48 NUOVI repository:
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 Kamrachakonda13/veyra
+     ⭐ 0  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/Kamrachakonda13/veyra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 EshaAshfaq-ITstudent/LOLBAS-Rundll32-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/EshaAshfaq-ITstudent/LOLBAS-Rundll32-Investigation
+     📝 Investigation and benign lab demonstration of rundll32.exe as a LOLBAS technique…
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 het-P301204/TOURNIQUET
+     ⭐ 0  🗣 TypeScript  📅 2026-09-22
+     🔗 https://github.com/het-P301204/TOURNIQUET
+     📝 Remediation sequencing planner that models forensic evidence loss before destruc…
+     🏷  cybersecurity, dfir, digital-forensics, forensics, incident-response, react, remediation, security-engineering, typescript, vulnerability-management
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 fguilleme/Lumora
+     ⭐ 0  🗣 Swift  📅 2026-09-22
+     🔗 https://github.com/fguilleme/Lumora
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 ctrl-my-braincell/Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/ctrl-my-braincell/Portfolio
+     📝 This is a portfolio and labs hands on journey that I've made. Notes are also inc…
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 muazzez-gurbuz/muazzez-gurbuz
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/muazzez-gurbuz/muazzez-gurbuz
+     📝 Cybersecurity professional in transition | CompTIA Security+ certified | SOC, ED…
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 nawaralseelawi/ai-augmented-cyber-defense
+     ⭐ 1  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/nawaralseelawi/ai-augmented-cyber-defense
+     📝 Simulation code for "Toward Responsible AI-Augmented Cyber Defense" (Aljumaily, …
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 x4v1l0k/COMStorage
+     ⭐ 0  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/x4v1l0k/COMStorage
+     📝 Filesystem over USB CDC/COM on ESP32-S3 (T-Dongle-S3). Measures whether Windows …
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 parvathinair9902/parvathinair9902
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/parvathinair9902/parvathinair9902
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 daniemokancishky/edrwf
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/daniemokancishky/edrwf
+     📝 content
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 yazhini2207/LDR-Hospital-Light
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/yazhini2207/LDR-Hospital-Light
+     📝 An LDR-based automatic lighting system for a hospital model.
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 Navina-M/Incident-Response-Simulator
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/Navina-M/Incident-Response-Simulator
+     📝 A safe desktop cybersecurity training platform using Python, Tkinter, SQLite, an…
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/ol04rp90hv
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/ol04rp90hv
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/8o9kbwyv
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/8o9kbwyv
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/nmz1y0kw0
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/nmz1y0kw0
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/5nk4sfw
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/5nk4sfw
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/wqwvyb38qp
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/wqwvyb38qp
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/u9ya8rtxip
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/u9ya8rtxip
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/dsbe934fdi
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/dsbe934fdi
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/imtaf0j8
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/imtaf0j8
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/16a3xx
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/16a3xx
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/jywu01e
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/jywu01e
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 k3sn/endpoint-security-coverage-dashboard
+     ⭐ 0  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/k3sn/endpoint-security-coverage-dashboard
+     📝 A Streamlit-based security dashboard for organisations managing multiple Microso…
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/uvu3s1cr65
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/uvu3s1cr65
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/hvsjvij
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/hvsjvij
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/szmnlyht7
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/szmnlyht7
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 shapobrity/a3j26i
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/shapobrity/a3j26i
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 psgreger/p1o68bfkq0
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/psgreger/p1o68bfkq0
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 psgreger/albtuw
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/psgreger/albtuw
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 psgreger/kk0q45m
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/psgreger/kk0q45m
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 muazzez-gurbuz/sophos-edr-security-project
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/muazzez-gurbuz/sophos-edr-security-project
+     📝 Sophos EDR deployment, policy configuration, and simulated incident response inv…
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 psgreger/cks0aio9
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/psgreger/cks0aio9
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 psgreger/b907m6
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/psgreger/b907m6
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 yNeoo/privilege-escalation
+     ⭐ 0  🗣 Shell  📅 2026-09-22
+     🔗 https://github.com/yNeoo/privilege-escalation
+     📝 Escalada de privilegios Linux/Windows en lab: enumeración, checklist y detección…
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 psgreger/upv3mczirr
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/psgreger/upv3mczirr
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 psgreger/85chpn
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/psgreger/85chpn
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 psgreger/aqw9ry8b8
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/psgreger/aqw9ry8b8
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 xiaochen201807/company-network-security-docs
+     ⭐ 0  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/xiaochen201807/company-network-security-docs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 psgreger/c63z0iwtz
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/psgreger/c63z0iwtz
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 sk0n3r/3dmpdjbv
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/sk0n3r/3dmpdjbv
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 sk0n3r/pb5ymep
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/sk0n3r/pb5ymep
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 sk0n3r/ejd8wh7
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/sk0n3r/ejd8wh7
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 sk0n3r/f6zz5rsn
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/sk0n3r/f6zz5rsn
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 sk0n3r/73z2cv
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/sk0n3r/73z2cv
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 sk0n3r/obctfnfnm
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/sk0n3r/obctfnfnm
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 sk0n3r/i8b3jf4cc
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/sk0n3r/i8b3jf4cc
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 sk0n3r/5tht9br
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/sk0n3r/5tht9br
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [NEW]   🆕 📦 sk0n3r/6d758pg
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/sk0n3r/6d758pg
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-22 11:07:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-22 11:07:58 UTC] [UPD]   📢 📦 lucaskmk/ai-grupo6-endpoint-investigator
+     ⭐ 0  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/lucaskmk/ai-grupo6-endpoint-investigator
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-22 11:07:58 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-22 11:07:58 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-22 11:08:01 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-22 11:08:01 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-09-22 11:08:01 UTC] [NEW]   🆕 📦 mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-
+     📝 Neutralizing CISA active Linux kernel CVEs (CVE-2025-39964, CVE-2026-53266, CVE-…
+     🏷  cve, devsecops, epbf, falco, kernel, linux, security, sre, zero-day
+[2026-09-22 11:08:01 UTC] [NEW]   🆕 📦 hoang-nam-dev12/676767
+     ⭐ 0  🗣 Swift  📅 2026-09-22
+     🔗 https://github.com/hoang-nam-dev12/676767
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-22 11:08:01 UTC] [NEW]   🆕 📦 xuantrun/tesst111
+     ⭐ 0  🗣 Swift  📅 2026-09-21
+     🔗 https://github.com/xuantrun/tesst111
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-22 11:08:01 UTC] [NEW]   🆕 📦 yNeoo/privilege-escalation
+     ⭐ 0  🗣 Shell  📅 2026-09-22
+     🔗 https://github.com/yNeoo/privilege-escalation
+     📝 Escalada de privilegios Linux/Windows en lab: enumeración, checklist y detección…
+     🏷  —
+[2026-09-22 11:08:01 UTC] [NEW]   🆕 📦 KimiMaxx/KimiMaxx.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-22
+     🔗 https://github.com/KimiMaxx/KimiMaxx.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-22 11:08:01 UTC] [NEW]   🆕 📦 byliqix/windows_vuln
+     ⭐ 1  🗣 C++  📅 2026-09-22
+     🔗 https://github.com/byliqix/windows_vuln
+     📝 (nessuna descrizione)
+     🏷  hevd, vulnerability, windows
+[2026-09-22 11:08:01 UTC] [NEW]   🆕 📦 parthparmar-2006/algorithmic-arena
+     ⭐ 0  🗣 Java  📅 2026-09-22
+     🔗 https://github.com/parthparmar-2006/algorithmic-arena
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-22 11:08:01 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-22 11:08:01 UTC] [UPD]   📢 📦 QED137/harness-project
+     ⭐ 0  🗣 Python  📅 2026-09-21
+     🔗 https://github.com/QED137/harness-project
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-22 11:08:01 UTC] [UPD]   📢 📦 hoang-nam-dev12/36363636
+     ⭐ 0  🗣 Swift  📅 2026-09-17
+     🔗 https://github.com/hoang-nam-dev12/36363636
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-22 11:08:01 UTC] [UPD]   📢 📦 holland202/eace
+     ⭐ 0  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/holland202/eace
+     📝 Evidence-Anchored Agent Containment Evaluation: a local, adversarial framework f…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-22 11:08:01 UTC] [INFO] ============================================================
+[2026-09-22 11:08:01 UTC] [INFO] Completato — 55 nuovi, 6 aggiornati, 0 errori
+[2026-09-22 11:08:01 UTC] [INFO] ============================================================
