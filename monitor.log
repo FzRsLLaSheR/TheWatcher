@@ -93278,3 +93278,271 @@
 [2026-09-23 10:58:04 UTC] [INFO] ============================================================
 [2026-09-23 10:58:04 UTC] [INFO] Completato — 48 nuovi, 7 aggiornati, 0 errori
 [2026-09-23 10:58:04 UTC] [INFO] ============================================================
+[2026-09-23 16:19:04 UTC] [INFO] ============================================================
+[2026-09-23 16:19:04 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-23 16:19:04 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-23 16:19:04 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-23 16:19:04 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-23 16:19:04 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-23 16:19:04 UTC] [INFO] ============================================================
+[2026-09-23 16:19:04 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-23 16:19:04 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-23 16:19:07 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-23 16:19:07 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-23 16:19:07 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-23 16:19:07 UTC] [UPD]   📢 📦 maicolcabreragit/lol
+     ⭐ 0  🗣 C#  📅 2026-09-20
+     🔗 https://github.com/maicolcabreragit/lol
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-23 16:19:07 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-23 16:19:07 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-23 16:19:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 rohan1252030019-netizen/AEGIS
+     ⭐ 0  🗣 TypeScript  📅 2026-09-23
+     🔗 https://github.com/rohan1252030019-netizen/AEGIS
+     📝 AEGIS: Development of Threat Detection and Response System, EDR & MDR using Open…
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 nashmelissa491/edralwt
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/nashmelissa491/edralwt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 raishweta1002/AI-Cybersecurity-Threat-Detect
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/raishweta1002/AI-Cybersecurity-Threat-Detect
+     📝 An AI-powered cybersecurity threat detection system designed to identify and ana…
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 mehmetcanyuruk/FexBadList
+     ⭐ 1  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/mehmetcanyuruk/FexBadList
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 vishwakarmameenal105-a11y/Atomic-Red-Team-Simulation-and-Detection
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/vishwakarmameenal105-a11y/Atomic-Red-Team-Simulation-and-Detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 icebergf6/aegisgraph-soc
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/icebergf6/aegisgraph-soc
+     📝 Next-Gen Graph-Correlated SIEM & Autonomous SOAR Platform featuring Sigma Detect…
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 atalabaev/linux-server-hardening
+     ⭐ 0  🗣 Shell  📅 2026-09-23
+     🔗 https://github.com/atalabaev/linux-server-hardening
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 HaxOrWot/toxicrypt
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/HaxOrWot/toxicrypt
+     📝 A Cryptographic Threat Emulation & Key Management Tool
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 dbappengineergo/DeskEvidence
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/dbappengineergo/DeskEvidence
+     📝 projetos
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 aphan37/Enterprise-Detection-Engineering
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/aphan37/Enterprise-Detection-Engineering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 sabangiri7/soc-analyst-l1
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/sabangiri7/soc-analyst-l1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 cristoponabus/edrm
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/cristoponabus/edrm
+     📝 content
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 rikterskale/StealthPrivesc
+     ⭐ 0  🗣 PowerShell  📅 2026-09-22
+     🔗 https://github.com/rikterskale/StealthPrivesc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 vruru/pi-redteam-workflow
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/vruru/pi-redteam-workflow
+     📝 逆向/渗透/红队工作流合集 for Pi：79 技能 + 16 扩展 + 13 MCP 登记（上游 reverse-skill 与 dsh-redteam-mo…
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 h47er/AgenticSOC-Toolkit
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/h47er/AgenticSOC-Toolkit
+     📝 Agentic SOC Toolkit 
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 bishwajit5788/EchoNode0.1
+     ⭐ 0  🗣 C++  📅 2026-09-23
+     🔗 https://github.com/bishwajit5788/EchoNode0.1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 str1keboo/host-inventory-check
+     ⭐ 0  🗣 PowerShell  📅 2026-09-23
+     🔗 https://github.com/str1keboo/host-inventory-check
+     📝 Checks whether hosts are enrolled in SentinelOne, Wazuh, and Rapid7 InsightVM, a…
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 ttasc/slbf
+     ⭐ 0  🗣 Go  📅 2026-09-22
+     🔗 https://github.com/ttasc/slbf
+     📝 Simple Learned Bloom Filter
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 Sujalkathait/-AI-Agent-Security-Playbook.
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/Sujalkathait/-AI-Agent-Security-Playbook.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 rana1922/ThreatLens-IOC-Hunter-MITRE-ATT-CK-Correlator
+     ⭐ 0  🗣 TypeScript  📅 2026-09-23
+     🔗 https://github.com/rana1922/ThreatLens-IOC-Hunter-MITRE-ATT-CK-Correlator
+     📝 ThreatLens is a lightweight SOC security platform that allows an analyst to uplo…
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 Yamini-prog296/cybernexus-ai
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/Yamini-prog296/cybernexus-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 xz-code/text-snap
+     ⭐ 0  🗣 Rust  📅 2026-09-23
+     🔗 https://github.com/xz-code/text-snap
+     📝 通过 UI 自动化读取 Windows 上任意窗口的选中文本，不使用剪贴板
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 kanomakhesana-glitch/blue-team-log-analyzer
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/kanomakhesana-glitch/blue-team-log-analyzer
+     📝 Sigma rules engine for log analysis with ATT&CK technique detection and timeline…
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 samueldonkor02-collab/System-performance-monitoring
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/samueldonkor02-collab/System-performance-monitoring
+     📝 This section covers using Task Manager to get a full picture of what's actually …
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/t87jail
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/t87jail
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/wfsqs7su5
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/wfsqs7su5
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 Meng0la/cyberlab-portfolio
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/Meng0la/cyberlab-portfolio
+     📝 Cybersecurity training platform — 22 modules, MITRE ATT&CK, 55+ offensive script…
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/757yg7
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/757yg7
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/zba72arrhm
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/zba72arrhm
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/5a3got
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/5a3got
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/mzyze9i6
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/mzyze9i6
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/tmjura3
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/tmjura3
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/l52etllo26
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/l52etllo26
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/s57fjkj55
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/s57fjkj55
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 43backclea/kv5uw9y
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/43backclea/kv5uw9y
+     📝 Auto-created repository for publishing
+     🏷  —
+[2026-09-23 16:19:10 UTC] [NEW]   🆕 📦 branmirdubx/edrq
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/branmirdubx/edrq
+     📝 content
+     🏷  —
+[2026-09-23 16:19:10 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-23 16:19:10 UTC] [UPD]   📢 📦 AirysDark/Esp32s3DACBT
+     ⭐ 0  🗣 C++  📅 2026-09-22
+     🔗 https://github.com/AirysDark/Esp32s3DACBT
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-23 16:19:10 UTC] [UPD]   📢 📦 Aditya-180404/TRACEFORGE
+     ⭐ 0  🗣 Rust  📅 2026-09-20
+     🔗 https://github.com/Aditya-180404/TRACEFORGE
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-23 16:19:10 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-23 16:19:10 UTC] [UPD]   📢 📦 atskovski/Aegis
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/atskovski/Aegis
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-23 16:19:10 UTC] [UPD]   📢 📦 Gustavo-Ambrosio/lotus-radar
+     ⭐ 0  🗣 TypeScript  📅 2026-09-18
+     🔗 https://github.com/Gustavo-Ambrosio/lotus-radar
+     📝 Radar licitações Cultura.
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-23 16:19:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-23 16:19:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-23 16:19:12 UTC] [INFO]   → 28 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-23 16:19:12 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-23 16:19:12 UTC] [NEW]   🆕 📦 glockhart/claude-code-base
+     ⭐ 0  🗣 Shell  📅 2026-09-23
+     🔗 https://github.com/glockhart/claude-code-base
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 16:19:12 UTC] [NEW]   🆕 📦 kanomakhesana-glitch/ctf-writeups
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/kanomakhesana-glitch/ctf-writeups
+     📝 CTF challenge writeups and solutions from HTB, THM, VulnHub, PG Play. Organized …
+     🏷  —
+[2026-09-23 16:19:12 UTC] [NEW]   🆕 📦 anandtripathi0/PrepFAANG
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/anandtripathi0/PrepFAANG
+     📝 A full-stack coding interview preparation platform with DSA practice, quizzes, p…
+     🏷  —
+[2026-09-23 16:19:12 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-23 16:19:12 UTC] [UPD]   📢 📦 anasbar99/ps4-webkit
+     ⭐ 1  🗣 JavaScript  📅 2026-09-22
+     🔗 https://github.com/anasbar99/ps4-webkit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-23 16:19:12 UTC] [UPD]   📢 📦 ElenaViewSynthesis/GymSIEGE
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/ElenaViewSynthesis/GymSIEGE
+     📝  ▎ Fleet-evaluation harness for security-agent benchmarks (CyberGym-E2E, Exploit…
+     🏷  arvo, asan-global-buffer-overflow, audit-loop, binaries, computer-use, cve, cybergym, docker, exploit-gym, futex, fuzzing, libdwarf, libxml2-uaf, modal, msan, net-snmp, otel, patch, qemu-kvm, ubsan
+     🔄 Motivo: nuovi topic: asan-global-buffer-overflow, qemu-kvm, ubsan, arvo, net-snmp, msan, cve, docker, libdwarf, binaries, fuzzing, otel, futex
+[2026-09-23 16:19:12 UTC] [INFO] ============================================================
+[2026-09-23 16:19:12 UTC] [INFO] Completato — 39 nuovi, 8 aggiornati, 0 errori
+[2026-09-23 16:19:12 UTC] [INFO] ============================================================
