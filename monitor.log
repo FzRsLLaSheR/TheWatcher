@@ -92971,3 +92971,310 @@
 [2026-09-23 03:46:53 UTC] [INFO] ============================================================
 [2026-09-23 03:46:53 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
 [2026-09-23 03:46:53 UTC] [INFO] ============================================================
+[2026-09-23 10:57:57 UTC] [INFO] ============================================================
+[2026-09-23 10:57:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-23 10:57:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-23 10:57:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-23 10:57:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-23 10:57:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-23 10:57:57 UTC] [INFO] ============================================================
+[2026-09-23 10:57:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-23 10:57:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-23 10:57:59 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-23 10:57:59 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-23 10:57:59 UTC] [NEW]   🆕 📦 itsmrroot/WindowsDetective
+     ⭐ 0  🗣 PowerShell  📅 2026-09-23
+     🔗 https://github.com/itsmrroot/WindowsDetective
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:57:59 UTC] [NEW]   🆕 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+[2026-09-23 10:57:59 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-23 10:57:59 UTC] [UPD]   📢 📦 maicolcabreragit/lol
+     ⭐ 0  🗣 C#  📅 2026-09-20
+     🔗 https://github.com/maicolcabreragit/lol
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-23 10:57:59 UTC] [UPD]   📢 📦 dyz131005/BanJiu-Guard
+     ⭐ 1  🗣 C++  📅 2026-09-20
+     🔗 https://github.com/dyz131005/BanJiu-Guard
+     📝 BanJiu-Guard是一款由C++和QT开发的安全软件
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-23 10:57:59 UTC] [UPD]   📢 📦 Staatsrat/sign_strike
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/Staatsrat/sign_strike
+     📝 SignStrike detects kernel modifications by malicious programs on Windows and rep…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-23 10:57:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-23 10:57:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-23 10:58:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 41 NUOVI repository:
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Kamrachakonda13/AI_Cybersecurity
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Kamrachakonda13/AI_Cybersecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 chandra980/CyberMentorAI
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/chandra980/CyberMentorAI
+     📝 Advanced AI Cybersecurity Assistant - Android, Desktop, CLI, Web, SOC, Lab, Exam…
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 imtarget05/Enterprise-IT-Helpdesk-Lab
+     ⭐ 0  🗣 JavaScript  📅 2026-09-22
+     🔗 https://github.com/imtarget05/Enterprise-IT-Helpdesk-Lab
+     📝 Enterprise IT Helpdesk Lab: Windows Server AD/DNS/DHCP/GPO, 20 ITIL incident tic…
+     🏷  active-directory, docker, express, it-helpdesk, itil, nodejs, portfolio, powershell, system-administration
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Evilcarbon/EvilBox
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/Evilcarbon/EvilBox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 szbence005/colorgrabber
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/szbence005/colorgrabber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 obrienwilliam2/edrayf
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/obrienwilliam2/edrayf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 fexen0/fexen0
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/fexen0/fexen0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 vigneshwaranvikki080v-hub/SIH26166---Multi-modal-Sun-Angle-Scale-Invariant-Image-Correspondence-Chandrayaan-2
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/vigneshwaranvikki080v-hub/SIH26166---Multi-modal-Sun-Angle-Scale-Invariant-Image-Correspondence-Chandrayaan-2
+     📝 A computer vision project inspired by the Chandrayaan-2 lunar mission, focused o…
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 bokanrb/canarinho
+     ⭐ 1  🗣 C++  📅 2026-09-23
+     🔗 https://github.com/bokanrb/canarinho
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Angryberry/TAER-RAG
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Angryberry/TAER-RAG
+     📝 TAER-RAG: Targeted Acquisition and Evidence Refinement for Retrieval-Augmented G…
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Zwh-1/decentralized-voting-dapp
+     ⭐ 0  🗣 TypeScript  📅 2026-09-23
+     🔗 https://github.com/Zwh-1/decentralized-voting-dapp
+     📝 实习项目
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 solut0palsoni/edrer
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/solut0palsoni/edrer
+     📝 content
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 cupengus1/Google_Cybersecurity
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/cupengus1/Google_Cybersecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 250wuyifan/NexEDR
+     ⭐ 1  🗣 HTML  📅 2026-09-23
+     🔗 https://github.com/250wuyifan/NexEDR
+     📝 NexEDR - Windows EDR teaching/research platform: kernel driver + C++ agent + Fas…
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 x4v1l0k/RNDISStorage
+     ⭐ 0  🗣 C  📅 2026-09-23
+     🔗 https://github.com/x4v1l0k/RNDISStorage
+     📝 LILYGO T-Dongle-S3 exposes FAT32 microSD via USB Ethernet (NCM) + WebDAV/web UI …
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 prismrapid9/edrwi
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/prismrapid9/edrwi
+     📝 content
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 itsmrroot/WindowsDetective
+     ⭐ 0  🗣 PowerShell  📅 2026-09-23
+     🔗 https://github.com/itsmrroot/WindowsDetective
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 collinsjames5964/edrmf
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/collinsjames5964/edrmf
+     📝 content
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Shivaniyadav-23/V9-Security
+     ⭐ 0  🗣 Java  📅 2026-09-23
+     🔗 https://github.com/Shivaniyadav-23/V9-Security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 tgewifizone-ops/ds-edrive
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/tgewifizone-ops/ds-edrive
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Fabina-AT/cybersecurity-soc-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-22
+     🔗 https://github.com/Fabina-AT/cybersecurity-soc-portfolio
+     📝 Practical Cybersecurity & SOC portfolio covering SIEM, detection engineering, in…
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 KlettIT/Huntress-Fortigate-AddressFeed
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/KlettIT/Huntress-Fortigate-AddressFeed
+     📝 (nessuna descrizione)
+     🏷  fortigate, huntress
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 ACCentral/ACCentral
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/ACCentral/ACCentral
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Lodestar-sec/binary-hardening-gate
+     ⭐ 0  🗣 Dockerfile  📅 2026-09-23
+     🔗 https://github.com/Lodestar-sec/binary-hardening-gate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 tashev11/tashev-guard
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/tashev11/tashev-guard
+     📝 Open-source local-first security monitor — know what is connected, what is liste…
+     🏷  android, cybersecurity, local-first, macos, network-monitoring, open-core, open-source, privacy, security, security-monitoring, windows
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 gowthambalaji8git/AegisSOC
+     ⭐ 1  🗣 HTML  📅 2026-09-23
+     🔗 https://github.com/gowthambalaji8git/AegisSOC
+     📝 # AegisSOC – AI-Powered SOC Incident Management Platform
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 custom-shell-library/software
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/custom-shell-library/software
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 CakeAL/miniled-bad-apple
+     ⭐ 1  🗣 Swift  📅 2026-09-23
+     🔗 https://github.com/CakeAL/miniled-bad-apple
+     📝 以HDR在mac的miniled屏幕上播放Bad Apple!!
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 iamyou-uoymai/EDR-System-1-model
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/iamyou-uoymai/EDR-System-1-model
+     📝 A system -1 inspired AI model for quick decisions for endpoint detection respons…
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Dino20004/11_CyberSpread_Sentinel
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Dino20004/11_CyberSpread_Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 rayryan03/edrk
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/rayryan03/edrk
+     📝 content
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 William-Edric-Harianto/Week_02_VP_B_1076012510036_Edric
+     ⭐ 0  🗣 Kotlin  📅 2026-09-23
+     🔗 https://github.com/William-Edric-Harianto/Week_02_VP_B_1076012510036_Edric
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 atskovski/Aegis
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/atskovski/Aegis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 zhenruwang0713/eDrop
+     ⭐ 0  🗣 Swift  📅 2026-09-23
+     🔗 https://github.com/zhenruwang0713/eDrop
+     📝 点译 · eDrop — macOS 划词即译（英→中）. Download & personal use only. No copy rights.
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Krotreaksmey2200/kh-edraw
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/Krotreaksmey2200/kh-edraw
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 jbql/edRVFL1
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/jbql/edRVFL1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 Simit2055/SIMIT2055
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/Simit2055/SIMIT2055
+     📝 My GitHub profile – aspiring ethical hacker & final-year Cyber Security student …
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 AIagentPRO78/cybersec-10000
+     ⭐ 1  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/AIagentPRO78/cybersec-10000
+     📝 40-agent, ~10,163-dimension security analysis swarm (static + live ops) with a s…
+     🏷  ai-agents, bug-bounty, claude-code, cybersecurity, llm-security, offensive-security, red-team, security-audit, threat-modeling
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 awuawuheiyohei/siem-edr-detection
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/awuawuheiyohei/siem-edr-detection
+     📝 SIEM/EDR Detection Engineering - 10 Sigma/ATT&CK rules + Mac local SIEM
+     🏷  —
+[2026-09-23 10:58:01 UTC] [NEW]   🆕 📦 hatemsami36/SentinelGuard-EDR
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/hatemsami36/SentinelGuard-EDR
+     📝 Defensive Endpoint Detection and Response (EDR) educational project
+     🏷  —
+[2026-09-23 10:58:01 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-23 10:58:01 UTC] [UPD]   📢 📦 Dickson32-cell/ehga-system
+     ⭐ 0  🗣 JavaScript  📅 2026-09-22
+     🔗 https://github.com/Dickson32-cell/ehga-system
+     📝 ehga-system is a system for parcel and driving services in ghana
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-23 10:58:01 UTC] [UPD]   📢 📦 cihanuralkaya/Kut-Security-Suit
+     ⭐ 0  🗣 Go  📅 2026-09-16
+     🔗 https://github.com/cihanuralkaya/Kut-Security-Suit
+     📝 Kut Security Suit - XDR/EDR/MDM guvenlik paketi
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-23 10:58:01 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-23 10:58:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-23 10:58:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-23 10:58:04 UTC] [INFO]   → 25 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-23 10:58:04 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-23 10:58:04 UTC] [NEW]   🆕 📦 anasbar99/ps4-webkit
+     ⭐ 1  🗣 JavaScript  📅 2026-09-22
+     🔗 https://github.com/anasbar99/ps4-webkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:04 UTC] [NEW]   🆕 📦 pscenter-lab/ps
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/pscenter-lab/ps
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:04 UTC] [NEW]   🆕 📦 minhdzbakhi/redmi-17-4g-leedsa-kernelsu-root
+     ⭐ 0  🗣 Shell  📅 2026-09-23
+     🔗 https://github.com/minhdzbakhi/redmi-17-4g-leedsa-kernelsu-root
+     📝 jailbreak for redmi 17 4g
+     🏷  —
+[2026-09-23 10:58:04 UTC] [NEW]   🆕 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+[2026-09-23 10:58:04 UTC] [NEW]   🆕 📦 maizabc/Biul-Ipa
+     ⭐ 0  🗣 Swift  📅 2026-09-23
+     🔗 https://github.com/maizabc/Biul-Ipa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 10:58:04 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-23 10:58:04 UTC] [UPD]   📢 📦 dungleioshax-droid/DarkPubg
+     ⭐ 0  🗣 Objective-C++  📅 2026-09-20
+     🔗 https://github.com/dungleioshax-droid/DarkPubg
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-23 10:58:04 UTC] [INFO] ============================================================
+[2026-09-23 10:58:04 UTC] [INFO] Completato — 48 nuovi, 7 aggiornati, 0 errori
+[2026-09-23 10:58:04 UTC] [INFO] ============================================================
