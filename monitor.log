@@ -93546,3 +93546,232 @@
 [2026-09-23 16:19:12 UTC] [INFO] ============================================================
 [2026-09-23 16:19:12 UTC] [INFO] Completato — 39 nuovi, 8 aggiornati, 0 errori
 [2026-09-23 16:19:12 UTC] [INFO] ============================================================
+[2026-09-23 21:13:28 UTC] [INFO] ============================================================
+[2026-09-23 21:13:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-23 21:13:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-23 21:13:28 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-23 21:13:28 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-23 21:13:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-23 21:13:28 UTC] [INFO] ============================================================
+[2026-09-23 21:13:28 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-23 21:13:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-23 21:13:30 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-23 21:13:30 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-23 21:13:30 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-23 21:13:30 UTC] [UPD]   📢 📦 maicolcabreragit/lol
+     ⭐ 0  🗣 C  📅 2026-09-20
+     🔗 https://github.com/maicolcabreragit/lol
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-23 21:13:30 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-23 21:13:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-23 21:13:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-23 21:13:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 29 NUOVI repository:
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 jpercas570/jpercas570.github.io
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/jpercas570/jpercas570.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 QuantumFabricIndustries/tokenwatch
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/QuantumFabricIndustries/tokenwatch
+     📝 AI-agent credential + cached-context theft monitor — audits where desktop agents…
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 x410m1s0/xaloAC-Desktop
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/x410m1s0/xaloAC-Desktop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 BackspaceBandit/LOIS
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/BackspaceBandit/LOIS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 mhomaid/attest
+     ⭐ 0  🗣 Rust  📅 2026-09-23
+     🔗 https://github.com/mhomaid/attest
+     📝 Streaming-first security operations platform with a verifiable agentic SOC (Rust…
+     🏷  ai-agents, arroyo, attestation, iceberg, kafka, mcp, nextjs, ocsf, onnx, risingwave, rust, security, siem
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 gushmazuko/go-c2-framework-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/gushmazuko/go-c2-framework-portfolio
+     📝 C2 platform engineered together with its own detection coverage — protocol desig…
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 oimpf/SMTP-Relay-Phishing-Sim
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/oimpf/SMTP-Relay-Phishing-Sim
+     📝 Educational SMTP delivery PoC for open-relay phishing simulation, built solving …
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 OtavioVerzola/desafio-malware-python
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/OtavioVerzola/desafio-malware-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 krausecharles333/edrtgg
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/krausecharles333/edrtgg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 Khatim-Aly/Hacker-Agent-Skills-Pack
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/Khatim-Aly/Hacker-Agent-Skills-Pack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 BEASTY2K3/SasiIT
+     ⭐ 0  🗣 HTML  📅 2026-09-23
+     🔗 https://github.com/BEASTY2K3/SasiIT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 Rodrigocr04/SOC-Homelab
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/Rodrigocr04/SOC-Homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 Ashawat07/SIH26105-prototype
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ashawat07/SIH26105-prototype
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 meloalan/Caminho-das-Pedras-CyberSecurity
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/meloalan/Caminho-das-Pedras-CyberSecurity
+     📝 (nessuna descrizione)
+     🏷  active-directory, blue-team, cyber-security, cybersecurity, cybersecurity-lab, cybersecurity-roadmap, detection-engineering, incident-response, infosec, kql, learning-cybersecurity, microsoft-sentinel, mitre-attack, security-lab, siem, soc, soc-analyst, sysmon, threat-hunting, windows-security
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 juibhager/edrxa
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/juibhager/edrxa
+     📝 content
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 CyberKareem/KameKi
+     ⭐ 0  🗣 Shell  📅 2026-09-22
+     🔗 https://github.com/CyberKareem/KameKi
+     📝 Authenticated VA solution using free tools
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 rudrapaturwar-tech/CYBERGENOME-AI-2
+     ⭐ 0  🗣 HTML  📅 2026-09-23
+     🔗 https://github.com/rudrapaturwar-tech/CYBERGENOME-AI-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 DanishRahmanDR/FIM-tool
+     ⭐ 1  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/DanishRahmanDR/FIM-tool
+     📝 File Integrity Monitoring (FIM) system written in Python
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 cryptdefender323/crypthunt
+     ⭐ 0  🗣 TypeScript  📅 2026-09-23
+     🔗 https://github.com/cryptdefender323/crypthunt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 AvenClearwick/ProtectionPlan-edr6qwp3
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/AvenClearwick/ProtectionPlan-edr6qwp3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 Dedstobed/edrgter
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Dedstobed/edrgter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 MynameisScott/Humboldt-Protect
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MynameisScott/Humboldt-Protect
+     📝 Proteção contra ransomware e gerenciamento de backups para servidores Linux com …
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 vamshichethan/SentiX
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/vamshichethan/SentiX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 ladanikirtan10-cyber/clarion-threat-correlation-engine
+     ⭐ 0  🗣 TypeScript  📅 2026-09-23
+     🔗 https://github.com/ladanikirtan10-cyber/clarion-threat-correlation-engine
+     📝 Explainable AI-driven SOC operations assistant that normalizes multi-source tele…
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 vinitrami-Soc/phishhawk
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/vinitrami-Soc/phishhawk
+     📝 Sharp-eyed phishing triage for the SOC: extracts IOCs from reported .eml files, …
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 fmovdrymxz/edryfg
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/fmovdrymxz/edryfg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 httdjuly/Closed-Word
+     ⭐ 0  🗣 TypeScript  📅 2026-09-23
+     🔗 https://github.com/httdjuly/Closed-Word
+     📝 Closed Word - Cờ tỷ phú
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 guitturjest/edrfe
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/guitturjest/edrfe
+     📝 content
+     🏷  —
+[2026-09-23 21:13:33 UTC] [NEW]   🆕 📦 palak31626/AI-Cybersecurity-threat-detect.main
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/palak31626/AI-Cybersecurity-threat-detect.main
+     📝 An AI based cybersecurity system that detects and analyzes potential threat 
+     🏷  —
+[2026-09-23 21:13:33 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-23 21:13:33 UTC] [UPD]   📢 📦 rikterskale/StealthPrivesc
+     ⭐ 0  🗣 PowerShell  📅 2026-09-22
+     🔗 https://github.com/rikterskale/StealthPrivesc
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-23 21:13:33 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-23 21:13:33 UTC] [UPD]   📢 📦 mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-
+     ⭐ 1  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-
+     📝 Neutralizing CISA active Linux kernel CVEs (CVE-2025-39964, CVE-2026-53266, CVE-…
+     🏷  cve, devsecops, ebpf, falco, kernel, linux, security, sre, zero-day
+     🔄 Motivo: repo recente (1gg)
+[2026-09-23 21:13:33 UTC] [UPD]   📢 📦 atskovski/Aegis
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/atskovski/Aegis
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-23 21:13:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-23 21:13:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-23 21:13:35 UTC] [INFO]   → 29 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-23 21:13:35 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-23 21:13:35 UTC] [NEW]   🆕 📦 yash112005/NPU-Guard
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/yash112005/NPU-Guard
+     📝 An ultra-low latency, signature-less anti-spyware shield designed exclusively fo…
+     🏷  —
+[2026-09-23 21:13:35 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-23 21:13:35 UTC] [UPD]   📢 📦 milouk/mls-maic
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/milouk/mls-maic
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-23 21:13:35 UTC] [UPD]   📢 📦 anasbar99/ps4-webkit
+     ⭐ 1  🗣 JavaScript  📅 2026-09-22
+     🔗 https://github.com/anasbar99/ps4-webkit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-23 21:13:35 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-23 21:13:35 UTC] [INFO] ============================================================
+[2026-09-23 21:13:35 UTC] [INFO] Completato — 30 nuovi, 9 aggiornati, 0 errori
+[2026-09-23 21:13:35 UTC] [INFO] ============================================================
