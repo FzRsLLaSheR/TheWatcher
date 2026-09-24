@@ -94534,3 +94534,198 @@
 [2026-09-24 16:40:53 UTC] [INFO] ============================================================
 [2026-09-24 16:40:53 UTC] [INFO] Completato — 35 nuovi, 7 aggiornati, 0 errori
 [2026-09-24 16:40:53 UTC] [INFO] ============================================================
+[2026-09-24 21:15:09 UTC] [INFO] ============================================================
+[2026-09-24 21:15:09 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-24 21:15:09 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-24 21:15:09 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-24 21:15:09 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-24 21:15:09 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-24 21:15:09 UTC] [INFO] ============================================================
+[2026-09-24 21:15:09 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-24 21:15:09 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-24 21:15:11 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-24 21:15:11 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-24 21:15:11 UTC] [NEW]   🆕 📦 Ablation-Tool/ablation
+     ⭐ 1  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, firmware-analysis, reverse-engineering
+[2026-09-24 21:15:11 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-24 21:15:11 UTC] [UPD]   📢 📦 maicolcabreragit/lol
+     ⭐ 0  🗣 C#  📅 2026-09-20
+     🔗 https://github.com/maicolcabreragit/lol
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-24 21:15:11 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-24 21:15:11 UTC] [UPD]   📢 📦 edistone10/cti-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/edistone10/cti-portfolio
+     📝 vidence-first Cyber Threat Intelligence reports – every claim backed by verbatim…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-24 21:15:11 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-24 21:15:11 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-24 21:15:14 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 y7fuz9d5uk/edriyx
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/y7fuz9d5uk/edriyx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 ErwinsS225/ExamQuizz
+     ⭐ 0  🗣 TypeScript  📅 2026-09-24
+     🔗 https://github.com/ErwinsS225/ExamQuizz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 edcarlosooficial/identifica_infra
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/edcarlosooficial/identifica_infra
+     📝 Identifica sua infra! Versão free
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 visiongaiatechnology/gedefenseandroid
+     ⭐ 0  🗣 Kotlin  📅 2026-09-23
+     🔗 https://github.com/visiongaiatechnology/gedefenseandroid
+     📝 GeDefense Mobile is a native Android security platform that combines a local VPN…
+     🏷  android, android-app, android-mdm, android-security, app, cyber-threat-intelligence, cybersecurity, cybersecurity-tools, edr, xdr
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 prox0959/prox0959
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/prox0959/prox0959
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 prox0959/MemGuard
+     ⭐ 1  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/prox0959/MemGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 benjamitchell/GlobalFit-EGC
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-09-24
+     🔗 https://github.com/benjamitchell/GlobalFit-EGC
+     📝 GlobalFit en Python para detectar y eliminar ciclos generadores de energía (EGCs…
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 melendezdaniel37/edrqxy
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/melendezdaniel37/edrqxy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 spatel-DFIR/Retrace
+     ⭐ 0  🗣 Shell  📅 2026-09-24
+     🔗 https://github.com/spatel-DFIR/Retrace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 ryzholf/edrg
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/ryzholf/edrg
+     📝 content
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 aobakwemokgothu94-jpg/aobakwe
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/aobakwemokgothu94-jpg/aobakwe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 stanaedroswargara/Frontend_StanaEdroSwargara_25Sept2026
+     ⭐ 0  🗣 TypeScript  📅 2026-09-24
+     🔗 https://github.com/stanaedroswargara/Frontend_StanaEdroSwargara_25Sept2026
+     📝 CRUD Task Management Board 
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 Tamishsri/aegis-threat-triage
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/Tamishsri/aegis-threat-triage
+     📝 Evidence-first, local threat triage for Snapdragon AI PCs.
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 edrddddd/edrddddd
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/edrddddd/edrddddd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 noreplyinternational/EDR8352
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/noreplyinternational/EDR8352
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 Aimadulislam/pcap-analyzer
+     ⭐ 0  🗣 TypeScript  📅 2026-09-24
+     🔗 https://github.com/Aimadulislam/pcap-analyzer
+     📝 Automated Python PCAP Analyzer & Threat Parser
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 mathiaswilliam761-ui/Lynx_EDR-SOC-Monitoring
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/mathiaswilliam761-ui/Lynx_EDR-SOC-Monitoring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 balan-iirov/edri
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/balan-iirov/edri
+     📝 content
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 Better-IAM/better-iam
+     ⭐ 3  🗣 TypeScript  📅 2026-09-23
+     🔗 https://github.com/Better-IAM/better-iam
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 HackingLZ/lsass_tooling_analysis
+     ⭐ 1  🗣 HTML  📅 2026-09-24
+     🔗 https://github.com/HackingLZ/lsass_tooling_analysis
+     📝 Source-only LSASS tooling analysis, AI-generated .NET research artifacts, and de…
+     🏷  ai-security, credential-dumping, cybersecurity, detection-engineering, dotnet, lsass, sigma-rules, threat-research, windows-security, yara-rules
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 jlisbz/fw26-unit1-student
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/jlisbz/fw26-unit1-student
+     📝 Distributed Systems unit 1 project introduction and skeleton for students
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 ASRIDK/bdd-synchrone
+     ⭐ 0  🗣 TypeScript  📅 2026-09-24
+     🔗 https://github.com/ASRIDK/bdd-synchrone
+     📝 Knowledge Warranty for Synchrone: search meeting recordings with the minute that…
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 OumaimaMi/industrial-supervision-platform
+     ⭐ 0  🗣 TypeScript  📅 2026-09-24
+     🔗 https://github.com/OumaimaMi/industrial-supervision-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [NEW]   🆕 📦 brenobmoreira/skye
+     ⭐ 0  🗣 Go  📅 2026-09-23
+     🔗 https://github.com/brenobmoreira/skye
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:14 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-24 21:15:14 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-24 21:15:14 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-24 21:15:14 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-24 21:15:16 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-24 21:15:16 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-24 21:15:16 UTC] [NEW]   🆕 📦 brstation/webkitty.ps4.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-24
+     🔗 https://github.com/brstation/webkitty.ps4.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:16 UTC] [NEW]   🆕 📦 Tanhh05/3105-NTA-MOD
+     ⭐ 0  🗣 Swift  📅 2026-09-24
+     🔗 https://github.com/Tanhh05/3105-NTA-MOD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 21:15:16 UTC] [NEW]   🆕 📦 actuallyniaxx/13.52
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/actuallyniaxx/13.52
+     📝 Domain for launching GoldHen through the 13.52 userland exploit on PS4
+     🏷  —
+[2026-09-24 21:15:16 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-24 21:15:16 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-24 21:15:16 UTC] [INFO] ============================================================
+[2026-09-24 21:15:16 UTC] [INFO] Completato — 28 nuovi, 5 aggiornati, 0 errori
+[2026-09-24 21:15:16 UTC] [INFO] ============================================================
