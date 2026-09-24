@@ -93775,3 +93775,228 @@
 [2026-09-23 21:13:35 UTC] [INFO] ============================================================
 [2026-09-23 21:13:35 UTC] [INFO] Completato — 30 nuovi, 9 aggiornati, 0 errori
 [2026-09-23 21:13:35 UTC] [INFO] ============================================================
+[2026-09-24 03:38:41 UTC] [INFO] ============================================================
+[2026-09-24 03:38:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-24 03:38:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-24 03:38:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-24 03:38:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-24 03:38:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-24 03:38:41 UTC] [INFO] ============================================================
+[2026-09-24 03:38:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-24 03:38:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-24 03:38:43 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-24 03:38:43 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-24 03:38:43 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-24 03:38:43 UTC] [UPD]   📢 📦 maicolcabreragit/lol
+     ⭐ 0  🗣 C#  📅 2026-09-20
+     🔗 https://github.com/maicolcabreragit/lol
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-24 03:38:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-24 03:38:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-24 03:38:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 d7ge61cx48/edrfc
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/d7ge61cx48/edrfc
+     📝 content
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 Sergey-Nikitenko/argus
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/Sergey-Nikitenko/argus
+     📝 Argus - Windows EDR with local/cloud LLM adjudication and a malware detonation s…
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 bugitrix/cybersecurity-roadmap
+     ⭐ 1  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/bugitrix/cybersecurity-roadmap
+     📝 Free cyber security roadmap for beginners — go from zero to job-ready step by st…
+     🏷  bughunter, bughuntersuniversity, bughunting, bughunting-methodology, bughunting-tool, bughunting-tools, bughunting-writeups, cybersecurit, cybersecurity, cybersecurity-awareness, cybersecurity-education, cybersecurity-projects, cybersecurity-tools, cybersecurity-training, roadmap, roadmap-generator, roadmap-project, roadmap-sh, roadmaps
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 hktsamtfan/edrzt
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/hktsamtfan/edrzt
+     📝 content
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 oaliptiuy/edrc
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/oaliptiuy/edrc
+     📝 content
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 zekekgray/cygnus658-exe
+     ⭐ 0  🗣 C#  📅 2026-09-23
+     🔗 https://github.com/zekekgray/cygnus658-exe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 scoufam2000/edrn
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/scoufam2000/edrn
+     📝 content
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 KeenanSec/MorrisonCyberDefense
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/KeenanSec/MorrisonCyberDefense
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 guitarbeat/stickyfingers
+     ⭐ 0  🗣 C  📅 2026-09-23
+     🔗 https://github.com/guitarbeat/stickyfingers
+     📝 🐾 An expressive black cat cyber-pet and WiFi/BLE audit toolkit for the Seeed Stu…
+     🏷  biscuit, cyber-pet, eink, esp32s3, pwnagotchi, reterminal-sticky
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 stevenpsm/detection-coverage-workbench
+     ⭐ 0  🗣 HTML  📅 2026-09-24
+     🔗 https://github.com/stevenpsm/detection-coverage-workbench
+     📝 Offline single-file ATT&CK workbench for detection coverage gaps, technique cont…
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 urlocalracc/GhostReverse
+     ⭐ 0  🗣 Go  📅 2026-09-24
+     🔗 https://github.com/urlocalracc/GhostReverse
+     📝 A Simple reverse shell payload in Go for windows architecture
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 ellasypark/AgentDR
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/ellasypark/AgentDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 JoseRFJuniorLLMs/STF
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/JoseRFJuniorLLMs/STF
+     📝 STF
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 thangam22-cyber/thangam22-cyber
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/thangam22-cyber/thangam22-cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 solrobe/edri
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/solrobe/edri
+     📝 content
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 MusaWhiteHat/ir-playbooks-as-code
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MusaWhiteHat/ir-playbooks-as-code
+     📝 Security Auomation, Incident Response, SOC
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 ixiondt/Pentest
+     ⭐ 0  🗣 Shell  📅 2026-09-24
+     🔗 https://github.com/ixiondt/Pentest
+     📝 SecOps Toolkit: pentest and incident response automation, playbooks and referenc…
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 api-evangelist/edreams
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/api-evangelist/edreams
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 HrushiCyber/argus-assurance
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/HrushiCyber/argus-assurance
+     📝 ARGUS an open assurance architecture for machine-verifiable trust in digital sys…
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 MacGyverr/Astrocade-ESP32-Keyboard
+     ⭐ 0  🗣 C++  📅 2026-09-23
+     🔗 https://github.com/MacGyverr/Astrocade-ESP32-Keyboard
+     📝 Astrocade-ESP32-Keyboard USB/BLE adapter
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 GrupoANDevelopment-m/github-integration
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/GrupoANDevelopment-m/github-integration
+     📝 Goodware v3.0 + DeepSeek Harness oficial — Sistema Imunitário Digital Autónomo
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 ONavas25/SOA-AI-SOC-Project
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/ONavas25/SOA-AI-SOC-Project
+     📝 AI-assisted SOC triage and investigation project using deterministic n8n automat…
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 BAZTP/-An-lisis-de-Malware-AsyncRAT
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/BAZTP/-An-lisis-de-Malware-AsyncRAT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 zyv2/direct-syscall-remote-thread--injector
+     ⭐ 0  🗣 C++  📅 2026-09-23
+     🔗 https://github.com/zyv2/direct-syscall-remote-thread--injector
+     📝 A C++ and x64 MASM implementation of user-land EDR hook evasion using dynamic SS…
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 icebergf6/aurasmile-luxe-saas
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/icebergf6/aurasmile-luxe-saas
+     📝 An enterprise-grade, luxury cosmetic dentistry operating system built with React…
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 tapiajennifer08/edrivx
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/tapiajennifer08/edrivx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 wk2otyz3xq/edrceh
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/wk2otyz3xq/edrceh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:46 UTC] [NEW]   🆕 📦 teetoortiz/teetoortiz
+     ⭐ 0  🗣 N/A  📅 2026-09-23
+     🔗 https://github.com/teetoortiz/teetoortiz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:46 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-24 03:38:46 UTC] [UPD]   📢 📦 mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-
+     ⭐ 2  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-
+     📝 Neutralizing CISA active Linux kernel CVEs (CVE-2025-39964, CVE-2026-53266, CVE-…
+     🏷  cve, devsecops, ebpf, falco, kernel, linux, security, sre, zero-day
+     🔄 Motivo: repo recente (1gg)
+[2026-09-24 03:38:46 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-24 03:38:46 UTC] [UPD]   📢 📦 CyberKareem/KameKi
+     ⭐ 0  🗣 Shell  📅 2026-09-22
+     🔗 https://github.com/CyberKareem/KameKi
+     📝 Authenticated VA solution using free tools
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-24 03:38:46 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-24 03:38:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-24 03:38:48 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-24 03:38:48 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-09-24 03:38:48 UTC] [NEW]   🆕 📦 liayan/aider-enhance
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/liayan/aider-enhance
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:48 UTC] [NEW]   🆕 📦 mohabesam2020-crypto/960n
+     ⭐ 0  🗣 JavaScript  📅 2026-09-24
+     🔗 https://github.com/mohabesam2020-crypto/960n
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:48 UTC] [NEW]   🆕 📦 X-F1REBALL-X/ps5-elfs
+     ⭐ 0  🗣 C  📅 2026-09-23
+     🔗 https://github.com/X-F1REBALL-X/ps5-elfs
+     📝 PS5 ELF payload collection for Payload Manager / elfldr.
+     🏷  —
+[2026-09-24 03:38:48 UTC] [NEW]   🆕 📦 joker-zone/ps4-7.00-13.00
+     ⭐ 0  🗣 JavaScript  📅 2026-09-23
+     🔗 https://github.com/joker-zone/ps4-7.00-13.00
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:48 UTC] [NEW]   🆕 📦 mwendapius54-lab/LLL-Code-Evaluator
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/mwendapius54-lab/LLL-Code-Evaluator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:48 UTC] [NEW]   🆕 📦 ALIBCJH/LLL-Code-Evaluator
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/ALIBCJH/LLL-Code-Evaluator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-24 03:38:48 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-24 03:38:48 UTC] [UPD]   📢 📦 milouk/mls-maic
+     ⭐ 0  🗣 Shell  📅 2026-09-17
+     🔗 https://github.com/milouk/mls-maic
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-24 03:38:48 UTC] [INFO] ============================================================
+[2026-09-24 03:38:48 UTC] [INFO] Completato — 34 nuovi, 5 aggiornati, 0 errori
+[2026-09-24 03:38:48 UTC] [INFO] ============================================================
