@@ -94729,3 +94729,209 @@
 [2026-09-24 21:15:16 UTC] [INFO] ============================================================
 [2026-09-24 21:15:16 UTC] [INFO] Completato — 28 nuovi, 5 aggiornati, 0 errori
 [2026-09-24 21:15:16 UTC] [INFO] ============================================================
+[2026-09-25 03:55:24 UTC] [INFO] ============================================================
+[2026-09-25 03:55:24 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-25 03:55:24 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-25 03:55:24 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-25 03:55:24 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-25 03:55:24 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-25 03:55:24 UTC] [INFO] ============================================================
+[2026-09-25 03:55:24 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-25 03:55:24 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-25 03:55:25 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 03:55:25 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-25 03:55:25 UTC] [NEW]   🆕 📦 dodiorne/PrivEsc-Triage
+     ⭐ 0  🗣 PowerShell  📅 2026-09-25
+     🔗 https://github.com/dodiorne/PrivEsc-Triage
+     📝 Powershell to look for local privesc opportunities
+     🏷  —
+[2026-09-25 03:55:25 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-25 03:55:25 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 1  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, firmware-analysis, reverse-engineering
+     🔄 Motivo: repo recente (1gg)
+[2026-09-25 03:55:25 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-25 03:55:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-25 03:55:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-25 03:55:28 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 bobofflevruss/edrpq
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/bobofflevruss/edrpq
+     📝 content
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 budzinskilab/Brain_dynamics
+     ⭐ 0  🗣 MATLAB  📅 2026-09-25
+     🔗 https://github.com/budzinskilab/Brain_dynamics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 bialer89/edrtw
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/bialer89/edrtw
+     📝 content
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 tn5h0eserm/edrq
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/tn5h0eserm/edrq
+     📝 content
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 CYBERMED1C/Bad-Hashes
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/CYBERMED1C/Bad-Hashes
+     📝 Confirmed Bad Hashes For Your Block Lists
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 howardzijiesong/server-check
+     ⭐ 0  🗣 PowerShell  📅 2026-09-25
+     🔗 https://github.com/howardzijiesong/server-check
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 vwwaz4am29/edrz
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/vwwaz4am29/edrz
+     📝 content
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 cryptdefender323/crypthunt
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/cryptdefender323/crypthunt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 LeonardoVegaBionic/Biopotentials-Analysis-App
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/LeonardoVegaBionic/Biopotentials-Analysis-App
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 Bibasgautam77/incident-response-platform
+     ⭐ 0  🗣 Batchfile  📅 2026-09-25
+     🔗 https://github.com/Bibasgautam77/incident-response-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 eylommaayan/THM-MITRE
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/eylommaayan/THM-MITRE
+     📝 ארגון **MITRE** הוא מלכ"ר (ארגון ללא כוונת רווח) המבצע מחקר ופיתוח בתחומים שונים…
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 darryl-sangare/ebios-rm-orvanne
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/darryl-sangare/ebios-rm-orvanne
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 ByteBarHQ/security-plus-sy0-701-resources
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/ByteBarHQ/security-plus-sy0-701-resources
+     📝 Free CompTIA Security+ SY0-701 study resources: ports & protocols reference, acr…
+     🏷  comptia, cybersecurity, security-plus, study-guide, sy0-701
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 huahaoudis/trnfvn-edracg
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/huahaoudis/trnfvn-edracg
+     📝 Batch created
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 FabianCH20/RedLine-Lab-CyberDefenders-Blue-Team-Lab-Solution
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/FabianCH20/RedLine-Lab-CyberDefenders-Blue-Team-Lab-Solution
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 anidinmunyanziza-coder/ultron-kali-tool
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/anidinmunyanziza-coder/ultron-kali-tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 ketan27j/local-whispr
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/ketan27j/local-whispr
+     📝 local whispr for STT
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 Andrewsko/NIST-CSF-2.0-ISO-IEC-27001-2022
+     ⭐ 0  🗣 TypeScript  📅 2026-09-24
+     🔗 https://github.com/Andrewsko/NIST-CSF-2.0-ISO-IEC-27001-2022
+     📝 Plataforma Abierta de Convergencia Multi-Marco (NIST CSF 2.0 ✕ ISO/IEC 27001:202…
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 parklisa4457/edrywt
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/parklisa4457/edrywt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 kfctendzer/srcs-Project-0
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/kfctendzer/srcs-Project-0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 juancidlillo-creator/juancidlillo-creator
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/juancidlillo-creator/juancidlillo-creator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 gz6g0uvgot/edrcz
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/gz6g0uvgot/edrcz
+     📝 content
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 Nengel545/Nengel545
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/Nengel545/Nengel545
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 arshhn/Nexora-trust-defined
+     ⭐ 0  🗣 TypeScript  📅 2026-09-24
+     🔗 https://github.com/arshhn/Nexora-trust-defined
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:28 UTC] [NEW]   🆕 📦 V2olencia/linux-log-analyzer
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/V2olencia/linux-log-analyzer
+     📝 Analisador educacional de logs Linux com Python, testes e alertas por limiar.
+     🏷  cybersecurity, linux, log-analysis, python
+[2026-09-25 03:55:28 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-25 03:55:28 UTC] [UPD]   📢 📦 mk12002/agentic_soc
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/mk12002/agentic_soc
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-25 03:55:28 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-25 03:55:28 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-25 03:55:28 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-25 03:55:29 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 03:55:29 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-25 03:55:29 UTC] [NEW]   🆕 📦 isfinne/imd-worker-docker
+     ⭐ 0  🗣 Shell  📅 2026-09-25
+     🔗 https://github.com/isfinne/imd-worker-docker
+     📝 Run multiple IdentityMD (IMD) worker seats on one VPS with Docker: per-seat cont…
+     🏷  —
+[2026-09-25 03:55:29 UTC] [NEW]   🆕 📦 emarc/claude-fenced
+     ⭐ 0  🗣 Shell  📅 2026-09-24
+     🔗 https://github.com/emarc/claude-fenced
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 03:55:29 UTC] [NEW]   🆕 📦 nonsens3/pwnkernel
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/nonsens3/pwnkernel
+     📝 linux kernel exploitations
+     🏷  —
+[2026-09-25 03:55:29 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-25 03:55:29 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-25 03:55:29 UTC] [UPD]   📢 📦 X-F1REBALL-X/elf-launcher
+     ⭐ 0  🗣 HTML  📅 2026-09-23
+     🔗 https://github.com/X-F1REBALL-X/elf-launcher
+     📝 ELF LAUNCHER. A PS5 launcher that sends payloads to elfldr, with multi load and …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-25 03:55:29 UTC] [INFO] ============================================================
+[2026-09-25 03:55:29 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
+[2026-09-25 03:55:29 UTC] [INFO] ============================================================
