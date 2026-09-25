@@ -95472,3 +95472,245 @@
 [2026-09-25 16:46:18 UTC] [INFO] ============================================================
 [2026-09-25 16:46:18 UTC] [INFO] Completato — 35 nuovi, 5 aggiornati, 0 errori
 [2026-09-25 16:46:18 UTC] [INFO] ============================================================
+[2026-09-25 21:12:50 UTC] [INFO] ============================================================
+[2026-09-25 21:12:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-25 21:12:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-25 21:12:50 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-25 21:12:50 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-25 21:12:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-25 21:12:50 UTC] [INFO] ============================================================
+[2026-09-25 21:12:50 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-25 21:12:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-25 21:12:52 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 21:12:52 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-25 21:12:52 UTC] [NEW]   🆕 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-25 21:12:52 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 1  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, firmware-analysis, reverse-engineering
+     🔄 Motivo: repo recente (1gg)
+[2026-09-25 21:12:52 UTC] [UPD]   📢 📦 Staatsrat/sign_strike
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/Staatsrat/sign_strike
+     📝 SignStrike detects kernel modifications by malicious programs on Windows and rep…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-09-25 21:12:52 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-25 21:12:52 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-25 21:12:54 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 Knin90/cyberdefenders-oski-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/Knin90/cyberdefenders-oski-lab
+     📝 análisis de StealC con VirusTotal, Any.Run, extracción de configuración y mapeo …
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 mehdibrk455-cloud/Hunter-Purple
+     ⭐ 0  🗣 Rust  📅 2026-09-25
+     🔗 https://github.com/mehdibrk455-cloud/Hunter-Purple
+     📝 An automated, lightweight, and blazingly fast Purple Team Framework written in R…
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 mamekudz/BlueShift
+     ⭐ 0  🗣 C++  📅 2026-09-25
+     🔗 https://github.com/mamekudz/BlueShift
+     📝 Bluetooth Classic to BLE HID bridge — giving legacy controllers, keyboards and m…
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 HackingRepo/debugger_visualizer_file_read
+     ⭐ 0  🗣 Rust  📅 2026-09-25
+     🔗 https://github.com/HackingRepo/debugger_visualizer_file_read
+     📝 rust debugger_visualizer is dangerous, leaker
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 abidguliyev01/cybersecurity-engineering-notes
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/abidguliyev01/cybersecurity-engineering-notes
+     📝 security-engineering-notes
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 RedPower03-zz/soc-tutor
+     ⭐ 0  🗣 JavaScript  📅 2026-09-25
+     🔗 https://github.com/RedPower03-zz/soc-tutor
+     📝 Adaptive tutor for SOC analyst skills (host & network basics first)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 glalit52/cybersecurity-agent
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/glalit52/cybersecurity-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 hsynaze/Check-SuspiciousActivity
+     ⭐ 2  🗣 PowerShell  📅 2026-09-25
+     🔗 https://github.com/hsynaze/Check-SuspiciousActivity
+     📝 Read-only Windows security diagnostic scanner for detecting suspicious activity …
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 AETHERXGLOBAL/execsurface
+     ⭐ 0  🗣 Rust  📅 2026-09-25
+     🔗 https://github.com/AETHERXGLOBAL/execsurface
+     📝 Runtime execution-surface drift detection for software, CI pipelines, dependenci…
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 kashyapharshit/CYBERSI
+     ⭐ 0  🗣 JavaScript  📅 2026-09-25
+     🔗 https://github.com/kashyapharshit/CYBERSI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 sanjeevkumaraular01-png/device-compliance-platform
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/sanjeevkumaraular01-png/device-compliance-platform
+     📝 webynedc
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 Hartwell-Labs/labtrace
+     ⭐ 0  🗣 Rust  📅 2026-09-25
+     🔗 https://github.com/Hartwell-Labs/labtrace
+     📝 Forensic timeline reconstruction and cross-process threat correlation for Linux …
+     🏷  auditd, dfir, forensics, incident-response, linux, rust, security, siem, taint-analysis, threat-detection
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 Shivansharmaaaa/graphrag
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/Shivansharmaaaa/graphrag
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 navarroemily682/edrzao
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/navarroemily682/edrzao
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 KJHDFH/geek-billing-summary-for-edrhughes-yahoo.com
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/KJHDFH/geek-billing-summary-for-edrhughes-yahoo.com
+     📝 X-Git Pro
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 honeyvig/bumblebee
+     ⭐ 0  🗣 Go  📅 2026-09-25
+     🔗 https://github.com/honeyvig/bumblebee
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 SwitchmanPlay/SwitchmanPlay
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/SwitchmanPlay/SwitchmanPlay
+     📝 My GitHub profile
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 jakefrenzel/atlas-edr
+     ⭐ 0  🗣 Rust  📅 2026-09-25
+     🔗 https://github.com/jakefrenzel/atlas-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 SiriPaidipalli/ChainBreak
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/SiriPaidipalli/ChainBreak
+     📝 Attack-path-aware containment for security incidents.
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 pradyumna0222/gridbreak-game
+     ⭐ 0  🗣 HTML  📅 2026-09-25
+     🔗 https://github.com/pradyumna0222/gridbreak-game
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 millskenneth12/edrdhi
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/millskenneth12/edrdhi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 YOUR-RECENT-ONLINE-PAYMENT-INVOICE-2303/repo-h1edrm7d
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/YOUR-RECENT-ONLINE-PAYMENT-INVOICE-2303/repo-h1edrm7d
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 Sadhanamurugesan/smart-motor-detector
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/Sadhanamurugesan/smart-motor-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 jeremymungai/jev-security-playground
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/jeremymungai/jev-security-playground
+     📝 Fast, calibrated "System 1" AI decision experiments for SOC triage, phishing det…
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 Jhanavi-gowda/security-alertCorrelation-agent
+     ⭐ 1  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/Jhanavi-gowda/security-alertCorrelation-agent
+     📝 LLM tool-calling agent that correlates alerts across identity, endpoint and clou…
+     🏷  —
+[2026-09-25 21:12:54 UTC] [NEW]   🆕 📦 zswizzle00/NexusTrace
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/zswizzle00/NexusTrace
+     📝 NexusTrace is a self-hosted OSINT and threat intelligence analysis platform that…
+     🏷  —
+[2026-09-25 21:12:54 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-25 21:12:54 UTC] [UPD]   📢 📦 santhoshkumariicse-gif/SKYNET
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/santhoshkumariicse-gif/SKYNET
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-25 21:12:54 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-25 21:12:54 UTC] [UPD]   📢 📦 Rachkpt/ESIG-TECH-ARENA
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/Rachkpt/ESIG-TECH-ARENA
+     📝 ESIG-TECH-ARENA
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-25 21:12:54 UTC] [UPD]   📢 📦 zevo-enterprise/zevo-enterprise
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/zevo-enterprise/zevo-enterprise
+     📝 Zevo Enteprise Company
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-09-25 21:12:54 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-25 21:12:54 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-25 21:12:56 UTC] [INFO]   → 26 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 21:12:56 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-09-25 21:12:56 UTC] [NEW]   🆕 📦 ibadovulfat/CPENT-Practice-Range-Labs
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/ibadovulfat/CPENT-Practice-Range-Labs
+     📝 Comprehensive walkthroughs, methodology guides, and solutions for all 130 challe…
+     🏷  —
+[2026-09-25 21:12:56 UTC] [NEW]   🆕 📦 JKCsaba/lara-branch-statusbar
+     ⭐ 0  🗣 Swift  📅 2026-09-25
+     🔗 https://github.com/JKCsaba/lara-branch-statusbar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:56 UTC] [NEW]   🆕 📦 SvenGDK/Prospero-Multi-Tools
+     ⭐ 3  🗣 C#  📅 2026-09-25
+     🔗 https://github.com/SvenGDK/Prospero-Multi-Tools
+     📝 PS5 Homebrew Backup Manager & Toolkit for PS1, PS2, PS3, PS4, PS5, PSP and PS Vi…
+     🏷  backupmanager, csharp, homebrew, ps5, sharpprospero
+[2026-09-25 21:12:56 UTC] [NEW]   🆕 📦 Keerthi316/codebox
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/Keerthi316/codebox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 21:12:56 UTC] [NEW]   🆕 📦 fahimirfanc123/fahimirfanc123
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/fahimirfanc123/fahimirfanc123
+     📝 Cybersecurity enthusiast | B.Tech CSE | Building security, systems & open-source…
+     🏷  —
+[2026-09-25 21:12:56 UTC] [NEW]   🆕 📦 boypabloo/hen
+     ⭐ 0  🗣 JavaScript  📅 2026-09-25
+     🔗 https://github.com/boypabloo/hen
+     📝 https://boypabloo.github.io/hen/
+     🏷  —
+[2026-09-25 21:12:56 UTC] [NEW]   🆕 📦 boypabloo/pshen
+     ⭐ 0  🗣 JavaScript  📅 2026-09-25
+     🔗 https://github.com/boypabloo/pshen
+     📝 https://boypabloo.github.io/pshen/
+     🏷  —
+[2026-09-25 21:12:56 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-25 21:12:56 UTC] [UPD]   📢 📦 iblackdiamondclips-cmyk/ps4-1400-host
+     ⭐ 0  🗣 CSS  📅 2026-09-24
+     🔗 https://github.com/iblackdiamondclips-cmyk/ps4-1400-host
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-25 21:12:56 UTC] [INFO] ============================================================
+[2026-09-25 21:12:56 UTC] [INFO] Completato — 35 nuovi, 7 aggiornati, 0 errori
+[2026-09-25 21:12:56 UTC] [INFO] ============================================================
