@@ -94935,3 +94935,310 @@
 [2026-09-25 03:55:29 UTC] [INFO] ============================================================
 [2026-09-25 03:55:29 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
 [2026-09-25 03:55:29 UTC] [INFO] ============================================================
+[2026-09-25 11:22:07 UTC] [INFO] ============================================================
+[2026-09-25 11:22:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-25 11:22:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-25 11:22:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-25 11:22:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-25 11:22:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-25 11:22:07 UTC] [INFO] ============================================================
+[2026-09-25 11:22:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-25 11:22:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-25 11:22:09 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 11:22:09 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-25 11:22:09 UTC] [NEW]   🆕 📦 srnsksyp/JOCKY
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/srnsksyp/JOCKY
+     📝 Secure forensic operations platform with a custom DSL for authorized evidence co…
+     🏷  —
+[2026-09-25 11:22:09 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-25 11:22:09 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 1  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, firmware-analysis, reverse-engineering
+     🔄 Motivo: repo recente (1gg)
+[2026-09-25 11:22:09 UTC] [UPD]   📢 📦 maicolcabreragit/lol
+     ⭐ 0  🗣 C#  📅 2026-09-20
+     🔗 https://github.com/maicolcabreragit/lol
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-25 11:22:09 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-25 11:22:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-25 11:22:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-25 11:22:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 43 NUOVI repository:
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 radiolab81/ESP32_BT2AM
+     ⭐ 0  🗣 C  📅 2026-09-25
+     🔗 https://github.com/radiolab81/ESP32_BT2AM
+     📝 ESP32 — Bluetooth-to-AM Radio Transmitter
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 santhoshkumariicse-gif/SKYNET
+     ⭐ 0  🗣 JavaScript  📅 2026-09-25
+     🔗 https://github.com/santhoshkumariicse-gif/SKYNET
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 phantom169/apsoc
+     ⭐ 0  🗣 HTML  📅 2026-09-25
+     🔗 https://github.com/phantom169/apsoc
+     📝 APSOC —— 开源、插件化的 AI 安全运营基座（Security Base）官方网站
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 maramsasi8-cmd/edreach-platfrom-
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/maramsasi8-cmd/edreach-platfrom-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 jasferdelacruz/it-sec-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/jasferdelacruz/it-sec-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 benojiri/hEDR-462
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/benojiri/hEDR-462
+     📝 bulk publishing repository
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 Priyanshuraj-gopi/SentinelAI-XDR
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/Priyanshuraj-gopi/SentinelAI-XDR
+     📝 A AI platform for SECURITY OPERATIONS CENTRES to perform Risk ranking with expla…
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 quack101/OEDR
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/quack101/OEDR
+     📝 This project implements a Distributed, Cloud-Native EDR (Endpoint Detection and …
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 Amadeus7171/cybersecurity-pentesting-phase1
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/Amadeus7171/cybersecurity-pentesting-phase1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 FadyAzzi/InShredder
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/FadyAzzi/InShredder
+     📝 Secure file destruction for Windows, honestly graded
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 chandru766/EC-Council_CSA-question-bank-with-answers-and-explanations
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/chandru766/EC-Council_CSA-question-bank-with-answers-and-explanations
+     📝 Certified SOC Analyst (CSA) exam preparation repository containing 99 practice q…
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 shodiyorcyber/shodiyorcyber
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/shodiyorcyber/shodiyorcyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 MicrosoftLearnHub/SC-500---Implementing-End-to-End-Security-Controls-for-Cloud-and-AI-Workloads
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/MicrosoftLearnHub/SC-500---Implementing-End-to-End-Security-Controls-for-Cloud-and-AI-Workloads
+     📝 Official Study Guide, Blueprint, Practice Materials & 20 Demo Questions for Exam…
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 herpad04/0orr9at
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/herpad04/0orr9at
+     📝 1a4d98fl松岛辉空被打服wocd51wtyocx
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 herpad04/kk1w37h5h
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/herpad04/kk1w37h5h
+     📝 8bnrcdgjWafari - Watch Browserks3cgrk0nvey
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 herpad04/4w4xdrks0
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/herpad04/4w4xdrks0
+     📝 ku68gre2KnowForge 2026.0.5 发布：签到、排行榜、版本聚合与全链路国际化20qfnw4fhv
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 herpad04/zt1lon6
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/herpad04/zt1lon6
+     📝 f0gqdkli鱼宝三岁半，哥哥们都是窝捡来哒i2a2rd9hvmyx
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 bisabaldev/t5ku0z8wqd
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/bisabaldev/t5ku0z8wqd
+     📝 gpzpweew1881年-伟大的文学家鲁迅诞辰ccv82oklv8mp
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 bisabaldev/s43v1zhjb
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/bisabaldev/s43v1zhjb
+     📝 n4c7mks1体验大兴卡丁车场 赛车实力还在 试驾海豹DM-i适合家庭用车jxt6w06baht4
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 gemini0ani/aasqpu2
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/gemini0ani/aasqpu2
+     📝 gbvwfw0f武汉新的燃气表一次最多能充多少钱啊，天然气又要涨价20%了。733c227yvhhc
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 gemini0ani/j19qzq6itp
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/gemini0ani/j19qzq6itp
+     📝 o8mjucpt倍思苹果16/15系列钢化膜全屏防指纹防爆摔 原价¥29.9 券后¥29.9s238lu76g5er
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 gemini0ani/hp6kmtagw
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/gemini0ani/hp6kmtagw
+     📝 hs2w31xf【AI安全】Agentic RAG 带内信道走私：检索污染与工具执行链分析7c2t8u4e4yko
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 gemini0ani/4uc7iweko
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/gemini0ani/4uc7iweko
+     📝 7xeymo7gQQ音乐 - 听我想听rww5c4lyxcd5
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 dcochrans/dap2aa
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/dcochrans/dap2aa
+     📝 517eo43wTourKithqxy5gfnqn8o
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 dcochrans/f1b891
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/dcochrans/f1b891
+     📝 bszd957c【开源分享】Python 电脑配置助手 - 硬件信息 + 性能监控 + Temp 管理j8ze55v
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 dcochrans/s3m37w6erf
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/dcochrans/s3m37w6erf
+     📝 x62jqo9t亚运会游泳8g7kyt15mkzn
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 alex-muham/358nyh1gm
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/alex-muham/358nyh1gm
+     📝 t00faohg快来试试我自己开发的无压力背单词应用k40cxcp0wfd8
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 sourabhdasp/ZeroPhaseEDR
+     ⭐ 0  🗣 C++  📅 2026-09-25
+     🔗 https://github.com/sourabhdasp/ZeroPhaseEDR
+     📝 Windows user-mode EDR with 11 detection modules, 50+ MITRE ATT&CK rules, real-ti…
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 monurajsingh5565-collab/SOC-L1_Automation
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/monurajsingh5565-collab/SOC-L1_Automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 z3k04qd7ph/edrfq
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/z3k04qd7ph/edrfq
+     📝 content
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 jsk7la5507/edrfp
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/jsk7la5507/edrfp
+     📝 content
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 uday68/actip
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/uday68/actip
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 finchygoldtail/Kill-Line
+     ⭐ 0  🗣 Rust  📅 2026-09-24
+     🔗 https://github.com/finchygoldtail/Kill-Line
+     📝 AI defender
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 prox0959/OmniTriage
+     ⭐ 1  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/prox0959/OmniTriage
+     📝 Zero-dependency, sub-second Windows live digital forensics & incident response (…
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 h6we10p9ln/edrxv
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/h6we10p9ln/edrxv
+     📝 content
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 adalanc300/edrh
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/adalanc300/edrh
+     📝 content
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 zd-404/MiniSOC
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/zd-404/MiniSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 david93518/flydefence
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/david93518/flydefence
+     📝 A blue-team research platform for security investigation, fruit-fly connectome v…
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 freethiasra/edrg
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/freethiasra/edrg
+     📝 content
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 Th3g4ntl3m4n/security_audit
+     ⭐ 0  🗣 Shell  📅 2026-09-25
+     🔗 https://github.com/Th3g4ntl3m4n/security_audit
+     📝 el script security_audit.sh realiza una auditoría básica de seguridad local de t…
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 bartleecaz/edrlk
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/bartleecaz/edrlk
+     📝 content
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 Jabcode101/Threat-Hunting-Scenario-Tor
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/Jabcode101/Threat-Hunting-Scenario-Tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:12 UTC] [NEW]   🆕 📦 nakeohe/edrqy
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/nakeohe/edrqy
+     📝 content
+     🏷  —
+[2026-09-25 11:22:12 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-25 11:22:12 UTC] [UPD]   📢 📦 mk12002/agentic_soc
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/mk12002/agentic_soc
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-25 11:22:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-25 11:22:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-25 11:22:14 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 11:22:14 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-25 11:22:14 UTC] [NEW]   🆕 📦 LunarFlow42/win-mitigation-tool
+     ⭐ 0  🗣 Rust  📅 2026-09-25
+     🔗 https://github.com/LunarFlow42/win-mitigation-tool
+     📝 A high-performance native Windows Security & Exploit Protection mitigation debug…
+     🏷  —
+[2026-09-25 11:22:14 UTC] [NEW]   🆕 📦 deferdam/SIEM-SOAR
+     ⭐ 1  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/deferdam/SIEM-SOAR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:14 UTC] [NEW]   🆕 📦 a23bc/op13-cve-2026-64560
+     ⭐ 2  🗣 C  📅 2026-09-24
+     🔗 https://github.com/a23bc/op13-cve-2026-64560
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:14 UTC] [NEW]   🆕 📦 jesinmilesh/Awareness-and-Tips
+     ⭐ 0  🗣 JavaScript  📅 2026-09-25
+     🔗 https://github.com/jesinmilesh/Awareness-and-Tips
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 11:22:14 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-25 11:22:14 UTC] [UPD]   📢 📦 emarc/claude-fenced
+     ⭐ 0  🗣 Shell  📅 2026-09-24
+     🔗 https://github.com/emarc/claude-fenced
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-25 11:22:14 UTC] [UPD]   📢 📦 Tanhh05/3105-NTA-MOD
+     ⭐ 0  🗣 Swift  📅 2026-09-24
+     🔗 https://github.com/Tanhh05/3105-NTA-MOD
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-25 11:22:14 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-25 11:22:14 UTC] [INFO] ============================================================
+[2026-09-25 11:22:14 UTC] [INFO] Completato — 48 nuovi, 7 aggiornati, 0 errori
+[2026-09-25 11:22:14 UTC] [INFO] ============================================================
