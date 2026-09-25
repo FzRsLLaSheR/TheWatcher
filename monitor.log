@@ -95242,3 +95242,233 @@
 [2026-09-25 11:22:14 UTC] [INFO] ============================================================
 [2026-09-25 11:22:14 UTC] [INFO] Completato — 48 nuovi, 7 aggiornati, 0 errori
 [2026-09-25 11:22:14 UTC] [INFO] ============================================================
+[2026-09-25 16:46:12 UTC] [INFO] ============================================================
+[2026-09-25 16:46:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-25 16:46:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-25 16:46:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-25 16:46:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-25 16:46:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-25 16:46:12 UTC] [INFO] ============================================================
+[2026-09-25 16:46:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-25 16:46:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-25 16:46:14 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 16:46:14 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-25 16:46:14 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-25 16:46:14 UTC] [UPD]   📢 📦 maicolcabreragit/lol
+     ⭐ 0  🗣 C#  📅 2026-09-20
+     🔗 https://github.com/maicolcabreragit/lol
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-25 16:46:14 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 1  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, firmware-analysis, reverse-engineering
+     🔄 Motivo: repo recente (1gg)
+[2026-09-25 16:46:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-25 16:46:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-25 16:46:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 31 NUOVI repository:
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 Bilel-code/sentinel-soc-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/Bilel-code/sentinel-soc-home-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 Dip0375/wazuh-n8n-ai-soc-agent
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/Dip0375/wazuh-n8n-ai-soc-agent
+     📝 AI-powered SOC L1/L2 triage for Wazuh — n8n workflow that enriches alerts (IP re…
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 cccc1111222332sassa/LiClock
+     ⭐ 0  🗣 C  📅 2026-09-25
+     🔗 https://github.com/cccc1111222332sassa/LiClock
+     📝 ESP32 电子墨水屏桌面时钟固件：时钟/天气/日历、电子书阅读器、音乐播放器（蓝牙 A2DP）、网络收音机、网易云、在线小说门户、下载器等 14 个 App
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 apasternak-sudo/edr-data
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/apasternak-sudo/edr-data
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 princewillsmith/princewillsmith
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/princewillsmith/princewillsmith
+     📝 Profile README
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 Tapasvi48/EDR-automate
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/Tapasvi48/EDR-automate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 princewillsmith/kubernetes-security-labs
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/princewillsmith/kubernetes-security-labs
+     📝 Kubernetes security labs on kind: API audit logging & threat hunting, NetworkPol…
+     🏷  audit-logging, devsecops, kind, kubernetes, kubernetes-security, network-policy, rbac
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 princewillsmith/kubernetes-siem-edr-lab
+     ⭐ 0  🗣 Shell  📅 2026-09-25
+     🔗 https://github.com/princewillsmith/kubernetes-siem-edr-lab
+     📝 Local SOC lab on Docker: kind Kubernetes with API audit logging + Falco eBPF EDR…
+     🏷  detection-engineering, docker, edr, falco, grafana, kubernetes, loki, mitre-attack, siem, soc
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 mamounmahmad7-rgb/memo
+     ⭐ 0  🗣 Rust  📅 2026-09-25
+     🔗 https://github.com/mamounmahmad7-rgb/memo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 akeelahmedqureshi/Windows-diagnostic-application
+     ⭐ 0  🗣 C#  📅 2026-09-25
+     🔗 https://github.com/akeelahmedqureshi/Windows-diagnostic-application
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 princewillsmith/siem-edr-detection-labs
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/princewillsmith/siem-edr-detection-labs
+     📝 Detection engineering: Sigma rules, Splunk SPL & Sentinel KQL queries, EDR triag…
+     🏷  detection-engineering, edr, incident-response, kql, mitre-attack, siem, sigma, soc, splunk
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 scale600/zero-trust-onboarding
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/scale600/zero-trust-onboarding
+     📝 Zero-Trust Onboarding Automation (ZTOA) — reference architecture for automating …
+     🏷  automation, conditional-access, device-enrollment, iam, identity-management, intune, mfa, microsoft-entra, n8n, okta, onboarding, reference-architecture, saas, scim, security, windows-autopilot, zero-trust, zero-trust-architecture
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 qm73450jgn/edrat
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/qm73450jgn/edrat
+     📝 content
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 hb2014p05g/edro
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/hb2014p05g/edro
+     📝 content
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 JackCassidy51102/ad-auth-log-detection
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/JackCassidy51102/ad-auth-log-detection
+     📝 Tested Python detector for AD authentication attacks (Event IDs 4624/4625/4672) …
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 Rachkpt/ESIG-TECH-ARENA
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/Rachkpt/ESIG-TECH-ARENA
+     📝 ESIG-TECH-ARENA
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 JianrongStudio/JianrongEnterpassDefender
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/JianrongStudio/JianrongEnterpassDefender
+     📝 简融企业准入防御系统 - 企业级终端防护（轻量 YARA 引擎，免安装 Python，Web/CLI 控制，远程管理）
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 prem-shree/AI-L1-SOC-Analyst-Lab
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/prem-shree/AI-L1-SOC-Analyst-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 nebula9323/edrui
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/nebula9323/edrui
+     📝 content
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 Adichowdary/Sharingan
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/Adichowdary/Sharingan
+     📝 Terminal-Based Cybersecurity Awareness & Simulation Platform
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 laxmisripriya2805-hash/SOC-Threat-Detection-Response
+     ⭐ 0  🗣 N/A  📅 2026-09-24
+     🔗 https://github.com/laxmisripriya2805-hash/SOC-Threat-Detection-Response
+     📝 A hands-on SOC project focused on threat detection, security monitoring, alertin…
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 divB-15/Edraft
+     ⭐ 0  🗣 C++  📅 2026-09-25
+     🔗 https://github.com/divB-15/Edraft
+     📝 一个极简的 Windows 电子草稿纸
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 d0me-d0me/d0me-d0me
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/d0me-d0me/d0me-d0me
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 glimpsovstar/terraform-aws-rhel-instance
+     ⭐ 0  🗣 HCL  📅 2026-09-25
+     🔗 https://github.com/glimpsovstar/terraform-aws-rhel-instance
+     📝 RHEL 9 EC2 with secure defaults and optional Vault SSH CA trust. Compute half of…
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 albinhenriksson/kwin-effect-tritafilter
+     ⭐ 0  🗣 GLSL  📅 2026-09-25
+     🔗 https://github.com/albinhenriksson/kwin-effect-tritafilter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 metastrict/edro
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/metastrict/edro
+     📝 content
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 kanianv380/EDR6739
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/kanianv380/EDR6739
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 antonismor/Linux-Cybersecurity-Operations-Center-v1.0.0
+     ⭐ 0  🗣 Shell  📅 2026-09-25
+     🔗 https://github.com/antonismor/Linux-Cybersecurity-Operations-Center-v1.0.0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 aditya-gupta-dev/bluetype
+     ⭐ 0  🗣 Kotlin  📅 2026-09-24
+     🔗 https://github.com/aditya-gupta-dev/bluetype
+     📝 something useful I guess 
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 po1qq1q4se/edrh
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/po1qq1q4se/edrh
+     📝 content
+     🏷  —
+[2026-09-25 16:46:16 UTC] [NEW]   🆕 📦 dikerik/edrr
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/dikerik/edrr
+     📝 content
+     🏷  —
+[2026-09-25 16:46:16 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-25 16:46:16 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-25 16:46:16 UTC] [UPD]   📢 📦 santhoshkumariicse-gif/SKYNET
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/santhoshkumariicse-gif/SKYNET
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-25 16:46:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-25 16:46:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-25 16:46:18 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-25 16:46:18 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-25 16:46:18 UTC] [NEW]   🆕 📦 Prognosticate-X/ios27-carrier-lockscreen-research
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/Prognosticate-X/ios27-carrier-lockscreen-research
+     📝 Reverse engineering research for customizing Carrier Name and Lock Screen Footno…
+     🏷  —
+[2026-09-25 16:46:18 UTC] [NEW]   🆕 📦 WitAqua-tools/fenrir
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/WitAqua-tools/fenrir
+     📝 Let's control MediaTek's bootchain
+     🏷  —
+[2026-09-25 16:46:18 UTC] [NEW]   🆕 📦 iblackdiamondclips-cmyk/ps4-1400-host
+     ⭐ 0  🗣 CSS  📅 2026-09-24
+     🔗 https://github.com/iblackdiamondclips-cmyk/ps4-1400-host
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:18 UTC] [NEW]   🆕 📦 mdsvr/AeroPatch
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/mdsvr/AeroPatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-25 16:46:18 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-25 16:46:18 UTC] [UPD]   📢 📦 liayan/aider-enhance
+     ⭐ 0  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/liayan/aider-enhance
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-25 16:46:18 UTC] [INFO] ============================================================
+[2026-09-25 16:46:18 UTC] [INFO] Completato — 35 nuovi, 5 aggiornati, 0 errori
+[2026-09-25 16:46:18 UTC] [INFO] ============================================================
