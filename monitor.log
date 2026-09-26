@@ -95956,3 +95956,299 @@
 [2026-09-26 04:00:06 UTC] [INFO] ============================================================
 [2026-09-26 04:00:06 UTC] [INFO] Completato — 35 nuovi, 7 aggiornati, 0 errori
 [2026-09-26 04:00:06 UTC] [INFO] ============================================================
+[2026-09-26 10:58:32 UTC] [INFO] ============================================================
+[2026-09-26 10:58:32 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-26 10:58:32 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-26 10:58:32 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-26 10:58:32 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-26 10:58:32 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-26 10:58:32 UTC] [INFO] ============================================================
+[2026-09-26 10:58:32 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-26 10:58:32 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-26 10:58:34 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-26 10:58:34 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-26 10:58:34 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-26 10:58:34 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 3  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, claude-code, codex, firmware-analysis, reverse-engineering
+     🔄 Motivo: repo recente (2gg) | nuovi topic: claude-code, codex
+[2026-09-26 10:58:34 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-26 10:58:34 UTC] [UPD]   📢 📦 ngthaihoc/CMP30HXmodtoGEN2
+     ⭐ 27  🗣 C  📅 2026-09-20
+     🔗 https://github.com/ngthaihoc/CMP30HXmodtoGEN2
+     📝 This project is inspired by CMP40HX-Unlock. If you find it useful, please consid…
+     🏷  cmp, developer-tools, leagueoflegends, linux, mining, nvidia, nvidia-gpu, riot-games, valorant-undetected-2026, windows-11
+     🔄 Motivo: repo recente (5gg) | nuovi topic: valorant-undetected-2026, nvidia-gpu, nvidia, leagueoflegends, riot-games, windows-11, linux, cmp, mining, developer-tools
+[2026-09-26 10:58:34 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-26 10:58:34 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-26 10:58:36 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 AyushMBhalerao/Ransomware-Readiness-Simulator
+     ⭐ 0  🗣 JavaScript  📅 2026-09-26
+     🔗 https://github.com/AyushMBhalerao/Ransomware-Readiness-Simulator
+     📝 A local, safe cybersecurity platform for assessing ransomware readiness, calcula…
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 rakshit-737/revenant
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/rakshit-737/revenant
+     📝 Forensic timeline engine: fuses Sysmon/EVTX/plaso/Volatility artefacts into a pr…
+     🏷  chain-of-custody, cybersecurity, dfir, digital-forensics, evtx, fastapi, incident-response, mitre-attack, plaso, provenance-graph, python, sysmon, volatility, windows-event-logs
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 rakshit-737/rootline
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/rakshit-737/rootline
+     📝 Provenance-graph attack reconstruction: Sysmon/auditd/eBPF telemetry to root cau…
+     🏷  attack-investigation, auditd, cybersecurity, dfir, ebpf, endpoint-security, incident-response, mitre-attack, provenance-graph, python, stix, sysmon, threat-hunting
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 zyno-mayank7/SOC-Home-Lab
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/zyno-mayank7/SOC-Home-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 brownbarbara6/edrnzl
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/brownbarbara6/edrnzl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 SumedhMore123/soc-investigation-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/SumedhMore123/soc-investigation-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 grdesain0-byte/berita-pamanukan
+     ⭐ 0  🗣 HTML  📅 2026-09-26
+     🔗 https://github.com/grdesain0-byte/berita-pamanukan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 fidanibrahimova24/finite-state-machine-based-rig-state-detection
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/fidanibrahimova24/finite-state-machine-based-rig-state-detection
+     📝 Open-source finite-state machine for automated classification of drilling rig op…
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 rakshit-737/vantage
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/rakshit-737/vantage
+     📝 Control -> Sigma detection -> MITRE ATT&CK coverage graph on real data (ATT&CK S…
+     🏷  blue-team, cis-controls, cybersecurity, detection-engineering, fastapi, grc, mitre-attack, python, security-tools, sigma, threat-informed-defense, zero-trust
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 Sachibara/opsfusion
+     ⭐ 0  🗣 JavaScript  📅 2026-09-26
+     🔗 https://github.com/Sachibara/opsfusion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 alarodriguezo3/edrqci
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/alarodriguezo3/edrqci
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 falcon3562/edrig
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/falcon3562/edrig
+     📝 content
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 SoumyadeepNath1998/SOC-analyst-simulator-V2
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/SoumyadeepNath1998/SOC-analyst-simulator-V2
+     📝 Offline prototype of an autonomous Tier-1 SOC analyst: tool-augmented reasoning …
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 unicornofhunt/s1l3nc3r
+     ⭐ 0  🗣 C  📅 2026-09-25
+     🔗 https://github.com/unicornofhunt/s1l3nc3r
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 jacobecontreras/suiteDFIR-next
+     ⭐ 0  🗣 Rust  📅 2026-09-25
+     🔗 https://github.com/jacobecontreras/suiteDFIR-next
+     📝 Desktop app for running iLEAPP/aLEAPP and taking iOS backups. In development, no…
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 boodschapjesalert/KiteSurf
+     ⭐ 0  🗣 JavaScript  📅 2026-09-26
+     🔗 https://github.com/boodschapjesalert/KiteSurf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 jisosavi/rainfall
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/jisosavi/rainfall
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 bzdcnlcldwin11/ds-lsland
+     ⭐ 0  🗣 Batchfile  📅 2026-09-26
+     🔗 https://github.com/bzdcnlcldwin11/ds-lsland
+     📝 一个可以让windows上岛的免费软件，至于为什么前面有个ds......因为这是纯ai无人工！deepseek牛逼666！！！不知道有什么依赖，又不是我写的我…
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 lasengel/edrn
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/lasengel/edrn
+     📝 content
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 Alpha01-1677/SOC-NOC-Enterprise-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/Alpha01-1677/SOC-NOC-Enterprise-Lab
+     📝 A hybrid SOC/NOC enterprise lab built with pfSense, Wazuh, and Zabbix for threat…
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 nguyen-hua/edrw
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/nguyen-hua/edrw
+     📝 content
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 AAH20/autonomous-sovereignty-engine
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/AAH20/autonomous-sovereignty-engine
+     📝 Deterministic runtime engine and operational framework for high-agency builders:…
+     🏷  a2zsoc, agentic-ai, air-gapped, builder, deep-tech, economic-sovereignty, high-agency, local-ai, mcp, model-context-protocol, opsec, playbook, self-sovereign, sovereign-individual, zero-trust
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 sealiranal/edra
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/sealiranal/edra
+     📝 content
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 andpevani/edri
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/andpevani/edri
+     📝 content
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 s-huizhuy-u/dsh-desktop-deployment-package
+     ⭐ 0  🗣 PowerShell  📅 2026-09-26
+     🔗 https://github.com/s-huizhuy-u/dsh-desktop-deployment-package
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 mordergaming808-star/Automated-Firmware-security
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/mordergaming808-star/Automated-Firmware-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 ali1soverseas/EDRAK
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/ali1soverseas/EDRAK
+     📝 Multi-agent enterprise intelligence platform using LLMs, RAG, tools, and orchest…
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 kunal134-cyber/networkwalks-B083D-week2-footprinting
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/kunal134-cyber/networkwalks-B083D-week2-footprinting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 vomw/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-09-26
+     🔗 https://github.com/vomw/reverse-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 ffyang10/edrds
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/ffyang10/edrds
+     📝 content
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 pealvaio/edrp
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/pealvaio/edrp
+     📝 content
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 TalhaChougle1/Claude-BugHunter
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/TalhaChougle1/Claude-BugHunter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 tlt9vikplk/edrtq
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/tlt9vikplk/edrtq
+     📝 content
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 bernardamanda9044/edrqewq
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/bernardamanda9044/edrqewq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 DarkNightSoldier/UEBASeriesDeTiempo_JCUN26
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/DarkNightSoldier/UEBASeriesDeTiempo_JCUN26
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:36 UTC] [NEW]   🆕 📦 SAS-Group-org/Server-EDR
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/SAS-Group-org/Server-EDR
+     📝 Production-grade Remote Administration and Endpoint Detection & Defense platform…
+     🏷  —
+[2026-09-26 10:58:36 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-26 10:58:36 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-26 10:58:36 UTC] [UPD]   📢 📦 exomi18redhulk/Edraw-Mind-Map-Full-Version-Unlocked
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/exomi18redhulk/Edraw-Mind-Map-Full-Version-Unlocked
+     📝 Download EDraw Mind Map — a mind mapping tool for Windows with free download. Cr…
+     🏷  concept-maps, mind-map-application, mind-mapping-productivity, mind-mapping-tools, mind-maps, productivity-software, project-management, windows
+     🔄 Motivo: repo recente (0gg)
+[2026-09-26 10:58:36 UTC] [UPD]   📢 📦 pavankarthikeyaatchyuta-lab/ODDO_hyd
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/pavankarthikeyaatchyuta-lab/ODDO_hyd
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-26 10:58:36 UTC] [UPD]   📢 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 9  🗣 C  📅 2026-09-25
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 The complete hacking & penetration testing roadmap. From beginner to elite. 44,9…
+     🏷  active-directory, bug-bounty, ctf, cybersecurity, ethical-hacking, hacking, infosec, kali-linux, malware, mitre-attack, network-security, osint, penetration-testing, pentesting, red-team, reverse-engineering, roadmap, security, security-tools, web-security
+     🔄 Motivo: repo recente (0gg)
+[2026-09-26 10:58:36 UTC] [UPD]   📢 📦 AETHERXGLOBAL/execsurface
+     ⭐ 0  🗣 Rust  📅 2026-09-25
+     🔗 https://github.com/AETHERXGLOBAL/execsurface
+     📝 Runtime execution-surface drift detection for software, CI pipelines, dependenci…
+     🏷  ci, dependency-security, developer-tools, devsecops, github-actions, linux, observability, reproducibility, runtime-analysis, runtime-security, rust, software-supply-chain
+     🔄 Motivo: repo recente (0gg) | nuovi topic: reproducibility, devsecops, ci, runtime-security, rust, runtime-analysis, dependency-security, linux, observability, developer-tools, software-supply-chain, github-actions
+[2026-09-26 10:58:36 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-26 10:58:36 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-26 10:58:38 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-26 10:58:38 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-09-26 10:58:38 UTC] [NEW]   🆕 📦 g384/noor1
+     ⭐ 0  🗣 JavaScript  📅 2026-09-26
+     🔗 https://github.com/g384/noor1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:38 UTC] [NEW]   🆕 📦 als509/509
+     ⭐ 0  🗣 JavaScript  📅 2026-09-26
+     🔗 https://github.com/als509/509
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:38 UTC] [NEW]   🆕 📦 msiuser47/TryHackMe
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/msiuser47/TryHackMe
+     📝 A scalable portfolio documenting hands-on cybersecurity labs, offensive and defe…
+     🏷  blue-team, ctf, cybersecurity, penetration-testing, tryhackme
+[2026-09-26 10:58:38 UTC] [NEW]   🆕 📦 Source-Soul/HackTheBox_RAG
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/Source-Soul/HackTheBox_RAG
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 10:58:38 UTC] [NEW]   🆕 📦 Philiphall6/ghostlock-tcl-c855
+     ⭐ 0  🗣 C  📅 2026-09-26
+     🔗 https://github.com/Philiphall6/ghostlock-tcl-c855
+     📝 GhostLock temporary-root port for TCL C855 T653T01 V643 Android 14
+     🏷  —
+[2026-09-26 10:58:38 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-26 10:58:38 UTC] [UPD]   📢 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 9  🗣 C  📅 2026-09-25
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 The complete hacking & penetration testing roadmap. From beginner to elite. 44,9…
+     🏷  active-directory, bug-bounty, ctf, cybersecurity, ethical-hacking, hacking, infosec, kali-linux, malware, mitre-attack, network-security, osint, penetration-testing, pentesting, red-team, reverse-engineering, roadmap, security, security-tools, web-security
+     🔄 Motivo: repo recente (0gg)
+[2026-09-26 10:58:38 UTC] [UPD]   📢 📦 dungleioshax-droid/DarkPubg
+     ⭐ 0  🗣 Objective-C++  📅 2026-09-20
+     🔗 https://github.com/dungleioshax-droid/DarkPubg
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-26 10:58:38 UTC] [UPD]   📢 📦 Tyhhioh667777/3105
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/Tyhhioh667777/3105
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-26 10:58:38 UTC] [INFO] ============================================================
+[2026-09-26 10:58:38 UTC] [INFO] Completato — 41 nuovi, 11 aggiornati, 0 errori
+[2026-09-26 10:58:38 UTC] [INFO] ============================================================
