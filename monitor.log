@@ -96252,3 +96252,327 @@
 [2026-09-26 10:58:38 UTC] [INFO] ============================================================
 [2026-09-26 10:58:38 UTC] [INFO] Completato — 41 nuovi, 11 aggiornati, 0 errori
 [2026-09-26 10:58:38 UTC] [INFO] ============================================================
+[2026-09-26 15:58:16 UTC] [INFO] ============================================================
+[2026-09-26 15:58:16 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-26 15:58:16 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-26 15:58:16 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-26 15:58:16 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-26 15:58:16 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-26 15:58:16 UTC] [INFO] ============================================================
+[2026-09-26 15:58:16 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-26 15:58:16 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-26 15:58:17 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-26 15:58:17 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-26 15:58:17 UTC] [NEW]   🆕 📦 ahmed-atiah/wazuh-soc-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/ahmed-atiah/wazuh-soc-home-lab
+     📝 Home SOC lab using Wazuh to detect and triage a simulated RDP brute-force attack
+     🏷  —
+[2026-09-26 15:58:17 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-26 15:58:17 UTC] [UPD]   📢 📦 CyberKnight-cmd/jocky
+     ⭐ 0  🗣 JavaScript  📅 2026-09-21
+     🔗 https://github.com/CyberKnight-cmd/jocky
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-26 15:58:17 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 4  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, claude-code, codex, firmware-analysis, reverse-engineering
+     🔄 Motivo: repo recente (2gg)
+[2026-09-26 15:58:17 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-26 15:58:17 UTC] [UPD]   📢 📦 ngthaihoc/CMP30HXmodtoGEN2
+     ⭐ 28  🗣 C  📅 2026-09-20
+     🔗 https://github.com/ngthaihoc/CMP30HXmodtoGEN2
+     📝 This project is inspired by CMP40HX-Unlock. If you find it useful, please consid…
+     🏷  cmp, developer-tools, leagueoflegends, linux, mining, nvidia, nvidia-gpu, riot-games, valorant-undetected-2026, windows-11
+     🔄 Motivo: repo recente (6gg)
+[2026-09-26 15:58:17 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-26 15:58:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-26 15:58:20 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 brmanding/edram
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/brmanding/edram
+     📝 content
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 akashssathhesh-byte/Cyberion-ThreatShield
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/akashssathhesh-byte/Cyberion-ThreatShield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 localbystander/dns-poc
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/localbystander/dns-poc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 hlwdeepak/aegis
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/hlwdeepak/aegis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 iltifatyousuf/exodia
+     ⭐ 0  🗣 HTML  📅 2026-09-25
+     🔗 https://github.com/iltifatyousuf/exodia
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 anandghegde/BareLipi
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/anandghegde/BareLipi
+     📝 ಬರೆ · ಲಿಪಿ — native macOS Markdown editor in Swift 6, AppKit and Core Text. Phas…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 NIGHTJAS50/attack-time-machine
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/NIGHTJAS50/attack-time-machine
+     📝 Defensive endpoint event recorder with tamper-evident attack timelines and foren…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 stevenz-ke/edrmw
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/stevenz-ke/edrmw
+     📝 content
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 morrisamanda5567/edrw
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/morrisamanda5567/edrw
+     📝 content
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 murilogarcia/ESP32-es3c28p-Spectrum-Radar
+     ⭐ 0  🗣 C  📅 2026-09-26
+     🔗 https://github.com/murilogarcia/ESP32-es3c28p-Spectrum-Radar
+     📝 2.4GHz Wi-Fi spectrum analyzer + waterfall for the ES3C28P (ESP32-S3, ILI9341V, …
+     🏷  es3c28p, esp32, esp32-s3, lvgl, platformio, wifi-analyzer
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 jawad9522/DFIR-Case-Study
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/jawad9522/DFIR-Case-Study
+     📝 This report details a digital forensic investigation of a fileless malware attac…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 elr0x/elr0x
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/elr0x/elr0x
+     📝 Profile README
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 Aadityasingh08/MailtraceAI
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/Aadityasingh08/MailtraceAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 nikunjgoyal0344-coder/eRTMAC-NWIS
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/nikunjgoyal0344-coder/eRTMAC-NWIS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 qiusheng182/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-09-26
+     🔗 https://github.com/qiusheng182/reverse-skill
+     📝 Unified reverse engineering and authorized security skill package for Codex, Cla…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 williamfoxyoung1/windows-persistence-scanner
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/williamfoxyoung1/windows-persistence-scanner
+     📝 Python-based Windows persistence scanner that audits Startup folders, Registry R…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 shaneisraeln/batman-AISE
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/shaneisraeln/batman-AISE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 YazidEl7/automated-soc-soar-lab
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/YazidEl7/automated-soc-soar-lab
+     📝 An automated SOC/SOAR lab architecture integrating Wazuh SIEM, Suricata NIDS, n8…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 eenasbus/edrpy
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/eenasbus/edrpy
+     📝 content
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 jagsblast/jsp-loader
+     ⭐ 1  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/jagsblast/jsp-loader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 Teodores-Git/game-integrity-pipeline
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/Teodores-Git/game-integrity-pipeline
+     📝 Detect botting, collusion, and chip dumping in gaming data using Python, SQL, an…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 manishrajpoot4/Manishrajpoot4
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/manishrajpoot4/Manishrajpoot4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 premaxtosaj/edrn
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/premaxtosaj/edrn
+     📝 content
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 furibit/edrjw
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/furibit/edrjw
+     📝 content
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 Saudi-hacker/EDRAK-CIPHER
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/Saudi-hacker/EDRAK-CIPHER
+     📝 Exploratory Lightweight Symmetric Block Cipher (ARX) for Resource-Constrained Io…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 fedequark/ClaimBench
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/fedequark/ClaimBench
+     📝 Banco de verificación de claims para herramientas de ciberseguridad: convierte a…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 JoseQuinteroDev/Network-Threat-Hunting-Casebook
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/JoseQuinteroDev/Network-Threat-Hunting-Casebook
+     📝 Detecting C2 channels from network traffic: Zeek, Suricata, Python and KQL, meas…
+     🏷  blue-team, detection-engineering, dfir, kql, microsoft-sentinel, mitre-attack, network-security, suricata, threat-hunting, zeek
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 martinmorgan548/edrmyc
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/martinmorgan548/edrmyc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 ajikfan/MGS4-Best-Trainer-Ever
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/ajikfan/MGS4-Best-Trainer-Ever
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 ice-wocker/frontier-knowledge-base
+     ⭐ 1  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/ice-wocker/frontier-knowledge-base
+     📝 前沿科技知识库：覆盖 AI、硬件半导体、软件工程、数据工程、网络安全、基础科学、新兴科技、产业与社会，163 篇专题文档，全部基于公开网络资料并逐条附来源链接
+     🏷  ai, cybersecurity, data-engineering, emerging-technology, frontier-tech, knowledge-base, llm, markdown, quantum-computing, robotics, science, semiconductor, software-engineering
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 Bibasgautam77/autonomous-ai-soc-complete
+     ⭐ 0  🗣 Batchfile  📅 2026-09-26
+     🔗 https://github.com/Bibasgautam77/autonomous-ai-soc-complete
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 dxauramon/edrq
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/dxauramon/edrq
+     📝 content
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 fbreetheru2/edrcs
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/fbreetheru2/edrcs
+     📝 content
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 Taiwo-Akinmosin/windows-host-forensics-triage
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/Taiwo-Akinmosin/windows-host-forensics-triage
+     📝 nd-to-end Windows host forensics lab featuring live VM artifact triage (KAPE) an…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 itsmariamfatima/AQT-1372_WEEK-7-SOC-BLUE-TEAM
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/itsmariamfatima/AQT-1372_WEEK-7-SOC-BLUE-TEAM
+     📝 ASTRAQUANTUM TECH – Summer of Cybersecurity 2026 | Week 07 SOC / Blue Team Asses…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [NEW]   🆕 📦 RayRRT/InvokeHunt
+     ⭐ 0  🗣 PowerShell  📅 2026-09-26
+     🔗 https://github.com/RayRRT/InvokeHunt
+     📝 Modular pipeline for testing offensive tooling against security products.Each en…
+     🏷  —
+[2026-09-26 15:58:20 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-26 15:58:20 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-26 15:58:20 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-26 15:58:20 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-26 15:58:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-26 15:58:22 UTC] [INFO]   → 35 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 12 NUOVI repository:
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 lee101/mojo-bayesian-optimization
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/lee101/mojo-bayesian-optimization
+     📝 Mojo port of bayesian-optimization
+     🏷  —
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 liam8282828-creator/pv8
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/liam8282828-creator/pv8
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 ezam988/lara-zh
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/ezam988/lara-zh
+     📝 lara (DarkSword kexploit toolbox) 汉化版 — iOS 26.0.x
+     🏷  —
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 liam8282828-creator/puv4
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/liam8282828-creator/puv4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 rifgigame11/R2
+     ⭐ 0  🗣 JavaScript  📅 2026-09-26
+     🔗 https://github.com/rifgigame11/R2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 kaychenstock/A13_Bypass
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/kaychenstock/A13_Bypass
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 rifgigame11/R1
+     ⭐ 0  🗣 JavaScript  📅 2026-09-26
+     🔗 https://github.com/rifgigame11/R1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 F4GAME1/1113
+     ⭐ 0  🗣 JavaScript  📅 2026-09-26
+     🔗 https://github.com/F4GAME1/1113
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 1108numatakaichi-wq/Fugu14_onlinebuild
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/1108numatakaichi-wq/Fugu14_onlinebuild
+     📝 Independent mirror backup of https://github.com/yyyywaiwai/Fugu14_onlinebuild
+     🏷  backup, mirror, mirror-yyyywaiwai
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 axionb21/OSEP
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/axionb21/OSEP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 CKwasd/zenfone9-ghostlock
+     ⭐ 1  🗣 C  📅 2026-09-26
+     🔗 https://github.com/CKwasd/zenfone9-ghostlock
+     📝 CVE-2026-43499 (GhostLock) exploit for ASUS Zenfone 9 (SM8475, GKI 5.10.205) + K…
+     🏷  cve-2026-43499, exploit, ghostlock, kernelsu, security-research, sm8475, zenfone9
+[2026-09-26 15:58:22 UTC] [NEW]   🆕 📦 Squally6dima/lara-iOS27
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/Squally6dima/lara-iOS27
+     📝 iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, ex…
+     🏷  —
+[2026-09-26 15:58:22 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-26 15:58:22 UTC] [UPD]   📢 📦 dungleioshax-droid/DarkPubg
+     ⭐ 0  🗣 Objective-C++  📅 2026-09-20
+     🔗 https://github.com/dungleioshax-droid/DarkPubg
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-26 15:58:22 UTC] [UPD]   📢 📦 CroSandbox/cro
+     ⭐ 2  🗣 Rust  📅 2026-09-20
+     🔗 https://github.com/CroSandbox/cro
+     📝 The premier pure-Rust microVM virtualization platform and container orchestratio…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-09-26 15:58:22 UTC] [UPD]   📢 📦 jmwprivett/kslop
+     ⭐ 0  🗣 Objective-C  📅 2026-09-25
+     🔗 https://github.com/jmwprivett/kslop
+     📝 my fork of cyanide
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-26 15:58:22 UTC] [INFO] ============================================================
+[2026-09-26 15:58:22 UTC] [INFO] Completato — 49 nuovi, 9 aggiornati, 0 errori
+[2026-09-26 15:58:22 UTC] [INFO] ============================================================
