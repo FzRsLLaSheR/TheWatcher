@@ -95714,3 +95714,245 @@
 [2026-09-25 21:12:56 UTC] [INFO] ============================================================
 [2026-09-25 21:12:56 UTC] [INFO] Completato — 35 nuovi, 7 aggiornati, 0 errori
 [2026-09-25 21:12:56 UTC] [INFO] ============================================================
+[2026-09-26 03:59:59 UTC] [INFO] ============================================================
+[2026-09-26 03:59:59 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-26 03:59:59 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-26 03:59:59 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-26 03:59:59 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-26 03:59:59 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-26 03:59:59 UTC] [INFO] ============================================================
+[2026-09-26 03:59:59 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-26 03:59:59 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-26 04:00:01 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-26 04:00:01 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-09-26 04:00:01 UTC] [NEW]   🆕 📦 10fax01/FireDrv
+     ⭐ 0  🗣 C  📅 2026-09-26
+     🔗 https://github.com/10fax01/FireDrv
+     📝 FireDrv, a vulnerable Allied Vision Technologies driver
+     🏷  —
+[2026-09-26 04:00:01 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-26 04:00:01 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-26 04:00:01 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 1  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, firmware-analysis, reverse-engineering
+     🔄 Motivo: repo recente (2gg)
+[2026-09-26 04:00:01 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-26 04:00:01 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-26 04:00:04 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 2006sila/pi-workbench
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/2006sila/pi-workbench
+     📝 PiDeck / DeepSeek Harness 一键部署工作台 —— 把指令集与技能库注入本机 Pi 系客户端，卸载即还原。7 个提示词模板 + 65 个技…
+     🏷  agent-skills, deepseek-harness, pideck, powershell, prompt-engineering, pyinstaller, pyside6, windows
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 ee79e24fas/edrlzc
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/ee79e24fas/edrlzc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 mariniosnl/edrq
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/mariniosnl/edrq
+     📝 content
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 TheSamLePirate/black-hole-gpu
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/TheSamLePirate/black-hole-gpu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 mavawata/edrdy
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/mavawata/edrdy
+     📝 content
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 pavankarthikeyaatchyuta-lab/ODDO_hyd
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/pavankarthikeyaatchyuta-lab/ODDO_hyd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 Muhammad-shahzaib-09/wazuh-security-monitoring-system
+     ⭐ 1  🗣 HTML  📅 2026-09-25
+     🔗 https://github.com/Muhammad-shahzaib-09/wazuh-security-monitoring-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 jmnadado-jmn/SEC-_Trainer
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/jmnadado-jmn/SEC-_Trainer
+     📝 SEC+_Trainer
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 glikoaop0/hunt-tracker
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/glikoaop0/hunt-tracker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 schickla/SentinelLite
+     ⭐ 0  🗣 HTML  📅 2026-09-26
+     🔗 https://github.com/schickla/SentinelLite
+     📝 Lightweight Java SIEM-style security monitoring dashboard built with Spring Boot…
+     🏷  cybersecurity, h2-database, java, rest-api, security-monitoring, siem, soc, spring-boot, spring-data-jpa, thymeleaf
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 ecaldcc/08-FarmaCentro
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/ecaldcc/08-FarmaCentro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 hinesjorge508/edraij
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/hinesjorge508/edraij
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 devmasonjames/glsy16j4
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/devmasonjames/glsy16j4
+     📝 6yfb6mil政务 RAG 白盒审计：4 类真实缺陷的发现、复现与零回归修复o7wn0a40ocwb
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 annawilsonpixelyge/2wjl28e
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/annawilsonpixelyge/2wjl28e
+     📝 6r2j0vlo南京往返越南河内、新加坡市两条定期国际客运航线开通f5msu7gojrwc
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 annawilsonpixelyge/ok99rjl
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/annawilsonpixelyge/ok99rjl
+     📝 s8q72xbm以防大家不知道，Anthropic开源了自己的漏洞挖掘Harnessacb4anoq508s
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 gemini0ani/qlywqb0h
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/gemini0ani/qlywqb0h
+     📝 cn3sl96s一份 Java Web 源码审计实录：179 个 class 反编译后的攻击面全景gdvq6mydi
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 dcochrans/8j83doq
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/dcochrans/8j83doq
+     📝 kmre41tqZootopia6nzjt8kwldti
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 exomi18redhulk/Edraw-Mind-Map-Full-Version-Unlocked
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/exomi18redhulk/Edraw-Mind-Map-Full-Version-Unlocked
+     📝 Download EDraw Mind Map — a mind mapping tool for Windows with free download. Cr…
+     🏷  concept-maps, mind-map-application, mind-mapping-productivity, mind-mapping-tools, mind-maps, productivity-software, project-management, windows
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 ysyd5732-byte/Edrak
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/ysyd5732-byte/Edrak
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 FabianCH20/CyberDefenders-Volatility-Traces-Solution
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/FabianCH20/CyberDefenders-Volatility-Traces-Solution
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 7  🗣 C  📅 2026-09-25
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 The complete hacking & penetration testing roadmap. From beginner to elite. 44,9…
+     🏷  active-directory, bug-bounty, ctf, cybersecurity, ethical-hacking, hacking, infosec, kali-linux, malware, mitre-attack, network-security, osint, penetration-testing, pentesting, red-team, reverse-engineering, roadmap, security, security-tools, web-security
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 bocchisad/bin2img-classifier
+     ⭐ 1  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/bocchisad/bin2img-classifier
+     📝 Binary visualizer & malware-family classifier: byteplots, entropy heatmaps, CatB…
+     🏷  binary-analysis, byteplot, catboost, computer-vision, cybersecurity, docker, entropy, fastapi, machine-learning, malware-analysis, pe-elf, python, threat-intelligence
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 th4656/btd700
+     ⭐ 0  🗣 C#  📅 2026-09-25
+     🔗 https://github.com/th4656/btd700
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 ph4d34w4y/AntiNoise
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/ph4d34w4y/AntiNoise
+     📝 Lightweight, explainable cloud security investigation and response with determin…
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 FabianCH20/Reveal-CyberDefenders-Blue-Team-Lab-Solution
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/FabianCH20/Reveal-CyberDefenders-Blue-Team-Lab-Solution
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 ExpTechTW/EasyDisplay
+     ⭐ 2  🗣 Swift  📅 2026-09-25
+     🔗 https://github.com/ExpTechTW/EasyDisplay
+     📝 住在選單列的 macOS 螢幕亮度工具，可把 XDR 螢幕增亮到 1000 nit
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 Argonyx-26/T13-slugs-2-
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/Argonyx-26/T13-slugs-2-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:04 UTC] [NEW]   🆕 📦 SoumyadeepNath1998/ai-soc-analyst-simulator
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/SoumyadeepNath1998/ai-soc-analyst-simulator
+     📝 Autonomous GenAI Tier-1 SOC Analyst & Incident Response Simulator built with Str…
+     🏷  —
+[2026-09-26 04:00:04 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-26 04:00:04 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-26 04:00:04 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-09-26 04:00:04 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-26 04:00:04 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-26 04:00:06 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-26 04:00:06 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-09-26 04:00:06 UTC] [NEW]   🆕 📦 Tyhhioh667777/3105
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/Tyhhioh667777/3105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:06 UTC] [NEW]   🆕 📦 jmwprivett/kslop
+     ⭐ 0  🗣 Objective-C  📅 2026-09-25
+     🔗 https://github.com/jmwprivett/kslop
+     📝 my fork of cyanide
+     🏷  —
+[2026-09-26 04:00:06 UTC] [NEW]   🆕 📦 SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     ⭐ 7  🗣 C  📅 2026-09-25
+     🔗 https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap
+     📝 The complete hacking & penetration testing roadmap. From beginner to elite. 44,9…
+     🏷  active-directory, bug-bounty, ctf, cybersecurity, ethical-hacking, hacking, infosec, kali-linux, malware, mitre-attack, network-security, osint, penetration-testing, pentesting, red-team, reverse-engineering, roadmap, security, security-tools, web-security
+[2026-09-26 04:00:06 UTC] [NEW]   🆕 📦 mohammed3id/SNMP-Penetration-Testing-A-Complete-Walkthrough
+     ⭐ 0  🗣 N/A  📅 2026-09-25
+     🔗 https://github.com/mohammed3id/SNMP-Penetration-Testing-A-Complete-Walkthrough
+     📝 This is the second write-up in the series documenting my hands-on practice with …
+     🏷  —
+[2026-09-26 04:00:06 UTC] [NEW]   🆕 📦 ArabePixel/webkitty
+     ⭐ 0  🗣 JavaScript  📅 2026-09-25
+     🔗 https://github.com/ArabePixel/webkitty
+     📝 backup repo for original ArabPixel/WebKitty project
+     🏷  —
+[2026-09-26 04:00:06 UTC] [NEW]   🆕 📦 liam8282828-creator/ios-beta-2
+     ⭐ 0  🗣 Swift  📅 2026-09-25
+     🔗 https://github.com/liam8282828-creator/ios-beta-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-26 04:00:06 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-26 04:00:06 UTC] [UPD]   📢 📦 bts2019amo-ctrl/3105-public-build-20260918
+     ⭐ 0  🗣 Swift  📅 2026-09-19
+     🔗 https://github.com/bts2019amo-ctrl/3105-public-build-20260918
+     📝 Independent public build repository for the 3105 iOS project
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-26 04:00:06 UTC] [UPD]   📢 📦 liayan/aider-enhance
+     ⭐ 1  🗣 Python  📅 2026-09-24
+     🔗 https://github.com/liayan/aider-enhance
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-09-26 04:00:06 UTC] [UPD]   📢 📦 JKCsaba/lara-branch-statusbar
+     ⭐ 0  🗣 Swift  📅 2026-09-25
+     🔗 https://github.com/JKCsaba/lara-branch-statusbar
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-26 04:00:06 UTC] [INFO] ============================================================
+[2026-09-26 04:00:06 UTC] [INFO] Completato — 35 nuovi, 7 aggiornati, 0 errori
+[2026-09-26 04:00:06 UTC] [INFO] ============================================================
