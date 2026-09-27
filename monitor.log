@@ -97426,3 +97426,245 @@
 [2026-09-27 11:36:09 UTC] [INFO] ============================================================
 [2026-09-27 11:36:09 UTC] [INFO] Completato — 43 nuovi, 2 aggiornati, 0 errori
 [2026-09-27 11:36:09 UTC] [INFO] ============================================================
+[2026-09-27 16:34:42 UTC] [INFO] ============================================================
+[2026-09-27 16:34:42 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-27 16:34:42 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-27 16:34:42 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-27 16:34:42 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-27 16:34:42 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-27 16:34:42 UTC] [INFO] ============================================================
+[2026-09-27 16:34:42 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-27 16:34:42 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-27 16:34:44 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-27 16:34:44 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-27 16:34:44 UTC] [NEW]   🆕 📦 hardwareidentification/timetrace
+     ⭐ 1  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/hardwareidentification/timetrace
+     📝 Automated Windows screenshare (SS) & PC checking tool to detect hidden cheats, w…
+     🏷  —
+[2026-09-27 16:34:44 UTC] [NEW]   🆕 📦 jayykernel/jocky-framework
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/jayykernel/jocky-framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 16:34:44 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-09-27 16:34:44 UTC] [UPD]   📢 📦 himkarr/tartarus
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/himkarr/tartarus
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-27 16:34:44 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 31  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, claude-code, codex, decompiler, diffing, disassembler, educational, firmware-analysis, open-source, reverse-engineering
+     🔄 Motivo: repo recente (3gg) | nuovi topic: disassembler, decompiler, educational, open-source, diffing
+[2026-09-27 16:34:44 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-27 16:34:44 UTC] [UPD]   📢 📦 Nightvex-Labs/Gamebreaker-Arena-Breakout-Esp
+     ⭐ 0  🗣 C++  📅 2026-09-26
+     🔗 https://github.com/Nightvex-Labs/Gamebreaker-Arena-Breakout-Esp
+     📝 Gamebreaker Dark-Peach ESP overlay for Arena Breakout Infinite (kdu BYOVD, panel…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-27 16:34:44 UTC] [UPD]   📢 📦 007sriram00-oss/anticheat
+     ⭐ 0  🗣 JavaScript  📅 2026-09-27
+     🔗 https://github.com/007sriram00-oss/anticheat
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-27 16:34:44 UTC] [UPD]   📢 📦 Staatsrat/sign_strike
+     ⭐ 0  🗣 C  📅 2026-09-20
+     🔗 https://github.com/Staatsrat/sign_strike
+     📝 SignStrike detects kernel modifications by malicious programs on Windows and rep…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-27 16:34:44 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-27 16:34:44 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-27 16:34:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 likimberly8719/edrct
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/likimberly8719/edrct
+     📝 content
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 AlahyaneYassine/F-SCANER
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-09-27
+     🔗 https://github.com/AlahyaneYassine/F-SCANER
+     📝 F-SCANER is a hybrid malware detection platform combining Machine Learning and D…
+     🏷  cybersecurity, deep-learning, fastapi, machine-learning, malware-analysis, malware-detection, python, static-analysis, streamlit, virus-total
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 redrabbitdevs/CVE-Dashboard
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/redrabbitdevs/CVE-Dashboard
+     📝 CVE Dashboard for users to track CVEs, KEVs, patches and detections
+     🏷  cve, kev, vulnerability, vulnerability-management
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 EDRIVillemandeur/tv-accueil-EDRI
+     ⭐ 0  🗣 CSS  📅 2026-09-27
+     🔗 https://github.com/EDRIVillemandeur/tv-accueil-EDRI
+     📝 Tableau de bord gratuit pour la TV d'accueil de l'agence à Villemandeur (Loiret)…
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 rushhunter386/edrb
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/rushhunter386/edrb
+     📝 content
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 r0zerosuttiae/edrqi
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/r0zerosuttiae/edrqi
+     📝 content
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 lionnus/edarunner-example
+     ⭐ 0  🗣 Shell  📅 2026-09-27
+     🔗 https://github.com/lionnus/edarunner-example
+     📝 One complete edarunner setup: a site template and an OpenROAD flow project for t…
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 axavlas51/edrhj
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/axavlas51/edrhj
+     📝 content
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 Mazukriez/Jev-AI-Security-Architecture-
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/Mazukriez/Jev-AI-Security-Architecture-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 mithril-lang/mithril-twin
+     ⭐ 0  🗣 TypeScript  📅 2026-09-27
+     🔗 https://github.com/mithril-lang/mithril-twin
+     📝 Mithril Twin: display-only isometric twin viewer and the .mith diagram language …
+     🏷  defensive-security, diagram, digital-twin, mith, react, security-visualization, typescript, visualization, vite
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Attack-Simulation-Platform
+     ⭐ 3  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/ishandutta2007/Awesome-Attack-Simulation-Platform
+     📝 Top Attack Simulation Platform (Opensource) 🌟 Star if you like it! 🌟
+     🏷  adversary-emulation, attack-simulation, awesome-list, breach-and-attack-simulation, curated-list, purple-team, red-team
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 priyanshipatel91067/incident-response-task-3
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/priyanshipatel91067/incident-response-task-3
+     📝 incident response simulation and documentation - cyber security task 3
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 gabsidwilly/edrvy
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/gabsidwilly/edrvy
+     📝 content
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 AARUSHGAUR/threatlens
+     ⭐ 0  🗣 TypeScript  📅 2026-09-27
+     🔗 https://github.com/AARUSHGAUR/threatlens
+     📝 ThreatLens - Cyber Threat Intelligence & IOC Investigation Platform. Enrichment,…
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 Nandu-chitti1624/Autonomous-Cyber-Incident-Response-Using-Reasoning-and-Action
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/Nandu-chitti1624/Autonomous-Cyber-Incident-Response-Using-Reasoning-and-Action
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 tunhangout-wq/bot-ai-discord
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/tunhangout-wq/bot-ai-discord
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 VenkataSravanthi-Gottipati/AFrameWorkForAutomatedIncidentResponseInCyberSecurity
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/VenkataSravanthi-Gottipati/AFrameWorkForAutomatedIncidentResponseInCyberSecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 AhmedGoharyy24/LetsDefend---Investigations
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/AhmedGoharyy24/LetsDefend---Investigations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 KarthikSharma5025/multi-agent-endpoint-threat-detection
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/KarthikSharma5025/multi-agent-endpoint-threat-detection
+     📝 Multi-agent behavioral endpoint detection system for identifying and correlating…
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 yunshen-1/APT-Awareness-Toolkit
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/yunshen-1/APT-Awareness-Toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 0XE1P/BlindSpot-Framework
+     ⭐ 1  🗣 C  📅 2026-09-27
+     🔗 https://github.com/0XE1P/BlindSpot-Framework
+     📝 Modular crypter/packer for Windows PE files. Reflective loading, API hashing, an…
+     🏷  anti-analysis, anti-virus, api-hashing, av-evasion, c, crypter, customtkinter, educational, evasion, malware-analysis, obfuscation, packer, pe-loader, penetration-testing, process-injection, python, red-team, reflective-loader, security-research, windows-security
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 tugbiyeleedward/Active-Directory-Home-Lab
+     ⭐ 1  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/tugbiyeleedward/Active-Directory-Home-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 zdxddmx/ac632n-dev-tools
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/zdxddmx/ac632n-dev-tools
+     📝 杰理 AC632N 蓝牙开发自研工具集：构建/烧录/UART 调试/日志 GUI/日报自动化
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 curtisilver/AI-Augmented-SOC-Lab
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/curtisilver/AI-Augmented-SOC-Lab
+     📝 Three-VM SOC Lab: Splunk, Elastic ML, LogAI, OpenCTI, Shuffle SOAR. Attack simul…
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 jayykernel/jocky-framework
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/jayykernel/jocky-framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 dpksp/edrpe
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/dpksp/edrpe
+     📝 content
+     🏷  —
+[2026-09-27 16:34:46 UTC] [NEW]   🆕 📦 Anthro-AI-Labs/Cyber-Risk-Prediction-Platform
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/Anthro-AI-Labs/Cyber-Risk-Prediction-Platform
+     📝 We assess the probability of vulnerabilities and, based on the data gathered fro…
+     🏷  —
+[2026-09-27 16:34:46 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-27 16:34:46 UTC] [UPD]   📢 📦 himkarr/tartarus
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/himkarr/tartarus
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-27 16:34:46 UTC] [UPD]   📢 📦 oussamasaidguerni-cyber/cinder
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/oussamasaidguerni-cyber/cinder
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-27 16:34:46 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-09-27 16:34:46 UTC] [UPD]   📢 📦 zevo-enterprise/zevo-enterprise
+     ⭐ 0  🗣 N/A  📅 2026-09-20
+     🔗 https://github.com/zevo-enterprise/zevo-enterprise
+     📝 Zevo Enteprise Company
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-27 16:34:46 UTC] [UPD]   📢 📦 miikkak/gfn-armoury-bridge
+     ⭐ 0  🗣 C#  📅 2026-09-27
+     🔗 https://github.com/miikkak/gfn-armoury-bridge
+     📝 Bridges GeForce NOW's streamed game detection into ASUS Armoury Crate's per-game…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-27 16:34:46 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-27 16:34:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-27 16:34:48 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-27 16:34:48 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-27 16:34:48 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-27 16:34:48 UTC] [UPD]   📢 📦 beoc611-debug/CheatiOSShare
+     ⭐ 0  🗣 Swift  📅 2026-09-20
+     🔗 https://github.com/beoc611-debug/CheatiOSShare
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-27 16:34:48 UTC] [INFO] ============================================================
+[2026-09-27 16:34:48 UTC] [INFO] Completato — 29 nuovi, 12 aggiornati, 0 errori
+[2026-09-27 16:34:48 UTC] [INFO] ============================================================
