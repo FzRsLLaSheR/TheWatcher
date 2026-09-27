@@ -97668,3 +97668,252 @@
 [2026-09-27 16:34:48 UTC] [INFO] ============================================================
 [2026-09-27 16:34:48 UTC] [INFO] Completato — 29 nuovi, 12 aggiornati, 0 errori
 [2026-09-27 16:34:48 UTC] [INFO] ============================================================
+[2026-09-27 21:01:41 UTC] [INFO] ============================================================
+[2026-09-27 21:01:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-27 21:01:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-27 21:01:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-27 21:01:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-27 21:01:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-27 21:01:41 UTC] [INFO] ============================================================
+[2026-09-27 21:01:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-27 21:01:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-27 21:01:43 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-27 21:01:43 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-27 21:01:43 UTC] [NEW]   🆕 📦 SWORDIntel/bothub-harness
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/SWORDIntel/bothub-harness
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:43 UTC] [NEW]   🆕 📦 prox0959/ProxSuite-PRO
+     ⭐ 0  🗣 HTML  📅 2026-09-27
+     🔗 https://github.com/prox0959/ProxSuite-PRO
+     📝 21-in-1 Native x64 Windows EDR, Live Memory Forensics, Anti-Stealer & OSINT Comm…
+     🏷  anti-stealer, cybersecurity, dfir, edr, malware-analysis, memory-forensics, osint, ransomware-protection, threat-hunting, windows-security
+[2026-09-27 21:01:43 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-27 21:01:43 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 31  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, claude-code, codex, decompiler, diffing, disassembler, educational, firmware-analysis, open-source, reverse-engineering
+     🔄 Motivo: repo recente (3gg)
+[2026-09-27 21:01:43 UTC] [UPD]   📢 📦 himkarr/tartarus
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/himkarr/tartarus
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-27 21:01:43 UTC] [UPD]   📢 📦 Nightvex-Labs/Gamebreaker-Arena-Breakout-Esp
+     ⭐ 0  🗣 C++  📅 2026-09-26
+     🔗 https://github.com/Nightvex-Labs/Gamebreaker-Arena-Breakout-Esp
+     📝 Gamebreaker Dark-Peach ESP overlay for Arena Breakout Infinite (kdu BYOVD, panel…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-27 21:01:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-27 21:01:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-27 21:01:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 asifnawazminhas/cyberdict
+     ⭐ 0  🗣 CSS  📅 2026-09-27
+     🔗 https://github.com/asifnawazminhas/cyberdict
+     📝 A community cybersecurity dictionary and interactive knowledge explorer for offe…
+     🏷  cyber-dictionary, cybersecurity, cybersecurity-education, explainable-cyber
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 sko9370/reflex-sentry
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/sko9370/reflex-sentry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 knightking999/soc-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/knightking999/soc-detection-lab
+     📝 Cloud-Native SIEM & EDR Detection Engineering using Wazuh, AWS, Sysmon and Atomi…
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 prox0959/ProxSuite-PRO
+     ⭐ 0  🗣 HTML  📅 2026-09-27
+     🔗 https://github.com/prox0959/ProxSuite-PRO
+     📝 21-in-1 Native x64 Windows EDR, Live Memory Forensics, Anti-Stealer & OSINT Comm…
+     🏷  anti-stealer, cybersecurity, dfir, edr, malware-analysis, memory-forensics, osint, ransomware-protection, threat-hunting, windows-security
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 uttarooque73/learning
+     ⭐ 0  🗣 Kotlin  📅 2026-09-26
+     🔗 https://github.com/uttarooque73/learning
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 edreigne/Edreigne-V.-Mongaya-Web-Resume
+     ⭐ 0  🗣 HTML  📅 2026-09-27
+     🔗 https://github.com/edreigne/Edreigne-V.-Mongaya-Web-Resume
+     📝 Online Resume
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 kachwahhakangan/Ransomware-IR-Orchestrator
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/kachwahhakangan/Ransomware-IR-Orchestrator
+     📝 Automated ransomware containment and incident response orchestration platform bu…
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 Cerbiasz/attach
+     ⭐ 0  🗣 Shell  📅 2026-09-27
+     🔗 https://github.com/Cerbiasz/attach
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 Jeetramoliya/CRTPAutomatedEnumerationScript
+     ⭐ 0  🗣 PowerShell  📅 2026-09-27
+     🔗 https://github.com/Jeetramoliya/CRTPAutomatedEnumerationScript
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 SoumyadeepNath1998/Soumyadeep-soc-l2-simulator
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/SoumyadeepNath1998/Soumyadeep-soc-l2-simulator
+     📝 Autonomous Tier-2 SOC Analyst Operations Suite & Incident Response Simulator bui…
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 x410m1s0/xalOAC-InfoStealer
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/x410m1s0/xalOAC-InfoStealer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 Sayed-Edrees/Sayed-Edrees-Khurshid
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/Sayed-Edrees/Sayed-Edrees-Khurshid
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 saiffarook-create/edr-crm-load-tests
+     ⭐ 0  🗣 JavaScript  📅 2026-09-27
+     🔗 https://github.com/saiffarook-create/edr-crm-load-tests
+     📝 Beginner-friendly k6 toolkit for authorized performance and load testing of EDR/…
+     🏷  crm, cybersecurity, edr, k6, load-testing, performance-testing, powershell, university-project, windows
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 snehabvarghese/vibration-ssl-pdm
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/snehabvarghese/vibration-ssl-pdm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 ia-hydra/dio-safe-malware-python-lab
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/ia-hydra/dio-safe-malware-python-lab
+     📝 Simulação segura e reversível de malware em Python, com criptografia de laborató…
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 ATOMIXTYGER/Apex-Dental-Care
+     ⭐ 0  🗣 TypeScript  📅 2026-09-27
+     🔗 https://github.com/ATOMIXTYGER/Apex-Dental-Care
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 nxthxndev/NXINF
+     ⭐ 1  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/nxthxndev/NXINF
+     📝 Windows hardware ID console — disk, SMBIOS, MAC, CPU/GPU, TPM & product key in o…
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 Yunor743/JIT-Hater
+     ⭐ 0  🗣 Rust  📅 2026-09-27
+     🔗 https://github.com/Yunor743/JIT-Hater
+     📝 Bring advanced, real-time memory detection to Linux
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 shampharma05/human-dpp4-md-gromacs
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/shampharma05/human-dpp4-md-gromacs
+     📝 Molecular dynamics simulation of human DPP-4 in explicit SPC/E water using GROMA…
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 0xdhanesh/STRIDE
+     ⭐ 0  🗣 JavaScript  📅 2026-09-27
+     🔗 https://github.com/0xdhanesh/STRIDE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 kellyhannah3226/edrp
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/kellyhannah3226/edrp
+     📝 content
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 dentehsarpong/EDR-active-defense-ransomware-with-telegram-alerts
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/dentehsarpong/EDR-active-defense-ransomware-with-telegram-alerts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 gopeztheeugene/IR-workbench
+     ⭐ 0  🗣 JavaScript  📅 2026-09-27
+     🔗 https://github.com/gopeztheeugene/IR-workbench
+     📝 Claude backed project to manage my incident response cases.
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 pragelicaha/edrs
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/pragelicaha/edrs
+     📝 content
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 4bkn-firo/edrbs
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/4bkn-firo/edrbs
+     📝 content
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 yashbhure009/CyberFinGuard-Complete-
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/yashbhure009/CyberFinGuard-Complete-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 sfo2800/edrpx
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/sfo2800/edrpx
+     📝 content
+     🏷  —
+[2026-09-27 21:01:46 UTC] [NEW]   🆕 📦 Clementine-2/NativeBridgeGuard
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/Clementine-2/NativeBridgeGuard
+     📝 Windows Chromium Native Messaging effective trust-path auditor and stateful trus…
+     🏷  —
+[2026-09-27 21:01:46 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-27 21:01:46 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-09-27 21:01:46 UTC] [UPD]   📢 📦 plyght/unproc
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/plyght/unproc
+     📝 unproc(essed) photography
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-27 21:01:46 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-27 21:01:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-27 21:01:49 UTC] [INFO]   → 31 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-27 21:01:49 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-27 21:01:49 UTC] [NEW]   🆕 📦 neshboy/fomopeek-appstore-malware-analysis
+     ⭐ 0  🗣 HTML  📅 2026-09-27
+     🔗 https://github.com/neshboy/fomopeek-appstore-malware-analysis
+     📝 iOS kernel-exploit malware shipped through Apple's App Store (FomoPeek) — SOC-au…
+     🏷  —
+[2026-09-27 21:01:49 UTC] [NEW]   🆕 📦 kuyk15820-cpu/ZFNew
+     ⭐ 0  🗣 Swift  📅 2026-09-27
+     🔗 https://github.com/kuyk15820-cpu/ZFNew
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:49 UTC] [NEW]   🆕 📦 Imadakhtar069/Awesome-Hacking
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/Imadakhtar069/Awesome-Hacking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 21:01:49 UTC] [NEW]   🆕 📦 aurius7/kura
+     ⭐ 0  🗣 Kotlin  📅 2026-09-27
+     🔗 https://github.com/aurius7/kura
+     📝 Offline encrypted media vault for Android with booru-style tagging. AES-256-GCM,…
+     🏷  —
+[2026-09-27 21:01:49 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-27 21:01:49 UTC] [UPD]   📢 📦 beoc611-debug/CheatiOSShare
+     ⭐ 0  🗣 Swift  📅 2026-09-20
+     🔗 https://github.com/beoc611-debug/CheatiOSShare
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-27 21:01:49 UTC] [UPD]   📢 📦 ArabePixel/webkitty
+     ⭐ 0  🗣 JavaScript  📅 2026-09-25
+     🔗 https://github.com/ArabePixel/webkitty
+     📝 backup repo for original ArabPixel/WebKitty project
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-27 21:01:49 UTC] [UPD]   📢 📦 karthik558/setup_hack_env
+     ⭐ 80  🗣 Python  📅 2021-12-07
+     🔗 https://github.com/karthik558/setup_hack_env
+     📝 An advanced, enterprise-grade ethical hacking and penetration testing environmen…
+     🏷  ethical-hacking, linux-mac, osint-framework
+     🔄 Motivo: nuovi topic: linux-mac, osint-framework, ethical-hacking
+[2026-09-27 21:01:49 UTC] [UPD]   📢 📦 Tyhhioh667777/3105
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/Tyhhioh667777/3105
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-27 21:01:49 UTC] [INFO] ============================================================
+[2026-09-27 21:01:49 UTC] [INFO] Completato — 34 nuovi, 9 aggiornati, 0 errori
+[2026-09-27 21:01:49 UTC] [INFO] ============================================================
