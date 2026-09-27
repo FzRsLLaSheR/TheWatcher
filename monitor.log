@@ -96850,3 +96850,327 @@
 [2026-09-26 20:45:20 UTC] [INFO] ============================================================
 [2026-09-26 20:45:20 UTC] [INFO] Completato — 45 nuovi, 4 aggiornati, 0 errori
 [2026-09-26 20:45:20 UTC] [INFO] ============================================================
+[2026-09-27 04:12:17 UTC] [INFO] ============================================================
+[2026-09-27 04:12:17 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-27 04:12:17 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-27 04:12:17 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-27 04:12:17 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-27 04:12:17 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-27 04:12:17 UTC] [INFO] ============================================================
+[2026-09-27 04:12:17 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-27 04:12:17 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-27 04:12:19 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-27 04:12:19 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-09-27 04:12:19 UTC] [NEW]   🆕 📦 Croatia-Security/Behavedr
+     ⭐ 0  🗣 C#  📅 2026-09-27
+     🔗 https://github.com/Croatia-Security/Behavedr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:19 UTC] [NEW]   🆕 📦 FROSTY-MUG/jocky-
+     ⭐ 0  🗣 Rust  📅 2026-09-26
+     🔗 https://github.com/FROSTY-MUG/jocky-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:19 UTC] [NEW]   🆕 📦 killuazoldyx/portofolio
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/killuazoldyx/portofolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:19 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-27 04:12:19 UTC] [UPD]   📢 📦 Nightvex-Labs/Gamebreaker-Arena-Breakout-Esp
+     ⭐ 0  🗣 C++  📅 2026-09-26
+     🔗 https://github.com/Nightvex-Labs/Gamebreaker-Arena-Breakout-Esp
+     📝 Gamebreaker Dark-Peach ESP overlay for Arena Breakout Infinite (kdu BYOVD, panel…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-27 04:12:19 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 21  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, claude-code, codex, firmware-analysis, reverse-engineering
+     🔄 Motivo: repo recente (3gg)
+[2026-09-27 04:12:19 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-27 04:12:19 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-27 04:12:21 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 48 NUOVI repository:
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 saintapp82-stack/saint-web-app
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/saintapp82-stack/saint-web-app
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 spencerawlson/CyberSecurity_Lab
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/spencerawlson/CyberSecurity_Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 mvuq6d7amc/edryib
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/mvuq6d7amc/edryib
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 Croatia-Security/GSecurity-OEM
+     ⭐ 0  🗣 HTML  📅 2026-09-27
+     🔗 https://github.com/Croatia-Security/GSecurity-OEM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 kaushalbhavsar/zeronoise
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/kaushalbhavsar/zeronoise
+     📝 AI Driven SOC Incident Triage System
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Endpoint-Forensics
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/ishandutta2007/Awesome-Endpoint-Forensics
+     📝 Top Endpoint Forensics (Opensource) 🌟 Star if you like it! 🌟
+     🏷  awesome-list, curated-list, dfir, digital-forensics, endpoint-forensics, incident-response
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 jensenjames/edrs
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/jensenjames/edrs
+     📝 content
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 Bibasgautam77/zero-trust-platform
+     ⭐ 0  🗣 Batchfile  📅 2026-09-27
+     🔗 https://github.com/Bibasgautam77/zero-trust-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 wongkatrina28/edrlel
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/wongkatrina28/edrlel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 TwoSevenOneT/InjectSetConsole
+     ⭐ 2  🗣 C++  📅 2026-09-27
+     🔗 https://github.com/TwoSevenOneT/InjectSetConsole
+     📝 Proof of Concept for Process Code Injection Without Using WriteProcessMemory
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 Croatia-Security/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-09-27
+     🔗 https://github.com/Croatia-Security/Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 Croatia-Security/Powershell
+     ⭐ 0  🗣 PowerShell  📅 2026-09-27
+     🔗 https://github.com/Croatia-Security/Powershell
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 Croatia-Security/gorstakssite
+     ⭐ 0  🗣 HTML  📅 2026-09-27
+     🔗 https://github.com/Croatia-Security/gorstakssite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 audrey-dean528p/edrsgh
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/audrey-dean528p/edrsgh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 Croatia-Security/Behavedr
+     ⭐ 0  🗣 C#  📅 2026-09-27
+     🔗 https://github.com/Croatia-Security/Behavedr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 xiaoxiongmao6www/EtwMonitor
+     ⭐ 0  🗣 C  📅 2026-09-27
+     🔗 https://github.com/xiaoxiongmao6www/EtwMonitor
+     📝 Etw/Provider/Controller/Session/Consumer
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 zmyl7u1y58/edrinp
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/zmyl7u1y58/edrinp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 cwuaavwsgp/edrvnc
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/cwuaavwsgp/edrvnc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 labsjackbcc/znkv9r2dq5
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/labsjackbcc/znkv9r2dq5
+     📝 zcqv1kaa你的脸红是什么红：了解玫瑰痤疮yo0aicevv79z
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 labsjackbcc/edl78u
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/labsjackbcc/edl78u
+     📝 v3n02w2dCISA发布"史上最严"漏洞修复指令，AI时代美网络安全规则全面升级【聚合情报】fs43v10oio
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 devmasonjames/1jksy78hk
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/devmasonjames/1jksy78hk
+     📝 xuf5ftam离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新9hlgn070odx
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 devmasonjames/hjichgpr
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/devmasonjames/hjichgpr
+     📝 dfuz79ey[流言板]美媒：哈登无冠是因为没能像韦德那样获得和詹鲨联手机会svnv9btg7s0r
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 devmasonjames/inbua79l
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/devmasonjames/inbua79l
+     📝 x2gh7485重开一本碎碎念日记（奖励自己1毛钱1条）vxzpjfhsxqbu
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 lumenfelixkrf/vpltqs
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/lumenfelixkrf/vpltqs
+     📝 t19265bq被已婚男表白，他是什么心理？sayhi8lie2yc
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 annawilsonpixelyge/h2xhrd31
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/annawilsonpixelyge/h2xhrd31
+     📝 fdwf7rff试完新世代iX3，我发现宝马故意把智驾做反了dibcec3rqemw
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 zhang-guangeah/0sib6usa
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/zhang-guangeah/0sib6usa
+     📝 gxnfihiw露得清超A精华修护赋活抗皱精华a醇10ml 原价¥38.12 券后¥28.12v7mq6h9h0z0
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 herpad04/draio4wq8k
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/herpad04/draio4wq8k
+     📝 vw0sadmzP7试驾感受来了，是真好开nbjdv50uee5l
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 bisabaldev/trlxdq
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/bisabaldev/trlxdq
+     📝 yi00yjry特朗普称已拒绝伊朗提出的霍尔木兹海峡协议 胡塞武装袭击利雅得06jk8819k1hk
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 gemini0ani/w105spjp45
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/gemini0ani/w105spjp45
+     📝 meldzywj高端货这么便宜！！冈本超薄避孕套15片 原价¥44.9 券后¥19.9vvcyy94guvb2
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 gemini0ani/evi7ny
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/gemini0ani/evi7ny
+     📝 tpbllll2HTB-Certificate：从空字节截断到黄金证书2eo6htg36exn
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 gemini0ani/zxp5kjz
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/gemini0ani/zxp5kjz
+     📝 huiqd9ze我的桌面 · iScreen - 桌面小组件主题壁纸vaclg3jidyhk
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 alex-muham/muawo6
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/alex-muham/muawo6
+     📝 5juquoq1EDG回应不敌LOUDqwv6kpjx2as6
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 thampisut67-code/Minecraft-EDR-2.5.0
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/thampisut67-code/Minecraft-EDR-2.5.0
+     📝 This a HTML Minecraft
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 finleygeorge6/edrtos
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/finleygeorge6/edrtos
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 Ceyhun-Kirmizitas/ExchangeServerReadinessCheck.ps1
+     ⭐ 0  🗣 PowerShell  📅 2026-09-26
+     🔗 https://github.com/Ceyhun-Kirmizitas/ExchangeServerReadinessCheck.ps1
+     📝 Read-only PowerShell readiness check for Exchange Server Subscription Edition Ma…
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 lastcrust/edrpog
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/lastcrust/edrpog
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 bob-robertb/edrbso
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/bob-robertb/edrbso
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 plyght/unproc
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/plyght/unproc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 PopShark57/BluetoothInspector
+     ⭐ 0  🗣 Swift  📅 2026-09-26
+     🔗 https://github.com/PopShark57/BluetoothInspector
+     📝 A powerful developer/debugging utility for exploring Bluetooth devices from a Ma…
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 alvarofraguas/EdrShield
+     ⭐ 0  🗣 C  📅 2026-09-26
+     🔗 https://github.com/alvarofraguas/EdrShield
+     📝 Protect your EDR from WFP silencing attacks. Detects and removes hostile WFP fil…
+     🏷  anti-tampering, blue-team, cybersecurity, defender, edr, edr-silencer, endpoint-security, incident-response, microsoft-defender, ransomware-protection, security-tools, threat-detection, wfp, windows-filtering-platform, windows-security
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 FROSTY-MUG/jocky-
+     ⭐ 0  🗣 Rust  📅 2026-09-26
+     🔗 https://github.com/FROSTY-MUG/jocky-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 oussamasaidguerni-cyber/cinder
+     ⭐ 0  🗣 TypeScript  📅 2026-09-26
+     🔗 https://github.com/oussamasaidguerni-cyber/cinder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 danilovida/SOC-CORE
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/danilovida/SOC-CORE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 AnveshShivhare/Detection_Rules
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/AnveshShivhare/Detection_Rules
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 Valera2312/agent_wt_security
+     ⭐ 0  🗣 Go  📅 2026-09-26
+     🔗 https://github.com/Valera2312/agent_wt_security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 calebja/MITRE_ATT-CK_Simulator
+     ⭐ 0  🗣 HTML  📅 2026-09-26
+     🔗 https://github.com/calebja/MITRE_ATT-CK_Simulator
+     📝 [Add Description]
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 zvarnes/moat
+     ⭐ 0  🗣 Shell  📅 2026-09-26
+     🔗 https://github.com/zvarnes/moat
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:21 UTC] [NEW]   🆕 📦 malik-azad/happyhunting
+     ⭐ 0  🗣 N/A  📅 2026-09-26
+     🔗 https://github.com/malik-azad/happyhunting
+     📝 Field notes for offensive security, browser-first where it works. DevTools, web …
+     🏷  active-directory, api-security, application-security, bug-bounty, cheatsheet, cloud-security, containers, cybersecurity, infosec, mit-license, offensive-security, oscp, owasp, penetration-testing, pentesting, pivoting, privilege-escalation, source-code-review, web-security
+[2026-09-27 04:12:21 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-27 04:12:21 UTC] [UPD]   📢 📦 mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-
+     ⭐ 2  🗣 Python  📅 2026-09-22
+     🔗 https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-
+     📝 Zero-downtime Linux kernel zero-day defense case study. For the automated CLI an…
+     🏷  cve, devsecops, ebpf, falco, kernel, linux, security, sre, zero-day
+     🔄 Motivo: repo recente (4gg)
+[2026-09-27 04:12:21 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-27 04:12:21 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-27 04:12:24 UTC] [INFO]   → 26 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-27 04:12:24 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-27 04:12:24 UTC] [NEW]   🆕 📦 halilcinarerdan-debug/vbs_core_matrix
+     ⭐ 0  🗣 N/A  📅 2026-09-27
+     🔗 https://github.com/halilcinarerdan-debug/vbs_core_matrix
+     📝 "FiveM QBCore milsim — gang/police simulation"
+     🏷  —
+[2026-09-27 04:12:24 UTC] [NEW]   🆕 📦 kirklin/mi-qc-unlock
+     ⭐ 0  🗣 Shell  📅 2026-09-27
+     🔗 https://github.com/kirklin/mi-qc-unlock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:24 UTC] [NEW]   🆕 📦 Nitin-0017/AI_HARNESS
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/Nitin-0017/AI_HARNESS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:24 UTC] [NEW]   🆕 📦 GILMARAP/Gilmar-host-ps4
+     ⭐ 0  🗣 Python  📅 2026-09-27
+     🔗 https://github.com/GILMARAP/Gilmar-host-ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-27 04:12:24 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-27 04:12:24 UTC] [UPD]   📢 📦 lee101/mojo-bayesian-optimization
+     ⭐ 0  🗣 Python  📅 2026-09-26
+     🔗 https://github.com/lee101/mojo-bayesian-optimization
+     📝 Mojo port of bayesian-optimization
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-27 04:12:24 UTC] [INFO] ============================================================
+[2026-09-27 04:12:24 UTC] [INFO] Completato — 55 nuovi, 4 aggiornati, 0 errori
+[2026-09-27 04:12:24 UTC] [INFO] ============================================================
