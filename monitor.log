@@ -99077,3 +99077,341 @@
 [2026-09-29 04:45:25 UTC] [INFO] ============================================================
 [2026-09-29 04:45:25 UTC] [INFO] Completato — 45 nuovi, 5 aggiornati, 0 errori
 [2026-09-29 04:45:25 UTC] [INFO] ============================================================
+[2026-09-29 12:19:21 UTC] [INFO] ============================================================
+[2026-09-29 12:19:21 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-29 12:19:21 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-29 12:19:21 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-29 12:19:21 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-29 12:19:21 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-29 12:19:21 UTC] [INFO] ============================================================
+[2026-09-29 12:19:21 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-29 12:19:21 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-29 12:19:22 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-29 12:19:22 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-29 12:19:22 UTC] [NEW]   🆕 📦 oluwatosinogunjimi/soc-triage-trees
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/oluwatosinogunjimi/soc-triage-trees
+     📝 Investigation Guide for SOC Alert Use Cases
+     🏷  alert-triage, incident-response, kql, kql-queries, security, soc
+[2026-09-29 12:19:22 UTC] [NEW]   🆕 📦 Tapan3011/JOCKY-forensics
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Tapan3011/JOCKY-forensics
+     📝 AI-powered Digital Forensics & Threat Investigation Platform for endpoint, memor…
+     🏷  —
+[2026-09-29 12:19:22 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-29 12:19:22 UTC] [UPD]   📢 📦 Santoshi-220430/ntro-cyber-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-28
+     🔗 https://github.com/Santoshi-220430/ntro-cyber-forensics
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-29 12:19:22 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  cyber-security, digital
+     🔄 Motivo: repo recente (6gg) | nuovi topic: digital, cyber-security
+[2026-09-29 12:19:22 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-29 12:19:22 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-29 12:19:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 Laurenenderson/edrsz5vx9
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/Laurenenderson/edrsz5vx9
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 hassanali-30/SentinelXDR-Endpoint-Detection-Response
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/hassanali-30/SentinelXDR-Endpoint-Detection-Response
+     📝 Defensive XDR platform for endpoint monitoring, file integrity, Sigma detection,…
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 hassanali-30/SOAR-Playbook-Auto-Response
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/hassanali-30/SOAR-Playbook-Auto-Response
+     📝 Defensive SOAR playbook engine for automated security response, featuring event …
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 hemotionshub-web/Hemotionshub-Web
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/hemotionshub-web/Hemotionshub-Web
+     📝 About me
+     🏷  readme, readme-badges, readme-card, readme-generator, readme-md, readme-only, readme-profile, readme-stats, readme-template
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 nolliebigspin/awake
+     ⭐ 0  🗣 Rust  📅 2026-09-29
+     🔗 https://github.com/nolliebigspin/awake
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab
+     ⭐ 0  🗣 PowerShell  📅 2026-09-29
+     🔗 https://github.com/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 Ruby570bocadito/security-framework
+     ⭐ 0  🗣 TypeScript  📅 2026-09-29
+     🔗 https://github.com/Ruby570bocadito/security-framework
+     📝 Real-time Windows threat detection framework: Rust ETW sensor, Go behavioral eng…
+     🏷  edr, etw, go, mitre-attack, nextjs, rust, threat-detection, windows
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 jerrellautdbq/vn4edrmyzhtz
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/jerrellautdbq/vn4edrmyzhtz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 RECEIPT-AND-PAYMENT-CONFIRMATION-asdb/repo-edr5bfw6
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/RECEIPT-AND-PAYMENT-CONFIRMATION-asdb/repo-edr5bfw6
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 Taylor778638/n1gj26m8edrs
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/Taylor778638/n1gj26m8edrs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 HARSHPANWAR0406/EDR-Detection-and-Incident-Response-Lab
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/HARSHPANWAR0406/EDR-Detection-and-Incident-Response-Lab
+     📝 Hands-on Blue Team EDR lab covering Windows endpoint monitoring, Sysmon telemetr…
+     🏷  atomic-red-team, blue-team, detection-engineering, edr, endpoint-detection, incident-response, limacharlie, mitre-attack, soc, sysmon, threat-hunting, windows-security
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 ben-perrus/edrmb
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/ben-perrus/edrmb
+     📝 content
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 swamy8055/zero-trust-ransomware-soc
+     ⭐ 0  🗣 Shell  📅 2026-09-29
+     🔗 https://github.com/swamy8055/zero-trust-ransomware-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 teamquadforge/TFG_David
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/teamquadforge/TFG_David
+     📝 Mini-SIEM Sentinel, a lightweight SIEM/EDR platform designed for personal securi…
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 BexlBailey12/payment-center-edr6ut
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/BexlBailey12/payment-center-edr6ut
+     📝 X-Git Pro
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 oluwatosinogunjimi/soc-triage-trees
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/oluwatosinogunjimi/soc-triage-trees
+     📝 Investigation Guide for SOC Alert Use Cases
+     🏷  alert-triage, incident-response, kql, kql-queries, security, soc
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 RECEIPT-AND-PAYMENT-CONFIRMATION-zdfnd/repo-edr53gxi
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/RECEIPT-AND-PAYMENT-CONFIRMATION-zdfnd/repo-edr53gxi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 vergiequibc/edrhkwib
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/vergiequibc/edrhkwib
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 FXEmma/goy-cybersecurity-policy
+     ⭐ 0  🗣 N/A  📅 2026-09-28
+     🔗 https://github.com/FXEmma/goy-cybersecurity-policy
+     📝 Cybersecurity policy draft for GOY Foundation assessment
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 actions-marketplace-validations/AETHERXGLOBAL_execsurface
+     ⭐ 0  🗣 Rust  📅 2026-09-29
+     🔗 https://github.com/actions-marketplace-validations/AETHERXGLOBAL_execsurface
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 Anamica105/ThreatLens
+     ⭐ 0  🗣 Python  📅 2026-09-28
+     🔗 https://github.com/Anamica105/ThreatLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Drilling-Operations
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/ishandutta2007/Awesome-Drilling-Operations
+     📝 Top Drilling Operations (Opensource) 🌟 Star if you like it! 🌟
+     🏷  awesome-list, curated-list, directional-drilling, drilling-operations, petroleum-engineering, well-planning, witsml
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 BiboCat/HUST-CSE-cybersecurity-practice-3
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/BiboCat/HUST-CSE-cybersecurity-practice-3
+     📝 华中科技大学网络空间安全学院《网络安全综合实践三》练习记录与学习笔记（Writeup / 复现脚本 / 知识点速查）
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 ali-aldawsari/elastic-EDR-SIEM-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/ali-aldawsari/elastic-EDR-SIEM-lab
+     📝 Elastic EDR/SIEM Home Lab – Endpoint Monitoring, Detection and Investigation
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 WayToWild/fsl-master
+     ⭐ 0  🗣 PowerShell  📅 2026-09-29
+     🔗 https://github.com/WayToWild/fsl-master
+     📝 fsl-master
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 MiniMe-bit/blindspot
+     ⭐ 0  🗣 TypeScript  📅 2026-09-28
+     🔗 https://github.com/MiniMe-bit/blindspot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 girishm03/SOC-Dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/girishm03/SOC-Dashboard
+     📝 Enterprise-style SOC dashboard built with React, Vite and Python FastAPI. Featur…
+     🏷  cybersecurity, edr, fastapi, incident-response, mitre-attack, python, react, response, security-dashboard, security-operations, soar, soc, threat-intelligence, vite, websocket
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 epbaskar26/StoryLine
+     ⭐ 0  🗣 TypeScript  📅 2026-09-28
+     🔗 https://github.com/epbaskar26/StoryLine
+     📝 A tool that generates graphs from the raw events
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 MANOFHATERS/sentinel-mesh
+     ⭐ 0  🗣 Python  📅 2026-09-28
+     🔗 https://github.com/MANOFHATERS/sentinel-mesh
+     📝 An autonomous, agentic security operations platform for the mid-market and the M…
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 ItsmeKC/portfolio
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/ItsmeKC/portfolio
+     📝 "Personal portfolio website of Karan Chawla — Cybersecurity Analyst | SOC Operat…
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 yuaaron9/edrwry
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/yuaaron9/edrwry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 arya89mishra/cybersecurity-90day-course
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/arya89mishra/cybersecurity-90day-course
+     📝 Complete 90-day beginner cybersecurity learning course with study plan, resource…
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 wildjaypa/edru
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/wildjaypa/edru
+     📝 content
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 sunies/HarnessSentry
+     ⭐ 0  🗣 Swift  📅 2026-09-29
+     🔗 https://github.com/sunies/HarnessSentry
+     📝 A lightweight, local-first macOS audit tool for AI coding agents and harnesses.
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 cmlopes009/edryu
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/cmlopes009/edryu
+     📝 content
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 7uckzero/ExInjectSetConsole
+     ⭐ 0  🗣 C++  📅 2026-09-29
+     🔗 https://github.com/7uckzero/ExInjectSetConsole
+     📝 Extension for InjectSetConsole. Console named-pipe injection PoC: writes an enco…
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 alertesmeteo-hub/harmonie-dmi-2km
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/alertesmeteo-hub/harmonie-dmi-2km
+     📝 HARMONIE DINI (DMI Danemark) 2 km - departement 66 (Pyrenees-Orientales) - compl…
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 qkf0udpvz1/edrujs
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/qkf0udpvz1/edrujs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 crisp-timber48/edrr
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/crisp-timber48/edrr
+     📝 content
+     🏷  —
+[2026-09-29 12:19:25 UTC] [NEW]   🆕 📦 USONDIG/MCP_GLPI
+     ⭐ 0  🗣 Python  📅 2026-09-28
+     🔗 https://github.com/USONDIG/MCP_GLPI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:25 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-09-29 12:19:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-29 12:19:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-29 12:19:27 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 vn-envy/Agentfence
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/vn-envy/Agentfence
+     📝 Give your agents a secured boundary
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 PSH5JB/PSH5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/PSH5JB/PSH5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 Slxcky-1/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Slxcky-1/Relapse-Exploit
+     📝 PS5 Host
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 HuertasRacing/ps5-webkit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/HuertasRacing/ps5-webkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 CielWhat/ps5-webkit-autoloader-13x
+     ⭐ 1  🗣 C  📅 2026-09-29
+     🔗 https://github.com/CielWhat/ps5-webkit-autoloader-13x
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 aniketlab/POCO-M7-Plus-Jailbreak
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/aniketlab/POCO-M7-Plus-Jailbreak
+     📝 Temporary Root Research on Poco M7 Plus (SM6375) via Qualcomm GBL Exploit (CVE-2…
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 ManoharPadul/ps5-relapse-autoloader
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/ManoharPadul/ps5-relapse-autoloader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 newlifeisp2014/ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/newlifeisp2014/ps5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 wckdboy/omnie
+     ⭐ 0  🗣 Python  📅 2026-09-28
+     🔗 https://github.com/wckdboy/omnie
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 ebo-gc/5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/ebo-gc/5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 Ziko000/1360
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Ziko000/1360
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 NIKILJ278/yescro
+     ⭐ 0  🗣 TypeScript  📅 2026-09-29
+     🔗 https://github.com/NIKILJ278/yescro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 Github-Suriya/ps5-jb
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Github-Suriya/ps5-jb
+     📝 PS5 Exploit chain for PS5 7.00 - 13.60, credits: https://github.com/ntfargo/Rela…
+     🏷  exploit, kernel, ps5, webkit
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 ad1tyxr/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/ad1tyxr/Relapse-Exploit
+     📝 https://ad1tyxr.github.io/Relapse-Exploit/
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 soniciso1/relapse-dev
+     ⭐ 4  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/soniciso1/relapse-dev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 soniciso1/relapse
+     ⭐ 4  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/soniciso1/relapse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 12:19:27 UTC] [NEW]   🆕 📦 amine2-a11y/Ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/amine2-a11y/Ps5
+     📝 Ps5
+     🏷  —
+[2026-09-29 12:19:27 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-29 12:19:27 UTC] [UPD]   📢 📦 MuzraFatima/jocky-forensics
+     ⭐ 0  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/MuzraFatima/jocky-forensics
+     📝 JOCKY — A Domain-Specific Digital Forensic Investigation Framework
+     🏷  cyber-security, digital
+     🔄 Motivo: repo recente (6gg) | nuovi topic: digital, cyber-security
+[2026-09-29 12:19:27 UTC] [INFO] ============================================================
+[2026-09-29 12:19:27 UTC] [INFO] Completato — 59 nuovi, 3 aggiornati, 0 errori
+[2026-09-29 12:19:27 UTC] [INFO] ============================================================
