@@ -99415,3 +99415,516 @@
 [2026-09-29 12:19:27 UTC] [INFO] ============================================================
 [2026-09-29 12:19:27 UTC] [INFO] Completato — 59 nuovi, 3 aggiornati, 0 errori
 [2026-09-29 12:19:27 UTC] [INFO] ============================================================
+[2026-09-29 21:58:45 UTC] [INFO] ============================================================
+[2026-09-29 21:58:45 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-29 21:58:45 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-29 21:58:45 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-29 21:58:45 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-29 21:58:45 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-29 21:58:45 UTC] [INFO] ============================================================
+[2026-09-29 21:58:45 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-29 21:58:45 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-29 21:58:47 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-29 21:58:47 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-29 21:58:47 UTC] [NEW]   🆕 📦 adityakumar933046-art/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/adityakumar933046-art/JOCKY
+     📝 programming
+     🏷  —
+[2026-09-29 21:58:47 UTC] [NEW]   🆕 📦 TusharSingh14x/sih-01
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/TusharSingh14x/sih-01
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:47 UTC] [NEW]   🆕 📦 samyuthasankar07-ctrl/jocky
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/samyuthasankar07-ctrl/jocky
+     📝 JOCKY is a modular Digital Forensics & Incident Response (DFIR) platform for aut…
+     🏷  —
+[2026-09-29 21:58:47 UTC] [NEW]   🆕 📦 codernoahx/jocky
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/codernoahx/jocky
+     📝 JOCKY is a small, cross-platform defensive DSL prototype for computer/network fo…
+     🏷  —
+[2026-09-29 21:58:47 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-29 21:58:47 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-29 21:58:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-29 21:58:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-29 21:58:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 45 NUOVI repository:
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 mary-ekwughaonu/lightweight-edr-agent
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/mary-ekwughaonu/lightweight-edr-agent
+     📝 Lightweight EDR Prototype using Machine Learning (CNN + Random Forest
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 harryroger798/threatlens-backend
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/harryroger798/threatlens-backend
+     📝 ThreatLens CTI API — FastAPI (Sentinova Security Systems)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 ijlalhaider313/shroud
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/ijlalhaider313/shroud
+     📝 Python EDR-bypass payload generator with AV-evasion techniques and process-injec…
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 ijlalhaider313/shroud-go
+     ⭐ 0  🗣 Go  📅 2026-09-29
+     🔗 https://github.com/ijlalhaider313/shroud-go
+     📝 Pure-Go EDR-bypass process-injection payload generator with multi-format deliver…
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 hardynetworks/hardy-rmm
+     ⭐ 0  🗣 Go  📅 2026-09-29
+     🔗 https://github.com/hardynetworks/hardy-rmm
+     📝 Self-hosted RMM: Docker, Authentik SSO, remote control for Windows/macOS/Linux
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 rajsaurabh1000/frankenstein-threat-command-center
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/rajsaurabh1000/frankenstein-threat-command-center
+     📝 Threat Command Center — Palo Alto Networks Application Engineer challenge (Proje…
+     🏷  aspnet-core, cybersecurity, demo-engineering, fastapi, palo-alto-networks, powershell, soc-dashboard, threat-detection, vuejs, websocket
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 vincenttardieu/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/vincenttardieu/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 CyberTapSolutions/detection-engineering-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/CyberTapSolutions/detection-engineering-portfolio
+     📝 Hands on detection engineering portfolio focused on KQL, threat hunting, MITRE A…
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 mahmoudsalman158/CyberForge-RedTeam-Roadmap
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/mahmoudsalman158/CyberForge-RedTeam-Roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 adityakumar933046-art/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/adityakumar933046-art/JOCKY
+     📝 programming
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 orospor/OroResea
+     ⭐ 0  🗣 Rust  📅 2026-09-29
+     🔗 https://github.com/orospor/OroResea
+     📝 Read-only Windows capture-protection capability and process-posture analyzer
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cloud-Detection-n-Response
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/ishandutta2007/Awesome-Cloud-Detection-n-Response
+     📝 Top Cloud Detection & Response (CDR) (Opensource) 🌟 Star if you like it! 🌟
+     🏷  awesome-list, cloud-detection-and-response, cloud-forensics, cloud-security, curated-list, threat-detection
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 divyaa-26/bust-detection
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/divyaa-26/bust-detection
+     📝 Forecast Reliability Intelligence & Decision-Support System for Medium-Range Wea…
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 ToposHub/topos-calibrator
+     ⭐ 1  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/ToposHub/topos-calibrator
+     📝 Cross-platform display calibration and measurement software for macOS, Windows, …
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 KyeiEdwin/Edron-CRM-System
+     ⭐ 0  🗣 PHP  📅 2026-09-29
+     🔗 https://github.com/KyeiEdwin/Edron-CRM-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 Cyber-Ninja-29/Agentic-SOC
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/Cyber-Ninja-29/Agentic-SOC
+     📝 Agentic Security Operations Center
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 ambaward/edrg
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/ambaward/edrg
+     📝 content
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 mjvmsteixeira/wazuh-community-rulesets
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/mjvmsteixeira/wazuh-community-rulesets
+     📝 Registry of community Wazuh rules and decoders, validated on a real manager, wit…
+     🏷  blue-team, detection-rules, mitre-attack, siem, sigma, wazuh, wazuh-decoders, wazuh-rules
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 shammitbm1800-lgtm/Cyber-Defence-Platform
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/shammitbm1800-lgtm/Cyber-Defence-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 ZetoZeto/security-writeups
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/ZetoZeto/security-writeups
+     📝 TryHackMe / Hack The Box lab write-ups, penetration-test reports & methodology.
+     🏷  ctf-writeups, cybersecurity, hackthebox, offensive-security, penetration-testing, purple-team, tryhackme, web-security
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 ayyappan04/teg-loop-simulator-
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/ayyappan04/teg-loop-simulator-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 MaksimOrekhov/manamind
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/MaksimOrekhov/manamind
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 webhunter-navrhy/sk-reality-edrey-real-estate
+     ⭐ 0  🗣 CSS  📅 2026-09-29
+     🔗 https://github.com/webhunter-navrhy/sk-reality-edrey-real-estate
+     📝 Nezávazný návrh prezentace nemovitosti (Web Hunter)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 sharon-sylvester/Burnalong-Incident-Response-Review
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/sharon-sylvester/Burnalong-Incident-Response-Review
+     📝 Team cybersecurity project analyzing a simulated security incident, incident res…
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 Mirikashit222/edrxodopl
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/Mirikashit222/edrxodopl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 Mohammed-Abdo-Edries/Mohammed-Abdo-Edries
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/Mohammed-Abdo-Edries/Mohammed-Abdo-Edries
+     📝 Junior Full-Stack Developer | React • Next.js • Node.js
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 RedTeamMatrix/ScreenConnect-MSI-Infrastructure-Analysis
+     ⭐ 1  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/RedTeamMatrix/ScreenConnect-MSI-Infrastructure-Analysis
+     📝 ScreenConnect MSI case study: delivery infrastructure, configured relay, public …
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 amabro07/amabro07
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/amabro07/amabro07
+     📝 Senior Network & Security Engineer
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 Chankrish7274/rohindportfolio
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/Chankrish7274/rohindportfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 sadhna1118/SentinelSOC
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/sadhna1118/SentinelSOC
+     📝 SentinelSOC Threat Detection Platform
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 SNischayPrasad/Cybersecurity-Awareness-Threat-Intelligence-Dashboard
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/SNischayPrasad/Cybersecurity-Awareness-Threat-Intelligence-Dashboard
+     📝 Defensive cybersecurity dashboard combining threat intelligence, IOC analysis, r…
+     🏷  cti, cybersecurity, defensive-security, flask, incident-response, ioc, mitre-attack, python, security-analytics, security-awareness, soc, threat-intelligence, vulnerability-management
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 kobepkr/SOC-L1-Pilares.md
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/kobepkr/SOC-L1-Pilares.md
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 M7MD-2030/WinVault
+     ⭐ 1  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/M7MD-2030/WinVault
+     📝 WinVault — Digital Evidence & Forensic Analysis: security-focused change analysi…
+     🏷  blue-team, dfir, digital-forensics, incident-response, python, windows
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 lunetico/GraphrunnerContainerized
+     ⭐ 0  🗣 PowerShell  📅 2026-09-29
+     🔗 https://github.com/lunetico/GraphrunnerContainerized
+     📝 Containerized port of Graphrunner to get around EDR limitations
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 HimanshuPatil2001/Teams-Green
+     ⭐ 0  🗣 C#  📅 2026-09-29
+     🔗 https://github.com/HimanshuPatil2001/Teams-Green
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 Major-Woolfi/XHeadphones
+     ⭐ 1  🗣 Shell  📅 2026-09-28
+     🔗 https://github.com/Major-Woolfi/XHeadphones
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 d3lightfu1/QuietPhase
+     ⭐ 0  🗣 PowerShell  📅 2026-09-29
+     🔗 https://github.com/d3lightfu1/QuietPhase
+     📝 Pwsh tool for AD Group Enumeration Auditing
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 YpCIIIaK/cyber-sec
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/YpCIIIaK/cyber-sec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 panchalkrish2566-sys/cybersoc
+     ⭐ 0  🗣 PHP  📅 2026-09-29
+     🔗 https://github.com/panchalkrish2566-sys/cybersoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 rustedtrust/Tori-LocalAI
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/rustedtrust/Tori-LocalAI
+     📝 Local-first AI companion for Linux (early public preview)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 jhonmee/soc-screens
+     ⭐ 0  🗣 C#  📅 2026-09-29
+     🔗 https://github.com/jhonmee/soc-screens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 jaguark11/AEGIS-OMEGA
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/jaguark11/AEGIS-OMEGA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 Vishallakshmikanthan/security-monitoring-log-analysis
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/Vishallakshmikanthan/security-monitoring-log-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 tobit6795/pico2w-bt-hid-bridge
+     ⭐ 0  🗣 C++  📅 2026-09-29
+     🔗 https://github.com/tobit6795/pico2w-bt-hid-bridge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [NEW]   🆕 📦 edraweducation/Edraweducation.github.io
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/edraweducation/Edraweducation.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:49 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-29 21:58:49 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-29 21:58:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-29 21:58:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-29 21:58:51 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 45 NUOVI repository:
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 icebear-jsph/icebearPS5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/icebear-jsph/icebearPS5
+     📝 icebearPS5
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 MidgetHD/Relapse-Exploit-Before
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/MidgetHD/Relapse-Exploit-Before
+     📝 Self-hosted PS5 Relapse R2 payload build for 13.40 with Kstuff-lite, ShadowMount…
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 muhammad10yaser/exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/muhammad10yaser/exploit
+     📝 PS5 7.00 - 13.60 Relapse exploit
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 KhaiB10/sandbox-run
+     ⭐ 0  🗣 Shell  📅 2026-09-29
+     🔗 https://github.com/KhaiB10/sandbox-run
+     📝 Run code you don't trust walled off from your Linux machine — no Docker, no VM, …
+     🏷  ai-agents, linux, sandbox, security, systemd
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 booth0/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/booth0/Relapse-Exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 susinodevelop/ps5-hack
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/susinodevelop/ps5-hack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 ailapalma/ps5host
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/ailapalma/ps5host
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 akin-ozer/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/akin-ozer/Relapse-Exploit
+     📝 Testing mirror of ntfargo/Relapse-Exploit at commit 09f10f5
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 Peaceatdeath/RP
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Peaceatdeath/RP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 Dhivya159/PS5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Dhivya159/PS5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 Emanuel2025/proyecto
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Emanuel2025/proyecto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 CGhxst/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/CGhxst/Relapse-Exploit
+     📝 PS5 Relapse Exploit (Firmware 7.00 - 13.60)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 RedShotSh/RLWebkit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/RedShotSh/RLWebkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 keanetheys2007-sketch/Relapse-Exploit-main
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/keanetheys2007-sketch/Relapse-Exploit-main
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 fs0ciety404/ps5-relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/fs0ciety404/ps5-relapse
+     📝 PS5 Relapse Exploit Host
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 bdblackhathacker/bdblackhathacker
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/bdblackhathacker/bdblackhathacker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 soubhikRoy/ps5-relapse-exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/soubhikRoy/ps5-relapse-exploit
+     📝 Exploit chain for PS5 firmware versions 7.00 to 13.60
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 nabileoffice/nabileoffice.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/nabileoffice/nabileoffice.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 mohammedaminA/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/mohammedaminA/Relapse-Exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 Caiozed/relapse-exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Caiozed/relapse-exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 Techland010/Ps55
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Techland010/Ps55
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 debal007/web2-assets-test
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/debal007/web2-assets-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 dimbinirina/multiPS5_13.60
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/dimbinirina/multiPS5_13.60
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 mahmoudbile-sudo/albialle-ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/mahmoudbile-sudo/albialle-ps5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 JustMulti/Relapse-PS5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/JustMulti/Relapse-PS5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 abdo03lm/abdo03
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/abdo03lm/abdo03
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 M7Nagi/PS5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/M7Nagi/PS5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 senator985/j5-7-13
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/senator985/j5-7-13
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 kshlsmac/ps5jb-backup
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/kshlsmac/ps5jb-backup
+     📝 just a backup
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 ahmedishtar/55
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/ahmedishtar/55
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 Ahmedsss-Sketch/13.00
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Ahmedsss-Sketch/13.00
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 salehlibya/steam-relapse
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/salehlibya/steam-relapse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 endlessAG/ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/endlessAG/ps5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 Roshan-859/GAMER
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Roshan-859/GAMER
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 YAh3y/ps5-13
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/YAh3y/ps5-13
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 YAh3y/ps55
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/YAh3y/ps55
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 madanisora/Security-learning-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/madanisora/Security-learning-roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 ALSHD3D/Windows-Privilege-Escalation
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/ALSHD3D/Windows-Privilege-Escalation
+     📝 A practical Windows privilege escalation knowledge base covering enumeration, te…
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 XandaoTP/exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/XandaoTP/exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 aaryan2720/JOCKY
+     ⭐ 0  🗣 TypeScript  📅 2026-09-28
+     🔗 https://github.com/aaryan2720/JOCKY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 gamescash/99
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/gamescash/99
+     📝 PS5
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 amarko18/ps51360
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/amarko18/ps51360
+     📝 تعديل ps5 من PS5 7.00 - 13.60
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 nikhilanand0105/Code-Runner-as-a-Service
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/nikhilanand0105/Code-Runner-as-a-Service
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 UBISOFT4GAME/all1360
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/UBISOFT4GAME/all1360
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [NEW]   🆕 📦 hayesmarkjoe/Docker-Security-Sandbox
+     ⭐ 1  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/hayesmarkjoe/Docker-Security-Sandbox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-29 21:58:51 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-29 21:58:51 UTC] [UPD]   📢 📦 amine2-a11y/Ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/amine2-a11y/Ps5
+     📝 Ps5
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-29 21:58:51 UTC] [INFO] ============================================================
+[2026-09-29 21:58:51 UTC] [INFO] Completato — 94 nuovi, 3 aggiornati, 0 errori
+[2026-09-29 21:58:51 UTC] [INFO] ============================================================
