@@ -99928,3 +99928,293 @@
 [2026-09-29 21:58:51 UTC] [INFO] ============================================================
 [2026-09-29 21:58:51 UTC] [INFO] Completato — 94 nuovi, 3 aggiornati, 0 errori
 [2026-09-29 21:58:51 UTC] [INFO] ============================================================
+[2026-09-30 04:30:41 UTC] [INFO] ============================================================
+[2026-09-30 04:30:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-30 04:30:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-30 04:30:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-30 04:30:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-30 04:30:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-30 04:30:41 UTC] [INFO] ============================================================
+[2026-09-30 04:30:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-30 04:30:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-30 04:30:43 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-30 04:30:43 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-09-30 04:30:43 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-30 04:30:43 UTC] [UPD]   📢 📦 adityakumar933046-art/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/adityakumar933046-art/JOCKY
+     📝 programming
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 04:30:43 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-09-30 04:30:43 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 47  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, claude-code, codex, decompiler, diffing, disassembler, educational, firmware-analysis, open-source, reverse-engineering
+     🔄 Motivo: repo recente (6gg)
+[2026-09-30 04:30:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-30 04:30:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-30 04:30:45 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 merteng/edru
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/merteng/edru
+     📝 content
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 iBlameAdithya/SAT-SA
+     ⭐ 0  🗣 TypeScript  📅 2026-09-30
+     🔗 https://github.com/iBlameAdithya/SAT-SA
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 burleichel/edrdh
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/burleichel/edrdh
+     📝 content
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 jaiabishek90/sysadmin
+     ⭐ 0  🗣 PowerShell  📅 2026-09-30
+     🔗 https://github.com/jaiabishek90/sysadmin
+     📝 Sys@dmin v4.5.1 — Windows Endpoint Diagnostics Console
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 Mo3lmOO/Mo3lmOO
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Mo3lmOO/Mo3lmOO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 Riley-Lon/SignalScopeAI
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/Riley-Lon/SignalScopeAI
+     📝 AI-assisted security investigation platform for detecting, correlating, and inve…
+     🏷  artificial-intelligence, cybersecurity, incident-response, mitre-attack, python, security-analytics, streamlit, threat-intelligence
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 nixfred/lamplight
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/nixfred/lamplight
+     📝 Drive a fleet of Govee lights from Omarchy. They always wear the active theme; n…
+     🏷  govee, hyprland, linux, omarchy, quickshell, smart-home
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 varunteja75/CyberGuard-Memory-Augmented-AI-Incident-Response-Platform
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/varunteja75/CyberGuard-Memory-Augmented-AI-Incident-Response-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 jeamf/alert-triage-api
+     ⭐ 0  🗣 C#  📅 2026-09-30
+     🔗 https://github.com/jeamf/alert-triage-api
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 MiSFiT-SeCuRiTY/FileSurge
+     ⭐ 0  🗣 C#  📅 2026-09-30
+     🔗 https://github.com/MiSFiT-SeCuRiTY/FileSurge
+     📝 File Surge is a powerful Windows-based file pumper designed to increase the size…
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Drilling-Operations-Management
+     ⭐ 1  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/ishandutta2007/Awesome-Drilling-Operations-Management
+     📝 Top Drilling Operations Management (Opensource) 🌟 Star if you like it! 🌟
+     🏷  awesome-list, curated-list, drilling-operations, oil-and-gas, petroleum-engineering, well-planning
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 phyllis-chubbs183h/edrpvo
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/phyllis-chubbs183h/edrpvo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 wjohnson-jefferyo/edrdcc
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/wjohnson-jefferyo/edrdcc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 kqnqbkgnl8/edrjzc
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/kqnqbkgnl8/edrjzc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 anothermallar/edrrrd
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/anothermallar/edrrrd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 RSelvidge/securetrustcyber.com
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/RSelvidge/securetrustcyber.com
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 Chabrel/allama
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/Chabrel/allama
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 sujalrao061/traceguard
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/sujalrao061/traceguard
+     📝 Privacy-first cybersecurity investigation portfolio lab with evidence-first dete…
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 badboycxcc/Tasklist
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/badboycxcc/Tasklist
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 glumcorps/utv-edrcm
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/glumcorps/utv-edrcm
+     📝 Batch created
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 sekahutson09-boop/sekahutson09-boop
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/sekahutson09-boop/sekahutson09-boop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 LogNinja-00/SOC-Notes
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/LogNinja-00/SOC-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 zevo-enterprise/zevo-deepdriveness
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/zevo-enterprise/zevo-deepdriveness
+     📝 Zevo AI-Driven Application Services
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 ayadmrmyadhmr-alt/AutoCopyDark
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/ayadmrmyadhmr-alt/AutoCopyDark
+     📝 AutocopyDark
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 clanker25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/clanker25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 ayadmrmyadhmr-alt/mapcopyspamdark
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/ayadmrmyadhmr-alt/mapcopyspamdark
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 0xsimple0x/SimpleGrab
+     ⭐ 3  🗣 C++  📅 2026-09-29
+     🔗 https://github.com/0xsimple0x/SimpleGrab
+     📝 Windows credential & session harvester — steals what MFA can't protect. 39 brows…
+     🏷  —
+[2026-09-30 04:30:45 UTC] [NEW]   🆕 📦 JesusBastidas777/PROJECT-2-SOC
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/JesusBastidas777/PROJECT-2-SOC
+     📝 Security Operations Center prototype designed for investigation, detection, aler…
+     🏷  —
+[2026-09-30 04:30:45 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-30 04:30:45 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-30 04:30:45 UTC] [UPD]   📢 📦 adityakumar933046-art/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/adityakumar933046-art/JOCKY
+     📝 programming
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 04:30:45 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-30 04:30:45 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-30 04:30:47 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 13 NUOVI repository:
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 ThisIsAkill/PuckbridgePS5
+     ⭐ 0  🗣 C  📅 2026-09-30
+     🔗 https://github.com/ThisIsAkill/PuckbridgePS5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 md99z/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/md99z/Relapse-Exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 EmoticonYT/Relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/EmoticonYT/Relapse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 flex36ty/ps5-relapse-selfhost
+     ⭐ 1  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/flex36ty/ps5-relapse-selfhost
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 alex303steiger/Relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/alex303steiger/Relapse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 muruxxd13/muruverse_ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/muruxxd13/muruverse_ps5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 falconpsn/ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/falconpsn/ps5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 keyarr/aquaman-pi2055-research
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/keyarr/aquaman-pi2055-research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 cipfes/hi
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/cipfes/hi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 AnubisHRG/ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/AnubisHRG/ps5
+     📝 PS5 Jailbreak
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 darkxex/ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/darkxex/ps5
+     📝 exploit 13.60
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 YAh3y/ps5-130
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/YAh3y/ps5-130
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 04:30:47 UTC] [NEW]   🆕 📦 evilbuddha99/Relapse-Exploit
+     ⭐ 0  🗣 N/A  📅 2026-09-29
+     🔗 https://github.com/evilbuddha99/Relapse-Exploit
+     📝 Exploit chain for PS5 7.00 - 13.60
+     🏷  —
+[2026-09-30 04:30:47 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-09-30 04:30:47 UTC] [UPD]   📢 📦 aaryan2720/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-09-28
+     🔗 https://github.com/aaryan2720/JOCKY
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-30 04:30:47 UTC] [UPD]   📢 📦 ManoharPadul/ps5-relapse-autoloader
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/ManoharPadul/ps5-relapse-autoloader
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 04:30:47 UTC] [UPD]   📢 📦 muhammad10yaser/exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/muhammad10yaser/exploit
+     📝 PS5 7.00 - 13.60 Relapse exploit
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 04:30:47 UTC] [UPD]   📢 📦 fs0ciety404/ps5-relapse
+     ⭐ 1  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/fs0ciety404/ps5-relapse
+     📝 PS5 Relapse Exploit Host
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 04:30:47 UTC] [UPD]   📢 📦 susinodevelop/ps5-hack
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/susinodevelop/ps5-hack
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 04:30:47 UTC] [INFO] ============================================================
+[2026-09-30 04:30:47 UTC] [INFO] Completato — 41 nuovi, 10 aggiornati, 0 errori
+[2026-09-30 04:30:47 UTC] [INFO] ============================================================
