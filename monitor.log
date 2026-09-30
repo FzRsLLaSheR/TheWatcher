@@ -100546,3 +100546,356 @@
 [2026-09-30 12:05:00 UTC] [INFO] ============================================================
 [2026-09-30 12:05:00 UTC] [INFO] Completato — 51 nuovi, 8 aggiornati, 0 errori
 [2026-09-30 12:05:00 UTC] [INFO] ============================================================
+[2026-09-30 21:57:39 UTC] [INFO] ============================================================
+[2026-09-30 21:57:39 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-30 21:57:39 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-30 21:57:39 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-30 21:57:39 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-30 21:57:39 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-30 21:57:39 UTC] [INFO] ============================================================
+[2026-09-30 21:57:39 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-30 21:57:39 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-30 21:57:41 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-30 21:57:41 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-09-30 21:57:41 UTC] [NEW]   🆕 📦 ShraddhaRathore28/JOCKY-X
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/ShraddhaRathore28/JOCKY-X
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:41 UTC] [NEW]   🆕 📦 Nightvex-Labs/Gamebreaker-Delta-Force-Esp
+     ⭐ 0  🗣 C++  📅 2026-09-30
+     🔗 https://github.com/Nightvex-Labs/Gamebreaker-Delta-Force-Esp
+     📝 Spectra-Dark ESP overlay for Delta Force (kdu BYOVD, Unicorn FEncVector decrypt,…
+     🏷  —
+[2026-09-30 21:57:41 UTC] [NEW]   🆕 📦 OM2304/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/OM2304/JOCKY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:41 UTC] [NEW]   🆕 📦 Suryaprakashyadav135/jocky-forensic-framework
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/Suryaprakashyadav135/jocky-forensic-framework
+     📝 JOCKY — Next-Gen Forensic Framework for Protected Endpoints (SIH 26148)
+     🏷  —
+[2026-09-30 21:57:41 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-30 21:57:41 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 51  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, claude-code, codex, decompiler, diffing, disassembler, educational, firmware-analysis, open-source, reverse-engineering
+     🔄 Motivo: repo recente (7gg)
+[2026-09-30 21:57:41 UTC] [UPD]   📢 📦 oluwatosinogunjimi/soc-triage-trees
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/oluwatosinogunjimi/soc-triage-trees
+     📝 Investigation Guide for SOC Alert Use Cases
+     🏷  alert-triage, incident-response, kql, kql-queries, security, soc
+     🔄 Motivo: repo recente (1gg)
+[2026-09-30 21:57:41 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-30 21:57:41 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-30 21:57:44 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 38 NUOVI repository:
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 johnadikwu/johnadikwu
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/johnadikwu/johnadikwu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 pdcgomes/redlamp
+     ⭐ 0  🗣 Swift  📅 2026-09-29
+     🔗 https://github.com/pdcgomes/redlamp
+     📝 A native, open-source RAW photo editor for Mac, iPad and iPhone that feels immed…
+     🏷  adobe, adobe-lightroom, ios, lightroom, lightroom-alternative, macos, metal, photo, photo-editor, photography, photos, photoshop, raw, swift
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 R41N3RZUF477/ps-ppl-bypass
+     ⭐ 0  🗣 C  📅 2026-09-30
+     🔗 https://github.com/R41N3RZUF477/ps-ppl-bypass
+     📝 Process Explorer vulnerable driver PPL Bypass
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 KrioSocial/defender-bypass-winrar-cve-2023-38831
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831
+     📝 The purpose of this lab is to empirically demonstrate that relying solely on the…
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 tdsnxnelson-jon/watchlist-analytics
+     ⭐ 0  🗣 PowerShell  📅 2026-09-30
+     🔗 https://github.com/tdsnxnelson-jon/watchlist-analytics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 oraziog/bluesniff
+     ⭐ 0  🗣 Rust  📅 2026-09-30
+     🔗 https://github.com/oraziog/bluesniff
+     📝 bluesniff ascolta gli annunci BLE e interroga i telefoni che conosci via Bluetoo…
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 StVl/sunriseapp
+     ⭐ 0  🗣 HTML  📅 2026-09-30
+     🔗 https://github.com/StVl/sunriseapp
+     📝 Light alarm for macos
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 FrancoisChastel/jev-cops
+     ⭐ 0  🗣 TypeScript  📅 2026-09-29
+     🔗 https://github.com/FrancoisChastel/jev-cops
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 HARZE12/entrypoint
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/HARZE12/entrypoint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 minniesmick/SOC-Intern-Notes
+     ⭐ 1  🗣 HTML  📅 2026-09-30
+     🔗 https://github.com/minniesmick/SOC-Intern-Notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 suonyo/edrtm
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/suonyo/edrtm
+     📝 content
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 xenospecter/cybersecurity-review-paper
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/xenospecter/cybersecurity-review-paper
+     📝 Review paper on cybersecurity: legal, AI, infrastructure, and business perspecti…
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 ShraddhaRathore28/Jocky-X-Central
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/ShraddhaRathore28/Jocky-X-Central
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 A0nup/Ransomware-final
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/A0nup/Ransomware-final
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 Tiwari1782/SPARC
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/Tiwari1782/SPARC
+     📝 SPARC: State-of-charge Prediction and Analysis for Race Clipping. A digital twin…
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Continuous-Automated-Pentesting
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/ishandutta2007/Awesome-Continuous-Automated-Pentesting
+     📝 Top Continuous Automated Pentesting (Opensource) 🌟 Star if you like it! 🌟
+     🏷  automated-pentesting, awesome-list, curated-list, cybersecurity, offensive-security, pentesting
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 Akanksha-cloudsec/SOC-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Akanksha-cloudsec/SOC-home-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 Inio1/KeBlar-Ransomware
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Inio1/KeBlar-Ransomware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 yatharth1011/rainy-desktop
+     ⭐ 0  🗣 Swift  📅 2026-09-29
+     🔗 https://github.com/yatharth1011/rainy-desktop
+     📝 Rain-on-glass live wallpaper for macOS (Metal), 3D now-playing radio widget, and…
+     🏷  chrome-extension, liquid-glass, live-wallpaper, macos, metal
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 Rafaelnunes-alt2/memory-signature-scanner
+     ⭐ 0  🗣 C++  📅 2026-09-30
+     🔗 https://github.com/Rafaelnunes-alt2/memory-signature-scanner
+     📝 Scanner de assinaturas em arquivos e memória de processo, só leitura, com suport…
+     🏷  cpp17, linux-internals, memory-scanner, pattern-matching, reverse-engineering, security-tools, signature-scanner, windows-internals
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 Rafaelnunes-alt2/pe-analyzer-cpp
+     ⭐ 0  🗣 C++  📅 2026-09-30
+     🔗 https://github.com/Rafaelnunes-alt2/pe-analyzer-cpp
+     📝 Parser de PE em C++17 sem dependências com imports e exports e entropia
+     🏷  cpp, pe-format, reverse-engineering, security-tools, windows-internals
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 juanbarrero-art/KageDbg
+     ⭐ 0  🗣 C++  📅 2026-09-30
+     🔗 https://github.com/juanbarrero-art/KageDbg
+     📝 Extension de cdb/WinDbg para investigacion de syscalls y EDR: tabla Nt*->SSN, de…
+     🏷  cdb, debugger-extension, edr, hook-detection, malware-analysis, ntdll, reverse-engineering, security-research, syscalls, windbg, windows
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 delleshkarthik-cmyk/TOP_100_MCP_INTERVIEW_QUESTIONS
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/delleshkarthik-cmyk/TOP_100_MCP_INTERVIEW_QUESTIONS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 ShraddhaRathore28/JOCKY-X
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/ShraddhaRathore28/JOCKY-X
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 Delnegend/freshdesk
+     ⭐ 0  🗣 Rust  📅 2026-09-30
+     🔗 https://github.com/Delnegend/freshdesk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 jpscalero/adguardhome-tor-dns-fortress
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/jpscalero/adguardhome-tor-dns-fortress
+     📝 🛡️ Ultra-Hardened DNS Privacy & Anti-Censorship Fortress for Windows 11/10 — AdG…
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 charan-dotcom/cereberus
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/charan-dotcom/cereberus
+     📝 data verification
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 alinbloch016/Custom_Payload_Encoder_Obfuscation_Framework
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/alinbloch016/Custom_Payload_Encoder_Obfuscation_Framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 Anson3336/Anson3336
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Anson3336/Anson3336
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 PCheriyan007/SmallBusinessSecurity
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/PCheriyan007/SmallBusinessSecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 Rycar1/SliverReshine
+     ⭐ 0  🗣 Go  📅 2026-09-30
+     🔗 https://github.com/Rycar1/SliverReshine
+     📝 Sliver with WebUI and more tools
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cloud-Native-Application-Protection-Platform
+     ⭐ 1  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/ishandutta2007/Awesome-Cloud-Native-Application-Protection-Platform
+     📝 Top Cloud Native Application Protection Platform (CNAPP) (Opensource) 🌟 Star if …
+     🏷  awesome-list, cloud-native, cloud-security, cnapp, cspm, curated-list, cwpp
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 DevPrince-cyber/investigate_a_threat_landscape-main
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/DevPrince-cyber/investigate_a_threat_landscape-main
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 eliphaz-ochieng/EdrcraftOS
+     ⭐ 0  🗣 HTML  📅 2026-09-30
+     🔗 https://github.com/eliphaz-ochieng/EdrcraftOS
+     📝 The Outreach tool
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 daannil/Calculo-Actuarial-II
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/daannil/Calculo-Actuarial-II
+     📝 López Lazcano Renata Daniela
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 andersonkso-ops/andersonkso
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/andersonkso-ops/andersonkso
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 mizalooo23-ship-it/calculo-actuarial-2
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/mizalooo23-ship-it/calculo-actuarial-2
+     📝 Flores carretero lino misael 
+     🏷  —
+[2026-09-30 21:57:44 UTC] [NEW]   🆕 📦 safurasohail0504-design/antigravity-soc-triage
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/safurasohail0504-design/antigravity-soc-triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:44 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-09-30 21:57:44 UTC] [UPD]   📢 📦 Ruby570bocadito/security-framework
+     ⭐ 0  🗣 Go  📅 2026-09-29
+     🔗 https://github.com/Ruby570bocadito/security-framework
+     📝 Real-time Windows threat detection framework: Rust ETW sensor, Go behavioral eng…
+     🏷  edr, etw, go, mitre-attack, nextjs, rust, threat-detection, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-09-30 21:57:44 UTC] [UPD]   📢 📦 karthiksasath-gif/soc-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/karthiksasath-gif/soc-portfolio
+     📝 A collection of my hands-on SOC investigations, SIEM alert triages, and incident…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 21:57:44 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-30 21:57:44 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-30 21:57:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 kuyk15820-cpu/VIPTTIOSV1
+     ⭐ 0  🗣 Swift  📅 2026-09-30
+     🔗 https://github.com/kuyk15820-cpu/VIPTTIOSV1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 alaa430/ps5-13.60
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/alaa430/ps5-13.60
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 Ero-gamer/RelapseEx
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Ero-gamer/RelapseEx
+     📝 Exploit chain for PS5 7.00 - 13.60
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 Ghlspsn/Sleepy14.00
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/Ghlspsn/Sleepy14.00
+     📝 test admin only
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 kuyk15820-cpu/TTIOSVIP
+     ⭐ 0  🗣 Swift  📅 2026-09-30
+     🔗 https://github.com/kuyk15820-cpu/TTIOSVIP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 omedgameingps5/Rrlapse-Expliot
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/omedgameingps5/Rrlapse-Expliot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 fuckbigtech-ai/homestead-gate
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/fuckbigtech-ai/homestead-gate
+     📝 A 2-of-2 approval gate for AI agents. Starts with GateBench: can a small local m…
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 ffookk/Relapse-Exploit
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/ffookk/Relapse-Exploit
+     📝 Exploit chain for PS5 7.00 - 13.60
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 elkysr14/ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/elkysr14/ps5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 piezuke/piezuke.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/piezuke/piezuke.github.io
+     📝 my blogsite
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 Pedrvisk/AFALG-KERNEL-LAB
+     ⭐ 0  🗣 Shell  📅 2026-09-30
+     🔗 https://github.com/Pedrvisk/AFALG-KERNEL-LAB
+     📝 Projeto experimental de pesquisa em segurança do kernel Linux, explorando AF_ALG…
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 arg0WAK/WAK1360-Relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/arg0WAK/WAK1360-Relapse
+     📝 W.A.K. (WebKit Automated Kernel) - A modular and fully automated exploit framewo…
+     🏷  exploit, host, jailbreak, ps5, relapse
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 ziadbakli/5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/ziadbakli/5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 21:57:46 UTC] [NEW]   🆕 📦 stratusjerry/Relapse-Exploit
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/stratusjerry/Relapse-Exploit
+     📝 Exploit chain for PS5 7.00 - 13.60
+     🏷  —
+[2026-09-30 21:57:46 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-30 21:57:46 UTC] [UPD]   📢 📦 RedShotSh/RLWebkit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/RedShotSh/RLWebkit
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-30 21:57:46 UTC] [UPD]   📢 📦 keyarr/aquaman-pi2055-research
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/keyarr/aquaman-pi2055-research
+     📝 Mi stick 1080p reverse engineering + first public device tree obtained from the …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-30 21:57:46 UTC] [UPD]   📢 📦 edisnord/relapse-y2jb
+     ⭐ 1  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/edisnord/relapse-y2jb
+     📝 Relapse exploit ported to Y2JB.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 21:57:46 UTC] [UPD]   📢 📦 ThisIsAkill/PuckbridgePS5
+     ⭐ 2  🗣 C  📅 2026-09-30
+     🔗 https://github.com/ThisIsAkill/PuckbridgePS5
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 21:57:46 UTC] [INFO] ============================================================
+[2026-09-30 21:57:46 UTC] [INFO] Completato — 56 nuovi, 8 aggiornati, 0 errori
+[2026-09-30 21:57:46 UTC] [INFO] ============================================================
