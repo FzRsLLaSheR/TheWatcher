@@ -100218,3 +100218,331 @@
 [2026-09-30 04:30:47 UTC] [INFO] ============================================================
 [2026-09-30 04:30:47 UTC] [INFO] Completato — 41 nuovi, 10 aggiornati, 0 errori
 [2026-09-30 04:30:47 UTC] [INFO] ============================================================
+[2026-09-30 12:04:52 UTC] [INFO] ============================================================
+[2026-09-30 12:04:52 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-09-30 12:04:52 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-09-30 12:04:52 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-09-30 12:04:52 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-09-30 12:04:52 UTC] [INFO] Token GitHub: ✓ presente
+[2026-09-30 12:04:52 UTC] [INFO] ============================================================
+[2026-09-30 12:04:52 UTC] [INFO] Query: 'byovd-killers'
+[2026-09-30 12:04:52 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-09-30 12:04:55 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-30 12:04:55 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-09-30 12:04:55 UTC] [NEW]   🆕 📦 Suhanimunjal/super-enigma
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/Suhanimunjal/super-enigma
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:55 UTC] [NEW]   🆕 📦 vishal-cody/sihps148byDevDominators
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/vishal-cody/sihps148byDevDominators
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:55 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-09-30 12:04:55 UTC] [UPD]   📢 📦 adityakumar933046-art/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/adityakumar933046-art/JOCKY
+     📝 programming
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 12:04:55 UTC] [UPD]   📢 📦 DarkHeart01/c2-management-server
+     ⭐ 0  🗣 Go  📅 2026-09-28
+     🔗 https://github.com/DarkHeart01/c2-management-server
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-30 12:04:55 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 47  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, claude-code, codex, decompiler, diffing, disassembler, educational, firmware-analysis, open-source, reverse-engineering
+     🔄 Motivo: repo recente (6gg)
+[2026-09-30 12:04:55 UTC] [INFO] Query: 'edr-evasion'
+[2026-09-30 12:04:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-09-30 12:04:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 42 NUOVI repository:
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 koalapower/yaml_builder
+     ⭐ 0  🗣 HTML  📅 2026-09-30
+     🔗 https://github.com/koalapower/yaml_builder
+     📝 YAML builder for OSMP/EDR/KUMA installation
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 karthiksasath-gif/soc-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/karthiksasath-gif/soc-portfolio
+     📝 A collection of my hands-on SOC investigations, SIEM alert triages, and incident…
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Niamhhydes/payment-processed-edrsg6
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Niamhhydes/payment-processed-edrsg6
+     📝 X-Git Pro
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 ederferreirago/DeskEvidence
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/ederferreirago/DeskEvidence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Dunn9467/fhh4edr6zgsx
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Dunn9467/fhh4edr6zgsx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 tofchaliss/chopin
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/tofchaliss/chopin
+     📝 themis-orchestrator
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Meikitata333/lfi1q0edr9t1
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Meikitata333/lfi1q0edr9t1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 jjimenezgar/martini-solv
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/jjimenezgar/martini-solv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Bradshaw7642/jk7g7edr
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Bradshaw7642/jk7g7edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 nonojec/edrr
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/nonojec/edrr
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 r3ndl3r/edr4
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/r3ndl3r/edr4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 v56q0kiuxf/edrxa
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/v56q0kiuxf/edrxa
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Lara5545/ai9edrrsrp6s
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Lara5545/ai9edrrsrp6s
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 sickboy8388/Daemon-Slayer
+     ⭐ 0  🗣 Rust  📅 2026-09-30
+     🔗 https://github.com/sickboy8388/Daemon-Slayer
+     📝 Evasion wrapper for Sliver C2 beacons — AMSI + ETW bypass, AES-256-GCM encryptio…
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 amitambekar510/msp-sentinel-ai
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/amitambekar510/msp-sentinel-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 136avm/Auto-Always-Install-Elevated
+     ⭐ 0  🗣 Shell  📅 2026-09-30
+     🔗 https://github.com/136avm/Auto-Always-Install-Elevated
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 bakicubuk/Rubeus-TR
+     ⭐ 0  🗣 C#  📅 2026-09-30
+     🔗 https://github.com/bakicubuk/Rubeus-TR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 FacuuDiaz/ClickMaster
+     ⭐ 0  🗣 TypeScript  📅 2026-09-30
+     🔗 https://github.com/FacuuDiaz/ClickMaster
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 malangITM-ux/EDR
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/malangITM-ux/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Kartik-Kashyap/jocky-forensic-dsl
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/Kartik-Kashyap/jocky-forensic-dsl
+     📝 JOCKY — a domain-specific language for computer & network forensics: lexer, pars…
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 TsangAsuna/features
+     ⭐ 0  🗣 Dart  📅 2026-09-30
+     🔗 https://github.com/TsangAsuna/features
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 DaneRiley5/m0pi9r0edr
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/DaneRiley5/m0pi9r0edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Williamharp678/p4edr2k1
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Williamharp678/p4edr2k1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 SimoneProvasio/TXT_ETH_SWM_SAS_EDRV
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/SimoneProvasio/TXT_ETH_SWM_SAS_EDRV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 brewerkurt1/edrg
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/brewerkurt1/edrg
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 ashin-15/shi
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/ashin-15/shi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 koviarul11-beast/Early-ransomware-behaviour-detection
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/koviarul11-beast/Early-ransomware-behaviour-detection
+     📝 here I share the project we did for ML hackathon
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 coder-247/security-ops-dashboard
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/coder-247/security-ops-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 b63uxgd7bb/edrlp
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/b63uxgd7bb/edrlp
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 vishal-cody/sihps148byDevDominators
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/vishal-cody/sihps148byDevDominators
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 gsloaf/edrcw
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/gsloaf/edrcw
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Mickaelb06/cartographe-attack
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Mickaelb06/cartographe-attack
+     📝 Triage SOC : logs → MITRE ATT&CK → contre-mesures D3FEND, par niveau N1/N2/N3/re…
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 bussertcod/edro
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/bussertcod/edro
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 wxfrig315-ux/wxfrig315-ux
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/wxfrig315-ux/wxfrig315-ux
+     📝 Cybersecurity Researcher — Windows Internals & Offensive Security
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Rikuhhh/EasyEDR
+     ⭐ 0  🗣 C  📅 2026-09-30
+     🔗 https://github.com/Rikuhhh/EasyEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 nebhpkali1/edrh
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/nebhpkali1/edrh
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 doktorteti/edrq
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/doktorteti/edrq
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 bd8br53c65/edrr
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/bd8br53c65/edrr
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 matyasx9-debug/DevGuard-AI
+     ⭐ 1  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/matyasx9-debug/DevGuard-AI
+     📝 AI-assisted IT incident triage from the terminal
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 PPL-GroupB-SI48INT/GroupB_Edrya
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/PPL-GroupB-SI48INT/GroupB_Edrya
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 Achim-Chuang/Vulnerability_Assessment_Antigravity
+     ⭐ 0  🗣 Python  📅 2026-09-29
+     🔗 https://github.com/Achim-Chuang/Vulnerability_Assessment_Antigravity
+     📝 Intelligent Vulnerability Assessment & Compensating Controls Platform with MITRE…
+     🏷  —
+[2026-09-30 12:04:57 UTC] [NEW]   🆕 📦 bitit-ci/edrwj
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/bitit-ci/edrwj
+     📝 content
+     🏷  —
+[2026-09-30 12:04:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-09-30 12:04:57 UTC] [UPD]   📢 📦 RochaCrypt/RochaCrypt
+     ⭐ 0  🗣 HTML  📅 2026-09-22
+     🔗 https://github.com/RochaCrypt/RochaCrypt
+     📝 Perfil do GitHub de Alexandre Rocha - Cybersecurity & SecOps Specialist
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-09-30 12:04:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-09-30 12:04:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-09-30 12:05:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-09-30 12:05:00 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-09-30 12:05:00 UTC] [NEW]   🆕 📦 ahmedzenhom13/5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/ahmedzenhom13/5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:05:00 UTC] [NEW]   🆕 📦 beweiskette/freshclone
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/beweiskette/freshclone
+     📝 Verify README shell commands in disposable, restricted Docker containers
+     🏷  developer-tools, docker, python, readme, reproducibility, testing
+[2026-09-30 12:05:00 UTC] [NEW]   🆕 📦 Slxcky-1/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Slxcky-1/Relapse-Exploit
+     📝 PS5 Host
+     🏷  —
+[2026-09-30 12:05:00 UTC] [NEW]   🆕 📦 PSH5JB/PSH5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/PSH5JB/PSH5
+     📝 PS5 Host
+     🏷  —
+[2026-09-30 12:05:00 UTC] [NEW]   🆕 📦 mustafs-ps4-ps5/ps
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/mustafs-ps4-ps5/ps
+     📝 Ps5-7..00-13.60
+     🏷  —
+[2026-09-30 12:05:00 UTC] [NEW]   🆕 📦 edisnord/relapse-y2jb
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/edisnord/relapse-y2jb
+     📝 Relapse exploit ported to Y2JB.
+     🏷  —
+[2026-09-30 12:05:00 UTC] [NEW]   🆕 📦 agnes-chong/offensive-security-skills
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/agnes-chong/offensive-security-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-09-30 12:05:00 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-09-30 12:05:00 UTC] [UPD]   📢 📦 muruxxd13/muruverse_ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/muruxxd13/muruverse_ps5
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 12:05:00 UTC] [UPD]   📢 📦 salehlibya/steam-relapse
+     ⭐ 0  🗣 HTML  📅 2026-09-29
+     🔗 https://github.com/salehlibya/steam-relapse
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 12:05:00 UTC] [UPD]   📢 📦 aaryan2720/JOCKY
+     ⭐ 0  🗣 Python  📅 2026-09-28
+     🔗 https://github.com/aaryan2720/JOCKY
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-09-30 12:05:00 UTC] [UPD]   📢 📦 ahmedishtar/55
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/ahmedishtar/55
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-09-30 12:05:00 UTC] [INFO] ============================================================
+[2026-09-30 12:05:00 UTC] [INFO] Completato — 51 nuovi, 8 aggiornati, 0 errori
+[2026-09-30 12:05:00 UTC] [INFO] ============================================================
