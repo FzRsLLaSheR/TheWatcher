@@ -101213,3 +101213,321 @@
 [2026-10-01 04:42:06 UTC] [INFO] ============================================================
 [2026-10-01 04:42:06 UTC] [INFO] Completato — 47 nuovi, 9 aggiornati, 0 errori
 [2026-10-01 04:42:06 UTC] [INFO] ============================================================
+[2026-10-01 12:38:14 UTC] [INFO] ============================================================
+[2026-10-01 12:38:14 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-01 12:38:14 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-01 12:38:14 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-01 12:38:14 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-01 12:38:14 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-01 12:38:14 UTC] [INFO] ============================================================
+[2026-10-01 12:38:14 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-01 12:38:14 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-01 12:38:16 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-01 12:38:16 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-01 12:38:16 UTC] [NEW]   🆕 📦 xuegongziqin/xx
+     ⭐ 1  🗣 C  📅 2026-10-01
+     🔗 https://github.com/xuegongziqin/xx
+     📝 一个具有攻击性的Windows用户态Rootkit, 竞赛用途
+     🏷  —
+[2026-10-01 12:38:16 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-01 12:38:16 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 55  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, bytecode-decompiler, decompiler, disassembler, firmware-analysis, reverse-engineering
+     🔄 Motivo: repo recente (7gg) | nuovi topic: bytecode-decompiler
+[2026-10-01 12:38:16 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-01 12:38:16 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-01 12:38:16 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-01 12:38:18 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 41 NUOVI repository:
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 k1moradi/bluetooth-driver
+     ⭐ 0  🗣 C  📅 2026-10-01
+     🔗 https://github.com/k1moradi/bluetooth-driver
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 SimoneProvasio/TXT_ETH_SWM_TDK_LAMBDA_GEN150-66_EDRV
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/SimoneProvasio/TXT_ETH_SWM_TDK_LAMBDA_GEN150-66_EDRV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 sam-tritto/advanced-people-analytics-features
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-01
+     🔗 https://github.com/sam-tritto/advanced-people-analytics-features
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 loliri/wmi-proc-watch
+     ⭐ 0  🗣 PowerShell  📅 2026-10-01
+     🔗 https://github.com/loliri/wmi-proc-watch
+     📝 Watch for the start of a given process and log its full ancestor chain (permanen…
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 ffafgmail-bit/Edris-
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/ffafgmail-bit/Edris-
+     📝 Shokore 
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 mshadow6/hephaestus
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/mshadow6/hephaestus
+     📝 Provisioning de VM self-hosted : GLPI -> validation -> IPAM -> Terraform -> Ansi…
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 0xELMATO/Managed-Service-Collector
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/0xELMATO/Managed-Service-Collector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 AnouarMohamed/SOC-lab
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/AnouarMohamed/SOC-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 Shravani-26-jpg/Wazuh-SIEM-Security-Monitoring.
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/Shravani-26-jpg/Wazuh-SIEM-Security-Monitoring.
+     📝 Wazuh SIEM Security Monitoring project documenting installation, agent configura…
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 kennedyrobotics/KR-robot
+     ⭐ 0  🗣 C++  📅 2026-10-01
+     🔗 https://github.com/kennedyrobotics/KR-robot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 ihavenoram/smtp-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-10-01
+     🔗 https://github.com/ihavenoram/smtp-toolkit
+     📝 PowerShell 5.1 GUI that works out why an application cannot send email: ports, T…
+     🏷  email, msp, powershell, smtp, smtp2go, starttls, tls, winforms
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 chrochma/AMAHeartbeats
+     ⭐ 0  🗣 PowerShell  📅 2026-09-30
+     🔗 https://github.com/chrochma/AMAHeartbeats
+     📝 Azure Monitor workbook: running VMs vs. AMA heartbeats (startup-aware, 40k VMs, …
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 gwoot43/detections
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/gwoot43/detections
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 MeAkash77/ContextLake-AI-Security-Investigation-Decision-Intelligence-Platform
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/MeAkash77/ContextLake-AI-Security-Investigation-Decision-Intelligence-Platform
+     📝 ContextLake connects telemetry, detection, incident correlation, AI-assisted inv…
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 sadhna1118/ThreatGraph-X
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/sadhna1118/ThreatGraph-X
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 docsua24-ops/edr-parser
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/docsua24-ops/edr-parser
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 Nayab-Sajid/task1-wazuh-edr
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/Nayab-Sajid/task1-wazuh-edr
+     📝  Internee.pk Cybersecurity Internship - Task 1: Wazuh EDR Deployment and Threat …
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 FadyAzzi/InXpoze
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/FadyAzzi/InXpoze
+     📝 See what your photos give away before anyone else does. Offline photo privacy X-…
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 jamijaswanth07/lolbin-detection-engine
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/jamijaswanth07/lolbin-detection-engine
+     📝 Behavioral detection engine for identifying Living-off-the-Land Binary (LOLBin) …
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 unicornflax/invisible-vbs
+     ⭐ 0  🗣 VBScript  📅 2026-10-01
+     🔗 https://github.com/unicornflax/invisible-vbs
+     📝 run powershell scripts truly invisible. perfect for task scheduler (aufgabenplan…
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 Ayushman2004-collab/ObfuscationLab
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/Ayushman2004-collab/ObfuscationLab
+     📝 Security Transformation and Static Detection Analysis Platform
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 Selvashaju/chainlog
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/Selvashaju/chainlog
+     📝 Digital forensics log timeline builder using a hash-chained doubly linked list. …
+     🏷  chainlog, cybersecurity, digital-forensics, fastapi, incident-response, linked-list, mitre-attack, python
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 manabouprj/Lodestar
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/manabouprj/Lodestar
+     📝 Security posture command dashboard — live demo on Pages
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 FadyAzzi/InGrafiti
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/FadyAzzi/InGrafiti
+     📝 An offline photo editor for Windows: layers, masks, selections and on-device AI.…
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 AAH20/Apex_Cyber_Sentinel
+     ⭐ 1  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/AAH20/Apex_Cyber_Sentinel
+     📝 Autonomous Cyber Defense — adversarial co-evolution, attack path mapping, zero-d…
+     🏷  adversarial-ai, ai-security, autonomous-defense, cti, cyber-defense, cybersecurity, deception-grid, threat-hunting, zero-day-detection, zero-trust
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 Motan2k/LoggingScript
+     ⭐ 0  🗣 PowerShell  📅 2026-10-01
+     🔗 https://github.com/Motan2k/LoggingScript
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 PixiesFR/logsoc-agent
+     ⭐ 0  🗣 C  📅 2026-10-01
+     🔗 https://github.com/PixiesFR/logsoc-agent
+     📝 LogSOC — Libre, Open : Gouvernance, Sécurité, Opérations, Conformité. Agents nat…
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 Vishal6h/SOC-Lens
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/Vishal6h/SOC-Lens
+     📝 Supervisory Analytics for SOC Assessment
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 Loxly4u/soc-alert-triage-engine
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/Loxly4u/soc-alert-triage-engine
+     📝 AI-driven SOC alert triage & correlation engine: ingests SIEM/EDR alerts, cluste…
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 c3server-github-testuser/1790848692555-PrVaEdrL-Tgxcy4wCD0uzJod0-GitHubTestBase
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/c3server-github-testuser/1790848692555-PrVaEdrL-Tgxcy4wCD0uzJod0-GitHubTestBase
+     📝 decription goes here
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 REliasCheng/Wireless-IoT-Embedded-Lab
+     ⭐ 0  🗣 C  📅 2026-09-30
+     🔗 https://github.com/REliasCheng/Wireless-IoT-Embedded-Lab
+     📝 Embedded wireless and IoT lab for JieLi AC791N/WL82, covering native Wi-Fi, Clas…
+     🏷  bluetooth, embedded-systems, firmware, freertos, iot, jieli, lwip, mqtt, wifi, wireless
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 sizzlingmed/edrxyr
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/sizzlingmed/edrxyr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 toterreen/edrv
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/toterreen/edrv
+     📝 content
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 ietdpgivdj/edraog
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/ietdpgivdj/edraog
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 korneevscp/EDR-TEST-C-open-scource
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/korneevscp/EDR-TEST-C-open-scource
+     📝 test by korneevsc
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 Hoang130203/mezoloop
+     ⭐ 0  🗣 Solidity  📅 2026-10-01
+     🔗 https://github.com/Hoang130203/mezoloop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 edrissbigzad-svg/Edriss
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/edrissbigzad-svg/Edriss
+     📝 Student 
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 mnguyen-ve/edrv
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/mnguyen-ve/edrv
+     📝 content
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 cmcer/EDR_HIPS_Report
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/cmcer/EDR_HIPS_Report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 icocior/edrp
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/icocior/edrp
+     📝 content
+     🏷  —
+[2026-10-01 12:38:18 UTC] [NEW]   🆕 📦 MuhammadAsifshoukat/Ransomware_Canary_Alert_System.ipynb.
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-01
+     🔗 https://github.com/MuhammadAsifshoukat/Ransomware_Canary_Alert_System.ipynb.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:18 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-01 12:38:18 UTC] [UPD]   📢 📦 Winter21c/archlinux-xiaomi-raphael
+     ⭐ 0  🗣 Shell  📅 2026-09-30
+     🔗 https://github.com/Winter21c/archlinux-xiaomi-raphael
+     📝 Arch Linux ARM (aarch64) for Xiaomi Redmi K20 Pro / Mi 9T Pro (raphael, SM8150):…
+     🏷  archlinux, archlinuxarm, kde, mainline-linux, plasma-mobile, qualcomm, redmi-k20-pro, sm8150, uboot, xiaomi
+     🔄 Motivo: repo recente (1gg)
+[2026-10-01 12:38:18 UTC] [UPD]   📢 📦 RDK456/1-download-manager
+     ⭐ 0  🗣 Kotlin  📅 2026-09-25
+     🔗 https://github.com/RDK456/1-download-manager
+     📝 Native Android download manager with HTTP, YouTube, torrent, pause/resume, and s…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-01 12:38:18 UTC] [UPD]   📢 📦 Cummmies/custom-stremio
+     ⭐ 0  🗣 Svelte  📅 2026-09-29
+     🔗 https://github.com/Cummmies/custom-stremio
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-01 12:38:18 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-01 12:38:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-01 12:38:21 UTC] [INFO]   → 34 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-01 12:38:21 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-10-01 12:38:21 UTC] [NEW]   🆕 📦 bhavani-mhrl/code-arena-ai
+     ⭐ 0  🗣 TypeScript  📅 2026-10-01
+     🔗 https://github.com/bhavani-mhrl/code-arena-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:21 UTC] [NEW]   🆕 📦 belhaj-zin/Linux-Workshop
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/belhaj-zin/Linux-Workshop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:21 UTC] [NEW]   🆕 📦 a-ddr/PoorDS4
+     ⭐ 0  🗣 C  📅 2026-10-01
+     🔗 https://github.com/a-ddr/PoorDS4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:21 UTC] [NEW]   🆕 📦 SailorNoheals/PS5-Relapse-SailorNoheals
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/SailorNoheals/PS5-Relapse-SailorNoheals
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 12:38:21 UTC] [NEW]   🆕 📦 ALSHD3D/Windows-Privilege-Escalation
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/ALSHD3D/Windows-Privilege-Escalation
+     📝 A practical collection of Windows privilege escalation techniques, methodologies…
+     🏷  —
+[2026-10-01 12:38:21 UTC] [NEW]   🆕 📦 MaheshSharan/MT6989-ghostlock
+     ⭐ 0  🗣 C  📅 2026-10-01
+     🔗 https://github.com/MaheshSharan/MT6989-ghostlock
+     📝 KernelSU late-load port for vivo T3 Ultra (Dimensity 9200+ / MT6985 / MT6989)
+     🏷  —
+[2026-10-01 12:38:21 UTC] [NEW]   🆕 📦 m2k7m/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/m2k7m/Relapse-Exploit
+     📝 Exploit chain for PS5 7.00 - 13.60
+     🏷  exploit, kernel, research, webkit
+[2026-10-01 12:38:21 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-01 12:38:21 UTC] [UPD]   📢 📦 PSH5JB/PSH5
+     ⭐ 3  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/PSH5JB/PSH5
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-01 12:38:21 UTC] [UPD]   📢 📦 Slxcky-1/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Slxcky-1/Relapse-Exploit
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-01 12:38:21 UTC] [UPD]   📢 📦 alaa430/ps5-13.60
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/alaa430/ps5-13.60
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-01 12:38:21 UTC] [INFO] ============================================================
+[2026-10-01 12:38:21 UTC] [INFO] Completato — 49 nuovi, 8 aggiornati, 0 errori
+[2026-10-01 12:38:21 UTC] [INFO] ============================================================
