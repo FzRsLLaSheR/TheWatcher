@@ -100899,3 +100899,317 @@
 [2026-09-30 21:57:46 UTC] [INFO] ============================================================
 [2026-09-30 21:57:46 UTC] [INFO] Completato — 56 nuovi, 8 aggiornati, 0 errori
 [2026-09-30 21:57:46 UTC] [INFO] ============================================================
+[2026-10-01 04:42:00 UTC] [INFO] ============================================================
+[2026-10-01 04:42:00 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-01 04:42:00 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-01 04:42:00 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-01 04:42:00 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-01 04:42:00 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-01 04:42:00 UTC] [INFO] ============================================================
+[2026-10-01 04:42:00 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-01 04:42:00 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-01 04:42:02 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-01 04:42:02 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-01 04:42:02 UTC] [NEW]   🆕 📦 psihijatrija/Behavedr
+     ⭐ 0  🗣 C#  📅 2026-10-01
+     🔗 https://github.com/psihijatrija/Behavedr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-01 04:42:02 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 54  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, claude-code, codex, decompiler, diffing, disassembler, educational, firmware-analysis, open-source, reverse-engineering
+     🔄 Motivo: repo recente (7gg)
+[2026-10-01 04:42:02 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-01 04:42:02 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-01 04:42:04 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 42 NUOVI repository:
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 Winter21c/archlinux-xiaomi-raphael
+     ⭐ 0  🗣 Shell  📅 2026-09-30
+     🔗 https://github.com/Winter21c/archlinux-xiaomi-raphael
+     📝 Arch Linux ARM (aarch64) for Xiaomi Redmi K20 Pro / Mi 9T Pro (raphael, SM8150):…
+     🏷  archlinux, archlinuxarm, kde, mainline-linux, plasma-mobile, qualcomm, redmi-k20-pro, sm8150, uboot, xiaomi
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 psihijatrija/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-10-01
+     🔗 https://github.com/psihijatrija/Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 chu0119/vc-strike
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/chu0119/vc-strike
+     📝 VC-Strike — VMware vCenter CVE-2026-59310 (unauth root RCE) & CVE-2026-59309 (SR…
+     🏷  cve-2026-59309, cve-2026-59310, exploit, penetration-testing, red-team, security-tools, vcenter, vmware
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 psihijatrija/Powershell
+     ⭐ 0  🗣 PowerShell  📅 2026-10-01
+     🔗 https://github.com/psihijatrija/Powershell
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 psihijatrija/Guardian
+     ⭐ 0  🗣 C#  📅 2026-10-01
+     🔗 https://github.com/psihijatrija/Guardian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 psihijatrija/GSecurity
+     ⭐ 0  🗣 HTML  📅 2026-10-01
+     🔗 https://github.com/psihijatrija/GSecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 psihijatrija/gorstakssite
+     ⭐ 0  🗣 HTML  📅 2026-10-01
+     🔗 https://github.com/psihijatrija/gorstakssite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 psihijatrija/Behavedr
+     ⭐ 0  🗣 C#  📅 2026-10-01
+     🔗 https://github.com/psihijatrija/Behavedr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 QiuXiYueShiJiu/vigil-guard
+     ⭐ 1  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/QiuXiYueShiJiu/vigil-guard
+     📝 由 dsh 生成的 Linux 服务器防御小玩具：检测 / 处置 / 告警。不能代替专业安全工具，仅供辅助使用。
+     🏷  devops, hardening, intrusion-detection, linux, python, security, self-hosted
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 itold1lie/SentinalFlow
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/itold1lie/SentinalFlow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 chinfrank/edrq
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/chinfrank/edrq
+     📝 content
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 haritpatel321-sys/Spider-Scout-
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/haritpatel321-sys/Spider-Scout-
+     📝 18-DOF six-legged robotic platform with programmable gait control, Bluetooth com…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 cletojacob/edrti
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/cletojacob/edrti
+     📝 content
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 tj63kcox03/edref
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/tj63kcox03/edref
+     📝 content
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 meetuden/edrqi
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/meetuden/edrqi
+     📝 content
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 ShengquanLiu/TASCO
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/ShengquanLiu/TASCO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 kander-bcjh/edrp
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/kander-bcjh/edrp
+     📝 content
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 Emerole7/sigma-detection-library
+     ⭐ 0  🗣 Shell  📅 2026-09-30
+     🔗 https://github.com/Emerole7/sigma-detection-library
+     📝 Sigma detection library: 8 ATT&CK rules, 3-SIEM conversion, CI, lab validation
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 bytejmp/ADEnum
+     ⭐ 0  🗣 PowerShell  📅 2026-10-01
+     🔗 https://github.com/bytejmp/ADEnum
+     📝 Active Directory & Windows enumeration module. Single PowerShell script, no depe…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 penchala-services-inc/aws-login-helper-chrome
+     ⭐ 0  🗣 C#  📅 2026-10-01
+     🔗 https://github.com/penchala-services-inc/aws-login-helper-chrome
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 grindocboy/detection-insight-lite
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/grindocboy/detection-insight-lite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 gotree94/P26_Robot_Dog
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/gotree94/P26_Robot_Dog
+     📝 P26_Robot_Dog
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 Nxco1e/LedgerLeak-DNS-Exfiltration-Detection-Investigation-Lab
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/Nxco1e/LedgerLeak-DNS-Exfiltration-Detection-Investigation-Lab
+     📝 LedgerLeak is a synthetic DNS exfiltration investigation lab that combines Sysmo…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 Agent44-eagle/jailbreak-qwen3.8-max-fast
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/Agent44-eagle/jailbreak-qwen3.8-max-fast
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 jimenaortizrivas7-star/Ortiz-Rivas-Jimena
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/jimenaortizrivas7-star/Ortiz-Rivas-Jimena
+     📝 Calculo Actuarial 2
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 EdPortugal05/portugal-edrei-jalel-ipt2midterm
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/EdPortugal05/portugal-edrei-jalel-ipt2midterm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 SuperActionShootingGame4/dummycom2
+     ⭐ 0  🗣 Assembly  📅 2026-10-01
+     🔗 https://github.com/SuperActionShootingGame4/dummycom2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 Kanika-codes20/Project-3---Cybersentinel
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/Kanika-codes20/Project-3---Cybersentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 hrmajed/SOC-Automate
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/hrmajed/SOC-Automate
+     📝 Local, privacy-first AI triage copilot for SOC teams, with RAG context, attack-p…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 Moresoph/pico2WMouseKeyBoardHub
+     ⭐ 0  🗣 C  📅 2026-10-01
+     🔗 https://github.com/Moresoph/pico2WMouseKeyBoardHub
+     📝 ESP32 + Pico 2 W dual-Bluetooth keyboard/mouse hub: encrypted inputs, bonded rec…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 Leaf-lsgtky/OPPOLeaConnect
+     ⭐ 0  🗣 Java  📅 2026-09-30
+     🔗 https://github.com/Leaf-lsgtky/OPPOLeaConnect
+     📝 OPPO Enco X3 / LE Audio(LC3) Connect Optimizer for HyperOS
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 AlmirBrandao/WinLocalRecon
+     ⭐ 0  🗣 Batchfile  📅 2026-10-01
+     🔗 https://github.com/AlmirBrandao/WinLocalRecon
+     📝 Ferramenta nativa de triagem pós-acesso e reconhecimento local em Windows (Livin…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 Blonk854/vision_3d_skips_team_3a
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/Blonk854/vision_3d_skips_team_3a
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 jdestouchesjd/Threat-Hunting-Scenario--Tor
+     ⭐ 1  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/jdestouchesjd/Threat-Hunting-Scenario--Tor
+     📝 Threat Hunt Scenario: Unauthorized TOR Usage
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 feres-salhi/elastic-siem-ai-soc-automation
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/feres-salhi/elastic-siem-ai-soc-automation
+     📝 Mini SOC in the cloud: Windows server on AWS monitored by Elastic SIEM/EDR, cust…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 oyesanyf/oyesanyf
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/oyesanyf/oyesanyf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 angelosmr/Calculo-Actuarial-2
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/angelosmr/Calculo-Actuarial-2
+     📝 Martínez Ortiz Angelo Osmar
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 KBRO6/BofA-Enterprise-Cybersecurity-Labs
+     ⭐ 0  🗣 N/A  📅 2026-09-30
+     🔗 https://github.com/KBRO6/BofA-Enterprise-Cybersecurity-Labs
+     📝 Enterprise EDR telemetry enclave and custom behavioral threat detection engineer…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 Rippley777/sudo-survive
+     ⭐ 0  🗣 Rust  📅 2026-09-30
+     🔗 https://github.com/Rippley777/sudo-survive
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 HARZE12/Entrypoint
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/HARZE12/Entrypoint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 JesusBastidas777/PROJECT-3-SCAN
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/JesusBastidas777/PROJECT-3-SCAN
+     📝 A modular network scanner for host discovery, TCP port scanning, structured resu…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [NEW]   🆕 📦 simlavelle/incident-response-risk-assessment
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/simlavelle/incident-response-risk-assessment
+     📝 Post-breach incident analysis and quantitative risk assessment, with a Python ri…
+     🏷  —
+[2026-10-01 04:42:04 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-01 04:42:04 UTC] [UPD]   📢 📦 Rycar1/SliverReshine
+     ⭐ 0  🗣 Go  📅 2026-09-30
+     🔗 https://github.com/Rycar1/SliverReshine
+     📝 Sliver with WebUI and more tools
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-01 04:42:04 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-01 04:42:04 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-01 04:42:06 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-01 04:42:06 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-01 04:42:06 UTC] [NEW]   🆕 📦 Agent44-eagle/jailbreak-qwen3.8-max-fast
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/Agent44-eagle/jailbreak-qwen3.8-max-fast
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:06 UTC] [NEW]   🆕 📦 BigMegoo/ps5jb
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/BigMegoo/ps5jb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:06 UTC] [NEW]   🆕 📦 Fs0usa/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Fs0usa/Relapse-Exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-01 04:42:06 UTC] [NEW]   🆕 📦 keyarr/aquaman-pi2055-research
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/keyarr/aquaman-pi2055-research
+     📝 Mi stick 1080p reverse engineering + first public device tree obtained from the …
+     🏷  —
+[2026-10-01 04:42:06 UTC] [UPD]   📢 7 repository AGGIORNATI:
+[2026-10-01 04:42:06 UTC] [UPD]   📢 📦 kuyk15820-cpu/VIPTTIOSV1
+     ⭐ 0  🗣 Swift  📅 2026-09-30
+     🔗 https://github.com/kuyk15820-cpu/VIPTTIOSV1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-01 04:42:06 UTC] [UPD]   📢 📦 ThisIsAkill/PuckbridgePS5
+     ⭐ 2  🗣 C  📅 2026-09-30
+     🔗 https://github.com/ThisIsAkill/PuckbridgePS5
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-01 04:42:06 UTC] [UPD]   📢 📦 CGhxst/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/CGhxst/Relapse-Exploit
+     📝 PS5 Relapse Exploit (Firmware 7.00 - 13.60)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-01 04:42:06 UTC] [UPD]   📢 📦 PSH5JB/PSH5
+     ⭐ 3  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/PSH5JB/PSH5
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-01 04:42:06 UTC] [UPD]   📢 📦 Slxcky-1/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Slxcky-1/Relapse-Exploit
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-01 04:42:06 UTC] [UPD]   📢 📦 fuckbigtech-ai/homestead-gate
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/fuckbigtech-ai/homestead-gate
+     📝 A 2-of-2 approval gate for AI agents. Starts with GateBench: can a small local m…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-01 04:42:06 UTC] [UPD]   📢 📦 alaa430/ps5-13.60
+     ⭐ 0  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/alaa430/ps5-13.60
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-01 04:42:06 UTC] [INFO] ============================================================
+[2026-10-01 04:42:06 UTC] [INFO] Completato — 47 nuovi, 9 aggiornati, 0 errori
+[2026-10-01 04:42:06 UTC] [INFO] ============================================================
