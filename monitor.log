@@ -102045,3 +102045,351 @@
 [2026-10-02 04:33:45 UTC] [INFO] ============================================================
 [2026-10-02 04:33:45 UTC] [INFO] Completato — 23 nuovi, 7 aggiornati, 0 errori
 [2026-10-02 04:33:45 UTC] [INFO] ============================================================
+[2026-10-02 12:02:20 UTC] [INFO] ============================================================
+[2026-10-02 12:02:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-02 12:02:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-02 12:02:20 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-02 12:02:20 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-02 12:02:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-02 12:02:20 UTC] [INFO] ============================================================
+[2026-10-02 12:02:20 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-02 12:02:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-02 12:02:22 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-02 12:02:22 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-02 12:02:22 UTC] [NEW]   🆕 📦 luel-4013/mgla
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/luel-4013/mgla
+     📝 Malware analysis, network forensics and ATT&CK research. Every file parses in yo…
+     🏷  —
+[2026-10-02 12:02:22 UTC] [NEW]   🆕 📦 mukendi/mukendi
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/mukendi/mukendi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:22 UTC] [NEW]   🆕 📦 HemiAmal/PRAMANA
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/HemiAmal/PRAMANA
+     📝 PRAMANA — Provenance-Rooted Attested Multi-host Analysis for Network & Endpoint …
+     🏷  —
+[2026-10-02 12:02:22 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-02 12:02:22 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-02 12:02:22 UTC] [UPD]   📢 📦 dzn0/portable-driver-triage
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/dzn0/portable-driver-triage
+     📝 LLM-driven static BYOVD triage for Windows kernel drivers — collect, analyze, ha…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-02 12:02:22 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-02 12:02:22 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-02 12:02:28 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 42 NUOVI repository:
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 aeamosov/obs-shirma
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/aeamosov/obs-shirma
+     📝 Shirma: virtual background for video calls on Windows, built on OBS. One-command…
+     🏷  background-removal, obs, obs-studio, video-calls, virtual-background, virtual-camera, windows
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 alipymanbu/edrawings.loveyou.bond
+     ⭐ 0  🗣 HTML  📅 2026-10-02
+     🔗 https://github.com/alipymanbu/edrawings.loveyou.bond
+     📝 edrawings 下载与安装教程
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 Valentinaarce01/edrgl09fdjm
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/Valentinaarce01/edrgl09fdjm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 shashvat1965/lumen
+     ⭐ 2  🗣 Swift  📅 2026-10-02
+     🔗 https://github.com/shashvat1965/lumen
+     📝 Native macOS menu-bar display utility (BetterDisplay alternative) with a lumen C…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 SteenPedersen/EDR_Telemetry_Store_Explorer
+     ⭐ 0  🗣 HTML  📅 2026-10-02
+     🔗 https://github.com/SteenPedersen/EDR_Telemetry_Store_Explorer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 edrine2003/edrine-software
+     ⭐ 0  🗣 HTML  📅 2026-10-02
+     🔗 https://github.com/edrine2003/edrine-software
+     📝 we create build and give u websites and softwares 
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 DevAbhay2003/Network-Intrusion-Detection-System-IDS-Simulation
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/DevAbhay2003/Network-Intrusion-Detection-System-IDS-Simulation
+     📝 Intelligent Intrusion Detection System (IDS) with machine-learning-based anomaly…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 Rahulpatnala-99999/live-breach-and-incident-response-honeypot
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/Rahulpatnala-99999/live-breach-and-incident-response-honeypot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 dinadragu/dinadragu
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/dinadragu/dinadragu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 plexox/edrz
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/plexox/edrz
+     📝 content
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 Wenjun6326/WiFiSniffer-BLE-Advertiser-ESP32
+     ⭐ 0  🗣 C++  📅 2026-10-02
+     🔗 https://github.com/Wenjun6326/WiFiSniffer-BLE-Advertiser-ESP32
+     📝 ESP32-S3 WiFi monitor with an open AP, DHCP and a device-side decoder, plus an a…
+     🏷  arduino, ble, bluetooth-low-energy, esp32, esp32-s3, iot, nimble, radio-testbed, security-research, sniffer, wifi
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 TsangAsuna/Erika
+     ⭐ 0  🗣 Rust  📅 2026-10-02
+     🔗 https://github.com/TsangAsuna/Erika
+     📝 Development mirror of AimesSoft/Erika for preparing pull requests (upstream-firs…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 dlprevent-dev/dlprevent
+     ⭐ 0  🗣 Rust  📅 2026-10-02
+     🔗 https://github.com/dlprevent-dev/dlprevent
+     📝 Lean data-loss detection for macOS and Windows: alerts the moment a program read…
+     🏷  ai-data-leakage, data-loss-prevention, dlp, endpoint-security, exfiltration-detection, insider-threat, macos, open-source-security, rust, self-hosted, usb-monitoring, windows
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 VishwasSP01/engineering-data-copilot
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/VishwasSP01/engineering-data-copilot
+     📝 An AI assistant that investigates engineering data-quality issues using document…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 BrushLLM/brushllm-player
+     ⭐ 0  🗣 Swift  📅 2026-10-02
+     🔗 https://github.com/BrushLLM/brushllm-player
+     📝 Open-source cross-platform media player built on mpv — macOS (Swift) + Windows (…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 0xC9H/specter
+     ⭐ 5  🗣 C  📅 2026-10-02
+     🔗 https://github.com/0xC9H/specter
+     📝 AdaptixC2 Windows x64 agent focused on EDR evasion - position-independent beacon…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 Jee-Balangan/Incident-Response-Planning-and-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/Jee-Balangan/Incident-Response-Planning-and-Investigation
+     📝 Incident response portfolio combing IR planning, lifecycle designing, response p…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 superheroCEO/phishing-email-investigation
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/superheroCEO/phishing-email-investigation
+     📝 Simulated SOC Tier 1 phishing investigation correlating email, DNS, network, ide…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 Rat5ak/MAJLIS-2026-RAT-Teardown
+     ⭐ 0  🗣 HTML  📅 2026-10-02
+     🔗 https://github.com/Rat5ak/MAJLIS-2026-RAT-Teardown
+     📝 Robert tears down the Majlis 2026 invitation RAT: two command channels, OTP 1234…
+     🏷  malware-analysis, nadsec, reverse-engineering, threat-intelligence, yara
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 mukendi/mukendi
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/mukendi/mukendi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 ohtlyasipi/edrzbk
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/ohtlyasipi/edrzbk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 HaHashem/HaHashem
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/HaHashem/HaHashem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 moizuddinrafay/moizuddinrafay
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/moizuddinrafay/moizuddinrafay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 KBINTIC/soc-detection-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-02
+     🔗 https://github.com/KBINTIC/soc-detection-lab
+     📝 Detection-as-code lab: Sigma rules for Windows & M365, converted to Sentinel KQL…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 qi-cre/SkyGrab
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/qi-cre/SkyGrab
+     📝 Aggressive multi-source satellite data harvester with a modern TUI
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 shwetasingh199/CyberShield
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/shwetasingh199/CyberShield
+     📝 “Defensive cybersecurity dashboard combining threat intelligence, IOC analysis, …
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 asoderskie/edrhj
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/asoderskie/edrhj
+     📝 content
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 anup-dhokiya/AEGIS-PRO
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/anup-dhokiya/AEGIS-PRO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 mslomben/edrek
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/mslomben/edrek
+     📝 content
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 fabianmich/edrxt
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/fabianmich/edrxt
+     📝 content
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 Bernarde-Spicerm/edrbyjm
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/Bernarde-Spicerm/edrbyjm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 Aaradhya-Dev-Tamrakar/Cyber-Forensics
+     ⭐ 0  🗣 PowerShell  📅 2026-10-02
+     🔗 https://github.com/Aaradhya-Dev-Tamrakar/Cyber-Forensics
+     📝 Lightweight deterministic Windows DFIR artifact triage and stealth evasion hunti…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 kookyinvest/edrbyy
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/kookyinvest/edrbyy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 AhadShaikh12/incident-investigations
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/AhadShaikh12/incident-investigations
+     📝 Hands-on SOC incident investigations using Splunk, log analysis, IOC investigati…
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 noblegrona/edru
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/noblegrona/edru
+     📝 content
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 arn1barbbok/edrfn
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/arn1barbbok/edrfn
+     📝 content
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 KOO612/road-to-edr
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/KOO612/road-to-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 c3sager/edrm
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/c3sager/edrm
+     📝 content
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 Daksh1308-Cyber-Security/how-to-fastly-upgrade-dragon-maina
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/Daksh1308-Cyber-Security/how-to-fastly-upgrade-dragon-maina
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 thedalillama/csf-analyst
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/thedalillama/csf-analyst
+     📝 NIST CSF 2 Analyst Workspace
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 blarkesaevier/edrax
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/blarkesaevier/edrax
+     📝 content
+     🏷  —
+[2026-10-02 12:02:28 UTC] [NEW]   🆕 📦 thompsonjuan5/dzi-edr
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/thompsonjuan5/dzi-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:28 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-02 12:02:28 UTC] [UPD]   📢 📦 chu0119/vc-strike
+     ⭐ 1  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/chu0119/vc-strike
+     📝 VC-Strike — VMware vCenter CVE-2026-59310 (unauth root RCE) & CVE-2026-59309 (SR…
+     🏷  cve-2026-59309, cve-2026-59310, exploit, penetration-testing, red-team, security-tools, vcenter, vmware
+     🔄 Motivo: repo recente (1gg)
+[2026-10-02 12:02:28 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-02 12:02:28 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-02 12:02:30 UTC] [INFO]   → 29 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 10 NUOVI repository:
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 aladin2l/ps5ogcr
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/aladin2l/ps5ogcr
+     📝 ps5 jailbreak host
+     🏷  —
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 rafaortiz1810/portafolio-ciberseguridad
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/rafaortiz1810/portafolio-ciberseguridad
+     📝 Portafolio de ciberseguridad — Blue Team/SOC: labs, writeups y evidencia práctic…
+     🏷  —
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 tabasko81/PS5_Relapse_Exploit_selfhost
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/tabasko81/PS5_Relapse_Exploit_selfhost
+     📝 CasaOS host for the PS5 Relapse page on the local network.
+     🏷  —
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 KrypticDuhh/auto-relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/KrypticDuhh/auto-relapse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 nobodyttk/kroma-autoloader-ps5
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/nobodyttk/kroma-autoloader-ps5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 mutaanto/Samsung-M35-DirtyFrag-Root
+     ⭐ 0  🗣 PowerShell  📅 2026-10-02
+     🔗 https://github.com/mutaanto/Samsung-M35-DirtyFrag-Root
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 nobodyttk/relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/nobodyttk/relapse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 billyrene/jb
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/billyrene/jb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 vvsx87/relapse-y2jb
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/vvsx87/relapse-y2jb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 12:02:30 UTC] [NEW]   🆕 📦 alonsojr1980/ps5-jailbreak-compendium
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/alonsojr1980/ps5-jailbreak-compendium
+     📝 A work-in-progress compendium on PS5 jailbreak. AI generated, do not accept it b…
+     🏷  —
+[2026-10-02 12:02:30 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-02 12:02:30 UTC] [UPD]   📢 📦 SailorNoheals/PS5-Relapse-SailorNoheals
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/SailorNoheals/PS5-Relapse-SailorNoheals
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-02 12:02:30 UTC] [UPD]   📢 📦 m2k7m/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/m2k7m/Relapse-Exploit
+     📝 Exploit chain for PS5 7.00 - 13.60
+     🏷  exploit, kernel, research, webkit
+     🔄 Motivo: repo recente (1gg)
+[2026-10-02 12:02:30 UTC] [UPD]   📢 📦 Slxcky-1/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Slxcky-1/Relapse-Exploit
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-02 12:02:30 UTC] [UPD]   📢 📦 PSH5JB/PSH5
+     ⭐ 3  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/PSH5JB/PSH5
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-02 12:02:30 UTC] [UPD]   📢 📦 kuyk15820-cpu/VIPTTIOSV1
+     ⭐ 0  🗣 Swift  📅 2026-09-30
+     🔗 https://github.com/kuyk15820-cpu/VIPTTIOSV1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-02 12:02:30 UTC] [INFO] ============================================================
+[2026-10-02 12:02:30 UTC] [INFO] Completato — 55 nuovi, 8 aggiornati, 0 errori
+[2026-10-02 12:02:30 UTC] [INFO] ============================================================
