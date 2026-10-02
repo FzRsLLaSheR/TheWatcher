@@ -101863,3 +101863,185 @@
 [2026-10-01 22:25:46 UTC] [INFO] ============================================================
 [2026-10-01 22:25:46 UTC] [INFO] Completato — 53 nuovi, 7 aggiornati, 0 errori
 [2026-10-01 22:25:46 UTC] [INFO] ============================================================
+[2026-10-02 04:33:39 UTC] [INFO] ============================================================
+[2026-10-02 04:33:39 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-02 04:33:39 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-02 04:33:39 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-02 04:33:39 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-02 04:33:39 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-02 04:33:39 UTC] [INFO] ============================================================
+[2026-10-02 04:33:39 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-02 04:33:39 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-02 04:33:41 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-02 04:33:41 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-02 04:33:41 UTC] [NEW]   🆕 📦 dzn0/portable-driver-triage
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/dzn0/portable-driver-triage
+     📝 LLM-driven static BYOVD triage for Windows kernel drivers — collect, analyze, ha…
+     🏷  —
+[2026-10-02 04:33:41 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-02 04:33:41 UTC] [UPD]   📢 📦 AAnnapoorani/Adaptive-Forensic-Safety
+     ⭐ 0  🗣 Python  📅 2026-09-25
+     🔗 https://github.com/AAnnapoorani/Adaptive-Forensic-Safety
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-02 04:33:41 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-02 04:33:41 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-02 04:33:43 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 PYTHIXS/Threat-Hunting-Lab
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/PYTHIXS/Threat-Hunting-Lab
+     📝 A comprehensive lab for vulnerability and threat hunting, analyzing, defending, …
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 sharmavinayak508-lang/Abhedya-Cyber-Shield-2.0
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/sharmavinayak508-lang/Abhedya-Cyber-Shield-2.0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 BrushLLM/brushllm-player
+     ⭐ 0  🗣 Swift  📅 2026-10-02
+     🔗 https://github.com/BrushLLM/brushllm-player
+     📝 Open-source macOS media player built on libmpv — 9-language UI, WebDAV/SMB/FTP/E…
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 minibatahi/edrsx
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/minibatahi/edrsx
+     📝 content
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 nmgojub9ah/edrtzr
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/nmgojub9ah/edrtzr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 souljha213/micro-soc
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/souljha213/micro-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 as70023333/soc-toolkit
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/as70023333/soc-toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 saintredog/CyberTrack
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/saintredog/CyberTrack
+     📝 Simulated Cyber Incidents
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 afifamarh/FGV-Dashboard-
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/afifamarh/FGV-Dashboard-
+     📝 FGV SIEM, EDR, XDR dashboard development
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 sbearor83-droid/imagequest-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/sbearor83-droid/imagequest-dashboard
+     📝 ImageQuest Cybersecurity & Compliance Project Operations Command Center (Healthc…
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 mosyazz/mosyazz
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/mosyazz/mosyazz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 wdathing/usb-to-coco
+     ⭐ 0  🗣 C  📅 2026-10-02
+     🔗 https://github.com/wdathing/usb-to-coco
+     📝 USB/Bluetooth keyboard to TRS-80 CoCo 3 keyboard-matrix adapter firmware for Ras…
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 opsecblueberry/Aegis-FS
+     ⭐ 0  🗣 C++  📅 2026-10-02
+     🔗 https://github.com/opsecblueberry/Aegis-FS
+     📝 Kernel-Native File System Minifilter for dynamic forensic evasion and artifact m…
+     🏷  cpp, cpp-programming, forensic-evasion, minifilter, minifilter-bypass, minifilter-driver, ring0, ring0-exploit, ring0-rootkit, rootkit, rootkit-kernel, rootkit-windows, rootkits, windows-kernel
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 umargambari/duke-security
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/umargambari/duke-security
+     📝 A defensive Python security engineering platform for safely simulating, detectin…
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 sharon-sylvester/lemonade-cybersecurity-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/sharon-sylvester/lemonade-cybersecurity-roadmap
+     📝 Cybersecurity roadmap project for a digital insurance company, covering security…
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 spakai/kafkaconnproof
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/spakai/kafkaconnproof
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 aseemmankotia/course-cisco-scor-350-701-security-core-2026
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/aseemmankotia/course-cisco-scor-350-701-security-core-2026
+     📝 Free study materials for cisco-scor-350-701-security-core-2026 — TechNuggets Aca…
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 ihavenoram/ip-triage
+     ⭐ 0  🗣 PowerShell  📅 2026-10-01
+     🔗 https://github.com/ihavenoram/ip-triage
+     📝 PowerShell 5.1 GUI that identifies a public IP or domain: owner, reputation, exp…
+     🏷  dmarc, dns, ip-lookup, msp, powershell, rdap, spf, threat-intel, winforms
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 allanloplus/ISO27001_A09
+     ⭐ 0  🗣 HTML  📅 2026-10-01
+     🔗 https://github.com/allanloplus/ISO27001_A09
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 andersonmorillo/reverse-skill-agent
+     ⭐ 0  🗣 PowerShell  📅 2026-10-01
+     🔗 https://github.com/andersonmorillo/reverse-skill-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 carloscus/g360-ventas-api
+     ⭐ 0  🗣 Go  📅 2026-10-01
+     🔗 https://github.com/carloscus/g360-ventas-api
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [NEW]   🆕 📦 meeeiii/cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-01
+     🔗 https://github.com/meeeiii/cybersecurity-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-02 04:33:43 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-02 04:33:43 UTC] [UPD]   📢 📦 TheSamLePirate/black-hole-gpu
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/TheSamLePirate/black-hole-gpu
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-02 04:33:43 UTC] [UPD]   📢 📦 Winter21c/archlinux-xiaomi-raphael
+     ⭐ 1  🗣 Shell  📅 2026-09-30
+     🔗 https://github.com/Winter21c/archlinux-xiaomi-raphael
+     📝 Arch Linux ARM (aarch64) for Xiaomi Redmi K20 Pro / Mi 9T Pro (raphael, SM8150):…
+     🏷  archlinux, archlinuxarm, kde, mainline-linux, plasma-mobile, qualcomm, redmi-k20-pro, sm8150, uboot, xiaomi
+     🔄 Motivo: repo recente (1gg)
+[2026-10-02 04:33:43 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-02 04:33:43 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-02 04:33:45 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-02 04:33:45 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-02 04:33:45 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-02 04:33:45 UTC] [UPD]   📢 📦 keyarr/aquaman-pi2055-research
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/keyarr/aquaman-pi2055-research
+     📝 Mi stick 1080p reverse engineering + first public device tree obtained from the …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-02 04:33:45 UTC] [UPD]   📢 📦 SailorNoheals/PS5-Relapse-SailorNoheals
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/SailorNoheals/PS5-Relapse-SailorNoheals
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-02 04:33:45 UTC] [UPD]   📢 📦 edisnord/relapse-y2jb
+     ⭐ 23  🗣 JavaScript  📅 2026-09-30
+     🔗 https://github.com/edisnord/relapse-y2jb
+     📝 Relapse exploit ported to Y2JB.
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-02 04:33:45 UTC] [UPD]   📢 📦 fuckbigtech-ai/homestead-gate
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/fuckbigtech-ai/homestead-gate
+     📝 A 2-of-2 approval gate for AI agents. Starts with GateBench: can a small local m…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-02 04:33:45 UTC] [INFO] ============================================================
+[2026-10-02 04:33:45 UTC] [INFO] Completato — 23 nuovi, 7 aggiornati, 0 errori
+[2026-10-02 04:33:45 UTC] [INFO] ============================================================
