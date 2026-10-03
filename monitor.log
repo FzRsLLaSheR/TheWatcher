@@ -102692,3 +102692,155 @@
 [2026-10-02 21:55:28 UTC] [INFO] ============================================================
 [2026-10-02 21:55:28 UTC] [INFO] Completato — 44 nuovi, 9 aggiornati, 0 errori
 [2026-10-02 21:55:28 UTC] [INFO] ============================================================
+[2026-10-03 04:16:23 UTC] [INFO] ============================================================
+[2026-10-03 04:16:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-03 04:16:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-03 04:16:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-03 04:16:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-03 04:16:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-03 04:16:23 UTC] [INFO] ============================================================
+[2026-10-03 04:16:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-03 04:16:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-03 04:16:25 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-03 04:16:25 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-03 04:16:25 UTC] [NEW]   🆕 📦 dzn0/hid-driver-triage
+     ⭐ 0  🗣 Python  📅 2026-10-03
+     🔗 https://github.com/dzn0/hid-driver-triage
+     📝 BYOVD triage for HID peripheral drivers — collect, fingerprint, and deep-analyze…
+     🏷  —
+[2026-10-03 04:16:25 UTC] [NEW]   🆕 📦 ubitquity/warlock-ransomware-remediation
+     ⭐ 0  🗣 PowerShell  📅 2026-10-02
+     🔗 https://github.com/ubitquity/warlock-ransomware-remediation
+     📝 Warlock Ransomware (ToolShell) Incident Response & Mitigation
+     🏷  —
+[2026-10-03 04:16:25 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-03 04:16:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-03 04:16:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-03 04:16:28 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 Jagalite/illiquid
+     ⭐ 0  🗣 Swift  📅 2026-10-02
+     🔗 https://github.com/Jagalite/illiquid
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 aedouard-grc/resume
+     ⭐ 0  🗣 N/A  📅 2026-10-03
+     🔗 https://github.com/aedouard-grc/resume
+     📝 Resume, certifications, systems, infrastructure  and cybersecurity portfolio
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 Rafaelnunes-alt2/file-integrity-monitor
+     ⭐ 0  🗣 C++  📅 2026-10-03
+     🔗 https://github.com/Rafaelnunes-alt2/file-integrity-monitor
+     📝 Monitor de integridade com SHA-256 próprio em C++17, sem OpenSSL.
+     🏷  cpp17, edr, filesystem, integrity, security-tools, sha-256
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 chuongnguyen89dn-ui/showcarplay
+     ⭐ 0  🗣 C  📅 2026-10-03
+     🔗 https://github.com/chuongnguyen89dn-ui/showcarplay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 adk4shi/edrbv
+     ⭐ 0  🗣 N/A  📅 2026-10-03
+     🔗 https://github.com/adk4shi/edrbv
+     📝 content
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 oxploited19/oxploited19
+     ⭐ 0  🗣 Smarty  📅 2026-10-03
+     🔗 https://github.com/oxploited19/oxploited19
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 CalebLenzCyber/ABC-Private-Healthcare-Cybersecurity-Policy
+     ⭐ 0  🗣 N/A  📅 2026-10-03
+     🔗 https://github.com/CalebLenzCyber/ABC-Private-Healthcare-Cybersecurity-Policy
+     📝 Enterprise cybersecurity policy for a fictional healthcare organization, mapped …
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 caue-santos-ralph-storm/platform-tester-report-20261002-ade2bfa5
+     ⭐ 0  🗣 HTML  📅 2026-10-03
+     🔗 https://github.com/caue-santos-ralph-storm/platform-tester-report-20261002-ade2bfa5
+     📝 Relatório público de testes EDR — execução 20261002T205216Z-ade2bfa5
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 ismaDf/wazuh-soc-n8n
+     ⭐ 1  🗣 Shell  📅 2026-10-02
+     🔗 https://github.com/ismaDf/wazuh-soc-n8n
+     📝 SOC con herramientas free
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 fmovdrymxz/edrlre
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/fmovdrymxz/edrlre
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 ubitquity/warlock-ransomware-remediation
+     ⭐ 0  🗣 PowerShell  📅 2026-10-02
+     🔗 https://github.com/ubitquity/warlock-ransomware-remediation
+     📝 Warlock Ransomware (ToolShell) Incident Response & Mitigation
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 tongaigodfreymapiye-collab/cyfort-website
+     ⭐ 0  🗣 HTML  📅 2026-10-02
+     🔗 https://github.com/tongaigodfreymapiye-collab/cyfort-website
+     📝 Official website and cybersecurity platform for Cyber Fortress Technologies (CyF…
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 AngelG1002/Entorno-SOC-Dom-stico-Monitoreo-Detecci-n-de-Amenazas-y-An-lisis-de-Incidentes
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/AngelG1002/Entorno-SOC-Dom-stico-Monitoreo-Detecci-n-de-Amenazas-y-An-lisis-de-Incidentes
+     📝 El objetivo es simular una infraestructura corporativa pequeña, atacar de forma …
+     🏷  —
+[2026-10-03 04:16:28 UTC] [NEW]   🆕 📦 shahzaibjanjua25/Wazuh-SIEM-PoC
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/shahzaibjanjua25/Wazuh-SIEM-PoC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-03 04:16:28 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-03 04:16:28 UTC] [UPD]   📢 📦 EDRockMaster/edrockmaster-plugin
+     ⭐ 0  🗣 Python  📅 2026-09-30
+     🔗 https://github.com/EDRockMaster/edrockmaster-plugin
+     📝 Plugin EDMC (EDMarketConnector) pour le minage dans Elite Dangerous : alertes pr…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-03 04:16:28 UTC] [UPD]   📢 📦 TheSamLePirate/black-hole-gpu
+     ⭐ 0  🗣 TypeScript  📅 2026-09-25
+     🔗 https://github.com/TheSamLePirate/black-hole-gpu
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-03 04:16:28 UTC] [UPD]   📢 📦 asif-visionary/HACTM
+     ⭐ 0  🗣 Python  📅 2026-10-02
+     🔗 https://github.com/asif-visionary/HACTM
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-03 04:16:28 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-03 04:16:28 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-03 04:16:31 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-03 04:16:31 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-03 04:16:31 UTC] [NEW]   🆕 📦 LXNX701/PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+     ⭐ 0  🗣 Swift  📅 2026-10-03
+     🔗 https://github.com/LXNX701/PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-03 04:16:31 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-03 04:16:31 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-03 04:16:31 UTC] [UPD]   📢 📦 billyrene/jb
+     ⭐ 0  🗣 JavaScript  📅 2026-10-02
+     🔗 https://github.com/billyrene/jb
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-03 04:16:31 UTC] [UPD]   📢 📦 PSH5JB/PSH5
+     ⭐ 3  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/PSH5JB/PSH5
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-03 04:16:31 UTC] [UPD]   📢 📦 Slxcky-1/Relapse-Exploit
+     ⭐ 1  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Slxcky-1/Relapse-Exploit
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-03 04:16:31 UTC] [INFO] ============================================================
+[2026-10-03 04:16:31 UTC] [INFO] Completato — 17 nuovi, 7 aggiornati, 0 errori
+[2026-10-03 04:16:31 UTC] [INFO] ============================================================
