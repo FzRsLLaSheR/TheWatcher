@@ -103932,3 +103932,234 @@
 [2026-10-04 16:35:34 UTC] [INFO] ============================================================
 [2026-10-04 16:35:34 UTC] [INFO] Completato — 35 nuovi, 6 aggiornati, 0 errori
 [2026-10-04 16:35:34 UTC] [INFO] ============================================================
+[2026-10-04 20:58:19 UTC] [INFO] ============================================================
+[2026-10-04 20:58:19 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-04 20:58:19 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-04 20:58:19 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-04 20:58:19 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-04 20:58:19 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-04 20:58:19 UTC] [INFO] ============================================================
+[2026-10-04 20:58:19 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-04 20:58:19 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-04 20:58:21 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-04 20:58:21 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-04 20:58:21 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-04 20:58:21 UTC] [UPD]   📢 📦 mukendi/mukendi
+     ⭐ 0  🗣 N/A  📅 2026-10-02
+     🔗 https://github.com/mukendi/mukendi
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-04 20:58:21 UTC] [UPD]   📢 📦 nikhil-aniill/maldev-rs
+     ⭐ 0  🗣 Rust  📅 2026-10-02
+     🔗 https://github.com/nikhil-aniill/maldev-rs
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-04 20:58:21 UTC] [UPD]   📢 📦 Cyber360-it/cyber-security-report
+     ⭐ 0  🗣 PowerShell  📅 2026-10-02
+     🔗 https://github.com/Cyber360-it/cyber-security-report
+     📝 Cyber Security Report mensile: threat intelligence ransomware, fonti, mapping MI…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-04 20:58:21 UTC] [UPD]   📢 📦 Jeetramoliya/RedTeamEnumerationTools
+     ⭐ 0  🗣 Shell  📅 2026-10-04
+     🔗 https://github.com/Jeetramoliya/RedTeamEnumerationTools
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-04 20:58:21 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-04 20:58:21 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-04 20:58:23 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 soulNebula/ESP32-Smart_Home_SystemClient-1
+     ⭐ 0  🗣 C  📅 2026-10-04
+     🔗 https://github.com/soulNebula/ESP32-Smart_Home_SystemClient-1
+     📝 客户基于ESP32实现的智能家居系统
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 adamnc5/SOC-Level-1
+     ⭐ 1  🗣 N/A  📅 2026-10-04
+     🔗 https://github.com/adamnc5/SOC-Level-1
+     📝 My learning and hand-on practice from TryHackMe SOC level 1 pathway.
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 kontratek/recon-essentials
+     ⭐ 0  🗣 Shell  📅 2026-10-04
+     🔗 https://github.com/kontratek/recon-essentials
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 darkblows/bcypher
+     ⭐ 0  🗣 Rust  📅 2026-10-04
+     🔗 https://github.com/darkblows/bcypher
+     📝 Contain a official latest BastetCypher application (ported in RUST)!
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 deadmau5v/turtle-soup
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/deadmau5v/turtle-soup
+     📝 🍲 海龟汤多人联机在线对局平台 - 集成 JEV 智能大模型裁判与中国真实事件千题硬核推理档案库 (Node 24 + Express + React 18 +…
+     🏷  lateral-thinking, mantine, multiplayer-game, nodejs, openrouter, react, situation-puzzle, socket-io, turtle-soup
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 codee-UI/List-of-Terminologies-Glossary-Cyber-Sec-
+     ⭐ 0  🗣 N/A  📅 2026-10-04
+     🔗 https://github.com/codee-UI/List-of-Terminologies-Glossary-Cyber-Sec-
+     📝 Cyber Sec Glossary Terms
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 ByGh00st/c2-timing-ndr-blindspots
+     ⭐ 0  🗣 N/A  📅 2026-10-04
+     🔗 https://github.com/ByGh00st/c2-timing-ndr-blindspots
+     📝 The Evolution of Command-and-Control (C2) Traffic and NDR Blind Spots: Advanced …
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 Cyb3rgh/Microsoft-365-Enterprise-Security-Lab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-04
+     🔗 https://github.com/Cyb3rgh/Microsoft-365-Enterprise-Security-Lab
+     📝 Cloud-only Microsoft 365 Business Premium lab covering Entra ID, Intune, Conditi…
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 Sanjjayrd/nettriage
+     ⭐ 0  🗣 JavaScript  📅 2026-10-04
+     🔗 https://github.com/Sanjjayrd/nettriage
+     📝 A lightweight, 100% client-side web application designed to help aspiring SOC an…
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 ivan7800/CAU-OS
+     ⭐ 0  🗣 N/A  📅 2026-10-04
+     🔗 https://github.com/ivan7800/CAU-OS
+     📝 CAU OS es una **base de conocimiento y biblioteca documental centralizada para e…
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 MIKE2634/malware-practise
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/MIKE2634/malware-practise
+     📝 python RAT combined with keystroke
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 jamixm4-crypto/sentinel
+     ⭐ 0  🗣 Rust  📅 2026-10-04
+     🔗 https://github.com/jamixm4-crypto/sentinel
+     📝 Open-source cross-platform defensive spyware, stalkerware and surveillance softw…
+     🏷  anti-surveillance, dfir, keylogger-detector, privacy, rust, security, security-tools, spyware, stalkerware
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 rakeshr9611-afk/phishing-email-analyzer
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/rakeshr9611-afk/phishing-email-analyzer
+     📝 Python tool that triages suspicious .eml files: SPF/DKIM/DMARC, lookalike domain…
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 tech-warrior11/NexusGuard
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/tech-warrior11/NexusGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 laklubin/Kubernetes_SIEM_Use_Case
+     ⭐ 0  🗣 JavaScript  📅 2026-10-04
+     🔗 https://github.com/laklubin/Kubernetes_SIEM_Use_Case
+     📝 Kubernetes_SIEM_Use_Case
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 nannachandu382-spec/cybersecurity
+     ⭐ 0  🗣 JavaScript  📅 2026-10-04
+     🔗 https://github.com/nannachandu382-spec/cybersecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 JW-0042/win-event-triage
+     ⭐ 0  🗣 C#  📅 2026-10-04
+     🔗 https://github.com/JW-0042/win-event-triage
+     📝 Read-only triage of Windows event logs with a desktop UI. 19 detection rules map…
+     🏷  blue-team, dfir, dotnet, event-log, incident-response, mitre-attack, security, threat-detection, windows, wpf
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 adityamahanta2006-rgb/digital_twin_for_urban_heat_island
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/adityamahanta2006-rgb/digital_twin_for_urban_heat_island
+     📝 Cities are replacing green spaces with asphalt, trapping heat and driving up coo…
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 Edris-Bahram/Edris-Bahram
+     ⭐ 0  🗣 N/A  📅 2026-10-04
+     🔗 https://github.com/Edris-Bahram/Edris-Bahram
+     📝 readme
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 vtk51/ds3-android11-shanwan-fix
+     ⭐ 0  🗣 N/A  📅 2026-10-04
+     🔗 https://github.com/vtk51/ds3-android11-shanwan-fix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 shrawaninarkhedkar-coder/Network-IDS-Simulation
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/shrawaninarkhedkar-coder/Network-IDS-Simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 Bilal-Wajid/Evaluating-Agentic-LLMs-and-Cyber-Resilience-in-Local-EDR
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/Bilal-Wajid/Evaluating-Agentic-LLMs-and-Cyber-Resilience-in-Local-EDR
+     📝 This paper evaluates the operational viability of local LLMs (TinyLlama 1.1B, Ll…
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 Iconic-PC/TechSecure-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-10-04
+     🔗 https://github.com/Iconic-PC/TechSecure-Incident-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-04 20:58:23 UTC] [NEW]   🆕 📦 grokggg/reverse-skill-workbuddy
+     ⭐ 0  🗣 PowerShell  📅 2026-10-04
+     🔗 https://github.com/grokggg/reverse-skill-workbuddy
+     📝 Mirror from jihulab Grantgust123/reverse-skill-workbuddy
+     🏷  —
+[2026-10-04 20:58:23 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-04 20:58:23 UTC] [UPD]   📢 📦 seanthegeek/coding-agent-collector
+     ⭐ 1  🗣 Python  📅 2026-10-03
+     🔗 https://github.com/seanthegeek/coding-agent-collector
+     📝 Dependency-free forensic collector for AI coding agent artifacts (Claude Code, G…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-04 20:58:23 UTC] [UPD]   📢 📦 KwangBeomPark/06_Stepwise
+     ⭐ 0  🗣 Python  📅 2026-10-03
+     🔗 https://github.com/KwangBeomPark/06_Stepwise
+     📝 윈도우용 간편 데스크탑 매크로 프로그램
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-04 20:58:23 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-04 20:58:23 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-04 20:58:25 UTC] [INFO]   → 27 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-04 20:58:25 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-04 20:58:25 UTC] [NEW]   🆕 📦 tomkubik/LG-WK7-speaker-reforged
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/tomkubik/LG-WK7-speaker-reforged
+     📝 New software for the (otherwise bricked) LG WK7 speaker: enables WiFi, Airplay, …
+     🏷  —
+[2026-10-04 20:58:25 UTC] [NEW]   🆕 📦 pscenter-lab/Pscenteretahen
+     ⭐ 0  🗣 C  📅 2026-10-04
+     🔗 https://github.com/pscenter-lab/Pscenteretahen
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-04 20:58:25 UTC] [NEW]   🆕 📦 ps5xploit/relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-10-04
+     🔗 https://github.com/ps5xploit/relapse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-04 20:58:25 UTC] [NEW]   🆕 📦 hornc-greedy/cjx-sandbox
+     ⭐ 0  🗣 Go  📅 2026-10-04
+     🔗 https://github.com/hornc-greedy/cjx-sandbox
+     📝 Run Claude Code, OpenAI Codex or pi.dev in a Podman or Docker sandbox
+     🏷  claude-code, codex, coding-agent, docker, podman, sandbox
+[2026-10-04 20:58:25 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-04 20:58:25 UTC] [UPD]   📢 📦 PSH5JB/PSH5
+     ⭐ 4  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/PSH5JB/PSH5
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-04 20:58:25 UTC] [UPD]   📢 📦 Slxcky-1/Relapse-Exploit
+     ⭐ 2  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Slxcky-1/Relapse-Exploit
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-04 20:58:25 UTC] [UPD]   📢 📦 kuyk15820-cpu/VIPTTIOSV1
+     ⭐ 0  🗣 Swift  📅 2026-09-30
+     🔗 https://github.com/kuyk15820-cpu/VIPTTIOSV1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-04 20:58:25 UTC] [UPD]   📢 📦 creekxi2026/ci-runner
+     ⭐ 0  🗣 Go  📅 2026-10-04
+     🔗 https://github.com/creekxi2026/ci-runner
+     📝 Isolated on-demand ARM64 CI runners for Docker and OrbStack
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-04 20:58:25 UTC] [UPD]   📢 📦 BillJones-SectorFlow/s908w-gze3-test
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/BillJones-SectorFlow/s908w-gze3-test
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-04 20:58:25 UTC] [INFO] ============================================================
+[2026-10-04 20:58:25 UTC] [INFO] Completato — 28 nuovi, 11 aggiornati, 0 errori
+[2026-10-04 20:58:25 UTC] [INFO] ============================================================
