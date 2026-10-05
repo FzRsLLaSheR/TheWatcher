@@ -104710,3 +104710,348 @@
 [2026-10-05 13:53:12 UTC] [INFO] ============================================================
 [2026-10-05 13:53:12 UTC] [INFO] Completato — 49 nuovi, 7 aggiornati, 0 errori
 [2026-10-05 13:53:12 UTC] [INFO] ============================================================
+[2026-10-05 23:50:10 UTC] [INFO] ============================================================
+[2026-10-05 23:50:10 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-05 23:50:10 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-05 23:50:10 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-05 23:50:10 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-05 23:50:10 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-05 23:50:10 UTC] [INFO] ============================================================
+[2026-10-05 23:50:10 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-05 23:50:10 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-05 23:50:13 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-05 23:50:13 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-05 23:50:13 UTC] [NEW]   🆕 📦 vinu4545/JOCKY-forensic-framework
+     ⭐ 0  🗣 C++  📅 2026-10-05
+     🔗 https://github.com/vinu4545/JOCKY-forensic-framework
+     📝 JOCKY is a programming framework which, examine suspicious activity, collect and…
+     🏷  —
+[2026-10-05 23:50:13 UTC] [NEW]   🆕 📦 noSkcaHdat/BYOVD-FinalYear-Project-Phase1
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/noSkcaHdat/BYOVD-FinalYear-Project-Phase1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:13 UTC] [NEW]   🆕 📦 afsh4ck/MalwareLLM
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/afsh4ck/MalwareLLM
+     📝 Analizador de malware con LLM en local
+     🏷  —
+[2026-10-05 23:50:13 UTC] [NEW]   🆕 📦 VegasGil/CYBER-AD-Sentinel-Lite_v3
+     ⭐ 0  🗣 PowerShell  📅 2026-10-05
+     🔗 https://github.com/VegasGil/CYBER-AD-Sentinel-Lite_v3
+     📝 CYBER-AD Sentinel-Lite v3 es una herramienta integral de auditoría de seguridad …
+     🏷  —
+[2026-10-05 23:50:13 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-05 23:50:13 UTC] [UPD]   📢 📦 bob-dev-byovd/bmuk
+     ⭐ 0  🗣 JavaScript  📅 2026-10-05
+     🔗 https://github.com/bob-dev-byovd/bmuk
+     📝 bob-dev-byocd official web page
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-05 23:50:13 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 73  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework
+     🏷  binary-analysis, bytecode-decompiler, claude-code, codex, decompiler, directed-acyclic-graph, disassembler, firmware-analysis, reverse-engineering
+     🔄 Motivo: nuovi topic: directed-acyclic-graph
+[2026-10-05 23:50:13 UTC] [UPD]   📢 📦 Pazificateur69/sentinelle-edr
+     ⭐ 0  🗣 Rust  📅 2026-10-05
+     🔗 https://github.com/Pazificateur69/sentinelle-edr
+     📝 EDR défensif en Rust : détection façon Sigma, corrélation par arbre de processus…
+     🏷  blue-team, edr, endpoint-security, etw, grpc, rust, security, sigma, threat-detection, xdr
+     🔄 Motivo: repo recente (0gg)
+[2026-10-05 23:50:13 UTC] [UPD]   📢 📦 Jeetramoliya/RedTeamEnumerationTools
+     ⭐ 0  🗣 Shell  📅 2026-10-04
+     🔗 https://github.com/Jeetramoliya/RedTeamEnumerationTools
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-05 23:50:13 UTC] [UPD]   📢 📦 wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     ⭐ 2  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-05 23:50:13 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-05 23:50:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-05 23:50:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 41 NUOVI repository:
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Mathefss11/secops-automation-lab
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/Mathefss11/secops-automation-lab
+     📝 Local Detection Engineering and Security Automation lab built with Python
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 weibaohui/aipassport-kbmic
+     ⭐ 0  🗣 C  📅 2026-10-05
+     🔗 https://github.com/weibaohui/aipassport-kbmic
+     📝 AI Passport 掌机 → 蓝牙语音输入遥控器(三键可自定义 BLE HID 键盘,挂 aipassport-fw 框架)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Entr0pyArchitect/Cybersecurity-Engineering-Portfolio
+     ⭐ 0  🗣 Rust  📅 2026-10-05
+     🔗 https://github.com/Entr0pyArchitect/Cybersecurity-Engineering-Portfolio
+     📝 Cybersecurity engineering portfolio covering secure systems, threat-informed def…
+     🏷  cybersecurity, detection-engineering, dfir, golang, portfolio, purple-team, python, rust, security-engineering, threat-intelligence
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 RaghuAkkaraju/ISControlsAgent
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/RaghuAkkaraju/ISControlsAgent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Adisasoc/PowerShell-Sysmon-Malware-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/Adisasoc/PowerShell-Sysmon-Malware-Investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 enzochristo/PI_tech_hack
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/enzochristo/PI_tech_hack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Quentalheitor/endpoint-arbiter-10x_backend_flyrank_capstone
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/Quentalheitor/endpoint-arbiter-10x_backend_flyrank_capstone
+     📝 Tiered triage engine and benchmark for endpoint telemetry
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 LeoSun58/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/LeoSun58/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 milamaja/ha-weerbericht
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/milamaja/ha-weerbericht
+     📝 Home Assistant integration: Dutch weather exactly as the KNMI app shows it, with…
+     🏷  hacs, home-assistant, home-assistant-custom-integration, homeassistant, knmi, netherlands, weather
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 re-enter-sys/LinuxCIty
+     ⭐ 0  🗣 HTML  📅 2026-10-05
+     🔗 https://github.com/re-enter-sys/LinuxCIty
+     📝 Local Linux security monitoring and investigation platform with behavioral detec…
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 josuemdea8-pixel/windows-log-analyzer
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/josuemdea8-pixel/windows-log-analyzer
+     📝 Triagem de logs do Windows (4624/4625/4688) com mapeamento MITRE ATT&CK
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 donngordon/detection-rules
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/donngordon/detection-rules
+     📝 Original Sigma detection rules mapped to MITRE ATT&CK
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 aryansinghshaktawat/CloudDefend
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/aryansinghshaktawat/CloudDefend
+     📝 Cloud-based SSH threat detection and security monitoring platform built on Micro…
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 seymanuraslan/BlueTeamLab
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/seymanuraslan/BlueTeamLab
+     📝 Personal blue team home lab covering Active Directory, SIEM, EDR, NDR, CTI and h…
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 encryptedroots/ABE-decryption
+     ⭐ 1  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/encryptedroots/ABE-decryption
+     📝 enables user-mode decryption of cookies for Chromium-based browsers that have im…
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 afsh4ck/MalwareLLM
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/afsh4ck/MalwareLLM
+     📝 Analizador de malware con LLM en local
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 KtoIaSharp/UBPD
+     ⭐ 0  🗣 C  📅 2026-10-04
+     🔗 https://github.com/KtoIaSharp/UBPD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Jayakumar52/CYBERNEXUS-AI-SIH-1
+     ⭐ 0  🗣 TypeScript  📅 2026-10-05
+     🔗 https://github.com/Jayakumar52/CYBERNEXUS-AI-SIH-1
+     📝 CYBERNEUS AI
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Jcnovoa1/Panel-de-riesgo
+     ⭐ 0  🗣 TypeScript  📅 2026-10-05
+     🔗 https://github.com/Jcnovoa1/Panel-de-riesgo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 tb-oliveira/tb-oliveira
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/tb-oliveira/tb-oliveira
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 engmohamedelmoursy-lang/Edrak-Grid-Platform
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/engmohamedelmoursy-lang/Edrak-Grid-Platform
+     📝 نظام إدراكي تنبؤي ذاتي الشفاء لشبكات الكهرباء | RG ENERGY
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Elakiya2904/SentinelGraph_AI-Powered-Attack-Path-and-Autonomous-Security-Investigation-Platform
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/Elakiya2904/SentinelGraph_AI-Powered-Attack-Path-and-Autonomous-Security-Investigation-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Santiago-Agudelo-R/IR-Triage-Collector
+     ⭐ 0  🗣 PowerShell  📅 2026-10-05
+     🔗 https://github.com/Santiago-Agudelo-R/IR-Triage-Collector
+     📝 Enterprise live-response forensic triage collector for Windows endpoints during …
+     🏷  crowdstrike, dfir, incident-response, live-response, powershell, soc, threat-hunting
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Generative-AI-Cybersecurity-Assistant
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/ishandutta2007/Awesome-Generative-AI-Cybersecurity-Assistant
+     📝 Top Generative AI Cybersecurity Assistant (Opensource)  Star if you like it! 
+     🏷  ai-security, awesome-list, curated-list, cybersecurity, cybersecurity-assistant, generative-ai, llm-security
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Santiago-Agudelo-R/Santiago-Agudelo-R
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/Santiago-Agudelo-R/Santiago-Agudelo-R
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Chinarajaraochamarthi/Chinarajaraochamarthi
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/Chinarajaraochamarthi/Chinarajaraochamarthi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 mirudhu07/edrev
+     ⭐ 0  🗣 JavaScript  📅 2026-10-05
+     🔗 https://github.com/mirudhu07/edrev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 heyved/jocky-forensic-platform
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/heyved/jocky-forensic-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Chaitanya-datta/process-file-security-auditor
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/Chaitanya-datta/process-file-security-auditor
+     📝 An explainable OS security auditor for monitoring processes, detecting suspiciou…
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 atbqir84ho/perplexityai__bumblebee.cc57710e
+     ⭐ 0  🗣 Go  📅 2026-10-05
+     🔗 https://github.com/atbqir84ho/perplexityai__bumblebee.cc57710e
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 diegoacuna-softrace/agente-actividad
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/diegoacuna-softrace/agente-actividad
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 qasimali-debug/wazuh-sysmon-soc-lab
+     ⭐ 0  🗣 Shell  📅 2026-10-05
+     🔗 https://github.com/qasimali-debug/wazuh-sysmon-soc-lab
+     📝 Enterprise SOC & SIEM Lab: Wazuh 4.9, Sysmon & MITRE ATT&CK Threat Detection
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 phalvax/edram-competitive-intelligence
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/phalvax/edram-competitive-intelligence
+     📝 Predicting 31 asset managers' positioning on 6 European markets: factor model, M…
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 deepikaexplores/Cyber-GRC-Risk-Assessment
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/deepikaexplores/Cyber-GRC-Risk-Assessment
+     📝 A practical Cyber GRC risk assessment case study for a fictional healthcare orga…
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 pauline12ish34/Heptasec-Platform
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/pauline12ish34/Heptasec-Platform
+     📝 heptasec
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 oghacker001/kernel-guardian
+     ⭐ 0  🗣 C++  📅 2026-10-05
+     🔗 https://github.com/oghacker001/kernel-guardian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 IRB0T/Ai-In-DFIR
+     ⭐ 0  🗣 HTML  📅 2026-10-05
+     🔗 https://github.com/IRB0T/Ai-In-DFIR
+     📝 Reusable AI skills, investigation workflows, and reporting frameworks for Digita…
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 ZakariaHibaoui2/malware-static-triage
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/ZakariaHibaoui2/malware-static-triage
+     📝 Static malware triage: magic-byte typing, entropy, strings/IOCs, pure-Python PE …
+     🏷  cybersecurity, dfir, malware-analysis, pe-parser, python, reverse-engineering, threat-hunting, yara
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 Mosinmi/siem-security-monitoring-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/Mosinmi/siem-security-monitoring-lab
+     📝 hands-on Splunk SIEM lab focused on security monitoring, detection engineering, …
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 NitelPhyoe/Golopas
+     ⭐ 1  🗣 Go  📅 2026-10-05
+     🔗 https://github.com/NitelPhyoe/Golopas
+     📝  A minimal Windows shellcode runner written in Go - loads base64 shellcode from …
+     🏷  —
+[2026-10-05 23:50:16 UTC] [NEW]   🆕 📦 vishnugovindu23-cmd/ioc-enrichment-tool
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/vishnugovindu23-cmd/ioc-enrichment-tool
+     📝 IOC enrichment CLI for SOC triage using VirusTotal, AbuseIPDB and WHOIS, with ri…
+     🏷  —
+[2026-10-05 23:50:16 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-05 23:50:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-05 23:50:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-05 23:50:19 UTC] [INFO]   → 30 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-05 23:50:19 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-10-05 23:50:19 UTC] [NEW]   🆕 📦 santiago88acosta-bit/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/santiago88acosta-bit/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:19 UTC] [NEW]   🆕 📦 djsydney04/cloud-agents
+     ⭐ 0  🗣 Rust  📅 2026-10-05
+     🔗 https://github.com/djsydney04/cloud-agents
+     📝 Run cloud agents on spare infra
+     🏷  —
+[2026-10-05 23:50:19 UTC] [NEW]   🆕 📦 beoc611-debug/ios-build-ff
+     ⭐ 0  🗣 Swift  📅 2026-10-05
+     🔗 https://github.com/beoc611-debug/ios-build-ff
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:19 UTC] [NEW]   🆕 📦 garvit-agarwal-purdue/MalValid
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/garvit-agarwal-purdue/MalValid
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:19 UTC] [NEW]   🆕 📦 Nightlybike023/ghostcontrol-ps5-wheel
+     ⭐ 0  🗣 C  📅 2026-10-05
+     🔗 https://github.com/Nightlybike023/ghostcontrol-ps5-wheel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 23:50:19 UTC] [NEW]   🆕 📦 bradyirwin1020-oss/NuLLSPACE
+     ⭐ 0  🗣 JavaScript  📅 2026-10-05
+     🔗 https://github.com/bradyirwin1020-oss/NuLLSPACE
+     📝 loader
+     🏷  —
+[2026-10-05 23:50:19 UTC] [NEW]   🆕 📦 sifatnotes/Learn-SecByte-CTF-Labs-Dirty-COW-Kernel-Security-Shells-Proxy-Pivoting
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Dirty-COW-Kernel-Security-Shells-Proxy-Pivoting
+     📝 Hands-on cybersecurity and CTF labs covering Dirty COW, Linux kernel security, k…
+     🏷  —
+[2026-10-05 23:50:19 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-05 23:50:19 UTC] [UPD]   📢 📦 marcosjcn94-bit/rnaseq-agent-task
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/marcosjcn94-bit/rnaseq-agent-task
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-05 23:50:19 UTC] [UPD]   📢 📦 creekxi2026/ci-runner
+     ⭐ 0  🗣 Go  📅 2026-10-04
+     🔗 https://github.com/creekxi2026/ci-runner
+     📝 Isolated on-demand ARM64 CI runners for Docker and OrbStack
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-05 23:50:19 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-05 23:50:19 UTC] [UPD]   📢 📦 ManoharPadul/ps5-relapse-autoloader
+     ⭐ 0  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/ManoharPadul/ps5-relapse-autoloader
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-05 23:50:19 UTC] [UPD]   📢 📦 18157153951-sudo/DSFile
+     ⭐ 0  🗣 Swift  📅 2026-10-02
+     🔗 https://github.com/18157153951-sudo/DSFile
+     📝 类 Filza 的 iOS 文件管理器 + 脚本替换引擎（DarkSword，免越狱，纯本机工具）
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-05 23:50:19 UTC] [INFO] ============================================================
+[2026-10-05 23:50:19 UTC] [INFO] Completato — 52 nuovi, 10 aggiornati, 0 errori
+[2026-10-05 23:50:19 UTC] [INFO] ============================================================
