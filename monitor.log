@@ -104398,3 +104398,315 @@
 [2026-10-05 04:35:59 UTC] [INFO] ============================================================
 [2026-10-05 04:35:59 UTC] [INFO] Completato — 36 nuovi, 5 aggiornati, 0 errori
 [2026-10-05 04:35:59 UTC] [INFO] ============================================================
+[2026-10-05 13:53:05 UTC] [INFO] ============================================================
+[2026-10-05 13:53:05 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-05 13:53:05 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-05 13:53:05 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-05 13:53:05 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-05 13:53:05 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-05 13:53:05 UTC] [INFO] ============================================================
+[2026-10-05 13:53:05 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-05 13:53:05 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-05 13:53:08 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-05 13:53:08 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-05 13:53:08 UTC] [NEW]   🆕 📦 wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     ⭐ 2  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:08 UTC] [NEW]   🆕 📦 Pazificateur69/sentinelle-edr
+     ⭐ 0  🗣 Rust  📅 2026-10-05
+     🔗 https://github.com/Pazificateur69/sentinelle-edr
+     📝 EDR défensif en Rust : détection façon Sigma, corrélation par arbre de processus…
+     🏷  blue-team, edr, endpoint-security, etw, grpc, rust, security, sigma, threat-detection, xdr
+[2026-10-05 13:53:08 UTC] [NEW]   🆕 📦 bob-dev-byovd/bmuk
+     ⭐ 0  🗣 JavaScript  📅 2026-10-05
+     🔗 https://github.com/bob-dev-byovd/bmuk
+     📝 bob-dev-byocd official web page
+     🏷  —
+[2026-10-05 13:53:08 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-05 13:53:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-05 13:53:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-05 13:53:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 41 NUOVI repository:
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 jishnu-cyberexpert/cyber-fusion
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/jishnu-cyberexpert/cyber-fusion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 chittemsettygovardhanrao-tech/ThreatVision-Inside-Threat-Predictor
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/chittemsettygovardhanrao-tech/ThreatVision-Inside-Threat-Predictor
+     📝 A Python-based desktop cybersecurity application for insider-threat detection, b…
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 fab971cool/os-security
+     ⭐ 0  🗣 Shell  📅 2026-10-04
+     🔗 https://github.com/fab971cool/os-security
+     📝 Exploring operating systems security 
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 5w0rdfi5h/5w0rdfi5h
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/5w0rdfi5h/5w0rdfi5h
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 s28098mo3snd/edrgc
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/s28098mo3snd/edrgc
+     📝 content
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 rootmak404/ai-insider-threat-detection
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/rootmak404/ai-insider-threat-detection
+     📝 Cross-platform insider threat detection: Python agent, FastAPI rule engine + Ran…
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 aryasahil96-manu/rednoise-index
+     ⭐ 0  🗣 HTML  📅 2026-10-05
+     🔗 https://github.com/aryasahil96-manu/rednoise-index
+     📝 A local planning aid for authorized red-team exercises, with illustrative detect…
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 OgiboyinaAkash/TLS_Fingerprinting
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/OgiboyinaAkash/TLS_Fingerprinting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 maplesierra54/edrfq
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/maplesierra54/edrfq
+     📝 content
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 fehmicorp/sepra
+     ⭐ 0  🗣 Go  📅 2026-10-05
+     🔗 https://github.com/fehmicorp/sepra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 abdullaevz/eDrive
+     ⭐ 0  🗣 Kotlin  📅 2026-10-05
+     🔗 https://github.com/abdullaevz/eDrive
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 Alejandrog49822/AppDeployAI
+     ⭐ 0  🗣 PowerShell  📅 2026-10-05
+     🔗 https://github.com/Alejandrog49822/AppDeployAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 MichielBruijn/phonavigator
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/MichielBruijn/phonavigator
+     📝 Phone as a poor man's 3D space mouse (Android BLE + tray app -> spacenavd)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     ⭐ 2  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 justavenoir/justavenoir
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/justavenoir/justavenoir
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 tmvictorpeters/jbo4rgl
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/tmvictorpeters/jbo4rgl
+     📝 r30xlqo6从一个辅助 API 看资源边界：CVE-2026-71486（vLLM）w680rjb2afux
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 roywenangr/mini-siem
+     ⭐ 0  🗣 Go  📅 2026-10-05
+     🔗 https://github.com/roywenangr/mini-siem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 xiaojunuyy/gf7omk
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/xiaojunuyy/gf7omk
+     📝 nprw6aci三个世界第一，为什么还填不上天马的亏损？itfog21icvur
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 alestormbringer/Screen-Mirroring-iPhone-Windows
+     ⭐ 0  🗣 C#  📅 2026-10-05
+     🔗 https://github.com/alestormbringer/Screen-Mirroring-iPhone-Windows
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 Pazificateur69/sentinelle-edr
+     ⭐ 0  🗣 Rust  📅 2026-10-05
+     🔗 https://github.com/Pazificateur69/sentinelle-edr
+     📝 EDR défensif en Rust : détection façon Sigma, corrélation par arbre de processus…
+     🏷  blue-team, edr, endpoint-security, etw, grpc, rust, security, sigma, threat-detection, xdr
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 DinhDuyen2810/Malware
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/DinhDuyen2810/Malware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 PIYUSH5431/LENS-Linux-Endpoint-Monitoring
+     ⭐ 0  🗣 Batchfile  📅 2026-10-05
+     🔗 https://github.com/PIYUSH5431/LENS-Linux-Endpoint-Monitoring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 veeravenkateswarlu-kadiyala/cyber-threat-detection-using-advanced-AI-models
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/veeravenkateswarlu-kadiyala/cyber-threat-detection-using-advanced-AI-models
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 LuccaDe/Active-Directory-Pentest
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/LuccaDe/Active-Directory-Pentest
+     📝 Plataforma web interativa (Flask) de curso de pentest em Active Directory — 12 m…
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 bhagvatpimpale/brightlayer-stores-risk-memo
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/bhagvatpimpale/brightlayer-stores-risk-memo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 najisheheem05/Pulse
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/najisheheem05/Pulse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Endpoint-Detection-And-Response-EDR
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/ishandutta2007/Awesome-Endpoint-Detection-And-Response-EDR
+     📝 Top Endpoint Detection And Response EDR (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, edr, endpoint-detection-and-response, threat-hunting
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 golden-ion97/edreo
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/golden-ion97/edreo
+     📝 content
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 aduadu6824/ShieldOne
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/aduadu6824/ShieldOne
+     📝 CIS
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 tinha04/NeuroMorphic
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/tinha04/NeuroMorphic
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 Manaswini-33/phishing-email-analyzer
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/Manaswini-33/phishing-email-analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 abdumalikyaqub/tuzat
+     ⭐ 0  🗣 C#  📅 2026-10-05
+     🔗 https://github.com/abdumalikyaqub/tuzat
+     📝 Fix text typed in the wrong keyboard layout with one key. Open-source, privacy-f…
+     🏷  csharp, cyrillic, dotnet, keyboard, keyboard-layout, layout-switcher, open-source, productivity, punto-switcher, russian, text-conversion, tray-app, typing, windows, windows-app, winforms
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 harborwillow71/edram
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/harborwillow71/edram
+     📝 content
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 Saf527/Saf527
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/Saf527/Saf527
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 NagendraBabuEdru/NagendraBabuEdru.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-05
+     🔗 https://github.com/NagendraBabuEdru/NagendraBabuEdru.github.io
+     📝 Personal homepage of Nagendra Babu Edru
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 TwoBytesLabs/cryptech
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/TwoBytesLabs/cryptech
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 deanlinda24/edrr
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/deanlinda24/edrr
+     📝 content
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 calmtimber15/edrz
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/calmtimber15/edrz
+     📝 content
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 yobi369/Redhack-Ai-
+     ⭐ 0  🗣 TypeScript  📅 2026-10-05
+     🔗 https://github.com/yobi369/Redhack-Ai-
+     📝 AI-powered cybersecurity platform for threat simulation, vulnerability assessmen…
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 orenalivah/edrwd
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/orenalivah/edrwd
+     📝 content
+     🏷  —
+[2026-10-05 13:53:10 UTC] [NEW]   🆕 📦 ridge4708/edraa
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/ridge4708/edraa
+     📝 content
+     🏷  —
+[2026-10-05 13:53:10 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-05 13:53:10 UTC] [UPD]   📢 📦 MIKE2634/malware-practise
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/MIKE2634/malware-practise
+     📝 python RAT combined with keystroke
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-05 13:53:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-05 13:53:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-05 13:53:12 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-05 13:53:12 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-10-05 13:53:12 UTC] [NEW]   🆕 📦 Pentest-Automation-Toolkit/Pentest-lab-metasploit-exploitation
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/Pentest-Automation-Toolkit/Pentest-lab-metasploit-exploitation
+     📝 Manual and automated exploitation lab using Metasploit, Nmap, and Hydra on Linux…
+     🏷  —
+[2026-10-05 13:53:12 UTC] [NEW]   🆕 📦 marcosjcn94-bit/rnaseq-agent-task
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/marcosjcn94-bit/rnaseq-agent-task
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:12 UTC] [NEW]   🆕 📦 Skanda001/ByteArena
+     ⭐ 0  🗣 TypeScript  📅 2026-10-04
+     🔗 https://github.com/Skanda001/ByteArena
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:12 UTC] [NEW]   🆕 📦 sudoBlackArch/1
+     ⭐ 0  🗣 HTML  📅 2026-10-05
+     🔗 https://github.com/sudoBlackArch/1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:12 UTC] [NEW]   🆕 📦 Squally6dima/Lara-27
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/Squally6dima/Lara-27
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-05 13:53:12 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-10-05 13:53:12 UTC] [UPD]   📢 📦 PSH5JB/PSH5
+     ⭐ 4  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/PSH5JB/PSH5
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-05 13:53:12 UTC] [UPD]   📢 📦 Slxcky-1/Relapse-Exploit
+     ⭐ 2  🗣 JavaScript  📅 2026-09-29
+     🔗 https://github.com/Slxcky-1/Relapse-Exploit
+     📝 PS5 Host
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-05 13:53:12 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-05 13:53:12 UTC] [UPD]   📢 📦 DSWYa/LUNA-AI
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/DSWYa/LUNA-AI
+     📝 LUNA is a lightweight, containerized environment designed to give a local AI mod…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-05 13:53:12 UTC] [UPD]   📢 📦 WolfSc84/PS5-Server-Jailbreak
+     ⭐ 0  🗣 JavaScript  📅 2026-10-03
+     🔗 https://github.com/WolfSc84/PS5-Server-Jailbreak
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-05 13:53:12 UTC] [UPD]   📢 📦 creekxi2026/ci-runner
+     ⭐ 0  🗣 Go  📅 2026-10-04
+     🔗 https://github.com/creekxi2026/ci-runner
+     📝 Isolated on-demand ARM64 CI runners for Docker and OrbStack
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-05 13:53:12 UTC] [INFO] ============================================================
+[2026-10-05 13:53:12 UTC] [INFO] Completato — 49 nuovi, 7 aggiornati, 0 errori
+[2026-10-05 13:53:12 UTC] [INFO] ============================================================
