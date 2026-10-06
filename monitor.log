@@ -105245,3 +105245,280 @@
 [2026-10-06 05:22:02 UTC] [INFO] ============================================================
 [2026-10-06 05:22:02 UTC] [INFO] Completato — 27 nuovi, 5 aggiornati, 0 errori
 [2026-10-06 05:22:02 UTC] [INFO] ============================================================
+[2026-10-06 12:56:02 UTC] [INFO] ============================================================
+[2026-10-06 12:56:02 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-06 12:56:02 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-06 12:56:02 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-06 12:56:02 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-06 12:56:02 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-06 12:56:02 UTC] [INFO] ============================================================
+[2026-10-06 12:56:02 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-06 12:56:02 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-06 12:56:04 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-06 12:56:04 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-06 12:56:04 UTC] [NEW]   🆕 📦 dan098/blacksite
+     ⭐ 1  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/dan098/blacksite
+     📝 Detonate. Trace. Contain. Local-first Windows analysis lab with disposable QEMU/…
+     🏷  dfir, kvm, malware-analysis, python, qemu, sandbox, static-analysis, windows
+[2026-10-06 12:56:04 UTC] [NEW]   🆕 📦 whory/mcp-gamehacking
+     ⭐ 1  🗣 TypeScript  📅 2026-10-05
+     🔗 https://github.com/whory/mcp-gamehacking
+     📝 MCP (Model Context Protocol) server for game hacking & reverse engineering. A st…
+     🏷  —
+[2026-10-06 12:56:04 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-06 12:56:04 UTC] [UPD]   📢 📦 Pazificateur69/sentinelle-edr
+     ⭐ 0  🗣 HTML  📅 2026-10-05
+     🔗 https://github.com/Pazificateur69/sentinelle-edr
+     📝 EDR défensif en Rust : détection façon Sigma, corrélation par arbre de processus…
+     🏷  blue-team, edr, endpoint-security, etw, grpc, rust, security, sigma, threat-detection, xdr
+     🔄 Motivo: repo recente (1gg)
+[2026-10-06 12:56:04 UTC] [UPD]   📢 📦 VegasGil/CYBER-AD-Sentinel-Lite_v3
+     ⭐ 0  🗣 PowerShell  📅 2026-10-05
+     🔗 https://github.com/VegasGil/CYBER-AD-Sentinel-Lite_v3
+     📝 CYBER-AD Sentinel-Lite v3 es una herramienta integral de auditoría de seguridad …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-06 12:56:04 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-06 12:56:04 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-06 12:56:08 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 35 NUOVI repository:
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 dinosecferramentadracena/dio-phishing-setoolkit
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/dinosecferramentadracena/dio-phishing-setoolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 dat267/md-102-protect-devices-intune
+     ⭐ 0  🗣 HTML  📅 2026-10-05
+     🔗 https://github.com/dat267/md-102-protect-devices-intune
+     📝 MD-102: notes from the Microsoft Learn 'Protect devices using Microsoft Intune' …
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Security-Data-Lake
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/ishandutta2007/Awesome-Security-Data-Lake
+     📝 Top Security Data Lake (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, security-data-lake, siem, threat-detection
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Security-Investigation-Threat-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/ishandutta2007/Awesome-Security-Investigation-Threat-Analysis
+     📝 Top Security Investigation Threat Analysis (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, security, siem, threat-analysis, threat-hunting
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 erevenue-dscc-gov-bd/edroll-whatsapp-hub
+     ⭐ 0  🗣 TypeScript  📅 2026-10-06
+     🔗 https://github.com/erevenue-dscc-gov-bd/edroll-whatsapp-hub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 Youness1194/Youness1194
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/Youness1194/Youness1194
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 samaritan551/samaritan-a1
+     ⭐ 1  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/samaritan551/samaritan-a1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 stratospherea-bit/edr-logger
+     ⭐ 0  🗣 HTML  📅 2026-10-06
+     🔗 https://github.com/stratospherea-bit/edr-logger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 oferswebderofly/edrwh
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/oferswebderofly/edrwh
+     📝 content
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 henrymosk1011/cyberxla-admin
+     ⭐ 0  🗣 Svelte  📅 2026-10-06
+     🔗 https://github.com/henrymosk1011/cyberxla-admin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 Dungdebug/DA_BMTT
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/Dungdebug/DA_BMTT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 hanu6677/Adaptive-Security-Research
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/hanu6677/Adaptive-Security-Research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 hj6403082-glitch/Monorepo
+     ⭐ 0  🗣 Rust  📅 2026-10-06
+     🔗 https://github.com/hj6403082-glitch/Monorepo
+     📝 A high-performance Linux runtime security agent that leverages eBPF kernel hooks…
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 arthmaurya/44CON_2026
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/arthmaurya/44CON_2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 PGANIPER/Proyecto-2-ASIR
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/PGANIPER/Proyecto-2-ASIR
+     📝 Mini-SOC para una PYME: aplicación web Flask y MySQL protegida con pfSense, moni…
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 0xn3by/endpoint-security-lab
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/0xn3by/endpoint-security-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 santabanta-bro/KRDebpf-Kernel-Rootkit-Detector-using-eBPF
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/santabanta-bro/KRDebpf-Kernel-Rootkit-Detector-using-eBPF
+     📝 Project created for detecting rootkits in Linux using eBPF. Monitors kernel-leve…
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 Neisvestney/buds-sniffer
+     ⭐ 0  🗣 Kotlin  📅 2026-10-05
+     🔗 https://github.com/Neisvestney/buds-sniffer
+     📝 Battery levels (left / right / case) for Redmi Buds clones built on JieLi chips
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 sprostebii/SandraCyber
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/sprostebii/SandraCyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 AUM7kamera/MK1Ai
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/AUM7kamera/MK1Ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 VegasGil/CYBER-AD-Sentinel-Lite_v3
+     ⭐ 0  🗣 PowerShell  📅 2026-10-05
+     🔗 https://github.com/VegasGil/CYBER-AD-Sentinel-Lite_v3
+     📝 CYBER-AD Sentinel-Lite v3 es una herramienta integral de auditoría de seguridad …
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 sprostebii/sprostebii
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/sprostebii/sprostebii
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 Rashad635/Email-Investigation-Report-Duolingo-Impersonation
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/Rashad635/Email-Investigation-Report-Duolingo-Impersonation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 emaltinho/edrc
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/emaltinho/edrc
+     📝 content
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 sparkx313/cybersecurity-keylogger-detector
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/sparkx313/cybersecurity-keylogger-detector
+     📝 Endpoint Detection & Response (EDR) security script scanning running system proc…
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 sharmaanushka/SOC_IncidentResponse_-CaseStudy
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/sharmaanushka/SOC_IncidentResponse_-CaseStudy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 NekoKits1/Reverse-Shell-Python-TCP
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/NekoKits1/Reverse-Shell-Python-TCP
+     📝 Ce projet implémente un reverse shell en Python et comprendre ce qu'elle laisse …
+     🏷  cybersecurity, reverse-shell
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 jesper1982atea/Crashlog-detector-Windows
+     ⭐ 0  🗣 PowerShell  📅 2026-10-06
+     🔗 https://github.com/jesper1982atea/Crashlog-detector-Windows
+     📝 Crashlog detector
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 centralste/edrb
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/centralste/edrb
+     📝 content
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 blackmatriXblack/realtime-monitor-windowscomputer
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/blackmatriXblack/realtime-monitor-windowscomputer
+     📝 A single-file, real-time system activity monitor for Windows that renders a live…
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 yexiwen289/yinshi-mesh
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/yexiwen289/yinshi-mesh
+     📝 纯本机AI Agent 终端：单文件Python内核+ 105外挂工具 + 守护环/内核级PPL防护 + 集成平台层
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 vsaaz/edrl
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/vsaaz/edrl
+     📝 content
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 djrmt3k5x/edre
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/djrmt3k5x/edre
+     📝 content
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 Emerole7/grc-threat-risk-assessment
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/Emerole7/grc-threat-risk-assessment
+     📝 NIST SP 800-30 + CSF 2.0 threat risk assessment of a Canadian SMB: 18 scored ris…
+     🏷  —
+[2026-10-06 12:56:08 UTC] [NEW]   🆕 📦 huang-longxgx/uyhzngsil
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/huang-longxgx/uyhzngsil
+     📝 0q2h8o1i2026polarctf秋季赛部分题解yolpas0jzjw0
+     🏷  —
+[2026-10-06 12:56:08 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-06 12:56:08 UTC] [UPD]   📢 📦 yumaitau/blaksoc
+     ⭐ 0  🗣 TypeScript  📅 2026-09-28
+     🔗 https://github.com/yumaitau/blaksoc
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-06 12:56:08 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-06 12:56:08 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-06 12:56:11 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-06 12:56:11 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-10-06 12:56:11 UTC] [NEW]   🆕 📦 vk1-tech/vk1-tech.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-10-06
+     🔗 https://github.com/vk1-tech/vk1-tech.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:11 UTC] [NEW]   🆕 📦 Jayakrishnasai/AccuKnox_Assessment
+     ⭐ 0  🗣 HTML  📅 2026-10-06
+     🔗 https://github.com/Jayakrishnasai/AccuKnox_Assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 12:56:11 UTC] [NEW]   🆕 📦 whory/mcp-gamehacking
+     ⭐ 1  🗣 TypeScript  📅 2026-10-05
+     🔗 https://github.com/whory/mcp-gamehacking
+     📝 MCP (Model Context Protocol) server for game hacking & reverse engineering. A st…
+     🏷  —
+[2026-10-06 12:56:11 UTC] [NEW]   🆕 📦 hkyttkx/LISOESP
+     ⭐ 0  🗣 Objective-C++  📅 2026-10-06
+     🔗 https://github.com/hkyttkx/LISOESP
+     📝 文明重启 跨进程只读 ESP —— 注入 SpringBoard，纯 mach_vm_read，游戏进程零改动
+     🏷  —
+[2026-10-06 12:56:11 UTC] [NEW]   🆕 📦 ibrahim2100/exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-10-06
+     🔗 https://github.com/ibrahim2100/exploit
+     📝 PS5 Jailbreak Launcher & Payload Store — by Ibrahim AL-Rahn
+     🏷  —
+[2026-10-06 12:56:11 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-06 12:56:11 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-06 12:56:11 UTC] [UPD]   📢 📦 hoxuancanhh002-web/ff-build
+     ⭐ 0  🗣 Swift  📅 2026-10-06
+     🔗 https://github.com/hoxuancanhh002-web/ff-build
+     📝 iOS build
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-06 12:56:11 UTC] [UPD]   📢 📦 sliptripfalldown/psbug
+     ⭐ 0  🗣 JavaScript  📅 2026-10-06
+     🔗 https://github.com/sliptripfalldown/psbug
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-06 12:56:11 UTC] [UPD]   📢 📦 marcosjcn94-bit/rnaseq-agent-task
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/marcosjcn94-bit/rnaseq-agent-task
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-06 12:56:11 UTC] [INFO] ============================================================
+[2026-10-06 12:56:11 UTC] [INFO] Completato — 42 nuovi, 7 aggiornati, 0 errori
+[2026-10-06 12:56:11 UTC] [INFO] ============================================================
