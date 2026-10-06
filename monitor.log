@@ -105055,3 +105055,193 @@
 [2026-10-05 23:50:19 UTC] [INFO] ============================================================
 [2026-10-05 23:50:19 UTC] [INFO] Completato — 52 nuovi, 10 aggiornati, 0 errori
 [2026-10-05 23:50:19 UTC] [INFO] ============================================================
+[2026-10-06 05:21:54 UTC] [INFO] ============================================================
+[2026-10-06 05:21:54 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-06 05:21:54 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-06 05:21:54 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-06 05:21:54 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-06 05:21:54 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-06 05:21:54 UTC] [INFO] ============================================================
+[2026-10-06 05:21:54 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-06 05:21:54 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-06 05:21:56 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-06 05:21:56 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-06 05:21:56 UTC] [NEW]   🆕 📦 dancing4am/win-kernel-telemetry
+     ⭐ 0  🗣 C  📅 2026-10-05
+     🔗 https://github.com/dancing4am/win-kernel-telemetry
+     📝 Windows kernel-mode (KMDF) drivers for endpoint telemetry — process and image-lo…
+     🏷  —
+[2026-10-06 05:21:56 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-06 05:21:56 UTC] [UPD]   📢 📦 wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     ⭐ 2  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-06 05:21:56 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-06 05:21:56 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-06 05:22:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 hassanali-30/Evidence-Guard
+     ⭐ 0  🗣 Python  📅 2026-10-05
+     🔗 https://github.com/hassanali-30/Evidence-Guard
+     📝 Offline cybersecurity tool for detecting file tampering, unexpected changes, del…
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 quietledger99/edrj
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/quietledger99/edrj
+     📝 content
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 juliocataldo/soc-lab
+     ⭐ 0  🗣 HTML  📅 2026-10-06
+     🔗 https://github.com/juliocataldo/soc-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 beltusjunior/soc-analyst-toolkit
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/beltusjunior/soc-analyst-toolkit
+     📝 SOC analyst toolkit: alert triage playbooks, Sigma detection rules, Python triag…
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 kk00701903-hub/endpoint-edr
+     ⭐ 0  🗣 TypeScript  📅 2026-10-06
+     🔗 https://github.com/kk00701903-hub/endpoint-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 TetsaLab/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/TetsaLab/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Zero-Trust-Network-Access-ZTNA
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/ishandutta2007/Awesome-Zero-Trust-Network-Access-ZTNA
+     📝 Top Zero Trust Network Access ZTNA (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 Leonardorobertomotalvao/ssd-system-guard
+     ⭐ 0  🗣 PowerShell  📅 2026-10-06
+     🔗 https://github.com/Leonardorobertomotalvao/ssd-system-guard
+     📝 Primeira versão pública do SSD System Guard.  Recursos: - Proteção de downloads …
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 ShiroKiro/limacharlie-edr-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/ShiroKiro/limacharlie-edr-lab
+     📝 limacharlie-edr-lab
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 deadboylife3/homelab-soc-active-directory
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/deadboylife3/homelab-soc-active-directory
+     📝 Projeto prático de um Security Operations Center (SOC) doméstico integrado ao Ac…
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 codebygk/cybersecurity-handbook
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/codebygk/cybersecurity-handbook
+     📝 Cybersecurity handbook for beginners: notes on Linux, Windows, networking, crypt…
+     🏷  bug-bounty, bug-bounty-notes, cybersecurity, ethical-hacking, learning-resources, penetration-testing
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 0xn3by/soc-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/0xn3by/soc-detection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 PuaBlue/Portfolio-cyber
+     ⭐ 0  🗣 HTML  📅 2026-10-06
+     🔗 https://github.com/PuaBlue/Portfolio-cyber
+     📝 Personal cybersecurity portfolio featuring my experience, certifications, projec…
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 KevoT0/Multi-Platform-Campaign-Reconstruction
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/KevoT0/Multi-Platform-Campaign-Reconstruction
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 noblexenon51/edrd
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/noblexenon51/edrd
+     📝 content
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 opensos/autocad-malware-cleaner
+     ⭐ 0  🗣 Go  📅 2026-10-06
+     🔗 https://github.com/opensos/autocad-malware-cleaner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 thanay-sisir/sentinelsre
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/thanay-sisir/sentinelsre
+     📝 Autonomous SRE incident-response agent: LangGraph workflow, deterministic policy…
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 threathunter369-26/Sophia_EDR
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/threathunter369-26/Sophia_EDR
+     📝 Sophia_Advance_EDR
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 fareed1-ataf/WiFiWPS-Malware-Analysis
+     ⭐ 0  🗣 C  📅 2026-10-06
+     🔗 https://github.com/fareed1-ataf/WiFiWPS-Malware-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:00 UTC] [NEW]   🆕 📦 mvtharunnnn/Mini-SOC-SOAR
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/mvtharunnnn/Mini-SOC-SOAR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:00 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-06 05:22:00 UTC] [UPD]   📢 📦 donngordon/detection-rules
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/donngordon/detection-rules
+     📝 Original Sigma detection rules mapped to MITRE ATT&CK
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-06 05:22:00 UTC] [UPD]   📢 📦 Blonk854/vision_3d_skips_team_3a
+     ⭐ 0  🗣 Python  📅 2026-10-01
+     🔗 https://github.com/Blonk854/vision_3d_skips_team_3a
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-06 05:22:00 UTC] [UPD]   📢 📦 weibaohui/aipassport-kbmic
+     ⭐ 0  🗣 C  📅 2026-10-05
+     🔗 https://github.com/weibaohui/aipassport-kbmic
+     📝 AI Passport 掌机 → 蓝牙语音输入遥控器(三键可自定义 BLE HID 键盘,挂 aipassport-fw 框架)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-06 05:22:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-06 05:22:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-06 05:22:02 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-06 05:22:02 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-10-06 05:22:02 UTC] [NEW]   🆕 📦 authapon/jannyq
+     ⭐ 0  🗣 Go  📅 2026-10-06
+     🔗 https://github.com/authapon/jannyq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:02 UTC] [NEW]   🆕 📦 hoxuancanhh002-web/ff-build
+     ⭐ 0  🗣 Swift  📅 2026-10-06
+     🔗 https://github.com/hoxuancanhh002-web/ff-build
+     📝 iOS build
+     🏷  —
+[2026-10-06 05:22:02 UTC] [NEW]   🆕 📦 sliptripfalldown/psbug
+     ⭐ 0  🗣 JavaScript  📅 2026-10-06
+     🔗 https://github.com/sliptripfalldown/psbug
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-06 05:22:02 UTC] [NEW]   🆕 📦 surajthemartin001-in/Who-am-i
+     ⭐ 0  🗣 TypeScript  📅 2026-10-06
+     🔗 https://github.com/surajthemartin001-in/Who-am-i
+     📝 Control and focus on goals and dreams of life
+     🏷  —
+[2026-10-06 05:22:02 UTC] [NEW]   🆕 📦 sliptripfalldown/psbug-host
+     ⭐ 0  🗣 JavaScript  📅 2026-10-06
+     🔗 https://github.com/sliptripfalldown/psbug-host
+     📝 PS5 Relapse exploit host (7.00-13.60)
+     🏷  —
+[2026-10-06 05:22:02 UTC] [NEW]   🆕 📦 codebygk/cybersecurity-handbook
+     ⭐ 0  🗣 N/A  📅 2026-10-05
+     🔗 https://github.com/codebygk/cybersecurity-handbook
+     📝 Cybersecurity handbook for beginners: notes on Linux, Windows, networking, crypt…
+     🏷  bug-bounty, bug-bounty-notes, cybersecurity, ethical-hacking, learning-resources, penetration-testing
+[2026-10-06 05:22:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-06 05:22:02 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-06 05:22:02 UTC] [INFO] ============================================================
+[2026-10-06 05:22:02 UTC] [INFO] Completato — 27 nuovi, 5 aggiornati, 0 errori
+[2026-10-06 05:22:02 UTC] [INFO] ============================================================
