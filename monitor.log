@@ -106363,3 +106363,333 @@
 [2026-10-07 12:50:07 UTC] [INFO] ============================================================
 [2026-10-07 12:50:07 UTC] [INFO] Completato — 48 nuovi, 9 aggiornati, 0 errori
 [2026-10-07 12:50:07 UTC] [INFO] ============================================================
+[2026-10-07 22:50:58 UTC] [INFO] ============================================================
+[2026-10-07 22:50:58 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-07 22:50:58 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-07 22:50:58 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-07 22:50:58 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-07 22:50:58 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-07 22:50:58 UTC] [INFO] ============================================================
+[2026-10-07 22:50:58 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-07 22:50:58 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-07 22:50:59 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-07 22:50:59 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-07 22:50:59 UTC] [NEW]   🆕 📦 TheMalwareGuardian/CVE-2026-13043
+     ⭐ 0  🗣 C  📅 2026-10-07
+     🔗 https://github.com/TheMalwareGuardian/CVE-2026-13043
+     📝 CVE-2026-13043 - Exploiting Panda / WatchGuard pskmad.sys authentication bypass …
+     🏷  byovd, cve-2026-13043, exploit, kernel-exploitation
+[2026-10-07 22:50:59 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-07 22:50:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-07 22:50:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-07 22:51:02 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 invinby/doorkick
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/invinby/doorkick
+     📝 DoorKick — полевой самоучитель по IT, кибербезопасности и ИИ: от минус нуля до S…
+     🏷  blue-team, cybersecurity, education, infosec, red-team, russian, secops
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 pwnera/shoc
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/pwnera/shoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 realfulvio/smart-working-istituzionale
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/realfulvio/smart-working-istituzionale
+     📝 Resoconti del lavoro agile per enti pubblici: segnali minimizzati, revisione del…
+     🏷  data-minimization, digital-signatures, eupl, italy, local-ai, privacy-by-design, public-administration, python, remote-work, reportlab, tkinter, windows
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 SamAparicioDev/Wallpaper_upload_system_for_everyone
+     ⭐ 0  🗣 PowerShell  📅 2026-10-07
+     🔗 https://github.com/SamAparicioDev/Wallpaper_upload_system_for_everyone
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 RKG765/Behavioral-Cyber-Resilient-Detection-Framework-for-Early-Detection-of-Ransomware-Attacks
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/RKG765/Behavioral-Cyber-Resilient-Detection-Framework-for-Early-Detection-of-Ransomware-Attacks
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 etheragents/etheragents
+     ⭐ 0  🗣 TypeScript  📅 2026-10-07
+     🔗 https://github.com/etheragents/etheragents
+     📝 A self-funding, live agent economy on the Ethereum Mainnet.
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 arsabolsky/Boombox
+     ⭐ 1  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/arsabolsky/Boombox
+     📝 Project Boombox: LLM EDR or Something/[Insert Better Description Here]
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 uskascent-svg/Ascent-Safety-
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/uskascent-svg/Ascent-Safety-
+     📝 A production-ready cybersecurity intelligence platform for real-time threat moni…
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 GiancarloMontes2026/Masters-Cybersecurity-Capstone-Phishing-Defense-Project
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/GiancarloMontes2026/Masters-Cybersecurity-Capstone-Phishing-Defense-Project
+     📝 Cybersecurity capstone designing a defense-in-depth solution against phishing, m…
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 laurentP22/rcgg_admin
+     ⭐ 0  🗣 TypeScript  📅 2026-10-07
+     🔗 https://github.com/laurentP22/rcgg_admin
+     📝 RCGG Admin Page
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 brerabineth/hellhound
+     ⭐ 0  🗣 Go  📅 2026-10-07
+     🔗 https://github.com/brerabineth/hellhound
+     📝 Canary tripwire for ransomware ops. Plants decoy files, watches them, reports th…
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 yogeshwar-2004y/cybersentinel-ai
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/yogeshwar-2004y/cybersentinel-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 tanuraj1989/grounded-llm-ndr-edr-correlation
+     ⭐ 1  🗣 Jupyter Notebook  📅 2026-10-07
+     🔗 https://github.com/tanuraj1989/grounded-llm-ndr-edr-correlation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 nowlays/nybova
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/nowlays/nybova
+     📝 Cross-platform Security Monitoring & Incident Response Platform
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 fifiwo578-sys/Acceptance-Quality-Control
+     ⭐ 0  🗣 Kotlin  📅 2026-10-07
+     🔗 https://github.com/fifiwo578-sys/Acceptance-Quality-Control
+     📝 QC
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 hayman-eng/race-to-domain-admin
+     ⭐ 0  🗣 HTML  📅 2026-10-07
+     🔗 https://github.com/hayman-eng/race-to-domain-admin
+     📝 A red-team strategy game: chain real MITRE ATT&CK techniques across a fictional …
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 rozumeyroman/prozorro
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/rozumeyroman/prozorro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 koulibalyamadou10/cleanscop
+     ⭐ 0  🗣 TypeScript  📅 2026-10-07
+     🔗 https://github.com/koulibalyamadou10/cleanscop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 scjeff/The-Marksman
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/scjeff/The-Marksman
+     📝 Passive Wi-Fi and Bluetooth hunter. Lock onto an SSID, device name, or MAC and w…
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 enzyme237/SysimGuard
+     ⭐ 0  🗣 Kotlin  📅 2026-10-07
+     🔗 https://github.com/enzyme237/SysimGuard
+     📝 EDR Mobile Open Source 
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 Udj13/NRF-BLE-tick-counter
+     ⭐ 0  🗣 C++  📅 2026-10-07
+     🔗 https://github.com/Udj13/NRF-BLE-tick-counter
+     📝 BLE tick counter for Tipping Bucket Rain Meter
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 farhana331/Windows-and-Linux-Security-Log-Analysis-Project
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/farhana331/Windows-and-Linux-Security-Log-Analysis-Project
+     📝 Hands-on Security Log Analysis project focusing on threat detection, filtering, …
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 Jzusmd/keylogger-phishing-lab
+     ⭐ 0  🗣 HTML  📅 2026-10-07
+     🔗 https://github.com/Jzusmd/keylogger-phishing-lab
+     📝 Laboratorio educativo de ciberseguridad: keylogger en Python, phishing web con e…
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 dhananjayyy09/AutoSOC
+     ⭐ 0  🗣 TypeScript  📅 2026-10-07
+     🔗 https://github.com/dhananjayyy09/AutoSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 Shumii98/soc-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/Shumii98/soc-roadmap
+     📝 Complete SOC Analyst Training Roadmap 2026: 14 hands-on projects (SIEM, SOAR, TI…
+     🏷  blue-team, cybersecurity, cybersecurity-projects, machine-learning, security-automation, soar, socanalyst, socanalyst-project, threat-intelligence, training-materials
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 Bondstartup-loop/edrev.in
+     ⭐ 0  🗣 HTML  📅 2026-10-07
+     🔗 https://github.com/Bondstartup-loop/edrev.in
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 warmlogic/claude-hintline
+     ⭐ 0  🗣 TypeScript  📅 2026-10-07
+     🔗 https://github.com/warmlogic/claude-hintline
+     📝 Model, context, and 5-hour usage in the Claude Code prompt hint, drawn in-proces…
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 mohammedrukhnuddinshariff-lab/Custom-Payload-Encoder-Obfuscation-Framework
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/mohammedrukhnuddinshariff-lab/Custom-Payload-Encoder-Obfuscation-Framework
+     📝 Educational cybersecurity framework for payload encoding, obfuscation analysis, …
+     🏷  cybersecurity, cybersecurity-projects, ethical-hacking, machine-learning, malware-analysis, obfuscation, payload-analysis, python, security-tools, threat-detection
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 Shri2712/SIH
+     ⭐ 0  🗣 JavaScript  📅 2026-10-07
+     🔗 https://github.com/Shri2712/SIH
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 Maldev-Academy/ApiHashing
+     ⭐ 6  🗣 C  📅 2026-10-07
+     🔗 https://github.com/Maldev-Academy/ApiHashing
+     📝 Windows x64 API hashing library that bypasses EAF and resolves forwarded exports…
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 Eduardo-Darif/softdesk-mensal
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/Eduardo-Darif/softdesk-mensal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 KellyCalvin23/cyber-range-red-vs-blue
+     ⭐ 0  🗣 JavaScript  📅 2026-10-07
+     🔗 https://github.com/KellyCalvin23/cyber-range-red-vs-blue
+     📝 A turn-based cyber security simulation for beginners: red team attacker vs blue …
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 mittai17/CENTRALIUM
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/mittai17/CENTRALIUM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 bleofiliad58/edrwb
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/bleofiliad58/edrwb
+     📝 content
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 Fahad-Quadri/soc-analyst-playbooks
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/Fahad-Quadri/soc-analyst-playbooks
+     📝 9 SOC triage playbooks: ransomware, EDR, lateral movement, exfiltration, cloud i…
+     🏷  blue-team, incident-response, mitre-attack, soc, splunk
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 g4bri-3l3/HostBadger
+     ⭐ 0  🗣 PowerShell  📅 2026-10-07
+     🔗 https://github.com/g4bri-3l3/HostBadger
+     📝 Read-only Windows host hardening auditor in PowerShell with optional AI analysis
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 jchimp/Get-DirStat
+     ⭐ 0  🗣 PowerShell  📅 2026-10-07
+     🔗 https://github.com/jchimp/Get-DirStat
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 raspy-corroded3/borderlands2-native-hdr
+     ⭐ 1  🗣 C++  📅 2026-10-06
+     🔗 https://github.com/raspy-corroded3/borderlands2-native-hdr
+     📝 Native HDR for Borderlands 2 (PC): a drop-in d3d9.dll with an HDR option in the …
+     🏷  bl2, borderlands-2, borderlands2, d3d9, directx, game-mods-pc, hdr, hdr-mod, hdr10, pc-gaming, reshade, steam
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 drphilth/honor-magicbook-pro-14-cachy
+     ⭐ 0  🗣 Shell  📅 2026-10-07
+     🔗 https://github.com/drphilth/honor-magicbook-pro-14-cachy
+     📝 CachyOS / Arch enablement for the HONOR MagicBook Pro 14 (2025, FMB-P): correcte…
+     🏷  acpi, arch-linux, arrow-lake, cachyos, dkms, dsdt, fingerprint, fmb-p, hardware-enablement, honor, honor-magicbook, honor-magicbook-pro-14, limine, linux-laptop, sbctl, secure-boot
+[2026-10-07 22:51:02 UTC] [NEW]   🆕 📦 infinit3l00p/portfolio
+     ⭐ 0  🗣 TypeScript  📅 2026-10-07
+     🔗 https://github.com/infinit3l00p/portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-07 22:51:02 UTC] [UPD]   📢 📦 luminae21-source/hotdeal-bot
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/luminae21-source/hotdeal-bot
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-07 22:51:02 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-07 22:51:02 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-07 22:51:05 UTC] [INFO]   → 37 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 pentest-tv/knossos
+     ⭐ 0  🗣 HTML  📅 2026-10-07
+     🔗 https://github.com/pentest-tv/knossos
+     📝 Docker-based penetration testing lab and companion to Professional Penetration T…
+     🏷  ctf, cybersecurity, docker, ethical-hacking, hacking-lab, infosec, offensive-security, penetration-testing, pentesting, red-team, security-training, vulnerable-by-design
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 mustaffa-kashif/AgentGate
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/mustaffa-kashif/AgentGate
+     📝 A minimal LLM agent runtime that routes every tool call through a policy check a…
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 bshea-1/pwn
+     ⭐ 1  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/bshea-1/pwn
+     📝 Structured cybersecurity skill directory for AI agents and human learners: 47 re…
+     🏷  agent-skills, binary-exploitation, ctf, cybersecurity, kernel-exploitation, pwn, reverse-engineering, security, web-security
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 Swayam933/gitops-devsecops-pipeline
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/Swayam933/gitops-devsecops-pipeline
+     📝 An enterprise GitOps + DevSecOps delivery pipeline featuring automated, non-bypa…
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 arg0WAK/sce-hell0
+     ⭐ 0  🗣 C++  📅 2026-10-07
+     🔗 https://github.com/arg0WAK/sce-hell0
+     📝 One ELF to rule the chain. Package the app. Embed the payloads. Run the chain.
+     🏷  elf, elf-loader, homebrew, libmicrohttpd, orchestration, payload, playstation, playstation-5, ps5-homebrew
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 hoxuancanhh002-web/ff-build-test
+     ⭐ 0  🗣 Swift  📅 2026-10-07
+     🔗 https://github.com/hoxuancanhh002-web/ff-build-test
+     📝 Test SCR - aimkill experiment (backup, not production)
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 shubhamd211/ctf-penetration-testing-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/shubhamd211/ctf-penetration-testing-portfolio
+     📝 Portfolio of completed Capture the Flag (CTF) challenges and penetration testing…
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 ndkly090-svg/anas
+     ⭐ 0  🗣 JavaScript  📅 2026-10-07
+     🔗 https://github.com/ndkly090-svg/anas
+     📝 ps4 انس نهاد لتهكير بلي 4
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 HirokiAkihiko/dirtyfrag-research
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/HirokiAkihiko/dirtyfrag-research
+     📝 DirtyFrag CVE-2026-43284 research for 5.4-qgki devices
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 mizoBlack8/13
+     ⭐ 0  🗣 JavaScript  📅 2026-10-07
+     🔗 https://github.com/mizoBlack8/13
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 GrandFuzard/redmi-13-5g-ghostlock-findings
+     ⭐ 0  🗣 C  📅 2026-10-07
+     🔗 https://github.com/GrandFuzard/redmi-13-5g-ghostlock-findings
+     📝 Static (offline) feasibility notes for GhostLock / CVE-2026-43499 on Redmi 13 5G…
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 atarisherwan/i
+     ⭐ 0  🗣 JavaScript  📅 2026-10-07
+     🔗 https://github.com/atarisherwan/i
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 karthik71005/Bastion
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/karthik71005/Bastion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 22:51:05 UTC] [NEW]   🆕 📦 klbiggs/ps5-linux-loader
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/klbiggs/ps5-linux-loader
+     📝 Linux payload implementing HV exploits to run a custom bootloader
+     🏷  —
+[2026-10-07 22:51:05 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-07 22:51:05 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-07 22:51:05 UTC] [UPD]   📢 📦 WolfSc84/PS5-Server-Jailbreak
+     ⭐ 0  🗣 JavaScript  📅 2026-10-03
+     🔗 https://github.com/WolfSc84/PS5-Server-Jailbreak
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-07 22:51:05 UTC] [UPD]   📢 📦 holeyfield33-art/autonomous-digital-resident
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/holeyfield33-art/autonomous-digital-resident
+     📝 AUTONOMOUS DIGITAL RESIDENT — NEBIUS × NVIDIA HACKATHON. An always-on autonomous…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-07 22:51:05 UTC] [UPD]   📢 📦 bsk193/malveira-jb
+     ⭐ 0  🗣 JavaScript  📅 2026-10-07
+     🔗 https://github.com/bsk193/malveira-jb
+     📝 Minimal PS4 13.52 host with three-stage progress UI and PKG Manager X setup
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-07 22:51:05 UTC] [INFO] ============================================================
+[2026-10-07 22:51:05 UTC] [INFO] Completato — 55 nuovi, 5 aggiornati, 0 errori
+[2026-10-07 22:51:05 UTC] [INFO] ============================================================
