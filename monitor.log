@@ -105826,3 +105826,221 @@
 [2026-10-06 22:26:38 UTC] [INFO] ============================================================
 [2026-10-06 22:26:38 UTC] [INFO] Completato — 51 nuovi, 4 aggiornati, 0 errori
 [2026-10-06 22:26:38 UTC] [INFO] ============================================================
+[2026-10-07 04:50:44 UTC] [INFO] ============================================================
+[2026-10-07 04:50:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-07 04:50:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-07 04:50:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-07 04:50:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-07 04:50:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-07 04:50:44 UTC] [INFO] ============================================================
+[2026-10-07 04:50:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-07 04:50:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-07 04:50:45 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-07 04:50:45 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-07 04:50:45 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-07 04:50:45 UTC] [UPD]   📢 📦 nikhil-aniill/maldev-rs
+     ⭐ 0  🗣 Rust  📅 2026-10-02
+     🔗 https://github.com/nikhil-aniill/maldev-rs
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-07 04:50:45 UTC] [UPD]   📢 📦 dancing4am/win-kernel-telemetry
+     ⭐ 0  🗣 C  📅 2026-10-05
+     🔗 https://github.com/dancing4am/win-kernel-telemetry
+     📝 Windows kernel-mode (KMDF) drivers for endpoint telemetry — process and image-lo…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-07 04:50:45 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-07 04:50:45 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-07 04:50:48 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 deadboylife3/homelab-soc-ad
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/deadboylife3/homelab-soc-ad
+     📝 Homelab de SOC/Blue Team: rede segmentada com pfSense, Active Directory, Sysmon …
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 ajayysainii/Cyber-Security-Prediction-System
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/ajayysainii/Cyber-Security-Prediction-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 NavyCS/SSH-Panel
+     ⭐ 0  🗣 Dart  📅 2026-10-06
+     🔗 https://github.com/NavyCS/SSH-Panel
+     📝 Windows desktop application for managing the OpenSSH ssh-agent service, SSH keys…
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 Achavellir/agentwatch-ai
+     ⭐ 0  🗣 HTML  📅 2026-10-07
+     🔗 https://github.com/Achavellir/agentwatch-ai
+     📝 Offline AI-agent activity triage using Isolation Forest, independent policy rule…
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 AmuAdachi/ITECH-1502-portfolio-30501689
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/AmuAdachi/ITECH-1502-portfolio-30501689
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 Ander2211/python2.7.5
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/Ander2211/python2.7.5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 liubojacob-lang/AiSoc
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/liubojacob-lang/AiSoc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 edramos-lab/edramos-lab.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-07
+     🔗 https://github.com/edramos-lab/edramos-lab.github.io
+     📝 Edgar Ramos — Professional resume / portfolio website
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 swaroop22/aegis-antivirus
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/swaroop22/aegis-antivirus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 sujayadkesar/windows-forensic-automation
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/sujayadkesar/windows-forensic-automation
+     📝 Free, open-source automation of Windows forensic examinations: load an E01/raw/V…
+     🏷  blue-team, cybersecurity, data-exfiltration, dfir, digital-forensics, dlp, e01, event-logs, forensic-report, forensics, incident-response, malware-analysis, ntfs, open-source, pyside6, registry, usb-forensics, usn-journal, windows-forensics
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 ch-tato/pdf-lab
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/ch-tato/pdf-lab
+     📝 a digital forensic assignment (analyzing malware pdf)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 devtvas/cyber-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/devtvas/cyber-lab
+     📝 Hands-on cybersecurity laboratory focused on Blue Team, SOC, Cloud Security, Dev…
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 hilde-chile/keylogger-educativo
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/hilde-chile/keylogger-educativo
+     📝 Keylogger educativo en Python - Trabajo Parcial del curso de Hacking Etico (UPC)…
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 paginaweb1997/-
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/paginaweb1997/-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 Serignolli/filewatch
+     ⭐ 0  🗣 Java  📅 2026-10-07
+     🔗 https://github.com/Serignolli/filewatch
+     📝 Monitor de integridade de arquivos com detecção comportamental de ransomware, em…
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 xavierpriceywj/390mv7gza
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/xavierpriceywj/390mv7gza
+     📝 eng2vky5派评 | 近期值得关注的 Appgg9s94sizdm4
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 xavierpriceywj/sh0miioxx
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/xavierpriceywj/sh0miioxx
+     📝 wl1puk4c我重写了整个项目，但没人感谢我！wd46n6w4i0vd
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 sapkotaankit321-cyber/soc-log-analyzer
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/sapkotaankit321-cyber/soc-log-analyzer
+     📝 OC log analyzer — auth/web/firewall findings reports (portfolio by Ankit Sapkota…
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 Guscyrus-cyber/LLM_Alert_Triage_Investigation
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/Guscyrus-cyber/LLM_Alert_Triage_Investigation
+     📝 This hands-on lab demonstrates how an LLM supports SOC alert triage, evidence an…
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 rixn-911/rixn-911
+     ⭐ 1  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/rixn-911/rixn-911
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 DGUY1-wilm/VirusTotal-Analysis-and-Write-Up
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/DGUY1-wilm/VirusTotal-Analysis-and-Write-Up
+     📝 Malware analysis write-up of a Mirai/Gafgyt Linux IoT botnet sample using VirusT…
+     🏷  botnet, cybersecurity, ddos, ioc, malwarebazaar, soc, virustotal
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 exucaveiring33-design/Edr
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/exucaveiring33-design/Edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 Alponses/Alertas-falsas
+     ⭐ 0  🗣 HTML  📅 2026-10-06
+     🔗 https://github.com/Alponses/Alertas-falsas
+     📝 Ruleta que va a hacer saltar las alertas de Windows Defender y se van a mostrar …
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 clanker25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/clanker25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 hherraz/puerta7
+     ⭐ 0  🗣 TypeScript  📅 2026-10-06
+     🔗 https://github.com/hherraz/puerta7
+     📝 SmartContracts
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 realfulvio/smart-working-istituzionale
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/realfulvio/smart-working-istituzionale
+     📝 Smart Working Istituzionale — resoconto giornaliero del lavoro agile per gli ent…
+     🏷  eupl, lavoro-agile, privacy-by-design, pubblica-amministrazione, smart-working
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 bezamesfin/elk-wazuh-lolbin-detection
+     ⭐ 0  🗣 N/A  📅 2026-10-06
+     🔗 https://github.com/bezamesfin/elk-wazuh-lolbin-detection
+     📝 Reproducible lab integrating the ELK stack with Wazuh EDR to detect LOLBin and f…
+     🏷  —
+[2026-10-07 04:50:48 UTC] [NEW]   🆕 📦 intellieffect/ax-field-kit
+     ⭐ 0  🗣 PowerShell  📅 2026-10-06
+     🔗 https://github.com/intellieffect/ax-field-kit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-07 04:50:48 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-07 04:50:48 UTC] [UPD]   📢 📦 pdcgomes/redlamp
+     ⭐ 140  🗣 Swift  📅 2026-09-29
+     🔗 https://github.com/pdcgomes/redlamp
+     📝 A native, open-source RAW photo editor for Mac, iPad and iPhone that feels immed…
+     🏷  adobe, adobe-lightroom, ios, lightroom, lightroom-alternative, macos, metal, photo, photo-editor, photography, photos, photoshop, raw, swift
+     🔄 Motivo: repo recente (7gg)
+[2026-10-07 04:50:48 UTC] [UPD]   📢 📦 RJGProjectz/command-and-code
+     ⭐ 0  🗣 PowerShell  📅 2026-10-06
+     🔗 https://github.com/RJGProjectz/command-and-code
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-07 04:50:48 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-07 04:50:48 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-07 04:50:50 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-07 04:50:50 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-07 04:50:50 UTC] [NEW]   🆕 📦 holeyfield33-art/autonomous-digital-resident
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/holeyfield33-art/autonomous-digital-resident
+     📝 AUTONOMOUS DIGITAL RESIDENT — NEBIUS × NVIDIA HACKATHON. An always-on autonomous…
+     🏷  —
+[2026-10-07 04:50:50 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-07 04:50:50 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-07 04:50:50 UTC] [UPD]   📢 📦 hoxuancanhh002-web/ff-build
+     ⭐ 0  🗣 Swift  📅 2026-10-06
+     🔗 https://github.com/hoxuancanhh002-web/ff-build
+     📝 iOS build
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-07 04:50:50 UTC] [UPD]   📢 📦 creekxi2026/ci-runner
+     ⭐ 0  🗣 Go  📅 2026-10-04
+     🔗 https://github.com/creekxi2026/ci-runner
+     📝 Isolated on-demand ARM64 CI runners for Docker and OrbStack
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-07 04:50:50 UTC] [UPD]   📢 📦 pLabs5/pWeb5
+     ⭐ 0  🗣 C  📅 2026-09-30
+     🔗 https://github.com/pLabs5/pWeb5
+     📝 PS5 WebKit autoloader running the Relapse chain, with staged progress and elfldr…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-07 04:50:50 UTC] [INFO] ============================================================
+[2026-10-07 04:50:50 UTC] [INFO] Completato — 29 nuovi, 8 aggiornati, 0 errori
+[2026-10-07 04:50:50 UTC] [INFO] ============================================================
