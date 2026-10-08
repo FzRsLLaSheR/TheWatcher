@@ -107193,3 +107193,324 @@
 [2026-10-08 12:58:58 UTC] [INFO] ============================================================
 [2026-10-08 12:58:58 UTC] [INFO] Completato — 48 nuovi, 8 aggiornati, 0 errori
 [2026-10-08 12:58:58 UTC] [INFO] ============================================================
+[2026-10-08 23:02:08 UTC] [INFO] ============================================================
+[2026-10-08 23:02:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-08 23:02:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-08 23:02:08 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-08 23:02:08 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-08 23:02:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-08 23:02:08 UTC] [INFO] ============================================================
+[2026-10-08 23:02:08 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-08 23:02:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-08 23:02:10 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-08 23:02:10 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-08 23:02:10 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-08 23:02:10 UTC] [UPD]   📢 📦 wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     ⭐ 2  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/wwwwwwwwwwwwwwy/silverfox-process-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-08 23:02:10 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-08 23:02:10 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-08 23:02:13 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 46 NUOVI repository:
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 ricevanta/ricevanta
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/ricevanta/ricevanta
+     📝 Free, open-source, self-hosted endpoint security and management platform: one li…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 actions-marketplace-validations/Jest-Test-Team_ide-extension
+     ⭐ 0  🗣 TypeScript  📅 2026-10-08
+     🔗 https://github.com/actions-marketplace-validations/Jest-Test-Team_ide-extension
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 PaulDotSH/vuln-driver-aida64
+     ⭐ 0  🗣 C  📅 2026-10-08
+     🔗 https://github.com/PaulDotSH/vuln-driver-aida64
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 drewcanflyy/Security-and-Storage-Audit
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/drewcanflyy/Security-and-Storage-Audit
+     📝 A defensive Windows endpoint security auditor and safe storage management deskto…
+     🏷  blue-team, cybersecurity, defensive-security, electron, endpoint-security, fastapi, react, security-auditor, typescript, windows-security
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 alyelkhalifa11/soc-lab-writeups
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/alyelkhalifa11/soc-lab-writeups
+     📝 SOC Analyst investigation writeups from LetsDefend and other Blue Team labs, wit…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 dravani72/Atelier
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/dravani72/Atelier
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 ssacrifiquei-hub/anonymous
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/ssacrifiquei-hub/anonymous
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 johngmeyers/Ukon-Prototype
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/johngmeyers/Ukon-Prototype
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 bhadiyadrarohan/virux
+     ⭐ 0  🗣 Swift  📅 2026-10-08
+     🔗 https://github.com/bhadiyadrarohan/virux
+     📝 Virux: a local-first, personal Endpoint Detection and Response (EDR) tool for ma…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 TastyT0rtuga/llm-tabletop-tiers
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/TastyT0rtuga/llm-tabletop-tiers
+     📝 Do cheaper models still make a useful security tabletop? A measurement study of …
+     🏷  ai-safety, ai-security, benchmark, blue-team, bradley-terry, cost-optimization, evaluation, inter-rater-reliability, krippendorff-alpha, large-language-models, llm, llm-as-judge, model-evaluation, multi-agent, purple-team, red-teaming, reproducible-research, security, tabletop-exercise, threat-modeling
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 Rohan-Nair09/HavocEDR
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/Rohan-Nair09/HavocEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 alya-lang/display
+     ⭐ 0  🗣 C  📅 2026-10-08
+     🔗 https://github.com/alya-lang/display
+     📝 Cross-platform display enumeration: monitors, resolution, DPI, scale, refresh ra…
+     🏷  alya, alya-lang, c, display, dpi, ffi, gui, monitor, package, screen
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 DawidBochno/Inwentaryzacja-komputera
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/DawidBochno/Inwentaryzacja-komputera
+     📝 Inwentaryzacja komputera z Windows: sprzet, numery seryjne, dyski SMART, aktywac…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 avotnieks-design/rgr-website
+     ⭐ 0  🗣 HTML  📅 2026-10-08
+     🔗 https://github.com/avotnieks-design/rgr-website
+     📝 RIGA GOLD ROBOT official website
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 ApexBreach/ATMZOW-Google-Tag-Manager-IOC
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/ApexBreach/ATMZOW-Google-Tag-Manager-IOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 derikgarez/Security-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/derikgarez/Security-Engineering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 brjshbrl/ISO-27001-ISMS-Implementation
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/brjshbrl/ISO-27001-ISMS-Implementation
+     📝 Simulated ISO/IEC 27001:2022 ISMS for a fictional FinTech – GRC portfolio projec…
+     🏷  compliance, cybersecurity, grc, iso27001, risk-management
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 etherlucid/uebersicht-now-playing
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/etherlucid/uebersicht-now-playing
+     📝 A desktop Now Playing widget for Übersicht on macOS
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 Shelkeman/TraductorIA
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/Shelkeman/TraductorIA
+     📝 PoC
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 bunny-599/File-Tampering-Detector
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/bunny-599/File-Tampering-Detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 Abhishek-Gali/TriageLens
+     ⭐ 1  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/Abhishek-Gali/TriageLens
+     📝 Offline-first security alert triage CLI with deterministic rules (authentication…
+     🏷  alert-triage, cybersecurity, data-contracts, deterministic-rules, fde, forward-deployed-engineering, local-llm, offline-first, ollama, prompt-injection-defense, python-cli, scikit-learn, security-triage
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 tryanborres/Defender-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/tryanborres/Defender-SOC-Lab
+     📝 A SOC Lab created from the ground up with multiple Microsoft security licenses t…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 Erarge/EDRWinApp-Releases
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/Erarge/EDRWinApp-Releases
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 russellluis2/edri
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/russellluis2/edri
+     📝 content
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 ViktorVitsk/linSec
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/ViktorVitsk/linSec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 ShawshankR007/cybersecurity-portfolio
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/ShawshankR007/cybersecurity-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 DawidBochno/Kontrola-stanowiska
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/DawidBochno/Kontrola-stanowiska
+     📝 Kontrola bezpieczeństwa stanowiska Windows dla administratora IT: antywirus, zap…
+     🏷  bitlocker, defender, hardening, kri, laps, python, rodo, security-audit, sysadmin, tkinter, windows
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 itsc0c0/RAF
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/itsc0c0/RAF
+     📝 R$F
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 Varshith-Kali/dashcam
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/Varshith-Kali/dashcam
+     📝 The dashcam for your AI coding agents - tamper-evident session receipts and cros…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 raj3shp/malscore
+     ⭐ 1  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/raj3shp/malscore
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 testacode/mac-vs-linux-bench
+     ⭐ 0  🗣 C  📅 2026-10-08
+     🔗 https://github.com/testacode/mac-vs-linux-bench
+     📝 Por qué git/pnpm/agentes en paralelo son más lentos en macOS que en Linux sobre …
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 Shumii98/cybersecurity-road-map
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/Shumii98/cybersecurity-road-map
+     📝 A comprehensive, step-by-step guide to mastering cybersecurity from beginner to …
+     🏷  cybersecurity, cybersecurity-education, cybersecurity-projects, cybersecurity-tools, ethical-hacking, training
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 harshu1705/Geranium-BenchMark
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/harshu1705/Geranium-BenchMark
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 Mostafa-174/SIEM-Detection-Engineering-Alert-Triage-SOC-Operations-
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/Mostafa-174/SIEM-Detection-Engineering-Alert-Triage-SOC-Operations-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 haniyaabdulgani27-hash/PIPELINE-GHOST
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/haniyaabdulgani27-hash/PIPELINE-GHOST
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 anoop-808/cybersentinel-x
+     ⭐ 0  🗣 TypeScript  📅 2026-10-08
+     🔗 https://github.com/anoop-808/cybersentinel-x
+     📝 CyberSentinel-X: Explainable malware detection, threat correlation, Windows Even…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 mario-s/dwd_rmcp
+     ⭐ 0  🗣 Rust  📅 2026-10-08
+     🔗 https://github.com/mario-s/dwd_rmcp
+     📝 Rust based MCP server for DWD.
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 rohanbharolia/phishpipe
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/rohanbharolia/phishpipe
+     📝 Automated Phishing Simulator
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 lcalzada-xor/poolparty-oxide
+     ⭐ 2  🗣 Rust  📅 2026-10-08
+     🔗 https://github.com/lcalzada-xor/poolparty-oxide
+     📝 A Rust implementation of the PoolParty process injection / thread pool technique…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 ocharrkas-ux/Elliott
+     ⭐ 0  🗣 Swift  📅 2026-10-08
+     🔗 https://github.com/ocharrkas-ux/Elliott
+     📝 macOS firewall, EDR and vulnerability manager with a local LLM
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 brerabineth/gravedigger
+     ⭐ 0  🗣 Rust  📅 2026-10-08
+     🔗 https://github.com/brerabineth/gravedigger
+     📝 first-hour forensic triage for unix hosts. one binary, no agent.
+     🏷  cli, dfir, forensics, incident-response, ransomware, rust, security-tools, triage
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 AdhikaShahane/AI-SOC-Monitor
+     ⭐ 0  🗣 TypeScript  📅 2026-10-08
+     🔗 https://github.com/AdhikaShahane/AI-SOC-Monitor
+     📝 AI-SOC Monitor — AI-Powered Security Monitoring & Incident Analysis Platform
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 Manick351/linux-admin-scripts
+     ⭐ 0  🗣 Shell  📅 2026-10-08
+     🔗 https://github.com/Manick351/linux-admin-scripts
+     📝 Bash and Ansible tools for Linux operations: post-mortem hang diagnostics, AD lo…
+     🏷  active-directory, ansible, bash, linux, sysadmin, timescaledb, troubleshooting, zabbix
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 KauaFigueira/TecHacker_AI
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/KauaFigueira/TecHacker_AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 kaandemir993/Overlord-RAT-Reverse-Engineering-a-Go-Based-RAT-Injection-Keylogging-C2-Exfiltration-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/kaandemir993/Overlord-RAT-Reverse-Engineering-a-Go-Based-RAT-Injection-Keylogging-C2-Exfiltration-Analysis
+     📝 Full static & memory analysis of Overlord RAT: Go agent architecture, HTTP/2 + W…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [NEW]   🆕 📦 AAH20/a2z-agentic-hypervisor
+     ⭐ 1  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/AAH20/a2z-agentic-hypervisor
+     📝 Hardware-Accelerated Autonomous Agent Cyber Defense Hypervisor and Atomic Rollba…
+     🏷  —
+[2026-10-08 23:02:13 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-08 23:02:13 UTC] [UPD]   📢 📦 luminae21-source/hotdeal-bot
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/luminae21-source/hotdeal-bot
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-08 23:02:13 UTC] [UPD]   📢 📦 JeanKadang/IPU-ReadinessAssessment
+     ⭐ 2  🗣 PowerShell  📅 2026-10-06
+     🔗 https://github.com/JeanKadang/IPU-ReadinessAssessment
+     📝 A full IPU Readiness Assessment Suite
+     🏷  in-place-upgrade, pester, powershell, windows-server
+     🔄 Motivo: repo recente (2gg)
+[2026-10-08 23:02:13 UTC] [UPD]   📢 📦 mittai17/CENTRALIUM
+     ⭐ 0  🗣 Python  📅 2026-10-07
+     🔗 https://github.com/mittai17/CENTRALIUM
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-08 23:02:13 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-08 23:02:13 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-08 23:02:15 UTC] [INFO]   → 26 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-08 23:02:15 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-10-08 23:02:15 UTC] [NEW]   🆕 📦 jixui666/shjkdhd
+     ⭐ 0  🗣 Swift  📅 2026-10-08
+     🔗 https://github.com/jixui666/shjkdhd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:15 UTC] [NEW]   🆕 📦 Shumii98/cybersecurity-road-map
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/Shumii98/cybersecurity-road-map
+     📝 A comprehensive, step-by-step guide to mastering cybersecurity from beginner to …
+     🏷  cybersecurity, cybersecurity-education, cybersecurity-projects, cybersecurity-tools, ethical-hacking, training
+[2026-10-08 23:02:15 UTC] [NEW]   🆕 📦 mizoBlack8/13
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/mizoBlack8/13
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 23:02:15 UTC] [NEW]   🆕 📦 haarardin/isolated-agent
+     ⭐ 0  🗣 Shell  📅 2026-10-08
+     🔗 https://github.com/haarardin/isolated-agent
+     📝 This is version of isolated codex (aka other agents) cli with Podman, to additio…
+     🏷  —
+[2026-10-08 23:02:15 UTC] [NEW]   🆕 📦 xmaksxyt-code/XEMIXJB3
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/xmaksxyt-code/XEMIXJB3
+     📝 w
+     🏷  —
+[2026-10-08 23:02:15 UTC] [NEW]   🆕 📦 xmaksxyt-code/XEMIXJB2
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/xmaksxyt-code/XEMIXJB2
+     📝 PS4 14.00 JAILBREAK TEST V2
+     🏷  —
+[2026-10-08 23:02:15 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-08 23:02:15 UTC] [UPD]   📢 📦 Tranduc1124/DSMINHDUC
+     ⭐ 0  🗣 Objective-C  📅 2026-10-08
+     🔗 https://github.com/Tranduc1124/DSMINHDUC
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-08 23:02:15 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-08 23:02:15 UTC] [INFO] ============================================================
+[2026-10-08 23:02:15 UTC] [INFO] Completato — 52 nuovi, 6 aggiornati, 0 errori
+[2026-10-08 23:02:15 UTC] [INFO] ============================================================
