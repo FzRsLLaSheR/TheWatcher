@@ -106693,3 +106693,190 @@
 [2026-10-07 22:51:05 UTC] [INFO] ============================================================
 [2026-10-07 22:51:05 UTC] [INFO] Completato — 55 nuovi, 5 aggiornati, 0 errori
 [2026-10-07 22:51:05 UTC] [INFO] ============================================================
+[2026-10-08 05:00:55 UTC] [INFO] ============================================================
+[2026-10-08 05:00:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-08 05:00:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-08 05:00:55 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-08 05:00:55 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-08 05:00:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-08 05:00:55 UTC] [INFO] ============================================================
+[2026-10-08 05:00:55 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-08 05:00:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-08 05:00:57 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-08 05:00:57 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-08 05:00:57 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-08 05:00:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-08 05:00:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-08 05:01:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 Vestaia/OLED-Anti-Dimming
+     ⭐ 1  🗣 C++  📅 2026-10-08
+     🔗 https://github.com/Vestaia/OLED-Anti-Dimming
+     📝 Windows OLED APL dimming compensation with webcam calibration, adaptive gamut sa…
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 deswanth12/net-triage
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/deswanth12/net-triage
+     📝 A privacy-first, client-side network traffic triage tool for aspiring SOC analys…
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 Xelt3r/netlogic-signal-public
+     ⭐ 0  🗣 Batchfile  📅 2026-10-08
+     🔗 https://github.com/Xelt3r/netlogic-signal-public
+     📝 NetLogic Signal — auditoría de equipos Windows con comparación histórica. Repo d…
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 ttr1563/onyx
+     ⭐ 0  🗣 Rust  📅 2026-10-08
+     🔗 https://github.com/ttr1563/onyx
+     📝 A lightweight command guard for Linux servers with TOTP approval and local audit…
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 ihavenoram/netspeed-troubleshooter
+     ⭐ 0  🗣 PowerShell  📅 2026-10-08
+     🔗 https://github.com/ihavenoram/netspeed-troubleshooter
+     📝 PowerShell 5.1 GUI for "the internet is slow": link speed, real throughput, buff…
+     🏷  bufferbloat, latency, msp, network-troubleshooting, powershell, screenconnect, speedtest, winforms
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 naren-wwcd/ui
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/naren-wwcd/ui
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 duccerriza/edrf
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/duccerriza/edrf
+     📝 content
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 datachain-uit/verifier-interface-cost-metering
+     ⭐ 0  🗣 Solidity  📅 2026-10-08
+     🔗 https://github.com/datachain-uit/verifier-interface-cost-metering
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 deva-secforge/kql-identity-hunting-pack
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/deva-secforge/kql-identity-hunting-pack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 ameatmani/edrul
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/ameatmani/edrul
+     📝 content
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 ngolds1/endpoint-security-tools
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/ngolds1/endpoint-security-tools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 aynestret/edrl
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/aynestret/edrl
+     📝 content
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 devmasonjames/1iwway
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/devmasonjames/1iwway
+     📝 sjw6h13u公路自驾亲子游 青海甘肃最美的旅游a81zo25do46m
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 devmasonjames/6f88e7
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/devmasonjames/6f88e7
+     📝 308tfj3k我还是更喜欢手搓图标j01fy0qcac0l
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 paulabrownkxw/61q45uxzsr
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/paulabrownkxw/61q45uxzsr
+     📝 nsnja425断雨年总三连MVPsyg6wcn55i2x
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 paulabrownkxw/jrq3yol6
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/paulabrownkxw/jrq3yol6
+     📝 jk5i00kl一百万贷款和一百万存款的区别a8i1zvl4nozs
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 zhang-guangeah/n98djkxczg
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/zhang-guangeah/n98djkxczg
+     📝 ltjlmtzi威旺圆我儿时梦—白色M20，求加精usbjhzz5lbf2
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 herpad04/bzvmee
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/herpad04/bzvmee
+     📝 zboq1adl兰亭序4udamc174ey9
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 gemini0ani/k33etfpp8
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/gemini0ani/k33etfpp8
+     📝 x674q9ifJeecgBoot 未授权权限绕过 + SQL 注入组合漏洞分析与复现4j9em1kkcv0m
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Intelligent-Threat-Detection
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/ishandutta2007/Awesome-Intelligent-Threat-Detection
+     📝 Top Intelligent Threat Detection (Opensource)  Star if you like it! 
+     🏷  awesome-list, cloud-security, cspm, curated-list, security-analytics, threat-detection
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 intellieffect/ax-field-kit-public
+     ⭐ 0  🗣 PowerShell  📅 2026-10-08
+     🔗 https://github.com/intellieffect/ax-field-kit-public
+     📝 Windows 현장 설치 키트 (Claude Code · Tailscale · 화면 녹화)
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 MominurXD/Event-Weave
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/MominurXD/Event-Weave
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 1MEshh/Doom
+     ⭐ 0  🗣 Rust  📅 2026-10-08
+     🔗 https://github.com/1MEshh/Doom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 05:01:00 UTC] [NEW]   🆕 📦 Hackexdecodebreaker/cyber-druids
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/Hackexdecodebreaker/cyber-druids
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-08 05:01:00 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-08 05:01:00 UTC] [UPD]   📢 📦 Shri2712/SIH
+     ⭐ 0  🗣 JavaScript  📅 2026-10-07
+     🔗 https://github.com/Shri2712/SIH
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-08 05:01:00 UTC] [UPD]   📢 📦 luminae21-source/hotdeal-bot
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/luminae21-source/hotdeal-bot
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-08 05:01:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-08 05:01:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-08 05:01:03 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-08 05:01:03 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-08 05:01:03 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-08 05:01:03 UTC] [UPD]   📢 📦 mizoBlack8/13
+     ⭐ 0  🗣 JavaScript  📅 2026-10-07
+     🔗 https://github.com/mizoBlack8/13
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-08 05:01:03 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-08 05:01:03 UTC] [UPD]   📢 📦 WolfSc84/PS5-Server-Jailbreak
+     ⭐ 0  🗣 JavaScript  📅 2026-10-03
+     🔗 https://github.com/WolfSc84/PS5-Server-Jailbreak
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-08 05:01:03 UTC] [UPD]   📢 📦 bsk193/malveira-jb
+     ⭐ 0  🗣 JavaScript  📅 2026-10-07
+     🔗 https://github.com/bsk193/malveira-jb
+     📝 Minimal PS4 13.52 host with three-stage progress UI and PKG Manager X setup
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-08 05:01:03 UTC] [UPD]   📢 📦 strongt1me/ps5-cooling-system-center-pro
+     ⭐ 4  🗣 C  📅 2026-10-06
+     🔗 https://github.com/strongt1me/ps5-cooling-system-center-pro
+     📝 Fan control, temperature monitoring and system center for the jailbroken PS5 – p…
+     🏷  c, fan-control, file-manager, homebrew, payload, playstation-5, ps5, ps5-homebrew, temperature-monitoring, web-ui
+     🔄 Motivo: repo recente (1gg)
+[2026-10-08 05:01:03 UTC] [INFO] ============================================================
+[2026-10-08 05:01:03 UTC] [INFO] Completato — 24 nuovi, 7 aggiornati, 0 errori
+[2026-10-08 05:01:03 UTC] [INFO] ============================================================
