@@ -107514,3 +107514,220 @@
 [2026-10-08 23:02:15 UTC] [INFO] ============================================================
 [2026-10-08 23:02:15 UTC] [INFO] Completato — 52 nuovi, 6 aggiornati, 0 errori
 [2026-10-08 23:02:15 UTC] [INFO] ============================================================
+[2026-10-09 05:04:01 UTC] [INFO] ============================================================
+[2026-10-09 05:04:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-09 05:04:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-09 05:04:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-09 05:04:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-09 05:04:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-09 05:04:01 UTC] [INFO] ============================================================
+[2026-10-09 05:04:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-09 05:04:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-09 05:04:03 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-09 05:04:03 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-09 05:04:03 UTC] [NEW]   🆕 📦 ccsimplyspolit/cs-telemetry-internals
+     ⭐ 0  🗣 C++  📅 2026-10-08
+     🔗 https://github.com/ccsimplyspolit/cs-telemetry-internals
+     📝 Technical research, architectural breakdown, and static analysis tooling for cli…
+     🏷  —
+[2026-10-09 05:04:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-09 05:04:03 UTC] [UPD]   📢 📦 dancing4am/win-kernel-telemetry
+     ⭐ 0  🗣 C  📅 2026-10-05
+     🔗 https://github.com/dancing4am/win-kernel-telemetry
+     📝 Windows kernel-mode (KMDF) drivers for endpoint telemetry — process and image-lo…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-09 05:04:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-09 05:04:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-09 05:04:06 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 Jermaineo-Wootenk/edrbijj
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/Jermaineo-Wootenk/edrbijj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 xiaoshitou1997/skills
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/xiaoshitou1997/skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 ihavenoram/printer-manager
+     ⭐ 0  🗣 PowerShell  📅 2026-10-09
+     🔗 https://github.com/ihavenoram/printer-manager
+     📝 PowerShell 5.1 GUI for printer tickets, built to run as SYSTEM in ScreenConnect …
+     🏷  msp, point-and-print, powershell, print-spooler, printers, printnightmare, screenconnect, winforms
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 nullbyte2020/nullbyte2020
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/nullbyte2020/nullbyte2020
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 ihavenoram/nettool
+     ⭐ 0  🗣 PowerShell  📅 2026-10-09
+     🔗 https://github.com/ihavenoram/nettool
+     📝 PowerShell 5.1 GUI for "this PC can't reach that host": finds the device, audits…
+     🏷  msp, network-troubleshooting, powershell, routing, screenconnect, traceroute, vlan, winforms
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 ge-xe/BlueTeam-Detection-Lab
+     ⭐ 1  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/ge-xe/BlueTeam-Detection-Lab
+     📝 Python blue team detection lab for SOC analysis, threat hunting, event correlati…
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 dicksonwalter0/edrw
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/dicksonwalter0/edrw
+     📝 content
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 yogsec/Red-Team-Tools
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/yogsec/Red-Team-Tools
+     📝 A curated list of red team tools, C2 frameworks, and adversary simulation resour…
+     🏷  hacking, hacking-tools, hackingtools, red-team, red-teaming, redteam, redteam-tools, redteaming-tools
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 DevR0d/Soporte-TI-Profesional
+     ⭐ 0  🗣 PowerShell  📅 2026-10-09
+     🔗 https://github.com/DevR0d/Soporte-TI-Profesional
+     📝 Consola interactiva para administrar el mantenimiento preventivo-correctivo en S…
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 ayushmann79/sentinel-siem
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/ayushmann79/sentinel-siem
+     📝 Python-based SIEM platform for security log ingestion, threat detection, correla…
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 laughleg/edrjk
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/laughleg/edrjk
+     📝 content
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 XCode-Correa/FV_ICT10_Q2Seatwork1_Correa_Edrian
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/XCode-Correa/FV_ICT10_Q2Seatwork1_Correa_Edrian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 stepuplaw/florida-amendment-3-homestead-database
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/stepuplaw/florida-amendment-3-homestead-database
+     📝 Florida Amendment 3 Homestead Database, 67 Counties (2026)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 dsantosh-nep/profile
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/dsantosh-nep/profile
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 h-hamza0/BileSaltPipeline
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/h-hamza0/BileSaltPipeline
+     📝 Automated GROMACS workflows for bile-salt systems: CG-to-atomistic backmapping, …
+     🏷  bile-salts, computational-chemistry, gromacs, martini, molecular-dynamics, slurm, umbrella-sampling
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 HMMcKay/SentinelForge
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/HMMcKay/SentinelForge
+     📝 A Docker-first defensive security lab connecting safe Windows simulations, endpo…
+     🏷  detection-engineering, docker-compose, mitre-attack, security-lab, sigma, sysmon
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 ihavenoram/3cx-checker
+     ⭐ 0  🗣 PowerShell  📅 2026-10-09
+     🔗 https://github.com/ihavenoram/3cx-checker
+     📝 PowerShell 5.1 GUI for 3CX sites where the desk phones misbehave: port and certi…
+     🏷  3cx, msp, nat, network-troubleshooting, powershell, screenconnect, sip, voip, winforms, yealink
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 gzhdev/transfer-tools
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/gzhdev/transfer-tools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 NightBlack4825/Batman-hub
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/NightBlack4825/Batman-hub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 cha0t1cnu3tral/ui-automation-POC
+     ⭐ 0  🗣 PowerShell  📅 2026-10-09
+     🔗 https://github.com/cha0t1cnu3tral/ui-automation-POC
+     📝 Windows UI Automation research POC demonstrating synthetic identity metadata exp…
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 fuadslymnv/ATS-Resume-Generator
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/fuadslymnv/ATS-Resume-Generator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 gitColinX/servicenow-claude-mcp
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/gitColinX/servicenow-claude-mcp
+     📝 Case study: connecting Claude to a production ServiceNow instance for an IT serv…
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 Ghaisan-Fawwaz/Cyber-Ghaisan
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/Ghaisan-Fawwaz/Cyber-Ghaisan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:06 UTC] [NEW]   🆕 📦 seergiojm23/seergiojm23
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/seergiojm23/seergiojm23
+     📝 Perfil profesional de Ingeniería Informática orientado a software, sistemas, inf…
+     🏷  —
+[2026-10-09 05:04:06 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-09 05:04:06 UTC] [UPD]   📢 📦 luminae21-source/hotdeal-bot
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/luminae21-source/hotdeal-bot
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-09 05:04:06 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-09 05:04:06 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-09 05:04:08 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-09 05:04:08 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-10-09 05:04:08 UTC] [NEW]   🆕 📦 TheHuskyHacker/oscp-methodology-checklist
+     ⭐ 0  🗣 Shell  📅 2026-10-09
+     🔗 https://github.com/TheHuskyHacker/oscp-methodology-checklist
+     📝 bash methodology script 
+     🏷  —
+[2026-10-09 05:04:08 UTC] [NEW]   🆕 📦 vinasxexplosao/relapsenew
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/vinasxexplosao/relapsenew
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:08 UTC] [NEW]   🆕 📦 vinasxexplosao/relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/vinasxexplosao/relapse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:08 UTC] [NEW]   🆕 📦 vinasxexplosao/vinasxexplosao.github.io-relapse-
+     ⭐ 0  🗣 JavaScript  📅 2026-10-08
+     🔗 https://github.com/vinasxexplosao/vinasxexplosao.github.io-relapse-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 05:04:08 UTC] [NEW]   🆕 📦 zimza1abim/Root-My-Galaxy-Payloads-SM-S928N
+     ⭐ 0  🗣 C  📅 2026-10-08
+     🔗 https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N
+     📝 Device-specific CVE-2026-43499 payload profile for Galaxy S24 Ultra SM-S928N (S9…
+     🏷  —
+[2026-10-09 05:04:08 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-09 05:04:08 UTC] [UPD]   📢 📦 Tranduc1124/DSMINHDUC
+     ⭐ 0  🗣 Objective-C  📅 2026-10-08
+     🔗 https://github.com/Tranduc1124/DSMINHDUC
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-09 05:04:08 UTC] [UPD]   📢 📦 holeyfield33-art/autonomous-digital-resident
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/holeyfield33-art/autonomous-digital-resident
+     📝 AUTONOMOUS DIGITAL RESIDENT — NEBIUS × NVIDIA HACKATHON. An always-on autonomous…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-09 05:04:08 UTC] [UPD]   📢 📦 Davebee123/Blackbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-01
+     🔗 https://github.com/Davebee123/Blackbox
+     📝 A Cyberpunk Hacker MUD
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-09 05:04:08 UTC] [UPD]   📢 📦 strongt1me/ps5-cooling-system-center-pro
+     ⭐ 5  🗣 C  📅 2026-10-06
+     🔗 https://github.com/strongt1me/ps5-cooling-system-center-pro
+     📝 Fan control, temperature monitoring and system center for the jailbroken PS5 – p…
+     🏷  c, fan-control, file-manager, homebrew, payload, playstation-5, ps5, ps5-homebrew, temperature-monitoring, web-ui
+     🔄 Motivo: repo recente (2gg)
+[2026-10-09 05:04:08 UTC] [UPD]   📢 📦 jixui666/shjkdhd
+     ⭐ 0  🗣 Swift  📅 2026-10-08
+     🔗 https://github.com/jixui666/shjkdhd
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-09 05:04:08 UTC] [INFO] ============================================================
+[2026-10-09 05:04:08 UTC] [INFO] Completato — 30 nuovi, 7 aggiornati, 0 errori
+[2026-10-09 05:04:08 UTC] [INFO] ============================================================
