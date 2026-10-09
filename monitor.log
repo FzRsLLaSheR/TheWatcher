@@ -107731,3 +107731,228 @@
 [2026-10-09 05:04:08 UTC] [INFO] ============================================================
 [2026-10-09 05:04:08 UTC] [INFO] Completato — 30 nuovi, 7 aggiornati, 0 errori
 [2026-10-09 05:04:08 UTC] [INFO] ============================================================
+[2026-10-09 12:45:01 UTC] [INFO] ============================================================
+[2026-10-09 12:45:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-09 12:45:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-09 12:45:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-09 12:45:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-09 12:45:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-09 12:45:01 UTC] [INFO] ============================================================
+[2026-10-09 12:45:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-09 12:45:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-09 12:45:03 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-09 12:45:03 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-09 12:45:03 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-09 12:45:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-09 12:45:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-09 12:45:06 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 32 NUOVI repository:
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 imenasy/bnr-cybersecurity-compliance-toolkit
+     ⭐ 0  🗣 N/A  📅 2026-10-08
+     🔗 https://github.com/imenasy/bnr-cybersecurity-compliance-toolkit
+     📝 GRC compliance templates, BNR Cybersecurity Directives mapping, and ISO/IEC 2700…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 davidmburu001/peb-walker-
+     ⭐ 1  🗣 Assembly  📅 2026-10-09
+     🔗 https://github.com/davidmburu001/peb-walker-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 sylvia-lee511/PI-TCN-NIS-FDIA
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/sylvia-lee511/PI-TCN-NIS-FDIA
+     📝 Physics-informed TCN and NIS for FDIA detection: IEEE 39-bus data generation, tr…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 sakshamtushar/AI-browser-blind-spot
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/sakshamtushar/AI-browser-blind-spot
+     📝 c0c0n 2026: forensic artifacts of AI browsers and browser agents, with KAPE targ…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 Balausa11/adaptive-edr-pd
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/Balausa11/adaptive-edr-pd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 0liverFlow/Evilcorp
+     ⭐ 1  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/0liverFlow/Evilcorp
+     📝 Evilcorp est un lab Active Directory composé de 4 machines, 3 sous-réseaux, ains…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 hossamshadyy-gif/edr-tekton
+     ⭐ 0  🗣 C  📅 2026-10-09
+     🔗 https://github.com/hossamshadyy-gif/edr-tekton
+     📝 Composable EDR evasion payload builder — modular C/C++ framework with YAML-drive…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 mrollintux/edry
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/mrollintux/edry
+     📝 content
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 BeamNawapat/keepawake
+     ⭐ 0  🗣 TypeScript  📅 2026-10-09
+     🔗 https://github.com/BeamNawapat/keepawake
+     📝 Keep your machine awake while an AI coding agent (Claude Code, Codex, Gemini CLI…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 avaadrian/SBS
+     ⭐ 0  🗣 Go  📅 2026-10-09
+     🔗 https://github.com/avaadrian/SBS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 srinivasthirumalai7-code/EDRC-HITACHI-TEST
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/srinivasthirumalai7-code/EDRC-HITACHI-TEST
+     📝 Streamlit Frontend for Hitachi Automation
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 kavillo/a2edrop-releases
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/kavillo/a2edrop-releases
+     📝 Downloads of a2edrop (releases only, no code)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 mao2009/Gorgoneion
+     ⭐ 0  🗣 C#  📅 2026-10-09
+     🔗 https://github.com/mao2009/Gorgoneion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Security-Event-Monitoring
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/ishandutta2007/Awesome-Security-Event-Monitoring
+     📝 Top Security Event Monitoring (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, log-management, security-monitoring, siem
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Security-Audit-Logging
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/ishandutta2007/Awesome-Security-Audit-Logging
+     📝 Top Security Audit Logging (Opensource)  Star if you like it! 
+     🏷  audit-logging, awesome, awesome-list, curated-list, log-management, security
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 Ahuaisnotficklehearted/EDR-SKILL-
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/Ahuaisnotficklehearted/EDR-SKILL-
+     📝 EDR自动化设计
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 kumarsumit7/Malware-Detection-Engine
+     ⭐ 0  🗣 Python  📅 2026-10-08
+     🔗 https://github.com/kumarsumit7/Malware-Detection-Engine
+     📝 A Python-based, signature-driven malware detection project with a cyber-themed d…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 hayman-eng/edr-tekton
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/hayman-eng/edr-tekton
+     📝 Composable EDR evasion payload builder — modular C/C++ framework with YAML-drive…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 shrey430/Soc-Triage-App
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/shrey430/Soc-Triage-App
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 Syed-Muhammad-Tayyab/reverse-shell-defensive-analysis-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/Syed-Muhammad-Tayyab/reverse-shell-defensive-analysis-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 shetty-coder/AI_HACK
+     ⭐ 0  🗣 TypeScript  📅 2026-10-09
+     🔗 https://github.com/shetty-coder/AI_HACK
+     📝 Autonomous AI Cybersecurity SOC Platform featuring multi-modal threat detection,…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 rogerionew/edrz
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/rogerionew/edrz
+     📝 content
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 arnavsx3/origin-fence
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/arnavsx3/origin-fence
+     📝 Runtime guardrails for AI agents
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 ManoharK-777/CRT_EDREALM
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/ManoharK-777/CRT_EDREALM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 maorinka/pidfd-attribution
+     ⭐ 0  🗣 C  📅 2026-10-09
+     🔗 https://github.com/maorinka/pidfd-attribution
+     📝 Pidfd attribution pipeline with Muse collector optimization, native Intel/ARM Ub…
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 akash870547-hue/akash870547-hue
+     ⭐ 0  🗣 HTML  📅 2026-10-08
+     🔗 https://github.com/akash870547-hue/akash870547-hue
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 kingblessolivier/KevlarEDR
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/kingblessolivier/KevlarEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 SathishSudhara/SathishSudhara
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/SathishSudhara/SathishSudhara
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 yajali-manideepak/cybershield
+     ⭐ 0  🗣 TypeScript  📅 2026-10-09
+     🔗 https://github.com/yajali-manideepak/cybershield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 AkilaSp-coder/edrevel-ai-assessment-
+     ⭐ 0  🗣 Java  📅 2026-10-09
+     🔗 https://github.com/AkilaSp-coder/edrevel-ai-assessment-
+     📝 Full Stack Developer Assessment-AI Powered Learning Platform
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 PRABU-S-19/soc
+     ⭐ 0  🗣 JavaScript  📅 2026-10-09
+     🔗 https://github.com/PRABU-S-19/soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-09 12:45:06 UTC] [NEW]   🆕 📦 siba-p/converge
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/siba-p/converge
+     📝 Is my simulation converged? Automated equilibration detection, autocorrelation t…
+     🏷  convergence, gromacs, molecular-dynamics, statistical-mechanics, time-series, uncertainty-quantification
+[2026-10-09 12:45:06 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-09 12:45:06 UTC] [UPD]   📢 📦 luminae21-source/hotdeal-bot
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/luminae21-source/hotdeal-bot
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-09 12:45:06 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-09 12:45:06 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-09 12:45:08 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-09 12:45:08 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-09 12:45:08 UTC] [NEW]   🆕 📦 Alden-Gerald/Lumina
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/Alden-Gerald/Lumina
+     📝 Lumina is a personal lcoal AI that I made. The goal is to create a local AI that…
+     🏷  —
+[2026-10-09 12:45:08 UTC] [NEW]   🆕 📦 pilseta-cilvekiem/kkc-traffic-counter
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/pilseta-cilvekiem/kkc-traffic-counter
+     📝 Traffic counter script running near KKC in Riga
+     🏷  —
+[2026-10-09 12:45:08 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-09 12:45:08 UTC] [UPD]   📢 📦 Tranduc1124/DSMINHDUC
+     ⭐ 0  🗣 Objective-C  📅 2026-10-08
+     🔗 https://github.com/Tranduc1124/DSMINHDUC
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-09 12:45:08 UTC] [UPD]   📢 📦 haarardin/isolated-agent
+     ⭐ 0  🗣 Shell  📅 2026-10-08
+     🔗 https://github.com/haarardin/isolated-agent
+     📝 This is version of isolated codex (aka other agents) cli with Podman, to additio…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-09 12:45:08 UTC] [UPD]   📢 📦 holeyfield33-art/autonomous-digital-resident
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/holeyfield33-art/autonomous-digital-resident
+     📝 AUTONOMOUS DIGITAL RESIDENT — NEBIUS × NVIDIA HACKATHON. An always-on autonomous…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-09 12:45:08 UTC] [UPD]   📢 📦 jixui666/shjkdhd
+     ⭐ 0  🗣 Swift  📅 2026-10-08
+     🔗 https://github.com/jixui666/shjkdhd
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-09 12:45:08 UTC] [INFO] ============================================================
+[2026-10-09 12:45:08 UTC] [INFO] Completato — 34 nuovi, 5 aggiornati, 0 errori
+[2026-10-09 12:45:08 UTC] [INFO] ============================================================
