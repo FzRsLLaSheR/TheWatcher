@@ -108257,3 +108257,192 @@
 [2026-10-09 22:22:59 UTC] [INFO] ============================================================
 [2026-10-09 22:22:59 UTC] [INFO] Completato — 48 nuovi, 6 aggiornati, 0 errori
 [2026-10-09 22:22:59 UTC] [INFO] ============================================================
+[2026-10-10 04:49:45 UTC] [INFO] ============================================================
+[2026-10-10 04:49:45 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-10 04:49:45 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-10 04:49:45 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-10 04:49:45 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-10 04:49:45 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-10 04:49:45 UTC] [INFO] ============================================================
+[2026-10-10 04:49:45 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-10 04:49:45 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-10 04:49:47 UTC] [INFO]   → 0 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-10 04:49:47 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-10 04:49:47 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-10 04:49:47 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 168  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is a reverse engineering framework.  It carries no dependency on legacy…
+     🏷  ablation, autonomous, binary-analysis, bytecode-decompiler, claude-code, codex, decompiler, directed-acyclic-graph, disassembler, firmware-analysis, reverse-engineering
+     🔄 Motivo: nuovi topic: ablation, autonomous
+[2026-10-10 04:49:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-10 04:49:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-10 04:49:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 ericgidseg/doudizhu
+     ⭐ 0  🗣 JavaScript  📅 2026-10-10
+     🔗 https://github.com/ericgidseg/doudizhu
+     📝 斗地主 · 局域网三人对战 - 零依赖Node服务端, 四档AI(蒙特卡洛传说级), 对局复盘, 可打包macOS .app分发
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 khizaruddins/ocr-evidence-engine
+     ⭐ 0  🗣 C++  📅 2026-10-10
+     🔗 https://github.com/khizaruddins/ocr-evidence-engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 khizaruddins/OCR-DI-backend
+     ⭐ 0  🗣 TypeScript  📅 2026-10-10
+     🔗 https://github.com/khizaruddins/OCR-DI-backend
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 shadow-here/HLPA-DS
+     ⭐ 0  🗣 JavaScript  📅 2026-10-10
+     🔗 https://github.com/shadow-here/HLPA-DS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 g-ex-e/BlueTeam-Detection-Lab
+     ⭐ 1  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/g-ex-e/BlueTeam-Detection-Lab
+     📝 Python blue team detection lab for SOC analysis, threat hunting, event correlati…
+     🏷  blue-team, cybersecurity, detection-engineering, dfir, log-analysis, mitre-attack, soc, threat-hunting
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 AaronBrown-RYK/night-shift-soc
+     ⭐ 0  🗣 JavaScript  📅 2026-10-10
+     🔗 https://github.com/AaronBrown-RYK/night-shift-soc
+     📝 playable SOC simulator game
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 vigneshr13/SOC-ANALYST-WORK
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/vigneshr13/SOC-ANALYST-WORK
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 ihavenoram/mapped-drive-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-10-10
+     🔗 https://github.com/ihavenoram/mapped-drive-toolkit
+     📝 PowerShell 5.1 GUI for mapped drives, built for ScreenConnect Backstage: map a u…
+     🏷  mapped-drives, msp, net-use, powershell, screenconnect, smb, windows, winforms
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 ccoskrnl/RfUdrl
+     ⭐ 1  🗣 C  📅 2026-10-10
+     🔗 https://github.com/ccoskrnl/RfUdrl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 ram-mangesh/Zerotrust
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/ram-mangesh/Zerotrust
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 DavidHong-dev/C-Clean
+     ⭐ 0  🗣 C  📅 2026-10-10
+     🔗 https://github.com/DavidHong-dev/C-Clean
+     📝 Assigns a risk score to every running process on Windows, like a lightweight mal…
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 jmeikle07/SentinelForge
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/jmeikle07/SentinelForge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 Nuz8AI/security-ai-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/Nuz8AI/security-ai-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 Quentalheitor/endpoint-arbiter
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/Quentalheitor/endpoint-arbiter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 KingRichardVII/linux-server-security-hardening
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/KingRichardVII/linux-server-security-hardening
+     📝 Hands-on Linux administration and security hardening lab using Proxmox, Ubuntu S…
+     🏷  access-control, cybersecurity, homelab, linux, proxmox, security-hardening, ssh, system-administration, ubuntu-server, ufw
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 Taha-Mosad-Al-Ghunaimi/AgeixAISOC
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/Taha-Mosad-Al-Ghunaimi/AgeixAISOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 bernardocx15-collab/baluarte-edr.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-09
+     🔗 https://github.com/bernardocx15-collab/baluarte-edr.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 drbright399/octo
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/drbright399/octo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 3IMiner/SincoOTA_PC
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/3IMiner/SincoOTA_PC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 fatehMohamed14/anthropic-cybersecurity-skills-defensive
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/fatehMohamed14/anthropic-cybersecurity-skills-defensive
+     📝 cybersecurity defensive skills (Blue team)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 bfleming-bitflow/detection-rules
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/bfleming-bitflow/detection-rules
+     📝 Tested YARA and Sigma detection rules mapped to MITRE ATT&CK
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 Ghaisan-Fawwaz/Ghaisan-Fawwaz
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/Ghaisan-Fawwaz/Ghaisan-Fawwaz
+     📝 Github Profile Repository 
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 Nijat-Mansimov/lvfrontend
+     ⭐ 0  🗣 TypeScript  📅 2026-10-09
+     🔗 https://github.com/Nijat-Mansimov/lvfrontend
+     📝 lvfrontent
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 siddhijogula/siddhijogula
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/siddhijogula/siddhijogula
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 mariamapoelfetouh25-dev/mini-soc-empty
+     ⭐ 0  🗣 JavaScript  📅 2026-10-09
+     🔗 https://github.com/mariamapoelfetouh25-dev/mini-soc-empty
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 aresstack/win-trust-java
+     ⭐ 0  🗣 Java  📅 2026-10-09
+     🔗 https://github.com/aresstack/win-trust-java
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [NEW]   🆕 📦 bayramguney/Network-Incident-Investigation-and-Remediation
+     ⭐ 0  🗣 N/A  📅 2026-10-09
+     🔗 https://github.com/bayramguney/Network-Incident-Investigation-and-Remediation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:49 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-10 04:49:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-10 04:49:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-10 04:49:51 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-10 04:49:51 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-10 04:49:51 UTC] [NEW]   🆕 📦 YAh3y/ts
+     ⭐ 0  🗣 JavaScript  📅 2026-10-09
+     🔗 https://github.com/YAh3y/ts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 04:49:51 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-10 04:49:51 UTC] [UPD]   📢 📦 Tranduc1124/DSMINHDUC
+     ⭐ 0  🗣 Objective-C  📅 2026-10-08
+     🔗 https://github.com/Tranduc1124/DSMINHDUC
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-10 04:49:51 UTC] [UPD]   📢 📦 holeyfield33-art/autonomous-digital-resident
+     ⭐ 0  🗣 Python  📅 2026-10-06
+     🔗 https://github.com/holeyfield33-art/autonomous-digital-resident
+     📝 AUTONOMOUS DIGITAL RESIDENT — NEBIUS × NVIDIA HACKATHON. An always-on autonomous…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-10 04:49:51 UTC] [UPD]   📢 📦 tingao/debian-on-s23-ultra
+     ⭐ 1  🗣 Kotlin  📅 2026-10-09
+     🔗 https://github.com/tingao/debian-on-s23-ultra
+     📝 A Samsung Galaxy S23 Ultra running Debian 13 as a server. The bootloader is lock…
+     🏷  aarch64, android-16, android-root, chroot, cloudflare-tunnel, cloudflare-warp, debian, debian-chroot, dm3q, homelab, kernelsu-next, linux-on-android, one-ui-8, ota-block, samsung-galaxy-s23-ultra, self-hosted, shizuku, sm-s918b, snapdragon-8-gen-2, ssh
+     🔄 Motivo: repo recente (0gg)
+[2026-10-10 04:49:51 UTC] [INFO] ============================================================
+[2026-10-10 04:49:51 UTC] [INFO] Completato — 28 nuovi, 4 aggiornati, 0 errori
+[2026-10-10 04:49:51 UTC] [INFO] ============================================================
