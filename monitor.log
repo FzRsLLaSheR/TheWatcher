@@ -108632,3 +108632,275 @@
 [2026-10-10 12:03:41 UTC] [INFO] ============================================================
 [2026-10-10 12:03:41 UTC] [INFO] Completato — 25 nuovi, 6 aggiornati, 0 errori
 [2026-10-10 12:03:41 UTC] [INFO] ============================================================
+[2026-10-10 21:17:00 UTC] [INFO] ============================================================
+[2026-10-10 21:17:00 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-10 21:17:00 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-10 21:17:00 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-10 21:17:00 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-10 21:17:00 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-10 21:17:00 UTC] [INFO] ============================================================
+[2026-10-10 21:17:00 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-10 21:17:00 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-10 21:17:03 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-10 21:17:03 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-10 21:17:03 UTC] [NEW]   🆕 📦 devperkyy/centrhub
+     ⭐ 0  🗣 C++  📅 2026-10-10
+     🔗 https://github.com/devperkyy/centrhub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:03 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-10 21:17:03 UTC] [UPD]   📢 📦 Zephyr236/pe-insight
+     ⭐ 0  🗣 Python  📅 2026-10-09
+     🔗 https://github.com/Zephyr236/pe-insight
+     📝 本地多引擎 Windows PE 分析平台 —— 样本永不离开本机
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-10 21:17:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-10 21:17:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-10 21:17:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 41 NUOVI repository:
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 brokoskokoli/lumaflip
+     ⭐ 0  🗣 C++  📅 2026-10-10
+     🔗 https://github.com/brokoskokoli/lumaflip
+     📝 Fast, free image viewer for macOS: double-click a photo and flip through the who…
+     🏷  apple-silicon, avif, cpp20, culling, edr, finder, gpl3, hdr, heic, image-viewer, jpeg-xl, macos, open-source, photo-viewer, photography, qt6, raw, xmp
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 hassanxs/ubuntu-touch-apollo
+     ⭐ 0  🗣 Shell  📅 2026-10-10
+     🔗 https://github.com/hassanxs/ubuntu-touch-apollo
+     📝 WIP: Ubuntu Touch (Halium 12) port for Xiaomi Mi 10T / apollo (SM8250)
+     🏷  apoll, mi10t, ubports, ubuntutouch
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 AwpDemon/cyber-risk-quant
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/AwpDemon/cyber-risk-quant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 zaftab118/EDR-PowerShell-Triage-and-SIEM-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/zaftab118/EDR-PowerShell-Triage-and-SIEM-Hunting
+     📝 SOC Tier-1 endpoint incident triage analyzing obfuscated Base64 PowerShell execu…
+     🏷  blue-team, edr, fileless-malware, incident-response, kql, powershell, soc-analyst, splunk, threat-hunting
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 maya-thorne/batch-obfuscation-research
+     ⭐ 0  🗣 C  📅 2026-10-10
+     🔗 https://github.com/maya-thorne/batch-obfuscation-research
+     📝 Windows Batch (cmd.exe) Obfuscation, Deobfuscation & Ghidra Binary Reverse Engin…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 maya-thorne/batch-forensics-and-ghidra-re
+     ⭐ 0  🗣 C  📅 2026-10-10
+     🔗 https://github.com/maya-thorne/batch-forensics-and-ghidra-re
+     📝 Windows Batch Forensics, Parser Internals & Ghidra Binary Reverse Engineering Ar…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 maya-thorne/batch-deobfuscator-re
+     ⭐ 0  🗣 C  📅 2026-10-10
+     🔗 https://github.com/maya-thorne/batch-deobfuscator-re
+     📝 Windows Batch Multi-Pass Deobfuscator Engine, Ghidra PE Unpacker Forensics (UPX …
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 kur0s4k1/Blue-Team
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/kur0s4k1/Blue-Team
+     📝 Blue Team arsenal: herramientas de defensa, DFIR y análisis de campañas de phish…
+     🏷  blue-team, cti, detection-engineering, dfir, mitre-attack, phishing, sigma, threat-intelligence, wazuh, yara
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 thesavatage-ux/sdv-requirements-traceability
+     ⭐ 0  🗣 HTML  📅 2026-10-10
+     🔗 https://github.com/thesavatage-ux/sdv-requirements-traceability
+     📝 Automotive SDV Systems & Software Requirements Specification (SRS), ASPICE SYS.2…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 atharvakanekar22-dev/MirageMesh
+     ⭐ 0  🗣 TypeScript  📅 2026-10-10
+     🔗 https://github.com/atharvakanekar22-dev/MirageMesh
+     📝 AI-native deception layer for cybersecurity threat detection and incident respon…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 Yash150406/TrustGuard
+     ⭐ 1  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/Yash150406/TrustGuard
+     📝 Cyber-risk investigation platform and browser extension. Correlates URL, domain,…
+     🏷  browser-extension, cybersecurity, manifest-v3, nextjs, osint, phishing-detection, security-tools, threat-intelligence, typescript, url-scanner
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 familyhakimi25-bit/attackmapper
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/familyhakimi25-bit/attackmapper
+     📝 AttackMapper - AI-Powered Cyber Attack Log Analyzer with automated MITRE ATT&CK …
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 osram90/md-tutorial
+     ⭐ 0  🗣 HTML  📅 2026-10-10
+     🔗 https://github.com/osram90/md-tutorial
+     📝 Guía didáctica de Dinámica Molecular con GROMACS 2025.3 + GPU NVIDIA - Paso a pa…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 jozeta/FileSanitizer
+     ⭐ 0  🗣 TypeScript  📅 2026-10-10
+     🔗 https://github.com/jozeta/FileSanitizer
+     📝 Enterprise File Sanitizer, Content Disarm & Reconstruction (CDR), Multi-Artifact…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 Harshith-0078/Cyber-KillChain-new-
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/Harshith-0078/Cyber-KillChain-new-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 iabdulwasey/SecureOps
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/iabdulwasey/SecureOps
+     📝 One console for RMM, PSA, MDM, network monitoring, IT documentation, billing and…
+     🏷  agentic-ai, air-gapped, endpoint-management, golang, helpdesk, it-documentation, it-management, it-operations, mcp-server, mdm, msp, multi-tenant, network-monitoring, patch-management, psa, remote-desktop, rmm, self-hosted, service-desk, typescript
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 gorkamolero/Headroom
+     ⭐ 0  🗣 Swift  📅 2026-10-10
+     🔗 https://github.com/gorkamolero/Headroom
+     📝 A lightweight macOS menu bar brightness booster for compatible XDR displays.
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 viRAJ357/Cyber_sentinal_ai
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/viRAJ357/Cyber_sentinal_ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 diyahassani0/Explainable-Multi-Source-Threat-Correlation-Framework-for-Adaptive-Cyber-Incident-Response
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/diyahassani0/Explainable-Multi-Source-Threat-Correlation-Framework-for-Adaptive-Cyber-Incident-Response
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 kaveryblake/reserve
+     ⭐ 0  🗣 JavaScript  📅 2026-10-10
+     🔗 https://github.com/kaveryblake/reserve
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 edronald7/edronald7.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-10
+     🔗 https://github.com/edronald7/edronald7.github.io
+     📝 Portafolio - Edwin Ronald Copacondori, Senior Data Engineer
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 yogsec/Blue-Team-Tools
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/yogsec/Blue-Team-Tools
+     📝     Blue-Team-Tools is a comprehensive collection of resources designed for Defe…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 gustavosousa2208/switch-controller-battery-windows
+     ⭐ 0  🗣 Rust  📅 2026-10-10
+     🔗 https://github.com/gustavosousa2208/switch-controller-battery-windows
+     📝 Show a Switch-mode controller's battery in Windows Settings (single exe, no Pyth…
+     🏷  8bitdo, battery, bluetooth, gamepad, hid, nintendo-switch, rust, windows
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 galicea-lab/nodavia-hub
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/galicea-lab/nodavia-hub
+     📝 One API for many applications - central hub
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 kyle41111/BinarySoap
+     ⭐ 2  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/kyle41111/BinarySoap
+     📝 A python proof of concept tool to assist in your payloads classification against…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 VBharanitharan/quantumshield-ai
+     ⭐ 0  🗣 HTML  📅 2026-10-10
+     🔗 https://github.com/VBharanitharan/quantumshield-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 socoolgzh-max/md2edrawmind
+     ⭐ 2  🗣 HTML  📅 2026-10-10
+     🔗 https://github.com/socoolgzh-max/md2edrawmind
+     📝 把带 LaTeX 公式的 Markdown 笔记转成思维导图软件可直接导入的 Word：公式渲染为图片、标题层级完整保留、全程离线 | Turn Markdow…
+     🏷  docx, edrawmind, formula, latex, markdown, mathjax, mind-mapping, mindmap, offline, python
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 Koality-Assured/logscale-examples
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/Koality-Assured/logscale-examples
+     📝 CrowdStrike Falcon LogScale (Humio) architectures, streaming parsers, CQL querie…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 tleanne1/security-automation-playbooks
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/tleanne1/security-automation-playbooks
+     📝 Cybersecurity automation portfolio featuring SOAR playbooks, investigation and r…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 KadirKayacan/ESP32-Ble-Spammer
+     ⭐ 0  🗣 C++  📅 2026-10-10
+     🔗 https://github.com/KadirKayacan/ESP32-Ble-Spammer
+     📝 ESP32 Bluetooth Spammer
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 shreyasureshh/MARVIS-ML-Based-Terrain-Aware-Autonomous-Navigation-for-Planetary-Rovers
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/shreyasureshh/MARVIS-ML-Based-Terrain-Aware-Autonomous-Navigation-for-Planetary-Rovers
+     📝 The goal is to build a planetary rover that can use machine learning to understa…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 aviflombaum/awesome-native-clients
+     ⭐ 1  🗣 Ruby  📅 2026-10-10
+     🔗 https://github.com/aviflombaum/awesome-native-clients
+     📝 Faster, lighter clients for the apps you love, and the ones you're stuck with.
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 MAPEICAT/retro-go-for-M5Stack-Tab5
+     ⭐ 0  🗣 C  📅 2026-10-10
+     🔗 https://github.com/MAPEICAT/retro-go-for-M5Stack-Tab5
+     📝 一套让 M5Stack Tab5 跑 retro-go 的固件
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 MaxLiebe/wiimote-anything
+     ⭐ 0  🗣 C  📅 2026-10-10
+     🔗 https://github.com/MaxLiebe/wiimote-anything
+     📝 ESP32 library that emulates a Wiimote over Bluetooth Classic
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 proofprotocol/PP-SPEC-077-DEAD-CANARY-PROTOCOL
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/proofprotocol/PP-SPEC-077-DEAD-CANARY-PROTOCOL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 edracode/TempatBelajarbyEdra
+     ⭐ 0  🗣 JavaScript  📅 2026-10-10
+     🔗 https://github.com/edracode/TempatBelajarbyEdra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 scobru/mecenate
+     ⭐ 0  🗣 TypeScript  📅 2026-10-10
+     🔗 https://github.com/scobru/mecenate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 Jaisonj2005/keylogger
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/Jaisonj2005/keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 df-x-strike/df-x-strike
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/df-x-strike/df-x-strike
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 luigiderosa2299-gif/python-keylogger-lab
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/luigiderosa2299-gif/python-keylogger-lab
+     📝 Progetto didattico: keylogger Python per malware analysis + script di detection …
+     🏷  —
+[2026-10-10 21:17:05 UTC] [NEW]   🆕 📦 peotta/PPCA0049
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/peotta/PPCA0049
+     📝 PPCA0049 - Cibersegurança 1 | Doutorado Profissional em Computação Aplicada (PPC…
+     🏷  —
+[2026-10-10 21:17:05 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-10 21:17:05 UTC] [UPD]   📢 📦 sricharanenabothula704-star/hydra
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/sricharanenabothula704-star/hydra
+     📝 AI bug bounty agent system - 7 agents, skill library, recon to report
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-10 21:17:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-10 21:17:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-10 21:17:07 UTC] [INFO]   → 11 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-10 21:17:07 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-10-10 21:17:07 UTC] [NEW]   🆕 📦 snowmossd-beep/3105
+     ⭐ 0  🗣 Swift  📅 2026-10-10
+     🔗 https://github.com/snowmossd-beep/3105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:07 UTC] [NEW]   🆕 📦 pubglite55/pubglite55
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/pubglite55/pubglite55
+     📝 System-layer reverse engineering · Linux kernel security · Hackintosh · BLE prot…
+     🏷  —
+[2026-10-10 21:17:07 UTC] [NEW]   🆕 📦 axela7149-art/Nubank-2.1-build22
+     ⭐ 0  🗣 Swift  📅 2026-10-10
+     🔗 https://github.com/axela7149-art/Nubank-2.1-build22
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-10 21:17:07 UTC] [NEW]   🆕 📦 Philonous/agent-box
+     ⭐ 0  🗣 Shell  📅 2026-10-10
+     🔗 https://github.com/Philonous/agent-box
+     📝 Sandbox for agents (and similar)
+     🏷  —
+[2026-10-10 21:17:07 UTC] [NEW]   🆕 📦 kristofk/arc-on-nas
+     ⭐ 0  🗣 Shell  📅 2026-10-09
+     🔗 https://github.com/kristofk/arc-on-nas
+     📝 GitHub Actions runners on a single-node Kubernetes (k3s) running on a NAS: Actio…
+     🏷  —
+[2026-10-10 21:17:07 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-10 21:17:07 UTC] [INFO] ============================================================
+[2026-10-10 21:17:07 UTC] [INFO] Completato — 47 nuovi, 2 aggiornati, 0 errori
+[2026-10-10 21:17:07 UTC] [INFO] ============================================================
