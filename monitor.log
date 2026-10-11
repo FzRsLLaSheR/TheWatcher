@@ -108904,3 +108904,151 @@
 [2026-10-10 21:17:07 UTC] [INFO] ============================================================
 [2026-10-10 21:17:07 UTC] [INFO] Completato — 47 nuovi, 2 aggiornati, 0 errori
 [2026-10-10 21:17:07 UTC] [INFO] ============================================================
+[2026-10-11 04:35:45 UTC] [INFO] ============================================================
+[2026-10-11 04:35:45 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-11 04:35:45 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-11 04:35:45 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-11 04:35:45 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-11 04:35:45 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-11 04:35:45 UTC] [INFO] ============================================================
+[2026-10-11 04:35:45 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-11 04:35:45 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-11 04:35:47 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-11 04:35:47 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-11 04:35:47 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-11 04:35:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-11 04:35:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-11 04:35:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 HalcyonTech-LTDA/modern-business-blueprint-plugin
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/HalcyonTech-LTDA/modern-business-blueprint-plugin
+     📝 Enterprise-grade multi-agent business blueprint orchestration plugin: category d…
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 Bubba474/Bubba474
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/Bubba474/Bubba474
+     📝 Profile README
+     🏷  cybersecurity, devsecops, pentest, red-team
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 Hasslius/flengine-loader-threat-analysis
+     ⭐ 0  🗣 YARA  📅 2026-10-11
+     🔗 https://github.com/Hasslius/flengine-loader-threat-analysis
+     📝 Technical analysis of an evasive 0/70 FUD DLL loader leveraging direct syscalls,…
+     🏷  dfir, direct-syscalls, edr-evasion, malware-analysis, mitre-attack, reverse-engineering, threat-intelligence, yara
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 auramarkeringdigital-hub/academia-edrm-
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/auramarkeringdigital-hub/academia-edrm-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 sringaaaa/CyberTrace-AI
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/sringaaaa/CyberTrace-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 edrx/edrx.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-11
+     🔗 https://github.com/edrx/edrx.github.io
+     📝 Test @ github.io
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 Jorgearaya24/EDR-Wazuh-Sysmon-Lab.
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/Jorgearaya24/EDR-Wazuh-Sysmon-Lab.
+     📝 Endpoint detection and response lab using Wazuh and Sysmon
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 AP24110011504/Techashy
+     ⭐ 1  🗣 JavaScript  📅 2026-10-10
+     🔗 https://github.com/AP24110011504/Techashy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 Jorgearaya24/EDR-Wazuh-Sysmon-Lab
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/Jorgearaya24/EDR-Wazuh-Sysmon-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 maya-thorne/dotnet-obfuscation-and-ghidra-re
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/maya-thorne/dotnet-obfuscation-and-ghidra-re
+     📝 Blue Team EDR/SIEM Detection Engineering, 52 Sigma Rules, 32 YARA Signatures, CI…
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 maya-thorne/chromium-app-spoofing-forensics
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/maya-thorne/chromium-app-spoofing-forensics
+     📝 Blue Team EDR/SIEM Detection Engineering, 52 Sigma Rules, 32 YARA Signatures, [M…
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 rayitalks/security-hardening-agent
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/rayitalks/security-hardening-agent
+     📝 Ray-i Security Hardening Agent ... Agentic local security assessment tool and  c…
+     🏷  agentic-ai
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 jakeberv/mpv-chameleon
+     ⭐ 0  🗣 Lua  📅 2026-10-10
+     🔗 https://github.com/jakeberv/mpv-chameleon
+     📝 Automatic, display-aware HDR/SDR switching for mpv on macOS.
+     🏷  apple-silicon, hdr, lua, macos, moltenvk, mpv, sdr, swift, video
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 IT-EXPRESS-Bayern/LunarBridge-HDR-Samsung
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/IT-EXPRESS-Bayern/LunarBridge-HDR-Samsung
+     📝 Read-only HDR panel diagnostics and Samsung firmware interface research for nati…
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 FarheenParvez/FarheenParvez
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/FarheenParvez/FarheenParvez
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 halfwaytwohome-lab/catalog-enrich
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/halfwaytwohome-lab/catalog-enrich
+     📝 Deterministic, provenance-tracked malware-family enrichment from a pinned catalo…
+     🏷  catalog, enrichment, malware, python, soc, threat-intelligence
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 tumhi4/cyber-breach-parametric-indemnity-vault
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/tumhi4/cyber-breach-parametric-indemnity-vault
+     📝 Parametric enterprise cybersecurity warranty & cloud breach indemnity vault on G…
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 ShinobiCanal/edrawmind-diagram-hub
+     ⭐ 1  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/ShinobiCanal/edrawmind-diagram-hub
+     📝 AI-powered mind mapping and diagram creation hub
+     🏷  —
+[2026-10-11 04:35:50 UTC] [NEW]   🆕 📦 mayank018-m/cyberrrr
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/mayank018-m/cyberrrr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 04:35:50 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-11 04:35:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-11 04:35:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-11 04:35:51 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-11 04:35:51 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-11 04:35:51 UTC] [NEW]   🆕 📦 acmno123/ps5-host
+     ⭐ 0  🗣 JavaScript  📅 2026-10-10
+     🔗 https://github.com/acmno123/ps5-host
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 04:35:51 UTC] [NEW]   🆕 📦 kevzho/invariant-guard
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/kevzho/invariant-guard
+     📝 Alpha / research preview: local-first verifier for coding-agent patches (modeled…
+     🏷  coding-agents, mcp, python, research-preview, smt, static-analysis, verification
+[2026-10-11 04:35:51 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-11 04:35:51 UTC] [UPD]   📢 📦 hoxuancanhh002-web/ff-build
+     ⭐ 0  🗣 Swift  📅 2026-10-06
+     🔗 https://github.com/hoxuancanhh002-web/ff-build
+     📝 iOS build
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-11 04:35:51 UTC] [UPD]   📢 📦 maya-thorne/maya-thorne
+     ⭐ 0  🗣 N/A  📅 2026-10-07
+     🔗 https://github.com/maya-thorne/maya-thorne
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-11 04:35:51 UTC] [UPD]   📢 📦 axela7149-art/Nubank-2.1-build22
+     ⭐ 0  🗣 Swift  📅 2026-10-10
+     🔗 https://github.com/axela7149-art/Nubank-2.1-build22
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-11 04:35:51 UTC] [INFO] ============================================================
+[2026-10-11 04:35:51 UTC] [INFO] Completato — 21 nuovi, 3 aggiornati, 0 errori
+[2026-10-11 04:35:51 UTC] [INFO] ============================================================
