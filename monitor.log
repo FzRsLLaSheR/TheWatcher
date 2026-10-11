@@ -109052,3 +109052,208 @@
 [2026-10-11 04:35:51 UTC] [INFO] ============================================================
 [2026-10-11 04:35:51 UTC] [INFO] Completato — 21 nuovi, 3 aggiornati, 0 errori
 [2026-10-11 04:35:51 UTC] [INFO] ============================================================
+[2026-10-11 12:16:47 UTC] [INFO] ============================================================
+[2026-10-11 12:16:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-11 12:16:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-11 12:16:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-11 12:16:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-11 12:16:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-11 12:16:47 UTC] [INFO] ============================================================
+[2026-10-11 12:16:47 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-11 12:16:47 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-11 12:16:49 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-11 12:16:49 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-11 12:16:49 UTC] [NEW]   🆕 📦 alienideas/ShadowBackup-Hunter
+     ⭐ 0  🗣 PowerShell  📅 2026-10-11
+     🔗 https://github.com/alienideas/ShadowBackup-Hunter
+     📝 Shadow-Copy and Backup Hunting which catch the most common pre-encryption ransom…
+     🏷  —
+[2026-10-11 12:16:49 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-11 12:16:49 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 199  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an autonomous reverse engineering system.
+     🏷  cisa-secure-by-design, made-in-america, mil-hdbk-115c, nist-800-218
+     🔄 Motivo: nuovi topic: cisa-secure-by-design, made-in-america, mil-hdbk-115c, nist-800-218
+[2026-10-11 12:16:49 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-11 12:16:49 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-11 12:16:52 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 MRDonnii/dmi-vejr
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/MRDonnii/dmi-vejr
+     📝 Home Assistant integration with all DMI open data (radar, lightning, stations, c…
+     🏷  denmark, dmi, hacs, hacs-integration, home-assistant, homeassistant-integration, weather
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 zubair-sowrab/edrak_website
+     ⭐ 0  🗣 HTML  📅 2026-10-11
+     🔗 https://github.com/zubair-sowrab/edrak_website
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 surajsingh4507-del/tryhackme-free-labs-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-10-10
+     🔗 https://github.com/surajsingh4507-del/tryhackme-free-labs-roadmap
+     📝 🚀 Curated 100% FREE TryHackMe labs & roadmaps across 7 Cybersecurity Career Role…
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 r4venrudy/rudy-sentinel
+     ⭐ 1  🗣 C++  📅 2026-10-11
+     🔗 https://github.com/r4venrudy/rudy-sentinel
+     📝 Windows endpoint detection research: C kernel sensor, C++ behavioral engine, C# …
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 GuoqingLiu-eg/StreamGlass
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/GuoqingLiu-eg/StreamGlass
+     📝 StreamGlass is a real-time speech-translation eyewear project based on the NVIDI…
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 gentle-prism95/edrai
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/gentle-prism95/edrai
+     📝 content
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 User123878165/End-Point-Management
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/User123878165/End-Point-Management
+     📝 Endpoint management, EDR, and vulnerability notes for interview prep
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 SingularityRD/autosecops2
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/SingularityRD/autosecops2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 dennissobczak/edr-tool
+     ⭐ 0  🗣 TypeScript  📅 2026-10-11
+     🔗 https://github.com/dennissobczak/edr-tool
+     📝 Tool for managing Engineering Decision Records
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 0x32E1/Enterprise_IT_landscape
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/0x32E1/Enterprise_IT_landscape
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 edrinedarwin-lubega/DARWIN-EDRINE-LUBEGA-VU-BIT-2511-DAY
+     ⭐ 0  🗣 Java  📅 2026-10-11
+     🔗 https://github.com/edrinedarwin-lubega/DARWIN-EDRINE-LUBEGA-VU-BIT-2511-DAY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 Tokyo-09/haruspic_edr
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/Tokyo-09/haruspic_edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 seeunsama-cell/seeun-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/seeunsama-cell/seeun-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 Namitesh07/windows-security-event-log-triage-tool
+     ⭐ 0  🗣 HTML  📅 2026-10-11
+     🔗 https://github.com/Namitesh07/windows-security-event-log-triage-tool
+     📝 A privacy-first browser tool that turns Windows Security Event Viewer CSV export…
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 JnrPeter/ecommerce-analytics-pipeline
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/JnrPeter/ecommerce-analytics-pipeline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 CyRay-io/test-your-soc
+     ⭐ 0  🗣 PowerShell  📅 2026-10-11
+     🔗 https://github.com/CyRay-io/test-your-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 nattaponm/Teach_Tdating_strom_tracks_HID_CloudProperties
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-11
+     🔗 https://github.com/nattaponm/Teach_Tdating_strom_tracks_HID_CloudProperties
+     📝 Teach_Tdating_strom_tracks_HID_CloudProperties สอนนิสิตป.ตรีและโทวิทยาศาสตร์สิ่ง…
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 jimmy-sambin/SOC-AUTONOME-DEEPAGENTS
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/jimmy-sambin/SOC-AUTONOME-DEEPAGENTS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 Rd9315/soc-projects
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/Rd9315/soc-projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 ziyuw-Plank/bt-analyzer
+     ⭐ 0  🗣 Kotlin  📅 2026-10-11
+     🔗 https://github.com/ziyuw-Plank/bt-analyzer
+     📝 Android Bluetooth analyzer driving a CSR8510 USB dongle via raw HCI (BLE scan, G…
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 alienideas/ShadowBackup-Hunter
+     ⭐ 0  🗣 PowerShell  📅 2026-10-11
+     🔗 https://github.com/alienideas/ShadowBackup-Hunter
+     📝 Shadow-Copy and Backup Hunting which catch the most common pre-encryption ransom…
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 alienideas/RansomewareExfilDetection-
+     ⭐ 0  🗣 PowerShell  📅 2026-10-11
+     🔗 https://github.com/alienideas/RansomewareExfilDetection-
+     📝 Silent Layer-2 Data Exfiltration Detection scripts (no pop-ups, no interactive a…
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 Sibi2121/CSIT302-LockBit-Ransomware-Security-Posture
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/Sibi2121/CSIT302-LockBit-Ransomware-Security-Posture
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 nattaponm/Teach_HID_Doppler_KKN_summerStorm
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-11
+     🔗 https://github.com/nattaponm/Teach_HID_Doppler_KKN_summerStorm
+     📝 Teach_HID_Doppler_KKN_summerStorm สอนป.ตรี ป.โท วิทยาศาสตร์สิ่งแวดล้อม ม.นเรศวร …
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 himeshpal/CampusShield
+     ⭐ 0  🗣 TypeScript  📅 2026-10-10
+     🔗 https://github.com/himeshpal/CampusShield
+     📝 Campus cybersecurity audit & asset management platform - Nmap discovery, asset i…
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 eraj-basheer/LimaCharlie-EDR-and-SOAR
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/eraj-basheer/LimaCharlie-EDR-and-SOAR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 GaurikMehrotra/-AI-SOC-Analyst
+     ⭐ 0  🗣 Python  📅 2026-10-10
+     🔗 https://github.com/GaurikMehrotra/-AI-SOC-Analyst
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [NEW]   🆕 📦 EdrasFTatuaca/EdrasFTatuaca.github.io
+     ⭐ 0  🗣 N/A  📅 2026-10-11
+     🔗 https://github.com/EdrasFTatuaca/EdrasFTatuaca.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-11 12:16:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-11 12:16:52 UTC] [UPD]   📢 📦 jozeta/FileSanitizer
+     ⭐ 0  🗣 TypeScript  📅 2026-10-10
+     🔗 https://github.com/jozeta/FileSanitizer
+     📝 Enterprise File Sanitizer, Content Disarm & Reconstruction (CDR), Multi-Artifact…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-11 12:16:52 UTC] [UPD]   📢 📦 luminae21-source/hotdeal-bot
+     ⭐ 0  🗣 Python  📅 2026-10-04
+     🔗 https://github.com/luminae21-source/hotdeal-bot
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-11 12:16:52 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-11 12:16:52 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-11 12:16:53 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-11 12:16:53 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-11 12:16:53 UTC] [NEW]   🆕 📦 f-banda/vbsdisable
+     ⭐ 0  🗣 Batchfile  📅 2026-10-11
+     🔗 https://github.com/f-banda/vbsdisable
+     📝 A quick script to disable Microsoft's Virtualization-Based Security (VBS). To us…
+     🏷  —
+[2026-10-11 12:16:53 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-11 12:16:53 UTC] [UPD]   📢 📦 hoxuancanhh002-web/ff-build
+     ⭐ 0  🗣 Swift  📅 2026-10-06
+     🔗 https://github.com/hoxuancanhh002-web/ff-build
+     📝 iOS build
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-11 12:16:53 UTC] [UPD]   📢 📦 Tranduc1124/DSMINHDUC
+     ⭐ 0  🗣 Swift  📅 2026-10-08
+     🔗 https://github.com/Tranduc1124/DSMINHDUC
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-11 12:16:53 UTC] [INFO] ============================================================
+[2026-10-11 12:16:53 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
+[2026-10-11 12:16:53 UTC] [INFO] ============================================================
