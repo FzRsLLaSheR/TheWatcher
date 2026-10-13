@@ -110391,3 +110391,309 @@
 [2026-10-13 00:15:52 UTC] [INFO] ============================================================
 [2026-10-13 00:15:52 UTC] [INFO] Completato — 50 nuovi, 8 aggiornati, 0 errori
 [2026-10-13 00:15:52 UTC] [INFO] ============================================================
+[2026-10-13 13:44:55 UTC] [INFO] ============================================================
+[2026-10-13 13:44:55 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-13 13:44:55 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-13 13:44:55 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-13 13:44:55 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-13 13:44:55 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-13 13:44:55 UTC] [INFO] ============================================================
+[2026-10-13 13:44:55 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-13 13:44:55 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-13 13:44:57 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-13 13:44:57 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-13 13:44:57 UTC] [NEW]   🆕 📦 Jampal24/endpoint-detection-sysmon
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/Jampal24/endpoint-detection-sysmon
+     📝 Windows endpoint detection with Sysmon and Wazuh: 7 Sigma rules for credential d…
+     🏷  —
+[2026-10-13 13:44:57 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-13 13:44:57 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 210  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an autonomous reverse engineering system.
+     🏷  claude-code, codex, made-in-america, nist-sp-800-218, reverse-engineering
+     🔄 Motivo: nuovi topic: codex, claude-code, reverse-engineering
+[2026-10-13 13:44:57 UTC] [UPD]   📢 📦 sl0wz3r/ThreatHunts
+     ⭐ 0  🗣 N/A  📅 2026-10-12
+     🔗 https://github.com/sl0wz3r/ThreatHunts
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-13 13:44:57 UTC] [UPD]   📢 📦 xgfhh0x11/xgfhh0x11
+     ⭐ 0  🗣 N/A  📅 2026-10-12
+     🔗 https://github.com/xgfhh0x11/xgfhh0x11
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-13 13:44:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-13 13:44:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-13 13:45:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 43 NUOVI repository:
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 AimJax/Edrath-Development
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/AimJax/Edrath-Development
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 tomjdr4-hub/star-wars-ffg
+     ⭐ 0  🗣 JavaScript  📅 2026-10-13
+     🔗 https://github.com/tomjdr4-hub/star-wars-ffg
+     📝 Système Foundry VTT (V13/V14) pour les JdR Star Wars FFG/Edge : Aux Confins de l…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 Fouilloux-Titouan/Fouilloux-Titouan
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/Fouilloux-Titouan/Fouilloux-Titouan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 patnawa/PN-A2DP
+     ⭐ 0  🗣 C++  📅 2026-10-12
+     🔗 https://github.com/patnawa/PN-A2DP
+     📝 Windows Bluetooth A2DP driver, codec host, and control panel with automatic qual…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 snssinduja9/Azure-SOC-Honeypot-Lab
+     ⭐ 1  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/snssinduja9/Azure-SOC-Honeypot-Lab
+     📝 Azure honeypot with Microsoft Sentinel: KQL detection rules, Incident Triage, Th…
+     🏷  azure, cybersecurity, honeypot, incident-response, kql, microsoftsentinel, mitre-attack, soc
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 elija-7580/Day.Lit
+     ⭐ 0  🗣 Swift  📅 2026-10-13
+     🔗 https://github.com/elija-7580/Day.Lit
+     📝 Ultra-light macOS app that unlocks Liquid Retina XDR brightness headroom
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 AndreasWallevik/concept-graph
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/AndreasWallevik/concept-graph
+     📝 A small knowledge graph app used to explain concepts and their relation to one a…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 malwarelens/windows-kernel-research
+     ⭐ 0  🗣 C  📅 2026-10-12
+     🔗 https://github.com/malwarelens/windows-kernel-research
+     📝 Windows kernel vulnerability research — root-cause analyses, detection notes, an…
+     🏷  cve-analysis, detection-engineering, security-research, vulnerability-research, win32k, windows-kernel
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 abdellahbayar/windows-authentication-detection-splunk
+     ⭐ 2  🗣 HTML  📅 2026-10-13
+     🔗 https://github.com/abdellahbayar/windows-authentication-detection-splunk
+     📝 Windows authentication detection lab with Splunk, synthetic events, SPL searches…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 deathbydata/oneshot-secops
+     ⭐ 0  🗣 HTML  📅 2026-10-13
+     🔗 https://github.com/deathbydata/oneshot-secops
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 tabpage/Prompt-Store
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/tabpage/Prompt-Store
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 Aneespc/gateshield
+     ⭐ 0  🗣 TypeScript  📅 2026-10-12
+     🔗 https://github.com/Aneespc/gateshield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 defus3rx/recce
+     ⭐ 0  🗣 Shell  📅 2026-10-13
+     🔗 https://github.com/defus3rx/recce
+     📝 recon sweep
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 Mercy-rebeccaal/zero-trust-network-simulation
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/Mercy-rebeccaal/zero-trust-network-simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 elija-7580/daylit
+     ⭐ 0  🗣 Swift  📅 2026-10-13
+     🔗 https://github.com/elija-7580/daylit
+     📝 Ultra-light macOS menu bar app that unlocks Liquid Retina XDR brightness headroo…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 Al3grus/Offensive-Security-Foundations
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/Al3grus/Offensive-Security-Foundations
+     📝 Open-source offensive security foundations curriculum (self-study).
+     🏷  awesome-list, binary-exploitation, computer-science, curriculum, cybersecurity, ethical-hacking, free-education, learning-path, offensive-security, oscp, penetration-testing, red-team, reverse-engineering, roadmap, self-study
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 lloydsato/lloydsato
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/lloydsato/lloydsato
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 QIC-Solutions/qbank-demo-pagos
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/QIC-Solutions/qbank-demo-pagos
+     📝 Servicio de pagos FICTICIO de Q-Bank para la demostración de |QS>EDR. No es códi…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 JoshuaFedUni/tryhackme-phishing-analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/JoshuaFedUni/tryhackme-phishing-analysis
+     📝 Write-up: analysing six real-world phishing emails on TryHackMe (Phishing Emails…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 lloydsato/lanthe-wq
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/lloydsato/lanthe-wq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 QuantumByte2007/rbvm
+     ⭐ 0  🗣 Java  📅 2026-10-13
+     🔗 https://github.com/QuantumByte2007/rbvm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 zhangyw66/vigil-soc
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/zhangyw66/vigil-soc
+     📝 Vigil — open-source AI security operations copilot: hybrid alert triage, LLM-ass…
+     🏷  cybersecurity, detection-engineering, llm, python, security, soc, threat-intelligence
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 sarthi-parth/buildwithgemini-soc-swarm-cti
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/sarthi-parth/buildwithgemini-soc-swarm-cti
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 LoveAna-Lyd/DNS-DATA-EXFILTRATION-HUNT
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/LoveAna-Lyd/DNS-DATA-EXFILTRATION-HUNT
+     📝 Contains an investigation report, log analysis artifacts, & automated parsing sc…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 International-System-Security/ISS-SENTINEL
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/International-System-Security/ISS-SENTINEL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 MoeK2/MoeSOC-Endpoint
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/MoeK2/MoeSOC-Endpoint
+     📝 Always-on, local-first Windows endpoint detection and investigation platform: a …
+     🏷  blue-team, cybersecurity, detection-engineering, incident-response, mitre-attack, pyside6, python, security-monitoring, soc, sqlite, threat-detection, windows, windows-event-log
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 10HUM/Threat-Intelligence-Models-Report
+     ⭐ 1  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/10HUM/Threat-Intelligence-Models-Report
+     📝 A comprehensive threat intelligence and incident analysis report mapping a simul…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 10HUM/Cyber-Threat-Intelligence-CTI-
+     ⭐ 1  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/10HUM/Cyber-Threat-Intelligence-CTI-
+     📝 A comprehensive Cyber Threat Intelligence (CTI) strategy and implementation repo…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 Virtual-Bio-chemist/MDsimuPilot-MSP-
+     ⭐ 0  🗣 JavaScript  📅 2026-10-13
+     🔗 https://github.com/Virtual-Bio-chemist/MDsimuPilot-MSP-
+     📝 MDsimuPilot is a browser-based assistant designed to simplify GROMACS workflows …
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 10HUM/Threat-Intelligence-Analysis-with-MITRE
+     ⭐ 1  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/10HUM/Threat-Intelligence-Analysis-with-MITRE
+     📝 Incident analysis and threat intelligence report investigating an APT10-attribut…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 sabbir28/oceanofgames
+     ⭐ 0  🗣 C  📅 2026-10-13
+     🔗 https://github.com/sabbir28/oceanofgames
+     📝 That is an reverced vertion of an virus for do that task without any abelity abo…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 semiini/ISP-Final
+     ⭐ 0  🗣 C#  📅 2026-10-13
+     🔗 https://github.com/semiini/ISP-Final
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 pavan2325/RegWatch-EDR
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/pavan2325/RegWatch-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 carl0988/BTR
+     ⭐ 0  🗣 C++  📅 2026-10-13
+     🔗 https://github.com/carl0988/BTR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 amigo248/shadow-window-pin
+     ⭐ 0  🗣 C#  📅 2026-10-13
+     🔗 https://github.com/amigo248/shadow-window-pin
+     📝 Windows 窗口置顶与层级管理：热键/准星置顶、拖拽排序、Ctrl+Alt+1…9 指定层号、层级徽标、半透明与点击穿透、场景一键切换，退出自动还原。C# …
+     🏷  always-on-top, csharp, dotnet, pinvoke, tray-icon, windows, windows-desktop, winforms
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 kasra-hmt/ServerHealthManager
+     ⭐ 0  🗣 PowerShell  📅 2026-10-13
+     🔗 https://github.com/kasra-hmt/ServerHealthManager
+     📝 Configurable Windows Server health checks and controlled remediation using Power…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 mahadevsurya14-sys/Phishing_Detector
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/mahadevsurya14-sys/Phishing_Detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 utuinnocent-creator/Incident-Response-IR-
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/utuinnocent-creator/Incident-Response-IR-
+     📝 This project simulates a ransomware incident targeting healthcare systems. It co…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 alacakaranlik6161-source/engelsizkizilay65edremit
+     ⭐ 0  🗣 HTML  📅 2026-10-13
+     🔗 https://github.com/alacakaranlik6161-source/engelsizkizilay65edremit
+     📝 engelsizkizilay65edremit
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 nlevenov/SOCPrioritySystem
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/nlevenov/SOCPrioritySystem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 utuinnocent-creator/Cyber-Threat-Intelligence-CTI-
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/utuinnocent-creator/Cyber-Threat-Intelligence-CTI-
+     📝 This project develops a CTI strategy for SecureHealth to combat ransomware and h…
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 Werewolfaerod/edrsuvdf
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/Werewolfaerod/edrsuvdf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:00 UTC] [NEW]   🆕 📦 SergeSerb2/agentperf
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/SergeSerb2/agentperf
+     📝 How well does your computer serve AI coding agents — and why? Stdlib-only benchm…
+     🏷  ai-agents, benchmark, coding-agents, developer-tools, performance
+[2026-10-13 13:45:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-13 13:45:00 UTC] [UPD]   📢 📦 frzzyone/tiny-jellyfin-client
+     ⭐ 0  🗣 Swift  📅 2026-10-11
+     🔗 https://github.com/frzzyone/tiny-jellyfin-client
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-13 13:45:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-13 13:45:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-13 13:45:02 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-13 13:45:02 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-10-13 13:45:02 UTC] [NEW]   🆕 📦 manos555555/Relapse-Exploit
+     ⭐ 1  🗣 JavaScript  📅 2026-10-13
+     🔗 https://github.com/manos555555/Relapse-Exploit
+     📝 PS5 Relapse Jailbreak - Kernel exploit with offline support (FW 7.00-13.60)
+     🏷  —
+[2026-10-13 13:45:02 UTC] [NEW]   🆕 📦 AmpedWasTaken/BlueMoon-Windows-Exploit-Chain
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/AmpedWasTaken/BlueMoon-Windows-Exploit-Chain
+     📝 Technical analysis of the BlueMoon 3-CVE Chrome V8 → Windows kernel exploit chai…
+     🏷  —
+[2026-10-13 13:45:02 UTC] [NEW]   🆕 📦 patriasco/PS5-JARVIS-RELAPSE
+     ⭐ 0  🗣 JavaScript  📅 2026-10-13
+     🔗 https://github.com/patriasco/PS5-JARVIS-RELAPSE
+     📝 Host Relapse PS5 com interface JARVIS e voz sincronizada
+     🏷  —
+[2026-10-13 13:45:02 UTC] [NEW]   🆕 📦 KingofPoly/P5
+     ⭐ 0  🗣 JavaScript  📅 2026-10-13
+     🔗 https://github.com/KingofPoly/P5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:02 UTC] [NEW]   🆕 📦 7Horrus/HoRRus-HTB-Writeups
+     ⭐ 0  🗣 C  📅 2026-10-13
+     🔗 https://github.com/7Horrus/HoRRus-HTB-Writeups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-13 13:45:02 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-13 13:45:02 UTC] [UPD]   📢 📦 Tranduc1124/DSMINHDUC
+     ⭐ 0  🗣 Swift  📅 2026-10-08
+     🔗 https://github.com/Tranduc1124/DSMINHDUC
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-13 13:45:02 UTC] [UPD]   📢 📦 werewolf-linux/werewolf
+     ⭐ 3  🗣 Zig  📅 2026-10-06
+     🔗 https://github.com/werewolf-linux/werewolf
+     📝 Werewolf Linux - Battle hardened, Secure-by-default VMs [EXPERIMENTAL]
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-13 13:45:02 UTC] [INFO] ============================================================
+[2026-10-13 13:45:02 UTC] [INFO] Completato — 49 nuovi, 6 aggiornati, 0 errori
+[2026-10-13 13:45:02 UTC] [INFO] ============================================================
