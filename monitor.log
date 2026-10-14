@@ -111660,3 +111660,234 @@
 [2026-10-14 16:43:39 UTC] [INFO] ============================================================
 [2026-10-14 16:43:39 UTC] [INFO] Completato — 42 nuovi, 5 aggiornati, 0 errori
 [2026-10-14 16:43:39 UTC] [INFO] ============================================================
+[2026-10-14 21:21:09 UTC] [INFO] ============================================================
+[2026-10-14 21:21:09 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-14 21:21:09 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-14 21:21:09 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-14 21:21:09 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-14 21:21:09 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-14 21:21:09 UTC] [INFO] ============================================================
+[2026-10-14 21:21:09 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-14 21:21:09 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-14 21:21:11 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 21:21:11 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-14 21:21:11 UTC] [NEW]   🆕 📦 Code-Blaze/ThreatHuntPro
+     ⭐ 0  🗣 PowerShell  📅 2026-10-14
+     🔗 https://github.com/Code-Blaze/ThreatHuntPro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:11 UTC] [NEW]   🆕 📦 vipmaycom/eac-detection
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/vipmaycom/eac-detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:11 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-14 21:21:11 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-14 21:21:11 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-14 21:21:14 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 azitc-ac/Invoke-ADAssessment
+     ⭐ 0  🗣 PowerShell  📅 2026-10-14
+     🔗 https://github.com/azitc-ac/Invoke-ADAssessment
+     📝 Read-only PowerShell tooling for Active Directory health assessment and LDAP/LDA…
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 ahmedtahseenkhan/asset_manager
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/ahmedtahseenkhan/asset_manager
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 geovanniandrade/gg-edr-incident-investigation
+     ⭐ 0  🗣 HTML  📅 2026-10-14
+     🔗 https://github.com/geovanniandrade/gg-edr-incident-investigation
+     📝 Practical EDR Investigation, Blue Team & Incident Response
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 Code-Blaze/ThreatHuntPro
+     ⭐ 0  🗣 PowerShell  📅 2026-10-14
+     🔗 https://github.com/Code-Blaze/ThreatHuntPro
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 mohmmadalbiss777-copil/aegis-proxy
+     ⭐ 0  🗣 HTML  📅 2026-10-14
+     🔗 https://github.com/mohmmadalbiss777-copil/aegis-proxy
+     📝 Sovereign AI Security Gateway featuring Zero-Knowledge PII Tokenization, Adaptiv…
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 jennafrank/akira-ransomware-threat-hunt
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/jennafrank/akira-ransomware-threat-hunt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 Slattx7/DriftNet-Kernel-Guard
+     ⭐ 0  🗣 C++  📅 2026-10-14
+     🔗 https://github.com/Slattx7/DriftNet-Kernel-Guard
+     📝 Ring-0 eBPF active security telemetry, Magisk root integration, and automated mi…
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 Kaylees-Serenity/Alkahest
+     ⭐ 0  🗣 PowerShell  📅 2026-10-14
+     🔗 https://github.com/Kaylees-Serenity/Alkahest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 subhigarg31/systemcalltracer
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/subhigarg31/systemcalltracer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 georgebotrs37-svg/SentinelForge
+     ⭐ 0  🗣 Shell  📅 2026-10-14
+     🔗 https://github.com/georgebotrs37-svg/SentinelForge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 ColinLiu811/drilling_optimization_dashboard
+     ⭐ 1  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/ColinLiu811/drilling_optimization_dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 piedra8/Antivirus-EDR-XDR-IA
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/piedra8/Antivirus-EDR-XDR-IA
+     📝 Antivirus por comportamiento con enfoque EDR/XDR para Windows: recoge telemetría…
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 00ppa/PROOFSHIELD
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/00ppa/PROOFSHIELD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 adanramzan/XDR-brightness-control-macbook
+     ⭐ 0  🗣 Swift  📅 2026-10-14
+     🔗 https://github.com/adanramzan/XDR-brightness-control-macbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 KumarKumar89/Develop-Deployment-of-MCP-Server
+     ⭐ 0  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/KumarKumar89/Develop-Deployment-of-MCP-Server
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 ehsanlatif/CyberSecRespond
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/ehsanlatif/CyberSecRespond
+     📝 A dataset for cybersecurity runnable on harbor.
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 Antonyos-Farag/Investigating-with-Splunk-THM-write-up
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/Antonyos-Farag/Investigating-with-Splunk-THM-write-up
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 BithinR/windows-event-triage-tool
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/BithinR/windows-event-triage-tool
+     📝 Educational browser-based SOC triage tool for Windows Security Event Log CSV exp…
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 willcode/hackrf-ubertooth
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/willcode/hackrf-ubertooth
+     📝 HackRF Pro as a 15-channel Bluetooth BR receiver for the Ubertooth tools
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 ruffy4us2003/profile
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/ruffy4us2003/profile
+     📝 Short info about my profile
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 ravishkarathnayaka/autonomous-ai-soc-analyst
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/ravishkarathnayaka/autonomous-ai-soc-analyst
+     📝 Autonomous Tier-1 AI SOC analyst for alert triage, graph-based attack correlatio…
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 satish-source/trust-signal
+     ⭐ 0  🗣 TypeScript  📅 2026-10-14
+     🔗 https://github.com/satish-source/trust-signal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 edrynate/Edrynate--company
+     ⭐ 0  🗣 HTML  📅 2026-10-14
+     🔗 https://github.com/edrynate/Edrynate--company
+     📝 Professional website for Edrynate Company Limited 
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 Dashanejames1/SOAR-SOC-WORKFLOW-AND-ALERT-TRIAGE
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/Dashanejames1/SOAR-SOC-WORKFLOW-AND-ALERT-TRIAGE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 edrynate/edrynate-company
+     ⭐ 0  🗣 HTML  📅 2026-10-14
+     🔗 https://github.com/edrynate/edrynate-company
+     📝 Professional website for Edrynate Company Limited 
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 Basha-1234/aegisagent-drp
+     ⭐ 0  🗣 JavaScript  📅 2026-10-13
+     🔗 https://github.com/Basha-1234/aegisagent-drp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 apurvmusandi/Smart-Workplace-Safety-Management-System
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/apurvmusandi/Smart-Workplace-Safety-Management-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [NEW]   🆕 📦 Evrad-dev/projet-rootkit-linux
+     ⭐ 0  🗣 C  📅 2026-10-13
+     🔗 https://github.com/Evrad-dev/projet-rootkit-linux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:14 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-14 21:21:14 UTC] [UPD]   📢 📦 ChAbdulWahhab/veylance
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/ChAbdulWahhab/veylance
+     📝 An interactive CLI security auditing tool for identifying web misconfigurations …
+     🏷  audit, cli, developer-tools, pentest, python, scanner, security, vulnerability-scanner, web-security
+     🔄 Motivo: repo recente (1gg)
+[2026-10-14 21:21:14 UTC] [UPD]   📢 📦 JoasASantos/Malvex
+     ⭐ 1  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/JoasASantos/Malvex
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-14 21:21:14 UTC] [UPD]   📢 📦 rspadim/NATSExcel
+     ⭐ 0  🗣 C#  📅 2026-10-12
+     🔗 https://github.com/rspadim/NATSExcel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-14 21:21:14 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-14 21:21:14 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-14 21:21:16 UTC] [INFO]   → 25 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 21:21:16 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-14 21:21:16 UTC] [NEW]   🆕 📦 RanaKhan77/awesome-cyber-security-heaven
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/RanaKhan77/awesome-cyber-security-heaven
+     📝 ☁️🔐 Awesome Cyber Security Heaven — 160+ curated FREE cybersecurity tools in 12 …
+     🏷  ai-security, awesome, awesome-list, bug-bounty, cybersecurity, devsecops, dfir, hacktoberfest, llm-security, osint, pentesting, security-tools, threat-intelligence
+[2026-10-14 21:21:16 UTC] [NEW]   🆕 📦 dr-skaragiannis/Cybersecurity101-Labs
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/dr-skaragiannis/Cybersecurity101-Labs
+     📝 Cybersecurity101 Labs - VulnHub catalog and lab materials
+     🏷  —
+[2026-10-14 21:21:16 UTC] [NEW]   🆕 📦 brainztorm/zevbox
+     ⭐ 1  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/brainztorm/zevbox
+     📝 Run ACP agents (Claude, Antigravity) for the Zed editor inside Apple Container m…
+     🏷  acp, agent-client-protocol, ai-agents, apple-container, claude-code, macos, rust, sandbox, zed, zed-editor
+[2026-10-14 21:21:16 UTC] [NEW]   🆕 📦 FidelOdongoTech/ps4jailbreak
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/FidelOdongoTech/ps4jailbreak
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 21:21:16 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-14 21:21:16 UTC] [UPD]   📢 📦 mustakimali/heptix
+     ⭐ 0  🗣 Rust  📅 2026-10-09
+     🔗 https://github.com/mustakimali/heptix
+     📝 The missing haptic feedback for Linux!
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-14 21:21:16 UTC] [UPD]   📢 📦 beenycool/lara-toolbox
+     ⭐ 0  🗣 Swift  📅 2026-10-11
+     🔗 https://github.com/beenycool/lara-toolbox
+     📝 Lara fork — system-wide iOS toolbox add-ons: CarPlay mods, device/status spoofin…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-14 21:21:16 UTC] [UPD]   📢 📦 Michele-M-Media/HYPERHEN
+     ⭐ 133  🗣 C++  📅 2026-10-13
+     🔗 https://github.com/Michele-M-Media/HYPERHEN
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-14 21:21:16 UTC] [INFO] ============================================================
+[2026-10-14 21:21:16 UTC] [INFO] Completato — 34 nuovi, 6 aggiornati, 0 errori
+[2026-10-14 21:21:16 UTC] [INFO] ============================================================
