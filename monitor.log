@@ -111161,3 +111161,237 @@
 [2026-10-14 03:56:58 UTC] [INFO] ============================================================
 [2026-10-14 03:56:58 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
 [2026-10-14 03:56:58 UTC] [INFO] ============================================================
+[2026-10-14 11:22:41 UTC] [INFO] ============================================================
+[2026-10-14 11:22:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-14 11:22:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-14 11:22:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-14 11:22:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-14 11:22:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-14 11:22:41 UTC] [INFO] ============================================================
+[2026-10-14 11:22:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-14 11:22:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-14 11:22:43 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 11:22:43 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-14 11:22:43 UTC] [NEW]   🆕 📦 vvs1off/plug
+     ⭐ 1  🗣 Go  📅 2026-10-14
+     🔗 https://github.com/vvs1off/plug
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:43 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-14 11:22:43 UTC] [UPD]   📢 📦 sl0wz3r/ThreatHunts
+     ⭐ 0  🗣 N/A  📅 2026-10-12
+     🔗 https://github.com/sl0wz3r/ThreatHunts
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-14 11:22:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-14 11:22:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-14 11:22:47 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 33 NUOVI repository:
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 Pluutje/FCL-GlucoLink
+     ⭐ 0  🗣 Kotlin  📅 2026-10-14
+     🔗 https://github.com/Pluutje/FCL-GlucoLink
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 oguz-kagan-akar/RansomwareGuard
+     ⭐ 0  🗣 C  📅 2026-10-14
+     🔗 https://github.com/oguz-kagan-akar/RansomwareGuard
+     📝 A lightweight Windows ransomware detection prototype written in C, featuring rea…
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 securewithharshitrajput/kguard
+     ⭐ 0  🗣 Go  📅 2026-10-14
+     🔗 https://github.com/securewithharshitrajput/kguard
+     📝 eBPF-powered Linux endpoint monitor — real-time process & network detection mapp…
+     🏷  bpf, ebpf, ebpf-programs, edr, golang, linux, mitre-attack, observability, security, threat-detection
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 spydeeee/SC-OpenEDR-deployment.
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/spydeeee/SC-OpenEDR-deployment.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 FMFM002/defender_dev_01
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/FMFM002/defender_dev_01
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 mmatesanzg23/g1-python-crud-api
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/mmatesanzg23/g1-python-crud-api
+     📝 Clon del proyecto grupal para realizar pruebas
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 muhad0206/wazuh-file-integrity-monitoring
+     ⭐ 0  🗣 Shell  📅 2026-10-14
+     🔗 https://github.com/muhad0206/wazuh-file-integrity-monitoring
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 ryderderder/brighterdisplay-for-mac
+     ⭐ 1  🗣 Swift  📅 2026-10-14
+     🔗 https://github.com/ryderderder/brighterdisplay-for-mac
+     📝 Free native macOS menu-bar app: brightness keys from normal SDR into available X…
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 akubishon/windprofiel
+     ⭐ 0  🗣 HTML  📅 2026-10-14
+     🔗 https://github.com/akubishon/windprofiel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 CodeRiper/EndpointGuard
+     ⭐ 0  🗣 HTML  📅 2026-10-14
+     🔗 https://github.com/CodeRiper/EndpointGuard
+     📝 Unified high-performance EDR, RMM & DLP platform featuring a lightweight Rust ag…
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 archisystem/blue-team-trainer
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/archisystem/blue-team-trainer
+     📝 Interactive Python trainer for Blue Team and Junior SOC Analysts
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 s1d9e/sleepy
+     ⭐ 1  🗣 Go  📅 2026-10-13
+     🔗 https://github.com/s1d9e/sleepy
+     📝 Covert DNS-over-HTTPS (DoH) tunnel — carries TCP traffic inside DNS queries.
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 yusufarbc/siber-guvenlik-operasyonlari
+     ⭐ 0  🗣 CSS  📅 2026-10-14
+     🔗 https://github.com/yusufarbc/siber-guvenlik-operasyonlari
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 CyberDefenderAI/Automating-Security-Tasks-with-AI
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/CyberDefenderAI/Automating-Security-Tasks-with-AI
+     📝 Detailing the transition from manual Security Operations (SecOps) and rigid 'IF-…
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 Krish9800/ai-security-operations-assistant
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/Krish9800/ai-security-operations-assistant
+     📝 Autonomous AI Security Operations Assistant (SecOps Copilot)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 sifatnotes/Learn-SecByte-CTF-Labs-Collection-Red-Team-Operations-Cloud-Security-Enterprise-Pentesting
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Collection-Red-Team-Operations-Cloud-Security-Enterprise-Pentesting
+     📝 A curated collection of hands-on cybersecurity CTF labs covering Red Team Advers…
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 CyberDefenderAI/AI-Security-Tools-Applied-Scenarios
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/CyberDefenderAI/AI-Security-Tools-Applied-Scenarios
+     📝 A highly actionable, curated list of open-source tools and practical use cases l…
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 praepostor/iformation_security
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-14
+     🔗 https://github.com/praepostor/iformation_security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 isaachorowitz/isaachorowitz
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/isaachorowitz/isaachorowitz
+     📝 My GitHub profile README
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 campanulamediuml/Akatosh
+     ⭐ 0  🗣 Go  📅 2026-10-14
+     🔗 https://github.com/campanulamediuml/Akatosh
+     📝 an ai personal agent
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 PrasadG2000314/SOC-tool-extention
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/PrasadG2000314/SOC-tool-extention
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 eadx3352mg/BidRadar
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/eadx3352mg/BidRadar
+     📝 多源公共招投标信息聚合、筛选与 Excel 导出工具
+     🏷  bidding, crawler, procurement, public-data, python, tender, windows
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 devanshshukla-3004/ProcessWatch
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/devanshshukla-3004/ProcessWatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 erickdesturi028/unified-xdr-platform
+     ⭐ 0  🗣 Go  📅 2026-10-14
+     🔗 https://github.com/erickdesturi028/unified-xdr-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 meu73398-cloud/Edrinefavor1-
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/meu73398-cloud/Edrinefavor1-
+     📝 Technology for Future 
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 vvs1off/plug
+     ⭐ 1  🗣 Go  📅 2026-10-14
+     🔗 https://github.com/vvs1off/plug
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 har1kr1sh/payload-forge
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/har1kr1sh/payload-forge
+     📝 Payload Forge is a lightweight, CLI-driven testing utility designed for SOC Anal…
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 gb2a8ese/edrw
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/gb2a8ese/edrw
+     📝 content
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 susanbeasles/porchlight
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/susanbeasles/porchlight
+     📝 Porchlight is a consumer endpoint security application specializing in the use o…
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 jongxl/edrp
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/jongxl/edrp
+     📝 content
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 brave-harbor18/edrui
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/brave-harbor18/edrui
+     📝 content
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 rico0x0/POC-for-EDR-evasion
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/rico0x0/POC-for-EDR-evasion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:47 UTC] [NEW]   🆕 📦 ronisha609/Intelligence-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/ronisha609/Intelligence-Portfolio
+     📝 Intelligence and investigation projects covering insider risk, OSINT, protective…
+     🏷  —
+[2026-10-14 11:22:47 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-14 11:22:47 UTC] [UPD]   📢 📦 Sammy750-cyber/Analyzing_phishing_mails
+     ⭐ 0  🗣 HTML  📅 2026-10-13
+     🔗 https://github.com/Sammy750-cyber/Analyzing_phishing_mails
+     📝 the project is based on analyzing and responding to potential phishing mails
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-14 11:22:47 UTC] [UPD]   📢 📦 frzzyone/tiny-jellyfin-client
+     ⭐ 0  🗣 Swift  📅 2026-10-11
+     🔗 https://github.com/frzzyone/tiny-jellyfin-client
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-14 11:22:47 UTC] [UPD]   📢 📦 ali-hmed/SheildLink-1
+     ⭐ 0  🗣 TypeScript  📅 2026-10-13
+     🔗 https://github.com/ali-hmed/SheildLink-1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-14 11:22:47 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-14 11:22:47 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-14 11:22:49 UTC] [INFO]   → 17 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 11:22:49 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-14 11:22:49 UTC] [NEW]   🆕 📦 TymoshenkoNazar/GEK53-Datenbanksystem-Installation
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/TymoshenkoNazar/GEK53-Datenbanksystem-Installation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:49 UTC] [NEW]   🆕 📦 yanncarlier/bwrap-web
+     ⭐ 0  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/yanncarlier/bwrap-web
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 11:22:49 UTC] [NEW]   🆕 📦 sifatnotes/Learn-SecByte-CTF-Labs-Collection-Active-Directory-Kerberos-PrivEsc-Pivoting
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Collection-Active-Directory-Kerberos-PrivEsc-Pivoting
+     📝 A curated collection of hands-on penetration testing CTF labs covering Active Di…
+     🏷  —
+[2026-10-14 11:22:49 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-14 11:22:49 UTC] [INFO] ============================================================
+[2026-10-14 11:22:49 UTC] [INFO] Completato — 37 nuovi, 4 aggiornati, 0 errori
+[2026-10-14 11:22:49 UTC] [INFO] ============================================================
