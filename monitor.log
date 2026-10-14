@@ -111395,3 +111395,268 @@
 [2026-10-14 11:22:49 UTC] [INFO] ============================================================
 [2026-10-14 11:22:49 UTC] [INFO] Completato — 37 nuovi, 4 aggiornati, 0 errori
 [2026-10-14 11:22:49 UTC] [INFO] ============================================================
+[2026-10-14 16:43:30 UTC] [INFO] ============================================================
+[2026-10-14 16:43:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-14 16:43:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-14 16:43:30 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-14 16:43:30 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-14 16:43:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-14 16:43:30 UTC] [INFO] ============================================================
+[2026-10-14 16:43:30 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-14 16:43:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-14 16:43:32 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 16:43:32 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-14 16:43:32 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-14 16:43:32 UTC] [UPD]   📢 📦 lw8192/Intro-to-Windows-Kernel-Exploitation
+     ⭐ 0  🗣 C  📅 2026-10-06
+     🔗 https://github.com/lw8192/Intro-to-Windows-Kernel-Exploitation
+     📝 Materials for the workshop Introduction to Windows Kernel Exploitation, taught f…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-14 16:43:32 UTC] [UPD]   📢 📦 sl0wz3r/ThreatHunts
+     ⭐ 0  🗣 N/A  📅 2026-10-12
+     🔗 https://github.com/sl0wz3r/ThreatHunts
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-14 16:43:32 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-14 16:43:32 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-14 16:43:36 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 38 NUOVI repository:
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 Dinesh-Melimi/security-coverage-reconciler
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/Dinesh-Melimi/security-coverage-reconciler
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 PRABU-S-19/SOC-updated
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/PRABU-S-19/SOC-updated
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 moreau9873/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/moreau9873/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 davidvivo-ia/battlezonepy
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/davidvivo-ia/battlezonepy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 GimMarSil/GimMarSil
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/GimMarSil/GimMarSil
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 JoasASantos/Malvex
+     ⭐ 0  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/JoasASantos/Malvex
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 FatimaZahraRH/soc-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/FatimaZahraRH/soc-detection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 ChAbdulWahhab/veylance
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/ChAbdulWahhab/veylance
+     📝 An interactive CLI security auditing tool for identifying web misconfigurations …
+     🏷  audit, cli, developer-tools, pentest, python, scanner, security, vulnerability-scanner, web-security
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 auxydev/moga_otonom
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/auxydev/moga_otonom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 javadominic/idpsproject
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/javadominic/idpsproject
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 Notinamillion/screenconnect-filter
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/Notinamillion/screenconnect-filter
+     📝 Chrome extension: filter ScreenConnect's machine list by type, OS, status, softw…
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 bruning-frighting/irscan
+     ⭐ 0  🗣 Go  📅 2026-10-14
+     🔗 https://github.com/bruning-frighting/irscan
+     📝 irscan — read-only, retrospective MITRE ATT&CK host artifact & technique scanner…
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 JBWeb1/VYTRON
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/JBWeb1/VYTRON
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 ZYWind-Security/dragon-endpoint.github.io
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/ZYWind-Security/dragon-endpoint.github.io
+     📝 天龙神盾安全中心（DragonSecurity）一个由竹影清风制作的微型EPP+HIPS+EDR终端防护平台，搭载了自研的天龙神盾AI智能引擎 和 SevenE…
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 Manab13027/Defender
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/Manab13027/Defender
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 gretaancora/MalwareAnalysis
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/gretaancora/MalwareAnalysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 Antonyos-Farag/Benign_THM_write-up
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/Antonyos-Farag/Benign_THM_write-up
+     📝 TryHackMe — Benign | Write-Up
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 sudhirjangir/cogencesecsi
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/sudhirjangir/cogencesecsi
+     📝 CogenceSecSI — Autonomous Security Investigator
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 Harish-Srikanth/AEDC
+     ⭐ 0  🗣 TypeScript  📅 2026-10-14
+     🔗 https://github.com/Harish-Srikanth/AEDC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 nzselata/7EDrandom
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/nzselata/7EDrandom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 dreadpiraterobertsss/mini-soc-labshop
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/dreadpiraterobertsss/mini-soc-labshop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 zxcBankaii/py-scripts-for-pentest
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/zxcBankaii/py-scripts-for-pentest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 prasannasenthilrajan74-oss/cyber-pr
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/prasannasenthilrajan74-oss/cyber-pr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 steph9742/catalogue
+     ⭐ 0  🗣 TypeScript  📅 2026-10-14
+     🔗 https://github.com/steph9742/catalogue
+     📝 Cartographie du systeme d'information et conformite cyber (ISO 27001, NIS 2, RGP…
+     🏷  bun, cartographie-si, cybersecurite, ebios-rm, elysiajs, enseignement-superieur, iso27001, nis2, nuxt, rgpd
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 boydj/esp32s31-netbsd
+     ⭐ 0  🗣 C  📅 2026-10-14
+     🔗 https://github.com/boydj/esp32s31-netbsd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 anirudh53/ROPE-TIEGCM_AP
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/anirudh53/ROPE-TIEGCM_AP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 liaxqn/ThreatLens
+     ⭐ 1  🗣 TypeScript  📅 2026-10-14
+     🔗 https://github.com/liaxqn/ThreatLens
+     📝 : ThreatLens takes a raw email and turns it into structured, evidence-backed for…
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 24CSB0B73/zero-trust-gateway
+     ⭐ 0  🗣 C++  📅 2026-10-14
+     🔗 https://github.com/24CSB0B73/zero-trust-gateway
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 Erroneuz/WordmatHash
+     ⭐ 1  🗣 PowerShell  📅 2026-10-14
+     🔗 https://github.com/Erroneuz/WordmatHash
+     📝 Powershell script that fetches hash values from Wordmat setup and word templates…
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 why-ban/parsec-zh
+     ⭐ 0  🗣 C  📅 2026-10-14
+     🔗 https://github.com/why-ban/parsec-zh
+     📝 Windows 版 Parsec 客户端运行时中文汉化（注入式，不改动 Parsec 文件）：源码 + 一键安装包
+     🏷  chinese, imgui, localization, parsec, windows
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 290778367/skn-launcher
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/290778367/skn-launcher
+     📝 SKN 键盘的桌面驱动：把官方网页驱动包成单个 exe，WebHID 直连键盘（VIA/QMK）— Desktop shell for the official…
+     🏷  electron, keyboard, keychron, launcher, qmk, skn, via, webhid, windows
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 stalonium/MacBright
+     ⭐ 1  🗣 Swift  📅 2026-10-14
+     🔗 https://github.com/stalonium/MacBright
+     📝 Boost macOS Brightness
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 user14052020/filmcraft
+     ⭐ 0  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/user14052020/filmcraft
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 bingine/dsh-ce-tools
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/bingine/dsh-ce-tools
+     📝 DSH 插件：让 AI 拥有 Cheat Engine 的能力 —— 跨进程内存读写、全类型内存扫描（数值/AOB）、指针扫描、反汇编与汇编、AutoAssem…
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 ClaudioAMF1/AEGIS
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/ClaudioAMF1/AEGIS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 quietglacier36/edrqk
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/quietglacier36/edrqk
+     📝 content
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 27omkar/SentinelDF
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/27omkar/SentinelDF
+     📝 Python Flask-based security monitoring platform with ransomware detection heuris…
+     🏷  —
+[2026-10-14 16:43:36 UTC] [NEW]   🆕 📦 nazarovzabihullo/Threat-Intelligence-Stan-Ghouls
+     ⭐ 0  🗣 YARA  📅 2026-10-14
+     🔗 https://github.com/nazarovzabihullo/Threat-Intelligence-Stan-Ghouls
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:36 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-14 16:43:36 UTC] [UPD]   📢 📦 rspadim/NATSExcel
+     ⭐ 0  🗣 C#  📅 2026-10-12
+     🔗 https://github.com/rspadim/NATSExcel
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-14 16:43:36 UTC] [UPD]   📢 📦 ali-hmed/SheildLink-1
+     ⭐ 0  🗣 TypeScript  📅 2026-10-13
+     🔗 https://github.com/ali-hmed/SheildLink-1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-14 16:43:36 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-14 16:43:36 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-14 16:43:39 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 16:43:39 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-14 16:43:39 UTC] [NEW]   🆕 📦 enricobell/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-14
+     🔗 https://github.com/enricobell/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-14 16:43:39 UTC] [NEW]   🆕 📦 Armandodecampos/webkit-ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/Armandodecampos/webkit-ps4
+     📝 Firmware support: 11.00 – 13.00
+     🏷  —
+[2026-10-14 16:43:39 UTC] [NEW]   🆕 📦 yasser1258/yasser-ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/yasser1258/yasser-ps5
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:39 UTC] [NEW]   🆕 📦 Pace-Runner/TryHackMe-PT1-Cheat-Sheet
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/Pace-Runner/TryHackMe-PT1-Cheat-Sheet
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 16:43:39 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-14 16:43:39 UTC] [UPD]   📢 📦 beenycool/lara-toolbox
+     ⭐ 0  🗣 Swift  📅 2026-10-11
+     🔗 https://github.com/beenycool/lara-toolbox
+     📝 Lara fork — system-wide iOS toolbox add-ons: CarPlay mods, device/status spoofin…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-14 16:43:39 UTC] [INFO] ============================================================
+[2026-10-14 16:43:39 UTC] [INFO] Completato — 42 nuovi, 5 aggiornati, 0 errori
+[2026-10-14 16:43:39 UTC] [INFO] ============================================================
