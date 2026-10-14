@@ -111007,3 +111007,157 @@
 [2026-10-13 22:23:01 UTC] [INFO] ============================================================
 [2026-10-13 22:23:01 UTC] [INFO] Completato — 51 nuovi, 5 aggiornati, 0 errori
 [2026-10-13 22:23:01 UTC] [INFO] ============================================================
+[2026-10-14 03:56:50 UTC] [INFO] ============================================================
+[2026-10-14 03:56:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-14 03:56:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-14 03:56:50 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-14 03:56:50 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-14 03:56:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-14 03:56:50 UTC] [INFO] ============================================================
+[2026-10-14 03:56:50 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-14 03:56:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-14 03:56:52 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 03:56:52 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-14 03:56:52 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-14 03:56:52 UTC] [UPD]   📢 📦 DamianMacancela/DriverTriage
+     ⭐ 0  🗣 PowerShell  📅 2026-10-13
+     🔗 https://github.com/DamianMacancela/DriverTriage
+     📝 Puntua drivers de kernel de Windows por capacidades peligrosas para priorizar ca…
+     🏷  blue-team, byovd, dfir, kernel-driver, mitre-attack, powershell, security-tools, threat-hunting, wdac, windows-internals
+     🔄 Motivo: repo recente (0gg) | nuovi topic: byovd, windows-internals, blue-team, dfir, kernel-driver, powershell, security-tools, threat-hunting, mitre-attack, wdac
+[2026-10-14 03:56:52 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-14 03:56:52 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-14 03:56:55 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 tenspav/NanoEmu
+     ⭐ 0  🗣 C  📅 2026-10-13
+     🔗 https://github.com/tenspav/NanoEmu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 benhayashi/lumina-hdr
+     ⭐ 0  🗣 JavaScript  📅 2026-10-14
+     🔗 https://github.com/benhayashi/lumina-hdr
+     📝 Lightweight, cross-platform high-precision HDR photo viewer with WebGPU extended…
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 mo7ns11yqex/edrk
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/mo7ns11yqex/edrk
+     📝 content
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 daoaigiangnam/Quy_Trinh_Chuan
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/daoaigiangnam/Quy_Trinh_Chuan
+     📝 Bộ quy trình chuẩn của Mstar, áp dụng được cho nhiều khách hàng doanh nghiệp và …
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 B0bTheSkull/ble-hid-bridge
+     ⭐ 0  🗣 C++  📅 2026-10-14
+     🔗 https://github.com/B0bTheSkull/ble-hid-bridge
+     📝 Pico W bridge: Bluetooth keyboard + trackpad -> USB keyboard/mouse, for servers …
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 edrianalvizo/4.1
+     ⭐ 0  🗣 Roff  📅 2026-10-14
+     🔗 https://github.com/edrianalvizo/4.1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 haoyibits/WindowMirror
+     ⭐ 0  🗣 Swift  📅 2026-10-14
+     🔗 https://github.com/haoyibits/WindowMirror
+     📝 Mirror a single macOS window to a second display in real time, with HDR, fit-to-…
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 Fabian08-Developer/Juego-3D---CyberCity
+     ⭐ 0  🗣 GDScript  📅 2026-10-13
+     🔗 https://github.com/Fabian08-Developer/Juego-3D---CyberCity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 clanker25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/clanker25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 tsouth1/DriverAutomation
+     ⭐ 0  🗣 PowerShell  📅 2026-10-14
+     🔗 https://github.com/tsouth1/DriverAutomation
+     📝 SCCM Driver Management
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 khanaman3182003mohd-debug/soar
+     ⭐ 0  🗣 HTML  📅 2026-10-14
+     🔗 https://github.com/khanaman3182003mohd-debug/soar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 alexqem/OpenDisplay
+     ⭐ 0  🗣 Swift  📅 2026-10-13
+     🔗 https://github.com/alexqem/OpenDisplay
+     📝 100% Free & Open-Source Advanced Display Management Utility for Apple Silicon (m…
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 edmasceno/chrome-abe-evasion-analysis
+     ⭐ 0  🗣 YARA  📅 2026-10-13
+     🔗 https://github.com/edmasceno/chrome-abe-evasion-analysis
+     📝 Reverse engineering analysis demonstrating a real-world bypass of Google Chrome'…
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 elargueta91/homelab-seguridad
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/elargueta91/homelab-seguridad
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 mongocyber/steam-hydronic-formulas
+     ⭐ 0  🗣 TypeScript  📅 2026-10-13
+     🔗 https://github.com/mongocyber/steam-hydronic-formulas
+     📝 Cited formulas for one-pipe steam vent sizing, outdoor reset & injection mixing …
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 Sammy750-cyber/Analyzing_phishing_mails
+     ⭐ 0  🗣 HTML  📅 2026-10-13
+     🔗 https://github.com/Sammy750-cyber/Analyzing_phishing_mails
+     📝 the project is based on analyzing and responding to potential phishing mails
+     🏷  —
+[2026-10-14 03:56:55 UTC] [NEW]   🆕 📦 kekoag6/Threat-Hunt-Harborlight-Dental
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/kekoag6/Threat-Hunt-Harborlight-Dental
+     📝 Ransomware intrusion across three hosts reconstructed from raw Microsoft Sentine…
+     🏷  blue-team, dfir, incident-response, kql, microsoft-sentinel, mitre-attack, ransomware, soc-analyst, sysmon, threat-hunting
+[2026-10-14 03:56:55 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-14 03:56:55 UTC] [UPD]   📢 📦 M617263Kaplan/influxdb-smart-router
+     ⭐ 0  🗣 Shell  📅 2026-10-12
+     🔗 https://github.com/M617263Kaplan/influxdb-smart-router
+     📝 ISR — the InfluxDB Smart Router. Routing, caching, scoped tokens, autoscaling, m…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-14 03:56:55 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-14 03:56:55 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-14 03:56:58 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-14 03:56:58 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-14 03:56:58 UTC] [NEW]   🆕 📦 nnutter/shelleyctl
+     ⭐ 0  🗣 Go  📅 2026-10-13
+     🔗 https://github.com/nnutter/shelleyctl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-14 03:56:58 UTC] [NEW]   🆕 📦 munimv2/formal-math-bounties
+     ⭐ 0  🗣 N/A  📅 2026-10-13
+     🔗 https://github.com/munimv2/formal-math-bounties
+     📝 Sourced guide to prizes, bounties, registries and competitions for Lean-verified…
+     🏷  —
+[2026-10-14 03:56:58 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Agent-Sandbox-Security-Frameworks
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/ishandutta2007/Awesome-Agent-Sandbox-Security-Frameworks
+     📝 Top Agent Sandbox Security Frameworks (Opensource)  Star if you like it! 
+     🏷  agent-security, ai-agents, ai-security, awesome-list, code-execution, curated-list, sandbox
+[2026-10-14 03:56:58 UTC] [NEW]   🆕 📦 LeonardoConstantino/void-crawler
+     ⭐ 0  🗣 TypeScript  📅 2026-10-13
+     🔗 https://github.com/LeonardoConstantino/void-crawler
+     📝 Um magnífico roguelike de exploração em labirinto procedural cyberpunk/glitch, o…
+     🏷  —
+[2026-10-14 03:56:58 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-14 03:56:58 UTC] [UPD]   📢 📦 conor-sometimes/nixos-agent-containment
+     ⭐ 0  🗣 Nix  📅 2026-10-13
+     🔗 https://github.com/conor-sometimes/nixos-agent-containment
+     📝 NixOS module: run AI coding agents (Claude Code, Codex, Aider, ...) under their …
+     🏷  ai-agents, claude-code, nix, nixos, sandboxing, security
+     🔄 Motivo: repo recente (0gg)
+[2026-10-14 03:56:58 UTC] [UPD]   📢 📦 strongt1me/ps5-cooling-system-center-pro
+     ⭐ 6  🗣 C  📅 2026-10-06
+     🔗 https://github.com/strongt1me/ps5-cooling-system-center-pro
+     📝 Fan control, temperature monitoring and system center for the jailbroken PS5 – p…
+     🏷  c, fan-control, file-manager, homebrew, payload, playstation-5, ps5, ps5-homebrew, temperature-monitoring, web-ui
+     🔄 Motivo: repo recente (7gg)
+[2026-10-14 03:56:58 UTC] [INFO] ============================================================
+[2026-10-14 03:56:58 UTC] [INFO] Completato — 21 nuovi, 4 aggiornati, 0 errori
+[2026-10-14 03:56:58 UTC] [INFO] ============================================================
