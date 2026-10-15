@@ -112503,3 +112503,250 @@
 [2026-10-15 16:29:20 UTC] [INFO] ============================================================
 [2026-10-15 16:29:20 UTC] [INFO] Completato — 36 nuovi, 9 aggiornati, 0 errori
 [2026-10-15 16:29:20 UTC] [INFO] ============================================================
+[2026-10-15 21:01:20 UTC] [INFO] ============================================================
+[2026-10-15 21:01:20 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-15 21:01:20 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-15 21:01:20 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-15 21:01:20 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-15 21:01:20 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-15 21:01:20 UTC] [INFO] ============================================================
+[2026-10-15 21:01:20 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-15 21:01:20 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-15 21:01:22 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 21:01:22 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-15 21:01:22 UTC] [NEW]   🆕 📦 pq-cybarg/weak-intel
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/pq-cybarg/weak-intel
+     📝 Dual-use cyber / operator landscape map. Companion to pq-cybarg/bubble-map.
+     🏷  —
+[2026-10-15 21:01:22 UTC] [NEW]   🆕 📦 anshnt/security
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/anshnt/security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:22 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-15 21:01:22 UTC] [UPD]   📢 📦 vipmaycom/eac-detection
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/vipmaycom/eac-detection
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-15 21:01:22 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-15 21:01:22 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-15 21:01:24 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 31 NUOVI repository:
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 Syed-Muhammad-Tayyab/cybersecurity-roadmap-map
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/Syed-Muhammad-Tayyab/cybersecurity-roadmap-map
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 dominiqueschunke-sys/scooter-rs-edrive-iphone
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/dominiqueschunke-sys/scooter-rs-edrive-iphone
+     📝 Scooter RS e-Drive für iPhone
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 Cadush/Cadush
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/Cadush/Cadush
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 kaylahgore-saronic/semgrep-woodpecker-demo
+     ⭐ 0  🗣 HCL  📅 2026-10-14
+     🔗 https://github.com/kaylahgore-saronic/semgrep-woodpecker-demo
+     📝 Demo: Semgrep CE scanning Terraform/Kubernetes in a Woodpecker CI pipeline
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 Lucia7052/sysplant
+     ⭐ 0  🗣 Makefile  📅 2026-10-15
+     🔗 https://github.com/Lucia7052/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 Yize-Wu-99/edr-viewer-releases
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/Yize-Wu-99/edr-viewer-releases
+     📝 EDR Viewer for Mac — downloads, installation guides and release notes.
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 onur-uyar-security/oonuruyar
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/onur-uyar-security/oonuruyar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 pq-cybarg/weak-intel
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/pq-cybarg/weak-intel
+     📝 Dual-use cyber / operator landscape map. Companion to pq-cybarg/bubble-map.
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 utkarsh-n/Toothpaste-Toy
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/utkarsh-n/Toothpaste-Toy
+     📝 Public source snapshot of Toothpaste Toy, a personal app project.
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 sefafl77/sefafl77
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/sefafl77/sefafl77
+     📝 dirbusterSync - security, software, data, and games
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 JoeT06/JoeT06
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/JoeT06/JoeT06
+     📝 Profile README
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 JoeT06/it-ops-portfolio
+     ⭐ 0  🗣 PowerShell  📅 2026-10-15
+     🔗 https://github.com/JoeT06/it-ops-portfolio
+     📝 IT operations write-ups and scripts: endpoint manageent, Microsoft 365, automati…
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 ArtistS24/ArtistS24
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/ArtistS24/ArtistS24
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 haridevp/blockvax
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/haridevp/blockvax
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 Adroxz1122/API-Hooking
+     ⭐ 0  🗣 C  📅 2026-10-15
+     🔗 https://github.com/Adroxz1122/API-Hooking
+     📝 x64 inline trampoline hook in C demonstrating userland function interception, tr…
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 xgfhh0x11/security-writeups
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/xgfhh0x11/security-writeups
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 murillo123-dev/murillo123-dev
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/murillo123-dev/murillo123-dev
+     📝 Perfil GitHub - Murillo Pereira
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 onur-uyar-security/kerberoasting-blue-team
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/onur-uyar-security/kerberoasting-blue-team
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 ridaabbas000000-cloud/SOAR-Human-In-The-Loop-Automation
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/ridaabbas000000-cloud/SOAR-Human-In-The-Loop-Automation
+     📝 Automated Incident Response playbook using a 3B SOAR workflow, LimaCharlie EDR, …
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 edrianjalbuna0101-create/edrian-portfolio
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/edrianjalbuna0101-create/edrian-portfolio
+     📝 wala
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 GrandDukeGediminas/photon
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/GrandDukeGediminas/photon
+     📝 what if wallpaper engine worked on mac and maybe linux
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 su-daedalus/rfscoper
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/su-daedalus/rfscoper
+     📝 Professional RF spectrum analyzer for HackRF Pro. Features a real-time live scop…
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 dominiqueschunke-sys/scooter-rs-edrive-3
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/dominiqueschunke-sys/scooter-rs-edrive-3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 jamesmoramosquera/Homologador-de-querys-Hunting
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/jamesmoramosquera/Homologador-de-querys-Hunting
+     📝 Homologa Querys para cacerias Hunt de EDR
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 dominiqueschunke-sys/scooter-rs-edrive-2
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/dominiqueschunke-sys/scooter-rs-edrive-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 sharmaaditya2003/SENTINEL
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/sharmaaditya2003/SENTINEL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 euph0x1/GenAI-Assisted-Cybersecurity-Incident-Response
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/euph0x1/GenAI-Assisted-Cybersecurity-Incident-Response
+     📝 An Incident Analysis Assistant with Evidence-Grounded Verification.
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 ruancarlosrc/FIM-com-Powershell
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/ruancarlosrc/FIM-com-Powershell
+     📝 (nessuna descrizione)
+     🏷  active-directory, integrity, powershell, security-information, siem
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 VasylPopyk/yara-file-scanner
+     ⭐ 0  🗣 YARA  📅 2026-10-15
+     🔗 https://github.com/VasylPopyk/yara-file-scanner
+     📝 🛡️ Lightweight modular YARA-based file scanner in Python for threat hunting and …
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 teldigi5-wq/sentinel-security-platform
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/teldigi5-wq/sentinel-security-platform
+     📝 AI-native cybersecurity defense and security engineering platform
+     🏷  —
+[2026-10-15 21:01:24 UTC] [NEW]   🆕 📦 dtaimur/Cyber-Risk-Dashboard
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/dtaimur/Cyber-Risk-Dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 21:01:24 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-15 21:01:24 UTC] [UPD]   📢 📦 AurigaNet/DiagUSB
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/AurigaNet/DiagUSB
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 21:01:24 UTC] [UPD]   📢 📦 ashutoshchaubey1617/ESA
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/ashutoshchaubey1617/ESA
+     📝 Multimodel Health Access System
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-15 21:01:24 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-15 21:01:24 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-15 21:01:27 UTC] [INFO]   → 22 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 21:01:27 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-15 21:01:27 UTC] [NEW]   🆕 📦 Gitam8198/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-15
+     🔗 https://github.com/Gitam8198/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-15 21:01:27 UTC] [NEW]   🆕 📦 PoojaIto7458/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-15
+     🔗 https://github.com/PoojaIto7458/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-15 21:01:27 UTC] [NEW]   🆕 📦 pinkythegawd/ps5-webkit-autoloader
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/pinkythegawd/ps5-webkit-autoloader
+     📝 Offline PS5 WebKit Autoloader for firmware 1.00-5.50 and 7.00-13.60 (umtx2 + Poo…
+     🏷  autoloader, elfldr, exploit, homebrew, jailbreak, offline, payload-loader, playstation, poops, ps5, ps5-homebrew, ps5-jailbreak, relapse, umtx2, webkit
+[2026-10-15 21:01:27 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-15 21:01:27 UTC] [UPD]   📢 📦 RanaKhan77/awesome-cyber-security-heaven
+     ⭐ 1  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/RanaKhan77/awesome-cyber-security-heaven
+     📝 ☁️🔐 Awesome Cyber Security Heaven — 438 curated FREE cybersecurity tools across …
+     🏷  ai-security, awesome, awesome-list, blue-team, bug-bounty, curated-list, cybersecurity, devsecops, dfir, free-tools, infosec, llm-security, open-source, osint, pentesting, protection, security, security-tools, threat-intelligence, website-security
+     🔄 Motivo: repo recente (1gg) | nuovi topic: open-source, blue-team, curated-list, free-tools, security, infosec, protection, website-security
+[2026-10-15 21:01:27 UTC] [UPD]   📢 📦 jixui666/vbfhjhgj
+     ⭐ 0  🗣 Objective-C  📅 2026-10-15
+     🔗 https://github.com/jixui666/vbfhjhgj
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 21:01:27 UTC] [UPD]   📢 📦 damiantorresmojica16-tech/3105-ios-project
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/damiantorresmojica16-tech/3105-ios-project
+     📝 3105 iOS source and license verification API
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 21:01:27 UTC] [UPD]   📢 📦 MarcusAl/airlock
+     ⭐ 1  🗣 TypeScript  📅 2026-10-14
+     🔗 https://github.com/MarcusAl/airlock
+     📝 Run untrusted repos (take-homes, random GitHub projects) without letting them to…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 21:01:27 UTC] [INFO] ============================================================
+[2026-10-15 21:01:27 UTC] [INFO] Completato — 36 nuovi, 7 aggiornati, 0 errori
+[2026-10-15 21:01:27 UTC] [INFO] ============================================================
