@@ -112244,3 +112244,262 @@
 [2026-10-15 10:59:35 UTC] [INFO] ============================================================
 [2026-10-15 10:59:35 UTC] [INFO] Completato — 33 nuovi, 4 aggiornati, 0 errori
 [2026-10-15 10:59:35 UTC] [INFO] ============================================================
+[2026-10-15 16:29:12 UTC] [INFO] ============================================================
+[2026-10-15 16:29:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-15 16:29:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-15 16:29:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-15 16:29:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-15 16:29:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-15 16:29:12 UTC] [INFO] ============================================================
+[2026-10-15 16:29:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-15 16:29:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-15 16:29:14 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 16:29:14 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-15 16:29:14 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-15 16:29:14 UTC] [UPD]   📢 📦 vipmaycom/eac-detection
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/vipmaycom/eac-detection
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 16:29:14 UTC] [UPD]   📢 📦 sl0wz3r/ThreatHunts
+     ⭐ 0  🗣 N/A  📅 2026-10-12
+     🔗 https://github.com/sl0wz3r/ThreatHunts
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-15 16:29:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-15 16:29:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-15 16:29:17 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 kamalx06/TornadoC2
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/kamalx06/TornadoC2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 utkarsh-n/LabKit
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/utkarsh-n/LabKit
+     📝 Public source snapshot of LabKit, a personal app project.
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 utkarsh-n/Gyre-public
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/utkarsh-n/Gyre-public
+     📝 Public source snapshot of Gyre, a personal app project.
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 edree0x/edree0x.stage-control-plus
+     ⭐ 0  🗣 QML  📅 2026-10-15
+     🔗 https://github.com/edree0x/edree0x.stage-control-plus
+     📝 Stage Control for Omarchy with Exposé built into the stage: type-to-search, Spac…
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 5evenTeam/Seven
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/5evenTeam/Seven
+     📝 $even Is A Wiper Designed And Established By The 5even Team
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 Khaja-syed-786/soc-range
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/Khaja-syed-786/soc-range
+     📝 SOC analyst training simulator: simulated logs, SIEM detection rules, alert tria…
+     🏷  blue-team, cybersecurity, express, incident-response, mitre-attack, nodejs, security-training, siem, soc, threat-detection
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 0xmfbk/ebpf-container-escape-framework
+     ⭐ 0  🗣 C  📅 2026-10-15
+     🔗 https://github.com/0xmfbk/ebpf-container-escape-framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 Khaja-syed-786/it-command-center
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/Khaja-syed-786/it-command-center
+     📝 Live system-monitoring dashboard for Windows. Read-only by default, runs locally…
+     🏷  dashboard, express, monitoring, nodejs, sysadmin, system-monitor, windows
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 Rami-alqisi/TriageX
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/Rami-alqisi/TriageX
+     📝 AI-Driven SOC Tier 1 Alert Triage, Static Malware Sandbox & Mini-SOAR Platform b…
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 AurigaNet/DiagUSB
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/AurigaNet/DiagUSB
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 vatsal-ag/GitSentinel
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/vatsal-ag/GitSentinel
+     📝 Universal Behavioral EDR & Threat Remediation Platform for macOS, Windows, Linux…
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 a-akheel/splunk-soc-investigation-lab
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/a-akheel/splunk-soc-investigation-lab
+     📝 Synthetic SOC analyst lab: Windows telemetry, SPL detections, incident investiga…
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 Sysinternals-Ad-Explorer/Sysinternals
+     ⭐ 0  🗣 C++  📅 2026-10-15
+     🔗 https://github.com/Sysinternals-Ad-Explorer/Sysinternals
+     📝 Sysinternals Tools is the free Sysinternals suite from Microsoft. microsoft sysi…
+     🏷  benchmarking, debugger, monitor, monitoring, performance, process-monitor, profiling, realtime, security, system-monitor, task-manager, windows
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 Krak3N22/doc-crosscheck
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/Krak3N22/doc-crosscheck
+     📝 Cross-reference tables and documents 100% locally in the browser or via Python/C…
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 ShreeshaAnandPujar/Aegis-BlueTeam
+     ⭐ 1  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/ShreeshaAnandPujar/Aegis-BlueTeam
+     📝 Defensive Cybersecurity Suite: 100 enterprise-grade Python security tools, foren…
+     🏷  blue-team, cybersecurity, defensive-security, digital-forensics, incident-response, mitre-attack, python3, threat-hunting
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 malumf/malumf
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/malumf/malumf
+     📝 Repositório da página inicial do perfil
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 spawngore/Mv
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/spawngore/Mv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 Supriya-eng1ox/readme
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/Supriya-eng1ox/readme
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 invemichele-peptone/plumed-gromacs-regtest
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/invemichele-peptone/plumed-gromacs-regtest
+     📝 test which plumed-gromacs combination works
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 bdavj/esp_btkeyboard
+     ⭐ 0  🗣 C  📅 2026-10-15
+     🔗 https://github.com/bdavj/esp_btkeyboard
+     📝 ESP32 Bluetooth (and optionally web) keyboard bridge
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 RayenGader/apt34-oilrig-threat-profile
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/RayenGader/apt34-oilrig-threat-profile
+     📝 Threat profile of APT34 / OilRig (G0049): TTPs across the kill chain, malware fa…
+     🏷  apt34, blue-team, cti, d3fend, mitre-attack, oilrig, threat-hunting, threat-intelligence
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 drduongthong/uikit
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/drduongthong/uikit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 raoufsaheb/guardrail-security-operations
+     ⭐ 0  🗣 TypeScript  📅 2026-10-15
+     🔗 https://github.com/raoufsaheb/guardrail-security-operations
+     📝 Guardrail — Defensive SecOps Incident Management & Triage
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 Kapistona/aybusec
+     ⭐ 4  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/Kapistona/aybusec
+     📝 Log analizi egitim laboratuvari: saf Python SIEM dedektif araci + 20K satirlik s…
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 poikiloteros/EREN
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/poikiloteros/EREN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 SkyH34D/Find-ADAsset
+     ⭐ 0  🗣 PowerShell  📅 2026-10-15
+     🔗 https://github.com/SkyH34D/Find-ADAsset
+     📝 Finds AD Assets
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 DaddyZyn/Deadspace
+     ⭐ 0  🗣 C++  📅 2026-10-15
+     🔗 https://github.com/DaddyZyn/Deadspace
+     📝 Codecave Finder
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 smv5047/coverage-cube
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/smv5047/coverage-cube
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 cb1k347k/edri
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/cb1k347k/edri
+     📝 content
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 ksonda/pygeoapi-provider-builder
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/ksonda/pygeoapi-provider-builder
+     📝 Publish data with pygeoapi without hand-writing YAML or Python: configure provid…
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 ComputerSecurity66/WindowsDiagnostics
+     ⭐ 0  🗣 PowerShell  📅 2026-10-15
+     🔗 https://github.com/ComputerSecurity66/WindowsDiagnostics
+     📝 Windows PowerShell diagnostics and system analysis tool for hardware, disk, memo…
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 Lak-MedRida027/Scenario-19----AgentTesla-Malware-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/Lak-MedRida027/Scenario-19----AgentTesla-Malware-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 M0-AR/hacking-python-repro-2026
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/M0-AR/hacking-python-repro-2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 northnarrow/Prometheus
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/northnarrow/Prometheus
+     📝 EDR/XDR
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 M0-AR/hacking-foundations-defense-benchmark-2026
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/M0-AR/hacking-foundations-defense-benchmark-2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 16:29:17 UTC] [NEW]   🆕 📦 cosmicbyt123/secops
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/cosmicbyt123/secops
+     📝 cybersecurity website to learn Red teaming and blue teaming 
+     🏷  —
+[2026-10-15 16:29:17 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-15 16:29:17 UTC] [UPD]   📢 📦 salmanmallah/noogen-stealer-malware-analysis
+     ⭐ 0  🗣 C#  📅 2026-10-14
+     🔗 https://github.com/salmanmallah/noogen-stealer-malware-analysis
+     📝 Multi-stage reverse engineering, static payload extraction, and C2 intelligence …
+     🏷  c2-detection, deobfuscation, infostealer, malware-analysis, reverse-engineering, threat-intelligence, yara-rules
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 16:29:17 UTC] [UPD]   📢 📦 BigDesigner/project-gnnwatchtower
+     ⭐ 0  🗣 Go  📅 2026-10-10
+     🔗 https://github.com/BigDesigner/project-gnnwatchtower
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-15 16:29:17 UTC] [UPD]   📢 📦 rahul006-hk/Socgen
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/rahul006-hk/Socgen
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 16:29:17 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-15 16:29:17 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-15 16:29:20 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 16:29:20 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-15 16:29:20 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-15 16:29:20 UTC] [UPD]   📢 📦 jixui666/vbfhjhgj
+     ⭐ 0  🗣 Objective-C  📅 2026-10-15
+     🔗 https://github.com/jixui666/vbfhjhgj
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 16:29:20 UTC] [UPD]   📢 📦 RanaKhan77/awesome-cyber-security-heaven
+     ⭐ 1  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/RanaKhan77/awesome-cyber-security-heaven
+     📝 ☁️🔐 Awesome Cyber Security Heaven — 438 curated FREE cybersecurity tools across …
+     🏷  ai-security, awesome, awesome-list, bug-bounty, cybersecurity, devsecops, dfir, hacktoberfest, llm-security, osint, pentesting, security-tools, threat-intelligence
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 16:29:20 UTC] [UPD]   📢 📦 mustakimali/heptix
+     ⭐ 0  🗣 Rust  📅 2026-10-09
+     🔗 https://github.com/mustakimali/heptix
+     📝 The missing haptic feedback for Linux!
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-15 16:29:20 UTC] [UPD]   📢 📦 MarcusAl/airlock
+     ⭐ 1  🗣 TypeScript  📅 2026-10-14
+     🔗 https://github.com/MarcusAl/airlock
+     📝 Run untrusted repos (take-homes, random GitHub projects) without letting them to…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 16:29:20 UTC] [INFO] ============================================================
+[2026-10-15 16:29:20 UTC] [INFO] Completato — 36 nuovi, 9 aggiornati, 0 errori
+[2026-10-15 16:29:20 UTC] [INFO] ============================================================
