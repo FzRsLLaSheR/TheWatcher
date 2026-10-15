@@ -111891,3 +111891,142 @@
 [2026-10-14 21:21:16 UTC] [INFO] ============================================================
 [2026-10-14 21:21:16 UTC] [INFO] Completato — 34 nuovi, 6 aggiornati, 0 errori
 [2026-10-14 21:21:16 UTC] [INFO] ============================================================
+[2026-10-15 03:38:39 UTC] [INFO] ============================================================
+[2026-10-15 03:38:39 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-15 03:38:39 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-15 03:38:39 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-15 03:38:39 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-15 03:38:39 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-15 03:38:39 UTC] [INFO] ============================================================
+[2026-10-15 03:38:39 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-15 03:38:39 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-15 03:38:41 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 03:38:41 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-15 03:38:41 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-15 03:38:41 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-15 03:38:41 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-15 03:38:44 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 syka7204/Malaware-Traffic-Analysis-ServiceNow-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/syka7204/Malaware-Traffic-Analysis-ServiceNow-Incident-Response
+     📝 Conducted hands-on malware traffic analysis using Wireshark to investigate FTP d…
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 node300-net/offensive-security-certs
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/node300-net/offensive-security-certs
+     📝 Ehrlich erklärt: die besten Offensive-Security-/Hacker-Zertifizierungen 2026 – P…
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 Thrwat47/log-analysis-with-siem-notes
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/Thrwat47/log-analysis-with-siem-notes
+     📝 My notes from the TryHackMe Log Analysis with SIEM room.
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 ghaditalal/soc-site
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/ghaditalal/soc-site
+     📝 An Arabic introductory website about Security Operations Centers (SOC), covering…
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 meltyblend/MaxBright-MBP
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/meltyblend/MaxBright-MBP
+     📝 Menu bar app that unlocks the full XDR brightness of MacBook Pro displays for ev…
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 lushun2014/lushibo-skills
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/lushun2014/lushibo-skills
+     📝 路世博 codeX 版技能包：51 个可加载 skill，覆盖逆向工程、渗透红队、漏洞利用、恶意代码、蓝队防御、游戏安全、工程环境、商业变现、内容创作与生活成长…
+     🏷  agent-skills, ai-agent, blue-team, claude-code, codex, ctf, game-security, malware-analysis, penetration-testing, prompt-engineering, reverse-engineering, skills
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 salmanmallah/noogen-stealer-malware-analysis
+     ⭐ 0  🗣 C#  📅 2026-10-14
+     🔗 https://github.com/salmanmallah/noogen-stealer-malware-analysis
+     📝 Multi-stage reverse engineering, static payload extraction, and C2 intelligence …
+     🏷  c2-detection, deobfuscation, infostealer, malware-analysis, reverse-engineering, threat-intelligence, yara-rules
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 ThomasGLGR/notepad
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/ThomasGLGR/notepad
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 RA-Itachi/BT401_Rafa
+     ⭐ 0  🗣 C++  📅 2026-10-15
+     🔗 https://github.com/RA-Itachi/BT401_Rafa
+     📝 Biblioteca para controlar el módulo BT401 de DFRobot
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 gustavobftorres/phishing-emulation
+     ⭐ 0  🗣 TypeScript  📅 2026-10-14
+     🔗 https://github.com/gustavobftorres/phishing-emulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 yuazi/LumaDisplay
+     ⭐ 0  🗣 Swift  📅 2026-10-14
+     🔗 https://github.com/yuazi/LumaDisplay
+     📝 Native macOS display controls with HiDPI scaling, brightness, presets, and HDR b…
+     🏷  brightness, display, hdr, macos, swift, swiftui
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 prewue/brightnesss
+     ⭐ 0  🗣 Swift  📅 2026-10-14
+     🔗 https://github.com/prewue/brightnesss
+     📝 XDR past 100% and dimming below zero, from the notch. A Droplet for Droppy.
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 mattitute/local-ai-soc-analyzer
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/mattitute/local-ai-soc-analyzer
+     📝 Local AI SOC analyzer using Python, Ollama, Qwen, MITRE ATT&CK, and Streamlit
+     🏷  —
+[2026-10-15 03:38:44 UTC] [NEW]   🆕 📦 sadiacamara/threat-hanting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/sadiacamara/threat-hanting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 03:38:44 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-15 03:38:44 UTC] [UPD]   📢 📦 tenspav/NanoEmu
+     ⭐ 0  🗣 C  📅 2026-10-13
+     🔗 https://github.com/tenspav/NanoEmu
+     📝 QEMU emulator for the iPod nano 7G (S5L8747): boots the real RetailOS with a liv…
+     🏷  emulator, homebrew, ipod, ipod-nano, qemu, reverse-engineering
+     🔄 Motivo: repo recente (1gg)
+[2026-10-15 03:38:44 UTC] [UPD]   📢 📦 susanbeasles/porchlight
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/susanbeasles/porchlight
+     📝 Porchlight is a consumer endpoint security application specializing in the use o…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 03:38:44 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-15 03:38:44 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-15 03:38:46 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 03:38:46 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-15 03:38:46 UTC] [NEW]   🆕 📦 carlostapiacl/tartaros
+     ⭐ 0  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/carlostapiacl/tartaros
+     📝 A local sandbox for AI coding agents that you can test yourself. Secrets out of …
+     🏷  ai-agents, claude-code, coding-agents, gvisor, landlock, rust, sandbox, seatbelt, seccomp, security
+[2026-10-15 03:38:46 UTC] [NEW]   🆕 📦 MarcusAl/airlock
+     ⭐ 1  🗣 TypeScript  📅 2026-10-14
+     🔗 https://github.com/MarcusAl/airlock
+     📝 Run untrusted repos (take-homes, random GitHub projects) without letting them to…
+     🏷  —
+[2026-10-15 03:38:46 UTC] [NEW]   🆕 📦 jixui666/vbfhjhgj
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/jixui666/vbfhjhgj
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 03:38:46 UTC] [NEW]   🆕 📦 conor-sometimes/nixos-hardening
+     ⭐ 0  🗣 Nix  📅 2026-10-14
+     🔗 https://github.com/conor-sometimes/nixos-hardening
+     📝 A curated, VM-tested NixOS host-hardening module (kernel/network sysctls, SSH, f…
+     🏷  —
+[2026-10-15 03:38:46 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-15 03:38:46 UTC] [UPD]   📢 📦 yanncarlier/bwrap-web
+     ⭐ 0  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/yanncarlier/bwrap-web
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 03:38:46 UTC] [UPD]   📢 📦 RanaKhan77/awesome-cyber-security-heaven
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/RanaKhan77/awesome-cyber-security-heaven
+     📝 ☁️🔐 Awesome Cyber Security Heaven — 160+ curated FREE cybersecurity tools in 12 …
+     🏷  ai-security, awesome, awesome-list, bug-bounty, cybersecurity, devsecops, dfir, hacktoberfest, llm-security, osint, pentesting, security-tools, threat-intelligence
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 03:38:46 UTC] [INFO] ============================================================
+[2026-10-15 03:38:46 UTC] [INFO] Completato — 18 nuovi, 4 aggiornati, 0 errori
+[2026-10-15 03:38:46 UTC] [INFO] ============================================================
