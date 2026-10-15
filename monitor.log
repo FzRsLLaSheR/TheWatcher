@@ -112030,3 +112030,217 @@
 [2026-10-15 03:38:46 UTC] [INFO] ============================================================
 [2026-10-15 03:38:46 UTC] [INFO] Completato — 18 nuovi, 4 aggiornati, 0 errori
 [2026-10-15 03:38:46 UTC] [INFO] ============================================================
+[2026-10-15 10:59:27 UTC] [INFO] ============================================================
+[2026-10-15 10:59:27 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-15 10:59:27 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-15 10:59:27 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-15 10:59:27 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-15 10:59:27 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-15 10:59:27 UTC] [INFO] ============================================================
+[2026-10-15 10:59:27 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-15 10:59:27 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-15 10:59:29 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 10:59:29 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-15 10:59:29 UTC] [NEW]   🆕 📦 danhowett/fx
+     ⭐ 0  🗣 Rust  📅 2026-10-15
+     🔗 https://github.com/danhowett/fx
+     📝 fx -  A GUI based Incident Response tool for hunting financially motivated threa…
+     🏷  —
+[2026-10-15 10:59:29 UTC] [NEW]   🆕 📦 TMann011/Inkwell-Analyzer
+     ⭐ 0  🗣 C++  📅 2026-10-15
+     🔗 https://github.com/TMann011/Inkwell-Analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:29 UTC] [NEW]   🆕 📦 TMann011/Inkwell-Loader-V1
+     ⭐ 0  🗣 C++  📅 2026-10-15
+     🔗 https://github.com/TMann011/Inkwell-Loader-V1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:29 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-15 10:59:29 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-15 10:59:29 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-15 10:59:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 Goulartdv7/html-edrunners
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/Goulartdv7/html-edrunners
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 Raidensec/aegis-guard
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/Raidensec/aegis-guard
+     📝 Aegis Guard security operations platform
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 Manav860/Traffic-Analyzer-New
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/Manav860/Traffic-Analyzer-New
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 SaswatSRoy/ThreatPath
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/SaswatSRoy/ThreatPath
+     📝 Graph Hacks: Context for AI Agents Powered by FalkorDB Track 1 project
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 yousifQU/Incident-Response-Invistigations
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/yousifQU/Incident-Response-Invistigations
+     📝 Investigated cybersecurity incidents involving web defacement, NTLM relay attack…
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 Kureha0104/Kureha0104
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/Kureha0104/Kureha0104
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 Mohammad-Hassan23/Phishing-analyzer
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/Mohammad-Hassan23/Phishing-analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 danhowett/fx
+     ⭐ 0  🗣 Rust  📅 2026-10-15
+     🔗 https://github.com/danhowett/fx
+     📝 fx -  A GUI based Incident Response tool for hunting financially motivated threa…
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 garshany/FreeDisplay
+     ⭐ 0  🗣 Swift  📅 2026-10-14
+     🔗 https://github.com/garshany/FreeDisplay
+     📝 FreeDisplay — free display manager for macOS (fork of aquitaine/OpenDisplay, GPL…
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 edrianpy/edrian_py
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/edrianpy/edrian_py
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 LUOaini1213/hsa-eservice-ux-review
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/LUOaini1213/hsa-eservice-ux-review
+     📝 Independent usability review of public HSA medical device e-service journeys: ve…
+     🏷  heuristic-evaluation, service-design, singapore, usability-testing, ux-research
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 rahul006-hk/Socgen
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/rahul006-hk/Socgen
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 alienideas/VectorStrike
+     ⭐ 0  🗣 PowerShell  📅 2026-10-14
+     🔗 https://github.com/alienideas/VectorStrike
+     📝 Real-Time Anti-Ransomware with Countering & Disrupting Ransomware .  Counter Ran…
+     🏷  ransomeware, ransomeware-python, ransomware, ransomware-dectection, ransomware-detection-windows
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 idiljot-singh/Qent
+     ⭐ 1  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/idiljot-singh/Qent
+     📝 Threat intelligence that starts from your questions: PIR-driven feeds + MISP + i…
+     🏷  cti, misp, mitre-attack, stix, taxii, threat-intelligence
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 HappyValley9/keylog
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/HappyValley9/keylog
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 abductedbyaliens06/DisplayDesk
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/abductedbyaliens06/DisplayDesk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 p920750/SentinelGraph
+     ⭐ 0  🗣 TypeScript  📅 2026-10-14
+     🔗 https://github.com/p920750/SentinelGraph
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 RKJ6901/gromacs-md-agent
+     ⭐ 0  🗣 Python  📅 2026-10-14
+     🔗 https://github.com/RKJ6901/gromacs-md-agent
+     📝 LangGraph 编排的 GROMACS 分子动力学 agent：蛋白-配体体系准备、MD 模拟、GPCR 分层分析，以及带反证条件的判断层（decision…
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 M0simi/EDR-Telemetry-Analyzer
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/M0simi/EDR-Telemetry-Analyzer
+     📝 Lightweight EDR telemetry log analyzer to detect behavioral anomalies, suspiciou…
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 eageryarn97/edrsi
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/eageryarn97/edrsi
+     📝 content
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 kush-coder/autopilot-awesome-cybersecurity-handbooks
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/kush-coder/autopilot-awesome-cybersecurity-handbooks
+     📝 Official Build & Verified Release | A huge chunk of my personal notes since I st…
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 ariesgeorg/edrbq
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/ariesgeorg/edrbq
+     📝 content
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 Bkzww/Writeups-TryHackMe
+     ⭐ 1  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/Bkzww/Writeups-TryHackMe
+     📝 Documentação e relatórios práticos de laboratórios resolvidos no TryHackMe.
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 Keerthi047/TA-ML
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/Keerthi047/TA-ML
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 WHots/RosaryEDR
+     ⭐ 0  🗣 Rust  📅 2026-10-15
+     🔗 https://github.com/WHots/RosaryEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:33 UTC] [NEW]   🆕 📦 huedelonic/edrfs
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/huedelonic/edrfs
+     📝 content
+     🏷  —
+[2026-10-15 10:59:33 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-15 10:59:33 UTC] [UPD]   📢 📦 susanbeasles/porchlight
+     ⭐ 0  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/susanbeasles/porchlight
+     📝 Porchlight is a consumer endpoint security application specializing in the use o…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-15 10:59:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-15 10:59:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-15 10:59:35 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-15 10:59:35 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-15 10:59:35 UTC] [NEW]   🆕 📦 damiantorresmojica16-tech/3105-ios-project
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/damiantorresmojica16-tech/3105-ios-project
+     📝 3105 iOS source and license verification API
+     🏷  —
+[2026-10-15 10:59:35 UTC] [NEW]   🆕 📦 ProofPage/Root-My-Galaxy-Next
+     ⭐ 0  🗣 Kotlin  📅 2026-10-14
+     🔗 https://github.com/ProofPage/Root-My-Galaxy-Next
+     📝 KSU installer for supported Samsung Galaxy firmware
+     🏷  —
+[2026-10-15 10:59:35 UTC] [NEW]   🆕 📦 BKris2315/agentbox
+     ⭐ 0  🗣 Shell  📅 2026-10-15
+     🔗 https://github.com/BKris2315/agentbox
+     📝 A containerization of AI coding agents so they can't roam free in your system.
+     🏷  —
+[2026-10-15 10:59:35 UTC] [NEW]   🆕 📦 WostGit/jubilant-octo-adventure
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/WostGit/jubilant-octo-adventure
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-15 10:59:35 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-15 10:59:35 UTC] [UPD]   📢 📦 jixui666/vbfhjhgj
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/jixui666/vbfhjhgj
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 10:59:35 UTC] [UPD]   📢 📦 mustakimali/heptix
+     ⭐ 0  🗣 Rust  📅 2026-10-09
+     🔗 https://github.com/mustakimali/heptix
+     📝 The missing haptic feedback for Linux!
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-15 10:59:35 UTC] [UPD]   📢 📦 carlostapiacl/tartaros
+     ⭐ 0  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/carlostapiacl/tartaros
+     📝 A local sandbox for AI coding agents that you can test yourself. Secrets out of …
+     🏷  ai-agents, claude-code, coding-agents, gvisor, landlock, rust, sandbox, seatbelt, seccomp, security
+     🔄 Motivo: repo recente (0gg)
+[2026-10-15 10:59:35 UTC] [INFO] ============================================================
+[2026-10-15 10:59:35 UTC] [INFO] Completato — 33 nuovi, 4 aggiornati, 0 errori
+[2026-10-15 10:59:35 UTC] [INFO] ============================================================
