@@ -113172,3 +113172,203 @@
 [2026-10-16 10:55:14 UTC] [INFO] ============================================================
 [2026-10-16 10:55:14 UTC] [INFO] Completato — 44 nuovi, 5 aggiornati, 0 errori
 [2026-10-16 10:55:14 UTC] [INFO] ============================================================
+[2026-10-16 16:14:28 UTC] [INFO] ============================================================
+[2026-10-16 16:14:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-16 16:14:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-16 16:14:28 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-16 16:14:28 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-16 16:14:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-16 16:14:28 UTC] [INFO] ============================================================
+[2026-10-16 16:14:28 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-16 16:14:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-16 16:14:30 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 16:14:30 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-16 16:14:30 UTC] [NEW]   🆕 📦 yasunosubaru/YinHuGuard
+     ⭐ 0  🗣 Dart  📅 2026-10-16
+     🔗 https://github.com/yasunosubaru/YinHuGuard
+     📝 YinHuGuard - Windows read-only triage tool for Silver Fox (ValleyRAT) trojan
+     🏷  —
+[2026-10-16 16:14:30 UTC] [NEW]   🆕 📦 Weirdlogic/bridgeagent-static
+     ⭐ 0  🗣 C  📅 2026-10-16
+     🔗 https://github.com/Weirdlogic/bridgeagent-static
+     📝 Static analysis of the BridgeAgent kit: PDFWKRNL.sys BYOVD EDR killer, Bridge Ag…
+     🏷  —
+[2026-10-16 16:14:30 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-16 16:14:30 UTC] [UPD]   📢 📦 anshnt/security
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/anshnt/security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 16:14:30 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 214  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an autonomous reverse engineering system.
+     🏷  binary-analysis, claude-code, codex, decompiler, dissassembler, ecu, erlang-analysis, firmware-extraction, forensics, loongarch64, malware-analysis, micropython, nanomips, network-analysis, ppc32, reverse-engineering, rh850, taint-analysis, version-diffing, vulnerability-research
+     🔄 Motivo: nuovi topic: forensics, micropython, binary-analysis, ppc32, dissassembler, taint-analysis, rh850, malware-analysis, vulnerability-research, version-diffing, network-analysis, erlang-analysis
+[2026-10-16 16:14:30 UTC] [UPD]   📢 📦 danhowett/fx
+     ⭐ 0  🗣 Rust  📅 2026-10-15
+     🔗 https://github.com/danhowett/fx
+     📝 fx -  A GUI based Incident Response tool for hunting financially motivated threa…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-16 16:14:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-16 16:14:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-16 16:14:34 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 JULIOCESARRODRIGUEZINFANTE/StealLab
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/JULIOCESARRODRIGUEZINFANTE/StealLab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 Jathin112/AegisSOC
+     ⭐ 0  🗣 TypeScript  📅 2026-10-16
+     🔗 https://github.com/Jathin112/AegisSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 jensdufour/PUB-LeafIT
+     ⭐ 0  🗣 PowerShell  📅 2026-10-16
+     🔗 https://github.com/jensdufour/PUB-LeafIT
+     📝 Guarded LeafIT naming and branding automation with private target inputs and exp…
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 iokoioko/native-clipboard-linux
+     ⭐ 0  🗣 Rust  📅 2026-10-15
+     🔗 https://github.com/iokoioko/native-clipboard-linux
+     📝 Experimental native iPhone to Linux text clipboard receiver; manual Apple trust …
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 AbhiSha08/ThreatLens
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/AbhiSha08/ThreatLens
+     📝 Enterprise-grade CTI aggregation & visualization platform. Features async feed i…
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 kaandemir993/Amadey-Loader-Multi-Stage-Malware-with-Keylogging-Clipboard-Hijack-Privilege-Escalation-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/kaandemir993/Amadey-Loader-Multi-Stage-Malware-with-Keylogging-Clipboard-Hijack-Privilege-Escalation-Analysis
+     📝 Reverse engineering Amadey Loader with x64dbg: dynamic API resolution, token pri…
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 OmarNafea001/test-3-
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/OmarNafea001/test-3-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 Adeisrael/ai-security-agent-simulation
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/Adeisrael/ai-security-agent-simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 MayoMusic/GetMoreRam
+     ⭐ 0  🗣 C  📅 2026-10-16
+     🔗 https://github.com/MayoMusic/GetMoreRam
+     📝 Tell a program it has more RAM than it does: a suspended-launch CLI injector plu…
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 Jpmullins/spectrum
+     ⭐ 0  🗣 HTML  📅 2026-10-16
+     🔗 https://github.com/Jpmullins/spectrum
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 NoahLevyy/labplatform
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/NoahLevyy/labplatform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 ibijoker/apex-soc-triage-assessment
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/ibijoker/apex-soc-triage-assessment
+     📝   Junior Cybersecurity Analyst assessment (Apex AI Arabia): SOC triage & inciden…
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 RafiqRosli03/azure-red-blue-team-lab
+     ⭐ 0  🗣 HCL  📅 2026-10-16
+     🔗 https://github.com/RafiqRosli03/azure-red-blue-team-lab
+     📝 Isolated Azure Red Team + Blue Team SOC lab: SQLi attack from Kali against priva…
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 Charlesh9160/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/Charlesh9160/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 KhanyaGusha/Ubuntu-Innovations-Pty-Ltd
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/KhanyaGusha/Ubuntu-Innovations-Pty-Ltd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 brokeniceice/velociraptor-lab
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/brokeniceice/velociraptor-lab
+     📝 Course project: Velociraptor telemetry, evidence correlation, and independent of…
+     🏷  —
+[2026-10-16 16:14:34 UTC] [NEW]   🆕 📦 Weirdlogic/bridgeagent-static
+     ⭐ 0  🗣 C  📅 2026-10-16
+     🔗 https://github.com/Weirdlogic/bridgeagent-static
+     📝 Static analysis of the BridgeAgent kit: PDFWKRNL.sys BYOVD EDR killer, Bridge Ag…
+     🏷  —
+[2026-10-16 16:14:34 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-16 16:14:34 UTC] [UPD]   📢 📦 teuntjemerkx/ultimatecoachboard
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/teuntjemerkx/ultimatecoachboard
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 16:14:34 UTC] [UPD]   📢 📦 mikelmiras/vulkan_demo
+     ⭐ 0  🗣 C++  📅 2026-10-09
+     🔗 https://github.com/mikelmiras/vulkan_demo
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-16 16:14:34 UTC] [UPD]   📢 📦 kamalx06/TornadoC2
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/kamalx06/TornadoC2
+     📝 Pull-based C2 framework with ten native transports, concurrent multi-profile han…
+     🏷  attack-tools, beacon, beacon-object-file, c2, command-and-control, cryptography, edr-evasion, golang, implants, offensive-security, opsec, penetration-testing, protocols, python, red-team, red-teaming, security-tools, wasm, wire-encryption
+     🔄 Motivo: repo recente (1gg)
+[2026-10-16 16:14:34 UTC] [UPD]   📢 📦 GrandDukeGediminas/photon
+     ⭐ 0  🗣 Swift  📅 2026-10-15
+     🔗 https://github.com/GrandDukeGediminas/photon
+     📝 what if wallpaper engine worked on mac and maybe linux
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 16:14:34 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-16 16:14:34 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-16 16:14:36 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 16:14:36 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-16 16:14:36 UTC] [NEW]   🆕 📦 mfponcedeleon/pentest-writeups
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/mfponcedeleon/pentest-writeups
+     📝 Penetration testing writeups from Hack The Box machines, university labs and a t…
+     🏷  —
+[2026-10-16 16:14:36 UTC] [NEW]   🆕 📦 luongtuananh17012011-arch/3105
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/luongtuananh17012011-arch/3105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 16:14:36 UTC] [NEW]   🆕 📦 dhanushhsuvarna/Htb-Reports
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/dhanushhsuvarna/Htb-Reports
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 16:14:36 UTC] [NEW]   🆕 📦 brendablake89023/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-16
+     🔗 https://github.com/brendablake89023/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-16 16:14:36 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-16 16:14:36 UTC] [UPD]   📢 📦 jixui666/sdgdfbfg
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/jixui666/sdgdfbfg
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 16:14:36 UTC] [UPD]   📢 📦 nguyendung231207/3105-beta-clone
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/nguyendung231207/3105-beta-clone
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 16:14:36 UTC] [UPD]   📢 📦 yanncarlier/bwrap-web
+     ⭐ 0  🗣 Rust  📅 2026-10-14
+     🔗 https://github.com/yanncarlier/bwrap-web
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-16 16:14:36 UTC] [INFO] ============================================================
+[2026-10-16 16:14:36 UTC] [INFO] Completato — 23 nuovi, 10 aggiornati, 0 errori
+[2026-10-16 16:14:36 UTC] [INFO] ============================================================
