@@ -112897,3 +112897,278 @@
 [2026-10-16 03:34:52 UTC] [INFO] ============================================================
 [2026-10-16 03:34:52 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
 [2026-10-16 03:34:52 UTC] [INFO] ============================================================
+[2026-10-16 10:55:06 UTC] [INFO] ============================================================
+[2026-10-16 10:55:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-16 10:55:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-16 10:55:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-16 10:55:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-16 10:55:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-16 10:55:06 UTC] [INFO] ============================================================
+[2026-10-16 10:55:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-16 10:55:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-16 10:55:09 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 10:55:09 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-16 10:55:09 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-16 10:55:09 UTC] [UPD]   📢 📦 anshnt/security
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/anshnt/security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 10:55:09 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 213  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an autonomous reverse engineering system.
+     🏷  apk-analysis, arkts, autonomous, beam-bytecode, byovd, claude-code, codex, cryptanalysis, decompiler, ecu, firmware-extraction, key-recovery, loongarch64, m68k, mach-o, memory-forensics, nanomips, python-bytecode, reverse-engineering, xcoff
+     🔄 Motivo: nuovi topic: memory-forensics, mach-o, autonomous, loongarch64, cryptanalysis, apk-analysis, claude-code, decompiler, arkts, codex, beam-bytecode, firmware-extraction, nanomips, python-bytecode, reverse-engineering, ecu, key-recovery, xcoff, byovd, m68k
+[2026-10-16 10:55:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-16 10:55:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-16 10:55:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 37 NUOVI repository:
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 Warrior-155/Aisoc
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Warrior-155/Aisoc
+     📝 aisoc for xdr
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 NoxCaellum/NoxCaellum
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/NoxCaellum/NoxCaellum
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 Olegium/SOC-teory
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/Olegium/SOC-teory
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 teuntjemerkx/ultimatecoachboard
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/teuntjemerkx/ultimatecoachboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 MSPbotsAIFramework/huntress-mcp
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/MSPbotsAIFramework/huntress-mcp
+     📝 MCP server for the Huntress API
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 onlySaish/ARCDIS---Final-Year-Project
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/onlySaish/ARCDIS---Final-Year-Project
+     📝 Final Year Project
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 JonnyUtah12/ping-tracer
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/JonnyUtah12/ping-tracer
+     📝 PingTracer - Windows latency & route tracing plotter (Node SEA + C# helper, zero…
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 naoki7189/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/naoki7189/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 JonnyUtah12/ping-tracer-dryrun
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/JonnyUtah12/ping-tracer-dryrun
+     📝 PT-10 dry-run: validates the ping-tracer windows-release CI pipeline (throwaway)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 linote99/ufi-bt-tether
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/linote99/ufi-bt-tether
+     📝 UFI-TOOLS 插件：把 UFI 的网络通过蓝牙分享给手机/平板等设备（蓝牙网络共享 / BT PAN-NAP）
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 catherineclark4725/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/catherineclark4725/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 YauheniKozich/Moonforge
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/YauheniKozich/Moonforge
+     📝 Moonforge — интерактивный 3D-рендерер и сцена на Metal + SwiftUI для iOS 18+. Мо…
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 Starkark98/DhcpAnalyzer
+     ⭐ 0  🗣 PowerShell  📅 2026-10-15
+     🔗 https://github.com/Starkark98/DhcpAnalyzer
+     📝 Read-only health check for Windows DHCP servers. One PowerShell file → one inter…
+     🏷  active-directory, dashboard, dhcp, dhcp-server, health-check, ipam, network-monitoring, powershell, sysadmin, windows-server
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 Amit1520/SignalTrace
+     ⭐ 1  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Amit1520/SignalTrace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 mahialjaber/the-10-task-to-master-wazuh
+     ⭐ 1  🗣 Batchfile  📅 2026-10-16
+     🔗 https://github.com/mahialjaber/the-10-task-to-master-wazuh
+     📝 Enterprise Wazuh Detection Engineering & Threat Hunting Portfolio: 10 Advanced C…
+     🏷  active-response, aws-cloudtrail, blue-team, cybersecurity-portfolio, detection-engineering, mitre-attack, opensearch, siem, soc-analyst, suricata, sysmon, threat-hunting, wazuh
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 kobia2303/AlSelIot-Manager
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/kobia2303/AlSelIot-Manager
+     📝 ניהול וניתור מערכות ארגוניות 
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 MoniqueFerrara/sysplant
+     ⭐ 0  🗣 Makefile  📅 2026-10-16
+     🔗 https://github.com/MoniqueFerrara/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 Aishchill/Security-Alert-Triage-and-Incident-Analysis-System
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Aishchill/Security-Alert-Triage-and-Incident-Analysis-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 SimphiweThwabuse/Ubuntu-Innovations-Technical-Documentation
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/SimphiweThwabuse/Ubuntu-Innovations-Technical-Documentation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 McGregory99/alisio
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/McGregory99/alisio
+     📝 Unofficial, illustrative 3D world of the Maspalomas ground station receiving rea…
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 Yuuu703/MalDev
+     ⭐ 0  🗣 C++  📅 2026-10-15
+     🔗 https://github.com/Yuuu703/MalDev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 AbhiSha08/Cyberion-Defense-Lab
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/AbhiSha08/Cyberion-Defense-Lab
+     📝 Cyberion Defense Labs (CDL-DET-V2) is an enterprise-grade detection engineering …
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 ashique6367-tech/CyberSageAI
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/ashique6367-tech/CyberSageAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 juergen874/ifc-obj-converter
+     ⭐ 0  🗣 HTML  📅 2026-10-16
+     🔗 https://github.com/juergen874/ifc-obj-converter
+     📝 Pure client-side IFC to Wavefront OBJ 3D converter & interactive WebGL viewer. O…
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 bartek-tos137/Anonimo
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/bartek-tos137/Anonimo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 Devgethub979/DEVIL-KREPOST
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Devgethub979/DEVIL-KREPOST
+     📝 Cyber Threat Intelligence, GEOINT & SOC Command Center
+     🏷  cybersecurity, cybersecurity-awareness, cybersecurity-education, cybersecurity-projects, cybersecurity-tools, linux-monitoring, linux-monitoring-scripts, security-monitoring, security-monitoring-and-incident-response, security-monitoring-and-logging, soc, threat-intelligence, threat-intelligence-data, threat-intelligence-database, threat-intelligence-feeds, threat-intelligence-platform, threat-intelligence-resource
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 levillever-del/edreposit
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/levillever-del/edreposit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 talaria0101/hfp-voice-quality
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/talaria0101/hfp-voice-quality
+     📝 Software-only ways to raise Bluetooth Classic HFP voice quality on Linux: mSBC, …
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 Porage-Lover/OneDisplay
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/Porage-Lover/OneDisplay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 JhonasRamirez111/Malware-Analysis-Malware.cryptlib64.dll
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/JhonasRamirez111/Malware-Analysis-Malware.cryptlib64.dll
+     📝 This repository may contains malware. Please be careful reviewing this mate. Tha…
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 mehak2710/Security-Orchestration-Agent
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/mehak2710/Security-Orchestration-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 morfrsh2027/S1EDR
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/morfrsh2027/S1EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 ravigayanga2004-droid/ddos-sentinel
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/ravigayanga2004-droid/ddos-sentinel
+     📝 A safe, localhost-only purple-team platform for evaluating DDoS detection, mitig…
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 vardhan-05/SOC-Analyst-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/vardhan-05/SOC-Analyst-Portfolio
+     📝 Hands-on SOC Analyst portfolio featuring SIEM detection, Windows log investigati…
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 EunHee-Jeong/wisa-2026-discord-linkability
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/EunHee-Jeong/wisa-2026-discord-linkability
+     📝 WISA 2026 research code for Discord metadata-only pseudonym linkability: TF-IDF,…
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 necq3shnaz/edrh
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/necq3shnaz/edrh
+     📝 content
+     🏷  —
+[2026-10-16 10:55:12 UTC] [NEW]   🆕 📦 Gozuin/x-media-downloader
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Gozuin/x-media-downloader
+     📝 按关键词搜索 X（推特），批量下载指定日期区间的视频/图片，按日期自动分文件夹。中文界面，免安装。
+     🏷  cdp, downloader, gallery, media, python, tkinter, twitter, x
+[2026-10-16 10:55:12 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-16 10:55:12 UTC] [UPD]   📢 📦 grumby42/dfir-trainers
+     ⭐ 0  🗣 HTML  📅 2026-10-16
+     🔗 https://github.com/grumby42/dfir-trainers
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 10:55:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-16 10:55:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-16 10:55:14 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 10:55:14 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-10-16 10:55:14 UTC] [NEW]   🆕 📦 jixui666/sdgdfbfg
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/jixui666/sdgdfbfg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:14 UTC] [NEW]   🆕 📦 lethe-labs/argos
+     ⭐ 1  🗣 Kotlin  📅 2026-10-16
+     🔗 https://github.com/lethe-labs/argos
+     📝 Find out whether your phone was touched while you were away. Offline Android dev…
+     🏷  —
+[2026-10-16 10:55:14 UTC] [NEW]   🆕 📦 nguyendung231207/3105-beta-clone
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/nguyendung231207/3105-beta-clone
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 10:55:14 UTC] [NEW]   🆕 📦 varunlakshmaiah/hermes-sandbox
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/varunlakshmaiah/hermes-sandbox
+     📝 Zero-friction split-container Docker deployment for Hermes Agent
+     🏷  —
+[2026-10-16 10:55:14 UTC] [NEW]   🆕 📦 zheedevVn/ManagerFileZhee
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/zheedevVn/ManagerFileZhee
+     📝 An advanced iOS content hub and manager for patches, app data, dialer themes, an…
+     🏷  file-manager, ios, ios17, ios18, ios27, patch-hub, swiftui
+[2026-10-16 10:55:14 UTC] [NEW]   🆕 📦 mustafs-ps4-ps5/ps
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/mustafs-ps4-ps5/ps
+     📝 Ps5-1.00-5.50
+     🏷  —
+[2026-10-16 10:55:14 UTC] [NEW]   🆕 📦 xgfhh0x11/security-writeups
+     ⭐ 0  🗣 N/A  📅 2026-10-15
+     🔗 https://github.com/xgfhh0x11/security-writeups
+     📝 28 long-form technical security writeups: CVE analysis, hypervisor/VMX internals…
+     🏷  cve-analysis, hypervisor, kernel-exploitation, linux-kernel, reverse-engineering, security-research, vulnerability-research, windows-kernel, writeups
+[2026-10-16 10:55:14 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-16 10:55:14 UTC] [UPD]   📢 📦 RanaKhan77/awesome-cyber-security-heaven
+     ⭐ 1  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/RanaKhan77/awesome-cyber-security-heaven
+     📝 ☁️🔐 Awesome Cyber Security Heaven — 438 curated FREE cybersecurity tools across …
+     🏷  ai-security, awesome, awesome-list, blue-team, bug-bounty, cybersecurity, devsecops, dfir, free-tools, hacking, infosec, llm-security, network-security, open-source, osint, pentesting, privacy, security, security-tools, threat-intelligence
+     🔄 Motivo: repo recente (1gg) | nuovi topic: hacking, network-security, privacy
+[2026-10-16 10:55:14 UTC] [UPD]   📢 📦 RaringM/webkitty
+     ⭐ 0  🗣 JavaScript  📅 2026-10-11
+     🔗 https://github.com/RaringM/webkitty
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-16 10:55:14 UTC] [INFO] ============================================================
+[2026-10-16 10:55:14 UTC] [INFO] Completato — 44 nuovi, 5 aggiornati, 0 errori
+[2026-10-16 10:55:14 UTC] [INFO] ============================================================
