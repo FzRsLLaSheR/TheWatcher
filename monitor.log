@@ -112750,3 +112750,150 @@
 [2026-10-15 21:01:27 UTC] [INFO] ============================================================
 [2026-10-15 21:01:27 UTC] [INFO] Completato — 36 nuovi, 7 aggiornati, 0 errori
 [2026-10-15 21:01:27 UTC] [INFO] ============================================================
+[2026-10-16 03:34:42 UTC] [INFO] ============================================================
+[2026-10-16 03:34:42 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-16 03:34:42 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-16 03:34:42 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-16 03:34:42 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-16 03:34:42 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-16 03:34:42 UTC] [INFO] ============================================================
+[2026-10-16 03:34:42 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-16 03:34:42 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-16 03:34:45 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 03:34:45 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-16 03:34:45 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-16 03:34:45 UTC] [UPD]   📢 📦 vipmaycom/eac-detection
+     ⭐ 0  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/vipmaycom/eac-detection
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-16 03:34:45 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-16 03:34:45 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-16 03:34:49 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 grumby42/dfir-trainers
+     ⭐ 0  🗣 HTML  📅 2026-10-16
+     🔗 https://github.com/grumby42/dfir-trainers
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 Krish9800/zero-trust-access-control-platform
+     ⭐ 1  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Krish9800/zero-trust-access-control-platform
+     📝 Contextual Zero-Trust Access Control Platform based on NIST SP 800-207
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 Krish9800/ultimate-cybersecurity-lab
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Krish9800/ultimate-cybersecurity-lab
+     📝 Ultimate Cybersecurity Lab: Unified Enterprise Cyber Range & Security Operations…
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 Krish9800/soc-platform
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Krish9800/soc-platform
+     📝 Security Operations Center Platform & Incident Response Orchestrator
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 Krish9800/soc-monitoring-platform
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Krish9800/soc-monitoring-platform
+     📝 Security Operations Center (SOC) Monitoring Platform with incident lifecycle, KP…
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 abcchiu/ClaudeDesktopU
+     ⭐ 0  🗣 PowerShell  📅 2026-10-15
+     🔗 https://github.com/abcchiu/ClaudeDesktopU
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 530333681/NightTrace
+     ⭐ 1  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/530333681/NightTrace
+     📝 NightTrace 是一个轻量级 Windows 主机痕迹采集与可视化工具，面向已获授权的应急响应与入侵痕迹排查场景。 在目标主机上运行单个 PowerShe…
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 Adroxz1122/MappedInj
+     ⭐ 0  🗣 C  📅 2026-10-16
+     🔗 https://github.com/Adroxz1122/MappedInj
+     📝 x64 process injection PoC combining shared-section memory mapping with thread co…
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 BlueSkyGuardian/atc-sim
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/BlueSkyGuardian/atc-sim
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 jamesmoramosquera/Homologador-de-querys-Hunting-V2
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/jamesmoramosquera/Homologador-de-querys-Hunting-V2
+     📝 Homologa Querys para cacerias Hunt de EDR
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 wzk112/Winglight
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/wzk112/Winglight
+     📝 Native macOS aircraft-light simulator built with SwiftUI and Metal. GPL-2.0 with…
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 omysurya/zysentinel
+     ⭐ 0  🗣 Lua  📅 2026-10-15
+     🔗 https://github.com/omysurya/zysentinel
+     📝 AI-powered aaPanel security plugin for developers, sysadmins, hosting providers,…
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 r00terAF18/report-consolidator
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/r00terAF18/report-consolidator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 LuisOjeda96/taller-dcu-phva
+     ⭐ 0  🗣 HTML  📅 2026-10-16
+     🔗 https://github.com/LuisOjeda96/taller-dcu-phva
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 XCode-Correa/FV_ICT10_Q2Drill2_Correa_Edrian
+     ⭐ 0  🗣 HTML  📅 2026-10-16
+     🔗 https://github.com/XCode-Correa/FV_ICT10_Q2Drill2_Correa_Edrian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 Crespo3989/Simulador-en-Python-del-ciclo-PHVA-aplicado-al-Dise-o-Centrado-en-el-Usuario
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Crespo3989/Simulador-en-Python-del-ciclo-PHVA-aplicado-al-Dise-o-Centrado-en-el-Usuario
+     📝 Simulador en Python del ciclo PHVA aplicado al Diseño Centrado en el Usuario (DC…
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 twpZero/MIRE
+     ⭐ 0  🗣 JavaScript  📅 2026-10-15
+     🔗 https://github.com/twpZero/MIRE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 Antonyos-Farag/Phishing---Merry-Clickmas-write-up
+     ⭐ 0  🗣 Makefile  📅 2026-10-15
+     🔗 https://github.com/Antonyos-Farag/Phishing---Merry-Clickmas-write-up
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 parnika0110/SentinelGraph
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/parnika0110/SentinelGraph
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 03:34:49 UTC] [NEW]   🆕 📦 josemauromani/estudos-cyberseguranca
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/josemauromani/estudos-cyberseguranca
+     📝 Estudos de Cibersegurança: portal offline pt-BR com treinamentos interativos, tr…
+     🏷  —
+[2026-10-16 03:34:49 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-16 03:34:49 UTC] [UPD]   📢 📦 ashutoshchaubey1617/ESA
+     ⭐ 0  🗣 Python  📅 2026-10-13
+     🔗 https://github.com/ashutoshchaubey1617/ESA
+     📝 Multimodel Health Access System
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-16 03:34:49 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-16 03:34:49 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-16 03:34:52 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 03:34:52 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-16 03:34:52 UTC] [NEW]   🆕 📦 kevzho/invariant-guard
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/kevzho/invariant-guard
+     📝 Alpha / research preview: local-first verifier for coding-agent patches (modeled…
+     🏷  coding-agents, mcp, python, research-preview, smt, static-analysis, verification
+[2026-10-16 03:34:52 UTC] [NEW]   🆕 📦 kk7t2gm9g6-eng/ps5-linux-loader-fw1400-scaffold
+     ⭐ 0  🗣 C  📅 2026-10-15
+     🔗 https://github.com/kk7t2gm9g6-eng/ps5-linux-loader-fw1400-scaffold
+     📝 ps5-linux-loader with fw 14.0 scaffolding (0xDEAD placeholders — needs RE)
+     🏷  —
+[2026-10-16 03:34:52 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-16 03:34:52 UTC] [INFO] ============================================================
+[2026-10-16 03:34:52 UTC] [INFO] Completato — 22 nuovi, 2 aggiornati, 0 errori
+[2026-10-16 03:34:52 UTC] [INFO] ============================================================
