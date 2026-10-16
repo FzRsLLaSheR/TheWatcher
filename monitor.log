@@ -113372,3 +113372,209 @@
 [2026-10-16 16:14:36 UTC] [INFO] ============================================================
 [2026-10-16 16:14:36 UTC] [INFO] Completato — 23 nuovi, 10 aggiornati, 0 errori
 [2026-10-16 16:14:36 UTC] [INFO] ============================================================
+[2026-10-16 20:36:48 UTC] [INFO] ============================================================
+[2026-10-16 20:36:48 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-16 20:36:48 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-16 20:36:48 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-16 20:36:48 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-16 20:36:48 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-16 20:36:48 UTC] [INFO] ============================================================
+[2026-10-16 20:36:48 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-16 20:36:48 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-16 20:36:50 UTC] [INFO]   → 8 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 20:36:50 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-16 20:36:50 UTC] [NEW]   🆕 📦 alexanderphilipp22-dot/Cordon
+     ⭐ 0  🗣 C#  📅 2026-10-16
+     🔗 https://github.com/alexanderphilipp22-dot/Cordon
+     📝 OS-level Zero-Trust sandbox and gateway for local AI agents on Windows.
+     🏷  —
+[2026-10-16 20:36:50 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-16 20:36:50 UTC] [UPD]   📢 📦 anshnt/security
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/anshnt/security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-16 20:36:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-16 20:36:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-16 20:36:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 leviitin/oficina-malwares
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/leviitin/oficina-malwares
+     📝 Material completo utilizado para ministrar a oficina sobre malwares.
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 viswakpullepu/maijury
+     ⭐ 0  🗣 TypeScript  📅 2026-10-16
+     🔗 https://github.com/viswakpullepu/maijury
+     📝 MailJury - Adversarial Multi-Agent Email Risk Courtroom & Autonomous Daemon (Mis…
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 viswakpullepu/mailjury
+     ⭐ 0  🗣 TypeScript  📅 2026-10-16
+     🔗 https://github.com/viswakpullepu/mailjury
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 JasonDacy/opentriage
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/JasonDacy/opentriage
+     📝 AI investigation assistant for SOC analysts, as a Chrome extension. Works in any…
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 barron-local/AntiMrBeast
+     ⭐ 0  🗣 C++  📅 2026-10-16
+     🔗 https://github.com/barron-local/AntiMrBeast
+     📝 Native Windows endpoint integrity inspection & threat remediation suite
+     🏷  cpp17, dfir, endpoint-defense, incident-response, threat-hunting, windows-security
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 shahariar344-creator/End-to-End-Incident_Response_lab
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/shahariar344-creator/End-to-End-Incident_Response_lab
+     📝 Completed incident response lab following NIST 800-61 framework
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 amitryedage/Cynbit_Project
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-16
+     🔗 https://github.com/amitryedage/Cynbit_Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 thiconickid/sharepoint-zero-day-cs50-cybersecurity
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity
+     📝 CS50 Cybersecurity Final Project - Analysis of CVE-2025-53770 SharePoint Zero-Da…
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 x0c0x/AI-SOC-Lab
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/x0c0x/AI-SOC-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 sifatnotes/Learn-SecByte-CTF-Labs-Collection-Metasploit-Framework-Active-Directory-Evasion-Mastery
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Collection-Metasploit-Framework-Active-Directory-Evasion-Mastery
+     📝 A curated collection of hands-on cybersecurity CTF labs covering the Metasploit …
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 OchePrince/shell-tube-hydrocarbon-cooler-design
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/OchePrince/shell-tube-hydrocarbon-cooler-design
+     📝 Shell-and-tube hydrocarbon cooler design: hand calculations and Aspen Plus/EDR v…
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 HaroldHara/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/HaroldHara/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 zawadzki64/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/zawadzki64/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 umendoza03/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/umendoza03/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 dianet55/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/dianet55/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 jahanzaib-147/jahanzaib-147
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/jahanzaib-147/jahanzaib-147
+     📝 ✨ Special repository: its ReadMe.md appears on https://github.com/jahanzaib-147 …
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 Carlosf7920/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/Carlosf7920/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 dhehdjebejen-beep/Bastion
+     ⭐ 1  🗣 Java  📅 2026-10-16
+     🔗 https://github.com/dhehdjebejen-beep/Bastion
+     📝 Server-side security suite for Minecraft Fabric 1.21.11, no client mod needed. B…
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 chevalier8760/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/chevalier8760/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 lorinam31611/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/lorinam31611/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 sifatnotes/Learn-SecByte-CTF-Labs-Collection-EDR-AV-Evasion-C2-Frameworks-Active-Directory-Attack-Chains
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Collection-EDR-AV-Evasion-C2-Frameworks-Active-Directory-Attack-Chains
+     📝 Learn SecByte CTF Labs Collection | EDR/AV Evasion, C2 Frameworks & Active Direc…
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 EgorovNikolay/SOC-analyst-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/EgorovNikolay/SOC-analyst-portfolio
+     📝 SOC analyst portfolio: incident investigations, SIEM, detection engineering and …
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 snavarro-soc/SOC-Investigation-Pyramid-of-Pain-Summit
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/snavarro-soc/SOC-Investigation-Pyramid-of-Pain-Summit
+     📝 Simulación de Caza de Amenazas y Respuesta con la Pirámide del Dolor, Reglas Sig…
+     🏷  —
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 shaheeryasirofficial/cuban-eight
+     ⭐ 5  🗣 C  📅 2026-10-16
+     🔗 https://github.com/shaheeryasirofficial/cuban-eight
+     📝 Cuban Eight is a red team tool that packages a Windows PE payload into a .wsl fi…
+     🏷  hacking, initial-access, programming, red-teaming, wsl-package
+[2026-10-16 20:36:53 UTC] [NEW]   🆕 📦 JosephAwana23/mirage-ward
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/JosephAwana23/mirage-ward
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-16 20:36:53 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-16 20:36:53 UTC] [UPD]   📢 📦 grumby42/dfir-trainers
+     ⭐ 0  🗣 HTML  📅 2026-10-16
+     🔗 https://github.com/grumby42/dfir-trainers
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 20:36:53 UTC] [UPD]   📢 📦 mikelmiras/vulkan_demo
+     ⭐ 0  🗣 C++  📅 2026-10-09
+     🔗 https://github.com/mikelmiras/vulkan_demo
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-16 20:36:53 UTC] [UPD]   📢 📦 teuntjemerkx/ultimatecoachboard
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/teuntjemerkx/ultimatecoachboard
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 20:36:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-16 20:36:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-16 20:36:55 UTC] [INFO]   → 23 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-16 20:36:55 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-16 20:36:55 UTC] [NEW]   🆕 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 5  🗣 Lua  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 PS5 firmware 14.10 kernel attack surface research - 62 Lua probes mapping syscal…
+     🏷  —
+[2026-10-16 20:36:55 UTC] [NEW]   🆕 📦 nick-buser/ephemeral-hpc
+     ⭐ 0  🗣 HCL  📅 2026-10-16
+     🔗 https://github.com/nick-buser/ephemeral-hpc
+     📝 Terraform-built, self-terminating Slurm cluster on AWS that Claude Science drive…
+     🏷  ai-agents, apptainer, aws, claude, distributed-training, esm2, github-actions, hpc, infrastructure-as-code, protein-language-models, pytorch, security, slurm, terraform
+[2026-10-16 20:36:55 UTC] [NEW]   🆕 📦 alexanderphilipp22-dot/Cordon
+     ⭐ 0  🗣 C#  📅 2026-10-16
+     🔗 https://github.com/alexanderphilipp22-dot/Cordon
+     📝 OS-level Zero-Trust sandbox and gateway for local AI agents on Windows.
+     🏷  —
+[2026-10-16 20:36:55 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-16 20:36:55 UTC] [UPD]   📢 📦 Wamphyre/wamphyre-autoloader
+     ⭐ 0  🗣 C  📅 2026-10-12
+     🔗 https://github.com/Wamphyre/wamphyre-autoloader
+     📝 PS5 Webkit Autoloader fork with more secure anti-crash measures. 
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-16 20:36:55 UTC] [UPD]   📢 📦 jixui666/sdgdfbfg
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/jixui666/sdgdfbfg
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-16 20:36:55 UTC] [INFO] ============================================================
+[2026-10-16 20:36:55 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
+[2026-10-16 20:36:55 UTC] [INFO] ============================================================
