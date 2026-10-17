@@ -113578,3 +113578,220 @@
 [2026-10-16 20:36:55 UTC] [INFO] ============================================================
 [2026-10-16 20:36:55 UTC] [INFO] Completato — 29 nuovi, 6 aggiornati, 0 errori
 [2026-10-16 20:36:55 UTC] [INFO] ============================================================
+[2026-10-17 03:24:46 UTC] [INFO] ============================================================
+[2026-10-17 03:24:46 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-17 03:24:46 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-17 03:24:46 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-17 03:24:46 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-17 03:24:46 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-17 03:24:46 UTC] [INFO] ============================================================
+[2026-10-17 03:24:46 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-17 03:24:46 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-17 03:24:47 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 03:24:47 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-17 03:24:47 UTC] [NEW]   🆕 📦 DamianMacancela/FinSecOps-EC
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/DamianMacancela/FinSecOps-EC
+     📝 Financial SOC Detection Engineering (KQL/Sentinel), Database Hardening, SOAR Tri…
+     🏷  banking-security, blue-team, cybersecurity, dfir, grc, iso27001, kql, microsoft-sentinel, secops, soar
+[2026-10-17 03:24:47 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-17 03:24:47 UTC] [UPD]   📢 📦 pq-cybarg/weak-intel
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/pq-cybarg/weak-intel
+     📝 Dual-use cyber / operator landscape map. Companion to pq-cybarg/bubble-map.
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-17 03:24:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-17 03:24:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-17 03:24:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 29 NUOVI repository:
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 newMalloc/WatchPlay
+     ⭐ 0  🗣 Kotlin  📅 2026-10-16
+     🔗 https://github.com/newMalloc/WatchPlay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 TahirMars/EdrEval-Sample-Factory
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/TahirMars/EdrEval-Sample-Factory
+     📝 面向 EDR / SOC BAS 的终端样本生成 Harness
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 cristianseverin/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/cristianseverin/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 cqkking/ricoh-gr4-hlg-mod
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/cqkking/ricoh-gr4-hlg-mod
+     📝 Ricoh GR IV Firmware Mod: In-Camera Out-of-Sensor BT.2100 HLG HDR Still Photogra…
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 xuegongziqin/AvEngine
+     ⭐ 1  🗣 YARA  📅 2026-10-17
+     🔗 https://github.com/xuegongziqin/AvEngine
+     📝 Py+C++实现的AI赋能杀毒软件
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 goodhosup/bluetooth
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/goodhosup/bluetooth
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 alefkaue/header-sentry
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/alefkaue/header-sentry
+     📝 AppSec | Auditoria offline de cabeçalhos HTTP com recomendações e relatórios JSO…
+     🏷  appsec, cybersecurity, http-headers, python, security-audit
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 alefkaue/integrity-guard
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/alefkaue/integrity-guard
+     📝 Blue Team | Monitoramento de integridade de arquivos com baseline SHA-256 em Pyt…
+     🏷  blue-team, cybersecurity, file-integrity-monitoring, python, sha256
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 alefkaue/ssh-watch
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/alefkaue/ssh-watch
+     📝 SOC | Detecção de rajadas de falhas SSH e correlação de login com evidências em …
+     🏷  blue-team, cybersecurity, log-analysis, python, soc, ssh
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 Mischief134/VoltPulse
+     ⭐ 0  🗣 Swift  📅 2026-10-16
+     🔗 https://github.com/Mischief134/VoltPulse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 mrn1234567/camera_tamper_detection
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-16
+     🔗 https://github.com/mrn1234567/camera_tamper_detection
+     📝 Camera tamper and occlusion detection based on image quality and edge informatio…
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 pauleprichna/cybersecurity
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/pauleprichna/cybersecurity
+     📝 Projet de Cybersécurité  (TP1 à TP9) Recherche réseau (Nmap, Scapy) • Attaques D…
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 sakurajh/md-workflow-manager
+     ⭐ 1  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/sakurajh/md-workflow-manager
+     📝 MD Workflow Manager - molecular dynamics simulation workflow manager: CHARMM-GUI…
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Reverse-Engineering
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/ishandutta2007/Awesome-Reverse-Engineering
+     📝 Top Reverse Engineering (Opensource)  Star if you like it! 
+     🏷  awesome-list, binary-analysis, curated-list, decompiler, disassembler, malware-analysis, reverse-engineering
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 h3fq/h3fq
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/h3fq/h3fq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 shiva-modugumudi/IncidentLens
+     ⭐ 1  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/shiva-modugumudi/IncidentLens
+     📝 An on-demand endpoint triage tool for collecting evidence, correlating suspiciou…
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 edrisasamoah434-art/edris-voice-
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/edrisasamoah434-art/edris-voice-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 SESINYI-LEO/ad-edr-project
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/SESINYI-LEO/ad-edr-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 fclaude/coigue
+     ⭐ 0  🗣 Rust  📅 2026-10-16
+     🔗 https://github.com/fclaude/coigue
+     📝 A small Rust terminal modal editor
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 Sanjay20-AS/AI-Powered-Cybersecurity-Threat-Detection
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Sanjay20-AS/AI-Powered-Cybersecurity-Threat-Detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 the-forbidden-knowledge/electron-blank-template
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/the-forbidden-knowledge/electron-blank-template
+     📝 Hardened Electron starter: empty window in ~0.23s, no loadURL. Executable securi…
+     🏷  boilerplate, desktop, electron, incident-response, javascript, pt-br, security, soc, template, threat-intelligence
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 snavarro-soc/Phishing-Malware-Execution-Sysmon
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/snavarro-soc/Phishing-Malware-Execution-Sysmon
+     📝 Investigación forense y trazabilidad de malware (Phishing) utilizando telemetría…
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 GorillaBrain/incidentkit-incident-response-planner
+     ⭐ 0  🗣 TypeScript  📅 2026-10-16
+     🔗 https://github.com/GorillaBrain/incidentkit-incident-response-planner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 Sgoriparthi21/sentinel-triage
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/Sgoriparthi21/sentinel-triage
+     📝 Hands-on learning experience with modern frameworks
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 susanpant7/it-support-fine-tuned-llama
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-16
+     🔗 https://github.com/susanpant7/it-support-fine-tuned-llama
+     📝 Fine tuned llama model for it support routing 
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 zzxcxc2/Sentinel
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/zzxcxc2/Sentinel
+     📝 A Python-based Windows security monitoring and incident response tool.
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 Zedocun/Zedocun
+     ⭐ 1  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/Zedocun/Zedocun
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 Z3RO4l/malware-simulation
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/Z3RO4l/malware-simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [NEW]   🆕 📦 GihanShavinda/PurpleLoop
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/GihanShavinda/PurpleLoop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 03:24:50 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-17 03:24:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-17 03:24:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-17 03:24:52 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 03:24:52 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-10-17 03:24:52 UTC] [NEW]   🆕 📦 Justyyin/zero-day-ios-27-jailbreak
+     ⭐ 2  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/Justyyin/zero-day-ios-27-jailbreak
+     📝 Zero Day Research
+     🏷  —
+[2026-10-17 03:24:52 UTC] [NEW]   🆕 📦 huangjiayyuan/ps5upload-ios
+     ⭐ 0  🗣 TypeScript  📅 2026-10-17
+     🔗 https://github.com/huangjiayyuan/ps5upload-ios
+     📝 PS5Upload (phantomptr/ps5upload v7.0.31) with an unsigned arm64 iOS IPA build ta…
+     🏷  —
+[2026-10-17 03:24:52 UTC] [NEW]   🆕 📦 Takusei/agent-harness-small
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/Takusei/agent-harness-small
+     📝 A small practice of buidling agent harness
+     🏷  —
+[2026-10-17 03:24:52 UTC] [NEW]   🆕 📦 SENeoV/ps4jb-delete_user
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/SENeoV/ps4jb-delete_user
+     📝 Mirror of https://gitee.com/delete_user/ps4jb.git
+     🏷  —
+[2026-10-17 03:24:52 UTC] [NEW]   🆕 📦 SENeoV/ps4jb-mirrors_trending
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/SENeoV/ps4jb-mirrors_trending
+     📝 Mirror of https://gitee.com/mirrors_trending/ps4jb.git
+     🏷  —
+[2026-10-17 03:24:52 UTC] [NEW]   🆕 📦 Sp1kkelpoes/schizo-host
+     ⭐ 0  🗣 JavaScript  📅 2026-10-16
+     🔗 https://github.com/Sp1kkelpoes/schizo-host
+     📝 (nessuna descrizione)
+     🏷  exploit, jailbreak, ps5, relapse
+[2026-10-17 03:24:52 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-17 03:24:52 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 36  🗣 Lua  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 PS5 firmware 14.10 kernel attack surface research - 62 Lua probes mapping syscal…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-17 03:24:52 UTC] [INFO] ============================================================
+[2026-10-17 03:24:52 UTC] [INFO] Completato — 36 nuovi, 2 aggiornati, 0 errori
+[2026-10-17 03:24:52 UTC] [INFO] ============================================================
