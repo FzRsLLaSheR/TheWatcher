@@ -113795,3 +113795,243 @@
 [2026-10-17 03:24:52 UTC] [INFO] ============================================================
 [2026-10-17 03:24:52 UTC] [INFO] Completato — 36 nuovi, 2 aggiornati, 0 errori
 [2026-10-17 03:24:52 UTC] [INFO] ============================================================
+[2026-10-17 10:17:08 UTC] [INFO] ============================================================
+[2026-10-17 10:17:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-17 10:17:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-17 10:17:08 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-17 10:17:08 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-17 10:17:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-17 10:17:08 UTC] [INFO] ============================================================
+[2026-10-17 10:17:08 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-17 10:17:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-17 10:17:10 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 10:17:10 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-17 10:17:10 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-17 10:17:10 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 214  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an autonomous reverse engineering system.
+     🏷  reverse-engineering
+     🔄 Motivo: nuovi topic: reverse-engineering
+[2026-10-17 10:17:10 UTC] [UPD]   📢 📦 danhowett/fx
+     ⭐ 0  🗣 Rust  📅 2026-10-15
+     🔗 https://github.com/danhowett/fx
+     📝 fx -  A GUI based Incident Response tool for hunting financially motivated threa…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-17 10:17:10 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-17 10:17:10 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-17 10:17:13 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 Johnson7824/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Johnson7824/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 Takumir6384/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Takumir6384/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 shubhxitachi-afk/itachiii
+     ⭐ 0  🗣 PowerShell  📅 2026-10-17
+     🔗 https://github.com/shubhxitachi-afk/itachiii
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 francesco89828/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/francesco89828/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 wbyuan030/lunarrisk
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/wbyuan030/lunarrisk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 johto89/ProxSharpChain
+     ⭐ 0  🗣 C#  📅 2026-10-17
+     🔗 https://github.com/johto89/ProxSharpChain
+     📝 Build multi-hop proxy chains, health-check proxies in parallel, and rotate them …
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 mehmetanastasiou10225/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/mehmetanastasiou10225/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 annamorris50/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/annamorris50/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 buraklefebvre/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/buraklefebvre/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 UACJ-MIAAD/antimarrulla-ibmz-datathon-2026
+     ⭐ 0  🗣 HTML  📅 2026-10-17
+     🔗 https://github.com/UACJ-MIAAD/antimarrulla-ibmz-datathon-2026
+     📝 Los Antimarrulla (UACJ · MIAAD) · IBM Z Datathon 2026 · Combatimos la flojera y …
+     🏷  datathon, ibm-z, linuxone, privacy-preserving-ml, uacj
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 nvnghiagit/SocHOME-LAB
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/nvnghiagit/SocHOME-LAB
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 XiaonianPu/InstaPunch-Bridge
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/XiaonianPu/InstaPunch-Bridge
+     📝 Bridging from SPP (Serial Port Profile) over BR/EDR (Classic Bluetooth) to GATT …
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 channallikrishnasai/proofline
+     ⭐ 1  🗣 Go  📅 2026-10-17
+     🔗 https://github.com/channallikrishnasai/proofline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 sapnadfir-blip/ghost-in-the-cache
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/sapnadfir-blip/ghost-in-the-cache
+     📝 The Ghost in the Cache: Forensic Carving of 'Deleted' LLM Chats, Unsubmitted Pro…
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 hexbrdn/hexbrdn
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/hexbrdn/hexbrdn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 BorisMartinez85/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/BorisMartinez85/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 Anders80050/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Anders80050/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 KawaNova/sg-drill-mastery
+     ⭐ 0  🗣 Kotlin  📅 2026-10-17
+     🔗 https://github.com/KawaNova/sg-drill-mastery
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 fenqiangchen9-commits/terminal-button-panel
+     ⭐ 0  🗣 PowerShell  📅 2026-10-17
+     🔗 https://github.com/fenqiangchen9-commits/terminal-button-panel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 Divith06/Cloud-Native-Zero-Trust-Identity-Access-Security-Platform
+     ⭐ 0  🗣 Go  📅 2026-10-17
+     🔗 https://github.com/Divith06/Cloud-Native-Zero-Trust-Identity-Access-Security-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 thehephaistos/underwatch
+     ⭐ 0  🗣 TypeScript  📅 2026-10-17
+     🔗 https://github.com/thehephaistos/underwatch
+     📝 Kernel Witness: independently observe AI coding agents, compare what they did wi…
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 onur3316/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/onur3316/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 MTABajwa/Key_Logger
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/MTABajwa/Key_Logger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 adrianjvasquez/Laboratorio_Respuesta_Incidentes
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/adrianjvasquez/Laboratorio_Respuesta_Incidentes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 LucasNF-Dev/ShieldLog-
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/LucasNF-Dev/ShieldLog-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 MrDreamReal/Eml-PhishScan-
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/MrDreamReal/Eml-PhishScan-
+     📝 Static Phishing Email Analysis & DFIR Triage Toolki
+     🏷  —
+[2026-10-17 10:17:13 UTC] [NEW]   🆕 📦 anukaprasad19-ops/anukaprasad19-ops
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/anukaprasad19-ops/anukaprasad19-ops
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:13 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-17 10:17:13 UTC] [UPD]   📢 📦 newMalloc/WatchPlay
+     ⭐ 0  🗣 Kotlin  📅 2026-10-16
+     🔗 https://github.com/newMalloc/WatchPlay
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-17 10:17:13 UTC] [UPD]   📢 📦 teuntjemerkx/ultimatecoachboard
+     ⭐ 0  🗣 TypeScript  📅 2026-10-16
+     🔗 https://github.com/teuntjemerkx/ultimatecoachboard
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-17 10:17:13 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-17 10:17:13 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-17 10:17:15 UTC] [INFO]   → 29 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 10 NUOVI repository:
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 barbaravieira14132/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/barbaravieira14132/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 waelbutler93749/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/waelbutler93749/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 JohnLefevre81383/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/JohnLefevre81383/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 TheRealRexo/ps5-linux-loader
+     ⭐ 0  🗣 C  📅 2026-10-17
+     🔗 https://github.com/TheRealRexo/ps5-linux-loader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 Dunn21139/Solstice
+     ⭐ 0  🗣 C  📅 2026-10-17
+     🔗 https://github.com/Dunn21139/Solstice
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 Shuhua60625/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/Shuhua60625/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 theycallsmekai-gif/hoskei
+     ⭐ 0  🗣 Swift  📅 2026-10-17
+     🔗 https://github.com/theycallsmekai-gif/hoskei
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 mParker3074/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/mParker3074/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 martini29/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/martini29/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-17 10:17:15 UTC] [NEW]   🆕 📦 Shuji70/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/Shuji70/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-17 10:17:15 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-17 10:17:15 UTC] [UPD]   📢 📦 Takusei/agent-harness-small
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/Takusei/agent-harness-small
+     📝 A small practice of buidling agent harness
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-17 10:17:15 UTC] [INFO] ============================================================
+[2026-10-17 10:17:15 UTC] [INFO] Completato — 37 nuovi, 5 aggiornati, 0 errori
+[2026-10-17 10:17:15 UTC] [INFO] ============================================================
