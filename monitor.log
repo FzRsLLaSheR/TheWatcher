@@ -114035,3 +114035,206 @@
 [2026-10-17 10:17:15 UTC] [INFO] ============================================================
 [2026-10-17 10:17:15 UTC] [INFO] Completato — 37 nuovi, 5 aggiornati, 0 errori
 [2026-10-17 10:17:15 UTC] [INFO] ============================================================
+[2026-10-17 15:08:28 UTC] [INFO] ============================================================
+[2026-10-17 15:08:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-17 15:08:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-17 15:08:28 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-17 15:08:28 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-17 15:08:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-17 15:08:28 UTC] [INFO] ============================================================
+[2026-10-17 15:08:28 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-17 15:08:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-17 15:08:30 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 15:08:30 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-17 15:08:30 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-17 15:08:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-17 15:08:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-17 15:08:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 0xKuraishY/rssi-simulator
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/0xKuraishY/rssi-simulator
+     📝 Incarnez le RSSI d'une organisation pendant 3 ans. EBIOS RM, budget, RGPD, NIS2,…
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 webneco/claimproof
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/webneco/claimproof
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 7r13x3/Tryguard
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/7r13x3/Tryguard
+     📝 Real time security monitoring and automated defense against file encryption.
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 vishnutg14/cMD-GaMD-in-Gromacs
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/vishnutg14/cMD-GaMD-in-Gromacs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 DevNullAlligator/DevNullAlligator
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/DevNullAlligator/DevNullAlligator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 Jose-cyber-hub/quantia-pay-incident-response
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Jose-cyber-hub/quantia-pay-incident-response
+     📝 Full incident response lab: declaring, containing (EDR isolation + /32 firewall …
+     🏷  blue-team, cybersecurity, digital-forensics, edr, incident-response, soc
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 Jose-cyber-hub/northbay-alert-correlation
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Jose-cyber-hub/northbay-alert-correlation
+     📝 SOC lab: five weekend alerts closed as false positives, correlated into one time…
+     🏷  alert-triage, cybersecurity, incident-response, log-correlation, soc, timeline-analysis
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 krishnavarshith21-co/ThreatGraph-AI-Visual-Functional-Transformation-Report
+     ⭐ 0  🗣 TypeScript  📅 2026-10-17
+     🔗 https://github.com/krishnavarshith21-co/ThreatGraph-AI-Visual-Functional-Transformation-Report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 phajj/Car-Accident-Analysis
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/phajj/Car-Accident-Analysis
+     📝 Modeling and Simulation project analyzing car accidents. 
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 wersedev0/idasys
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/wersedev0/idasys
+     📝 ⚡ Automated Windows Kernel Driver (.sys) reverse engineering & vulnerability tri…
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 bsir9011-aew/cyber-fortress
+     ⭐ 0  🗣 TypeScript  📅 2026-10-16
+     🔗 https://github.com/bsir9011-aew/cyber-fortress
+     📝 FORTRESS LAB - A cybersecurity strategy game and IT infrastructure simulator. Bu…
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 vivin-rbs/Cybus
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/vivin-rbs/Cybus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 Frkn97/SOC-Incident-Response-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Frkn97/SOC-Incident-Response-Portfolio
+     📝 Curated Incident Response & DFIR case studies covering end-to-end cyber kill cha…
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 Hemesh1211/edr-sentinel
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/Hemesh1211/edr-sentinel
+     📝 A Python-based Endpoint Detection and Response (EDR) simulation with process mon…
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 ph-rui/ser2net-consolehub
+     ⭐ 0  🗣 PowerShell  📅 2026-10-17
+     🔗 https://github.com/ph-rui/ser2net-consolehub
+     📝 USB serial console hub: Windows ser2net bridge with dynamic device registry + wa…
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 Scafo745/Zero-Day
+     ⭐ 1  🗣 TypeScript  📅 2026-10-17
+     🔗 https://github.com/Scafo745/Zero-Day
+     📝 This is a project to prevent and lowers the threats the zero day attacks .......…
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 drbright399/octo
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/drbright399/octo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 haniyaabdulgani27-hash/Kerberos-Delegation-Abuse
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/haniyaabdulgani27-hash/Kerberos-Delegation-Abuse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 nohosa001-pixel/geo-oracle-x402
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/nohosa001-pixel/geo-oracle-x402
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 Dharmik-0713/Incident-Response-SOC-Analysis-Case-Study
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Dharmik-0713/Incident-Response-SOC-Analysis-Case-Study
+     📝 This repository contains a simulated Incident Response report detailing the dete…
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 fildo88/secops-dashboards-as-code
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/fildo88/secops-dashboards-as-code
+     📝 secops-dashboards-as-code
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 KWAKMUSUNG/wazuh-soc-mini-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-17
+     🔗 https://github.com/KWAKMUSUNG/wazuh-soc-mini-lab
+     📝 Wazuh 4.14.9 SOC mini lab with custom detections and incident reports
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 Phoebe2912/gmpe-weighting-taiwan
+     ⭐ 0  🗣 R  📅 2026-10-17
+     🔗 https://github.com/Phoebe2912/gmpe-weighting-taiwan
+     📝 Data-driven GMPE weighting for seismic hazard analysis in Taiwan (LLH, EDR, SP).
+     🏷  —
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 bartosz249/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/bartosz249/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 DeniseHuang78/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/DeniseHuang78/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-17 15:08:33 UTC] [NEW]   🆕 📦 Andersson7682/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Andersson7682/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-17 15:08:33 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-17 15:08:33 UTC] [UPD]   📢 📦 BlueSkyGuardian/atc-sim
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/BlueSkyGuardian/atc-sim
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-17 15:08:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-17 15:08:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-17 15:08:35 UTC] [INFO]   → 35 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 15:08:35 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-10-17 15:08:35 UTC] [NEW]   🆕 📦 jixui666/dfgdbcvbfd
+     ⭐ 0  🗣 Swift  📅 2026-10-17
+     🔗 https://github.com/jixui666/dfgdbcvbfd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:35 UTC] [NEW]   🆕 📦 TequilaDash/pl-7q3k9m
+     ⭐ 0  🗣 Objective-C  📅 2026-10-17
+     🔗 https://github.com/TequilaDash/pl-7q3k9m
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 15:08:35 UTC] [NEW]   🆕 📦 elvijslan-stack/due-diligence-analyst
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/elvijslan-stack/due-diligence-analyst
+     📝 Autonomous multi-agent financial & legal due diligence engine powered by LangGra…
+     🏷  —
+[2026-10-17 15:08:35 UTC] [NEW]   🆕 📦 totsiaw/cve-2026-64560-rmx6699
+     ⭐ 0  🗣 C  📅 2026-10-17
+     🔗 https://github.com/totsiaw/cve-2026-64560-rmx6699
+     📝 CVE-2026-64560 temporary-root exploit for realme RMX6699 (Snapdragon 8 Elite, ke…
+     🏷  —
+[2026-10-17 15:08:35 UTC] [NEW]   🆕 📦 Scafo745/Zero-Day
+     ⭐ 1  🗣 TypeScript  📅 2026-10-17
+     🔗 https://github.com/Scafo745/Zero-Day
+     📝 This is a project to prevent and lowers the threats the zero day attacks .......…
+     🏷  —
+[2026-10-17 15:08:35 UTC] [NEW]   🆕 📦 klee-devs/android_fenrir
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/klee-devs/android_fenrir
+     📝 fenrir for POCO X8 Pro / REDMI Turbo 5 (klee)
+     🏷  —
+[2026-10-17 15:08:35 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-17 15:08:35 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 73  🗣 Lua  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 PS5 firmware 14.10 kernel attack surface research - 62 Lua probes mapping syscal…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-17 15:08:35 UTC] [UPD]   📢 📦 TheRealRexo/ps5-linux-loader
+     ⭐ 0  🗣 C  📅 2026-10-17
+     🔗 https://github.com/TheRealRexo/ps5-linux-loader
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-17 15:08:35 UTC] [INFO] ============================================================
+[2026-10-17 15:08:35 UTC] [INFO] Completato — 32 nuovi, 3 aggiornati, 0 errori
+[2026-10-17 15:08:35 UTC] [INFO] ============================================================
