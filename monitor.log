@@ -114238,3 +114238,202 @@
 [2026-10-17 15:08:35 UTC] [INFO] ============================================================
 [2026-10-17 15:08:35 UTC] [INFO] Completato — 32 nuovi, 3 aggiornati, 0 errori
 [2026-10-17 15:08:35 UTC] [INFO] ============================================================
+[2026-10-17 20:15:43 UTC] [INFO] ============================================================
+[2026-10-17 20:15:43 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-17 20:15:43 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-17 20:15:43 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-17 20:15:43 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-17 20:15:43 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-17 20:15:43 UTC] [INFO] ============================================================
+[2026-10-17 20:15:43 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-17 20:15:43 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-17 20:15:45 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 20:15:45 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-17 20:15:45 UTC] [NEW]   🆕 📦 Lilnyx-exe/Lilnyx-Detection
+     ⭐ 0  🗣 C++  📅 2026-10-17
+     🔗 https://github.com/Lilnyx-exe/Lilnyx-Detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:45 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-17 20:15:45 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-17 20:15:45 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-17 20:15:47 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 MHT-LAB/soc-platform
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/MHT-LAB/soc-platform
+     📝 AI-assisted SOC a small MSSP can afford to run
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 Aegean-E/cyberpulse
+     ⭐ 1  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/Aegean-E/cyberpulse
+     📝 CyberPulse is a retro-cyberpunk terminal hacking simulation game with procedural…
+     🏷  cyberpunk, hacking-game, procedural, python, retro, simulation, terminal-game
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 AlekseiGrigorev/dwh
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/AlekseiGrigorev/dwh
+     📝 The project includes a test container infrastructure for testing the implementat…
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 HarshSarnaik/NEO_FRONTIER
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/HarshSarnaik/NEO_FRONTIER
+     📝 A APT Agentic AI Hunting Place
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 IreneN-V/vlan-lan-visualizer
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/IreneN-V/vlan-lan-visualizer
+     📝 Interactive packet walkthrough from laptop to internet: VLANs, NAT, DNS, TLS 1.3…
+     🏷  cybersecurity, network-security, networking, osi-model, react, security-plus, svg, vlan
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 drnop/cyberattacklab
+     ⭐ 0  🗣 N/A  📅 2026-10-16
+     🔗 https://github.com/drnop/cyberattacklab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 joachimgrobbelaar/esp32-power-dns-adblocker
+     ⭐ 0  🗣 C++  📅 2026-10-17
+     🔗 https://github.com/joachimgrobbelaar/esp32-power-dns-adblocker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 IreneN-V/security-architecture-onion
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/IreneN-V/security-architecture-onion
+     📝 Interactive defense-in-depth model: 12 security layers, attack path simulation, …
+     🏷  cybersecurity, defense-in-depth, mitre-attack, react, security-architecture, security-plus, svg
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 Akopmm/candela
+     ⭐ 0  🗣 Swift  📅 2026-10-17
+     🔗 https://github.com/Akopmm/candela
+     📝 Jellyfin client for macOS: direct play in real HDR with Dolby Vision metadata an…
+     🏷  dolby-vision, hdr, jellyfin, libplacebo, macos, mpv, spatial-audio, swiftui
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 codinja19/PhantomPort
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/codinja19/PhantomPort
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 Jackon-Li/CyberSecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/Jackon-Li/CyberSecurity-Skills
+     📝 网络安全技能库：820 个面向 AI 助手的技能，34 个分类，覆盖渗透/红队、检测响应、取证、云原生、合规治理全链条。含统一索引 index.json 与查询…
+     🏷  ai-agent, blue-team, claude-skill, cybersecurity, digital-forensics, incident-response, penetration-testing, red-team, security-automation, security-skills, skill-library, threat-hunting
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 toklas495/hark
+     ⭐ 0  🗣 Go  📅 2026-10-17
+     🔗 https://github.com/toklas495/hark
+     📝 hark passively captures browser API traffic without a proxy or CA certificate, t…
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 carlmasters02/ai-wargame
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/carlmasters02/ai-wargame
+     📝 Two LLM agents wage a live cyberwar on a Neo4j graph: a DeepSeek red team hunts …
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 kelsonbrito50/kelsonbrito50
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/kelsonbrito50/kelsonbrito50
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 cfaulk37/cve-risk-analyzer
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/cfaulk37/cve-risk-analyzer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 RadiantCpp/Alice-18th-Cracked
+     ⭐ 0  🗣 Java  📅 2026-10-17
+     🔗 https://github.com/RadiantCpp/Alice-18th-Cracked
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 allanloplus/CTI
+     ⭐ 0  🗣 HTML  📅 2026-10-17
+     🔗 https://github.com/allanloplus/CTI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 kelsonbrito50/azure-cloud-soc-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/kelsonbrito50/azure-cloud-soc-lab
+     📝 Low-cost SOC in Azure: Microsoft Sentinel (SIEM) + Defender for Endpoint (EDR), …
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 kerorry/Power
+     ⭐ 0  🗣 C  📅 2026-10-17
+     🔗 https://github.com/kerorry/Power
+     📝 权限工具箱
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 pedro48679/hand_car
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/pedro48679/hand_car
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 Elaktyl/cratoni-smartride-remote
+     ⭐ 0  🗣 Kotlin  📅 2026-10-17
+     🔗 https://github.com/Elaktyl/cratoni-smartride-remote
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 NinKanong/Phish-Hunter
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/NinKanong/Phish-Hunter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 mucaiovo/mucai-terminal
+     ⭐ 0  🗣 PowerShell  📅 2026-10-17
+     🔗 https://github.com/mucaiovo/mucai-terminal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 green-lab-hms/rigsync
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/green-lab-hms/rigsync
+     📝 Tool for syncing data to servers.
+     🏷  —
+[2026-10-17 20:15:47 UTC] [NEW]   🆕 📦 puzuka/cyber-skills
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/puzuka/cyber-skills
+     📝 The Progressive-Disclosure Cybersecurity Skill Suite for Autonomous AI Agents (1…
+     🏷  —
+[2026-10-17 20:15:47 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-17 20:15:47 UTC] [UPD]   📢 📦 huayanming/displaypilot
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/huayanming/displaypilot
+     📝 DisplayPilot — a macOS console for external displays: brightness, colour calibra…
+     🏷  brightness, color-calibration, ddc-ci, display, display-brightness, display-calibration, external-monitor, gamma, hidpi, macos, macos-app, monitor-brightness, monitor-control, swift, swiftui
+     🔄 Motivo: repo recente (2gg)
+[2026-10-17 20:15:47 UTC] [UPD]   📢 📦 BlueSkyGuardian/atc-sim
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/BlueSkyGuardian/atc-sim
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-17 20:15:47 UTC] [UPD]   📢 📦 bsir9011-aew/cyber-fortress
+     ⭐ 0  🗣 TypeScript  📅 2026-10-16
+     🔗 https://github.com/bsir9011-aew/cyber-fortress
+     📝 FORTRESS LAB - A cybersecurity strategy game and IT infrastructure simulator. Bu…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-17 20:15:47 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-17 20:15:47 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-17 20:15:49 UTC] [INFO]   → 37 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-17 20:15:49 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-17 20:15:49 UTC] [NEW]   🆕 📦 tobiasGuta/firmware-researcher
+     ⭐ 0  🗣 Go  📅 2026-10-17
+     🔗 https://github.com/tobiasGuta/firmware-researcher
+     📝 AI-assisted firmware vulnerability research with evidence-driven static analysis…
+     🏷  —
+[2026-10-17 20:15:49 UTC] [NEW]   🆕 📦 sifatnotes/Learn-SecByte-CTF-Labs-Collection-Web-Security-Active-Directory-PrivEsc-Metasploit
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Collection-Web-Security-Active-Directory-PrivEsc-Metasploit
+     📝 A curated collection of hands-on cybersecurity CTF labs covering Burp Suite Esse…
+     🏷  —
+[2026-10-17 20:15:49 UTC] [NEW]   🆕 📦 lamine5656/ps5-Y2jb
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/lamine5656/ps5-Y2jb
+     📝 ps5-y2jb-autoloader
+     🏷  —
+[2026-10-17 20:15:49 UTC] [NEW]   🆕 📦 puzuka/cyber-skills
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/puzuka/cyber-skills
+     📝 The Progressive-Disclosure Cybersecurity Skill Suite for Autonomous AI Agents (1…
+     🏷  —
+[2026-10-17 20:15:49 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-17 20:15:49 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 84  🗣 Lua  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 PS5 firmware 14.10 kernel attack surface research - 62 Lua probes mapping syscal…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-17 20:15:49 UTC] [INFO] ============================================================
+[2026-10-17 20:15:49 UTC] [INFO] Completato — 30 nuovi, 4 aggiornati, 0 errori
+[2026-10-17 20:15:49 UTC] [INFO] ============================================================
