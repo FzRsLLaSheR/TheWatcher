@@ -115079,3 +115079,231 @@
 [2026-10-18 15:31:05 UTC] [INFO] ============================================================
 [2026-10-18 15:31:05 UTC] [INFO] Completato — 22 nuovi, 7 aggiornati, 0 errori
 [2026-10-18 15:31:05 UTC] [INFO] ============================================================
+[2026-10-18 20:14:01 UTC] [INFO] ============================================================
+[2026-10-18 20:14:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-18 20:14:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-18 20:14:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-18 20:14:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-18 20:14:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-18 20:14:01 UTC] [INFO] ============================================================
+[2026-10-18 20:14:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-18 20:14:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-18 20:14:02 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 20:14:02 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-18 20:14:02 UTC] [NEW]   🆕 📦 asegerno/WinARK_by_ase
+     ⭐ 0  🗣 C  📅 2026-10-18
+     🔗 https://github.com/asegerno/WinARK_by_ase
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:02 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-18 20:14:02 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 222  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an autonomous reverse engineering system.
+     🏷  ablation, binary-analysis, call-graph-analysis, claude-code, decompiler, disassembler, ecu, elf-analysis, firmware-analysis, loongarch64, malware-analysis, nanomips, ppc64, reverse-engineering, static-analysis, stripped-binary, taint-analysis
+     🔄 Motivo: nuovi topic: disassembler, ablation, nanomips, firmware-analysis, ppc64, static-analysis, claude-code, decompiler, taint-analysis, malware-analysis, loongarch64, stripped-binary, call-graph-analysis, elf-analysis, ecu, binary-analysis
+[2026-10-18 20:14:02 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-18 20:14:02 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-18 20:14:05 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 rozumeyroman/CyberPlain
+     ⭐ 0  🗣 HTML  📅 2026-10-18
+     🔗 https://github.com/rozumeyroman/CyberPlain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 stav-edri/stav-edri.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-18
+     🔗 https://github.com/stav-edri/stav-edri.github.io
+     📝 Personal Webpage
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 adamvalves/uefi-tcg-measured-boot-replay
+     ⭐ 0  🗣 Rust  📅 2026-10-18
+     🔗 https://github.com/adamvalves/uefi-tcg-measured-boot-replay
+     📝 Bare-metal UEFI architecture demonstrating TPM 2.0 Measured Boot state reconstru…
+     🏷  boot-guard, crb, measured-boot, mok, secure-boot, security-research, tcg, tpm2, uefi, x86-64
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 gabrijel09/soc-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/gabrijel09/soc-home-lab
+     📝 Beginner SOC home lab using Splunk, Windows, Sysmon, and Kali Linux.
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 wizardy0ga/Frogger
+     ⭐ 0  🗣 C  📅 2026-10-18
+     🔗 https://github.com/wizardy0ga/Frogger
+     📝 A patchless Antimalware Scan Interface bypass, targeting the AmsiScanBuffer func…
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 amirag7636/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/amirag7636/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 MCampoli/Projekt-bezpiecze-stwa-firmy-logistycznej
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/MCampoli/Projekt-bezpiecze-stwa-firmy-logistycznej
+     📝 Projekt CyberTrans obejmuje analizę i ocenę cyberbezpieczeństwa fikcyjnej firmy …
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 Dangb729/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/Dangb729/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 williammorgansgrokbot/agent-run
+     ⭐ 0  🗣 C++  📅 2026-10-18
+     🔗 https://github.com/williammorgansgrokbot/agent-run
+     📝 Isometric spy-car game for the 4" ESP32 CYD (Bluepad32) + Nintendo DS port + 3D-…
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 mshamsur-rahman/mshamsur-rahman.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-18
+     🔗 https://github.com/mshamsur-rahman/mshamsur-rahman.github.io
+     📝 Online resume of MD Shamsur Rahman - GRC and Cybersecurity Anal
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 Bare009/cyberforge_ai-soc
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/Bare009/cyberforge_ai-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 ahmadrazakhalil321-rgb/Ethical-Hackers-assistent
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/ahmadrazakhalil321-rgb/Ethical-Hackers-assistent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 AlgoKnight21/IncidentZero
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/AlgoKnight21/IncidentZero
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 visionxma/ciberatlas
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/visionxma/ciberatlas
+     📝 Atlas aberto e vivo de cibersegurança defensiva, em português e inglês. Re-medid…
+     🏷  awesome-list, blue-team, ciberseguranca, cis-controls, cybersecurity, d3fend, defensive-security, infosec, lgpd, nist-csf, open-data, portuguese, security, security-tools
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 Jhey97/nexus-core
+     ⭐ 0  🗣 HTML  📅 2026-10-18
+     🔗 https://github.com/Jhey97/nexus-core
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 shivam250812/AssureSOC
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/shivam250812/AssureSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 alabhya-git/CyberForge
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/alabhya-git/CyberForge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 bravehawk19852/edru
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/bravehawk19852/edru
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 adam-bouchiba/CobaltGuard
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/adam-bouchiba/CobaltGuard
+     📝 An open-source Windows security auditing and suspicious file detection tool buil…
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 upadhyayprakash/hdr-brightness-a11y
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/upadhyayprakash/hdr-brightness-a11y
+     📝 A proposal for a user preference, like prefers-reduced-motion, to limit HDR brig…
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 spearschristopher8/edrrwb
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/spearschristopher8/edrrwb
+     📝 Daily digest notes
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 arn-aud/lapin-orange
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/arn-aud/lapin-orange
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 v15hnuk05ur1/Cyberforge
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/v15hnuk05ur1/Cyberforge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 wservices/agent-incident-responder
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/wservices/agent-incident-responder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 SmartSan/Sentinel-Flow
+     ⭐ 0  🗣 TypeScript  📅 2026-10-18
+     🔗 https://github.com/SmartSan/Sentinel-Flow
+     📝 AI builder cup
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 buguenocesar92/spaudit-corregido
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/buguenocesar92/spaudit-corregido
+     📝 Auditoría de cumplimiento y ciberseguridad contra el manual del colegio
+     🏷  —
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 minniecastillo92/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/minniecastillo92/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 20:14:05 UTC] [NEW]   🆕 📦 C2mrT/PoCs_Doklad_EDR
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/C2mrT/PoCs_Doklad_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 20:14:05 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-18 20:14:05 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-18 20:14:05 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-18 20:14:07 UTC] [INFO]   → 43 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 20:14:07 UTC] [NEW]   🆕 8 NUOVI repository:
+[2026-10-18 20:14:07 UTC] [NEW]   🆕 📦 VladimirTorres333/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-18
+     🔗 https://github.com/VladimirTorres333/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-18 20:14:07 UTC] [NEW]   🆕 📦 a7md-as/Dev-exploit-learn
+     ⭐ 0  🗣 C  📅 2026-10-18
+     🔗 https://github.com/a7md-as/Dev-exploit-learn
+     📝 PoC d'exploitation kernel Windows sur HEVD — Stack Buffer Overflow. Analyse Ghid…
+     🏷  —
+[2026-10-18 20:14:07 UTC] [NEW]   🆕 📦 HorstHakansson331/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-18
+     🔗 https://github.com/HorstHakansson331/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-18 20:14:07 UTC] [NEW]   🆕 📦 SergioPopov9044/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-18
+     🔗 https://github.com/SergioPopov9044/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-18 20:14:07 UTC] [NEW]   🆕 📦 nomadops88/darksword-rce-working
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/nomadops88/darksword-rce-working
+     📝 DarkSword Red Team Working Framework 
+     🏷  —
+[2026-10-18 20:14:07 UTC] [NEW]   🆕 📦 ConnorDev1337/agent-sandbox
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/ConnorDev1337/agent-sandbox
+     📝 Hardened sandbox for LLM agents (seccomp + read-only root filesystem); outbound …
+     🏷  —
+[2026-10-18 20:14:07 UTC] [NEW]   🆕 📦 TheRealRexo/ps5-linux-loader-13.60
+     ⭐ 0  🗣 C  📅 2026-10-18
+     🔗 https://github.com/TheRealRexo/ps5-linux-loader-13.60
+     📝 13.60-only fork of ps5-linux-loader: defeats the PS5 hypervisor on firmware 13.6…
+     🏷  —
+[2026-10-18 20:14:07 UTC] [NEW]   🆕 📦 nSchneider7603/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-18
+     🔗 https://github.com/nSchneider7603/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-18 20:14:07 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-18 20:14:07 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 154  🗣 Assembly  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 Open PS5 firmware 14.10 research: Lua userland experiments, syscall and attack-s…
+     🏷  ps5, ps5-homebrew, ps5-jailbreak, ps5-tools
+     🔄 Motivo: repo recente (2gg)
+[2026-10-18 20:14:07 UTC] [UPD]   📢 📦 Essyekky32/pyre-ps5
+     ⭐ 1  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/Essyekky32/pyre-ps5
+     📝 PS5 jailbreak made simple: the local self-host route, reskinned and turned into …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-18 20:14:07 UTC] [INFO] ============================================================
+[2026-10-18 20:14:07 UTC] [INFO] Completato — 37 nuovi, 3 aggiornati, 0 errori
+[2026-10-18 20:14:07 UTC] [INFO] ============================================================
