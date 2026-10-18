@@ -114902,3 +114902,180 @@
 [2026-10-18 10:32:59 UTC] [INFO] ============================================================
 [2026-10-18 10:32:59 UTC] [INFO] Completato — 45 nuovi, 2 aggiornati, 0 errori
 [2026-10-18 10:32:59 UTC] [INFO] ============================================================
+[2026-10-18 15:30:57 UTC] [INFO] ============================================================
+[2026-10-18 15:30:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-18 15:30:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-18 15:30:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-18 15:30:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-18 15:30:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-18 15:30:57 UTC] [INFO] ============================================================
+[2026-10-18 15:30:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-18 15:30:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-18 15:30:59 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 15:30:59 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-18 15:30:59 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-18 15:30:59 UTC] [UPD]   📢 📦 mistrustt/ADIOLottery
+     ⭐ 0  🗣 C  📅 2026-10-18
+     🔗 https://github.com/mistrustt/ADIOLottery
+     📝 AmdTools64 BYOVD Local Kernel Privilege Escalation PoC 1.7.16.218
+     🏷  byovd, exploit, exploit-code, exploit-kit, exploitation, kernel, kernel-driver, poc, proof-of-concept, vulnerable-driver, vulnerable-drivers
+     🔄 Motivo: repo recente (0gg)
+[2026-10-18 15:30:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-18 15:30:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-18 15:31:02 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 18 NUOVI repository:
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 Provereno-Media/OSINT-Tools-Ukraine
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/Provereno-Media/OSINT-Tools-Ukraine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 secu-researchers/EDR-Lite
+     ⭐ 0  🗣 Rust  📅 2026-10-18
+     🔗 https://github.com/secu-researchers/EDR-Lite
+     📝 악성코드 VM에 넣을 EDR 로그수집 프로그램
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 tawhidurrahmanEnce/SAFE
+     ⭐ 0  🗣 Go  📅 2026-10-18
+     🔗 https://github.com/tawhidurrahmanEnce/SAFE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 p920750/OmniMemSOC
+     ⭐ 0  🗣 TypeScript  📅 2026-10-17
+     🔗 https://github.com/p920750/OmniMemSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 SriRamkunamsetty/CyberEval
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/SriRamkunamsetty/CyberEval
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 AstorBeon/edrum_bonanza
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/AstorBeon/edrum_bonanza
+     📝 Simple software to record, enhance and play around with edrum kit
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 Potri2357/BookEnd
+     ⭐ 0  🗣 TypeScript  📅 2026-10-18
+     🔗 https://github.com/Potri2357/BookEnd
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 rohanjain1648/drishti
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/rohanjain1648/drishti
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 Maharshi-fyuf/nebius-hackathon
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/Maharshi-fyuf/nebius-hackathon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 tranhii00/motobike_blackbox_aiot
+     ⭐ 0  🗣 HTML  📅 2026-10-18
+     🔗 https://github.com/tranhii00/motobike_blackbox_aiot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 VelkaRepo/cmd-unmask
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/VelkaRepo/cmd-unmask
+     📝 Static command-line de-obfuscation and behavioral triage framework for SOC analy…
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 AIeksandr0/AIeksandr0
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/AIeksandr0/AIeksandr0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 Moinuddin-Mulla-29/AI-Based-NIDS
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/Moinuddin-Mulla-29/AI-Based-NIDS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 AIeksandr0/C2-HTTPS
+     ⭐ 1  🗣 C++  📅 2026-10-18
+     🔗 https://github.com/AIeksandr0/C2-HTTPS
+     📝 Command-and-control framework over HTTPS. Three binaries and a shared protocol l…
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 AbhangMandwale/Infostealer-Malware-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/AbhangMandwale/Infostealer-Malware-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 ihavenoram/bmc-discovery
+     ⭐ 0  🗣 PowerShell  📅 2026-10-18
+     🔗 https://github.com/ihavenoram/bmc-discovery
+     📝 PowerShell 5.1 GUI that finds a server's iDRAC, iLO, XCC or IPMI address over a …
+     🏷  bmc, idrac, ilo, ipmi, msp, powershell, redfish, server, winforms
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 devavrat10/PCI-DSS-Network-segmentation-review
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/devavrat10/PCI-DSS-Network-segmentation-review
+     📝 GRC portfolio project: PCI DSS segmentation and scoping review with findings, a …
+     🏷  —
+[2026-10-18 15:31:02 UTC] [NEW]   🆕 📦 Nensi5/gufetto
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/Nensi5/gufetto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 15:31:02 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-18 15:31:02 UTC] [UPD]   📢 📦 huayanming/displaypilot
+     ⭐ 0  🗣 HTML  📅 2026-10-15
+     🔗 https://github.com/huayanming/displaypilot
+     📝 DisplayPilot — a macOS console for external displays: brightness, colour calibra…
+     🏷  brightness, color-calibration, ddc-ci, display, display-brightness, display-calibration, external-monitor, gamma, hidpi, macos, macos-app, monitor-brightness, monitor-control, swift, swiftui
+     🔄 Motivo: repo recente (2gg)
+[2026-10-18 15:31:02 UTC] [UPD]   📢 📦 SingularityRD/autosecops2
+     ⭐ 0  🗣 Python  📅 2026-10-11
+     🔗 https://github.com/SingularityRD/autosecops2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-18 15:31:02 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-18 15:31:02 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-18 15:31:05 UTC] [INFO]   → 36 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 15:31:05 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-18 15:31:05 UTC] [NEW]   🆕 📦 Sebastian197/skill-preinstall-review
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/Sebastian197/skill-preinstall-review
+     📝 Review third-party agent skills and plugins in a locked Docker sandbox before in…
+     🏷  agent-skills, claude-code, claude-code-plugin, docker, sandbox, supply-chain-security
+[2026-10-18 15:31:05 UTC] [NEW]   🆕 📦 xgfhh0x11/DICTIONARYlowlevel
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/xgfhh0x11/DICTIONARYlowlevel
+     📝 A source-backed encyclopedia of low-level security techniques — public defensive…
+     🏷  —
+[2026-10-18 15:31:05 UTC] [NEW]   🆕 📦 mariusangelmann/zte-g5ts-privilege-escalation
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/mariusangelmann/zte-g5ts-privilege-escalation
+     📝 PoC: authenticated admin web session to root on the ZTE G5TS (firmware BD_MEDGEG…
+     🏷  cgi-io, embedded-linux, firmware, g5ts, openwrt, post-auth-rce, privilege-escalation, proof-of-concept, router, security-research, ubus, vulnerability, zte
+[2026-10-18 15:31:05 UTC] [NEW]   🆕 📦 ioritz1993/Write_It_UP
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/ioritz1993/Write_It_UP
+     📝 My write-up for every labs and challenges
+     🏷  —
+[2026-10-18 15:31:05 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-18 15:31:05 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 131  🗣 Assembly  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 PS5 firmware 14.10 kernel attack surface research - 62 Lua probes mapping syscal…
+     🏷  ps5, ps5-homebrew, ps5-jailbreak, ps5-tools
+     🔄 Motivo: repo recente (2gg)
+[2026-10-18 15:31:05 UTC] [UPD]   📢 📦 Essyekky32/pyre-ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/Essyekky32/pyre-ps5
+     📝 PS5 jailbreak made simple: the local self-host route, reskinned and turned into …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-18 15:31:05 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-V13.60-Research
+     ⭐ 7  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/ZigZagBoi1/PS5-V13.60-Research
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-18 15:31:05 UTC] [UPD]   📢 📦 RNG999/hanare
+     ⭐ 0  🗣 Go  📅 2026-10-18
+     🔗 https://github.com/RNG999/hanare
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-18 15:31:05 UTC] [INFO] ============================================================
+[2026-10-18 15:31:05 UTC] [INFO] Completato — 22 nuovi, 7 aggiornati, 0 errori
+[2026-10-18 15:31:05 UTC] [INFO] ============================================================
