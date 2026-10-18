@@ -114437,3 +114437,206 @@
 [2026-10-17 20:15:49 UTC] [INFO] ============================================================
 [2026-10-17 20:15:49 UTC] [INFO] Completato — 30 nuovi, 4 aggiornati, 0 errori
 [2026-10-17 20:15:49 UTC] [INFO] ============================================================
+[2026-10-18 03:30:59 UTC] [INFO] ============================================================
+[2026-10-18 03:30:59 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-18 03:30:59 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-18 03:30:59 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-18 03:30:59 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-18 03:30:59 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-18 03:30:59 UTC] [INFO] ============================================================
+[2026-10-18 03:30:59 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-18 03:30:59 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-18 03:31:00 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 03:31:00 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-18 03:31:00 UTC] [NEW]   🆕 📦 glowpkj/Vex-BloodStrike
+     ⭐ 0  🗣 C++  📅 2026-10-18
+     🔗 https://github.com/glowpkj/Vex-BloodStrike
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:00 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-18 03:31:00 UTC] [UPD]   📢 📦 anshnt/security
+     ⭐ 0  🗣 Python  📅 2026-10-15
+     🔗 https://github.com/anshnt/security
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-18 03:31:00 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-18 03:31:00 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-18 03:31:04 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 rootfragment/lieutenant_banana
+     ⭐ 0  🗣 Go  📅 2026-10-18
+     🔗 https://github.com/rootfragment/lieutenant_banana
+     📝 A mini edr based on ebpf
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 XionNobody14/ticket-triage-ai
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/XionNobody14/ticket-triage-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 partha-cybersec/Suspicious-Connection-Detector
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/partha-cybersec/Suspicious-Connection-Detector
+     📝 Python tool that monitors live network connections, geolocates remote IPs and fl…
+     🏷  blue-team, cybersecurity, network-security, psutil, python, soc, threat-detection
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 TwoSevenOneT/PhantomBuffer
+     ⭐ 2  🗣 C++  📅 2026-10-18
+     🔗 https://github.com/TwoSevenOneT/PhantomBuffer
+     📝 EDR evasion uses stealth injection via SendMessage with WM_SETTEXT to effective …
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 Shivam23m1189/edgesight-cv
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/Shivam23m1189/edgesight-cv
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 edragoev/edragoev
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/edragoev/edragoev
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 iklobato/usb-dropper
+     ⭐ 0  🗣 PowerShell  📅 2026-10-17
+     🔗 https://github.com/iklobato/usb-dropper
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 Fattah-S/fattah-agentguard
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/Fattah-S/fattah-agentguard
+     📝 Security monitoring for AI coding agents: Sigma detections, triage, Mini SOAR an…
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 digitaldanis/esp32-adapter
+     ⭐ 0  🗣 C  📅 2026-10-17
+     🔗 https://github.com/digitaldanis/esp32-adapter
+     📝 Turn a $5 ESP32 into a USB Bluetooth adapter for Linux: A2DP music and HFP heads…
+     🏷  a2dp, airpods, bluetooth, bluez, esp-idf, esp32, hci, hfp, linux, pipewire
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 jlnzamboni/security-assesment-f
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/jlnzamboni/security-assesment-f
+     📝 framework básico de avaliação de vulnerabilidade e auditoria de segurança para P…
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 dang1934/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/dang1934/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 JessicaRobert985/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/JessicaRobert985/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 margauxm7962/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/margauxm7962/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 femidof/AegisNDR
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/femidof/AegisNDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 Pastore670/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/Pastore670/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 oscaryilmaz4574/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/oscaryilmaz4574/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 Romulo3094/OpenIRP
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Romulo3094/OpenIRP
+     📝 Open-source incident response playbook platform for SMEs, with contextual recomm…
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 thaok5845/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/thaok5845/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 AndrewChqng/kde-abm-power-manager
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/AndrewChqng/kde-abm-power-manager
+     📝 Advanced battery life & power management suite for KDE Plasma 6 (Wayland). Optim…
+     🏷  amd-abm, arch-linux, battery-life, battery-saver, cgroups-v2, kde, kde-plasma, kscreen, kwin, linux-laptop, pipewire, plasma-6, power-management, powerdevil, wayland
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 natashae21/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/natashae21/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 OlgaZhdanov5177/sysplant
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/OlgaZhdanov5177/sysplant
+     📝 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov…
+     🏷  ai, c, edr-bypass, framework, hacking, hooking, mcp-server, nim, offensive-tools, python, rust, syscalls, windows
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 piskunegor486-ux/Edrax
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/piskunegor486-ux/Edrax
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 snavarro-soc/Analisis-Forense-Windows-Sysmon
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/snavarro-soc/Analisis-Forense-Windows-Sysmon
+     📝 Análisis forense digital (DFIR) de una intrusión por RDP. Correlación de registr…
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 nishantsaini5786/relevant_thm_ctf
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/nishantsaini5786/relevant_thm_ctf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:04 UTC] [NEW]   🆕 📦 Vimal7747/soc-incident-reports
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/Vimal7747/soc-incident-reports
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:04 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-18 03:31:04 UTC] [UPD]   📢 📦 BlueSkyGuardian/atc-sim
+     ⭐ 0  🗣 Python  📅 2026-10-16
+     🔗 https://github.com/BlueSkyGuardian/atc-sim
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-18 03:31:04 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-18 03:31:04 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-18 03:31:06 UTC] [INFO]   → 26 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 03:31:06 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-10-18 03:31:06 UTC] [NEW]   🆕 📦 ZigZagBoi1/PS5-V13.60-Research
+     ⭐ 5  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/ZigZagBoi1/PS5-V13.60-Research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:06 UTC] [NEW]   🆕 📦 Essyekky32/pyre-ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/Essyekky32/pyre-ps5
+     📝 PS5 jailbreak made simple: a Windows program that hosts the exploit, answers you…
+     🏷  —
+[2026-10-18 03:31:06 UTC] [NEW]   🆕 📦 pixl4tech/Byepervisor-Reborn-pxl
+     ⭐ 1  🗣 C  📅 2026-10-17
+     🔗 https://github.com/pixl4tech/Byepervisor-Reborn-pxl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 03:31:06 UTC] [NEW]   🆕 📦 yova2flash/yova_ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-10-17
+     🔗 https://github.com/yova2flash/yova_ps5
+     📝 YOVA PS5 - Next-Gen Relapse Exploit Suite & Host (FW 7.00 - 13.60)
+     🏷  —
+[2026-10-18 03:31:06 UTC] [NEW]   🆕 📦 hBonnet875/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-17
+     🔗 https://github.com/hBonnet875/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-18 03:31:06 UTC] [NEW]   🆕 📦 twili8/auto-darksword
+     ⭐ 0  🗣 Python  📅 2026-10-17
+     🔗 https://github.com/twili8/auto-darksword
+     📝 [iOS 13.0 - 26.0.1] Static iOS kernel offset discovery. Tired of hardcoded hex v…
+     🏷  arm64e, ios-exploit, ios-exploitation, ios-security, ios-security-tool, jailbreak, kernel-exploitation, reverse-engineered-api, reverse-enginnering, vulnerability-research, xnu, xnu-kernel
+[2026-10-18 03:31:06 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-18 03:31:06 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 100  🗣 Lua  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 PS5 firmware 14.10 kernel attack surface research - 62 Lua probes mapping syscal…
+     🏷  ps5, ps5-homebrew, ps5-jailbreak, ps5-tools
+     🔄 Motivo: repo recente (2gg) | nuovi topic: ps5-homebrew, ps5-tools, ps5-jailbreak, ps5
+[2026-10-18 03:31:06 UTC] [INFO] ============================================================
+[2026-10-18 03:31:06 UTC] [INFO] Completato — 32 nuovi, 3 aggiornati, 0 errori
+[2026-10-18 03:31:06 UTC] [INFO] ============================================================
