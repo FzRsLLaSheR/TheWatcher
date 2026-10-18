@@ -114640,3 +114640,265 @@
 [2026-10-18 03:31:06 UTC] [INFO] ============================================================
 [2026-10-18 03:31:06 UTC] [INFO] Completato — 32 nuovi, 3 aggiornati, 0 errori
 [2026-10-18 03:31:06 UTC] [INFO] ============================================================
+[2026-10-18 10:32:52 UTC] [INFO] ============================================================
+[2026-10-18 10:32:52 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-18 10:32:52 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-18 10:32:52 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-18 10:32:52 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-18 10:32:52 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-18 10:32:52 UTC] [INFO] ============================================================
+[2026-10-18 10:32:52 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-18 10:32:52 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-18 10:32:54 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 10:32:54 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-18 10:32:54 UTC] [NEW]   🆕 📦 mistrustt/ADIOLottery
+     ⭐ 0  🗣 C  📅 2026-10-18
+     🔗 https://github.com/mistrustt/ADIOLottery
+     📝 AmdTools64 BYOVD Local Kernel Privilege Escalation PoC 1.7.16.218
+     🏷  byovd, exploit, exploit-code, exploit-kit, exploitation, kernel, kernel-driver, poc, proof-of-concept, vulnerable-driver, vulnerable-drivers
+[2026-10-18 10:32:54 UTC] [NEW]   🆕 📦 redteamfortress/KillerLand
+     ⭐ 7  🗣 C  📅 2026-10-17
+     🔗 https://github.com/redteamfortress/KillerLand
+     📝 Collection of reversed vulnerable drivers weaponized into process killers. PPL w…
+     🏷  byovd, edr, edr-bypass, edr-evasion, edr-killer, redteam, redteam-tools, redteaming
+[2026-10-18 10:32:54 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-18 10:32:54 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-18 10:32:54 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-18 10:32:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 u84u/self
+     ⭐ 0  🗣 Go  📅 2026-10-18
+     🔗 https://github.com/u84u/self
+     📝 sealed binary files.
+     🏷  age, age-encryption, encryption, go, security, ssh, tool
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 2kil/Notepad4Markdown
+     ⭐ 0  🗣 C++  📅 2026-10-18
+     🔗 https://github.com/2kil/Notepad4Markdown
+     📝 Notepad4 has added support for Markdown.
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 ergoprobat/edr-spec
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/ergoprobat/edr-spec
+     📝 Open specification and JSON Schema for the ergo Decision Record (EDR) format.
+     🏷  adr, architecture-decision-records, decision-records, json-schema, specification
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 aon-co-jp-backup/RS-Guard
+     ⭐ 0  🗣 Rust  📅 2026-10-18
+     🔗 https://github.com/aon-co-jp-backup/RS-Guard
+     📝 Auto mirror of aon-co-jp/RS-Guard (sanitized; do not edit)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 babusundar0501-eng/Cyber-go-virus
+     ⭐ 0  🗣 Rust  📅 2026-10-17
+     🔗 https://github.com/babusundar0501-eng/Cyber-go-virus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 nita46412/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/nita46412/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 Nishmith121/RiskLens
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/Nishmith121/RiskLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 josealeperezp/edreams-challenge
+     ⭐ 0  🗣 Java  📅 2026-10-18
+     🔗 https://github.com/josealeperezp/edreams-challenge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 ItamarFrank1/EDR_Project
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/ItamarFrank1/EDR_Project
+     📝 A EDR (Endpoint Detection and Response) system built in Python. It monitors the …
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 uliyach45/soc-internship-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/uliyach45/soc-internship-portfolio
+     📝 SOC & detection engineering internship portfolio: SIEM, threat hunting, Zeek/Spl…
+     🏷  blue-team, cybersecurity, deepblue, misp, seim, soc, splunk, threat-hunting, wazuh, zeek
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 pilsu-choi/mcpgraph
+     ⭐ 0  🗣 Go  📅 2026-10-18
+     🔗 https://github.com/pilsu-choi/mcpgraph
+     📝 Read-only Go agent that maps AI apps, their MCP servers, and the processes, cred…
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 pruthviraj-desale/secop
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/pruthviraj-desale/secop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 CjWrits/sentinova-threatlens
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/CjWrits/sentinova-threatlens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 Chalermsak1/-TraceHound-AI
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/Chalermsak1/-TraceHound-AI
+     📝 Explainable SOC intelligence platform for security log analysis, temporal alert …
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 1565bhj/JL-RainNexus-ChatBot
+     ⭐ 0  🗣 C  📅 2026-10-18
+     🔗 https://github.com/1565bhj/JL-RainNexus-ChatBot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 ggotsiridze/breachreplay
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/ggotsiridze/breachreplay
+     📝 Visual cyber incident reconstruction and containment simulation from PCAP networ…
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 uganda5mar/edrsc
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/uganda5mar/edrsc
+     📝 content
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 MariaMurphy32882/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/MariaMurphy32882/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 adrianbailey84/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/adrianbailey84/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 frandustry/franphotos
+     ⭐ 0  🗣 Swift  📅 2026-10-18
+     🔗 https://github.com/frandustry/franphotos
+     📝 A native macOS photo management app written from scratch in SwiftUI — clean libr…
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 karabomoleko278-cpu/portfolio
+     ⭐ 0  🗣 HTML  📅 2026-10-18
+     🔗 https://github.com/karabomoleko278-cpu/portfolio
+     📝 Systems Core // Commercial Developer Product Launch Portfolio
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 SomarGuy/log-analyzer-threat-detector
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/SomarGuy/log-analyzer-threat-detector
+     📝 Rule-based log analyzer and threat detector in Python: parses auth.log, Windows …
+     🏷  blue-team, dashboard, incident-response, log-analysis, mitre-attack, python, security, siem, synthetic-data, threat-detection
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 badrbel/CyberTrace
+     ⭐ 0  🗣 HTML  📅 2026-10-17
+     🔗 https://github.com/badrbel/CyberTrace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 bs-bhadauria/FedSentinel
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/bs-bhadauria/FedSentinel
+     📝 FedSentinel analyzes raw telemetry locally at the edge and securely aggregates c…
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 PHenriquen/Aegis
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/PHenriquen/Aegis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 KdMenon007/EDR-Endpoint-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/KdMenon007/EDR-Endpoint-Incident-Response
+     📝 Investigate endpoint alerts, suspicious process trees, malicious scripts, persis…
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 LiYpoi/NetProbe
+     ⭐ 0  🗣 C#  📅 2026-10-18
+     🔗 https://github.com/LiYpoi/NetProbe
+     📝 Windows网络探测工具箱；Ping、ICMP、路由追踪、TCP端口检测
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 aasz253/aiarena
+     ⭐ 0  🗣 TypeScript  📅 2026-10-18
+     🔗 https://github.com/aasz253/aiarena
+     📝 a hacker game
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 cidunti/mn
+     ⭐ 0  🗣 N/A  📅 2026-10-17
+     🔗 https://github.com/cidunti/mn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 kandiharish/TriageGuard
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/kandiharish/TriageGuard
+     📝 Protect, attack, verify and audit the AI analyst in your SOC: defends LLM alert …
+     🏷  cybersecurity, hackathon, llm-security, prompt-injection, soc
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 redteamfortress/KillerLand
+     ⭐ 7  🗣 C  📅 2026-10-17
+     🔗 https://github.com/redteamfortress/KillerLand
+     📝 Collection of reversed vulnerable drivers weaponized into process killers. PPL w…
+     🏷  byovd, edr, edr-bypass, edr-evasion, edr-killer, redteam, redteam-tools, redteaming
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 VISHNU0906/prahari
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/VISHNU0906/prahari
+     📝 Agentic SOC copilot that cannot be talked out of an alert: provenance-enforced, …
+     🏷  agentic-ai, ai-security, conformal-prediction, cybersecurity, hackathon, llm-security, prompt-injection, soc
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 Fazmin/cve-intel
+     ⭐ 10  🗣 Rust  📅 2026-10-18
+     🔗 https://github.com/Fazmin/cve-intel
+     📝 Local security intelligence for CVE triage — 31 tools, 25 sources, risk scores a…
+     🏷  artificial-intelligence, cve-search, cyber, cybersecurity, cybersecurity-education, cybersecurity-tools, local-first, privacy, vulnaribility
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 Rahul9214/rootmesh
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/Rahul9214/rootmesh
+     📝 RootMesh is a graph-native cybersecurity investigation and incident-response pla…
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 cdbyte-code/soc-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/cdbyte-code/soc-home-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:57 UTC] [NEW]   🆕 📦 brooklynkid707-cmd/soc-analyst-toolkit
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/brooklynkid707-cmd/soc-analyst-toolkit
+     📝 Tier 1/2 SOC analyst toolkit: alert triage & incident grouping, phishing email h…
+     🏷  —
+[2026-10-18 10:32:57 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-18 10:32:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-18 10:32:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-18 10:32:59 UTC] [INFO]   → 33 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-18 10:32:59 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-10-18 10:32:59 UTC] [NEW]   🆕 📦 minhanhmod/GooHanPatch-Native
+     ⭐ 0  🗣 Swift  📅 2026-10-18
+     🔗 https://github.com/minhanhmod/GooHanPatch-Native
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:59 UTC] [NEW]   🆕 📦 RNG999/hanare
+     ⭐ 0  🗣 Go  📅 2026-10-18
+     🔗 https://github.com/RNG999/hanare
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-18 10:32:59 UTC] [NEW]   🆕 📦 AnanyaMaas01/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-18
+     🔗 https://github.com/AnanyaMaas01/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-18 10:32:59 UTC] [NEW]   🆕 📦 patrickwalker9860/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-18
+     🔗 https://github.com/patrickwalker9860/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-18 10:32:59 UTC] [NEW]   🆕 📦 kbssrikar7/samsung-tv-cleanup
+     ⭐ 0  🗣 N/A  📅 2026-10-18
+     🔗 https://github.com/kbssrikar7/samsung-tv-cleanup
+     📝 Tested Samsung BU8000 Tizen cleanup guide with verified results and rollback ins…
+     🏷  ad-blocking, debloat, documentation, privacy, right-to-repair, samsung, samsung-tv, smart-tv, tizen, tizenbrew
+[2026-10-18 10:32:59 UTC] [NEW]   🆕 📦 frankmason77059/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-18
+     🔗 https://github.com/frankmason77059/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-18 10:32:59 UTC] [NEW]   🆕 📦 pastawithpesto/PS5-14.10-Jailbreak-Research
+     ⭐ 5  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/pastawithpesto/PS5-14.10-Jailbreak-Research
+     📝 WebKit jailbreak research for PlayStation 5 firmware 14.10
+     🏷  —
+[2026-10-18 10:32:59 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-18 10:32:59 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 117  🗣 Lua  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 PS5 firmware 14.10 kernel attack surface research - 62 Lua probes mapping syscal…
+     🏷  ps5, ps5-homebrew, ps5-jailbreak, ps5-tools
+     🔄 Motivo: repo recente (2gg)
+[2026-10-18 10:32:59 UTC] [UPD]   📢 📦 Dunn21139/Solstice
+     ⭐ 0  🗣 C  📅 2026-10-17
+     🔗 https://github.com/Dunn21139/Solstice
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-18 10:32:59 UTC] [INFO] ============================================================
+[2026-10-18 10:32:59 UTC] [INFO] Completato — 45 nuovi, 2 aggiornati, 0 errori
+[2026-10-18 10:32:59 UTC] [INFO] ============================================================
