@@ -115516,3 +115516,325 @@
 [2026-10-19 03:41:56 UTC] [INFO] ============================================================
 [2026-10-19 03:41:56 UTC] [INFO] Completato — 32 nuovi, 4 aggiornati, 0 errori
 [2026-10-19 03:41:56 UTC] [INFO] ============================================================
+[2026-10-19 12:26:08 UTC] [INFO] ============================================================
+[2026-10-19 12:26:08 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-19 12:26:08 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-19 12:26:08 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-19 12:26:08 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-19 12:26:08 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-19 12:26:08 UTC] [INFO] ============================================================
+[2026-10-19 12:26:08 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-19 12:26:08 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-19 12:26:10 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-19 12:26:10 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-19 12:26:10 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-19 12:26:10 UTC] [UPD]   📢 📦 yasunosubaru/YinHuGuard
+     ⭐ 0  🗣 Dart  📅 2026-10-16
+     🔗 https://github.com/yasunosubaru/YinHuGuard
+     📝 只读的 Windows 银狐（ValleyRAT）木马排查工具：一次扫描七个面，GUI/CLI/日志/报告四渠道同源输出；不修改系统、无网络请求。Read-on…
+     🏷  cpp, flutter, incident-response, malware-analysis, security, security-tools, silverfox, triage, valleyrat, windows
+     🔄 Motivo: repo recente (2gg) | nuovi topic: security-tools, triage, security, cpp, malware-analysis, valleyrat, incident-response, windows, silverfox, flutter
+[2026-10-19 12:26:10 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-19 12:26:10 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-19 12:26:13 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 41 NUOVI repository:
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 israel1290/israel-edri-travel
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/israel1290/israel-edri-travel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 singhharsimar23-dotcom/singhharsimar23-dotcom
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/singhharsimar23-dotcom/singhharsimar23-dotcom
+     📝 GitHub profile README
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 dakkidaze/ds4dongle-bl618
+     ⭐ 0  🗣 C  📅 2026-10-19
+     🔗 https://github.com/dakkidaze/ds4dongle-bl618
+     📝 Wireless DualShock 4 (CUH-ZCT2) adapter for BL616/BL618 — Bluetooth BR/EDR HID t…
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 larry-lvjin/BTRefSensSearch-pub
+     ⭐ 0  🗣 C#  📅 2026-10-19
+     🔗 https://github.com/larry-lvjin/BTRefSensSearch-pub
+     📝 射频/声学自动化测试工具
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 aj976/dfirti
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/aj976/dfirti
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 B-H-M/Cybersecurity-Journey---Windows-fundamentals
+     ⭐ 1  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/B-H-M/Cybersecurity-Journey---Windows-fundamentals
+     📝 Windows fundamentals
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 aljompolaty/edraak-website
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/aljompolaty/edraak-website
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 korusecurity/koru
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/korusecurity/koru
+     📝 Open-source sensor that catches AI agents touching credentials. eBPF file-access…
+     🏷  ai-agents, ai-security, canary-tokens, cyber-deception, deception, ebpf, honeypot, honeytoken, intrusion-detection, linux-security, llm-security, mcp, mcp-security, mitre-attack, prompt-injection, rust, security-tools, sigma, threat-detection
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 thodorakos/aegis
+     ⭐ 0  🗣 TypeScript  📅 2026-10-19
+     🔗 https://github.com/thodorakos/aegis
+     📝 Live natural-disaster monitor for Greece — NASA EONET ingest into PostGIS, geo-f…
+     🏷  disaster-monitoring, docker-compose, fastapi, greece, nasa-eonet, postgis, react
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 AdeyinkaAyinla/AdeyinkaAyinla
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/AdeyinkaAyinla/AdeyinkaAyinla
+     📝 My GitHub profile — IT Support & Service Desk | MEng Cyber Security | ISC2 CC
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 nkgpamukuntla/ccr-platform
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/nkgpamukuntla/ccr-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 nkgpamukuntla/evidence-collector
+     ⭐ 0  🗣 HCL  📅 2026-10-19
+     🔗 https://github.com/nkgpamukuntla/evidence-collector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 Locozyoungg/automation_scripts
+     ⭐ 0  🗣 AutoHotkey  📅 2026-10-18
+     🔗 https://github.com/Locozyoungg/automation_scripts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 aljompolaty/edraak-design-system
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/aljompolaty/edraak-design-system
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 PIDEAN/Manping
+     ⭐ 0  🗣 GLSL  📅 2026-10-19
+     🔗 https://github.com/PIDEAN/Manping
+     📝 满屏 Manping — 为 Mac 重新打造的第三方哔哩哔哩客户端（SwiftUI/AppKit、液态玻璃、mpv、Metal 弹幕）
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 kiruthick01/BarbieBT
+     ⭐ 0  🗣 C  📅 2026-10-19
+     🔗 https://github.com/kiruthick01/BarbieBT
+     📝 A Barbie toy flip phone rebuilt as a real Bluetooth handset. ESP32 + HFP hands-f…
+     🏷  bluetooth, bluetooth-classic, c, diy, embedded, esp-idf, esp32, hands-free, hardware-hack, hfp, i2s, inmp441, max98357a, retro
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 mstampfli/openulla
+     ⭐ 2  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/mstampfli/openulla
+     📝 Reverse engineering Apple's proprietary 5 GHz lossless low-latency audio protoco…
+     🏷  airpods, airpods-pro, apple, bluetooth, h2-chip, l2cap, linux, lossless-audio, pipewire, reverse-engineering, ulla, vision-pro, wireless-audio
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 deepakg710/AD-Monitor
+     ⭐ 1  🗣 TypeScript  📅 2026-10-19
+     🔗 https://github.com/deepakg710/AD-Monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 wcogawa-sudo/agent-console-guardrails
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/wcogawa-sudo/agent-console-guardrails
+     📝 Read-only, audited gate + hook + poisoned-skill quarantine for AI agents working…
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 wcogawa-sudo/ai-security-eval-corpus
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/wcogawa-sudo/ai-security-eval-corpus
+     📝 AI-agnostic eval set for AI security analysts: 14 SA-localised incident scenario…
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 fazllolahiamirmmohmad-netizen/Guardian-of-Memory
+     ⭐ 1  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/fazllolahiamirmmohmad-netizen/Guardian-of-Memory
+     📝 AI-assisted Windows process monitoring and resource analysis tool built with Pyt…
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 eduardohenriquemoretti0-ops/fm-rmm
+     ⭐ 0  🗣 Go  📅 2026-10-18
+     🔗 https://github.com/eduardohenriquemoretti0-ops/fm-rmm
+     📝 Canal de controle + acesso remoto autorizado self-hosted (Go), Windows/Linux/mac…
+     🏷  audit-log, certificate-pinning, devsecops, ed25519, golang, lgpd, linux, macos, mtls, rbac, remote-access, rmm, security, self-hosted, sqlite, windows, zero-trust
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 TopScrech/Device
+     ⭐ 0  🗣 Swift  📅 2026-10-19
+     🔗 https://github.com/TopScrech/Device
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 Proteqtum/Win64-Assembly-Lab
+     ⭐ 0  🗣 Assembly  📅 2026-10-19
+     🔗 https://github.com/Proteqtum/Win64-Assembly-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 markBH1510/DFIR-Cloud-Ransomware-Investigation
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/markBH1510/DFIR-Cloud-Ransomware-Investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 vighnesh91/ThermoLock-Hardware-EDR-Engine
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/vighnesh91/ThermoLock-Hardware-EDR-Engine
+     📝 A zero-dependency, bare-metal hardware EDR agent and CI verification gateway tha…
+     🏷  dfir, ebpf, edr, hardware-security, intrusion-detection, rootkit-detection, threat-hunting
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 NOGtechnologia/sentinelops
+     ⭐ 1  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/NOGtechnologia/sentinelops
+     📝 Explainable, AI-assisted security operations: from 50,000 log lines to an invest…
+     🏷  detection-engineering, fastapi, incident-response, llm, react, security, siem, sigma, soc, threat-detection
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 learning1997/fhenix-voting
+     ⭐ 0  🗣 TypeScript  📅 2026-10-19
+     🔗 https://github.com/learning1997/fhenix-voting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 SK-cs1209/Cybersecurity-Internship-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/SK-cs1209/Cybersecurity-Internship-Portfolio
+     📝 Cybersecurity Internship Portfolio - Silverlake Axis
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 nobody621/Lockatelli
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/nobody621/Lockatelli
+     📝 A cybersecurity proof-of-concept research project examining ransomware-like file…
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 piyushkumar2025b-arch/DecentraSplit
+     ⭐ 0  🗣 TypeScript  📅 2026-10-19
+     🔗 https://github.com/piyushkumar2025b-arch/DecentraSplit
+     📝 DecentraSplit: decentralized Web3 expense splitting on Ethereum. On-chain groups…
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 sinsombat/nopeek
+     ⭐ 0  🗣 Swift  📅 2026-10-19
+     🔗 https://github.com/sinsombat/nopeek
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 Mikayilova25/SIEM_SOC
+     ⭐ 0  🗣 Shell  📅 2026-10-19
+     🔗 https://github.com/Mikayilova25/SIEM_SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 TheWith3rSt0rm/su-for-windows
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/TheWith3rSt0rm/su-for-windows
+     📝 adds a linux like su command that can switch to any user even SYSTEM and Trusted…
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 CrieHeiki/mini-enterprise-soc-lab
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/CrieHeiki/mini-enterprise-soc-lab
+     📝 Mini Enterprise SOC Lab using Wazuh SIEM, Python Event Correlation, Sysmon, and …
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 DangerousSONG/attack_skills_for_agent
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/DangerousSONG/attack_skills_for_agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 kerr20801/SwitchScope
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/kerr20801/SwitchScope
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 yfy12306/dsh-copilot
+     ⭐ 1  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/yfy12306/dsh-copilot
+     📝 DSH 插件：浏览器操控（Playwright/CDP）+ Windows 桌面操控（UIA）+ 截图识图
+     🏷  —
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 OmarYoshida/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/OmarYoshida/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 boyingluo-byte/llm-sec-platform
+     ⭐ 1  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/boyingluo-byte/llm-sec-platform
+     📝 LLM 应用安全检测与管控平台 MVP：OpenAI 兼容安全网关 + 注入/越狱/DLP 检测引擎 + RAG 红队靶场 + 可量化评测基线（全部测试仅限本地…
+     🏷  ai-security, llm-security, owasp-top-10, prompt-injection, red-team, security-gateway
+[2026-10-19 12:26:13 UTC] [NEW]   🆕 📦 LouisKarabacak/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/LouisKarabacak/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-19 12:26:13 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-19 12:26:13 UTC] [UPD]   📢 📦 pedrohavay/mole
+     ⭐ 0  🗣 Swift  📅 2026-10-19
+     🔗 https://github.com/pedrohavay/mole
+     📝 An EPUB reader for the Mac where only the letters give off light.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-19 12:26:13 UTC] [UPD]   📢 📦 markku636/ai-security-monitor
+     ⭐ 1  🗣 Rust  📅 2026-10-16
+     🔗 https://github.com/markku636/ai-security-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-19 12:26:13 UTC] [UPD]   📢 📦 yotsuda/powershell-mcp-security
+     ⭐ 0  🗣 PowerShell  📅 2026-10-18
+     🔗 https://github.com/yotsuda/powershell-mcp-security
+     📝 Claude Code skill: audit and harden network security through PowerShell.MCP, wit…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-19 12:26:13 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-19 12:26:13 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-19 12:26:16 UTC] [INFO]   → 33 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 10 NUOVI repository:
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 Keea459developer/3105
+     ⭐ 0  🗣 C  📅 2026-10-19
+     🔗 https://github.com/Keea459developer/3105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 DanieleDellUomo/ps4-exploit-launcher
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/DanieleDellUomo/ps4-exploit-launcher
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 ejangnurjaman/vue-after-free-multipayload
+     ⭐ 0  🗣 TypeScript  📅 2026-10-19
+     🔗 https://github.com/ejangnurjaman/vue-after-free-multipayload
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 nghianguyen150612/iOS-Unsandboxed
+     ⭐ 0  🗣 Rust  📅 2026-10-18
+     🔗 https://github.com/nghianguyen150612/iOS-Unsandboxed
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 Ripcu/byepervisor-reborn-docs
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/Ripcu/byepervisor-reborn-docs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 rafaela7567/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-19
+     🔗 https://github.com/rafaela7567/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 p1u3o/ghostlock-tcltv
+     ⭐ 0  🗣 C  📅 2026-10-19
+     🔗 https://github.com/p1u3o/ghostlock-tcltv
+     📝 100% Deepseek TCL TV Ghostlock
+     🏷  —
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 BuiGauck/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-19
+     🔗 https://github.com/BuiGauck/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 nayeon41523/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-19
+     🔗 https://github.com/nayeon41523/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-19 12:26:16 UTC] [NEW]   🆕 📦 snowmossd-beep/3105phienban2.0
+     ⭐ 0  🗣 Swift  📅 2026-10-19
+     🔗 https://github.com/snowmossd-beep/3105phienban2.0
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 12:26:16 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-19 12:26:16 UTC] [UPD]   📢 📦 Essyekky32/pyre-ps5
+     ⭐ 2  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/Essyekky32/pyre-ps5
+     📝 PS5 jailbreak made simple: the local self-host route, reskinned and turned into …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-19 12:26:16 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 202  🗣 Assembly  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 Open PS5 firmware 14.10 research: Lua userland experiments, syscall and attack-s…
+     🏷  ps5, ps5-homebrew, ps5-jailbreak, ps5-tools
+     🔄 Motivo: repo recente (3gg)
+[2026-10-19 12:26:16 UTC] [UPD]   📢 📦 TheRealRexo/ps5-linux-loader-13.60
+     ⭐ 0  🗣 C  📅 2026-10-18
+     🔗 https://github.com/TheRealRexo/ps5-linux-loader-13.60
+     📝 13.60-only fork of ps5-linux-loader: defeats the PS5 hypervisor on firmware 13.6…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-19 12:26:16 UTC] [INFO] ============================================================
+[2026-10-19 12:26:16 UTC] [INFO] Completato — 51 nuovi, 7 aggiornati, 0 errori
+[2026-10-19 12:26:16 UTC] [INFO] ============================================================
