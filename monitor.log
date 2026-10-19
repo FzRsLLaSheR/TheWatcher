@@ -115838,3 +115838,317 @@
 [2026-10-19 12:26:16 UTC] [INFO] ============================================================
 [2026-10-19 12:26:16 UTC] [INFO] Completato — 51 nuovi, 7 aggiornati, 0 errori
 [2026-10-19 12:26:16 UTC] [INFO] ============================================================
+[2026-10-19 22:05:00 UTC] [INFO] ============================================================
+[2026-10-19 22:05:00 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-19 22:05:00 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-19 22:05:00 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-19 22:05:00 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-19 22:05:00 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-19 22:05:00 UTC] [INFO] ============================================================
+[2026-10-19 22:05:00 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-19 22:05:00 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-19 22:05:03 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-19 22:05:03 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-19 22:05:03 UTC] [NEW]   🆕 📦 Silv-ia/malware-analysis-tu
+     ⭐ 0  🗣 TypeScript  📅 2026-10-19
+     🔗 https://github.com/Silv-ia/malware-analysis-tu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:03 UTC] [NEW]   🆕 📦 anubhavg-icpl/atomic-prevention
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/anubhavg-icpl/atomic-prevention
+     📝 Prevention-focused living-off-the-land testing framework mapped to MITRE ATT&CK
+     🏷  —
+[2026-10-19 22:05:03 UTC] [NEW]   🆕 📦 liquid8796/ce-undetectable
+     ⭐ 0  🗣 Pascal  📅 2026-10-19
+     🔗 https://github.com/liquid8796/ce-undetectable
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:03 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-19 22:05:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-19 22:05:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-19 22:05:06 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 38 NUOVI repository:
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Americo05/soc-analyst-journey
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/Americo05/soc-analyst-journey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 hagerahned/NileCare-ISO27001-GRC-Project
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/hagerahned/NileCare-ISO27001-GRC-Project
+     📝 The Company (fictional)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 pbadevel/Uplert
+     ⭐ 0  🗣 Go  📅 2026-10-19
+     🔗 https://github.com/pbadevel/Uplert
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Taepe13/evasion-loader
+     ⭐ 0  🗣 C  📅 2026-10-19
+     🔗 https://github.com/Taepe13/evasion-loader
+     📝 Shell loader using NTDLL unhooking and indirect system calls (SysWhispers3).
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 jKilic5428/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/jKilic5428/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Yasmine3969/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/Yasmine3969/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 ekilic73497/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/ekilic73497/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 OIFhax/OUI-Spy-Covert-Mesh
+     ⭐ 0  🗣 C++  📅 2026-10-19
+     🔗 https://github.com/OIFhax/OUI-Spy-Covert-Mesh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 MichaelJeong15255/microsoft-security-skills
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/MichaelJeong15255/microsoft-security-skills
+     📝 Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Pur…
+     🏷  ai-agents, copilot, defender, entra, entra-id, microsoft, purview, security, securitycopilot, sentinel
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 kaveeshagit2004/EDRR-Database
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/kaveeshagit2004/EDRR-Database
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Netdoodle/homexdr
+     ⭐ 0  🗣 Go  📅 2026-10-19
+     🔗 https://github.com/Netdoodle/homexdr
+     📝 Self-hosted EDR/XDR with a built-in SIEM for homelabs
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 bencheayoub/EDR
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/bencheayoub/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 ultrapg/btconnect
+     ⭐ 0  🗣 Kotlin  📅 2026-10-19
+     🔗 https://github.com/ultrapg/btconnect
+     📝 Material Design 3 Android app to connect any Bluetooth device (including legacy …
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 c-m-g-tm/EDR-Falcon-Scanner
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/c-m-g-tm/EDR-Falcon-Scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 HiramukaB/SIT
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/HiramukaB/SIT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Mr-Kishore/EdRealm
+     ⭐ 0  🗣 TypeScript  📅 2026-10-19
+     🔗 https://github.com/Mr-Kishore/EdRealm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 ashlabx/aina-contracts
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/ashlabx/aina-contracts
+     📝 AI-Native Network Architecture
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 robsonfj/mos-tcp-doctor
+     ⭐ 0  🗣 C#  📅 2026-10-19
+     🔗 https://github.com/robsonfj/mos-tcp-doctor
+     📝 Diagnóstico TCP e validador MOS Profile 0 para Windows
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 jaszczomp1337/SOC-Homelab-Architecture
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/jaszczomp1337/SOC-Homelab-Architecture
+     📝 Homelab architecture description
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 damiankowalski/SecretsScanner
+     ⭐ 0  🗣 PowerShell  📅 2026-10-19
+     🔗 https://github.com/damiankowalski/SecretsScanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 gustavohsr/bacen-grc-compliance
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/gustavohsr/bacen-grc-compliance
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Gurjas2112/Vyuhix
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/Gurjas2112/Vyuhix
+     📝 AI that turns attack paths into rupees, insurance-ready risk and a budget-optima…
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 sushantguri/ml
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/sushantguri/ml
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 CyberHorizon-be/sleuthline
+     ⭐ 0  🗣 Python  📅 2026-10-18
+     🔗 https://github.com/CyberHorizon-be/sleuthline
+     📝 From a KAPE collection to an evidence-backed incident response report.
+     🏷  dfir, duckdb, forensics, incident-response, kape, llm, threat-hunting, windows-forensics
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 jemorenojr/Exposure_Audit
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/jemorenojr/Exposure_Audit
+     📝 Auditoria técnica de **exposição de serviços** em servidores Linux
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 geovanniandrade/gg-ndr-xdr-investigation
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/geovanniandrade/gg-ndr-xdr-investigation
+     📝 Guia de investigação de alertas NDR/XDR, com estudos, playbooks e exercícios prá…
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 richdieu-max/richdieu-max
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/richdieu-max/richdieu-max
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 richdieu-max/sop-library
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/richdieu-max/sop-library
+     📝 36 runbooks with 54 architecture diagrams: Azure, Entra ID, Intune, security ope…
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 YashaswiniM-06/SentiX
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/YashaswiniM-06/SentiX
+     📝 Multi-Agent Autonomous Security Operations Center (SOC) and threat correlation p…
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 llm-i-am/the-unseen
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/llm-i-am/the-unseen
+     📝 The Unseen — an experimental neuroscience-inspired audiovisual observatory
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Revanth-cloud172/EDR-PROJECT-test-one
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/Revanth-cloud172/EDR-PROJECT-test-one
+     📝 tamper proof editon
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 anubhavg-icpl/atomic-prevention
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/anubhavg-icpl/atomic-prevention
+     📝 Prevention-focused living-off-the-land testing framework mapped to MITRE ATT&CK
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Leonard-Opasanjo/secops-copilot
+     ⭐ 1  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/Leonard-Opasanjo/secops-copilot
+     📝 AI security analyst: explains alerts with cited evidence, separates facts from h…
+     🏷  ai-safety, claude, fastapi, incident-response, llm, prompt-injection, python, security, soc
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 aleenafvg/ADAttackLab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-19
+     🔗 https://github.com/aleenafvg/ADAttackLab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Leonard-Opasanjo/threatlens
+     ⭐ 1  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/Leonard-Opasanjo/threatlens
+     📝 Threat-intelligence analyser: import, normalise, deduplicate, enrich and score i…
+     🏷  fastapi, incident-response, ioc, python, security, soc, threat-intelligence
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 ARIBISALAT/ARIBISALAT-azure-edr-sentinel-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/ARIBISALAT/ARIBISALAT-azure-edr-sentinel-lab
+     📝 End-to-end deployment of LimaCharlie EDR sensors on Azure VMs and telemetry inte…
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 ARIBISALAT/azure-edr-sentinel-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/ARIBISALAT/azure-edr-sentinel-lab
+     📝 End-to-end deployment of LimaCharlie EDR sensors on Azure VMs and telemetry inte…
+     🏷  —
+[2026-10-19 22:05:06 UTC] [NEW]   🆕 📦 Eswink/zcode-unconstrained
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/Eswink/zcode-unconstrained
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:06 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-19 22:05:06 UTC] [UPD]   📢 📦 pedrohavay/mole
+     ⭐ 0  🗣 Go  📅 2026-10-19
+     🔗 https://github.com/pedrohavay/mole
+     📝 The first e-reader with HDR text: letters brighter than white on a black page. E…
+     🏷  apple-silicon, dark-mode, e-reader, ebook, ebook-reader, edr, epub, epub-reader, fb2, golang, hdr, macos, macos-app, metal, mobi, mupdf, night-mode, open-source, pdf-reader, swiftui
+     🔄 Motivo: repo recente (0gg) | nuovi topic: apple-silicon, night-mode, epub-reader, pdf-reader, swiftui, macos-app, dark-mode, epub, edr, hdr, fb2, ebook, macos, golang, open-source, mupdf, mobi, metal, e-reader, ebook-reader
+[2026-10-19 22:05:06 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-19 22:05:06 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-19 22:05:09 UTC] [INFO]   → 45 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 12 NUOVI repository:
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 AoiUltramar/shiva
+     ⭐ 0  🗣 C  📅 2026-10-19
+     🔗 https://github.com/AoiUltramar/shiva
+     📝 Lightweight threat isolation for Linux, built on Landlock.  Shiva runs a suspici…
+     🏷  —
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 valeriegrant838/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-19
+     🔗 https://github.com/valeriegrant838/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 Yuqi09/dgx-spark-inference-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-19
+     🔗 https://github.com/Yuqi09/dgx-spark-inference-stack
+     📝 Serve the home! Inference stack for your Nvidia DGX Spark aka the Grace Blackwel…
+     🏷  cuda, dgx, dgx-spark, docker, docker-compose, gb10, generative-ai, inference, llama, local-llm, mlops, model-serving, self-hosted
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 samson910022/Root-My-Galaxy-S24
+     ⭐ 0  🗣 Kotlin  📅 2026-10-19
+     🔗 https://github.com/samson910022/Root-My-Galaxy-S24
+     📝 Root My Galaxy S24: SM-S9210 bundled payload, exact-firmware gated
+     🏷  —
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 gunxsmile/1360.cr
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/gunxsmile/1360.cr
+     📝 PS5 13.60
+     🏷  —
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 HexVandal/nemesis
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/HexVandal/nemesis
+     📝 Offensive-security scanner that proves what it finds. Every active check is a di…
+     🏷  —
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 Gplatgc/ps4-host
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/Gplatgc/ps4-host
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 Yanis-RMA/13ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/Yanis-RMA/13ps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 RknDEV1/3105-ios27-24a446-test
+     ⭐ 0  🗣 Swift  📅 2026-10-19
+     🔗 https://github.com/RknDEV1/3105-ios27-24a446-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 leafunes/ps5-esp32-relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/leafunes/ps5-esp32-relapse
+     📝 Port of PS5 Relapse explot to esp32 hardware
+     🏷  —
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 Gulabgigahertz/Ultimate-Cybersecurity-Mastery
+     ⭐ 0  🗣 N/A  📅 2026-10-19
+     🔗 https://github.com/Gulabgigahertz/Ultimate-Cybersecurity-Mastery
+     📝 A comprehensive, step-by-step guide to mastering cybersecurity from beginner to …
+     🏷  —
+[2026-10-19 22:05:09 UTC] [NEW]   🆕 📦 ayushverma7599/CanaryChain
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/ayushverma7599/CanaryChain
+     📝 Tripwires, MITRE ATLAS labels and a tamper-evident log that prove tenant isolati…
+     🏷  —
+[2026-10-19 22:05:09 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-19 22:05:09 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 227  🗣 Assembly  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 Open PS5 firmware 14.10 research: Lua userland experiments, syscall and attack-s…
+     🏷  ps5, ps5-homebrew, ps5-jailbreak, ps5-tools
+     🔄 Motivo: repo recente (3gg)
+[2026-10-19 22:05:09 UTC] [UPD]   📢 📦 DanieleDellUomo/ps4-exploit-launcher
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/DanieleDellUomo/ps4-exploit-launcher
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-19 22:05:09 UTC] [UPD]   📢 📦 pastawithpesto/PS5-14.10-Jailbreak-Research
+     ⭐ 83  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/pastawithpesto/PS5-14.10-Jailbreak-Research
+     📝 WebKit jailbreak research for PlayStation 5 firmware 14.10
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-19 22:05:09 UTC] [INFO] ============================================================
+[2026-10-19 22:05:09 UTC] [INFO] Completato — 53 nuovi, 4 aggiornati, 0 errori
+[2026-10-19 22:05:09 UTC] [INFO] ============================================================
