@@ -116599,3 +116599,276 @@
 [2026-10-20 11:03:34 UTC] [INFO] ============================================================
 [2026-10-20 11:03:34 UTC] [INFO] Completato — 49 nuovi, 6 aggiornati, 0 errori
 [2026-10-20 11:03:34 UTC] [INFO] ============================================================
+[2026-10-20 16:29:19 UTC] [INFO] ============================================================
+[2026-10-20 16:29:19 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-20 16:29:19 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-20 16:29:19 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-20 16:29:19 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-20 16:29:19 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-20 16:29:19 UTC] [INFO] ============================================================
+[2026-10-20 16:29:19 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-20 16:29:19 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-20 16:29:22 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-20 16:29:22 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-20 16:29:22 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-20 16:29:22 UTC] [UPD]   📢 📦 danhowett/fx
+     ⭐ 0  🗣 Rust  📅 2026-10-15
+     🔗 https://github.com/danhowett/fx
+     📝 fx -  A GUI based Incident Response tool for hunting financially motivated threa…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-20 16:29:22 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-20 16:29:22 UTC] [UPD]   📢 📦 yasunosubaru/YinHuGuard
+     ⭐ 0  🗣 Dart  📅 2026-10-16
+     🔗 https://github.com/yasunosubaru/YinHuGuard
+     📝 只读的 Windows 银狐（ValleyRAT）木马排查工具：一次扫描七个面，GUI/CLI/日志/报告四渠道同源输出；不修改系统、无网络请求。Read-on…
+     🏷  cpp, flutter, incident-response, malware-analysis, security, security-tools, silverfox, triage, valleyrat, windows
+     🔄 Motivo: repo recente (4gg)
+[2026-10-20 16:29:22 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-20 16:29:22 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-20 16:29:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 34 NUOVI repository:
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 wraith0707/c-xor-encoder
+     ⭐ 0  🗣 C  📅 2026-10-20
+     🔗 https://github.com/wraith0707/c-xor-encoder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 ATUSASIIRE/ICDFA-GRC-ENGINEERING-LABS
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/ATUSASIIRE/ICDFA-GRC-ENGINEERING-LABS
+     📝 GRC Engineering notes, labs and research
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 LightYagami28/crxlauncher-threat-research
+     ⭐ 0  🗣 HTML  📅 2026-10-20
+     🔗 https://github.com/LightYagami28/crxlauncher-threat-research
+     📝 Threat Intelligence, Forensic Analysis & Vulnerability Advisory for CRXLauncher …
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 casildata/malware-dns-threat-detection-ml
+     ⭐ 0  🗣 R  📅 2026-10-20
+     🔗 https://github.com/casildata/malware-dns-threat-detection-ml
+     📝 Threat detection in R: obfuscated malware from memory-forensics features (CIC-Ma…
+     🏷  cic-malmem-2022, cybersecurity, detection-engineering, dns, machine-learning, malicious-domains, malware-detection, memory-forensics, mitre-attack, phishing-detection, r, random-forest, security-analytics, threat-detection, volatility
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 miguelaarrones/portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/miguelaarrones/portfolio
+     📝 My Cybersecurity Portfolio
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 NinKanong/Phish-Hunter
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/NinKanong/Phish-Hunter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 bruvini/rpa-sisreg
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/bruvini/rpa-sisreg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 MbareMario/OC-Analyst-Playbooks
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/MbareMario/OC-Analyst-Playbooks
+     📝 Ejercicios Prácticos Simulados (SOC Junior)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 kazisohan-cyber/soclens
+     ⭐ 0  🗣 JavaScript  📅 2026-10-20
+     🔗 https://github.com/kazisohan-cyber/soclens
+     📝 Free, privacy-first browser extension for SOC analysts and everyone else. Right-…
+     🏷  abuseipdb, blue-team, browser-extension, chrome-extension, edge-extension, email-header-analysis, incident-response, ioc, ioc-enrichment, mssp, open-source, phishing, security-operations, security-tools, sentinelone, soc, soc-analyst, threat-hunting, threat-intelligence, virustotal
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 princewillodoemelam0-star/SOC-Incident-Investigation-EDR-Tampering-Detection-Threat-Analysis-Incident-Response
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/princewillodoemelam0-star/SOC-Incident-Investigation-EDR-Tampering-Detection-Threat-Analysis-Incident-Response
+     📝 Hands-on SOC investigation of a high-severity EDR tampering alert involving EDR-…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 gurinderthakur85-lab/front-page
+     ⭐ 0  🗣 TypeScript  📅 2026-10-20
+     🔗 https://github.com/gurinderthakur85-lab/front-page
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 joshNosConvo/hearing-device-emulator
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/joshNosConvo/hearing-device-emulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 wuraola99/marketing-data-platform
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/wuraola99/marketing-data-platform
+     📝 End-to-end marketing analytics data platform using Databricks, dbt, and Elementa…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 Agent15-AI/DynamicNotch
+     ⭐ 0  🗣 Swift  📅 2026-10-20
+     🔗 https://github.com/Agent15-AI/DynamicNotch
+     📝 A lightweight Dynamic Island for the MacBook notch
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 gagansp-Cyber-SOC/Cybersecurity-Configurations-Implementation
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/gagansp-Cyber-SOC/Cybersecurity-Configurations-Implementation
+     📝 Practical cybersecurity configuration and implementation repository covering SIE…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 aneechas/research-to-video-studio
+     ⭐ 0  🗣 TypeScript  📅 2026-10-20
+     🔗 https://github.com/aneechas/research-to-video-studio
+     📝 One prompt in, a researched presentation video out. Claude Code + Remotion: offi…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 TrustworthyDev/Anti-Capture-App
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/TrustworthyDev/Anti-Capture-App
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 Kha1edramadan/Kha1edramadan.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-20
+     🔗 https://github.com/Kha1edramadan/Kha1edramadan.github.io
+     📝 Khaled Ramadan portfolio — khaledesign.online
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 mortazavidk/Cyberlab
+     ⭐ 0  🗣 HTML  📅 2026-10-20
+     🔗 https://github.com/mortazavidk/Cyberlab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 casildata/cyber-risk-monte-carlo
+     ⭐ 0  🗣 R  📅 2026-10-20
+     🔗 https://github.com/casildata/cyber-risk-monte-carlo
+     📝 FAIR-style cyber risk quantification in R: Monte Carlo annual loss, loss exceeda…
+     🏷  bayesian-statistics, bootstrap, cyber-risk, cybersecurity, fair, mcmc, monte-carlo-simulation, r, risk-analysis, risk-quantification
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 toxy4ny/sam-the-butcher
+     ⭐ 1  🗣 C  📅 2026-10-20
+     🔗 https://github.com/toxy4ny/sam-the-butcher
+     📝 Sam The Butcher - Raw Disk Credential Extractor for Windows NTFS - Sam The Butch…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 Anmol-Upadhyay13/AEIS-Hunt-ai
+     ⭐ 0  🗣 TypeScript  📅 2026-10-20
+     🔗 https://github.com/Anmol-Upadhyay13/AEIS-Hunt-ai
+     📝 # Aegis Hunt AI ## Evidence-Linked AI Cyber Threat Hunting and Attack Reconstruc…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 xujingguo58/esp32-carplay-web-relay
+     ⭐ 0  🗣 C  📅 2026-10-20
+     🔗 https://github.com/xujingguo58/esp32-carplay-web-relay
+     📝 ESP32 CarPlay Web Relay — experimental wireless CarPlay bridge with browser vide…
+     🏷  carplay, embedded-systems, esp-idf, esp32, h264, webrtc
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 serhabdel/sera-ig-cli
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/serhabdel/sera-ig-cli
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 stunninghacker/TIA
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/stunninghacker/TIA
+     📝 Threat Intelligence Aggregator - rule-based IOC feed ingestion, refanging, norma…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 hynko431/OmniConnect-Sentinel
+     ⭐ 0  🗣 Rust  📅 2026-10-20
+     🔗 https://github.com/hynko431/OmniConnect-Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 mmnga/IncidentPreventionSimpleSecurityGuide
+     ⭐ 1  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/mmnga/IncidentPreventionSimpleSecurityGuide
+     📝 コードと設定を静的にレビューするセキュリティ監査スキル
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 stunninghacker/payload-obfuscation-framework
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/stunninghacker/payload-obfuscation-framework
+     📝 Educational lab tool showing why naive signature-based detection is limited (moc…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 lexone/auditoria-invasao-linux
+     ⭐ 0  🗣 Shell  📅 2026-10-20
+     🔗 https://github.com/lexone/auditoria-invasao-linux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 Tharidhi/BreatheSync_
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/Tharidhi/BreatheSync_
+     📝 BreatheSync is an intelligent sleep-monitoring solution designed to predict pote…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 GGtascher/AegisSOC
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/GGtascher/AegisSOC
+     📝 Local-first Windows security monitoring and incident correlation platform
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 renvenetho/edrq
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/renvenetho/edrq
+     📝 content
+     🏷  —
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 sh1ma/np1-tools
+     ⭐ 6  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/sh1ma/np1-tools
+     📝 パイオニア製ドラレコNP1にまつわるエトセトラ
+     🏷  np1
+[2026-10-20 16:29:25 UTC] [NEW]   🆕 📦 watchthelight-labs/hackintosh-feature-test
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/watchthelight-labs/hackintosh-feature-test
+     📝 Feature test for macOS on PC hardware: 119 probes over graphics, display, audio,…
+     🏷  —
+[2026-10-20 16:29:25 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-20 16:29:25 UTC] [UPD]   📢 📦 thexsypher/thexsypher.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/thexsypher/thexsypher.github.io
+     📝 xSypher Engineering - Official publication for backend architecture, AI infrastr…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-20 16:29:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-20 16:29:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-20 16:29:28 UTC] [INFO]   → 32 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-20 16:29:28 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-10-20 16:29:28 UTC] [NEW]   🆕 📦 AjayLucky3/bayora
+     ⭐ 0  🗣 JavaScript  📅 2026-10-20
+     🔗 https://github.com/AjayLucky3/bayora
+     📝 Hardware-Isolated Sandboxing & Zero-Trust Mediation for Adversarial AI Evaluatio…
+     🏷  adversarial-testing, ai-safety, docker-security, gvisor, merkle-tree, systems-engineering, web-crypto, zero-trust
+[2026-10-20 16:29:28 UTC] [NEW]   🆕 📦 ZhuomaSoftware/swe-eval
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ZhuomaSoftware/swe-eval
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-20 16:29:28 UTC] [NEW]   🆕 📦 gustavoluvizotto/static-file-analyzer
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/gustavoluvizotto/static-file-analyzer
+     📝 Toy project for a static file analyzer
+     🏷  —
+[2026-10-20 16:29:28 UTC] [NEW]   🆕 📦 mujtbabbas/Awesome-Hacking
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/mujtbabbas/Awesome-Hacking
+     📝 A collection of various awesome lists for hackers, pentesters and security resea…
+     🏷  —
+[2026-10-20 16:29:28 UTC] [NEW]   🆕 📦 saisarathbb/firetv-clean-root
+     ⭐ 0  🗣 Java  📅 2026-10-20
+     🔗 https://github.com/saisarathbb/firetv-clean-root
+     📝 Native launcher replacement, bloatware disablement, and in-memory root toolkit f…
+     🏷  android-tv, cleanyourtv, cve-2024-43499, debloat, fire-os, firestick, firetv, ghostlock, launcher
+[2026-10-20 16:29:28 UTC] [NEW]   🆕 📦 b0r1s-69/ghostlock-x6840
+     ⭐ 0  🗣 Kotlin  📅 2026-10-20
+     🔗 https://github.com/b0r1s-69/ghostlock-x6840
+     📝 GhostLock port for the Infinix Smart 20 (X6840): kernel profile, W3 seccomp anal…
+     🏷  android, baka-su, ghostlock, infinix-x6840, kernelsu, root, seccomp, shizuku
+[2026-10-20 16:29:28 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-20 16:29:28 UTC] [UPD]   📢 📦 DanieleDellUomo/ps4-exploit-launcher
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/DanieleDellUomo/ps4-exploit-launcher
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-20 16:29:28 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 245  🗣 Assembly  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 Open PS5 firmware 14.10 research: Lua userland experiments, syscall and attack-s…
+     🏷  ps5, ps5-homebrew, ps5-jailbreak, ps5-tools
+     🔄 Motivo: repo recente (4gg)
+[2026-10-20 16:29:28 UTC] [UPD]   📢 📦 RanaKhan77/awesome-cyber-security-heaven
+     ⭐ 3  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/RanaKhan77/awesome-cyber-security-heaven
+     📝 ☁️🔐 Awesome Cyber Security Heaven — 459 curated FREE cybersecurity tools across …
+     🏷  ai-security, awesome, awesome-list, blue-team, bug-bounty, cybersecurity, devsecops, dfir, free-tools, hacking, infosec, llm-security, network-security, open-source, osint, pentesting, privacy, security, security-tools, threat-intelligence
+     🔄 Motivo: repo recente (5gg)
+[2026-10-20 16:29:28 UTC] [UPD]   📢 📦 Yanis-RMA/13ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/Yanis-RMA/13ps4
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-20 16:29:28 UTC] [INFO] ============================================================
+[2026-10-20 16:29:28 UTC] [INFO] Completato — 40 nuovi, 8 aggiornati, 0 errori
+[2026-10-20 16:29:28 UTC] [INFO] ============================================================
