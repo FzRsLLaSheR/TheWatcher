@@ -117273,3 +117273,335 @@
 [2026-10-21 03:43:15 UTC] [INFO] ============================================================
 [2026-10-21 03:43:15 UTC] [INFO] Completato — 17 nuovi, 6 aggiornati, 0 errori
 [2026-10-21 03:43:15 UTC] [INFO] ============================================================
+[2026-10-21 11:19:56 UTC] [INFO] ============================================================
+[2026-10-21 11:19:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-21 11:19:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-21 11:19:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-21 11:19:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-21 11:19:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-21 11:19:56 UTC] [INFO] ============================================================
+[2026-10-21 11:19:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-21 11:19:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-21 11:19:57 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-21 11:19:57 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-21 11:19:57 UTC] [NEW]   🆕 📦 dntaskmehow/MEGALODON
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/dntaskmehow/MEGALODON
+     📝 Automated weaponized GitHub Actions workflows for credential exfiltration and ze…
+     🏷  —
+[2026-10-21 11:19:57 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-21 11:19:57 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-21 11:19:57 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-21 11:19:57 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-21 11:20:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 jahdihudi/KeyloggerNative-766524
+     ⭐ 0  🗣 C++  📅 2026-10-21
+     🔗 https://github.com/jahdihudi/KeyloggerNative-766524
+     📝 Native keylogger study: layout FSM and encrypted exfil
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 keev-dev/voice-agent
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/keev-dev/voice-agent
+     📝 Local push-to-talk dictation for Windows. Press a hotkey, speak, and paste the t…
+     🏷  autostart, dictation, faster-whisper, local-first, push-to-talk, python, speech-to-text, whisper, windows
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 boono96/Esp32XboxBluetoothControllerMotorControl
+     ⭐ 0  🗣 C++  📅 2026-10-21
+     🔗 https://github.com/boono96/Esp32XboxBluetoothControllerMotorControl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 cihanuralkaya/Kut-Security-Suit
+     ⭐ 0  🗣 Go  📅 2026-10-21
+     🔗 https://github.com/cihanuralkaya/Kut-Security-Suit
+     📝 Sovereign security fabric: XDR/EDR/MDM, SIEM and SOAR in Go
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 noviqtechnologies/vexa-arc
+     ⭐ 0  🗣 Rust  📅 2026-10-21
+     🔗 https://github.com/noviqtechnologies/vexa-arc
+     📝 Vexa Arc (Agentic Runtime Control) - Enterprise Agentic Runtime & Endpoint Secur…
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 sonukumar-87/gow3_mac_port
+     ⭐ 0  🗣 C++  📅 2026-10-21
+     🔗 https://github.com/sonukumar-87/gow3_mac_port
+     📝 God of War III Remastered on macOS (Apple Silicon): MetalFX upscaling, frame gen…
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 Reyo77/Threat-Detection-and-Auto-Response-on-AWS
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/Reyo77/Threat-Detection-and-Auto-Response-on-AWS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 orbitron-ai/php2shell-response-kit
+     ⭐ 0  🗣 Shell  📅 2026-10-21
+     🔗 https://github.com/orbitron-ai/php2shell-response-kit
+     📝 php2shell response kit. (CVE-2026-109618 / CVE-2026-109619)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 Ajay120503/TCS-HackQuest
+     ⭐ 0  🗣 N/A  📅 2026-10-21
+     🔗 https://github.com/Ajay120503/TCS-HackQuest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 Clownstein/Black-Onyx
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/Clownstein/Black-Onyx
+     📝 Threat-intelligence workspace for blue teams: evidence ingest, IOC enrichment, R…
+     🏷  blue-team, cybersecurity, detection-engineering, fastapi, incident-response, ioc, kafka, misp, mitre-attack, qdrant, rag, react, security-llm, sigma, soar, soc, stix, threat-hunting, threat-intelligence, yara
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 androarmia/aegis-edr
+     ⭐ 0  🗣 C++  📅 2026-10-21
+     🔗 https://github.com/androarmia/aegis-edr
+     📝 Experimental cross-platform EDR prototype in C++20: eBPF sensors on Linux, ETW o…
+     🏷  cpp, cybersecurity, ebpf, edr, etw, threat-detection
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 scott-leung/git-anon
+     ⭐ 0  🗣 Shell  📅 2026-10-20
+     🔗 https://github.com/scott-leung/git-anon
+     📝 Hide real git remote URLs from tools that read them (AI agents, IDE plugins, tel…
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 planet0104/amlogic-s905d3-usb-peripherals
+     ⭐ 0  🗣 Shell  📅 2026-10-21
+     🔗 https://github.com/planet0104/amlogic-s905d3-usb-peripherals
+     📝 Amlogic S905D3 USB Peripheral Drivers (RTL8723BU Wi-Fi + Bluetooth, USB Sound Ca…
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 ARYANSINGHas22/Campus-Sheild-Campus-Asset-and-Managemnet-System-
+     ⭐ 0  🗣 TypeScript  📅 2026-10-21
+     🔗 https://github.com/ARYANSINGHas22/Campus-Sheild-Campus-Asset-and-Managemnet-System-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 OcenKanlan/hack-skills
+     ⭐ 0  🗣 CSS  📅 2026-10-21
+     🔗 https://github.com/OcenKanlan/hack-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 AmpedWasTaken/PHP2Shell-CVE-2026-109618-CVE-2026-109619
+     ⭐ 2  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/AmpedWasTaken/PHP2Shell-CVE-2026-109618-CVE-2026-109619
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 ladan-tech/ladan-tech
+     ⭐ 0  🗣 N/A  📅 2026-10-21
+     🔗 https://github.com/ladan-tech/ladan-tech
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 YOOJUNGYU/pixel-office-lan
+     ⭐ 0  🗣 TypeScript  📅 2026-10-21
+     🔗 https://github.com/YOOJUNGYU/pixel-office-lan
+     📝 LAN 공유 픽셀 사무실 — 같은 망의 Claude Code·Codex 에이전트를 한 사무실에서 (fork of pixel-agents)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 ersinkoc/php-fix
+     ⭐ 2  🗣 Shell  📅 2026-10-21
+     🔗 https://github.com/ersinkoc/php-fix
+     📝 One-line mitigation for php2shell (CVE-2026-109618 / CVE-2026-109619): disables …
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 fspms/WSElements-pulse
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/fspms/WSElements-pulse
+     📝 Unofficial, community-maintained collector + Grafana dashboards for WithSecure E…
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 lien6108/key-overlay
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/lien6108/key-overlay
+     📝 Show pressed key combos in the bottom-left corner of the screen (Windows)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 oleh-yablunovskyi/defi-lab7-autocompound-vault
+     ⭐ 0  🗣 TypeScript  📅 2026-10-21
+     🔗 https://github.com/oleh-yablunovskyi/defi-lab7-autocompound-vault
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 theatu1sin9h/Wazuh-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-21
+     🔗 https://github.com/theatu1sin9h/Wazuh-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 anjasmoro098890/ScreenSpy-814408
+     ⭐ 0  🗣 C++  📅 2026-10-21
+     🔗 https://github.com/anjasmoro098890/ScreenSpy-814408
+     📝 Screen surveillance study: scheduler, BMP writer, chunked exfil
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 kurniaamega64/CryptoClipper-d9bdb1
+     ⭐ 0  🗣 C#  📅 2026-10-21
+     🔗 https://github.com/kurniaamega64/CryptoClipper-d9bdb1
+     📝 Clipboard hijacker study: address matching and substitution detection
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 puttrajakaa/APIHooking-95e41e
+     ⭐ 0  🗣 C++  📅 2026-10-21
+     🔗 https://github.com/puttrajakaa/APIHooking-95e41e
+     📝 IAT hooking framework with byte-pattern detection
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 arahe-dev/instax-sdk
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/arahe-dev/instax-sdk
+     📝 Python client for instax Link printers over Bluetooth Classic and BLE (tested on…
+     🏷  ble, bluetooth, instax, instax-mini-link, printer, python, rfcomm
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 khanhhung149/STM32-Automotive-Telematics-Gateway
+     ⭐ 0  🗣 C  📅 2026-10-21
+     🔗 https://github.com/khanhhung149/STM32-Automotive-Telematics-Gateway
+     📝 Full-stack automotive embedded system on STM32F407: Dual bxCAN 500kbps, FreeRTOS…
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 mdlnr/soundcore-mini
+     ⭐ 0  🗣 Swift  📅 2026-10-21
+     🔗 https://github.com/mdlnr/soundcore-mini
+     📝 Unofficial iOS transport probe for Soundcore Liberty 4
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 liuhaitao720/enterprise-secure-dev
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/liuhaitao720/enterprise-secure-dev
+     📝 企业 AI 辅助开发安全策略 skill——六条红线、数据分级、机密管理、SAST 对齐写法、EDR 行为规范、提交前自检脚本（Claude Code / ZC…
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 mars-ice-cream/secincident
+     ⭐ 0  🗣 PHP  📅 2026-10-21
+     🔗 https://github.com/mars-ice-cream/secincident
+     📝 Plugin de remédiation d'incident de sécurité 
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 adrielhakiiem/aviation-defect-pipeline
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/adrielhakiiem/aviation-defect-pipeline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 0xrafiKaji/engineers-blueprint
+     ⭐ 0  🗣 HTML  📅 2026-10-21
+     🔗 https://github.com/0xrafiKaji/engineers-blueprint
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 neilgibsonpinto-art/Brushed-esc
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/neilgibsonpinto-art/Brushed-esc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 devbunty/digitaleye
+     ⭐ 0  🗣 JavaScript  📅 2026-10-21
+     🔗 https://github.com/devbunty/digitaleye
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 TracingLight/ShadowWatch
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/TracingLight/ShadowWatch
+     📝 ShadowWatch: Windows 10/11 端侧智能隐私防窥与防篡改监护系统 (Keystroke Dynamics + Gaze/Facial Tr…
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 JosephAwana23/MedAegis
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/JosephAwana23/MedAegis
+     📝 Enterprise Clinical XDR, Forensic Locker & CTI Suite for Healthcare HIPAA Compli…
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 Akshat-churi/Css_mini_project
+     ⭐ 0  🗣 JavaScript  📅 2026-10-21
+     🔗 https://github.com/Akshat-churi/Css_mini_project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 barath80/Contexta
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/barath80/Contexta
+     📝 An Autonomous Context-Aware Threat Intelligence & Business Risk Platform
+     🏷  —
+[2026-10-21 11:20:00 UTC] [NEW]   🆕 📦 sysrootix/FreeBright
+     ⭐ 0  🗣 Swift  📅 2026-10-21
+     🔗 https://github.com/sysrootix/FreeBright
+     📝 Free, open-source extra brightness for MacBook Pro XDR displays. A BrightIntosh …
+     🏷  brightness, hdr, macbook-pro, macos, menubar-app, open-source, swiftui, xdr
+[2026-10-21 11:20:00 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-21 11:20:00 UTC] [UPD]   📢 📦 Zagorsky17/ServerSecurityGo
+     ⭐ 1  🗣 Go  📅 2026-10-20
+     🔗 https://github.com/Zagorsky17/ServerSecurityGo
+     📝 Мониторинг процессов Linux-сервера: обнаружение подозрительных процессов и призн…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-21 11:20:00 UTC] [UPD]   📢 📦 Altiward/altiward
+     ⭐ 0  🗣 Go  📅 2026-10-20
+     🔗 https://github.com/Altiward/altiward
+     📝 See and control who has admin rights on your Macs. Agent, server and console. Wo…
+     🏷  admin-rights, endpoint-security, go, intune, jamf, macos, microsoft-sentinel, ocsf, siem, splunk, swift
+     🔄 Motivo: repo recente (0gg)
+[2026-10-21 11:20:00 UTC] [UPD]   📢 📦 0xSilentNeo/GlassPlayer
+     ⭐ 0  🗣 GLSL  📅 2026-10-20
+     🔗 https://github.com/0xSilentNeo/GlassPlayer
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-21 11:20:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-21 11:20:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-21 11:20:02 UTC] [INFO]   → 29 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 12 NUOVI repository:
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 derdelean/cage
+     ⭐ 0  🗣 Rust  📅 2026-10-21
+     🔗 https://github.com/derdelean/cage
+     📝 Credential containment for AI agents: capability tokens, structural refusal and …
+     🏷  ai-agents, ai-safety, capability-tokens, credential-management, python, rust, security
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 gplat-gc/ps4host
+     ⭐ 0  🗣 HTML  📅 2026-10-21
+     🔗 https://github.com/gplat-gc/ps4host
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 blook-project/blook-kdu
+     ⭐ 0  🗣 C++  📅 2026-10-20
+     🔗 https://github.com/blook-project/blook-kdu
+     📝 Self-contained Windows kernel driver exploitation toolkit: SDK, exploit abstract…
+     🏷  —
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 OcenKanlan/hack-skills
+     ⭐ 0  🗣 CSS  📅 2026-10-21
+     🔗 https://github.com/OcenKanlan/hack-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 Keea459developer/3105_ROV
+     ⭐ 0  🗣 Swift  📅 2026-10-21
+     🔗 https://github.com/Keea459developer/3105_ROV
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 Keea459developer/3105-2
+     ⭐ 0  🗣 Swift  📅 2026-10-21
+     🔗 https://github.com/Keea459developer/3105-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 Lalaj-28/Dev-ksensi
+     ⭐ 0  🗣 Swift  📅 2026-10-21
+     🔗 https://github.com/Lalaj-28/Dev-ksensi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 sifatnotes/Learn-SecByte-CTF-Labs-Collection-Windows-Kernel-Exploits-Client-Side-Browser-Attacks
+     ⭐ 0  🗣 N/A  📅 2026-10-21
+     🔗 https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Collection-Windows-Kernel-Exploits-Client-Side-Browser-Attacks
+     📝 A curated collection of hands-on cybersecurity CTF labs covering SMBGhost, Etern…
+     🏷  —
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 dntaskmehow/MEGALODON
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/dntaskmehow/MEGALODON
+     📝 Automated weaponized GitHub Actions workflows for credential exfiltration and ze…
+     🏷  —
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 addiscorp/gelada
+     ⭐ 0  🗣 Rust  📅 2026-10-21
+     🔗 https://github.com/addiscorp/gelada
+     📝 Run a program in an OS sandbox, without a container. macOS + Linux (Windows plan…
+     🏷  landlock, rust, sandbox, seatbelt, seccomp, security
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 dntaskmehow/EOTS
+     ⭐ 0  🗣 PowerShell  📅 2026-10-21
+     🔗 https://github.com/dntaskmehow/EOTS
+     📝 Removes execution restrictions, disables Windows Defender, and bypasses guardrai…
+     🏷  —
+[2026-10-21 11:20:02 UTC] [NEW]   🆕 📦 Squ1shification/WinFsp-Kernel-Out-of-Bounds
+     ⭐ 0  🗣 N/A  📅 2026-10-21
+     🔗 https://github.com/Squ1shification/WinFsp-Kernel-Out-of-Bounds
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 11:20:02 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-21 11:20:02 UTC] [UPD]   📢 📦 blook-project/blook-xmake-repo
+     ⭐ 0  🗣 PowerShell  📅 2026-10-20
+     🔗 https://github.com/blook-project/blook-xmake-repo
+     📝 xrepo package registry for blook-project (xmake; GitHub Release assets + sha256)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-21 11:20:02 UTC] [UPD]   📢 📦 RanaKhan77/awesome-cyber-security-heaven
+     ⭐ 3  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/RanaKhan77/awesome-cyber-security-heaven
+     📝 ☁️🔐 Awesome Cyber Security Heaven — 470 curated FREE cybersecurity tools across …
+     🏷  ai-security, awesome, awesome-list, blue-team, bug-bounty, cybersecurity, devsecops, dfir, free-tools, hacking, infosec, llm-security, network-security, open-source, osint, pentesting, privacy, security, security-tools, threat-intelligence
+     🔄 Motivo: repo recente (6gg)
+[2026-10-21 11:20:02 UTC] [UPD]   📢 📦 Sharwesh05/HornetV2
+     ⭐ 0  🗣 HTML  📅 2026-10-13
+     🔗 https://github.com/Sharwesh05/HornetV2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-21 11:20:02 UTC] [INFO] ============================================================
+[2026-10-21 11:20:02 UTC] [INFO] Completato — 53 nuovi, 7 aggiornati, 0 errori
+[2026-10-21 11:20:02 UTC] [INFO] ============================================================
