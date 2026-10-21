@@ -117127,3 +117127,149 @@
 [2026-10-20 21:20:51 UTC] [INFO] ============================================================
 [2026-10-20 21:20:51 UTC] [INFO] Completato — 40 nuovi, 5 aggiornati, 0 errori
 [2026-10-20 21:20:51 UTC] [INFO] ============================================================
+[2026-10-21 03:43:07 UTC] [INFO] ============================================================
+[2026-10-21 03:43:07 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-21 03:43:07 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-21 03:43:07 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-21 03:43:07 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-21 03:43:07 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-21 03:43:07 UTC] [INFO] ============================================================
+[2026-10-21 03:43:07 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-21 03:43:07 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-21 03:43:10 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-21 03:43:10 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-21 03:43:10 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-21 03:43:10 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-21 03:43:10 UTC] [UPD]   📢 📦 danhowett/fx
+     ⭐ 0  🗣 Rust  📅 2026-10-15
+     🔗 https://github.com/danhowett/fx
+     📝 fx -  A GUI based Incident Response tool for hunting financially motivated threa…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-21 03:43:10 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-21 03:43:10 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-21 03:43:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 trungromance/edri
+     ⭐ 0  🗣 HTML  📅 2026-10-21
+     🔗 https://github.com/trungromance/edri
+     📝 De An Cong Nghe Ho Tro Phat Trien Cong Dong Doanh Nhan Viet Nam - ASEAN (EDRI)
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 phpblok3/eDropPhp
+     ⭐ 0  🗣 HTML  📅 2026-10-21
+     🔗 https://github.com/phpblok3/eDropPhp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 XiaoSaT/tomato-focus
+     ⭐ 0  🗣 TypeScript  📅 2026-10-21
+     🔗 https://github.com/XiaoSaT/tomato-focus
+     📝 Windows Pomodoro timer that scores your focus from global keyboard/mouse behavio…
+     🏷  electron, focus, i18n, pomodoro, productivity, typescript, windows-desktop
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 thexsypher/.github
+     ⭐ 0  🗣 N/A  📅 2026-10-21
+     🔗 https://github.com/thexsypher/.github
+     📝 Organization health and profile README for the xSypher engineering organization.
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 nlugopino/soc-n1-c03-lugo-galvis
+     ⭐ 0  🗣 Shell  📅 2026-10-21
+     🔗 https://github.com/nlugopino/soc-n1-c03-lugo-galvis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 hazaaalghalibi/WinEveLogAnalyzer
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/hazaaalghalibi/WinEveLogAnalyzer
+     📝 A Python-based Windows Security Event Log Analyzer for defensive monitoring, aut…
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 clanker25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/clanker25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 flavio10542/SOC2_Cloud_Agnostic_workflow
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/flavio10542/SOC2_Cloud_Agnostic_workflow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 AbdElrhman-Mohamed-Ghazy/Edrak
+     ⭐ 0  🗣 HTML  📅 2026-10-20
+     🔗 https://github.com/AbdElrhman-Mohamed-Ghazy/Edrak
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 nour-abdelwahed/DFIR-Windows-Endpoint-Forensics
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/nour-abdelwahed/DFIR-Windows-Endpoint-Forensics
+     📝 Hands-on DFIR investigation of a simulated Windows compromise using Volatility 3…
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 Ladegit/marketing-data-platform
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/Ladegit/marketing-data-platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 deoxynet/browserdefense
+     ⭐ 0  🗣 TypeScript  📅 2026-10-20
+     🔗 https://github.com/deoxynet/browserdefense
+     📝 Browser-level IOC blocking with client-side encrypted forensics
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 OuaboDerrick/ir-planning-northbridge-case
+     ⭐ 0  🗣 N/A  📅 2026-10-20
+     🔗 https://github.com/OuaboDerrick/ir-planning-northbridge-case
+     📝 Act as the Incident Response Lead for a fictional training institute facing a su…
+     🏷  —
+[2026-10-21 03:43:12 UTC] [NEW]   🆕 📦 Altiward/altiward
+     ⭐ 0  🗣 Go  📅 2026-10-20
+     🔗 https://github.com/Altiward/altiward
+     📝 See and control who has admin rights on your Macs. Agent, server and console. Wo…
+     🏷  admin-rights, endpoint-security, go, intune, jamf, macos, microsoft-sentinel, ocsf, siem, splunk, swift
+[2026-10-21 03:43:12 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-21 03:43:12 UTC] [UPD]   📢 📦 Kha1edramadan/Kha1edramadan.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-20
+     🔗 https://github.com/Kha1edramadan/Kha1edramadan.github.io
+     📝 Khaled Ramadan portfolio — khaledesign.online
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-21 03:43:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-21 03:43:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-21 03:43:15 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-21 03:43:15 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-21 03:43:15 UTC] [NEW]   🆕 📦 Eskiell/DietHEN
+     ⭐ 1  🗣 C  📅 2026-10-20
+     🔗 https://github.com/Eskiell/DietHEN
+     📝 DietHEN: a minimal, independent PS5 homebrew enabler
+     🏷  —
+[2026-10-21 03:43:15 UTC] [NEW]   🆕 📦 dntaskmehow/STORM-RAT
+     ⭐ 0  🗣 Rust  📅 2026-10-21
+     🔗 https://github.com/dntaskmehow/STORM-RAT
+     📝 WEAPONIZED MALWARE SUITE (GO, RUST, JAVASCRIPT)
+     🏷  —
+[2026-10-21 03:43:15 UTC] [NEW]   🆕 📦 Lalaj-28/Shahs
+     ⭐ 0  🗣 Swift  📅 2026-10-20
+     🔗 https://github.com/Lalaj-28/Shahs
+     📝 Shsh
+     🏷  —
+[2026-10-21 03:43:15 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-21 03:43:15 UTC] [UPD]   📢 📦 HexVandal/nemesis
+     ⭐ 0  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/HexVandal/nemesis
+     📝 Offensive-security scanner that proves what it finds. Every active check is a di…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-21 03:43:15 UTC] [UPD]   📢 📦 ayushverma7599/CanaryChain
+     ⭐ 1  🗣 Python  📅 2026-10-19
+     🔗 https://github.com/ayushverma7599/CanaryChain
+     📝 Tripwires, MITRE ATLAS labels and a tamper-evident log that prove tenant isolati…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-21 03:43:15 UTC] [UPD]   📢 📦 Yanis-RMA/13ps4
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/Yanis-RMA/13ps4
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-21 03:43:15 UTC] [INFO] ============================================================
+[2026-10-21 03:43:15 UTC] [INFO] Completato — 17 nuovi, 6 aggiornati, 0 errori
+[2026-10-21 03:43:15 UTC] [INFO] ============================================================
