@@ -118953,3 +118953,189 @@
 [2026-10-22 16:47:16 UTC] [INFO] ============================================================
 [2026-10-22 16:47:16 UTC] [INFO] Completato — 36 nuovi, 8 aggiornati, 0 errori
 [2026-10-22 16:47:16 UTC] [INFO] ============================================================
+[2026-10-22 21:17:06 UTC] [INFO] ============================================================
+[2026-10-22 21:17:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-22 21:17:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-22 21:17:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-22 21:17:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-22 21:17:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-22 21:17:06 UTC] [INFO] ============================================================
+[2026-10-22 21:17:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-22 21:17:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-22 21:17:08 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 49 nella finestra 'aggiornati'
+[2026-10-22 21:17:08 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-22 21:17:08 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-22 21:17:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-22 21:17:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-22 21:17:12 UTC] [INFO]   → 49 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 marrusl/mdatp-bootc
+     ⭐ 0  🗣 Shell  📅 2026-10-22
+     🔗 https://github.com/marrusl/mdatp-bootc
+     📝 Entirely unofficial bootc installation of Microsoft Defender for Endpoint on Lin…
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 aulafy/vigia
+     ⭐ 0  🗣 JavaScript  📅 2026-10-22
+     🔗 https://github.com/aulafy/vigia
+     📝 24/7 watch over your clients' sites: uptime, TLS, exploited CVEs (CISA KEV), vul…
+     🏷  cisa-kev, cve, monitoring, msp, ntfy, osv, uptime-monitoring, vulnerability-management
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 PiotrAsyngier/SOC-Incident-Reports
+     ⭐ 0  🗣 N/A  📅 2026-10-22
+     🔗 https://github.com/PiotrAsyngier/SOC-Incident-Reports
+     📝 Blue Team & SOC L1 Investigation Reports, Malware Triage, and Log Analysis Write…
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Nebride69/partnermap-search-core
+     ⭐ 0  🗣 TypeScript  📅 2026-10-22
+     🔗 https://github.com/Nebride69/partnermap-search-core
+     📝 Open-source TypeScript library for Turkish-aware entity search, typo-tolerant ma…
+     🏷  b2b, fuzzy-search, open-source, string-matching, text-normalization, turkish, typescript, unicode
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 M-AbubakarNadeem/Alert2Playbook
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/M-AbubakarNadeem/Alert2Playbook
+     📝 Multi-agent LangGraph system: security alert in, MITRE ATT&CK mapping and a grou…
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Mbess20/soc-alert-triage-incident-response
+     ⭐ 0  🗣 N/A  📅 2026-10-22
+     🔗 https://github.com/Mbess20/soc-alert-triage-incident-response
+     📝 Hands-on SOC alert triage and incident response lab using Splunk Enterprise to i…
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Francesco149/lucente-macos
+     ⭐ 0  🗣 Swift  📅 2026-10-22
+     🔗 https://github.com/Francesco149/lucente-macos
+     📝 Native macOS app for cheap Bluetooth LED strips and bars (HappyLighting/Triones,…
+     🏷  app-intents, bluetooth-low-energy, corebluetooth, led-strip, macos, menu-bar-app, reverse-engineering, smart-lighting, swift, swiftui
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 samatoovnaa/sibur-incidents
+     ⭐ 0  🗣 HTML  📅 2026-10-22
+     🔗 https://github.com/samatoovnaa/sibur-incidents
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 ssahmed532/sa-workstation-patch-triage
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/ssahmed532/sa-workstation-patch-triage
+     📝 Claude Code skill: read-only security patch triage for a Windows dev workstation
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 bcaglarr/bcaglarr
+     ⭐ 0  🗣 N/A  📅 2026-10-22
+     🔗 https://github.com/bcaglarr/bcaglarr
+     📝 Profil
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 ByTE-X-Bit-Technologies/bxb-securityscore
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/ByTE-X-Bit-Technologies/bxb-securityscore
+     📝 BXB Security Score - Community Edition (ELv2)
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Officerwasu/php2shell
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/Officerwasu/php2shell
+     📝 phpwshell poc for CVE-2026-109618
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Filipegabri/Wazuh-enterprise-baseline-2026
+     ⭐ 0  🗣 N/A  📅 2026-10-22
+     🔗 https://github.com/Filipegabri/Wazuh-enterprise-baseline-2026
+     📝 As 15 regras do wazuh enterprise de 2026 mepeado no MiTTre ATTACk 
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 luiscm17/edt-drilling
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/luiscm17/edt-drilling
+     📝 drilling
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Awsafaneh/thryve-dfir
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/Awsafaneh/thryve-dfir
+     📝 Thryve: a local Windows SOC, SIEM, incident response, and DFIR workstation with …
+     🏷  cybersecurity, dfir, digital-forensics, incident-response, siem, soc
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Shannu116/Shannu116
+     ⭐ 0  🗣 N/A  📅 2026-10-22
+     🔗 https://github.com/Shannu116/Shannu116
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Kathrinejames1122/Cisco-350-701-SCOR-v2-Security-Core-Study-Guide
+     ⭐ 0  🗣 N/A  📅 2026-10-22
+     🔗 https://github.com/Kathrinejames1122/Cisco-350-701-SCOR-v2-Security-Core-Study-Guide
+     📝 A practical Cisco 350-701 SCOR v2.0 study guide covering network and cloud secur…
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 skydwn/skydwn
+     ⭐ 0  🗣 N/A  📅 2026-10-22
+     🔗 https://github.com/skydwn/skydwn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Vishnu-K-Menon/sentinel-triage
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/Vishnu-K-Menon/sentinel-triage
+     📝 Cut mean-time-to-triage without teaching your SOC to cry wolf.
+     🏷  docker, grafana, llm-api-function-calling, opensearch, python, redis-streams, sigma-rules
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 Btocode/bluez-classic-pair-fix
+     ⭐ 0  🗣 Shell  📅 2026-10-22
+     🔗 https://github.com/Btocode/bluez-classic-pair-fix
+     📝 Fix Bluetooth headsets on Linux that connect then instantly disconnect with br-c…
+     🏷  a2dp, bluetooth, bluetooth-audio, bluez, cmf, linux, nothing, pipewire
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 pavanpentakota2006-beep/SentinelAI
+     ⭐ 0  🗣 TypeScript  📅 2026-10-22
+     🔗 https://github.com/pavanpentakota2006-beep/SentinelAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-22 21:17:12 UTC] [NEW]   🆕 📦 VitorFerreiraCode/oficina-malwares
+     ⭐ 0  🗣 HTML  📅 2026-10-22
+     🔗 https://github.com/VitorFerreiraCode/oficina-malwares
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-22 21:17:12 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-22 21:17:12 UTC] [UPD]   📢 📦 PatrickWiloak/security-zero-to-hero
+     ⭐ 1  🗣 HTML  📅 2026-10-21
+     🔗 https://github.com/PatrickWiloak/security-zero-to-hero
+     📝 Security Zero to Hero: a free path from zero to security engineer. 24 security c…
+     🏷  certifications, cissp, cloud-security, compliance, cybersecurity, security, security-plus, zero-trust
+     🔄 Motivo: repo recente (1gg)
+[2026-10-22 21:17:12 UTC] [UPD]   📢 📦 thexsypher/thexsypher.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/thexsypher/thexsypher.github.io
+     📝 xSypher Engineering - Official publication for backend architecture, AI infrastr…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-22 21:17:12 UTC] [UPD]   📢 📦 Altiward/altiward
+     ⭐ 0  🗣 Go  📅 2026-10-20
+     🔗 https://github.com/Altiward/altiward
+     📝 See and control who has admin rights on your Macs. Agent, server and console. Wo…
+     🏷  admin-rights, endpoint-security, go, intune, jamf, macos, microsoft-sentinel, ocsf, siem, splunk, swift
+     🔄 Motivo: repo recente (2gg)
+[2026-10-22 21:17:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-22 21:17:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-22 21:17:14 UTC] [INFO]   → 29 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-22 21:17:14 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-22 21:17:14 UTC] [NEW]   🆕 📦 nnssprasad97/celesto_real_work_agent
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/nnssprasad97/celesto_real_work_agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-22 21:17:14 UTC] [NEW]   🆕 📦 0xQuotient/WhoHacker
+     ⭐ 0  🗣 HTML  📅 2026-10-21
+     🔗 https://github.com/0xQuotient/WhoHacker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-22 21:17:14 UTC] [NEW]   🆕 📦 MatheoV9/ps4-host
+     ⭐ 0  🗣 HTML  📅 2026-10-22
+     🔗 https://github.com/MatheoV9/ps4-host
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-22 21:17:14 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-22 21:17:14 UTC] [UPD]   📢 📦 RanaKhan77/awesome-cyber-security-heaven
+     ⭐ 3  🗣 N/A  📅 2026-10-14
+     🔗 https://github.com/RanaKhan77/awesome-cyber-security-heaven
+     📝 Awesome Cyber Security Heaven — 496 curated FREE cybersecurity tools across 14 r…
+     🏷  awesome, awesome-ai-security, awesome-appsec, awesome-blue-team, awesome-ctf, awesome-cyber-security, awesome-cybersecurity, awesome-dfir, awesome-ethical-hacking, awesome-forensics, awesome-hacking, awesome-list, awesome-llm-security, awesome-malware-analysis, awesome-osint, awesome-pentest, awesome-reverse-engineering, awesome-security, awesome-threat-intelligence, osint
+     🔄 Motivo: nuovi topic: awesome-ctf, awesome-appsec, awesome-malware-analysis, awesome-forensics, awesome-llm-security, awesome-blue-team, awesome-dfir, awesome-reverse-engineering, awesome-ai-security, awesome-threat-intelligence, awesome-ethical-hacking
+[2026-10-22 21:17:14 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 275  🗣 Assembly  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 Open PS5 firmware 14.10 research: Lua userland experiments, syscall and attack-s…
+     🏷  ps5, ps5-homebrew, ps5-jailbreak, ps5-tools
+     🔄 Motivo: repo recente (6gg)
+[2026-10-22 21:17:14 UTC] [UPD]   📢 📦 CPritch/anyps5-title-runs
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/CPritch/anyps5-title-runs
+     📝 Opt-in title runs of AnyPS5 pull requests on volunteers' own dumps (work in prog…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-22 21:17:14 UTC] [INFO] ============================================================
+[2026-10-22 21:17:14 UTC] [INFO] Completato — 25 nuovi, 6 aggiornati, 0 errori
+[2026-10-22 21:17:14 UTC] [INFO] ============================================================
