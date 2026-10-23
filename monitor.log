@@ -119898,3 +119898,248 @@
 [2026-10-23 16:38:23 UTC] [INFO] ============================================================
 [2026-10-23 16:38:23 UTC] [INFO] Completato — 41 nuovi, 8 aggiornati, 0 errori
 [2026-10-23 16:38:23 UTC] [INFO] ============================================================
+[2026-10-23 21:06:23 UTC] [INFO] ============================================================
+[2026-10-23 21:06:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-23 21:06:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-23 21:06:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-23 21:06:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-23 21:06:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-23 21:06:23 UTC] [INFO] ============================================================
+[2026-10-23 21:06:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-23 21:06:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-23 21:06:26 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 49 nella finestra 'aggiornati'
+[2026-10-23 21:06:26 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-23 21:06:26 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-23 21:06:26 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-23 21:06:26 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-23 21:06:26 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-23 21:06:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 31 NUOVI repository:
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 prostopasta/freebuds-l2cap-sig-mtu
+     ⭐ 0  🗣 C  📅 2026-10-23
+     🔗 https://github.com/prostopasta/freebuds-l2cap-sig-mtu
+     📝 Huawei FreeBuds stop connecting on recent kernels: analysis, one-line patch and …
+     🏷  bluetooth, bluez, dkms, freebuds, huawei, l2cap, linux-kernel, regression
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 hoorianoor4567-alt/wazuh-endpoint-security
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/hoorianoor4567-alt/wazuh-endpoint-security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 ebA-2x/SOC-Incident-Response-Threat-Hunting-Lab
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/ebA-2x/SOC-Incident-Response-Threat-Hunting-Lab
+     📝 Simulated SOC investigation covering incident response, threat hunting, and netw…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 virtualvance/SnapshotIntegrityInspector
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/virtualvance/SnapshotIntegrityInspector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 AlissonCamargo20/TallerMecanicoEDR
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/AlissonCamargo20/TallerMecanicoEDR
+     📝 Sitio web del Taller Mecánico EDR
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 Felixitus/WinEventAI
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/Felixitus/WinEventAI
+     📝 Lokales Windows-Diagnosewerkzeug fuer Ereignisprotokolle mit lokalem Sprachmodel…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 jtbuchanan-tenb/php2shell-playbook
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/jtbuchanan-tenb/php2shell-playbook
+     📝 Find, fix and hunt PHP2Shell with three CyberAgents Exchange skills in one Claud…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 srthk-mahajan/SIEM-l
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/srthk-mahajan/SIEM-l
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 DarkBitx/wtp3-loader
+     ⭐ 0  🗣 C  📅 2026-10-23
+     🔗 https://github.com/DarkBitx/wtp3-loader
+     📝 A novel variation of Process Parameter Poisoning (P³) that abuses the Window Tit…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 Lynxplayer/Secure-Virtual-Lab-Deployment-and-Configuration
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/Lynxplayer/Secure-Virtual-Lab-Deployment-and-Configuration
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 pvtltdpratik/kernal-guard
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/pvtltdpratik/kernal-guard
+     📝 KernelGuard is a Windows endpoint threat detection system (EDR) built with Pytho…
+     🏷  blue-team, edr, fastapi, mitre-attack, nextjs, sysmon, threat-detection, windows-security
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 khandakerashik/cyberwatch
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/khandakerashik/cyberwatch
+     📝 CyberWatch – Cyber Threat Intelligence & Incident Monitoring Console
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 Unskilled0ne/nist-csf-assessment
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/Unskilled0ne/nist-csf-assessment
+     📝 Enterprise NIST CSF 2.0 governance, risk, and compliance audit platform with aut…
+     🏷  compliance, cybersecurity-governance, grc, iso27001, nist-csf, poam, python, risk-assessment
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 amrlhakimii/loglens
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/amrlhakimii/loglens
+     📝 In-browser log analyzer: explainable detection rules, MITRE ATT&CK mapping, time…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 pedrogfleming/w11-security-tools
+     ⭐ 0  🗣 PowerShell  📅 2026-10-23
+     🔗 https://github.com/pedrogfleming/w11-security-tools
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 ZacharyRios3/Threat-Hunting-Scenario-Tor
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/ZacharyRios3/Threat-Hunting-Scenario-Tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 abenezer101/php2shell
+     ⭐ 1  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/abenezer101/php2shell
+     📝 Scans a domain for CVE-2026-109618 / CVE-2026-109619 (php2shell) exposure, then …
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 brooklynkid707-cmd/purple-team-pipeline
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/brooklynkid707-cmd/purple-team-pipeline
+     📝 End-to-end purple-team pipeline: threat profile → ATT&CK emulation plan → synthe…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 alihaghjou/security
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/alihaghjou/security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 hkoeck/php2shell-status
+     ⭐ 0  🗣 N/A  📅 2026-10-22
+     🔗 https://github.com/hkoeck/php2shell-status
+     📝 PHP2Shell (CVE-2026-109618/109619) vendor and Linux distro status - AI-generated…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 mauiroma/elastic-otel-demo-minikube
+     ⭐ 0  🗣 Shell  📅 2026-10-23
+     🔗 https://github.com/mauiroma/elastic-otel-demo-minikube
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 M7z-413x/Primera-Linea-SOC
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/M7z-413x/Primera-Linea-SOC
+     📝 Manual de campo para analistas SOC nivel 1: cómo leer y resolver alertas en Falc…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 assembly64bit/PIDSMaker
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/assembly64bit/PIDSMaker
+     📝 Code run for PIDSMaker
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 elite-cybersecurity-specialist/security-hardening
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/elite-cybersecurity-specialist/security-hardening
+     📝 Elite Cybersecurity Specialist primary strength is achivieving military grade de…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 emmaRose2525/CompTIA-Security-Plus-SY0-701-Study-Guide
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/emmaRose2525/CompTIA-Security-Plus-SY0-701-Study-Guide
+     📝 A practical CompTIA Security+ SY0-701 study guide covering security concepts, th…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 ferests/Imperative
+     ⭐ 1  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/ferests/Imperative
+     📝 Единая панель мониторинга и реагирования с агентами на защищаемых серверах. Соби…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 osagie-idehen/SOC-EDR-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/osagie-idehen/SOC-EDR-Detection-Lab
+     📝 Cloud EDR Deployment, Sysmon Telemetry & Adversary Detection Engineering (MITRE …
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 Werwersson/DIO-Ransomware-e-Keylogger
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/Werwersson/DIO-Ransomware-e-Keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 kamronw23/security-scripts
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/kamronw23/security-scripts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 brooklynkid707-cmd/ai-soc-copilot
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/brooklynkid707-cmd/ai-soc-copilot
+     📝 LLM-assisted SOC alert triage with retrieval over playbooks and ATT&CK, prompt-i…
+     🏷  —
+[2026-10-23 21:06:29 UTC] [NEW]   🆕 📦 0xBunnyBoo/package-lock.jsonds
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/0xBunnyBoo/package-lock.jsonds
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:29 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-23 21:06:29 UTC] [UPD]   📢 📦 thexsypher/thexsypher.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/thexsypher/thexsypher.github.io
+     📝 xSypher Engineering - Official publication for backend architecture, AI infrastr…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-23 21:06:29 UTC] [UPD]   📢 📦 BINOKUB-GAME/RAPTOR
+     ⭐ 0  🗣 C  📅 2026-10-20
+     🔗 https://github.com/BINOKUB-GAME/RAPTOR
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-23 21:06:29 UTC] [UPD]   📢 📦 rootacite/Aki
+     ⭐ 2  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/rootacite/Aki
+     📝 A local-first runtime for a persistent Letta agent
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-23 21:06:29 UTC] [UPD]   📢 📦 umbrasec-labs/BlueTeamMapper
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/umbrasec-labs/BlueTeamMapper
+     📝 Visual reference for defensive security operations: detection, response, hardeni…
+     🏷  blue-team, defensive-security, detection-engineering, incident-response, mitre-attack, security-reference, soc, threat-hunting
+     🔄 Motivo: repo recente (0gg)
+[2026-10-23 21:06:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-23 21:06:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-23 21:06:32 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-23 21:06:32 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-23 21:06:32 UTC] [NEW]   🆕 📦 alekhya178/celesto-hostile-autograder
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/alekhya178/celesto-hostile-autograder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 21:06:32 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-23 21:06:32 UTC] [UPD]   📢 📦 MatheoV9/ps4-host
+     ⭐ 0  🗣 HTML  📅 2026-10-22
+     🔗 https://github.com/MatheoV9/ps4-host
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-23 21:06:32 UTC] [UPD]   📢 📦 CPritch/anyps5-title-runs
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/CPritch/anyps5-title-runs
+     📝 Opt-in title runs of AnyPS5 pull requests on volunteers' own dumps (work in prog…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-23 21:06:32 UTC] [UPD]   📢 📦 0xQuotient/WhoHacker
+     ⭐ 0  🗣 HTML  📅 2026-10-21
+     🔗 https://github.com/0xQuotient/WhoHacker
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-23 21:06:32 UTC] [UPD]   📢 📦 ZigZagBoi1/PS5-14.10-Research
+     ⭐ 298  🗣 Assembly  📅 2026-10-16
+     🔗 https://github.com/ZigZagBoi1/PS5-14.10-Research
+     📝 Open PS5 firmware 14.10 research: Lua userland experiments, syscall and attack-s…
+     🏷  ps5, ps5-homebrew, ps5-jailbreak, ps5-tools
+     🔄 Motivo: repo recente (7gg)
+[2026-10-23 21:06:32 UTC] [UPD]   📢 📦 VarunGore36/toolcage
+     ⭐ 0  🗣 Rust  📅 2026-10-16
+     🔗 https://github.com/VarunGore36/toolcage
+     📝 Local-first runtime for securely executing AI agent tools, with capability-based…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-23 21:06:32 UTC] [INFO] ============================================================
+[2026-10-23 21:06:32 UTC] [INFO] Completato — 32 nuovi, 10 aggiornati, 0 errori
+[2026-10-23 21:06:32 UTC] [INFO] ============================================================
