@@ -119620,3 +119620,281 @@
 [2026-10-23 11:10:21 UTC] [INFO] ============================================================
 [2026-10-23 11:10:21 UTC] [INFO] Completato — 54 nuovi, 5 aggiornati, 0 errori
 [2026-10-23 11:10:21 UTC] [INFO] ============================================================
+[2026-10-23 16:38:14 UTC] [INFO] ============================================================
+[2026-10-23 16:38:14 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-23 16:38:14 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-23 16:38:14 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-23 16:38:14 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-23 16:38:14 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-23 16:38:14 UTC] [INFO] ============================================================
+[2026-10-23 16:38:14 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-23 16:38:14 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-23 16:38:17 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 49 nella finestra 'aggiornati'
+[2026-10-23 16:38:17 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-23 16:38:17 UTC] [NEW]   🆕 📦 RaniloJohn/claude-blue
+     ⭐ 1  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/RaniloJohn/claude-blue
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:17 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-23 16:38:17 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-23 16:38:17 UTC] [UPD]   📢 📦 Cybsquatch/WAEaA
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/Cybsquatch/WAEaA
+     📝 Windows Artifacts Extractor and Analyzer is a tool to extract files from windows…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-23 16:38:17 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-23 16:38:17 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-23 16:38:20 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 37 NUOVI repository:
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 matrixplusio/mxcwpp
+     ⭐ 1  🗣 Go  📅 2026-10-23
+     🔗 https://github.com/matrixplusio/mxcwpp
+     📝 企业级主机与容器安全管理平台。覆盖安全基线、资产管理、漏洞扫描、病毒查杀、文件完整性监控、运行时检测、容器安全、威胁情报与告警响应，面向安全运营团队提供统一管控…
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 peijundev/Aluer
+     ⭐ 0  🗣 Java  📅 2026-10-23
+     🔗 https://github.com/peijundev/Aluer
+     📝 A Minecraft ServerGuard
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 rafaellavelino/fraud_analytics
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/rafaellavelino/fraud_analytics
+     📝 Project using dbt-core, astro cli, elementery, postgres, docker
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 Sophos-Community/fusion_xdr_queries
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/Sophos-Community/fusion_xdr_queries
+     📝 This repository will host EDR (Live Discover) queries migrated from the "central…
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 brooklynkid707-cmd/ai-adversary-emulation-planner
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/brooklynkid707-cmd/ai-adversary-emulation-planner
+     📝 Threat-informed purple-team planner: turns an adversary profile into a phased, A…
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 meetvaghani12/luminol
+     ⭐ 0  🗣 Shell  📅 2026-10-23
+     🔗 https://github.com/meetvaghani12/luminol
+     📝 Read-only host compromise and malware triage scanner for macOS and Linux
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 GorillaBrain/cyber-city-sandbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-23
+     🔗 https://github.com/GorillaBrain/cyber-city-sandbox
+     📝 A living cyberpunk voxel city, interactive network topology simulator, and defen…
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 thanvish-k/SHIFT
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/thanvish-k/SHIFT
+     📝 SHIFT project
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 caritos/ted
+     ⭐ 0  🗣 Rust  📅 2026-10-22
+     🔗 https://github.com/caritos/ted
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 navulurimahesh77-arc/ai-spam-message-news-detector
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/navulurimahesh77-arc/ai-spam-message-news-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 mrrobot404-coder/My_Cyber_Portfolio
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/mrrobot404-coder/My_Cyber_Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 EZRIDERZ/pof-ks-rb-ep
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/EZRIDERZ/pof-ks-rb-ep
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 pandore/mac-security-nightly
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/pandore/mac-security-nightly
+     📝 Nightly, non-remediating security check for macOS dev machines running AI coding…
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 pointerbr/pointerbr
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/pointerbr/pointerbr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 jozeta/Beredskap
+     ⭐ 0  🗣 JavaScript  📅 2026-10-23
+     🔗 https://github.com/jozeta/Beredskap
+     📝 Tabletop exercises for cyber crises, in English and Swedish. A static, offline w…
+     🏷  crisis-management, cybersecurity, incident-response, offline-first, tabletop-exercise, vanilla-js
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 ramperma/RNVPNRDP
+     ⭐ 0  🗣 C#  📅 2026-10-23
+     🔗 https://github.com/ramperma/RNVPNRDP
+     📝 Cliente de conexión a wireguard y RDP
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 Ender909v1/EdRoid-releases
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/Ender909v1/EdRoid-releases
+     📝 EdRoid APK downloads and update info
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 stoicswe/MMetal
+     ⭐ 0  🗣 Java  📅 2026-10-22
+     🔗 https://github.com/stoicswe/MMetal
+     📝 MMetal brings MetalFX to Minecraft for better performance (Upscaling, RayTracing…
+     🏷  apple, apple-silicon, fabric, fabricmc, metal, metallb, minecraf-mod, minecraft, minecraft-clientside, render, rendering
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 Soutak1984/esp32-c3-ble-kbd-mouse
+     ⭐ 0  🗣 C++  📅 2026-10-23
+     🔗 https://github.com/Soutak1984/esp32-c3-ble-kbd-mouse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 lidedongsn/Noir
+     ⭐ 0  🗣 Swift  📅 2026-10-22
+     🔗 https://github.com/lidedongsn/Noir
+     📝 墨影 Noir：面向 Apple 平台的极简本地视频播放器，专注 4K HDR 原画质播放
+     🏷  4k, hdr, hdr10, macos-app, player-video
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 GorillaBrain/cyberops-simulator
+     ⭐ 0  🗣 JavaScript  📅 2026-10-23
+     🔗 https://github.com/GorillaBrain/cyberops-simulator
+     📝 Interactive SOC Analyst Simulation Game — Detect the signal. Investigate the evi…
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 edrineluks25-ui/edrineluks25
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/edrineluks25-ui/edrineluks25
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 edrys-labs/edrys-module-tests
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/edrys-labs/edrys-module-tests
+     📝 End-to-end tests for Edrys modules
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 RaniloJohn/claude-blue
+     ⭐ 1  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/RaniloJohn/claude-blue
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 YacineHrh/ProjetPython
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/YacineHrh/ProjetPython
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 worldcybereyes-blip/HYPER-SCALE-BEHAVIORAL-HEURISTICS-ENGINE
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/worldcybereyes-blip/HYPER-SCALE-BEHAVIORAL-HEURISTICS-ENGINE
+     📝 Cyber security Project
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 edremitkarahallilar-commits/edremit-zeytinyagci
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/edremitkarahallilar-commits/edremit-zeytinyagci
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 worldcybereyes-blip/Aegis-Soc-Alert-Enrichment
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/worldcybereyes-blip/Aegis-Soc-Alert-Enrichment
+     📝 cyber security project
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 arathism/PINNACLE_LABS_project2
+     ⭐ 1  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/arathism/PINNACLE_LABS_project2
+     📝 Educational keystroke logger demo for security research — logs only to a local f…
+     🏷  cybersecurity, educational, keylogger, pynput, python, security
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 N4th0wl/LandMine
+     ⭐ 0  🗣 Rust  📅 2026-10-23
+     🔗 https://github.com/N4th0wl/LandMine
+     📝 Lightweight Windows endpoint detection engine in Rust featuring lineage tracking…
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 Dekker12-hack/jarvis-cybersec
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/Dekker12-hack/jarvis-cybersec
+     📝 Local AI assistant for Windows (JARVIS) + defensive cybersecurity suite: AI SOC,…
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 geovanidps/PHP2Shell-Playbook-SOC
+     ⭐ 0  🗣 N/A  📅 2026-10-22
+     🔗 https://github.com/geovanidps/PHP2Shell-Playbook-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 nbaronariera/Terrier-EDR
+     ⭐ 0  🗣 Rust  📅 2026-10-23
+     🔗 https://github.com/nbaronariera/Terrier-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 ACRT-EVAL/fleet-114-cr11
+     ⭐ 0  🗣 Go  📅 2026-10-23
+     🔗 https://github.com/ACRT-EVAL/fleet-114-cr11
+     📝 Open device management
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 ACRT-EVAL/fleet-114-cr10
+     ⭐ 0  🗣 Go  📅 2026-10-23
+     🔗 https://github.com/ACRT-EVAL/fleet-114-cr10
+     📝 Open device management
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 ACRT-EVAL/fleet-114-cr9
+     ⭐ 0  🗣 Go  📅 2026-10-23
+     🔗 https://github.com/ACRT-EVAL/fleet-114-cr9
+     📝 Open device management
+     🏷  —
+[2026-10-23 16:38:20 UTC] [NEW]   🆕 📦 ACRT-EVAL/fleet-114-cr7
+     ⭐ 0  🗣 Go  📅 2026-10-23
+     🔗 https://github.com/ACRT-EVAL/fleet-114-cr7
+     📝 Open device management
+     🏷  —
+[2026-10-23 16:38:20 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-23 16:38:20 UTC] [UPD]   📢 📦 thexsypher/thexsypher.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/thexsypher/thexsypher.github.io
+     📝 xSypher Engineering - Official publication for backend architecture, AI infrastr…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-23 16:38:20 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-23 16:38:20 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-23 16:38:23 UTC] [INFO]   → 18 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-23 16:38:23 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-23 16:38:23 UTC] [NEW]   🆕 📦 boredabdel/agent-sandbox-workshop
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/boredabdel/agent-sandbox-workshop
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:23 UTC] [NEW]   🆕 📦 sagidana/sand
+     ⭐ 0  🗣 C  📅 2026-10-23
+     🔗 https://github.com/sagidana/sand
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:23 UTC] [NEW]   🆕 📦 PAVLO2602/AI-Mission-Control
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/PAVLO2602/AI-Mission-Control
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 16:38:23 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-23 16:38:23 UTC] [UPD]   📢 📦 Vegueta-1/PS4-WebKitty-V2-Offline-Jailbreak-Server-ESP32-S3
+     ⭐ 1  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/Vegueta-1/PS4-WebKitty-V2-Offline-Jailbreak-Server-ESP32-S3
+     📝 An offline PS4 jailbreak host based on ArabPixel/WebKitty, ported to the ESP32-S…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-23 16:38:23 UTC] [UPD]   📢 📦 Amit-Roy/harden-vps
+     ⭐ 0  🗣 Shell  📅 2026-10-23
+     🔗 https://github.com/Amit-Roy/harden-vps
+     📝 One-command Linux VPS security hardening (Debian): Docker-safe nftables firewall…
+     🏷  ai-agents, clamav, claude-code, debian, devsecops, docker-security, fail2ban, falco, firewall, hardening, infrastructure-security, linux-security, nftables, server-hardening, ssh-hardening, supply-chain-security, tailscale, trivy, vps
+     🔄 Motivo: repo recente (0gg)
+[2026-10-23 16:38:23 UTC] [UPD]   📢 📦 mahasmrtiadhuri/microbox
+     ⭐ 1  🗣 Rust  📅 2026-10-22
+     🔗 https://github.com/mahasmrtiadhuri/microbox
+     📝 Experimental Rust sandbox: process-isolated setup, seccomp allowlists, cgroups v…
+     🏷  rust
+     🔄 Motivo: repo recente (0gg)
+[2026-10-23 16:38:23 UTC] [UPD]   📢 📦 ldm087/ludemos-ps5
+     ⭐ 1  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/ldm087/ludemos-ps5
+     📝 Gaming Linux distribution for PS5 Slim: Wi-Fi install, dual boot from the consol…
+     🏷  arch-linux, cachyos, homebrew, kde-plasma, linux, linux-distribution, linux-gaming, linux-kernel, playstation-5, proton, ps5, qt6, upscaling
+     🔄 Motivo: repo recente (0gg)
+[2026-10-23 16:38:23 UTC] [UPD]   📢 📦 asylumexp/ghostldr
+     ⭐ 27  🗣 C  📅 2026-10-21
+     🔗 https://github.com/asylumexp/ghostldr
+     📝 Run a PS4 game backup inside SWRR on PS5 through Luac0re, without a kernel explo…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-23 16:38:23 UTC] [INFO] ============================================================
+[2026-10-23 16:38:23 UTC] [INFO] Completato — 41 nuovi, 8 aggiornati, 0 errori
+[2026-10-23 16:38:23 UTC] [INFO] ============================================================
