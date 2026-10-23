@@ -119295,3 +119295,328 @@
 [2026-10-23 03:47:13 UTC] [INFO] ============================================================
 [2026-10-23 03:47:13 UTC] [INFO] Completato — 19 nuovi, 6 aggiornati, 0 errori
 [2026-10-23 03:47:13 UTC] [INFO] ============================================================
+[2026-10-23 11:10:12 UTC] [INFO] ============================================================
+[2026-10-23 11:10:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-23 11:10:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-23 11:10:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-23 11:10:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-23 11:10:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-23 11:10:12 UTC] [INFO] ============================================================
+[2026-10-23 11:10:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-23 11:10:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-23 11:10:15 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 49 nella finestra 'aggiornati'
+[2026-10-23 11:10:15 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-23 11:10:15 UTC] [NEW]   🆕 📦 umbrasec-labs/RedTeamMapper
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/umbrasec-labs/RedTeamMapper
+     📝 Visual reference of attacker workflows, mapped so defenders know what to hunt fo…
+     🏷  adversary-emulation, attack-techniques, mitre-attack, purple-team, red-team, security-reference
+[2026-10-23 11:10:15 UTC] [NEW]   🆕 📦 umbrasec-labs/BlueTeamMapper
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/umbrasec-labs/BlueTeamMapper
+     📝 Visual reference for defensive security operations: detection, response, hardeni…
+     🏷  blue-team, defensive-security, detection-engineering, incident-response, mitre-attack, security-reference, soc, threat-hunting
+[2026-10-23 11:10:15 UTC] [NEW]   🆕 📦 afu-it/wa-zip-cleaner
+     ⭐ 0  🗣 PowerShell  📅 2026-10-22
+     🔗 https://github.com/afu-it/wa-zip-cleaner
+     📝 Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni…
+     🏷  cybersecurity, incident-response, malaysia, malware, malware-analysis, powershell, silverfox, valleyrat, whatsapp, windows, winos, yara
+[2026-10-23 11:10:15 UTC] [NEW]   🆕 📦 chemsse576/BYOVDHunter
+     ⭐ 0  🗣 C#  📅 2026-10-23
+     🔗 https://github.com/chemsse576/BYOVDHunter
+     📝 Advanced BYOVD vulnerable driver detection tool - deep static analysis with disp…
+     🏷  —
+[2026-10-23 11:10:15 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-23 11:10:15 UTC] [UPD]   📢 📦 Cybsquatch/WAEaA
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/Cybsquatch/WAEaA
+     📝 Windows Artifacts Extractor and Analyzer is a tool to extract files from windows…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-23 11:10:15 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-23 11:10:15 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-23 11:10:15 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-23 11:10:18 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 42 NUOVI repository:
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 e7470701-ops/Edr
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/e7470701-ops/Edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 r00tK1ngX/mini-edr-linux
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/r00tK1ngX/mini-edr-linux
+     📝 Lightweight Linux Endpoint Detection and Response (Mini EDR) built with Python, …
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 gavin-anders/riskcalc
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/gavin-anders/riskcalc
+     📝 A simple tool to reliably calculate risk based on a vulnerability plus context
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 luvxminnnn/sentinel-identity-privilege-escalation
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/luvxminnnn/sentinel-identity-privilege-escalation
+     📝 Blue Team lab demonstrating identity compromise detection, SID correlation, priv…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 30jannik06/AirBridge
+     ⭐ 1  🗣 Rust  📅 2026-10-23
+     🔗 https://github.com/30jannik06/AirBridge
+     📝 Lean native AirPlay screen-mirroring receiver for Windows, written in Rust
+     🏷  airplay, h264, ios, rust, screen-mirroring, windows
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 ethankawodza1-ux/sentrix
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/ethankawodza1-ux/sentrix
+     📝 Sentrix is an intelligent cybersecurity platform designed to help organizations …
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 osmancancet/whytrace
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/osmancancet/whytrace
+     📝 WhyTrace: account-compromise investigation agent that explains why (Open Agent H…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 nivashnivash868-star/Cybersheild-
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/nivashnivash868-star/Cybersheild-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 umbrasec-labs/RedTeamMapper
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/umbrasec-labs/RedTeamMapper
+     📝 Visual reference of attacker workflows, mapped so defenders know what to hunt fo…
+     🏷  adversary-emulation, attack-techniques, mitre-attack, purple-team, red-team, security-reference
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 umbrasec-labs/BlueTeamMapper
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/umbrasec-labs/BlueTeamMapper
+     📝 Visual reference for defensive security operations: detection, response, hardeni…
+     🏷  blue-team, defensive-security, detection-engineering, incident-response, mitre-attack, security-reference, soc, threat-hunting
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 louzaonet/php2shell_hunt_ispconfig
+     ⭐ 0  🗣 Python  📅 2026-10-22
+     🔗 https://github.com/louzaonet/php2shell_hunt_ispconfig
+     📝 Quick and dirty hunting script for PHP2Shell (CVE-2026-109618 and CVE-2026-10961…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 arhammahajan/gta4xl-linux
+     ⭐ 0  🗣 C  📅 2026-10-23
+     🔗 https://github.com/arhammahajan/gta4xl-linux
+     📝 Bare-metal Alpine and Fedora Linux bring-up for the Samsung Galaxy Tab S6 Lite L…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 wq19901103wq/qec-rl-lab
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/wq19901103wq/qec-rl-lab
+     📝 QEC Lab: independent reinforcement-learning quantum error-correction simulation,…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 mizazhaider-ceh/AgentArsenal
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/mizazhaider-ceh/AgentArsenal
+     📝 A unified, battle-tested library of agent skills: offensive security depth plus …
+     🏷  agents, ai-agents, ai-skills, automation, blue-team, claude, claude-skills, cli, cybersecurity, developer-tools, devops, ethical-hacking, llm, penetration-testing, prompt-engineering, python, red-team, redteam, skills
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 bigrd16/Operation-brume
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/bigrd16/Operation-brume
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 Shweta12-sh/sentinel-ai-agent
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/Shweta12-sh/sentinel-ai-agent
+     📝 Autonomous Cyber-Incident Triage & Remediator built with Gemini & Antigravity
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 jkacodder/Minor-Project-AMSA-
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/jkacodder/Minor-Project-AMSA-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 himanshushrivastavv-netizen/SOC-Analyst-Entry-Level--2027
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/himanshushrivastavv-netizen/SOC-Analyst-Entry-Level--2027
+     📝 Hands-on SOC Analyst alert investigations, endpoint triage, and incident respons…
+     🏷  blue-team, cybersecurity, incident-response, letsdefend, malware-analysis, soc-analyst
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 pradeep122367j-code/Sentinel-Mesh
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/pradeep122367j-code/Sentinel-Mesh
+     📝 An autonomous, agentic security operations platform for the mid-market and the M…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 akinerkisa/php2shell-one
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/akinerkisa/php2shell-one
+     📝 PHP2Shell One - Run locally. Check your PHP2Shell exposure. Generate an evidence…
+     🏷  incident-response, php, sarif, security, vulnerability-scanner
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 xC0D3F4TH3R/PHP2SHELL-DEFENSIVE-KIT
+     ⭐ 1  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/xC0D3F4TH3R/PHP2SHELL-DEFENSIVE-KIT
+     📝 Defensive research and tooling for PHP2Shell (CVE-2026-109618 / CVE-2026-109619)…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 erergut/edrgt6
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/erergut/edrgt6
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 umbrasec-labs/umbra-blue
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/umbrasec-labs/umbra-blue
+     📝 77 defensive security skills for Claude Code: drop-in SKILL.md files for detecti…
+     🏷  ai-agents, blue-team, claude-code, claude-skills, defensive-security, detection-engineering, incident-response, security-automation, sigma-rules, threat-hunting
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 Senturkselim/Am-I-Infected
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/Senturkselim/Am-I-Infected
+     📝 A defensive incident-response scanner for the PHP2Shell vulnerabilities (CVE-202…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 fortisauris/ITSEC2026
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/fortisauris/ITSEC2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 Ixtiyorflutter/Kalilinuxroadmap
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/Ixtiyorflutter/Kalilinuxroadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 cordlimit21-wq/EDR-SENTINEL-
+     ⭐ 0  🗣 JavaScript  📅 2026-10-23
+     🔗 https://github.com/cordlimit21-wq/EDR-SENTINEL-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 Journoud-Lucas/Journoud-Lucas
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/Journoud-Lucas/Journoud-Lucas
+     📝 Profil de Lucas Journoud — Développeur logiciel C/C++, rendu 3D et applications …
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 amaljoesojan/StackSentry
+     ⭐ 0  🗣 C++  📅 2026-10-23
+     🔗 https://github.com/amaljoesojan/StackSentry
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 GVSDS/Termination3
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/GVSDS/Termination3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 Z3ce/esp32s31-ble-wifi-bt-coexist
+     ⭐ 0  🗣 C  📅 2026-10-23
+     🔗 https://github.com/Z3ce/esp32s31-ble-wifi-bt-coexist
+     📝 ESP32-S31 wireless coexistence reference project integrating Wi-Fi, BLE, Bluetoo…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 kush-coder/autopilot-awesome-cybersecurity-handbooks-v2
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/kush-coder/autopilot-awesome-cybersecurity-handbooks-v2
+     📝 Official Build & Verified Release | A huge chunk of my personal notes since I st…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 Bhikaji/Firestorm
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/Bhikaji/Firestorm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 johannie2025/wisecyb
+     ⭐ 0  🗣 JavaScript  📅 2026-10-23
+     🔗 https://github.com/johannie2025/wisecyb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 BrianYahoo/StaGIC
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/BrianYahoo/StaGIC
+     📝 StaGIC is a BrainPy/JAX-based framework for gradient-optimized whole-brain mean-…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 Haggag-22/Ventra
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/Haggag-22/Ventra
+     📝 Cloud forensic triage for AWS, Azure, GCP and Kubernetes
+     🏷  aws, azure, cloud-security, dfir, digital-forensics, forensics, gcp, incident-response, kubernetes, security-tools
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 Scaler-Cybersecurity1/Midnight-Lock
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/Scaler-Cybersecurity1/Midnight-Lock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 chrisreedio/heimdall
+     ⭐ 0  🗣 Go  📅 2026-10-23
+     🔗 https://github.com/chrisreedio/heimdall
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 devanshdv/Azure-SOC-Honeypot-Incident
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/devanshdv/Azure-SOC-Honeypot-Incident
+     📝 Microsoft Sentinel & Azure Workbooks DFIR project mapping global honeypot attack…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 Kritikarani82/Ransomware-Preparedness
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/Kritikarani82/Ransomware-Preparedness
+     📝 Ransomware-Preparedness Cybersecurity Internship Project
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 sanankhan318112233-boop/ICDC-All-in-One-Security-Tool
+     ⭐ 0  🗣 Shell  📅 2026-10-23
+     🔗 https://github.com/sanankhan318112233-boop/ICDC-All-in-One-Security-Tool
+     📝 A unified Python orchestration framework simulating 25 enterprise cybersecurity …
+     🏷  —
+[2026-10-23 11:10:18 UTC] [NEW]   🆕 📦 geneing/lightcraft-classic
+     ⭐ 0  🗣 Rust  📅 2026-10-23
+     🔗 https://github.com/geneing/lightcraft-classic
+     📝 An open-source, clean-room reimplementation of Adobe Lightroom Classic in pure R…
+     🏷  —
+[2026-10-23 11:10:18 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-23 11:10:18 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-23 11:10:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-23 11:10:21 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-23 11:10:21 UTC] [NEW]   🆕 8 NUOVI repository:
+[2026-10-23 11:10:21 UTC] [NEW]   🆕 📦 bondesio/qe75q60aa-root-research
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/bondesio/qe75q60aa-root-research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:21 UTC] [NEW]   🆕 📦 mkurup27/Sandboxing-LLM-Generated-Code-Needs-a-Different-Threat-Model
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/mkurup27/Sandboxing-LLM-Generated-Code-Needs-a-Different-Threat-Model
+     📝 Measuring how LLM-generated code actually fails in sandboxes, and what containme…
+     🏷  —
+[2026-10-23 11:10:21 UTC] [NEW]   🆕 📦 mizazhaider-ceh/AgentArsenal
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/mizazhaider-ceh/AgentArsenal
+     📝 A unified, battle-tested library of agent skills: offensive security depth plus …
+     🏷  agents, ai-agents, ai-skills, automation, blue-team, claude, claude-skills, cli, cybersecurity, developer-tools, devops, ethical-hacking, llm, penetration-testing, prompt-engineering, python, red-team, redteam, skills
+[2026-10-23 11:10:21 UTC] [NEW]   🆕 📦 ldm087/ludemos-ps5
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/ldm087/ludemos-ps5
+     📝 Gaming Linux distribution for PS5 Slim: Wi-Fi install, dual boot from the consol…
+     🏷  arch-linux, cachyos, homebrew, kde-plasma, linux, linux-distribution, linux-gaming, linux-kernel, playstation-5, proton, ps5, qt6, upscaling
+[2026-10-23 11:10:21 UTC] [NEW]   🆕 📦 Vegueta-1/PS4-WebKitty-V2-Offline-Jailbreak-Server-ESP32-S3
+     ⭐ 1  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/Vegueta-1/PS4-WebKitty-V2-Offline-Jailbreak-Server-ESP32-S3
+     📝 An offline PS4 jailbreak host based on ArabPixel/WebKitty, ported to the ESP32-S…
+     🏷  —
+[2026-10-23 11:10:21 UTC] [NEW]   🆕 📦 temaniarpit27/ticketforge
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/temaniarpit27/ticketforge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:21 UTC] [NEW]   🆕 📦 m14r41/PayloadEverything
+     ⭐ 0  🗣 PowerShell  📅 2026-10-23
+     🔗 https://github.com/m14r41/PayloadEverything
+     📝 PayloadEverythings
+     🏷  —
+[2026-10-23 11:10:21 UTC] [NEW]   🆕 📦 arindrajitpatra/Cyber-BOT
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/arindrajitpatra/Cyber-BOT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-23 11:10:21 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-23 11:10:21 UTC] [UPD]   📢 📦 pastawithpesto/PS5-14.10-Jailbreak-Research
+     ⭐ 123  🗣 JavaScript  📅 2026-10-18
+     🔗 https://github.com/pastawithpesto/PS5-14.10-Jailbreak-Research
+     📝 WebKit jailbreak research for PlayStation 5 firmware 14.10
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-23 11:10:21 UTC] [UPD]   📢 📦 MatheoV9/ps4-host
+     ⭐ 0  🗣 HTML  📅 2026-10-22
+     🔗 https://github.com/MatheoV9/ps4-host
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-23 11:10:21 UTC] [UPD]   📢 📦 Amit-Roy/harden-vps
+     ⭐ 0  🗣 Shell  📅 2026-10-23
+     🔗 https://github.com/Amit-Roy/harden-vps
+     📝 One-command Linux VPS security hardening (Debian): Docker-safe nftables firewall…
+     🏷  ai-agents, clamav, claude-code, debian, devsecops, docker-security, fail2ban, falco, firewall, hardening, infrastructure-security, linux-security, nftables, server-hardening, ssh-hardening, supply-chain-security, tailscale, trivy, vps
+     🔄 Motivo: repo recente (0gg)
+[2026-10-23 11:10:21 UTC] [INFO] ============================================================
+[2026-10-23 11:10:21 UTC] [INFO] Completato — 54 nuovi, 5 aggiornati, 0 errori
+[2026-10-23 11:10:21 UTC] [INFO] ============================================================
