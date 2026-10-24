@@ -120588,3 +120588,217 @@
 [2026-10-24 10:28:18 UTC] [INFO] ============================================================
 [2026-10-24 10:28:18 UTC] [INFO] Completato — 32 nuovi, 6 aggiornati, 0 errori
 [2026-10-24 10:28:18 UTC] [INFO] ============================================================
+[2026-10-24 15:32:28 UTC] [INFO] ============================================================
+[2026-10-24 15:32:28 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-24 15:32:28 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-24 15:32:28 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-24 15:32:28 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-24 15:32:28 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-24 15:32:28 UTC] [INFO] ============================================================
+[2026-10-24 15:32:28 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-24 15:32:28 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-24 15:32:30 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 49 nella finestra 'aggiornati'
+[2026-10-24 15:32:30 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-24 15:32:30 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-24 15:32:30 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-24 15:32:30 UTC] [UPD]   📢 📦 afu-it/wa-zip-cleaner
+     ⭐ 2  🗣 PowerShell  📅 2026-10-22
+     🔗 https://github.com/afu-it/wa-zip-cleaner
+     📝 Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni…
+     🏷  cybersecurity, incident-response, malaysia, malware, malware-analysis, powershell, silverfox, valleyrat, whatsapp, windows, winos, yara
+     🔄 Motivo: repo recente (2gg)
+[2026-10-24 15:32:30 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-24 15:32:30 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-24 15:32:32 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 lupingQAQ/gdnet
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/lupingQAQ/gdnet
+     📝 Byte-level traffic classification for security product discovery, with a public …
+     🏷  encrypted-traffic, gdn, mamba, network-security, open-set-recognition, pytorch, security-tools, traffic-classification
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 Varritech/varritech-ai-agent-audit
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Varritech/varritech-ai-agent-audit
+     📝 30-second local audit for AI coding agents: process discovery, egress allowlist,…
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 femondinii/malware-lab
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/femondinii/malware-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 kevin9327/ClockedOmniGuard
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/kevin9327/ClockedOmniGuard
+     📝 ClockedOmniGuard — 10-Endpoint Enterprise Deal-Room, DevSecOps & Autonomous Agen…
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 pranjalana/SMTD-Agentic-EDR
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/pranjalana/SMTD-Agentic-EDR
+     📝 SMTD project - endpoint defense
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 mhearsh/threat-intel-feed
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/mhearsh/threat-intel-feed
+     📝 Curated high-confidence IOC feed (IP, domain, URL, file hashes), 0-100 scored, e…
+     🏷  blocklist, c2, cti, cybersecurity, edl, edr, firewall, fortigate, indicators-of-compromise, ioc, malware, microsoft-defender, paloalto, siem, splunk, stix, threat-feed, threat-intelligence
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 SolidGeeks/strata
+     ⭐ 0  🗣 JavaScript  📅 2026-10-24
+     🔗 https://github.com/SolidGeeks/strata
+     📝 3D network and assets management tool
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 xiaoxun007/HidPager
+     ⭐ 0  🗣 Kotlin  📅 2026-10-24
+     🔗 https://github.com/xiaoxun007/HidPager
+     📝 A Bluetooth HID page-turner remote for presentations (Android)
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 Ian-Heller89/Ian-Heller89
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/Ian-Heller89/Ian-Heller89
+     📝 Profile README
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 cedric-labs/NetFlowAudit
+     ⭐ 0  🗣 C#  📅 2026-10-24
+     🔗 https://github.com/cedric-labs/NetFlowAudit
+     📝 Continuous network flow auditing agent with interactive terminal dashboard, proc…
+     🏷  cross-platform, csharp, dotnet, netflow, network-monitoring, offline-first, security-audit, sysadmin, topology-map, tui
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 zohaibsumbal786/sentinel-grid
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/zohaibsumbal786/sentinel-grid
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 mehmetali-edr/fuelwis
+     ⭐ 0  🗣 TypeScript  📅 2026-10-24
+     🔗 https://github.com/mehmetali-edr/fuelwis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 jasim092/cybersecurity-bootcamp
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-24
+     🔗 https://github.com/jasim092/cybersecurity-bootcamp
+     📝 IBM Cybersecurity Bootcamp
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 Erfanmghs/php2shell-scanner
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Erfanmghs/php2shell-scanner
+     📝 php2shell scanner dashboard
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 TheoMR7/EDR-Projet-en-C
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/TheoMR7/EDR-Projet-en-C
+     📝 Projet en C, crée un mini EDR qui vient scanné le reseaux 
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 emocow-liuyun/dsh-native-retract
+     ⭐ 0  🗣 JavaScript  📅 2026-10-24
+     🔗 https://github.com/emocow-liuyun/dsh-native-retract
+     📝 DSH（DeepSeek Harness）原生对话撤回：用户消息气泡「复制」旁的「撤回」按钮，同一 session 摘除后续对话并回填原文，日志保留可追溯
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 Aashishjord/Windows-Registry-Forensics-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/Aashishjord/Windows-Registry-Forensics-Investigation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 meisterlos/Client-Testing
+     ⭐ 0  🗣 PowerShell  📅 2026-10-24
+     🔗 https://github.com/meisterlos/Client-Testing
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 lnmry4oxy/edrvd
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/lnmry4oxy/edrvd
+     📝 content
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 mhearsh/mhearsh
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/mhearsh/mhearsh
+     📝 Profile README
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 agufranov/myhotkey
+     ⭐ 0  🗣 C  📅 2026-10-24
+     🔗 https://github.com/agufranov/myhotkey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 advaitkj123/agentshield-arena
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/advaitkj123/agentshield-arena
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:32 UTC] [NEW]   🆕 📦 vishnu123-king/FORENX
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/vishnu123-king/FORENX
+     📝 ForenX is a complete, cross-platform digital forensics application and academic …
+     🏷  —
+[2026-10-24 15:32:32 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-24 15:32:32 UTC] [UPD]   📢 📦 octaveringar-commits/n1-01-oracle-evalution
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/octaveringar-commits/n1-01-oracle-evalution
+     📝 preregistered evaluation of joint relay-MCS adaption under NFIRE / EDRS envelopp…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 15:32:32 UTC] [UPD]   📢 📦 swdf-kuroko/EDR-Archives
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/swdf-kuroko/EDR-Archives
+     📝 本サイトは、管理者：仲野くろこが配布しているシナリオ・リソースの配布・開発ログ置場です。
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 15:32:32 UTC] [UPD]   📢 📦 Araba22/build-a-bot-cyber-agent
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Araba22/build-a-bot-cyber-agent
+     📝 AI security triage agent: the AI recommends, code decides, humans approve
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 15:32:32 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-24 15:32:32 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-24 15:32:34 UTC] [INFO]   → 23 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-24 15:32:34 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-24 15:32:34 UTC] [NEW]   🆕 📦 genius-0963/Ai-Agent-Evaluation-Benchmarks
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/genius-0963/Ai-Agent-Evaluation-Benchmarks
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:34 UTC] [NEW]   🆕 📦 Nerry-AXL/agent-sandbox
+     ⭐ 0  🗣 Shell  📅 2026-10-24
+     🔗 https://github.com/Nerry-AXL/agent-sandbox
+     📝 Secure code execution sandbox with gVisor isolation
+     🏷  ai-agents, docker, gvisor, isolation, sandbox, security
+[2026-10-24 15:32:34 UTC] [NEW]   🆕 📦 Danh-123/3105-2.1
+     ⭐ 0  🗣 Swift  📅 2026-10-24
+     🔗 https://github.com/Danh-123/3105-2.1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:34 UTC] [NEW]   🆕 📦 minhdepzailaocai2010-bit/ThreeOneOSFive-Build
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/minhdepzailaocai2010-bit/ThreeOneOSFive-Build
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 15:32:34 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-24 15:32:34 UTC] [UPD]   📢 📦 BH3GEI/honor-aap-an00-root-skill
+     ⭐ 0  🗣 C  📅 2026-10-24
+     🔗 https://github.com/BH3GEI/honor-aap-an00-root-skill
+     📝 Reproducible temporary root for Honor 500 AAP-AN00 (CVE-2026-43499, source, preb…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 15:32:34 UTC] [UPD]   📢 📦 asylumexp/ghostldr
+     ⭐ 30  🗣 C  📅 2026-10-21
+     🔗 https://github.com/asylumexp/ghostldr
+     📝 Run a PS4 game backup inside SWRR on PS5 through Luac0re, without a kernel explo…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-24 15:32:34 UTC] [UPD]   📢 📦 CPritch/anyps5-title-runs
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/CPritch/anyps5-title-runs
+     📝 Opt-in title runs of AnyPS5 pull requests on volunteers' own dumps (work in prog…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-24 15:32:34 UTC] [UPD]   📢 📦 unblocklabs-ai/scrat
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/unblocklabs-ai/scrat
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-24 15:32:34 UTC] [INFO] ============================================================
+[2026-10-24 15:32:34 UTC] [INFO] Completato — 27 nuovi, 9 aggiornati, 0 errori
+[2026-10-24 15:32:34 UTC] [INFO] ============================================================
