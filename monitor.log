@@ -120143,3 +120143,227 @@
 [2026-10-23 21:06:32 UTC] [INFO] ============================================================
 [2026-10-23 21:06:32 UTC] [INFO] Completato — 32 nuovi, 10 aggiornati, 0 errori
 [2026-10-23 21:06:32 UTC] [INFO] ============================================================
+[2026-10-24 03:41:30 UTC] [INFO] ============================================================
+[2026-10-24 03:41:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-24 03:41:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-24 03:41:30 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-24 03:41:30 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-24 03:41:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-24 03:41:30 UTC] [INFO] ============================================================
+[2026-10-24 03:41:30 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-24 03:41:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-24 03:41:33 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 49 nella finestra 'aggiornati'
+[2026-10-24 03:41:33 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-24 03:41:33 UTC] [NEW]   🆕 📦 cmachale14-eng/DayZESP
+     ⭐ 0  🗣 C++  📅 2026-10-24
+     🔗 https://github.com/cmachale14-eng/DayZESP
+     📝 DayZ external ESP + Aimbot with iqvw64e.sys BYOVD, ImGui overlay, BattlEye bypas…
+     🏷  —
+[2026-10-24 03:41:33 UTC] [NEW]   🆕 📦 hiyfoeorihly/spiderman2-trainer
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/hiyfoeorihly/spiderman2-trainer
+     📝 Spider-Man 2 trainer: infinite health, unlimited focus, god mode, one-hit KO tog…
+     🏷  god-mode, insomniac-spiderman2, memory-editor, modding-tool, script-hook, singleplayer-trainer, skill-points-editor, spider-man-2, spiderman-2-trainer, spiderman2-mod-menu, spiderman2-pc, symbiote-suit-unlock, trainer-menu, unlimited-suit-tokens, web-swinging-mods, xp-multiplier
+[2026-10-24 03:41:33 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-24 03:41:33 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 222  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an autonomous reverse engineering system
+     🏷  ai-agents, android-security, api-security, automotive-security, binary-analysis, cryptanalysis, decompile, digital-forensics, disassemble, firmware-security, kernel-security, llm-security, malware-analysis, reverse-engineering, security-auditing, semantic-search, static-analysis, symbolic-execution, taint-analysis, vulnerability-research
+     🔄 Motivo: nuovi topic: vulnerability-research, automotive-security, disassemble, semantic-search, api-security, decompile, android-security, llm-security, symbolic-execution, digital-forensics, kernel-security, cryptanalysis, firmware-security, ai-agents, security-auditing
+[2026-10-24 03:41:33 UTC] [UPD]   📢 📦 RaniloJohn/claude-blue
+     ⭐ 2  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/RaniloJohn/claude-blue
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 03:41:33 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-24 03:41:33 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-24 03:41:33 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-24 03:41:35 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 SqueakyFloors/ubertooth-test-harness
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/SqueakyFloors/ubertooth-test-harness
+     📝 Hardware test harness for the Ubertooth One (SqueakyFloors/ubertooth fork)
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 networkitout/UnKEV
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/networkitout/UnKEV
+     📝 Emerging-vulnerability forecast 
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 1wu-davy-2/EgressSentinel
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/1wu-davy-2/EgressSentinel
+     📝 Egress（出口流量）+ Sentinel（哨兵）——守在机器网络出口处审计每一个外发 HTTPS 请求
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 zcg/Erika
+     ⭐ 0  🗣 Rust  📅 2026-10-24
+     🔗 https://github.com/zcg/Erika
+     📝 Erika 播放内核（本地改造版）：demux/decode → GPU 呈现 → 音频/字幕/弹幕，含 Windows D3D11VA 与 HTTP 流增强
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 nakul-biovaco/Embedsys-embedded-educational-board
+     ⭐ 1  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/nakul-biovaco/Embedsys-embedded-educational-board
+     📝 Industrial-grade ESP32-WROOM-32E educational development board (4-layer ENIG PCB…
+     🏷  educational-hardware, embedded-systems, esp32, hardware-design, iot-hardware, jlcpcb, kicad, pcb-design
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 wybroot/alinksecurity
+     ⭐ 0  🗣 Go  📅 2026-10-23
+     🔗 https://github.com/wybroot/alinksecurity
+     📝 安全适配中心，涵盖等保三级所需组件
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 zpmpg4whh4-ux/Cuidado-Con-El-Flow
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/zpmpg4whh4-ux/Cuidado-Con-El-Flow
+     📝 Bazar de ropa
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 SaiKaligotla/design-to-cyber
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/SaiKaligotla/design-to-cyber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 gonzaquis29/DinoV3-AI4Mars
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/gonzaquis29/DinoV3-AI4Mars
+     📝 Frozen DINOv3 features for Martian terrain segmentation on AI4Mars: notebook, re…
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 kamronw23/soc-playbooks
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/kamronw23/soc-playbooks
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 DemonLibe/Glide
+     ⭐ 0  🗣 Swift  📅 2026-10-24
+     🔗 https://github.com/DemonLibe/Glide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 winxtxrgit/honeyfile
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/winxtxrgit/honeyfile
+     📝 Plant decoy files and get alerted the moment ransomware or an intruder touches t…
+     🏷  blue-team, canary, cli, decoy, detection, honeypot, incident-response, python, ransomware, security
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 eujalves/testeci
+     ⭐ 0  🗣 CSS  📅 2026-10-23
+     🔗 https://github.com/eujalves/testeci
+     📝 repositório de teste e estudo sobre ci/cd em um projeto menor
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 RickDevopsSecure/nullghost-guard
+     ⭐ 0  🗣 PowerShell  📅 2026-10-23
+     🔗 https://github.com/RickDevopsSecure/nullghost-guard
+     📝 Antivirus por terminal para Windows con Microsoft Defender. Menu en espanol, ana…
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 edricklamsbongay/edricklams_portfolio
+     ⭐ 0  🗣 CSS  📅 2026-10-23
+     🔗 https://github.com/edricklamsbongay/edricklams_portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 slash-31/google-secops-pov-kit
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/slash-31/google-secops-pov-kit
+     📝 Repeatable Google SecOps Proof of Value (PoV) kit & interactive WIF/IdP provisio…
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 xico20/int443
+     ⭐ 0  🗣 Rust  📅 2026-10-23
+     🔗 https://github.com/xico20/int443
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 emirbyte/C2-Skeleton
+     ⭐ 1  🗣 C  📅 2026-10-23
+     🔗 https://github.com/emirbyte/C2-Skeleton
+     📝 Inter Process Communication  - Remote Mapping Injection - Process Injection - Se…
+     🏷  c, dll-injection, inter-process-communication, interprocess, interprocess-communication, interprocess-communication-library, ipc, maldev, maldev-academy, malware, malware-development, malware-research, process-injection, proof-of-concept, red-team, shared-memory, shared-memory-communication, windows, windows-internals
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 ebmeivktlmmj/autotyping-script
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/ebmeivktlmmj/autotyping-script
+     📝 Autotyping tool that types text on a timer with adjustable WPM, custom hotkeys, …
+     🏷  ahk-script, auto-keyboard, auto-typer-tool, autoinput, autoit, autotyper, autotyping, input-automation, keyboard-automation, keystroke-emulator, keystroke-simulator, macro-recorder, pyautogui, typing-automation, typing-bot, typing-macro, typing-script, typing-tool, wpm-booster
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 ozqmmgennljp/hataro
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/ozqmmgennljp/hataro
+     📝 Hataro Crypter: C# AES256 crypter for .NET and Native files, FUD against antivir…
+     🏷  aes-encryption, aes256, assembly-encryption, browser-detection, cryptor, dotnet-encryption, dotnet-obfuscation, dotnet-obfuscator, dotnet-packer, encryption-tool, file-encryption, obfuscator, payload-encryption, pe-encryption, pe-packer
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 kubakozub/detections
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/kubakozub/detections
+     📝 Sigma rules, tests and Splunk/ES|QL/KQL renderings for what a WordPress Author-t…
+     🏷  detection-engineering, esql, kql, sigma, splunk, wordpress
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 sondosaayman/Nurion-eTMF
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/sondosaayman/Nurion-eTMF
+     📝 Electronic Trial Master File
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 d3vhex/d3vhex
+     ⭐ 0  🗣 N/A  📅 2026-10-23
+     🔗 https://github.com/d3vhex/d3vhex
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 03:41:35 UTC] [NEW]   🆕 📦 kagisomakate/MKT-EDRIVE
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/kagisomakate/MKT-EDRIVE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 03:41:35 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-24 03:41:35 UTC] [UPD]   📢 📦 chrisreedio/heimdall
+     ⭐ 0  🗣 Go  📅 2026-10-23
+     🔗 https://github.com/chrisreedio/heimdall
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 03:41:35 UTC] [UPD]   📢 📦 umbrasec-labs/umbra-blue
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/umbrasec-labs/umbra-blue
+     📝 77 defensive security skills for Claude Code: drop-in SKILL.md files for detecti…
+     🏷  ai-agents, blue-team, claude-code, claude-skills, defensive-security, detection-engineering, incident-response, security-automation, sigma-rules, threat-hunting
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 03:41:35 UTC] [UPD]   📢 📦 umbrasec-labs/BlueTeamMapper
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/umbrasec-labs/BlueTeamMapper
+     📝 Visual reference for defensive security operations: detection, response, hardeni…
+     🏷  blue-team, defensive-security, detection-engineering, incident-response, mitre-attack, security-reference, soc, threat-hunting
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 03:41:35 UTC] [UPD]   📢 📦 AlissonCamargo20/TallerMecanicoEDR
+     ⭐ 0  🗣 HTML  📅 2026-10-23
+     🔗 https://github.com/AlissonCamargo20/TallerMecanicoEDR
+     📝 Sitio web del Taller Mecánico EDR
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 03:41:35 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-24 03:41:35 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-24 03:41:38 UTC] [INFO]   → 16 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-24 03:41:38 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-24 03:41:38 UTC] [NEW]   🆕 📦 aayy-dev/rmg-next
+     ⭐ 0  🗣 Kotlin  📅 2026-10-23
+     🔗 https://github.com/aayy-dev/rmg-next
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 03:41:38 UTC] [NEW]   🆕 📦 vishesh07-codes/l4rpness
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/vishesh07-codes/l4rpness
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 03:41:38 UTC] [NEW]   🆕 📦 hendrybui/Storm-Breaker
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/hendrybui/Storm-Breaker
+     📝 Storm-Breaker — Flask social-engineering & browser exploitation framework (fork …
+     🏷  —
+[2026-10-24 03:41:38 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-24 03:41:38 UTC] [UPD]   📢 📦 unblocklabs-ai/scrat
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/unblocklabs-ai/scrat
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-24 03:41:38 UTC] [UPD]   📢 📦 CPritch/anyps5-title-runs
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/CPritch/anyps5-title-runs
+     📝 Opt-in title runs of AnyPS5 pull requests on volunteers' own dumps (work in prog…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-24 03:41:38 UTC] [INFO] ============================================================
+[2026-10-24 03:41:38 UTC] [INFO] Completato — 29 nuovi, 9 aggiornati, 0 errori
+[2026-10-24 03:41:38 UTC] [INFO] ============================================================
