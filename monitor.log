@@ -120802,3 +120802,222 @@
 [2026-10-24 15:32:34 UTC] [INFO] ============================================================
 [2026-10-24 15:32:34 UTC] [INFO] Completato — 27 nuovi, 9 aggiornati, 0 errori
 [2026-10-24 15:32:34 UTC] [INFO] ============================================================
+[2026-10-24 20:23:54 UTC] [INFO] ============================================================
+[2026-10-24 20:23:54 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-24 20:23:54 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-24 20:23:54 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-24 20:23:54 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-24 20:23:54 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-24 20:23:54 UTC] [INFO] ============================================================
+[2026-10-24 20:23:54 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-24 20:23:54 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-24 20:23:56 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 49 nella finestra 'aggiornati'
+[2026-10-24 20:23:56 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-24 20:23:56 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-24 20:23:56 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-24 20:23:56 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 222  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  reverse-engineering, unsupervised-learning
+     🔄 Motivo: nuovi topic: unsupervised-learning, reverse-engineering
+[2026-10-24 20:23:56 UTC] [UPD]   📢 📦 afu-it/wa-zip-cleaner
+     ⭐ 3  🗣 PowerShell  📅 2026-10-22
+     🔗 https://github.com/afu-it/wa-zip-cleaner
+     📝 Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni…
+     🏷  cybersecurity, incident-response, malaysia, malware, malware-analysis, powershell, silverfox, valleyrat, whatsapp, windows, winos, yara
+     🔄 Motivo: repo recente (2gg)
+[2026-10-24 20:23:56 UTC] [UPD]   📢 📦 prox0959/ProxSuite-PRO
+     ⭐ 3  🗣 C#  📅 2026-09-27
+     🔗 https://github.com/prox0959/ProxSuite-PRO
+     📝 ⚡ 41-in-1 Native x64 Windows EDR & Memory Forensics. The 100% Free & Open-Source…
+     🏷  anti-ransomware, crowdstrike-alternative, cybersecurity, edr, endpoint-security, incident-response, lsass-protection, memory-forensics, mitre-attack, ransomware-protection, reverse-engineering, sentinelone-alternative, syswhispers-detector, threat-hunting, yara-rules, zero-trust
+     🔄 Motivo: nuovi topic: crowdstrike-alternative, lsass-protection, anti-ransomware, sentinelone-alternative, mitre-attack, yara-rules, syswhispers-detector, zero-trust
+[2026-10-24 20:23:56 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-24 20:23:56 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-24 20:23:58 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 jjesusdev/soar-phishing-automation
+     ⭐ 0  🗣 PowerShell  📅 2026-10-24
+     🔗 https://github.com/jjesusdev/soar-phishing-automation
+     📝 SOAR playbook for phishing response: Defender XDR + Logic Apps + Power Automate …
+     🏷  azure-openai, defender-xdr, gpt-4o, graph-api, logic-apps, phishing, power-automate, powershell, security, soar, threat-intel
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 jjesusdev/portafolio
+     ⭐ 0  🗣 TypeScript  📅 2026-10-24
+     🔗 https://github.com/jjesusdev/portafolio
+     📝 Portafolio profesional — Junior Backend & Cloud Engineer | DevOps
+     🏷  argocd, aws, cybersecurity, devops, github-actions, java, kubernetes, nextjs, portafolio, react, sentinel, soar, spring-boot, tailwindcss, terraform, typescript
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 retc0rn/layzmd
+     ⭐ 0  🗣 Go  📅 2026-10-24
+     🔗 https://github.com/retc0rn/layzmd
+     📝 Nessus CSV to Obsidian vault: hosts, services, prioritized and enriched vulnerab…
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 sonu-2006/finalhidden
+     ⭐ 0  🗣 TypeScript  📅 2026-10-24
+     🔗 https://github.com/sonu-2006/finalhidden
+     📝 Real-Time Hallucination Detection (RTHD) and Intervention in Medical LLMs - Pilo…
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 DTC1GC3/defense-in-depth-incident-response
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/DTC1GC3/defense-in-depth-incident-response
+     📝 Layered security toolkit, system hardening, and energy-sector incident response …
+     🏷  blue-team, cybersecurity, hardening, incident-response, pfsense
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 Cd1s/safarier
+     ⭐ 0  🗣 Swift  📅 2026-10-24
+     🔗 https://github.com/Cd1s/safarier
+     📝 Native macOS multi-profile isolated WebKit browser with sing-box integration and…
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 karagos01/plinius-mainline
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/karagos01/plinius-mainline
+     📝 Build scripts, kernel config and runtime tooling for the mainline Linux port of …
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 jonnyverasdl-cloud/Hackaton_
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/jonnyverasdl-cloud/Hackaton_
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 spilloid/portGlass
+     ⭐ 0  🗣 Rust  📅 2026-10-24
+     🔗 https://github.com/spilloid/portGlass
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 echooexp/Hollow-Eye
+     ⭐ 0  🗣 C++  📅 2026-10-24
+     🔗 https://github.com/echooexp/Hollow-Eye
+     📝 Advanced Windows kernel-mode rootkit demonstrating process hiding, object callba…
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 andrewfitz/MonitorKit
+     ⭐ 0  🗣 Swift  📅 2026-10-24
+     🔗 https://github.com/andrewfitz/MonitorKit
+     📝 GPU monitoring tools for Apple silicon: false colour, zebra, peaking, LUTs, HDR/…
+     🏷  apple-silicon, broadcast, color-grading, hdr, macos, metal, scopes, swift, swiftui, video
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 cumpelik/windows-still-here
+     ⭐ 0  🗣 C#  📅 2026-10-24
+     🔗 https://github.com/cumpelik/windows-still-here
+     📝 Keeps Windows unlocked while you're at the computer – recognizes your face local…
+     🏷  dotnet, face-recognition, lock-screen, opencv, presence-detection, tray-app, windows, windows-11, windows-hello, wpf
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 isandreythegrestestguyever/SENTINEL-Advanced-Endpoint-Detection-Response-Platform
+     ⭐ 0  🗣 Go  📅 2026-10-24
+     🔗 https://github.com/isandreythegrestestguyever/SENTINEL-Advanced-Endpoint-Detection-Response-Platform
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 aloakhter888-pixel/PyShield-Process-Guard
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/aloakhter888-pixel/PyShield-Process-Guard
+     📝 A Python-based mini EDR and process security monitoring tool.
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 faridjafarlee/goit-secarch-hw-07-tech-controls-sumz
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/faridjafarlee/goit-secarch-hw-07-tech-controls-sumz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 faridjafarlee/goit-secarch-hw-05-mapping-sumz
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/faridjafarlee/goit-secarch-hw-05-mapping-sumz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 faridjafarlee/goit-secarch-hw-02-stride-sumz
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/faridjafarlee/goit-secarch-hw-02-stride-sumz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 faridjafarlee/goit-secarch-fp-sumz
+     ⭐ 0  🗣 HTML  📅 2026-10-24
+     🔗 https://github.com/faridjafarlee/goit-secarch-fp-sumz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 AnMaLeNo/midm-pi-keyboard
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/AnMaLeNo/midm-pi-keyboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 Retr0Kali/Warden
+     ⭐ 0  🗣 C  📅 2026-10-24
+     🔗 https://github.com/Retr0Kali/Warden
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 sidkori09/phishing-email-investigation
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/sidkori09/phishing-email-investigation
+     📝 SOC Analyst project investigating a suspicious phishing email through email anal…
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 duzhaoming812/MEV-
+     ⭐ 0  🗣 C#  📅 2026-10-24
+     🔗 https://github.com/duzhaoming812/MEV-
+     📝 一款由AI进行开发的机械革命第三方控制台
+     🏷  —
+[2026-10-24 20:23:58 UTC] [NEW]   🆕 📦 michaelMJ12/DeepSecure360
+     ⭐ 0  🗣 TypeScript  📅 2026-10-24
+     🔗 https://github.com/michaelMJ12/DeepSecure360
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 20:23:58 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-24 20:23:58 UTC] [UPD]   📢 📦 TheoMR7/EDR-Projet-en-C
+     ⭐ 0  🗣 C  📅 2026-10-24
+     🔗 https://github.com/TheoMR7/EDR-Projet-en-C
+     📝 Projet en C, crée un mini EDR qui vient scanné le reseaux 
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 20:23:58 UTC] [UPD]   📢 📦 thexsypher/thexsypher.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/thexsypher/thexsypher.github.io
+     📝 xSypher Engineering - Official publication for backend architecture, AI infrastr…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-24 20:23:58 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-24 20:23:58 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-24 20:24:00 UTC] [INFO]   → 28 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-24 20:24:00 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-10-24 20:24:00 UTC] [NEW]   🆕 📦 cfloinc/samsung-q70t-tizen-root
+     ⭐ 2  🗣 Shell  📅 2026-10-24
+     🔗 https://github.com/cfloinc/samsung-q70t-tizen-root
+     📝 Getting persistent debloat on my Samsung Q70T TV
+     🏷  armv7, debloat, jailbreak, q70t, root, samsung, tizen, tizen6, uep
+[2026-10-24 20:24:00 UTC] [NEW]   🆕 📦 NecmiKural/mcp-code-mode
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/NecmiKural/mcp-code-mode
+     📝 Run model-written Python against any MCP server's tools in a locked-down Docker …
+     🏷  —
+[2026-10-24 20:24:00 UTC] [NEW]   🆕 📦 devravik/PS5-14.20-Jailbreak-Research
+     ⭐ 0  🗣 JavaScript  📅 2026-10-24
+     🔗 https://github.com/devravik/PS5-14.20-Jailbreak-Research
+     📝 WebKit jailbreak research for PlayStation 5 firmware 14.20
+     🏷  —
+[2026-10-24 20:24:00 UTC] [NEW]   🆕 📦 deniscouto/firetv-sheldon-root-debloat
+     ⭐ 0  🗣 Shell  📅 2026-10-24
+     🔗 https://github.com/deniscouto/firetv-sheldon-root-debloat
+     📝 Fire TV Stick Lite (sheldon, Fire OS 7.7.1.7 / PS7717.5741N) root + debloat + cl…
+     🏷  —
+[2026-10-24 20:24:00 UTC] [NEW]   🆕 📦 saulruizplaza/eCPPTv3-Cheatsheet
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/saulruizplaza/eCPPTv3-Cheatsheet
+     📝 Apuntes y cheatsheet en español para preparar eCPPTv3 de INE: enumeración, explo…
+     🏷  ecppt, ecpptv3, ine
+[2026-10-24 20:24:00 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-24 20:24:00 UTC] [UPD]   📢 📦 unblocklabs-ai/scrat
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/unblocklabs-ai/scrat
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-24 20:24:00 UTC] [UPD]   📢 📦 CPritch/anyps5-title-runs
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/CPritch/anyps5-title-runs
+     📝 Opt-in title runs of AnyPS5 pull requests on volunteers' own dumps (work in prog…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-24 20:24:00 UTC] [UPD]   📢 📦 sagidana/sand
+     ⭐ 0  🗣 C  📅 2026-10-23
+     🔗 https://github.com/sagidana/sand
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-24 20:24:00 UTC] [INFO] ============================================================
+[2026-10-24 20:24:00 UTC] [INFO] Completato — 28 nuovi, 9 aggiornati, 0 errori
+[2026-10-24 20:24:00 UTC] [INFO] ============================================================
