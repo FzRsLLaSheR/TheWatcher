@@ -120367,3 +120367,224 @@
 [2026-10-24 03:41:38 UTC] [INFO] ============================================================
 [2026-10-24 03:41:38 UTC] [INFO] Completato — 29 nuovi, 9 aggiornati, 0 errori
 [2026-10-24 03:41:38 UTC] [INFO] ============================================================
+[2026-10-24 10:28:12 UTC] [INFO] ============================================================
+[2026-10-24 10:28:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-24 10:28:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-24 10:28:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-24 10:28:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-24 10:28:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-24 10:28:12 UTC] [INFO] ============================================================
+[2026-10-24 10:28:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-24 10:28:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-24 10:28:13 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 49 nella finestra 'aggiornati'
+[2026-10-24 10:28:13 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-24 10:28:13 UTC] [NEW]   🆕 📦 ManifoldOps/manifold-operations
+     ⭐ 0  🗣 HTML  📅 2026-10-24
+     🔗 https://github.com/ManifoldOps/manifold-operations
+     📝 Vercel website code
+     🏷  —
+[2026-10-24 10:28:13 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-24 10:28:13 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-24 10:28:13 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-24 10:28:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-24 10:28:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 KIRAN-010/ARES
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/KIRAN-010/ARES
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 Huighlet/SentinelTrace-EDR
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Huighlet/SentinelTrace-EDR
+     📝 Lightweight Host-Level Threat Detection & Cryptographic Forensic Timeline Engine
+     🏷  cybersecurity, digital-forensics, edr, mitre-attack, process-lineage, python-3-13, stix-2, threat-detection
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 minyeelow/ransomware-simulator
+     ⭐ 0  🗣 JavaScript  📅 2026-10-24
+     🔗 https://github.com/minyeelow/ransomware-simulator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 Paranjoy-Bordoloi/ebpf-cloud-runtime-guard
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Paranjoy-Bordoloi/ebpf-cloud-runtime-guard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 Araba22/build-a-bot-cyber-agent
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Araba22/build-a-bot-cyber-agent
+     📝 AI security triage agent: the AI recommends, code decides, humans approve
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 centuryrain1980/protein-ligand-md-workflow
+     ⭐ 1  🗣 Shell  📅 2026-10-24
+     🔗 https://github.com/centuryrain1980/protein-ligand-md-workflow
+     📝 蛋白-配体复合物分子动力学全流程 Codex Skill：对接、力场选型、参数化、溶剂化、平衡、生产 MD、MM/PBSA 与结果分析 (GROMACS 202…
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 swdf-kuroko/EDR-Archives
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/swdf-kuroko/EDR-Archives
+     📝 本サイトは、管理者：仲野くろこが配布しているシナリオ・リソースの配布・開発ログ置場です。
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 TheKreator666/GreekSwitch
+     ⭐ 0  🗣 C#  📅 2026-10-23
+     🔗 https://github.com/TheKreator666/GreekSwitch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 ConorTttttt/holochain-bluetooth-classic-demo
+     ⭐ 0  🗣 Rust  📅 2026-10-24
+     🔗 https://github.com/ConorTttttt/holochain-bluetooth-classic-demo
+     📝 Holochain 0.7 over Bluetooth Classic (PAN and RFCOMM) between Windows and Ubuntu…
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 ihavenoram/exchange-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-10-24
+     🔗 https://github.com/ihavenoram/exchange-toolkit
+     📝 PowerShell 5.1 GUI for on-premises Exchange Server: health, mail flow, storage a…
+     🏷  backup, exchange, exchange-server, msp, powershell, vss, winforms
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 adamhaziqs/Threats-Vs-Vulnerabilities
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/adamhaziqs/Threats-Vs-Vulnerabilities
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 ManifoldOps/manifold-operations
+     ⭐ 0  🗣 HTML  📅 2026-10-24
+     🔗 https://github.com/ManifoldOps/manifold-operations
+     📝 Vercel website code
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 MustafaAntelawala/prooftrail-ai
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/MustafaAntelawala/prooftrail-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 octaveringar-commits/n1-01-oracle-evalution
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/octaveringar-commits/n1-01-oracle-evalution
+     📝 preregistered evaluation of joint relay-MCS adaption under NFIRE / EDRS envelopp…
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 Gabrielpsych/proc-lineage-watch
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Gabrielpsych/proc-lineage-watch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 Gabrielpsych/detection-replay-lab
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Gabrielpsych/detection-replay-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 AtharvaShastrakar/Active-Directory-Security-Threat-Detection-Lab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-24
+     🔗 https://github.com/AtharvaShastrakar/Active-Directory-Security-Threat-Detection-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 AimanShiledar/anti_forensic_detector
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/AimanShiledar/anti_forensic_detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 prostopasta/freebuds-l2cap-sig-mtu
+     ⭐ 0  🗣 C  📅 2026-10-24
+     🔗 https://github.com/prostopasta/freebuds-l2cap-sig-mtu
+     📝 Huawei FreeBuds stop connecting on recent kernels: analysis, one-line patch and …
+     🏷  bluetooth, bluez, dkms, freebuds, huawei, l2cap, linux-kernel, regression
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 the-coding-aura/colorimeter_client
+     ⭐ 0  🗣 Dart  📅 2026-10-24
+     🔗 https://github.com/the-coding-aura/colorimeter_client
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 WonderlandsShowtime/CyberBoy-Smart-Firewall
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/WonderlandsShowtime/CyberBoy-Smart-Firewall
+     📝 CyberBoy Smart Firewall is a lightweight, AI-driven firewall built with DeepSeek…
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 Quaill-Records/Quaill
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Quaill-Records/Quaill
+     📝 Open checker for robot logs: who was in control, was it edited, what’s missing.
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 lava2006/Final_year_project
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/lava2006/Final_year_project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 sentakuc7/mamorai
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/sentakuc7/mamorai
+     📝 AI ops console for Wazuh — attack map, AI triage, autonomous patch & block (comi…
+     🏷  blue-team, edr, llm, security, soc, wazuh
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 AnonymousApexio/Rhenalis-SAS-Analyse-EBIOS-RM
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/AnonymousApexio/Rhenalis-SAS-Analyse-EBIOS-RM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 commitmentissues-gif/EDR
+     ⭐ 0  🗣 TypeScript  📅 2026-10-24
+     🔗 https://github.com/commitmentissues-gif/EDR
+     📝 Test
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 CoreyTech101/threat-hunting-scenario-tor-
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/CoreyTech101/threat-hunting-scenario-tor-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [NEW]   🆕 📦 wihanga4uu/Universal-Windows-Malware-Checker-Cleaner
+     ⭐ 0  🗣 PowerShell  📅 2026-10-24
+     🔗 https://github.com/wihanga4uu/Universal-Windows-Malware-Checker-Cleaner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:16 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-24 10:28:16 UTC] [UPD]   📢 📦 1wu-davy-2/EgressSentinel
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/1wu-davy-2/EgressSentinel
+     📝 Egress（出口流量）+ Sentinel（哨兵）——守在机器网络出口处审计每一个外发 HTTPS 请求
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 10:28:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-24 10:28:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-24 10:28:18 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-24 10:28:18 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-24 10:28:18 UTC] [NEW]   🆕 📦 SreenitaPadarthi06/Celesto
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/SreenitaPadarthi06/Celesto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-24 10:28:18 UTC] [NEW]   🆕 📦 BH3GEI/honor-aap-an00-root-skill
+     ⭐ 0  🗣 C  📅 2026-10-24
+     🔗 https://github.com/BH3GEI/honor-aap-an00-root-skill
+     📝 Reproducible temporary root for Honor 500 AAP-AN00 (CVE-2026-43499, source, preb…
+     🏷  —
+[2026-10-24 10:28:18 UTC] [NEW]   🆕 📦 kush-coder/autopilot-cybersecurity-v2
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/kush-coder/autopilot-cybersecurity-v2
+     📝 Official Build & Verified Release | Welcome Cybersecurity's World. An ongoing & …
+     🏷  —
+[2026-10-24 10:28:18 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-24 10:28:18 UTC] [UPD]   📢 📦 alekhya178/celesto-hostile-autograder
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/alekhya178/celesto-hostile-autograder
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 10:28:18 UTC] [UPD]   📢 📦 unblocklabs-ai/scrat
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/unblocklabs-ai/scrat
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-24 10:28:18 UTC] [UPD]   📢 📦 CPritch/anyps5-title-runs
+     ⭐ 0  🗣 Python  📅 2026-10-21
+     🔗 https://github.com/CPritch/anyps5-title-runs
+     📝 Opt-in title runs of AnyPS5 pull requests on volunteers' own dumps (work in prog…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-24 10:28:18 UTC] [UPD]   📢 📦 sagidana/sand
+     ⭐ 0  🗣 C  📅 2026-10-23
+     🔗 https://github.com/sagidana/sand
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-24 10:28:18 UTC] [INFO] ============================================================
+[2026-10-24 10:28:18 UTC] [INFO] Completato — 32 nuovi, 6 aggiornati, 0 errori
+[2026-10-24 10:28:18 UTC] [INFO] ============================================================
