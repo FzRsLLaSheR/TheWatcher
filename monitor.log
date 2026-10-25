@@ -121750,3 +121750,297 @@
 [2026-10-25 15:42:13 UTC] [INFO] ============================================================
 [2026-10-25 15:42:13 UTC] [INFO] Completato — 37 nuovi, 6 aggiornati, 0 errori
 [2026-10-25 15:42:13 UTC] [INFO] ============================================================
+[2026-10-25 20:30:12 UTC] [INFO] ============================================================
+[2026-10-25 20:30:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-25 20:30:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-25 20:30:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-25 20:30:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-25 20:30:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-25 20:30:12 UTC] [INFO] ============================================================
+[2026-10-25 20:30:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-25 20:30:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-25 20:30:14 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-25 20:30:14 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-25 20:30:14 UTC] [NEW]   🆕 📦 owlsecx/OAmcache
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/owlsecx/OAmcache
+     📝 OAmcache is a Windows Amcache forensics tool with a native registry hive parser …
+     🏷  —
+[2026-10-25 20:30:14 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-25 20:30:14 UTC] [UPD]   📢 📦 Mr-Green013/mitre-attack-playbooks
+     ⭐ 1  🗣 HTML  📅 2026-10-20
+     🔗 https://github.com/Mr-Green013/mitre-attack-playbooks
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-25 20:30:14 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-25 20:30:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-25 20:30:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-25 20:30:17 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 33 NUOVI repository:
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 Welddevelopment/Sightline---argon-4-hack-sf
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/Welddevelopment/Sightline---argon-4-hack-sf
+     📝 build
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 SAMOU2/ms-transformer-Zday
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/SAMOU2/ms-transformer-Zday
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 Morronel/ransomware_inc_2
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/Morronel/ransomware_inc_2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 ns2switch/irmind
+     ⭐ 0  🗣 Rust  📅 2026-10-25
+     🔗 https://github.com/ns2switch/irmind
+     📝 IRMind - Assisted Incident Response. Terminal AI client for security incident in…
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 Zensey/compromise-audit
+     ⭐ 0  🗣 Shell  📅 2026-10-24
+     🔗 https://github.com/Zensey/compromise-audit
+     📝 scripts for a quick check of a machine for signs of compromise
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 RobinaMirbahar/antigravity-science-plugin-cookbook
+     ⭐ 0  🗣 HTML  📅 2026-10-24
+     🔗 https://github.com/RobinaMirbahar/antigravity-science-plugin-cookbook
+     📝 Examples and guides for building Google Antigravity Plugins, PEP 723 Skills, Lif…
+     🏷  ai-agents, alphafold, alphagenome, antigravity, bioinformatics, cookbook, epigraphy, gemini, gemini-api, gemma-4, google-cloud, google-deepmind, google-gemini, hacktoberfest, mcp, model-context-protocol, molstar, python, scientific-ai, webgl
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 jp101216/LiveResponse-NG
+     ⭐ 0  🗣 Go  📅 2026-10-25
+     🔗 https://github.com/jp101216/LiveResponse-NG
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 yilantingfengye/esp32wroom-bt-fm
+     ⭐ 0  🗣 C  📅 2026-10-25
+     🔗 https://github.com/yilantingfengye/esp32wroom-bt-fm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 TD4C/malware-behavior-agent
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/TD4C/malware-behavior-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 aaadamallard/foresignal
+     ⭐ 0  🗣 Java  📅 2026-10-25
+     🔗 https://github.com/aaadamallard/foresignal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 dowdryan/HashGuardian
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/dowdryan/HashGuardian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 MrFantastic/maldoc-triage-workbench
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/MrFantastic/maldoc-triage-workbench
+     📝 Guided, safety-hardened desktop GUI for the REMnux maldoc tools (pdfid, pdf-pars…
+     🏷  dfir, maldoc, malware-analysis, office-documents, oletools, pdf-analysis, phishing, pyside6, remnux, threat-analysis
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 akubishon/mijnwindparknl
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/akubishon/mijnwindparknl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 ohackercego/DeepSeek-jailbreak
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/ohackercego/DeepSeek-jailbreak
+     📝 Material de jailbreak do DeepSeek (recuperado do Wayback Machine)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 SamsonOlaoluwaone/soc-analyst-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-24
+     🔗 https://github.com/SamsonOlaoluwaone/soc-analyst-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 owlsecx/OBTClassic
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/owlsecx/OBTClassic
+     📝 OBTClassic is a defensive Bluetooth Classic (BR/EDR) recon analyzer that decodes…
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 chemsse576/CharpLdr-v2
+     ⭐ 0  🗣 C++  📅 2026-10-25
+     🔗 https://github.com/chemsse576/CharpLdr-v2
+     📝 Fileless .NET assembly loader with EDR evasion — for authorized penetration test…
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 gamerboy-hardik/osint2026-malicious-url
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/gamerboy-hardik/osint2026-malicious-url
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 amoswzw/InkSweep
+     ⭐ 0  🗣 Swift  📅 2026-10-25
+     🔗 https://github.com/amoswzw/InkSweep
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 d4rk-source/defender-endpoint-incident-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/d4rk-source/defender-endpoint-incident-lab
+     📝 Microsoft Defender for Endpoint lab: onboarded a Windows 11 device, triggered sa…
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 thomasya/hid-thing
+     ⭐ 0  🗣 TypeScript  📅 2026-10-25
+     🔗 https://github.com/thomasya/hid-thing
+     📝 Run the CarThing as a bluetooth HID
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 maomaocong1/QwenGlassesG1ConnectMacTool
+     ⭐ 0  🗣 Swift  📅 2026-10-25
+     🔗 https://github.com/maomaocong1/QwenGlassesG1ConnectMacTool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 iedy2024/Mini-libc
+     ⭐ 0  🗣 C  📅 2026-10-25
+     🔗 https://github.com/iedy2024/Mini-libc
+     📝 Freestanding C standard library for x86-64 Linux built directly on raw syscalls:…
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 karthik034/karthik034
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/karthik034/karthik034
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 chaandu984-c/AEGIS-AI
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/chaandu984-c/AEGIS-AI
+     📝 AI-powered cybersecurity threat detection and incident response hackathon protot…
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 ohankay/sql-mcp-simple
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/ohankay/sql-mcp-simple
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 priyanshu-6578mishra/Event-data-Recorder-for-light-electric-Vehicle-
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/priyanshu-6578mishra/Event-data-Recorder-for-light-electric-Vehicle-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 CatN10r/android_device_asus_a400cg_cm12.1
+     ⭐ 0  🗣 C  📅 2026-10-25
+     🔗 https://github.com/CatN10r/android_device_asus_a400cg_cm12.1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 Harshsrivastava1997/xdr-testing-portfolio
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/Harshsrivastava1997/xdr-testing-portfolio
+     📝 Enterprise XDR & EPP/EDR Quality Engineering & Testing Portfolio - Harsh Srivast…
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 charleswright4/charleswright4
+     ⭐ 0  🗣 PowerShell  📅 2026-10-25
+     🔗 https://github.com/charleswright4/charleswright4
+     📝 Infrastructure & Security Operations Lab (SOC, Network & Linux Automation)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 Srikanthv46/signal-intelligence
+     ⭐ 0  🗣 C++  📅 2026-10-25
+     🔗 https://github.com/Srikanthv46/signal-intelligence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 harishkarthick28/CyberPulse
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/harishkarthick28/CyberPulse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:17 UTC] [NEW]   🆕 📦 pslorenz/firewall-trail
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/pslorenz/firewall-trail
+     📝 An Oregon Trail style cybersecurity game
+     🏷  —
+[2026-10-25 20:30:17 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-25 20:30:17 UTC] [UPD]   📢 📦 mhearsh/threat-intel-feed
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/mhearsh/threat-intel-feed
+     📝 Curated high-confidence IOC feed (IP, domain, URL, file hashes), 0-100 scored, e…
+     🏷  blocklist, c2, cti, cybersecurity, edl, edr, firewall, fortigate, indicators-of-compromise, ioc, malware, microsoft-defender, paloalto, siem, splunk, stix, threat-feed, threat-intelligence
+     🔄 Motivo: repo recente (1gg)
+[2026-10-25 20:30:17 UTC] [UPD]   📢 📦 mikeDTA/BroderieIA
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/mikeDTA/BroderieIA
+     📝 Automatisation de la creation de mes fichiers de broderie
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 20:30:17 UTC] [UPD]   📢 📦 thexsypher/thexsypher.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/thexsypher/thexsypher.github.io
+     📝 xSypher Engineering - Official publication for backend architecture, AI infrastr…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-25 20:30:17 UTC] [UPD]   📢 📦 SqueakyFloors/ubertooth-test-harness
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/SqueakyFloors/ubertooth-test-harness
+     📝 Hardware test harness for the Ubertooth One (SqueakyFloors/ubertooth fork)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-25 20:30:17 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-25 20:30:17 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-25 20:30:19 UTC] [INFO]   → 33 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-25 20:30:19 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-25 20:30:19 UTC] [NEW]   🆕 📦 theboringhumane/Root-My-Galaxy-Payloads-SM-S928B
+     ⭐ 0  🗣 C  📅 2026-10-25
+     🔗 https://github.com/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B
+     📝 SM-S928B / S928BXXU6EZIF port of the CVE-2026-43499 app payload - work in progre…
+     🏷  —
+[2026-10-25 20:30:19 UTC] [NEW]   🆕 📦 quillfinch/Galaxy-Tab-S10FE-Root
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/quillfinch/Galaxy-Tab-S10FE-Root
+     📝 One-command ADB root for Samsung Galaxy Tab S10 FE (SM-X520, X520XXSACZH6): CVE-…
+     🏷  —
+[2026-10-25 20:30:19 UTC] [NEW]   🆕 📦 mavroeast/Relapse-Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/mavroeast/Relapse-Exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 20:30:19 UTC] [UPD]   📢 8 repository AGGIORNATI:
+[2026-10-25 20:30:19 UTC] [UPD]   📢 📦 blashkar/portcullis
+     ⭐ 0  🗣 Go  📅 2026-10-24
+     🔗 https://github.com/blashkar/portcullis
+     📝 A security proxy for MCP servers: sees every JSON-RPC message between your AI ag…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 20:30:19 UTC] [UPD]   📢 📦 adhammomen/rag-lab
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/adhammomen/rag-lab
+     📝 Retrieval engineered by measurement, negative results kept, and a sandbox whose …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 20:30:19 UTC] [UPD]   📢 📦 rawalakshay/onionHEN-0.9.0-beta1
+     ⭐ 0  🗣 C++  📅 2026-10-25
+     🔗 https://github.com/rawalakshay/onionHEN-0.9.0-beta1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 20:30:19 UTC] [UPD]   📢 📦 TheRealRexo/PS5-Linux-Loader
+     ⭐ 0  🗣 C  📅 2026-10-18
+     🔗 https://github.com/TheRealRexo/PS5-Linux-Loader
+     📝 A ps5-linux-loader payload for Jailbroken PS5(s): Boots Linux on rest-mode resum…
+     🏷  exploit, homebrew, hypervisor, jailbreak, linux, payload, ps5, ps5-linux, webui
+     🔄 Motivo: repo recente (7gg)
+[2026-10-25 20:30:19 UTC] [UPD]   📢 📦 Kordeone/khroxy
+     ⭐ 1  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Kordeone/khroxy
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 20:30:19 UTC] [UPD]   📢 📦 cfloinc/samsung-q70t-tizen-root
+     ⭐ 10  🗣 Shell  📅 2026-10-24
+     🔗 https://github.com/cfloinc/samsung-q70t-tizen-root
+     📝 Getting persistent debloat on my Samsung Q70T TV
+     🏷  armv7, debloat, jailbreak, q70t, root, samsung, tizen, tizen6, uep
+     🔄 Motivo: repo recente (1gg)
+[2026-10-25 20:30:19 UTC] [UPD]   📢 📦 TwinsEarth/ai-prison
+     ⭐ 1  🗣 Go  📅 2026-10-25
+     🔗 https://github.com/TwinsEarth/ai-prison
+     📝 AI Prison — defensive infrastructure for graded capability deprivation, isolatio…
+     🏷  agent-governance, ai-agent, audit, golang, llm-security, revocation, sandbox
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 20:30:19 UTC] [UPD]   📢 📦 dabsterz/ctf-notes
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/dabsterz/ctf-notes
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 20:30:19 UTC] [INFO] ============================================================
+[2026-10-25 20:30:19 UTC] [INFO] Completato — 37 nuovi, 14 aggiornati, 0 errori
+[2026-10-25 20:30:19 UTC] [INFO] ============================================================
