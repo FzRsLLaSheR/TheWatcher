@@ -121276,3 +121276,231 @@
 [2026-10-25 03:39:24 UTC] [INFO] ============================================================
 [2026-10-25 03:39:24 UTC] [INFO] Completato — 34 nuovi, 10 aggiornati, 0 errori
 [2026-10-25 03:39:24 UTC] [INFO] ============================================================
+[2026-10-25 10:54:56 UTC] [INFO] ============================================================
+[2026-10-25 10:54:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-25 10:54:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-25 10:54:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-25 10:54:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-25 10:54:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-25 10:54:56 UTC] [INFO] ============================================================
+[2026-10-25 10:54:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-25 10:54:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-25 10:54:58 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 49 nella finestra 'aggiornati'
+[2026-10-25 10:54:58 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-25 10:54:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-25 10:54:58 UTC] [UPD]   📢 📦 RaniloJohn/claude-blue
+     ⭐ 2  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/RaniloJohn/claude-blue
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-25 10:54:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-25 10:54:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-25 10:55:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 Parogi13/keylight
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/Parogi13/keylight
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 cibaism/EDR-Evasion
+     ⭐ 0  🗣 C  📅 2026-10-25
+     🔗 https://github.com/cibaism/EDR-Evasion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 toumai266/PurpleSim
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/toumai266/PurpleSim
+     📝 Play one real-world attack from both sides of the console.
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 Powerhouse0784/Mirage-studio
+     ⭐ 0  🗣 TypeScript  📅 2026-10-25
+     🔗 https://github.com/Powerhouse0784/Mirage-studio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 mikeDTA/BroderieIA
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/mikeDTA/BroderieIA
+     📝 Automatisation de la creation de mes fichiers de broderie
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 chdhanush6/ppid_-project
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/chdhanush6/ppid_-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 SundownRises/perpetua
+     ⭐ 0  🗣 TypeScript  📅 2026-10-25
+     🔗 https://github.com/SundownRises/perpetua
+     📝 Liquid veBTC with a MUSD coupon, on Mezo. Deposit BTC once; it joins one permane…
+     🏷  bitcoin, defi, hardhat, liquid-staking, mezo, musd, solidity, vote-escrow
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 kongnamul-lab/truelog
+     ⭐ 0  🗣 Kotlin  📅 2026-10-25
+     🔗 https://github.com/kongnamul-lab/truelog
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 naravid19/php2shell-ioc
+     ⭐ 1  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/naravid19/php2shell-ioc
+     📝 Curated IoCs, detection engineering rules, and automated threat intel feeds for …
+     🏷  cve-2026-109618, cve-2026-109619, ioc, ioc-analysis, php, php-security, poc
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 likithaliki951-spec/Malware-Detection-Comparison
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/likithaliki951-spec/Malware-Detection-Comparison
+     📝 Comparative Analysis of Malware Detection Methods
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 akhilnathreddy/delhi-aqi-forecast
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/akhilnathreddy/delhi-aqi-forecast
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 6Zhang-Lab/AMI-EDRS
+     ⭐ 0  🗣 R  📅 2026-10-25
+     🔗 https://github.com/6Zhang-Lab/AMI-EDRS
+     📝 Early physiological dynamics and mortality risk in ICU-admitted acute myocardial…
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 aryarakshit/Ransomware-Tripwire-Host-Isolation
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/aryarakshit/Ransomware-Tripwire-Host-Isolation
+     📝 Deception-based ransomware tripwire and automated host containment engine using …
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 er-kishangupta/test-agent-monitor
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/er-kishangupta/test-agent-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 Cyt0matrix/Cyt0matrix
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/Cyt0matrix/Cyt0matrix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 shreyanshagarwalofficial/-Cybersecurity-Zero-to-100
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/shreyanshagarwalofficial/-Cybersecurity-Zero-to-100
+     📝 A free-first, practical curriculum for learning cybersecurity from absolute begi…
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 AadityaGupta/whathappenswhen.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/AadityaGupta/whathappenswhen.github.io
+     📝 An explainer website for learning "what happens when..." on various phenomenon o…
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 dhruv97270/Windows-Event-Log-Triage-Tool
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/dhruv97270/Windows-Event-Log-Triage-Tool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 EdrianVillacora/edrian_ED_Finals
+     ⭐ 0  🗣 TypeScript  📅 2026-10-25
+     🔗 https://github.com/EdrianVillacora/edrian_ED_Finals
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 luisgarcia-infosec/Lu7ech-AntiInfostealer
+     ⭐ 0  🗣 Batchfile  📅 2026-10-25
+     🔗 https://github.com/luisgarcia-infosec/Lu7ech-AntiInfostealer
+     📝 “Script automático para Windows que detecta y pone en cuarentena infostealers (R…
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 FerDoranNie/Revision_tesis_2026
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-25
+     🔗 https://github.com/FerDoranNie/Revision_tesis_2026
+     📝 Una revisión de mi tesis para visualizar que fallé y en qué acerté. La revisión …
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 Justaboringname/xdr-lift
+     ⭐ 0  🗣 Swift  📅 2026-10-25
+     🔗 https://github.com/Justaboringname/xdr-lift
+     📝 Free menu-bar app that keeps an Apple Studio Display XDR's SDR brightness above …
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 nhanquocthai2710-spec/Edra-demo
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/nhanquocthai2710-spec/Edra-demo
+     📝 Shop bán quần áo
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 flint254/dropzone-ai
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/flint254/dropzone-ai
+     📝 DropZone AI security investigation agent with evidence-grounded triage and two-a…
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 jamesbacigalupo/SOC-Detection-Engineering-Lab
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/jamesbacigalupo/SOC-Detection-Engineering-Lab
+     📝 A course to practice as a SOC analyst using multiple tools and perspectives.
+     🏷  —
+[2026-10-25 10:55:01 UTC] [NEW]   🆕 📦 Guino-Yang/Picnic
+     ⭐ 1  🗣 Swift  📅 2026-10-25
+     🔗 https://github.com/Guino-Yang/Picnic
+     📝 ☀️ 🧺 Ambient-light-aware MacBook brightness boost — native menu bar controls, au…
+     🏷  —
+[2026-10-25 10:55:01 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-25 10:55:01 UTC] [UPD]   📢 📦 SolidGeeks/strata
+     ⭐ 0  🗣 JavaScript  📅 2026-10-24
+     🔗 https://github.com/SolidGeeks/strata
+     📝 3D network and assets management tool
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 10:55:01 UTC] [UPD]   📢 📦 umbrasec-labs/BlueTeamMapper
+     ⭐ 0  🗣 TypeScript  📅 2026-10-23
+     🔗 https://github.com/umbrasec-labs/BlueTeamMapper
+     📝 Visual reference for defensive security operations: detection, response, hardeni…
+     🏷  blue-team, defensive-security, detection-engineering, incident-response, mitre-attack, security-reference, soc, threat-hunting
+     🔄 Motivo: repo recente (2gg)
+[2026-10-25 10:55:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-25 10:55:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-25 10:55:04 UTC] [INFO]   → 22 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-25 10:55:04 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-10-25 10:55:04 UTC] [NEW]   🆕 📦 itsfuckinawesome/itsfuckinawesome
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/itsfuckinawesome/itsfuckinawesome
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:04 UTC] [NEW]   🆕 📦 HazelCoreapp/AVEAccessProbe-20261025-084833
+     ⭐ 0  🗣 Swift  📅 2026-10-25
+     🔗 https://github.com/HazelCoreapp/AVEAccessProbe-20261025-084833
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:04 UTC] [NEW]   🆕 📦 boomerf90777/ps41400exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/boomerf90777/ps41400exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:04 UTC] [NEW]   🆕 📦 Vinayakgupta1/nebius-x-nvidia-global-ai-hackathon
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/Vinayakgupta1/nebius-x-nvidia-global-ai-hackathon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 10:55:04 UTC] [NEW]   🆕 📦 blashkar/portcullis
+     ⭐ 0  🗣 Go  📅 2026-10-24
+     🔗 https://github.com/blashkar/portcullis
+     📝 A security proxy for MCP servers: sees every JSON-RPC message between your AI ag…
+     🏷  —
+[2026-10-25 10:55:04 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-25 10:55:04 UTC] [UPD]   📢 📦 genius-0963/Ai-Agent-Evaluation-Benchmarks
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/genius-0963/Ai-Agent-Evaluation-Benchmarks
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 10:55:04 UTC] [UPD]   📢 📦 Danh-123/3105-2.1
+     ⭐ 0  🗣 Swift  📅 2026-10-24
+     🔗 https://github.com/Danh-123/3105-2.1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 10:55:04 UTC] [UPD]   📢 📦 unblocklabs-ai/scrat
+     ⭐ 0  🗣 JavaScript  📅 2026-10-19
+     🔗 https://github.com/unblocklabs-ai/scrat
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-25 10:55:04 UTC] [UPD]   📢 📦 NecmiKural/mcp-code-mode
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/NecmiKural/mcp-code-mode
+     📝 Run model-written Python against any MCP server's tools in a locked-down Docker …
+     🏷  code-mode, docker, mcp, model-context-protocol, python, sandbox
+     🔄 Motivo: repo recente (0gg) | nuovi topic: docker, model-context-protocol, sandbox, python, code-mode, mcp
+[2026-10-25 10:55:04 UTC] [UPD]   📢 📦 sagidana/sand
+     ⭐ 0  🗣 C  📅 2026-10-23
+     🔗 https://github.com/sagidana/sand
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-25 10:55:04 UTC] [INFO] ============================================================
+[2026-10-25 10:55:04 UTC] [INFO] Completato — 31 nuovi, 8 aggiornati, 0 errori
+[2026-10-25 10:55:04 UTC] [INFO] ============================================================
