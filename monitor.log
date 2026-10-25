@@ -121504,3 +121504,249 @@
 [2026-10-25 10:55:04 UTC] [INFO] ============================================================
 [2026-10-25 10:55:04 UTC] [INFO] Completato — 31 nuovi, 8 aggiornati, 0 errori
 [2026-10-25 10:55:04 UTC] [INFO] ============================================================
+[2026-10-25 15:42:05 UTC] [INFO] ============================================================
+[2026-10-25 15:42:05 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-25 15:42:05 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-25 15:42:05 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-25 15:42:05 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-25 15:42:05 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-25 15:42:05 UTC] [INFO] ============================================================
+[2026-10-25 15:42:05 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-25 15:42:05 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-25 15:42:08 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-25 15:42:08 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-25 15:42:08 UTC] [NEW]   🆕 📦 DonMorpheus/maelstrom-c2
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/DonMorpheus/maelstrom-c2
+     📝 Maelstrom 2.0 — public product page. Kernel C2, ML-KEM-1024, full EDR evasion gu…
+     🏷  c2, kernel, post-quantum, red-team
+[2026-10-25 15:42:08 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-25 15:42:08 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 223  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  agentic-graph-rag, binary-lifting, claude-code, cli, decompiler, disassembler, firmware-analysis, llm, loongarch64, malware-analysis, python, rag, reverse-engineering, security-hardening, security-research, vulnerability-research
+     🔄 Motivo: nuovi topic: malware-analysis, security-hardening, rag, cli, loongarch64, llm, vulnerability-research, python
+[2026-10-25 15:42:08 UTC] [UPD]   📢 📦 ghshhf/skynet-fleet
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/ghshhf/skynet-fleet
+     📝 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期）
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-25 15:42:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-25 15:42:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-25 15:42:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 27 NUOVI repository:
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 TMForeverMods/TMOpenLoader
+     ⭐ 0  🗣 C++  📅 2026-10-25
+     🔗 https://github.com/TMForeverMods/TMOpenLoader
+     📝 Open-source mod loader for TrackMania Nations/United Forever: drop one d3d9.dll …
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 MehdiUI/Write-ups
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/MehdiUI/Write-ups
+     📝 Write-ups TryHackMe & LetsDefend d'un profil en reconversion vers la cybersécuri…
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 jjuugk/CarPToCarL
+     ⭐ 0  🗣 Kotlin  📅 2026-10-25
+     🔗 https://github.com/jjuugk/CarPToCarL
+     📝 让 Android 手机把车机当成无线显示端：把本机 CarLife+ 的码流直通投到支持无线车机互联的车机上（非官方实验项目，需自备车机与手机）
+     🏷  airplay, android, car-head-unit, carlife, h264, iap2, kotlin, screen-mirroring
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 zeynepyardimci/SentriqAI
+     ⭐ 0  🗣 Ruby  📅 2026-10-25
+     🔗 https://github.com/zeynepyardimci/SentriqAI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 65shi/zhuguang
+     ⭐ 0  🗣 Swift  📅 2026-10-25
+     🔗 https://github.com/65shi/zhuguang
+     📝 逐光 · Zhuguang — 原生 macOS 菜单栏 XDR/EDR 亮度增强工具，支持沙盒、定时关闭与自动暂停。
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 vzc574/SentinelFlow
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/vzc574/SentinelFlow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 SujalParmar-06/AEGIS-core
+     ⭐ 0  🗣 Rust  📅 2026-10-25
+     🔗 https://github.com/SujalParmar-06/AEGIS-core
+     📝 AEGIS — A cross-platform personal cybersecurity ecosystem built with Rust, desig…
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 jedi566666/mtp-blockchain-studio-community
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/jedi566666/mtp-blockchain-studio-community
+     📝 MTP Blockchain Studio Community - Local EVM development and simulation by Montpe…
+     🏷  blockchain, education, erc20, evm, french, simulation, solidity, windows
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 Problem99-io/kodeblue
+     ⭐ 0  🗣 Go  📅 2026-10-25
+     🔗 https://github.com/Problem99-io/kodeblue
+     📝 SOC, incident response and SecOps for Linux servers in one agent: learns each ho…
+     🏷  ai-agents, blue-team, go, incident-response, intrusion-detection, linux, llm, secops, security, server-monitoring, soc
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 WangPangZi-cn/android_device_nubia_msm8976-common
+     ⭐ 0  🗣 C++  📅 2026-10-25
+     🔗 https://github.com/WangPangZi-cn/android_device_nubia_msm8976-common
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 abalika/dsh-port-viewer
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/abalika/dsh-port-viewer
+     📝 DeepSeek Harness (dsh) 插件：本机端口看板，按项目分组，带安全闸门的一键关闭（Windows / 零依赖）
+     🏷  cordis, deepseek-harness, dev-server, dsh, plugin, port, windows
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 Morronel/ransomware_inc
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/Morronel/ransomware_inc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 X-netrunner/ai-antivirus
+     ⭐ 0  🗣 Rust  📅 2026-10-25
+     🔗 https://github.com/X-netrunner/ai-antivirus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 PMspectre/PMspectre
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/PMspectre/PMspectre
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 nolan123-png/edrfghjk
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/nolan123-png/edrfghjk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 bborn/tattle
+     ⭐ 0  🗣 Shell  📅 2026-10-25
+     🔗 https://github.com/bborn/tattle
+     📝 Free, assume-breach security monitoring for a handful of laptops and servers: of…
+     🏷  canarytokens, cloudflare-workers, homelab, monitoring, security
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 duodushu541/LanSuiteClean
+     ⭐ 1  🗣 C#  📅 2026-10-24
+     🔗 https://github.com/duodushu541/LanSuiteClean
+     📝 基于局域网的远程管理工具 - C# .NET 8
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 languidlost/microslate-firmware
+     ⭐ 0  🗣 C  📅 2026-10-25
+     🔗 https://github.com/languidlost/microslate-firmware
+     📝 microslate firmware with github sync
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 othmane71-art/network-intrusion-detection-logreg
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/othmane71-art/network-intrusion-detection-logreg
+     📝 Détection d'intrusions réseau par régression logistique (classification binaire …
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 official-jahid/regix-dll-maper
+     ⭐ 0  🗣 PowerShell  📅 2026-10-25
+     🔗 https://github.com/official-jahid/regix-dll-maper
+     📝 This is only for educational purposes only
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 ajaynyayapathi/yara-l-skill
+     ⭐ 1  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/ajaynyayapathi/yara-l-skill
+     📝 Agent Skill for writing, reviewing, tuning, and converting Google SecOps YARA-L …
+     🏷  agent-skills, chronicle, claude-skills, detection-engineering, google-secops, siem, threat-detection, yaral-l
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 Celestial0579/ha-bluetooth-lautsprecher
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/Celestial0579/ha-bluetooth-lautsprecher
+     📝 Bluetooth-Lautsprecher (A2DP) in Home Assistant koppeln, verbinden und wach halt…
+     🏷  a2dp, bluetooth, bluez, hacs, hacs-integration, home-assistant
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 DonMorpheus/maelstrom-c2
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/DonMorpheus/maelstrom-c2
+     📝 Maelstrom 2.0 — public product page. Kernel C2, ML-KEM-1024, full EDR evasion gu…
+     🏷  c2, kernel, post-quantum, red-team
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 adrysmhsnalfqyh-lgtm/edressAI
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/adrysmhsnalfqyh-lgtm/edressAI
+     📝 ذكاء اصطناعي 
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 gowtham526/Multi-Source-Log-Correlation-SOC-Lab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-25
+     🔗 https://github.com/gowtham526/Multi-Source-Log-Correlation-SOC-Lab
+     📝 Correlating Windows Security and Sysmon logs in Splunk to reconstruct a brute-fo…
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 victrvondoom/CLIMATE-CHAIN
+     ⭐ 0  🗣 TypeScript  📅 2026-10-24
+     🔗 https://github.com/victrvondoom/CLIMATE-CHAIN
+     📝 Climate Chain is a climate-integrity platform that anchors environmental evidenc…
+     🏷  —
+[2026-10-25 15:42:11 UTC] [NEW]   🆕 📦 RavinduChamika1/VetBinary
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/RavinduChamika1/VetBinary
+     📝 Pre-deployment file vetting tool. Extracts real software identity from a file's …
+     🏷  —
+[2026-10-25 15:42:11 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-25 15:42:11 UTC] [UPD]   📢 📦 yjj3019/claude-cheat
+     ⭐ 0  🗣 Python  📅 2026-10-20
+     🔗 https://github.com/yjj3019/claude-cheat
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-25 15:42:11 UTC] [UPD]   📢 📦 mikeDTA/BroderieIA
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/mikeDTA/BroderieIA
+     📝 Automatisation de la creation de mes fichiers de broderie
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-25 15:42:11 UTC] [UPD]   📢 📦 thexsypher/thexsypher.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-19
+     🔗 https://github.com/thexsypher/thexsypher.github.io
+     📝 xSypher Engineering - Official publication for backend architecture, AI infrastr…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-25 15:42:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-25 15:42:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-25 15:42:13 UTC] [INFO]   → 30 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 📦 rawalakshay/onionHEN-0.9.0-beta1
+     ⭐ 0  🗣 C++  📅 2026-10-25
+     🔗 https://github.com/rawalakshay/onionHEN-0.9.0-beta1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 📦 REXXER301/bwrap-sbx
+     ⭐ 0  🗣 Shell  📅 2026-10-25
+     🔗 https://github.com/REXXER301/bwrap-sbx
+     📝 Small helper script to easily set up directory-bound bubblewrap sandboxes
+     🏷  —
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 📦 WyattAu/detonate-mcp
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/WyattAu/detonate-mcp
+     📝 Hardened-container detonation MCP server
+     🏷  —
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 📦 TwinsEarth/ai-prison
+     ⭐ 0  🗣 Go  📅 2026-10-25
+     🔗 https://github.com/TwinsEarth/ai-prison
+     📝 AI Prison — defensive infrastructure for graded capability deprivation, isolatio…
+     🏷  agent-governance, ai-agent, audit, golang, llm-security, revocation, sandbox
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 📦 elon00/wenliang-du-ai
+     ⭐ 0  🗣 Solidity  📅 2026-10-25
+     🔗 https://github.com/elon00/wenliang-du-ai
+     📝 Wenliang Du AI ($DU): Autonomous Hands-On Cybersecurity Education, SEED Labs Emu…
+     🏷  —
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 📦 Ziko000/55
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/Ziko000/55
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 📦 sarkatdsds/dusky1991.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/sarkatdsds/dusky1991.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 📦 adhammomen/rag-lab
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/adhammomen/rag-lab
+     📝 Retrieval engineered by measurement, negative results kept, and a sandbox whose …
+     🏷  —
+[2026-10-25 15:42:13 UTC] [NEW]   🆕 📦 dabsterz/ctf-notes
+     ⭐ 0  🗣 HTML  📅 2026-10-25
+     🔗 https://github.com/dabsterz/ctf-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-25 15:42:13 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-25 15:42:13 UTC] [UPD]   📢 📦 Danh-123/3105-2.1
+     ⭐ 0  🗣 Swift  📅 2026-10-24
+     🔗 https://github.com/Danh-123/3105-2.1
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-25 15:42:13 UTC] [INFO] ============================================================
+[2026-10-25 15:42:13 UTC] [INFO] Completato — 37 nuovi, 6 aggiornati, 0 errori
+[2026-10-25 15:42:13 UTC] [INFO] ============================================================
