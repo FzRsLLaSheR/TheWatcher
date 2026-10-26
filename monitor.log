@@ -122044,3 +122044,192 @@
 [2026-10-25 20:30:19 UTC] [INFO] ============================================================
 [2026-10-25 20:30:19 UTC] [INFO] Completato — 37 nuovi, 14 aggiornati, 0 errori
 [2026-10-25 20:30:19 UTC] [INFO] ============================================================
+[2026-10-26 03:42:30 UTC] [INFO] ============================================================
+[2026-10-26 03:42:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-26 03:42:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-26 03:42:30 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-26 03:42:30 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-26 03:42:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-26 03:42:30 UTC] [INFO] ============================================================
+[2026-10-26 03:42:30 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-26 03:42:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-26 03:42:32 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-26 03:42:32 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-26 03:42:32 UTC] [NEW]   🆕 📦 LongpanZhou/BYOVD-AI-Guide
+     ⭐ 0  🗣 PowerShell  📅 2026-10-25
+     🔗 https://github.com/LongpanZhou/BYOVD-AI-Guide
+     📝 A beginner's guide to finding vulnerable Windows drivers: collection playbook, s…
+     🏷  anti-cheat, byovd, defensive-security, education, ghidra, kernel-security, loldrivers, malware-research, reverse-engineering, security-research, static-analysis, threat-hunting, vulnerable-drivers, windows-11, windows-drivers
+[2026-10-26 03:42:32 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-26 03:42:32 UTC] [UPD]   📢 📦 hiyfoeorihly/spiderman2-trainer
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/hiyfoeorihly/spiderman2-trainer
+     📝 Spider-Man 2 trainer: infinite health, unlimited focus, god mode, one-hit KO tog…
+     🏷  god-mode, insomniac-spiderman2, memory-editor, modding-tool, script-hook, singleplayer-trainer, skill-points-editor, spider-man-2, spiderman-2-trainer, spiderman2-mod-menu, spiderman2-pc, symbiote-suit-unlock, trainer-menu, unlimited-suit-tokens, web-swinging-mods, xp-multiplier
+     🔄 Motivo: repo recente (2gg)
+[2026-10-26 03:42:32 UTC] [UPD]   📢 📦 Mr-Green013/mitre-attack-playbooks
+     ⭐ 1  🗣 HTML  📅 2026-10-20
+     🔗 https://github.com/Mr-Green013/mitre-attack-playbooks
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-26 03:42:32 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-26 03:42:32 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-26 03:42:35 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 z41hk/Whatsapp-ZIP-attack
+     ⭐ 0  🗣 N/A  📅 2026-10-26
+     🔗 https://github.com/z41hk/Whatsapp-ZIP-attack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 samuelnsa/redgpt
+     ⭐ 0  🗣 Python  📅 2026-10-26
+     🔗 https://github.com/samuelnsa/redgpt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 hage2000/windows-env-security-check
+     ⭐ 0  🗣 N/A  📅 2026-10-26
+     🔗 https://github.com/hage2000/windows-env-security-check
+     📝 Offline, portable Windows security scanner - detects DLP/transparent encryption,…
+     🏷  anti-surveillance, csharp, dlp, dotnet, endpoint-security, monitoring, offline, portable, privacy, scanner, security, windows
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 luoshui-coder/beszel-windows-minimal-guide
+     ⭐ 0  🗣 N/A  📅 2026-10-26
+     🔗 https://github.com/luoshui-coder/beszel-windows-minimal-guide
+     📝 Windows Server 2019 纯内网 Beszel 极简监控部署教程
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 kusumurupavankalyan46-kpk/KLH-project_1
+     ⭐ 0  🗣 N/A  📅 2026-10-26
+     🔗 https://github.com/kusumurupavankalyan46-kpk/KLH-project_1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 charleswright4/charleswright4
+     ⭐ 0  🗣 N/A  📅 2026-10-26
+     🔗 https://github.com/charleswright4/charleswright4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 Solomon-Botchway/IT-Support-Tickects
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/Solomon-Botchway/IT-Support-Tickects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 koto2730/kotowatch
+     ⭐ 0  🗣 Go  📅 2026-10-26
+     🔗 https://github.com/koto2730/kotowatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 kkcyber2/sentinel-trace
+     ⭐ 0  🗣 Python  📅 2026-10-26
+     🔗 https://github.com/kkcyber2/sentinel-trace
+     📝 Agent execution security: authority replay, blast-radius scoring, and hijack-pat…
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 zacmero/mero-xperia
+     ⭐ 0  🗣 N/A  📅 2026-10-26
+     🔗 https://github.com/zacmero/mero-xperia
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 kkcyber2/cutvertex
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/kkcyber2/cutvertex
+     📝 Precondition-aware attack path analysis and remediation chokepoint ranking. Mode…
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 sRussBahari/ad-attack-detection-homelab
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/sRussBahari/ad-attack-detection-homelab
+     📝 Homelab built from scratch: A windows Server 2025 Active Directory domain behind…
+     🏷  active-directory, bloodhound, blue-team, cybersecurity, homelab, kerberoasting, mitre-attack, pfsense, proxmox, red-team, siem, soc, wazuh
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 ericediger/STRATEGOS
+     ⭐ 0  🗣 TypeScript  📅 2026-10-25
+     🔗 https://github.com/ericediger/STRATEGOS
+     📝 Strategic competitive intelligence platform: AI-guided scoping, multi-provider d…
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 vajunalyn-cpu/Trangia-Business
+     ⭐ 0  🗣 TypeScript  📅 2026-10-25
+     🔗 https://github.com/vajunalyn-cpu/Trangia-Business
+     📝 Trangia Business Website
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 Morronel/soc_inc
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/Morronel/soc_inc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 Norruva/aas-forge
+     ⭐ 0  🗣 Python  📅 2026-10-25
+     🔗 https://github.com/Norruva/aas-forge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-26 03:42:35 UTC] [NEW]   🆕 📦 Chammin00/comptia-security-plus-simulator
+     ⭐ 0  🗣 JavaScript  📅 2026-10-25
+     🔗 https://github.com/Chammin00/comptia-security-plus-simulator
+     📝 Production-grade CompTIA Security+ SY0-701 exam preparation suite replicating Pe…
+     🏷  —
+[2026-10-26 03:42:35 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-26 03:42:35 UTC] [UPD]   📢 📦 lupingQAQ/IntraSpanNet
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/lupingQAQ/IntraSpanNet
+     📝 Byte-level traffic classification for security product discovery, with a public …
+     🏷  encrypted-traffic, gdn, mamba, network-security, open-set-recognition, pytorch, security-tools, traffic-classification
+     🔄 Motivo: repo recente (1gg)
+[2026-10-26 03:42:35 UTC] [UPD]   📢 📦 mhearsh/threat-intel-feed
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/mhearsh/threat-intel-feed
+     📝 Curated high-confidence IOC feed (IP, domain, URL, file hashes), 0-100 scored, e…
+     🏷  blocklist, c2, cti, cybersecurity, edl, edr, firewall, fortigate, indicators-of-compromise, ioc, malware, microsoft-defender, paloalto, siem, splunk, stix, threat-feed, threat-intelligence
+     🔄 Motivo: repo recente (1gg)
+[2026-10-26 03:42:35 UTC] [UPD]   📢 📦 SqueakyFloors/ubertooth-test-harness
+     ⭐ 0  🗣 Python  📅 2026-10-24
+     🔗 https://github.com/SqueakyFloors/ubertooth-test-harness
+     📝 Hardware test harness for the Ubertooth One (SqueakyFloors/ubertooth fork)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-26 03:42:35 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-26 03:42:35 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-26 03:42:37 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-26 03:42:37 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-26 03:42:37 UTC] [NEW]   🆕 📦 minsecio/minsec-id
+     ⭐ 0  🗣 Rust  📅 2026-10-25
+     🔗 https://github.com/minsecio/minsec-id
+     📝 Minimalist intrusion dectection system for modern Linux
+     🏷  —
+[2026-10-26 03:42:37 UTC] [NEW]   🆕 📦 bts2019amo-ctrl/3105-build-20261025
+     ⭐ 0  🗣 Swift  📅 2026-10-25
+     🔗 https://github.com/bts2019amo-ctrl/3105-build-20261025
+     📝 Cópia independente do 3105 com compilação iOS pelo GitHub Actions
+     🏷  —
+[2026-10-26 03:42:37 UTC] [NEW]   🆕 📦 Anezium/ghostlock-firetv-tank
+     ⭐ 0  🗣 C  📅 2026-10-25
+     🔗 https://github.com/Anezium/ghostlock-firetv-tank
+     📝 One-shot, build-guarded root for the Fire TV Stick 2 (AFTT / tank, 288.6.8.8_use…
+     🏷  aftt, arm32, cve-2026-43499, fire-tv, firetv, ghostlock, kernel-exploit, mediatek, mt8127, tank
+[2026-10-26 03:42:37 UTC] [NEW]   🆕 📦 runDMZ/qubes-hardened-template
+     ⭐ 0  🗣 Shell  📅 2026-10-25
+     🔗 https://github.com/runDMZ/qubes-hardened-template
+     📝 Hardened Debian template for Qubes OS: script and write-up
+     🏷  anssi, cis-benchmark, hardening, qubes-os
+[2026-10-26 03:42:37 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-26 03:42:37 UTC] [UPD]   📢 📦 TwinsEarth/ai-prison
+     ⭐ 1  🗣 Go  📅 2026-10-25
+     🔗 https://github.com/TwinsEarth/ai-prison
+     📝 AI Prison — defensive infrastructure for graded capability deprivation, isolatio…
+     🏷  agent-governance, ai-agent, audit, golang, llm-security, revocation, sandbox
+     🔄 Motivo: repo recente (0gg)
+[2026-10-26 03:42:37 UTC] [UPD]   📢 📦 arg0WAK/WAK1300-Raw
+     ⭐ 0  🗣 JavaScript  📅 2026-10-24
+     🔗 https://github.com/arg0WAK/WAK1300-Raw
+     📝 W.A.K. (WebKit Automated Kernel) - A modular and fully automated exploit framewo…
+     🏷  exploit, jailbreak, playstation, playstation-4
+     🔄 Motivo: repo recente (1gg)
+[2026-10-26 03:42:37 UTC] [UPD]   📢 📦 blashkar/portcullis
+     ⭐ 0  🗣 Go  📅 2026-10-24
+     🔗 https://github.com/blashkar/portcullis
+     📝 A security proxy for MCP servers: sees every JSON-RPC message between your AI ag…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-26 03:42:37 UTC] [UPD]   📢 📦 cfloinc/samsung-q70t-tizen-root
+     ⭐ 11  🗣 Shell  📅 2026-10-24
+     🔗 https://github.com/cfloinc/samsung-q70t-tizen-root
+     📝 Getting persistent debloat on my Samsung Q70T TV
+     🏷  armv7, debloat, jailbreak, q70t, root, samsung, tizen, tizen6, uep
+     🔄 Motivo: repo recente (1gg)
+[2026-10-26 03:42:37 UTC] [INFO] ============================================================
+[2026-10-26 03:42:37 UTC] [INFO] Completato — 22 nuovi, 9 aggiornati, 0 errori
+[2026-10-26 03:42:37 UTC] [INFO] ============================================================
