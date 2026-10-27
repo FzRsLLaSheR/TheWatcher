@@ -123623,3 +123623,261 @@
 [2026-10-27 17:37:49 UTC] [INFO] ============================================================
 [2026-10-27 17:37:49 UTC] [INFO] Completato — 54 nuovi, 4 aggiornati, 0 errori
 [2026-10-27 17:37:49 UTC] [INFO] ============================================================
+[2026-10-27 21:54:10 UTC] [INFO] ============================================================
+[2026-10-27 21:54:10 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-27 21:54:10 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-27 21:54:10 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-27 21:54:10 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-27 21:54:10 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-27 21:54:10 UTC] [INFO] ============================================================
+[2026-10-27 21:54:10 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-27 21:54:10 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-27 21:54:12 UTC] [INFO]   → 12 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-27 21:54:12 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-27 21:54:12 UTC] [NEW]   🆕 📦 hediondom/CLS_Curso_Reversing
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/hediondom/CLS_Curso_Reversing
+     📝 Curso independiente en español sobre reversing de Windows, con teoría, ejemplos …
+     🏷  cybersecurity-education, ghidra, ida-pro, pe-format, reverse-engineering, spanish, windows, windows-internals, x64dbg
+[2026-10-27 21:54:12 UTC] [NEW]   🆕 📦 noobraja/drvwatch
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/noobraja/drvwatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:12 UTC] [NEW]   🆕 📦 Lemursec/byovd-exploit-framework
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/Lemursec/byovd-exploit-framework
+     📝 BYOVD evaluation, discovery and PoC tool
+     🏷  —
+[2026-10-27 21:54:12 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-27 21:54:12 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-27 21:54:12 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-27 21:54:15 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 31 NUOVI repository:
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 yuvanshankarm007/synapse_reason
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/yuvanshankarm007/synapse_reason
+     📝 3D Cognitive Lattice Architecture & Autonomous Remediation Engine (Track 3: Reas…
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 io-world/UkonProject
+     ⭐ 0  🗣 HTML  📅 2026-10-27
+     🔗 https://github.com/io-world/UkonProject
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 neuron7x/falsicore
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/neuron7x/falsicore
+     📝 Offline, read-only compromise triage for a Linux workstation. Observes and repor…
+     🏷  endpoint-security, forensics, incident-response, linux, python, security, triage
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 MikkelKappelPersson/lumina-inspector
+     ⭐ 0  🗣 C++  📅 2026-10-27
+     🔗 https://github.com/MikkelKappelPersson/lumina-inspector
+     📝 Scientific and technical image analysis for HDR and floating-point data — a fork…
+     🏷  color-management, exr, hdr, image-analysis, image-viewer, ocio, scientific-computing, tev
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 burpboy/KEBHon
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/burpboy/KEBHon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 guru420e/better_bluetooth
+     ⭐ 0  🗣 C#  📅 2026-10-27
+     🔗 https://github.com/guru420e/better_bluetooth
+     📝 A better implementation for windows bluethooth . 
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 EitaPreulaJhol/libwasys-poc
+     ⭐ 0  🗣 C++  📅 2026-10-27
+     🔗 https://github.com/EitaPreulaJhol/libwasys-poc
+     📝 Process termination using one of the driver's IOCTL's.
+     🏷  byovd, windows-driver
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 sysmrk/assetvuln-monitor
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/sysmrk/assetvuln-monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 pvtltdpratik/lognexa
+     ⭐ 0  🗣 TypeScript  📅 2026-10-27
+     🔗 https://github.com/pvtltdpratik/lognexa
+     📝 AI-driven access log auditing & anomaly detection. Explainable rules + Isolation…
+     🏷  anomaly-detection, cybersecurity, dashboard, explainable-ai, fastapi, final-year-project, insider-threat, isolation-forest, log-analysis, machine-learning, nextjs, postgresql, python, scikit-learn, security-monitoring, shadcn-ui, sqlalchemy, typescript, ueba
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 Craxker15/zero-trust-expo
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/Craxker15/zero-trust-expo
+     📝 Exposición de Zero Trust: principios NIST SP 800-207, arquitectura PDP/PEP y lab…
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 depuschm/brotli-k8s-scan
+     ⭐ 0  🗣 Shell  📅 2026-10-27
+     🔗 https://github.com/depuschm/brotli-k8s-scan
+     📝 Find vulnerable Brotli (CVE-2026-111497, Broccoli2Shell / Node2Shell / HTTP2Shel…
+     🏷  bash, broccoli2shell, brotli, container-security, cve-2026-111497, devsecops, dotnet, http2shell, incident-response, kubernetes, node2shell, nodejs, python, sarif, security-scanner, vulnerability-scanner, yara, yara-rules
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 NoseyGames/jailbreak
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/NoseyGames/jailbreak
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 AtySec/AtySec
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/AtySec/AtySec
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 yagyeshVyas/glance-ai
+     ⭐ 0  🗣 JavaScript  📅 2026-10-27
+     🔗 https://github.com/yagyeshVyas/glance-ai
+     📝 Glance AI - Windows overlay assistant hidden from screen share. Hears mic or sys…
+     🏷  assistant, electron, mediapipe, openai, overlay, windows
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 sw15006/siddhesh-nagarkar
+     ⭐ 1  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sw15006/siddhesh-nagarkar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 fikrado2/fikrado-security-cli
+     ⭐ 0  🗣 JavaScript  📅 2026-10-27
+     🔗 https://github.com/fikrado2/fikrado-security-cli
+     📝 Fikrado Security — cross-platform terminal security suite (Node.js, zero runtime…
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 diliproutray12/diliproutray12
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/diliproutray12/diliproutray12
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 ScscriptriPt/scscriptript.github.io
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/ScscriptriPt/scscriptript.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 noobraja/drvwatch
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/noobraja/drvwatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 sifatnotes/Hands-on-SOAR-Threat-Intel-Zero-Trust-Kubernetes-Container-Security-CTF-Labs-SecByte-Index
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sifatnotes/Hands-on-SOAR-Threat-Intel-Zero-Trust-Kubernetes-Container-Security-CTF-Labs-SecByte-Index
+     📝 A practical collection of cybersecurity CTF labs covering Security Orchestration…
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 sifatnotes/Hands-on-Purple-Team-Operations-BAS-Attack-Surface-Validation-CTF-Labs-SecByte-Index
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sifatnotes/Hands-on-Purple-Team-Operations-BAS-Attack-Surface-Validation-CTF-Labs-SecByte-Index
+     📝 A practical collection of cybersecurity CTF labs covering Purple Team operations…
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 Kashmallah/CYBER_PULSE
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/Kashmallah/CYBER_PULSE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 sifatnotes/Hands-on-MITRE-ATT-CK-Matrix-Purple-Team-Strategy-CTF-Labs-SecByte-Index
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sifatnotes/Hands-on-MITRE-ATT-CK-Matrix-Purple-Team-Strategy-CTF-Labs-SecByte-Index
+     📝 A comprehensive index of practical cybersecurity CTF labs covering full MITRE AT…
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 sifatnotes/secbyte-detection-engineering-validation-ctf-labs
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sifatnotes/secbyte-detection-engineering-validation-ctf-labs
+     📝 A comprehensive index of practical cybersecurity CTF labs focusing on Detection …
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 sifatnotes/Hands-on-Detection-Engineering-SIEM-EDR-Attack-Validation-CTF-Labs-SecByte-Index
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sifatnotes/Hands-on-Detection-Engineering-SIEM-EDR-Attack-Validation-CTF-Labs-SecByte-Index
+     📝 A comprehensive index of practical cybersecurity CTF labs focusing on Detection …
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 srmario123/hermes-cybersecurity-skills
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/srmario123/hermes-cybersecurity-skills
+     📝 Skills de ciberseguridad para Hermes Agent — colección completa ofensiva/defensi…
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 sifatnotes/Hands-on-Automated-Adversary-Emulation-Atomic-Red-Team-Security-Validation-CTF-Labs-SecByte-Index
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sifatnotes/Hands-on-Automated-Adversary-Emulation-Atomic-Red-Team-Security-Validation-CTF-Labs-SecByte-Index
+     📝 A practical collection of cybersecurity CTF labs covering automated adversary em…
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 shaheedazaad/zcurve-cluster-simulations
+     ⭐ 0  🗣 HTML  📅 2026-10-27
+     🔗 https://github.com/shaheedazaad/zcurve-cluster-simulations
+     📝 Simulation code for checking bootstrap CI coverage
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 anaapcv-ui/revisao-edros-geografia-7ano
+     ⭐ 0  🗣 HTML  📅 2026-10-27
+     🔗 https://github.com/anaapcv-ui/revisao-edros-geografia-7ano
+     📝 Rumo ao Cume - Revisao de Geografia 7o ano para o simulado trimestral
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 cldixon/edro
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/cldixon/edro
+     📝 Typescript CLI + TUI for PLTR Foundry
+     🏷  —
+[2026-10-27 21:54:15 UTC] [NEW]   🆕 📦 zyksiudev/HelpDeskToolkit
+     ⭐ 0  🗣 C#  📅 2026-10-27
+     🔗 https://github.com/zyksiudev/HelpDeskToolkit
+     📝 Enterprise HelpDesk & ServiceDesk Toolkit (.NET 10 WPF) for Active Directory, Be…
+     🏷  active-directory, automation, beyondtrust, csharp, dotnet10, helpdesk, laps, otobo, powershell, servicedesk, sqlite, wpf
+[2026-10-27 21:54:15 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-27 21:54:15 UTC] [UPD]   📢 📦 k1dory/argus
+     ⭐ 0  🗣 TypeScript  📅 2026-10-27
+     🔗 https://github.com/k1dory/argus
+     📝 ARGUS: единый журнал событий на ClickHouse, корреляция правилами из git, инциден…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 21:54:15 UTC] [UPD]   📢 📦 oyesanyf/killswitch
+     ⭐ 0  🗣 Rust  📅 2026-10-27
+     🔗 https://github.com/oyesanyf/killswitch
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 21:54:15 UTC] [UPD]   📢 📦 aipmy/msm8916-openwrt
+     ⭐ 0  🗣 JavaScript  📅 2026-10-26
+     🔗 https://github.com/aipmy/msm8916-openwrt
+     📝 OpenWrt Stable for Qualcomm MSM8916 (YiMing UZ801v3) with Proton2025 theme, Band…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-27 21:54:15 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-27 21:54:15 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-27 21:54:17 UTC] [INFO]   → 43 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-27 21:54:17 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-27 21:54:17 UTC] [NEW]   🆕 📦 kuzibelit/PS5-14.00-14.10-Jailbreak-PoC
+     ⭐ 6  🗣 C  📅 2026-10-27
+     🔗 https://github.com/kuzibelit/PS5-14.00-14.10-Jailbreak-PoC
+     📝 Proof of Concept related to Research and documentation about PS5 firmware 14.00 …
+     🏷  —
+[2026-10-27 21:54:17 UTC] [NEW]   🆕 📦 quirecms/server
+     ⭐ 0  🗣 PHP  📅 2026-10-27
+     🔗 https://github.com/quirecms/server
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 21:54:17 UTC] [NEW]   🆕 📦 sifatnotes/Hands-on-MITRE-ATT-CK-Matrix-Purple-Team-Strategy-CTF-Labs-SecByte-Index
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sifatnotes/Hands-on-MITRE-ATT-CK-Matrix-Purple-Team-Strategy-CTF-Labs-SecByte-Index
+     📝 A comprehensive index of practical cybersecurity CTF labs covering full MITRE AT…
+     🏷  —
+[2026-10-27 21:54:17 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-27 21:54:17 UTC] [UPD]   📢 📦 ocramz/sbx
+     ⭐ 0  🗣 Rust  📅 2026-10-27
+     🔗 https://github.com/ocramz/sbx
+     📝 Sandbox container for untrusted programs. Based on landlock and seccomp, designe…
+     🏷  container-image, sandbox
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 21:54:17 UTC] [UPD]   📢 📦 nedefined/jailbreak.jakezi.org
+     ⭐ 0  🗣 JavaScript  📅 2026-10-27
+     🔗 https://github.com/nedefined/jailbreak.jakezi.org
+     📝 all web-based jailbreaks in one place, at a single address
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 21:54:17 UTC] [UPD]   📢 📦 AlexanderNyr/Nava
+     ⭐ 1  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/AlexanderNyr/Nava
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 21:54:17 UTC] [UPD]   📢 📦 tobysh/baremetal
+     ⭐ 0  🗣 TypeScript  📅 2026-10-27
+     🔗 https://github.com/tobysh/baremetal
+     📝 tutor for low level languages
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 21:54:17 UTC] [UPD]   📢 📦 Leviticus-Triage/indirect-prompt-injection-email-assistants
+     ⭐ 1  🗣 Shell  📅 2026-10-26
+     🔗 https://github.com/Leviticus-Triage/indirect-prompt-injection-email-assistants
+     📝 Authorized lab: indirect prompt injection from HTML email into Gmail Gemini and …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-27 21:54:17 UTC] [INFO] ============================================================
+[2026-10-27 21:54:17 UTC] [INFO] Completato — 37 nuovi, 8 aggiornati, 0 errori
+[2026-10-27 21:54:17 UTC] [INFO] ============================================================
