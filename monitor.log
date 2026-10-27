@@ -122862,3 +122862,178 @@
 [2026-10-26 22:23:03 UTC] [INFO] ============================================================
 [2026-10-26 22:23:03 UTC] [INFO] Completato — 58 nuovi, 5 aggiornati, 0 errori
 [2026-10-26 22:23:03 UTC] [INFO] ============================================================
+[2026-10-27 04:06:01 UTC] [INFO] ============================================================
+[2026-10-27 04:06:01 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-27 04:06:01 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-27 04:06:01 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-27 04:06:01 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-27 04:06:01 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-27 04:06:01 UTC] [INFO] ============================================================
+[2026-10-27 04:06:01 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-27 04:06:01 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-27 04:06:03 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-27 04:06:03 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-27 04:06:03 UTC] [NEW]   🆕 📦 Haohao-gt/tsmem-research
+     ⭐ 0  🗣 C  📅 2026-10-27
+     🔗 https://github.com/Haohao-gt/tsmem-research
+     📝 Kernel-level memory research for a protected Unity/IL2CPP game
+     🏷  —
+[2026-10-27 04:06:03 UTC] [NEW]   🆕 📦 xyz22x/porquao-spoof
+     ⭐ 0  🗣 C++  📅 2026-10-27
+     🔗 https://github.com/xyz22x/porquao-spoof
+     📝 Hardware identity spoofer for Windows — Valorant (Vanguard) / Roblox (Hyperion) …
+     🏷  —
+[2026-10-27 04:06:03 UTC] [NEW]   🆕 📦 Danifelipaez/device-security-audit
+     ⭐ 1  🗣 PowerShell  📅 2026-10-27
+     🔗 https://github.com/Danifelipaez/device-security-audit
+     📝 Agent skill that audits and hardens a Windows PC: attack surface, exploited-in-t…
+     🏷  agent-skills, claude-code, claude-skills, hardening, security, windows, winget
+[2026-10-27 04:06:03 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-27 04:06:03 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 225  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  claude-code, codex, gemini, kimi-k3, reverse-engineering
+     🔄 Motivo: nuovi topic: kimi-k3, codex, gemini
+[2026-10-27 04:06:03 UTC] [UPD]   📢 📦 hiyfoeorihly/spiderman2-trainer
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/hiyfoeorihly/spiderman2-trainer
+     📝 Spider-Man 2 trainer: infinite health, unlimited focus, god mode, one-hit KO tog…
+     🏷  god-mode, insomniac-spiderman2, memory-editor, modding-tool, script-hook, singleplayer-trainer, skill-points-editor, spider-man-2, spiderman-2-trainer, spiderman2-mod-menu, spiderman2-pc, symbiote-suit-unlock, trainer-menu, unlimited-suit-tokens, web-swinging-mods, xp-multiplier
+     🔄 Motivo: repo recente (3gg)
+[2026-10-27 04:06:03 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-27 04:06:03 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-27 04:06:06 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 LZM2023/dsh-sofa-monitor
+     ⭐ 0  🗣 JavaScript  📅 2026-10-27
+     🔗 https://github.com/LZM2023/dsh-sofa-monitor
+     📝 dsh-京东沙发爬取 —— DSH 插件：京东沙发商品采集、详情图 AI 核对与产品规格卡（PNG + 可编辑 PPTX）自动归档
+     🏷  dsh, dsh-plugin, ecommerce, nodejs, pptx, sofa, spec-card
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 nirivas/efficiencyscripts
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/nirivas/efficiencyscripts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 unknownBase/BlueMeter
+     ⭐ 0  🗣 C#  📅 2026-10-27
+     🔗 https://github.com/unknownBase/BlueMeter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 Jsorey4/EstateDocReview
+     ⭐ 0  🗣 TypeScript  📅 2026-10-26
+     🔗 https://github.com/Jsorey4/EstateDocReview
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 jeffles89/penetration-testing-lab
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/jeffles89/penetration-testing-lab
+     📝 Hands-on penetration testing lab: reconnaissance, denial-of-service testing, Wor…
+     🏷  cyber-security, cybersecurity, cybersecurity-tools, kali, kali-linux, nmap, nmap-scan, penetration-testing, pentesting, python, wpscan
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 lanz/php2shell-coverage-check
+     ⭐ 0  🗣 Python  📅 2026-10-26
+     🔗 https://github.com/lanz/php2shell-coverage-check
+     📝 Checks that Tenable scanning is set up to detect PHP2Shell (CVE-2026-109618, CVE…
+     🏷  agent-skills, claude-code, cve-2026-109618, cve-2026-109619, indicent-response, nessus, php, php2shell, pytenable, scan-coverage, security-center, tenable, vulnerability-management, vulnerability-scanning
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 ajjanhub/Script-silent-aim
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/ajjanhub/Script-silent-aim
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 TatsuyaM2667/ame-shell
+     ⭐ 1  🗣 Zig  📅 2026-10-26
+     🔗 https://github.com/TatsuyaM2667/ame-shell
+     📝 River 向けのアニメーション重視デスクトップシェル(Zig / Odin / C / WebAssembly)。caelestia 風の枠とドロワー、Riv…
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 Arguztar/https-github.com-edreirbs-plantilla-ocso-s7
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/Arguztar/https-github.com-edreirbs-plantilla-ocso-s7
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 herbertricardotec/projeto-malware-educacional
+     ⭐ 0  🗣 HTML  📅 2026-10-27
+     🔗 https://github.com/herbertricardotec/projeto-malware-educacional
+     📝 Este projeto foi criado *exclusivamente para fins educacionais* como parte de um…
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 treeleaf1901/Wscanom
+     ⭐ 0  🗣 PHP  📅 2026-10-27
+     🔗 https://github.com/treeleaf1901/Wscanom
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 Danifelipaez/device-security-audit
+     ⭐ 1  🗣 PowerShell  📅 2026-10-27
+     🔗 https://github.com/Danifelipaez/device-security-audit
+     📝 Agent skill that audits and hardens a Windows PC: attack surface, exploited-in-t…
+     🏷  agent-skills, claude-code, claude-skills, hardening, security, windows, winget
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 ssp2x/windows-memory-forensics-process-manipulation
+     ⭐ 0  🗣 C  📅 2026-10-27
+     🔗 https://github.com/ssp2x/windows-memory-forensics-process-manipulation
+     📝 Windows 11 in-memory process manipulation, thread context behavior, and forensic…
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 avfernandotdg/avfernandotdg
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/avfernandotdg/avfernandotdg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 MinexJunior/finguard
+     ⭐ 0  🗣 C++  📅 2026-10-27
+     🔗 https://github.com/MinexJunior/finguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 nthapt/NTH---SPY
+     ⭐ 0  🗣 N/A  📅 2026-10-26
+     🔗 https://github.com/nthapt/NTH---SPY
+     📝 A melhor forma de se proteger contra esse tipo de ameaça é baixar softwares excl…
+     🏷  —
+[2026-10-27 04:06:06 UTC] [NEW]   🆕 📦 leappeal1/analisadordelogs
+     ⭐ 0  🗣 Python  📅 2026-10-26
+     🔗 https://github.com/leappeal1/analisadordelogs
+     📝 Analisador de logs simples
+     🏷  —
+[2026-10-27 04:06:06 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-27 04:06:06 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-27 04:06:06 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-27 04:06:09 UTC] [INFO]   → 25 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-27 04:06:09 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-27 04:06:09 UTC] [NEW]   🆕 📦 c12n/ios1871-jailbreak-poc
+     ⭐ 0  🗣 Swift  📅 2026-10-26
+     🔗 https://github.com/c12n/ios1871-jailbreak-poc
+     📝 iOS 18.7.1 jailbreak research & scaffold for iPhone 14 (A15) — compatibility fin…
+     🏷  —
+[2026-10-27 04:06:09 UTC] [NEW]   🆕 📦 andleexploit/LUA-12.52-PS4
+     ⭐ 0  🗣 HTML  📅 2026-10-27
+     🔗 https://github.com/andleexploit/LUA-12.52-PS4
+     📝 LUA
+     🏷  —
+[2026-10-27 04:06:09 UTC] [NEW]   🆕 📦 tyyuhvuygf-jpg/LumenBoard
+     ⭐ 0  🗣 Objective-C  📅 2026-10-26
+     🔗 https://github.com/tyyuhvuygf-jpg/LumenBoard
+     📝 RootHide-aware PosterBoard wallpaper importer for iOS 16.7.16 (iPhone X/A11)
+     🏷  —
+[2026-10-27 04:06:09 UTC] [NEW]   🆕 📦 XiaoLing6028/TracePot
+     ⭐ 0  🗣 C++  📅 2026-10-26
+     🔗 https://github.com/XiaoLing6028/TracePot
+     📝 Linux installer behavior analysis sandbox. Inspect filesystem changes, process a…
+     🏷  —
+[2026-10-27 04:06:09 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-27 04:06:09 UTC] [UPD]   📢 📦 cfloinc/samsung-q70t-tizen-root
+     ⭐ 12  🗣 Shell  📅 2026-10-24
+     🔗 https://github.com/cfloinc/samsung-q70t-tizen-root
+     📝 Getting persistent debloat on my Samsung Q70T TV
+     🏷  armv7, debloat, jailbreak, q70t, root, samsung, tizen, tizen6, uep
+     🔄 Motivo: repo recente (2gg)
+[2026-10-27 04:06:09 UTC] [UPD]   📢 📦 Mikadolebg/ps4-1400-research
+     ⭐ 0  🗣 HTML  📅 2026-10-26
+     🔗 https://github.com/Mikadolebg/ps4-1400-research
+     📝 PS4 14.00 security research: proven userland exploit chain (SSV entry, arbitrary…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 04:06:09 UTC] [UPD]   📢 📦 lahmidiamoumen/Codex-Sec
+     ⭐ 0  🗣 Python  📅 2026-10-26
+     🔗 https://github.com/lahmidiamoumen/Codex-Sec
+     📝 Codex-ready security assessment skills and supporting source material
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 04:06:09 UTC] [INFO] ============================================================
+[2026-10-27 04:06:09 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
+[2026-10-27 04:06:09 UTC] [INFO] ============================================================
