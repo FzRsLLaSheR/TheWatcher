@@ -123037,3 +123037,270 @@
 [2026-10-27 04:06:09 UTC] [INFO] ============================================================
 [2026-10-27 04:06:09 UTC] [INFO] Completato — 24 nuovi, 5 aggiornati, 0 errori
 [2026-10-27 04:06:09 UTC] [INFO] ============================================================
+[2026-10-27 11:44:46 UTC] [INFO] ============================================================
+[2026-10-27 11:44:46 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-27 11:44:46 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-27 11:44:46 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-27 11:44:46 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-27 11:44:46 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-27 11:44:46 UTC] [INFO] ============================================================
+[2026-10-27 11:44:46 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-27 11:44:46 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-27 11:44:48 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-27 11:44:48 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-27 11:44:48 UTC] [NEW]   🆕 📦 sarthak-init/sarthak-x-kernel
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sarthak-init/sarthak-x-kernel
+     📝 Kernel-assisted process tooling for Windows x64. Single-file deploy: driver, inj…
+     🏷  —
+[2026-10-27 11:44:48 UTC] [NEW]   🆕 📦 gmh5225/BYOVD-AI-Guide
+     ⭐ 2  🗣 N/A  📅 2026-10-26
+     🔗 https://github.com/gmh5225/BYOVD-AI-Guide
+     📝 A beginner's guide to finding vulnerable Windows drivers: collection playbook, s…
+     🏷  —
+[2026-10-27 11:44:48 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-27 11:44:48 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 230  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  claude-code, codex, gemini, hermes-agent, kimi, opencode, reverse-engineering
+     🔄 Motivo: nuovi topic: opencode, hermes-agent, kimi
+[2026-10-27 11:44:48 UTC] [UPD]   📢 📦 ofri09bs/EDR-evading-using-BYOVD
+     ⭐ 0  🗣 C  📅 2026-10-26
+     🔗 https://github.com/ofri09bs/EDR-evading-using-BYOVD
+     📝 Demonstrates kernel callback redirecting, ETW-TI nulling and Indirect syscalls u…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 11:44:48 UTC] [UPD]   📢 📦 LongpanZhou/BYOVD-AI-Guide
+     ⭐ 0  🗣 PowerShell  📅 2026-10-25
+     🔗 https://github.com/LongpanZhou/BYOVD-AI-Guide
+     📝 A beginner's guide to finding vulnerable Windows drivers: collection playbook, s…
+     🏷  anti-cheat, byovd, reverse-engineering, vulnerable-drivers
+     🔄 Motivo: repo recente (1gg)
+[2026-10-27 11:44:48 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-27 11:44:48 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-27 11:44:51 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 33 NUOVI repository:
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 boniyeamincse/soc-analyst-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/boniyeamincse/soc-analyst-roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 kalraji121/coerce-probe
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/kalraji121/coerce-probe
+     📝 Coerce-Probe is a coercion utility that can be used to Coerce DC's into authenti…
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 theseamusjames/lop-engine
+     ⭐ 0  🗣 Rust  📅 2026-10-27
+     🔗 https://github.com/theseamusjames/lop-engine
+     📝 Image processing engine in Rust.
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 pranalibhamare-25/soc-lab-001-wireshark-network-investigation
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/pranalibhamare-25/soc-lab-001-wireshark-network-investigation
+     📝 Hands-on SOC investigation using Wireshark to analyze DNS, TCP handshakes, TLS t…
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 S12cybersecurity/CredGuardRuntimeShutdown
+     ⭐ 3  🗣 C  📅 2026-10-27
+     🔗 https://github.com/S12cybersecurity/CredGuardRuntimeShutdown
+     📝 Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + L…
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 octocat777-cmd/AI-Powered-Malware-Detection
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/octocat777-cmd/AI-Powered-Malware-Detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 retiacole/threathunting-room
+     ⭐ 1  🗣 HTML  📅 2026-10-27
+     🔗 https://github.com/retiacole/threathunting-room
+     📝 ブラウザだけで学ぶ脅威ハンティング。合成ログで仮説・証拠・次の行動を練習。日本語・English対応。 / Browser-only threat-huntin…
+     🏷  browser-based, cybersecurity, education, offline, simulation, threat-hunting
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 ashmcracker/zuru-helpdesk
+     ⭐ 0  🗣 Go  📅 2026-10-27
+     🔗 https://github.com/ashmcracker/zuru-helpdesk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 ajiec123/Automated-SOC-Alert-Enrichment-Triage
+     ⭐ 0  🗣 TypeScript  📅 2026-10-27
+     🔗 https://github.com/ajiec123/Automated-SOC-Alert-Enrichment-Triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 Mashu243/Malware-Analysis-RedLine-Stealer-FLARE-VM
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/Mashu243/Malware-Analysis-RedLine-Stealer-FLARE-VM
+     📝 Malware Analysis Lab: Static triage and dynamic behavioral profiling of RedLine …
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 NOOB-CODER127/Portfolio
+     ⭐ 0  🗣 TypeScript  📅 2026-10-27
+     🔗 https://github.com/NOOB-CODER127/Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 ohhhhhhhhha/edr-replication
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/ohhhhhhhhha/edr-replication
+     📝 EDR replication and validation: code, numerical checks, and checkpoint 2 evidenc…
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 ferrotic/bluetooth_basic
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/ferrotic/bluetooth_basic
+     📝 hopefully a good technical overview of the bluetooth stack
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 Gried41/ESP32_S31-SPP-demo
+     ⭐ 0  🗣 C  📅 2026-10-27
+     🔗 https://github.com/Gried41/ESP32_S31-SPP-demo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 mehraniqbalgp/cybersecurity-companies-pakistan
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/mehraniqbalgp/cybersecurity-companies-pakistan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 fhy310/EDR_prediction
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/fhy310/EDR_prediction
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 gokhunyayla/muse-servicedesk
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/gokhunyayla/muse-servicedesk
+     📝 Autonomous multi-tier IT service desk on Meta Model API — Meta Global AI Develop…
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 ZackFair5185034/aTrustRememberPatch
+     ⭐ 0  🗣 JavaScript  📅 2026-10-27
+     🔗 https://github.com/ZackFair5185034/aTrustRememberPatch
+     📝 aTrust 客户端「记住密码 / 掉线自动登录」补丁 —— 客户端本地凭据存储（DPAPI 加密），不绕过服务端策略
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 Landull/LandullTriage
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/Landull/LandullTriage
+     📝 Live-response evidence collection and memory analysis for Windows, macOS and Lin…
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 sifatnotes/Cybersecurity-CTF-Labs-Collection-Cyber-Threat-Intelligence-CTI-Attribution
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sifatnotes/Cybersecurity-CTF-Labs-Collection-Cyber-Threat-Intelligence-CTI-Attribution
+     📝 A curated, searchable index of hands-on CTI CTF labs covering the intelligence l…
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 Revanhol/Revanhol
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/Revanhol/Revanhol
+     📝 about me
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 Shiv2048/threat-scanner
+     ⭐ 1  🗣 HTML  📅 2026-10-27
+     🔗 https://github.com/Shiv2048/threat-scanner
+     📝 Client-Side URL, File & Hash Security Inspector using Web Crypto API (SHA-256) a…
+     🏷  cybersecurity, javascript, phishing-detection, security-scanner, sha256, tailwindcss, threat-intelligence, web-crypto-api
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Autonomous-Threat-Management
+     ⭐ 0  🗣 N/A  📅 2026-10-26
+     🔗 https://github.com/ishandutta2007/Awesome-Autonomous-Threat-Management
+     📝 Top Autonomous Threat Management (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, security-automation, threat-detection, threat-management, xdr
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 runturkey7/edrb
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/runturkey7/edrb
+     📝 content
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 Saiydur/devguard-mcp
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/Saiydur/devguard-mcp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 vlolhaha/ransomware-sim-safe
+     ⭐ 0  🗣 C  📅 2026-10-27
+     🔗 https://github.com/vlolhaha/ransomware-sim-safe
+     📝 Safe ransomware simulator for security awareness training
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 edrisreilly10/edrisreilly-notes
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/edrisreilly10/edrisreilly-notes
+     📝 Edrisreilly 的练习项目
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 ohankay/service-test-mcp-simple
+     ⭐ 0  🗣 Python  📅 2026-10-26
+     🔗 https://github.com/ohankay/service-test-mcp-simple
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 ngothang0949/Implementation-SOC-System-based-on-SIEM-ELK-using-Wazuh-and-ELK-Stack
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/ngothang0949/Implementation-SOC-System-based-on-SIEM-ELK-using-Wazuh-and-ELK-Stack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 oyesanyf/killswitch
+     ⭐ 0  🗣 Rust  📅 2026-10-27
+     🔗 https://github.com/oyesanyf/killswitch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 adampareek/malware-analysis-lab
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/adampareek/malware-analysis-lab
+     📝 Defensive malware-analysis toolkit featuring IOC extraction, behavioral detectio…
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 nimra1923/nimra1923
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/nimra1923/nimra1923
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:51 UTC] [NEW]   🆕 📦 celcia-labs/xdr-security-operations
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-27
+     🔗 https://github.com/celcia-labs/xdr-security-operations
+     📝 Microsoft XDR security operations — KQL detection queries, Python automation, MI…
+     🏷  —
+[2026-10-27 11:44:51 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-27 11:44:51 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-27 11:44:51 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-27 11:44:54 UTC] [INFO]   → 30 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-27 11:44:54 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-10-27 11:44:54 UTC] [NEW]   🆕 📦 harshitak13/TrustLens
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/harshitak13/TrustLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:54 UTC] [NEW]   🆕 📦 sifatnotes/Hands-on-Docker-Security-DevSecOps-Pipeline-CTF-Labs-SecByte-Index
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/sifatnotes/Hands-on-Docker-Security-DevSecOps-Pipeline-CTF-Labs-SecByte-Index
+     📝 A practical collection of cybersecurity CTF labs focusing on Docker host auditin…
+     🏷  —
+[2026-10-27 11:44:54 UTC] [NEW]   🆕 📦 thinx-pro/awesome-tv-debloat
+     ⭐ 0  🗣 N/A  📅 2026-10-27
+     🔗 https://github.com/thinx-pro/awesome-tv-debloat
+     📝 📺 Open-source ways to remove ads, telemetry and bloat from smart TVs (Android/Go…
+     🏷  adb, android-tv, awesome-list, cleanyourtv, debloat, google-tv, privacy, smart-tv, tizen, webos
+[2026-10-27 11:44:54 UTC] [NEW]   🆕 📦 antarashi555/wii-ir-standby-research
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/antarashi555/wii-ir-standby-research
+     📝 Documented Wii IR smart-remote research: stock IOS STM negative results, yellow-…
+     🏷  —
+[2026-10-27 11:44:54 UTC] [NEW]   🆕 📦 aiengbhanu-tech/autonomous_software_agent
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/aiengbhanu-tech/autonomous_software_agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-27 11:44:54 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-27 11:44:54 UTC] [UPD]   📢 📦 tyyuhvuygf-jpg/LumenBoard
+     ⭐ 0  🗣 Objective-C  📅 2026-10-26
+     🔗 https://github.com/tyyuhvuygf-jpg/LumenBoard
+     📝 RootHide-aware PosterBoard wallpaper importer for iOS 16.7.16 (iPhone X/A11)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 11:44:54 UTC] [UPD]   📢 📦 RemiPelloux/HackoogleMini
+     ⭐ 0  🗣 Python  📅 2026-10-26
+     🔗 https://github.com/RemiPelloux/HackoogleMini
+     📝 Reverse-engineering the Google Home Mini to replace Google Assistant with a loca…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 11:44:54 UTC] [UPD]   📢 📦 cfloinc/samsung-q70t-tizen-root
+     ⭐ 14  🗣 Shell  📅 2026-10-24
+     🔗 https://github.com/cfloinc/samsung-q70t-tizen-root
+     📝 Getting persistent debloat on my Samsung Q70T TV
+     🏷  armv7, debloat, jailbreak, q70t, root, samsung, tizen, tizen6, uep
+     🔄 Motivo: repo recente (2gg)
+[2026-10-27 11:44:54 UTC] [UPD]   📢 📦 Hacker5055/app-4
+     ⭐ 0  🗣 Kotlin  📅 2026-10-26
+     🔗 https://github.com/Hacker5055/app-4
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-27 11:44:54 UTC] [INFO] ============================================================
+[2026-10-27 11:44:54 UTC] [INFO] Completato — 40 nuovi, 7 aggiornati, 0 errori
+[2026-10-27 11:44:54 UTC] [INFO] ============================================================
