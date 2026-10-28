@@ -124041,3 +124041,306 @@
 [2026-10-28 04:33:29 UTC] [INFO] ============================================================
 [2026-10-28 04:33:29 UTC] [INFO] Completato — 21 nuovi, 5 aggiornati, 0 errori
 [2026-10-28 04:33:29 UTC] [INFO] ============================================================
+[2026-10-28 12:17:44 UTC] [INFO] ============================================================
+[2026-10-28 12:17:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-28 12:17:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-28 12:17:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-28 12:17:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-28 12:17:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-28 12:17:44 UTC] [INFO] ============================================================
+[2026-10-28 12:17:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-28 12:17:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-28 12:17:47 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-28 12:17:47 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-28 12:17:47 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-28 12:17:47 UTC] [UPD]   📢 📦 afu-it/wa-zip-cleaner
+     ⭐ 6  🗣 PowerShell  📅 2026-10-22
+     🔗 https://github.com/afu-it/wa-zip-cleaner
+     📝 Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni…
+     🏷  cybersecurity, incident-response, malaysia, malware, malware-analysis, powershell, silverfox, valleyrat, whatsapp, windows, winos, yara
+     🔄 Motivo: repo recente (5gg)
+[2026-10-28 12:17:47 UTC] [UPD]   📢 📦 bedrickov/bedrickov
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/bedrickov/bedrickov
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-28 12:17:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-28 12:17:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-28 12:17:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 37 NUOVI repository:
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 manoj15-sketch/sentinelrange
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/manoj15-sketch/sentinelrange
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 Blednica/MediaArena-Decompiled
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/Blednica/MediaArena-Decompiled
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 kunyu7696/KunYuStudio
+     ⭐ 0  🗣 TypeScript  📅 2026-10-28
+     🔗 https://github.com/kunyu7696/KunYuStudio
+     📝 KunYu Studio - Minecraft 模组与整合包可视化开发工具
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 Amwaj-04/HuntWeave
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/Amwaj-04/HuntWeave
+     📝 A hypothesis-driven threat hunting lab built around synthetic security events, e…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 pulkitmundra/pulkitmundra
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/pulkitmundra/pulkitmundra
+     📝 Pulkit Mundra - Senior Software Engineer (Python, Agentic AI, Fintech & Linux To…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 pulkitmundra/galaxy-buds-ubuntu
+     ⭐ 0  🗣 JavaScript  📅 2026-10-28
+     🔗 https://github.com/pulkitmundra/galaxy-buds-ubuntu
+     📝 Seamless Ubuntu / Android Bluetooth switcher and GNOME Quick Settings toggle for…
+     🏷  android, bluetooth, bluez, galaxy-buds, galaxy-buds3-pro, gnome-shell-extension, linux, macrodroid, pipewire, ubuntu
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 sesser/Gus
+     ⭐ 0  🗣 Swift  📅 2026-10-28
+     🔗 https://github.com/sesser/Gus
+     📝 A vibe coded, non-destructive, raw image processor and DAM
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 masumcsepust/hrms
+     ⭐ 0  🗣 TypeScript  📅 2026-10-28
+     🔗 https://github.com/masumcsepust/hrms
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 vaishu093/sample
+     ⭐ 0  🗣 JavaScript  📅 2026-10-28
+     🔗 https://github.com/vaishu093/sample
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 albdimanuel-elastic/sibs-workflow-diagnostics
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/albdimanuel-elastic/sibs-workflow-diagnostics
+     📝 Elastic Defend CPU triage workflows, agent, and dashboards
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 avidosa/avidosa
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/avidosa/avidosa
+     📝 README de perfil: laboratorios y herramientas de blue team, detección y análisis…
+     🏷  blue-team, cybersecurity, profile, readme, soc
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 cheaterida/EDR_Linux-V2
+     ⭐ 0  🗣 Go  📅 2026-10-28
+     🔗 https://github.com/cheaterida/EDR_Linux-V2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 HexaPhantom369/SentinelX-AI
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/HexaPhantom369/SentinelX-AI
+     📝 Automated Host-Level SIEM & SOAR Defense System with Real-Time Windows Monitorin…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 radanor/radanor-sparrow
+     ⭐ 0  🗣 Go  📅 2026-10-28
+     🔗 https://github.com/radanor/radanor-sparrow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 wildsec/Knowledge
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/wildsec/Knowledge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 sri912vatsan/cybersecurity_threat_intelligence_platform
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/sri912vatsan/cybersecurity_threat_intelligence_platform
+     📝 Multi-agent cybersecurity threat intelligence platform built with CrewAI and Goo…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 edrys-labs/edrys-devserver
+     ⭐ 0  🗣 TypeScript  📅 2026-10-28
+     🔗 https://github.com/edrys-labs/edrys-devserver
+     📝 Build and try out an edrys-Lite lab on your own computer before you share it wit…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 sanad-ctos/wazuh-soc
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/sanad-ctos/wazuh-soc
+     📝 Built a full open-source SOC with Wazuh (SIEM + XDR) — deployed the server, enro…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 trungvt1108/ai-threat-detectionv1
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/trungvt1108/ai-threat-detectionv1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 NeSa555/SOC_L1_Flashcards
+     ⭐ 0  🗣 HTML  📅 2026-10-28
+     🔗 https://github.com/NeSa555/SOC_L1_Flashcards
+     📝 Interactive SOC Analyst flashcards for learning essential cybersecurity concepts…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 mortalezz/glance
+     ⭐ 2  🗣 Swift  📅 2026-10-28
+     🔗 https://github.com/mortalezz/glance
+     📝 📸 Ultra-fast native macOS photo viewer & pro culling tool ⚡ Zero-latency folder …
+     🏷  appkit, image-viewer, macos, phoenix-slides, photo-culling, photography, raw-photos, swift, xmp-sidecars
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 lekhachuy1/CTF-WriteUp
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/lekhachuy1/CTF-WriteUp
+     📝 CTF forensics write-ups: DWM memory dump screen recovery, NTDS.dit krbtgt key ex…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 13-Low-Entropy/dsh-startup-machine
+     ⭐ 0  🗣 JavaScript  📅 2026-10-28
+     🔗 https://github.com/13-Low-Entropy/dsh-startup-machine
+     📝 给 DeepSeek Harness 桌面端做的「疑犯追踪 / THE MACHINE」风格开机动画 五幕序列 · 摄像头人脸锁定 · 478 点人脸网格 · …
+     🏷  deepseek, deepseek-harness, dsh-plugin, electron, facelandmarker, mediapipe, person-of-interest, startup-animation
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 sol-long/lea-audio-toolkit
+     ⭐ 0  🗣 Java  📅 2026-10-28
+     🔗 https://github.com/sol-long/lea-audio-toolkit
+     📝 让第三方 LE Audio 耳机在 ColorOS 上同时获得 LC3 音频与系统卡片/电量
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 LUOaini1213/adas-localization-feasibility
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/LUOaini1213/adas-localization-feasibility
+     📝 Taking an ADAS / L2 feature set to the EU, UK, Australia, Malaysia, Thailand and…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 armintahsiri/edrok-case-study
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/armintahsiri/edrok-case-study
+     📝 Case study: full-stack e-learning platform with live classes and AI tools (Djang…
+     🏷  ai, case-study, django, e-learning, full-stack, llm, python, react
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 Sanj045/soc-home-lab-wazuh
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/Sanj045/soc-home-lab-wazuh
+     📝 A personal SOC lab simulating attacks and detections using Wazuh SIEM, Sysmon, a…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 Afsar04174/Security2
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/Afsar04174/Security2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 ziyaahmed982/Ziya---Cybersecurity-SOC-Analyst-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/ziyaahmed982/Ziya---Cybersecurity-SOC-Analyst-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 cismyun954/boxpack.edrekova21
+     ⭐ 0  🗣 TypeScript  📅 2026-10-28
+     🔗 https://github.com/cismyun954/boxpack.edrekova21
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 OfferPk/cdmarelayforge-pro
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/OfferPk/cdmarelayforge-pro
+     📝 CDMARelayForge Pro
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 OfferPk/atmoopticforge-pro
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/OfferPk/atmoopticforge-pro
+     📝 AtmoOpticForge Pro
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 EduPuzon/Abducted
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/EduPuzon/Abducted
+     📝 Abducted is a medium-difficulty Linux machine built around the on-premise file a…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 clanker25/Anthropic-Cybersecurity-Skills
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/clanker25/Anthropic-Cybersecurity-Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 chen-bliss/IINA-Mobile
+     ⭐ 0  🗣 Swift  📅 2026-10-28
+     🔗 https://github.com/chen-bliss/IINA-Mobile
+     📝 Independent free iPhone media player with HDR, color controls, Chinese subtitles…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 azick7553/rdp-checker
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/azick7553/rdp-checker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:50 UTC] [NEW]   🆕 📦 ayush001844/RiskLens
+     ⭐ 0  🗣 TypeScript  📅 2026-10-28
+     🔗 https://github.com/ayush001844/RiskLens
+     📝 RiskLens — Enterprise Cybersecurity Risk & Controls Assessment Platform (NIST CS…
+     🏷  —
+[2026-10-28 12:17:50 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-28 12:17:50 UTC] [UPD]   📢 📦 gokhunyayla/muse-servicedesk
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/gokhunyayla/muse-servicedesk
+     📝 Autonomous multi-tier IT service desk on Meta Model API — Meta Global AI Develop…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-28 12:17:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-28 12:17:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-28 12:17:53 UTC] [INFO]   → 29 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 📦 oldshafy-dot/MISBHA-EXTERNAL-TEST
+     ⭐ 0  🗣 Swift  📅 2026-10-28
+     🔗 https://github.com/oldshafy-dot/MISBHA-EXTERNAL-TEST
+     📝 .
+     🏷  —
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 📦 oldshafy-dot/MISBHA-EXTERNAL-COPY
+     ⭐ 0  🗣 Swift  📅 2026-10-28
+     🔗 https://github.com/oldshafy-dot/MISBHA-EXTERNAL-COPY
+     📝 .
+     🏷  —
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 📦 toanlcgift/IPv6-Socket-UAF-Pattern-Detector-Skill
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/toanlcgift/IPv6-Socket-UAF-Pattern-Detector-Skill
+     📝 AI skill to build IPv6 Socket UAF exploits
+     🏷  —
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 📦 pearlxcore/x90h-root
+     ⭐ 0  🗣 C  📅 2026-10-28
+     🔗 https://github.com/pearlxcore/x90h-root
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 📦 oldshafy-dot/misbah-panels-ipa
+     ⭐ 0  🗣 Swift  📅 2026-10-28
+     🔗 https://github.com/oldshafy-dot/misbah-panels-ipa
+     📝 .
+     🏷  —
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 📦 maceip/swizzle
+     ⭐ 0  🗣 Rust  📅 2026-10-28
+     🔗 https://github.com/maceip/swizzle
+     📝 durable, fail-open kernel diversification library for per-boot layout randomizat…
+     🏷  —
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 📦 Kushisusumita/android-optimizer
+     ⭐ 0  🗣 Rust  📅 2026-10-28
+     🔗 https://github.com/Kushisusumita/android-optimizer
+     📝 One command to clean up any Android phone over ADB: remove preinstalled ads and …
+     🏷  adb, adblock, android, android-debloater, bloatware, cli, debloat, malware-detection, no-root, optimization, privacy, rust, samsung, xiaomi
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 📦 thevoid9x/uaf
+     ⭐ 0  🗣 JavaScript  📅 2026-10-28
+     🔗 https://github.com/thevoid9x/uaf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-28 12:17:53 UTC] [NEW]   🆕 📦 thevoid9x/test21
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/thevoid9x/test21
+     📝 Exploit Test for PS5 7.00 - 13.60
+     🏷  —
+[2026-10-28 12:17:53 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-10-28 12:17:53 UTC] [UPD]   📢 📦 asylumexp/ghostldr
+     ⭐ 36  🗣 C  📅 2026-10-21
+     🔗 https://github.com/asylumexp/ghostldr
+     📝 Run a PS4 game backup inside SWRR on PS5 through Luac0re, without a kernel explo…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-10-28 12:17:53 UTC] [UPD]   📢 📦 nedefined/jailbreak.jakezi.org
+     ⭐ 0  🗣 JavaScript  📅 2026-10-27
+     🔗 https://github.com/nedefined/jailbreak.jakezi.org
+     📝 all web-based jailbreaks in one place, at a single address
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-28 12:17:53 UTC] [UPD]   📢 📦 quirecms/server
+     ⭐ 0  🗣 PHP  📅 2026-10-27
+     🔗 https://github.com/quirecms/server
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-28 12:17:53 UTC] [UPD]   📢 📦 ocramz/sbx
+     ⭐ 2  🗣 Rust  📅 2026-10-27
+     🔗 https://github.com/ocramz/sbx
+     📝 Sandbox container for untrusted programs. Based on landlock and seccomp, designe…
+     🏷  container-image, sandbox
+     🔄 Motivo: repo recente (1gg)
+[2026-10-28 12:17:53 UTC] [UPD]   📢 📦 tobysh/baremetal
+     ⭐ 0  🗣 TypeScript  📅 2026-10-27
+     🔗 https://github.com/tobysh/baremetal
+     📝 tutor for low level languages
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-28 12:17:53 UTC] [INFO] ============================================================
+[2026-10-28 12:17:53 UTC] [INFO] Completato — 46 nuovi, 8 aggiornati, 0 errori
+[2026-10-28 12:17:53 UTC] [INFO] ============================================================
