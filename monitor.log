@@ -125132,3 +125132,343 @@
 [2026-10-29 12:27:30 UTC] [INFO] ============================================================
 [2026-10-29 12:27:30 UTC] [INFO] Completato — 48 nuovi, 4 aggiornati, 0 errori
 [2026-10-29 12:27:30 UTC] [INFO] ============================================================
+[2026-10-29 22:31:09 UTC] [INFO] ============================================================
+[2026-10-29 22:31:09 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-29 22:31:09 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-29 22:31:09 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-29 22:31:09 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-29 22:31:09 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-29 22:31:09 UTC] [INFO] ============================================================
+[2026-10-29 22:31:09 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-29 22:31:09 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-29 22:31:11 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-29 22:31:11 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-29 22:31:11 UTC] [NEW]   🆕 📦 angelmisael-sec/security-homelab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-29
+     🔗 https://github.com/angelmisael-sec/security-homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:11 UTC] [NEW]   🆕 📦 DaZuiZZZZ/P106-Unlock-Gen2
+     ⭐ 2  🗣 C#  📅 2026-10-29
+     🔗 https://github.com/DaZuiZZZZ/P106-Unlock-Gen2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:11 UTC] [NEW]   🆕 📦 skbskhud/p104-unlock-v3
+     ⭐ 0  🗣 Batchfile  📅 2026-10-28
+     🔗 https://github.com/skbskhud/p104-unlock-v3
+     📝 P104-100 (GP104) Windows tool: PCIe Gen2 x4 unlock (0.78 -> 1.55 GB/s measured) …
+     🏷  gen2, gp104, gpu, mining-card, nvidia, p104-100, p106-100, pcie, unlock, windows
+[2026-10-29 22:31:11 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-29 22:31:11 UTC] [UPD]   📢 📦 maiconzeraxd/hyperv-console-mcp
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/maiconzeraxd/hyperv-console-mcp
+     📝 Local MCP server for Hyper-V management, guest automation, console input, and Wi…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-29 22:31:11 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-29 22:31:11 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-29 22:31:15 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 46 NUOVI repository:
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 ikkipnx/Automated-Incident-Response
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/ikkipnx/Automated-Incident-Response
+     📝 Python-based security alert triage and incident response automation lab
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 dante223-dot/dio-medusa-lab
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/dante223-dot/dio-medusa-lab
+     📝 Laboratório educacional de auditoria de senhas com Kali Linux e Medusa: FTP, DVW…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 5qU4llV777/labs-tests-virus
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/5qU4llV777/labs-tests-virus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 1243353366/cloudsentry
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/1243353366/cloudsentry
+     📝 Read-only local and multi-cloud triage, isolated decoy service, and evidence sum…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Panopticon-Co/panopticon-edr-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/Panopticon-Co/panopticon-edr-dashboard
+     📝 Enterprise SentinelOne-inspired analyst dashboard and Spring Boot telemetry back…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Adityasingh230058/panopticon-sentinel-ui-aditya
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/Adityasingh230058/panopticon-sentinel-ui-aditya
+     📝 Panopticon EDR SentinelOne-Inspired Web Console (Frontend-Only) — Developed by A…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Panopticon-Co/panopticon-sentinel-ui-aditya
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/Panopticon-Co/panopticon-sentinel-ui-aditya
+     📝 Panopticon EDR SentinelOne-Inspired Web Console (Frontend-Only) — Developed by A…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Esoham/SentinelWatch-SOC-Lab
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/Esoham/SentinelWatch-SOC-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Pranav30013/Bluetooth-BR
+     ⭐ 0  🗣 Verilog  📅 2026-10-29
+     🔗 https://github.com/Pranav30013/Bluetooth-BR
+     📝 Contains files for Bluetooth packet generation and packet modulation
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 zer0crypt02/Wasp-Hive
+     ⭐ 0  🗣 C++  📅 2026-10-29
+     🔗 https://github.com/zer0crypt02/Wasp-Hive
+     📝 Modular ransomware simulation & C2 framework for authorized red-team labs — ChaC…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 defaltastra/CyberTrace
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/defaltastra/CyberTrace
+     📝 Interactive web platform for visualizing and exploring global cyber threats usin…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Nita263/TECHBIZACADEMY_CYBERSECURITY_INTRO_TASK_1
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/Nita263/TECHBIZACADEMY_CYBERSECURITY_INTRO_TASK_1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 inneromost/lurked
+     ⭐ 0  🗣 Shell  📅 2026-10-29
+     🔗 https://github.com/inneromost/lurked
+     📝 Purple-team PoC: a Sliver C2 agent in QEMU with process-hiding via the Diamorphi…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 LAngelVp/AudioSyncHost
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/LAngelVp/AudioSyncHost
+     📝 Agente de captura de notas
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 TM-541/AEGISINTEL
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/TM-541/AEGISINTEL
+     📝 AI-powered SOC investigation and threat intelligence platform for security log a…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 mohd892020-blip/edrees
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/mohd892020-blip/edrees
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 camlen92/pentester-training-program
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/camlen92/pentester-training-program
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 samirhvbr/CVE-Linux
+     ⭐ 0  🗣 Shell  📅 2026-10-29
+     🔗 https://github.com/samirhvbr/CVE-Linux
+     📝 Triagem local de segurança para Debian Trixie em Bash, com relatório Markdown, e…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 ruanhou23/web-an-ninh
+     ⭐ 0  🗣 HTML  📅 2026-10-29
+     🔗 https://github.com/ruanhou23/web-an-ninh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 bloodmoonbreach/cvtracks
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/bloodmoonbreach/cvtracks
+     📝 One fact file, every CV: one-page CVs per role and language (Typst PDF), lint, h…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 visiongaiatechnology/gedefense_androidtv
+     ⭐ 1  🗣 Kotlin  📅 2026-10-29
+     🔗 https://github.com/visiongaiatechnology/gedefense_androidtv
+     📝 GeDefense TV — local-first security console for Android TV / Google TV: on-devic…
+     🏷  ad-blocking, alpha, android, android-tv, dns-filtering, gedefense, geoip, google-tv, kotlin, local-first, loopback-vpn, network-security, privacy, security, threat-intelligence, tracker-blocking, traffic-analysis, vgt, vpn, xdr
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 api-evangelist/harfanglab
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/api-evangelist/harfanglab
+     📝 Company profile (portfolio lead) — HarfangLab
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 shayaksahalovescoding/aegiscyber-ai
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/shayaksahalovescoding/aegiscyber-ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 benoitblais-hashicorp-demo/AWS-EKS-ArgoCD
+     ⭐ 0  🗣 HCL  📅 2026-10-29
+     🔗 https://github.com/benoitblais-hashicorp-demo/AWS-EKS-ArgoCD
+     📝 Code used to provision an Amazon EKS with ArgoCD.
+     🏷  terraform, terraform-managed, terraform-workspace
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Krish-Patwa01/tryhackme-free-rooms-list
+     ⭐ 1  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/Krish-Patwa01/tryhackme-free-rooms-list
+     📝 A list of 390+ free TryHackMe rooms to start learning cybersecurity
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 jfdzp/zabbix-template-windows-hyperv-host
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/jfdzp/zabbix-template-windows-hyperv-host
+     📝 Zabbix 7.4 Agent 2 template for Windows Hyper-V hosts: hypervisor services, EDR …
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 injmam089/week-3-incident-response-simulation
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/injmam089/week-3-incident-response-simulation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Danielle-Respes/Threat-Hunt-QUARTZFANG-2026
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/Danielle-Respes/Threat-Hunt-QUARTZFANG-2026
+     📝 Operation QUARTZFANG: end-to-end threat hunt of an AI agent intrusion, from SSRF…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 shashwat-prakhar/Phishing-Email-Analysis
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/shashwat-prakhar/Phishing-Email-Analysis
+     📝 Python-based phishing email analysis tool for SOC threat triage, email header fo…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 wesleynascimentodejesus-arch/dio-malware-simulado-python--
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/wesleynascimentodejesus-arch/dio-malware-simulado-python--
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 VR-addicted/meta-quest-bluetooth-toolbox
+     ⭐ 0  🗣 Kotlin  📅 2026-10-29
+     🔗 https://github.com/VR-addicted/meta-quest-bluetooth-toolbox
+     📝 its a simple tool that show hidden menus, more details while pairing, reset stac…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 cut-hand/spektra-web
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/cut-hand/spektra-web
+     📝 纯浏览器胶片暗房：25 款胶片、9 款印相材料、RAW 本地显影、TIFF 与批量导出。基于 SpektraLab / spektrafilm 的实验移植。
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 abirthapa1/SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/abirthapa1/SOC-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 swapnikamuktavarapu/EDR-Build
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/swapnikamuktavarapu/EDR-Build
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 edrisali966/2026FA-ENGR-2304-83335-EDRIS-EDRIS
+     ⭐ 0  🗣 C  📅 2026-10-29
+     🔗 https://github.com/edrisali966/2026FA-ENGR-2304-83335-EDRIS-EDRIS
+     📝 ENGR 2304 - Programming for Engineers | Fall 2026 | Programming Assignments
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 injmam089/week-1-cyber-threat-landscape-analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/injmam089/week-1-cyber-threat-landscape-analysis
+     📝 Week 1 Cyber Security Analyst Internship — Cyber Threat Landscape Analysis and S…
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 surajcmogaveera-ops/Cybernexus
+     ⭐ 0  🗣 TypeScript  📅 2026-10-28
+     🔗 https://github.com/surajcmogaveera-ops/Cybernexus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 federiconbaez/cortex9-iouring-edr-blindness
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/federiconbaez/cortex9-iouring-edr-blindness
+     📝 Harness: score EDR blindness to benign io_uring file ops (no rootkit)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Nishankhadgi/cloudguard-dashboard
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/Nishankhadgi/cloudguard-dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Nishankhadgi/cloudguard-aws-grc-assurance
+     ⭐ 0  🗣 Batchfile  📅 2026-10-28
+     🔗 https://github.com/Nishankhadgi/cloudguard-aws-grc-assurance
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 SreejaKamani11/EDR-Build.
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/SreejaKamani11/EDR-Build.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 GabRfg/malware-detection
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/GabRfg/malware-detection
+     📝 Various shell scripts created to detect malware behaviors
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 eusbel/prueba-edradour
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/eusbel/prueba-edradour
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 gujarati-31/EDR
+     ⭐ 0  🗣 TypeScript  📅 2026-10-29
+     🔗 https://github.com/gujarati-31/EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 Kashish-Bhatia/Malware-Analysis-Project
+     ⭐ 0  🗣 TypeScript  📅 2026-10-29
+     🔗 https://github.com/Kashish-Bhatia/Malware-Analysis-Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [NEW]   🆕 📦 nuchjarin02/ProjectPersonalEDR
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/nuchjarin02/ProjectPersonalEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:15 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-29 22:31:15 UTC] [UPD]   📢 📦 slim92code/purple-team-lab
+     ⭐ 0  🗣 N/A  📅 2026-06-01
+     🔗 https://github.com/slim92code/purple-team-lab
+     📝 Self-built Active Directory purple team lab. Full kill chain run against the dom…
+     🏷  active-directory, detection-engineering, incident-response, mitre-attack, purple-team, siem, sigma, soc-analyst, splunk, suricata, sysmon, wazuh, zeek
+     🔄 Motivo: nuovi topic: siem, zeek, wazuh, suricata, incident-response
+[2026-10-29 22:31:15 UTC] [UPD]   📢 📦 sealzone/seal-go
+     ⭐ 0  🗣 Go  📅 2026-10-28
+     🔗 https://github.com/sealzone/seal-go
+     📝 The Seal SDK for Go (seal.zone/go): published from sealzone/seal by its release …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-29 22:31:15 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-29 22:31:15 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-29 22:31:18 UTC] [INFO]   → 30 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-29 22:31:18 UTC] [NEW]   🆕 8 NUOVI repository:
+[2026-10-29 22:31:18 UTC] [NEW]   🆕 📦 astraea-emu/nx2-lab
+     ⭐ 0  🗣 C++  📅 2026-10-29
+     🔗 https://github.com/astraea-emu/nx2-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:18 UTC] [NEW]   🆕 📦 Tyymo/tyymo.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/Tyymo/tyymo.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 22:31:18 UTC] [NEW]   🆕 📦 brainztorm/zevbox
+     ⭐ 0  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/brainztorm/zevbox
+     📝 Run ACP agents (Claude, Antigravity, and local models through oMLX) for the Zed …
+     🏷  acp, agent-client-protocol, ai-agents, apple-container, claude-code, macos, rust, sandbox, zed, zed-editor
+[2026-10-29 22:31:18 UTC] [NEW]   🆕 📦 lamine5656/HyperHEN-Y2JB
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/lamine5656/HyperHEN-Y2JB
+     📝 download0.dat (Y2JB) that boots HyperHEN instead of the Payload Manager
+     🏷  —
+[2026-10-29 22:31:18 UTC] [NEW]   🆕 📦 RZ3M/secure-gpu-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-29
+     🔗 https://github.com/RZ3M/secure-gpu-stack
+     📝 A security-first alternative to Lambda Stack: the same GPU/ML tools, safe defaul…
+     🏷  —
+[2026-10-29 22:31:18 UTC] [NEW]   🆕 📦 oniz93/ps5-14.10-research
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/oniz93/ps5-14.10-research
+     📝 PS5 boot-chain and WebKit research: firmware tooling, OSS source analysis, local…
+     🏷  firmware-analysis, ps5, reverse-engineering, security-research, webkit
+[2026-10-29 22:31:18 UTC] [NEW]   🆕 📦 Alkarim786/code-execution-sandbox
+     ⭐ 0  🗣 Go  📅 2026-10-28
+     🔗 https://github.com/Alkarim786/code-execution-sandbox
+     📝 Secure code-execution sandbox for an online judge: namespaces, cgroups, seccomp,…
+     🏷  —
+[2026-10-29 22:31:18 UTC] [NEW]   🆕 📦 yichen115/ghostlock-kirkwood
+     ⭐ 0  🗣 Shell  📅 2026-10-29
+     🔗 https://github.com/yichen115/ghostlock-kirkwood
+     📝 CVE-2026-43499 (GhostLock) port for the Google TV Streamer (kirkwood / MT8696): …
+     🏷  —
+[2026-10-29 22:31:18 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-29 22:31:18 UTC] [UPD]   📢 📦 AlexanderNyr/Nava
+     ⭐ 2  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/AlexanderNyr/Nava
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-29 22:31:18 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (0gg)
+[2026-10-29 22:31:18 UTC] [INFO] ============================================================
+[2026-10-29 22:31:18 UTC] [INFO] Completato — 57 nuovi, 5 aggiornati, 0 errori
+[2026-10-29 22:31:18 UTC] [INFO] ============================================================
