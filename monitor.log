@@ -124648,3 +124648,198 @@
 [2026-10-28 22:18:05 UTC] [INFO] ============================================================
 [2026-10-28 22:18:05 UTC] [INFO] Completato — 51 nuovi, 4 aggiornati, 0 errori
 [2026-10-28 22:18:05 UTC] [INFO] ============================================================
+[2026-10-29 04:48:21 UTC] [INFO] ============================================================
+[2026-10-29 04:48:21 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-29 04:48:21 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-29 04:48:21 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-29 04:48:21 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-29 04:48:21 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-29 04:48:21 UTC] [INFO] ============================================================
+[2026-10-29 04:48:21 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-29 04:48:21 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-29 04:48:23 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-29 04:48:23 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-29 04:48:23 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-29 04:48:23 UTC] [UPD]   📢 📦 hiyfoeorihly/spiderman2-trainer
+     ⭐ 0  🗣 Python  📅 2026-10-23
+     🔗 https://github.com/hiyfoeorihly/spiderman2-trainer
+     📝 Spider-Man 2 trainer: infinite health, unlimited focus, god mode, one-hit KO tog…
+     🏷  god-mode, insomniac-spiderman2, memory-editor, modding-tool, script-hook, singleplayer-trainer, skill-points-editor, spider-man-2, spiderman-2-trainer, spiderman2-mod-menu, spiderman2-pc, symbiote-suit-unlock, trainer-menu, unlimited-suit-tokens, web-swinging-mods, xp-multiplier
+     🔄 Motivo: repo recente (5gg)
+[2026-10-29 04:48:23 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-29 04:48:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-29 04:48:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 trpestudos/malware
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/trpestudos/malware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 cidunti/Untitled
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/cidunti/Untitled
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 didikari/gomesh
+     ⭐ 0  🗣 Go  📅 2026-10-29
+     🔗 https://github.com/didikari/gomesh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 federiconbaez/cortex9-iouring-abuse-sensor
+     ⭐ 0  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/federiconbaez/cortex9-iouring-abuse-sensor
+     📝 Detect io_uring abuse (Curing-class) that syscall-hooking EDRs miss: userspace h…
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 ancrz/agent-execution-plane
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/ancrz/agent-execution-plane
+     📝 Control plane and high-resilience execution suite for AI agents on Ubuntu/Linux
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 mezzanine78/DX-CFTrustedIPs
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/mezzanine78/DX-CFTrustedIPs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 DanPazlev/cti-hunt-loop-kit
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/DanPazlev/cti-hunt-loop-kit
+     📝 Intel-driven threat hunting kit: hypothesis cards, ATT&CK-mapped hunt playbooks,…
+     🏷  blue-team, cti, cyber-threat-intelligence, detection-engineering, dfir, kql, mitre-attack, sigma, splunk, threat-hunting
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 fusion-shield/qhorus-edge-releases
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/fusion-shield/qhorus-edge-releases
+     📝 Public distribution mirror for qHorus edge software (Agent + Collector). No sour…
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 hangtiancheng/be261028
+     ⭐ 0  🗣 Go  📅 2026-10-29
+     🔗 https://github.com/hangtiancheng/be261028
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 secuwall-com/sxm-edr-release
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/secuwall-com/sxm-edr-release
+     📝 Signed release builds
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 victorogusuko-tech/DIO_LAB_Entendendo-um-Ransomware-na-Pr-tica-com-Python
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/victorogusuko-tech/DIO_LAB_Entendendo-um-Ransomware-na-Pr-tica-com-Python
+     📝 Descrição do Desafio Este projeto tem como objetivo implementar um Ransomware pa…
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 Pdeepak18/kql-detection-pack
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/Pdeepak18/kql-detection-pack
+     📝 25 Microsoft Sentinel analytics rules with ATT&CK mapping, tuning notes and a se…
+     🏷  detection-engineering, kql, mitre-attack, security-operations, sentinel, soc
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 pranav180502/soc-llm-triage
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/pranav180502/soc-llm-triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 SeanShaffer88/av-scrub-index
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/SeanShaffer88/av-scrub-index
+     📝 Curated index of AV/EDR scrubbing and cleanup tools.
+     🏷  antivirus, cybersecurity, edr, endpoint-security, incident-response, it-automation, json-dataset, msp, powershell, removal-tool, rmm, sysadmin, uninstaller, windows, xdr
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 mlwere1977/ftp-intrusion-forensics-wireshark
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/mlwere1977/ftp-intrusion-forensics-wireshark
+     📝 Network forensics investigation of an FTP brute-force, data-exfiltration, and ma…
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 jessiqveen-dotcom/CyberShield-Analytics
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/jessiqveen-dotcom/CyberShield-Analytics
+     📝 CyberShield Analytics RFID Scanner
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 proof-displacing09/AgentBoundary-Operation-SilentSignal
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/proof-displacing09/AgentBoundary-Operation-SilentSignal
+     📝 AI SOC copilot security research lab for testing prompt-injection attacks and en…
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 Anacleto22/eng_revr
+     ⭐ 0  🗣 PowerShell  📅 2026-10-29
+     🔗 https://github.com/Anacleto22/eng_revr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 MRdark-ops/Syscall
+     ⭐ 1  🗣 C  📅 2026-10-29
+     🔗 https://github.com/MRdark-ops/Syscall
+     📝 Clean Indirect Syscalls with Syscall Tampering.
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 sealzone/seal-go
+     ⭐ 0  🗣 Go  📅 2026-10-28
+     🔗 https://github.com/sealzone/seal-go
+     📝 The Seal SDK for Go (seal.zone/go): published from sealzone/seal by its release …
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 MayradelvGonzalez/SOC-Analyst-Reports
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/MayradelvGonzalez/SOC-Analyst-Reports
+     📝 Incident respons resports, log triage cases, and SOC practical labs/Colección de…
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 jsalgadop-ng/analista-soc-nivel-2
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/jsalgadop-ng/analista-soc-nivel-2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 Keep-Calm-And-Failover/MalwareCheck
+     ⭐ 0  🗣 PowerShell  📅 2026-10-28
+     🔗 https://github.com/Keep-Calm-And-Failover/MalwareCheck
+     📝 PowerShell-based Windows security assessment and threat detection tool.
+     🏷  —
+[2026-10-29 04:48:25 UTC] [NEW]   🆕 📦 LaurentiuTopai/OBLIVION
+     ⭐ 0  🗣 C  📅 2026-10-28
+     🔗 https://github.com/LaurentiuTopai/OBLIVION
+     📝 EDR system made with C eBPF+GO
+     🏷  —
+[2026-10-29 04:48:25 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-29 04:48:25 UTC] [UPD]   📢 📦 healthtransformationlab/healthtransformationlab.github.io
+     ⭐ 0  🗣 HTML  📅 2026-10-28
+     🔗 https://github.com/healthtransformationlab/healthtransformationlab.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-29 04:48:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-29 04:48:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-29 04:48:28 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-29 04:48:28 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-29 04:48:28 UTC] [NEW]   🆕 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+[2026-10-29 04:48:28 UTC] [NEW]   🆕 📦 sheran/agent-box-hardening
+     ⭐ 0  🗣 Shell  📅 2026-10-29
+     🔗 https://github.com/sheran/agent-box-hardening
+     📝 Tools to lock down an AI Assistant's computer or VM.
+     🏷  —
+[2026-10-29 04:48:28 UTC] [NEW]   🆕 📦 osamaassolimany-ui/cc
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/osamaassolimany-ui/cc
+     📝 cc
+     🏷  —
+[2026-10-29 04:48:28 UTC] [NEW]   🆕 📦 aswartzlander2-sys/MicroVM-Playground
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/aswartzlander2-sys/MicroVM-Playground
+     📝 Robo Universal — a password-protected microVM dashboard: explore OS entries, lau…
+     🏷  —
+[2026-10-29 04:48:28 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-29 04:48:28 UTC] [UPD]   📢 📦 patnawa/y2jb
+     ⭐ 0  🗣 JavaScript  📅 2026-10-28
+     🔗 https://github.com/patnawa/y2jb
+     📝 Y2JB Autoloader v1.0.4-fast5 - robust+fast download0.dat build (by Patnawa) for …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-29 04:48:28 UTC] [UPD]   📢 📦 thevoid9x/uaf
+     ⭐ 0  🗣 JavaScript  📅 2026-10-28
+     🔗 https://github.com/thevoid9x/uaf
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-29 04:48:28 UTC] [UPD]   📢 📦 ElenaViewSynthesis/GymSIEGE
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/ElenaViewSynthesis/GymSIEGE
+     📝  ▎ Fleet-evaluation harness for security-agent benchmarks 𝗖𝘆𝗯𝗲𝗿𝗚𝘆𝗺-𝗘𝟮𝗘, 𝗘𝘅𝗽𝗹𝗼𝗶𝘁𝗚…
+     🏷  arvo, asan-global-buffer-overflow, aslr-entropy, audit-loop, binaries, cve, cybergym, docker, exploit-gym, futex, fuzzing, libdwarf, libxml2-uaf, msan, net-snmp, otel, patch, qemu-kvm, rce, ubsan
+     🔄 Motivo: nuovi topic: rce
+[2026-10-29 04:48:28 UTC] [INFO] ============================================================
+[2026-10-29 04:48:28 UTC] [INFO] Completato — 28 nuovi, 5 aggiornati, 0 errori
+[2026-10-29 04:48:28 UTC] [INFO] ============================================================
