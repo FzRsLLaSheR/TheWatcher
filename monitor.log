@@ -124843,3 +124843,292 @@
 [2026-10-29 04:48:28 UTC] [INFO] ============================================================
 [2026-10-29 04:48:28 UTC] [INFO] Completato — 28 nuovi, 5 aggiornati, 0 errori
 [2026-10-29 04:48:28 UTC] [INFO] ============================================================
+[2026-10-29 12:27:19 UTC] [INFO] ============================================================
+[2026-10-29 12:27:19 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-29 12:27:19 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-29 12:27:19 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-29 12:27:19 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-29 12:27:19 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-29 12:27:19 UTC] [INFO] ============================================================
+[2026-10-29 12:27:19 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-29 12:27:19 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-29 12:27:23 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-29 12:27:23 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-29 12:27:23 UTC] [NEW]   🆕 📦 Akki-74/AEGIS
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/Akki-74/AEGIS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:23 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-29 12:27:23 UTC] [UPD]   📢 📦 nodecoda/Learning-with-Claude
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/nodecoda/Learning-with-Claude
+     📝 个人学习教材库：AI 编译器 / LLVM 后端 / 系统方向的多章课程（简体中文）
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-29 12:27:23 UTC] [UPD]   📢 📦 afu-it/wa-zip-cleaner
+     ⭐ 7  🗣 PowerShell  📅 2026-10-22
+     🔗 https://github.com/afu-it/wa-zip-cleaner
+     📝 Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni…
+     🏷  cybersecurity, incident-response, malaysia, malware, malware-analysis, powershell, silverfox, valleyrat, whatsapp, windows, winos, yara
+     🔄 Motivo: repo recente (6gg)
+[2026-10-29 12:27:23 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-29 12:27:23 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-29 12:27:27 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 44 NUOVI repository:
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 wzk112/thock-maimai
+     ⭐ 0  🗣 Swift  📅 2026-10-29
+     🔗 https://github.com/wzk112/thock-maimai
+     📝 Keyboard sounds and transparent fireworks for macOS and Windows. HDR optional; o…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 SRmagician7/multi-stage-apt-simulation-lab
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/SRmagician7/multi-stage-apt-simulation-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 anurags7104-afk/Threat-Intelligence-Aggregator
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/anurags7104-afk/Threat-Intelligence-Aggregator
+     📝 Non-AI Threat Intelligence Aggregator in Python: parses IOC feeds (CSV, TXT, JSO…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 marcosafwat123456-commits/FileGuard
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/marcosafwat123456-commits/FileGuard
+     📝 AI-ready cloud-based suspicious file analysis and cybersecurity web application
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 HG-ha/Argusai
+     ⭐ 6  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/HG-ha/Argusai
+     📝 一个人，一整支 AI 安全团队。ArgusAI 集成自主 Agent、多智能体协作、渗透测试、实时 MITM、移动端与二进制逆向、浏览器与桌面控制，从一句话下达…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 redaot/worm-crawler-defender
+     ⭐ 0  🗣 PowerShell  📅 2026-10-29
+     🔗 https://github.com/redaot/worm-crawler-defender
+     📝 Behavioural tripwire against droppers & infostealers for Windows and Linux. Cuts…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 firzaaditiya/backend-ipl
+     ⭐ 0  🗣 Go  📅 2026-10-29
+     🔗 https://github.com/firzaaditiya/backend-ipl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 debasish-lenka/Enterprise-Detection-Response-Agent-SOC
+     ⭐ 0  🗣 HTML  📅 2026-10-29
+     🔗 https://github.com/debasish-lenka/Enterprise-Detection-Response-Agent-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 mulumpyo/bluetoothTest
+     ⭐ 0  🗣 C#  📅 2026-10-29
+     🔗 https://github.com/mulumpyo/bluetoothTest
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 aadi3006/ThreatLenX
+     ⭐ 0  🗣 TypeScript  📅 2026-10-29
+     🔗 https://github.com/aadi3006/ThreatLenX
+     📝 Explainable cybersecurity operations platform for threat detection, investigatio…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 mediagarh-dev-team/edrishyamfilmschool-lp
+     ⭐ 0  🗣 CSS  📅 2026-10-29
+     🔗 https://github.com/mediagarh-dev-team/edrishyamfilmschool-lp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 nodecoda/Learning-with-Claude
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/nodecoda/Learning-with-Claude
+     📝 个人学习教材库：AI 编译器 / LLVM 后端 / 系统方向的多章课程（简体中文）
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 eloy-leadtech/lupa
+     ⭐ 1  🗣 JavaScript  📅 2026-10-28
+     🔗 https://github.com/eloy-leadtech/lupa
+     📝 Auditoría de seguridad de un proyecto entero (código, CI/CD, servidores, red e i…
+     🏷  bitbucket, ci-cd, claude-code, claude-code-plugin, devsecops, github-actions, gitleaks, infrastructure-security, sast, secret-scanning, security-audit, semgrep, terraform, trivy, vulnerability-scanner, zizmor
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 lowbust/OpenTask-Monitor
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/lowbust/OpenTask-Monitor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 rmarzievv/BREAKPOINT-
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/rmarzievv/BREAKPOINT-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 PyHackSecGP/p7-autopatch
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/PyHackSecGP/p7-autopatch
+     📝 Autonomous CVE remediation: DefectDojo-driven detect → classify → ZFS snapshot →…
+     🏷  ai-security, automation, cybersecurity, defectdojo, homelab, proxmox, python, trivy, vulnerability-management, zfs
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 mfgrcconsultant/mfgrcconsultant
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/mfgrcconsultant/mfgrcconsultant
+     📝 GitHub profile of Mohamed Faizal (MoFa) - UAE GRC, Cyber & Privacy Compliance as…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 Akki-74/AEGIS
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/Akki-74/AEGIS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 vincie999/SOC-Analyst-Lab-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/vincie999/SOC-Analyst-Lab-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 addxemmm/bl-ble-dos
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/addxemmm/bl-ble-dos
+     📝 Guided BR/EDR and BLE availability testing with bounded workloads, HCI capture, …
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 shreya-sec/Cyber-NLP
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/shreya-sec/Cyber-NLP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 jasethepeople/funeral-os-v1-live-ready
+     ⭐ 0  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/jasethepeople/funeral-os-v1-live-ready
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 jasethepeople/funeral-os-v1-live-ready-1
+     ⭐ 0  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/jasethepeople/funeral-os-v1-live-ready-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 jasethepeople/funeral-os-v1-final-real
+     ⭐ 0  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/jasethepeople/funeral-os-v1-final-real
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 Hussain-malik03/DFIR-Jigsaw-Ransomware
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/Hussain-malik03/DFIR-Jigsaw-Ransomware
+     📝 Digital forensics & malware analysis of Jigsaw ransomware on Windows 10: FTK Ima…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 MAliXCS/go-rat-malware-analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/MAliXCS/go-rat-malware-analysis
+     📝 Hands-on static and dynamic analysis of a suspected Go backdoor/RAT (53/68 on Vi…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 LittleCrabby/open-cisco-zta
+     ⭐ 0  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/LittleCrabby/open-cisco-zta
+     📝 Open-source, high-performance alternative client for Cisco Secure Access ZTNA wr…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 photon01666/sentinelmdm-source
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/photon01666/sentinelmdm-source
+     📝 Device-management platform for Android: agent, companion app, server, and Window…
+     🏷  android, device-management, mdm, remote-support, self-hosted
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 priscilla991/operation-brume
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/priscilla991/operation-brume
+     📝 Opération Brume (PYS-701) – Investigation SOC en Python : reconstitution d’une i…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 futurismsec/security-architecture-review-checklist
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/futurismsec/security-architecture-review-checklist
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 nadamohamed14796-byte/src-hunter
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/nadamohamed14796-byte/src-hunter
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 muhad0206/argus-soc
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/muhad0206/argus-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 AdeelEjaz123/Panaromic-Dental-Xray-Classification
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-10-29
+     🔗 https://github.com/AdeelEjaz123/Panaromic-Dental-Xray-Classification
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 safumo/dsh-native-browser-bdg
+     ⭐ 0  🗣 TypeScript  📅 2026-10-29
+     🔗 https://github.com/safumo/dsh-native-browser-bdg
+     📝 dsh browser extension realised by cdp
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 hanjixin/electron-bastion
+     ⭐ 0  🗣 TypeScript  📅 2026-10-29
+     🔗 https://github.com/hanjixin/electron-bastion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 Chinese-Journal-of-Law/MiniDEX-ZJU-Blockchain-2026-3230106207-
+     ⭐ 0  🗣 TypeScript  📅 2026-10-29
+     🔗 https://github.com/Chinese-Journal-of-Law/MiniDEX-ZJU-Blockchain-2026-3230106207-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 nyght-x-walker/nyght-x-walker
+     ⭐ 0  🗣 N/A  📅 2026-10-28
+     🔗 https://github.com/nyght-x-walker/nyght-x-walker
+     📝 Nyx — security engineer / product builder
+     🏷  github-profile, product-engineering, profile-readme, security-engineering
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 valystrum/valystrum-atomic-uploader
+     ⭐ 0  🗣 PowerShell  📅 2026-10-29
+     🔗 https://github.com/valystrum/valystrum-atomic-uploader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 jatinsec/PurpleTrace
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/jatinsec/PurpleTrace
+     📝 Lab-based attack-simulation and defensive detection-validation toolkit (MITRE-ma…
+     🏷  detection-engineering, mitre-attack, purple-team, security
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 securewithharshitrajput/kguard
+     ⭐ 0  🗣 Go  📅 2026-10-29
+     🔗 https://github.com/securewithharshitrajput/kguard
+     📝 eBPF-powered Linux endpoint monitor — real-time process & network detection mapp…
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 mimi399/Beatrice.py
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/mimi399/Beatrice.py
+     📝 x64 binary mutator (fork: bug fixes + optimizations)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 cajlat1kkk/Sentinel---SIEM
+     ⭐ 1  🗣 C++  📅 2026-10-28
+     🔗 https://github.com/cajlat1kkk/Sentinel---SIEM
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 ZIA-NETWORKS/small-business-it-security-checklist
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/ZIA-NETWORKS/small-business-it-security-checklist
+     📝 A practical, plain-English security checklist for small businesses.
+     🏷  —
+[2026-10-29 12:27:27 UTC] [NEW]   🆕 📦 Beast-Sanjay/Solaris-OT-plant
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/Beast-Sanjay/Solaris-OT-plant
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:27 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-29 12:27:27 UTC] [UPD]   📢 📦 didikari/gomesh
+     ⭐ 0  🗣 Go  📅 2026-10-29
+     🔗 https://github.com/didikari/gomesh
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-29 12:27:27 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-29 12:27:27 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-29 12:27:30 UTC] [INFO]   → 23 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-29 12:27:30 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-29 12:27:30 UTC] [NEW]   🆕 📦 Anti-Anti-Anit/awesome-ps5
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/Anti-Anti-Anit/awesome-ps5
+     📝 GitHub projects related to PS5 with star > 50: jailbreak, homebrew, emulators, s…
+     🏷  awesome-list, awesome-ps5, dualsense, emulator, homebrew, jailbreak, playstation-5, playstation5, ps5, ps5-emulator, ps5-homebrew, ps5-jailbreak, ps5-linux, ps5-payload, remote-play, streaming
+[2026-10-29 12:27:30 UTC] [NEW]   🆕 📦 sifatnotes/secbyte-privilege-escalation-enumeration-kernel-exploitation-ctf-labs
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/sifatnotes/secbyte-privilege-escalation-enumeration-kernel-exploitation-ctf-labs
+     📝 A practical collection of cybersecurity CTF labs covering local privilege escala…
+     🏷  —
+[2026-10-29 12:27:30 UTC] [NEW]   🆕 📦 chw602608/ps5-yarpe-autoloader
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/chw602608/ps5-yarpe-autoloader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-29 12:27:30 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-29 12:27:30 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (0gg)
+[2026-10-29 12:27:30 UTC] [INFO] ============================================================
+[2026-10-29 12:27:30 UTC] [INFO] Completato — 48 nuovi, 4 aggiornati, 0 errori
+[2026-10-29 12:27:30 UTC] [INFO] ============================================================
