@@ -125938,3 +125938,324 @@
 [2026-10-30 12:18:52 UTC] [INFO] ============================================================
 [2026-10-30 12:18:52 UTC] [INFO] Completato — 43 nuovi, 5 aggiornati, 0 errori
 [2026-10-30 12:18:52 UTC] [INFO] ============================================================
+[2026-10-30 21:59:52 UTC] [INFO] ============================================================
+[2026-10-30 21:59:52 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-30 21:59:52 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-30 21:59:52 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-30 21:59:52 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-30 21:59:52 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-30 21:59:52 UTC] [INFO] ============================================================
+[2026-10-30 21:59:52 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-30 21:59:52 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-30 21:59:53 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-30 21:59:53 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-30 21:59:53 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-30 21:59:53 UTC] [UPD]   📢 📦 emilbaecker1970/alibi-anticheat-scan-win
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/emilbaecker1970/alibi-anticheat-scan-win
+     📝 Alibi v2026: a read-only Windows forensic anti-cheat scanner for threat hunting …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-30 21:59:53 UTC] [UPD]   📢 📦 angelmisael-sec/security-homelab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-29
+     🔗 https://github.com/angelmisael-sec/security-homelab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-30 21:59:53 UTC] [UPD]   📢 📦 skbskhud/p104-unlock-v3
+     ⭐ 4  🗣 C#  📅 2026-10-28
+     🔗 https://github.com/skbskhud/p104-unlock-v3
+     📝 P104-100 (GP104, Windows): live Gen2 x4 unlock (0 resets, ~3 s; 0.78 -> 1.57 GB/…
+     🏷  gen2, gp104, gpu, mining-card, nvidia, p104-100, p106-100, pcie, unlock, windows
+     🔄 Motivo: repo recente (2gg)
+[2026-10-30 21:59:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-30 21:59:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-30 21:59:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 43 NUOVI repository:
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 jayekwere/responseforge
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/jayekwere/responseforge
+     📝 Cloud identity response with independent approvals, durable dispatch, native rea…
+     🏷  aws, azure, fastapi, gcp, idempotency, incident-response, python, security-automation, soar, typescript
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 alainmic/corewatch
+     ⭐ 0  🗣 Kotlin  📅 2026-10-29
+     🔗 https://github.com/alainmic/corewatch
+     📝 Compact system telemetry, thermal/battery wattage inspector, display mode audito…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 renattiii/Cyber-ScareCrow
+     ⭐ 1  🗣 C#  📅 2026-10-30
+     🔗 https://github.com/renattiii/Cyber-ScareCrow
+     📝 Windows tray app that runs harmless decoy processes named after reverse-engineer…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 FreemanHack/Auditor-Web-Local
+     ⭐ 0  🗣 PowerShell  📅 2026-10-30
+     🔗 https://github.com/FreemanHack/Auditor-Web-Local
+     📝 Detección y remediación de vulnerabilidades web en equipos Windows, con informe …
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 anggaaygaa/Networkwalks-Angga-Yoga-Syahputra-B084-SOC-Wireshark-Extra-Project-Week-1
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/anggaaygaa/Networkwalks-Angga-Yoga-Syahputra-B084-SOC-Wireshark-Extra-Project-Week-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 Gorstaks/Sentinel
+     ⭐ 0  🗣 C#  📅 2026-10-30
+     🔗 https://github.com/Gorstaks/Sentinel
+     📝 Userland EDR for Windows. ETW telemetry, behavioral correlation, MITRE ATT&CK.
+     🏷  csharp, edr, etw, mitre-attack, security, threat-detection, windows
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 Gorstaks/Powershell
+     ⭐ 0  🗣 PowerShell  📅 2026-10-30
+     🔗 https://github.com/Gorstaks/Powershell
+     📝 PowerShell packs for security, EDR, detection, and hardening.
+     🏷  detection, edr, hardening, powershell, security, windows
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 Gorstaks/GSecurity
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/Gorstaks/GSecurity
+     📝 Windows OEM hardening and first-boot toolkit built on autounattend.xml.
+     🏷  autounattend, deployment, hardening, oem, security, windows
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 Gorstaks/gorstakssite
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/Gorstaks/gorstakssite
+     📝 Static portfolio site for Gorstak's GitHub projects.
+     🏷  github-pages, html, javascript, portfolio, static-site
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 DennyWeinberg/hoerfrau-ble
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/DennyWeinberg/hoerfrau-ble
+     📝 An Open-Source simulator of the hoermann door drive units BLE protocol
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 soraxa-dev/plant-the-flag
+     ⭐ 0  🗣 Rust  📅 2026-10-30
+     🔗 https://github.com/soraxa-dev/plant-the-flag
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 PiotrAsyngier/Homelab-Wazuh
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/PiotrAsyngier/Homelab-Wazuh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 RolandoPulgar/pyme-sec-audit
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/RolandoPulgar/pyme-sec-audit
+     📝 SME Cybersecurity Health Check & Compliance Baseline Audit Toolkit (CIS Controls…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 petuniauubarastaban-jpg/strata
+     ⭐ 0  🗣 JavaScript  📅 2026-10-30
+     🔗 https://github.com/petuniauubarastaban-jpg/strata
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 rbelanec/esp32-dualshock-servo
+     ⭐ 0  🗣 C  📅 2026-10-30
+     🔗 https://github.com/rbelanec/esp32-dualshock-servo
+     📝 ESP32 steers a hobby servo from a PS4 DualShock 4 over Bluetooth (Bluepad32, ESP…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 OwenMelnyk/Melnyk_fw26-unit1-student-main
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/OwenMelnyk/Melnyk_fw26-unit1-student-main
+     📝 Assignment/Project 1 COSC3657
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 HKAgenticbuilds/ClaudeRed
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/HKAgenticbuilds/ClaudeRed
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 1337exe/Redsweep
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/1337exe/Redsweep
+     📝 Leave nothing behind, and prove it. Change ledger, rollback verifier and Control…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 CallMeBatman769/Warlord
+     ⭐ 1  🗣 C++  📅 2026-10-30
+     🔗 https://github.com/CallMeBatman769/Warlord
+     📝 A stealthy C++ and Assembly DLL injector leveraging direct system calls to bypas…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 himanshushrivastavv-netizen/himanshushrivastavv-netizen
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/himanshushrivastavv-netizen/himanshushrivastavv-netizen
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 dipukhanjihad-commits/space_clener
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/dipukhanjihad-commits/space_clener
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-USB-Peripheral-Device-Control
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/ishandutta2007/Awesome-USB-Peripheral-Device-Control
+     📝 Top USB Peripheral Device Control (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, data-loss-prevention, device-control, dlp, endpoint-security, usb-security
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 marcurell/azure-rapportkit
+     ⭐ 0  🗣 PowerShell  📅 2026-10-30
+     🔗 https://github.com/marcurell/azure-rapportkit
+     📝 PowerShell-kit: Azure Governance Visualizer, azqr och Maester med HTML-sammanfat…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 HuzaifaAbbasi6901/shieldguard
+     ⭐ 0  🗣 TypeScript  📅 2026-10-30
+     🔗 https://github.com/HuzaifaAbbasi6901/shieldguard
+     📝 Ransomware and data-theft early-warning system with a friendly dashboard
+     🏷  cybersecurity, defensive-security, fastapi, nextjs, python, ransomware-detection
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 emulsazib/scanux
+     ⭐ 0  🗣 Rust  📅 2026-10-30
+     🔗 https://github.com/emulsazib/scanux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 amir-hossein-shahraki/Malware-Detection-Engineering
+     ⭐ 0  🗣 YARA  📅 2026-10-30
+     🔗 https://github.com/amir-hossein-shahraki/Malware-Detection-Engineering
+     📝 A curated collection of YARA rules and detection engineering methodologies for m…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 HoshizoraAkira/Mine2Metal
+     ⭐ 0  🗣 Java  📅 2026-10-30
+     🔗 https://github.com/HoshizoraAkira/Mine2Metal
+     📝 Apple Metal backend for Minecraft Java 26.3 (Fabric) on Apple silicon, alongside…
+     🏷  apple-silicon, fabric, fsr, macos, metal, metalfx, minecraft, minecraft-mod, shaders, sodium
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 iamitgandhi/s20-ultra-5G_SM-G988N_Bluetooth-Disconnection-Fix
+     ⭐ 0  🗣 Shell  📅 2026-10-30
+     🔗 https://github.com/iamitgandhi/s20-ultra-5G_SM-G988N_Bluetooth-Disconnection-Fix
+     📝 Permanent fix for Bluetooth disconnections, Watch6 Classic RFCOMM drops, A2DP au…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 ARSHITAS16/Decodelabs-task3
+     ⭐ 0  🗣 JavaScript  📅 2026-10-30
+     🔗 https://github.com/ARSHITAS16/Decodelabs-task3
+     📝 PhishSentinel — AI-Assisted Phishing Awareness & Threat Analysis Platform | Deco…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Adversary-Threat-Hunting-Countermeasures
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/ishandutta2007/Awesome-Adversary-Threat-Hunting-Countermeasures
+     📝 Top Adversary Threat Hunting Countermeasures (Opensource)  Star if you like it! 
+     🏷  adversary-emulation, awesome-list, countermeasures, curated-list, detection-engineering, threat-hunting, threat-intelligence
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Zero-Trust-Security-Assessment
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/ishandutta2007/Awesome-Zero-Trust-Security-Assessment
+     📝 Top Zero Trust Security Assessment (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 hyderpwn/CVE-aisoc
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/hyderpwn/CVE-aisoc
+     📝 CVE-2026-103056 (CVSS 4.0 9.4 Critical) — AiSOC < 12.0.0 OS command injection in…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 Dominicc4l/natureforce_malware_traffic_analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/Dominicc4l/natureforce_malware_traffic_analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 anhvan1999/vstream
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/anhvan1999/vstream
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 JEExplorer/EDRIS-111
+     ⭐ 0  🗣 Dart  📅 2026-10-30
+     🔗 https://github.com/JEExplorer/EDRIS-111
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 m7211873/FileAudit
+     ⭐ 0  🗣 PowerShell  📅 2026-10-30
+     🔗 https://github.com/m7211873/FileAudit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 indranilg495-creator/Endpoint-Detection-Response-EDR-Build
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/indranilg495-creator/Endpoint-Detection-Response-EDR-Build
+     📝 A basic Endpoint Detection and Response (EDR) system to monitor endpoint activit…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 faathii/esp32-study-deck
+     ⭐ 0  🗣 C++  📅 2026-10-30
+     🔗 https://github.com/faathii/esp32-study-deck
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 sakshirkumar/controlmap
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/sakshirkumar/controlmap
+     📝 SOC 2 evidence automation that collects exports from GitHub, AWS, identity and H…
+     🏷  iso-27001-annex-a, jinja, python, sha-256-evidence-store, soc-2-tsc, yaml-control-library
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 sumitf1/Endpoint-Detection-Response-EDR-Build
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/sumitf1/Endpoint-Detection-Response-EDR-Build
+     📝 A basic Endpoint Detection and Response (EDR) system to monitor endpoint activit…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 Abhi141107/controlmap
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/Abhi141107/controlmap
+     📝 SOC 2 evidence automation that collects exports from GitHub, AWS, identity and H…
+     🏷  iso-27001-annex-a, jinja, python, sha-256-evidence-store, soc-2-tsc, yaml-control-library
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 Arthuralend/Viewer
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/Arthuralend/Viewer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:56 UTC] [NEW]   🆕 📦 carlosrobertoaraujo61-creator/An-lise-e-Mitiga-o-de-Malwares-em-Ambiente-Controlado
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/carlosrobertoaraujo61-creator/An-lise-e-Mitiga-o-de-Malwares-em-Ambiente-Controlado
+     📝 O objetivo deste desafio e projeto é demonstrar como vulnerabilidades no control…
+     🏷  —
+[2026-10-30 21:59:56 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-30 21:59:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-30 21:59:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-30 21:59:58 UTC] [INFO]   → 30 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 📦 axela7149-art/MACIELPROXYEXTERNAL
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/axela7149-art/MACIELPROXYEXTERNAL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 📦 luanzzkribeirozzk-design/PAINEL-EXTERNAL-IOS-SNAPCHAT-ORIGINAL
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/luanzzkribeirozzk-design/PAINEL-EXTERNAL-IOS-SNAPCHAT-ORIGINAL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 📦 paoloanzn/audit-content
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/paoloanzn/audit-content
+     📝 Check links and files in a disposable microVM with agents before you open them
+     🏷  —
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 📦 df2029/cs-build
+     ⭐ 0  🗣 C  📅 2026-10-30
+     🔗 https://github.com/df2029/cs-build
+     📝 ClearSword cloud build (iOS kernel exploit PoC, CVE-2025-43520)
+     🏷  —
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 📦 ZeroService96/weakforce
+     ⭐ 0  🗣 Objective-C  📅 2026-10-30
+     🔗 https://github.com/ZeroService96/weakforce
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 📦 ChinmaiShetti/phantom_hypervisor
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/ChinmaiShetti/phantom_hypervisor
+     📝 something
+     🏷  —
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 📦 HKAgenticbuilds/ClaudeRed
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/HKAgenticbuilds/ClaudeRed
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 📦 RaphaelKhalid/ds-sandbox
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/RaphaelKhalid/ds-sandbox
+     📝 Local Docker sandbox for running DeepSeek via OpenCode on a tight leash, plus a …
+     🏷  —
+[2026-10-30 21:59:58 UTC] [NEW]   🆕 📦 lalbers/agent-sandbox
+     ⭐ 1  🗣 Shell  📅 2026-10-30
+     🔗 https://github.com/lalbers/agent-sandbox
+     📝 Run Claude Code and the REA reverse-engineering MCP server in rootless Podman or…
+     🏷  ai-agents, claude, claude-code, ghidra, libkrun, mcp, microvm, podman, prompt-injection, reverse-engineering, rootless, sandbox, seccomp, security, selinux
+[2026-10-30 21:59:58 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-30 21:59:58 UTC] [UPD]   📢 📦 astraea-emu/nx2-lab
+     ⭐ 0  🗣 C++  📅 2026-10-29
+     🔗 https://github.com/astraea-emu/nx2-lab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-30 21:59:58 UTC] [UPD]   📢 📦 Xenonesis/memclean
+     ⭐ 1  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/Xenonesis/memclean
+     📝 MemClean is a high-performance, open-source Windows memory optimization daemon a…
+     🏷  memory-management, tool, windows
+     🔄 Motivo: repo recente (0gg) | nuovi topic: windows, memory-management, tool
+[2026-10-30 21:59:58 UTC] [UPD]   📢 📦 AlexanderNyr/Nava
+     ⭐ 2  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/AlexanderNyr/Nava
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-30 21:59:58 UTC] [INFO] ============================================================
+[2026-10-30 21:59:58 UTC] [INFO] Completato — 52 nuovi, 6 aggiornati, 0 errori
+[2026-10-30 21:59:58 UTC] [INFO] ============================================================
