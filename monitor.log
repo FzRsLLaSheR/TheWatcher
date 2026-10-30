@@ -125472,3 +125472,199 @@
 [2026-10-29 22:31:18 UTC] [INFO] ============================================================
 [2026-10-29 22:31:18 UTC] [INFO] Completato — 57 nuovi, 5 aggiornati, 0 errori
 [2026-10-29 22:31:18 UTC] [INFO] ============================================================
+[2026-10-30 04:48:19 UTC] [INFO] ============================================================
+[2026-10-30 04:48:19 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-30 04:48:19 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-30 04:48:19 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-30 04:48:19 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-30 04:48:19 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-30 04:48:19 UTC] [INFO] ============================================================
+[2026-10-30 04:48:19 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-30 04:48:19 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-30 04:48:21 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-30 04:48:21 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-30 04:48:21 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-30 04:48:21 UTC] [UPD]   📢 📦 afu-it/wa-zip-cleaner
+     ⭐ 8  🗣 PowerShell  📅 2026-10-22
+     🔗 https://github.com/afu-it/wa-zip-cleaner
+     📝 Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni…
+     🏷  cybersecurity, incident-response, malaysia, malware, malware-analysis, powershell, silverfox, valleyrat, whatsapp, windows, winos, yara
+     🔄 Motivo: repo recente (7gg)
+[2026-10-30 04:48:21 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 371  🗣 Python  📅 2026-09-23
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  claude-code, codex, gemini, hermes-agent, kimi, made-in-usa, opencode, reverse-engineering
+     🔄 Motivo: nuovi topic: made-in-usa
+[2026-10-30 04:48:21 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-30 04:48:21 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-30 04:48:24 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 kiendemo/decision_model_PIDS
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/kiendemo/decision_model_PIDS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 khasky/agent-privacy-shield
+     ⭐ 0  🗣 JavaScript  📅 2026-10-30
+     🔗 https://github.com/khasky/agent-privacy-shield
+     📝 Local privacy virtualization for coding agents: stable semantic aliases, secret …
+     🏷  claude, codex, coding-agent, pii, pii-redaction, plugin, privacy, redaction, security, virtualization
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 ali33/meta-security-agent
+     ⭐ 0  🗣 C++  📅 2026-10-30
+     🔗 https://github.com/ali33/meta-security-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 kpgalligan/doctored
+     ⭐ 0  🗣 Rust  📅 2026-10-30
+     🔗 https://github.com/kpgalligan/doctored
+     📝 A native macOS raster image editor: a Swift/AppKit UI over a Rust core.
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 Arkanos-Phert/soc-varejo-homelab
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/Arkanos-Phert/soc-varejo-homelab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 ForgeVanguard/dfir-osint-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-10-30
+     🔗 https://github.com/ForgeVanguard/dfir-osint-toolkit
+     📝 One-shot installers for DFIR and OSINT workstations: Windows (winget, Zimmerman …
+     🏷  bash, blue-team, dfir, forensics, incident-response, kali-linux, osint, powershell
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 Deivisan/qcy-h3s-windows
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/Deivisan/qcy-h3s-windows
+     📝 QCY H3S controller para Windows - app PySide6 + MCP server (48+ tools) sobre BLE…
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 irobust/Bluetooth-Security
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/irobust/Bluetooth-Security
+     📝 BlueTooth security workshop
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 faul0010111/bastion_
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/faul0010111/bastion_
+     📝 Defensive ransomware-signal detection and file integrity protection for small bu…
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 rohantheediter-source/CYvantis
+     ⭐ 0  🗣 TypeScript  📅 2026-10-30
+     🔗 https://github.com/rohantheediter-source/CYvantis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 jeong0615/hospital-project-share-backup
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/jeong0615/hospital-project-share-backup
+     📝 Share-safe Hospital DR backup export
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 saghet/SamuLibreLinux
+     ⭐ 0  🗣 Rust  📅 2026-10-30
+     🔗 https://github.com/saghet/SamuLibreLinux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 ZeroQuarry/zq
+     ⭐ 0  🗣 Go  📅 2026-10-29
+     🔗 https://github.com/ZeroQuarry/zq
+     📝 Companion CLI for ZeroQuarry: move scan credentials to the platform without the …
+     🏷  cli, credentials, mcp, oauth, secrets-management, security
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 marysantos-sou/cript-decript
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/marysantos-sou/cript-decript
+     📝 Desafio de Cibersegurança: Simulação de Criptografia e Descriptografia com Pytho…
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 ViniciusCostaGrillo/OpenRaptor
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/ViniciusCostaGrillo/OpenRaptor
+     📝 Fork of "Raptor" to use with OpenCode
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 harfwe-jpg/filtdragons-A
+     ⭐ 1  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/harfwe-jpg/filtdragons-A
+     📝 herramineta hacking etico
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 sccastiel01/PhoneGamepadBridge
+     ⭐ 0  🗣 C#  📅 2026-10-30
+     🔗 https://github.com/sccastiel01/PhoneGamepadBridge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 JIA-PP/Obfuscator
+     ⭐ 0  🗣 C++  📅 2026-10-29
+     🔗 https://github.com/JIA-PP/Obfuscator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 AndreaBedei1/Cooperative_Forensic_Replay
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/AndreaBedei1/Cooperative_Forensic_Replay
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 bogdanticu88/agent-flight-recorder
+     ⭐ 0  🗣 Go  📅 2026-10-29
+     🔗 https://github.com/bogdanticu88/agent-flight-recorder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 Ghxstsec/ADEnumToolkit
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/Ghxstsec/ADEnumToolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 FranVV-Ecu/voice-alert-narrator
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/FranVV-Ecu/voice-alert-narrator
+     📝 Converts structured security alerts (JSON) into spoken audio briefings for SOC a…
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 NotAlexei/akuma-stealer-analysis
+     ⭐ 0  🗣 YARA  📅 2026-10-29
+     🔗 https://github.com/NotAlexei/akuma-stealer-analysis
+     📝 Reverse-engineering writeup, YARA rules and IOCs for the Akuma Stealer MaaS info…
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 paogutierrez/analizador-de-incidentes
+     ⭐ 0  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/paogutierrez/analizador-de-incidentes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 Cassequel/weave
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/Cassequel/weave
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [NEW]   🆕 📦 tsale/EDR-Telemetry-pr218-review
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/tsale/EDR-Telemetry-pr218-review
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 04:48:24 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-30 04:48:24 UTC] [UPD]   📢 📦 mortalezz/glance
+     ⭐ 3  🗣 Swift  📅 2026-10-28
+     🔗 https://github.com/mortalezz/glance
+     📝 📸 Ultra-fast native macOS photo viewer & pro culling tool ⚡ Zero-latency folder …
+     🏷  appkit, image-viewer, macos, phoenix-slides, photo-culling, photography, raw-photos, swift, xmp-sidecars
+     🔄 Motivo: repo recente (1gg)
+[2026-10-30 04:48:24 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-30 04:48:24 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-30 04:48:26 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-30 04:48:26 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-30 04:48:26 UTC] [NEW]   🆕 📦 ItsJokerZz/ps-elfldr
+     ⭐ 1  🗣 C  📅 2026-10-29
+     🔗 https://github.com/ItsJokerZz/ps-elfldr
+     📝 An ELF loader for jailbroken PS4 & 5s that accepts payloads on port 9021
+     🏷  —
+[2026-10-30 04:48:26 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-30 04:48:26 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (1gg)
+[2026-10-30 04:48:26 UTC] [UPD]   📢 📦 Anti-Anti-Anit/awesome-ps5
+     ⭐ 2  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/Anti-Anti-Anit/awesome-ps5
+     📝 GitHub projects related to PS5 with star > 50: jailbreak, homebrew, emulators, s…
+     🏷  awesome-list, awesome-ps5, dualsense, emulator, homebrew, jailbreak, playstation-5, playstation5, ps5, ps5-emulator, ps5-homebrew, ps5-jailbreak, ps5-linux, ps5-payload, remote-play, streaming
+     🔄 Motivo: repo recente (0gg)
+[2026-10-30 04:48:26 UTC] [UPD]   📢 📦 RZ3M/secure-gpu-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-29
+     🔗 https://github.com/RZ3M/secure-gpu-stack
+     📝 A security-first alternative to Lambda Stack: the same GPU/ML tools, safe defaul…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-30 04:48:26 UTC] [INFO] ============================================================
+[2026-10-30 04:48:26 UTC] [INFO] Completato — 27 nuovi, 6 aggiornati, 0 errori
+[2026-10-30 04:48:26 UTC] [INFO] ============================================================
