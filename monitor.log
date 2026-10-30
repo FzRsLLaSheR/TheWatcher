@@ -125668,3 +125668,273 @@
 [2026-10-30 04:48:26 UTC] [INFO] ============================================================
 [2026-10-30 04:48:26 UTC] [INFO] Completato — 27 nuovi, 6 aggiornati, 0 errori
 [2026-10-30 04:48:26 UTC] [INFO] ============================================================
+[2026-10-30 12:18:44 UTC] [INFO] ============================================================
+[2026-10-30 12:18:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-30 12:18:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-30 12:18:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-30 12:18:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-30 12:18:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-30 12:18:44 UTC] [INFO] ============================================================
+[2026-10-30 12:18:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-30 12:18:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-30 12:18:46 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-30 12:18:46 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-10-30 12:18:46 UTC] [NEW]   🆕 📦 MRdark-ops/TheKiller
+     ⭐ 0  🗣 C  📅 2026-10-30
+     🔗 https://github.com/MRdark-ops/TheKiller
+     📝 Collection of reversed vulnerable drivers weaponized into process killers. PPL w…
+     🏷  —
+[2026-10-30 12:18:46 UTC] [NEW]   🆕 📦 emilbaecker1970/alibi-anticheat-scan-win
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/emilbaecker1970/alibi-anticheat-scan-win
+     📝 Alibi v2026: a read-only Windows forensic anti-cheat scanner for threat hunting …
+     🏷  —
+[2026-10-30 12:18:46 UTC] [NEW]   🆕 📦 Gorstaks/Behavedr
+     ⭐ 0  🗣 C#  📅 2026-10-30
+     🔗 https://github.com/Gorstaks/Behavedr
+     📝 Behavioral EDR agent with real-time detection and configurable response.
+     🏷  behavioral-detection, cross-platform, edr, security, threat-detection
+[2026-10-30 12:18:46 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-30 12:18:46 UTC] [UPD]   📢 📦 afu-it/wa-zip-cleaner
+     ⭐ 9  🗣 PowerShell  📅 2026-10-22
+     🔗 https://github.com/afu-it/wa-zip-cleaner
+     📝 Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni…
+     🏷  cybersecurity, incident-response, malaysia, malware, malware-analysis, powershell, silverfox, valleyrat, whatsapp, windows, winos, yara
+     🔄 Motivo: repo recente (7gg)
+[2026-10-30 12:18:46 UTC] [UPD]   📢 📦 skbskhud/p104-unlock-v3
+     ⭐ 3  🗣 Batchfile  📅 2026-10-28
+     🔗 https://github.com/skbskhud/p104-unlock-v3
+     📝 P104-100 (GP104) Windows tool: PCIe Gen2 x4 unlock (0.78 -> 1.55 GB/s measured) …
+     🏷  gen2, gp104, gpu, mining-card, nvidia, p104-100, p106-100, pcie, unlock, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-10-30 12:18:46 UTC] [UPD]   📢 📦 maiconzeraxd/hyperv-console-mcp
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/maiconzeraxd/hyperv-console-mcp
+     📝 Local MCP server for Hyper-V management, guest automation, console input, and Wi…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-30 12:18:46 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-30 12:18:46 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-30 12:18:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 34 NUOVI repository:
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 mubeakungu/vlan
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/mubeakungu/vlan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 syrex1013/clickfix-lab
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/syrex1013/clickfix-lab
+     📝 ClickFix social-engineering attack lab — lure page + LOLBin payload module for r…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 P2898/Solar-Farm-Watchman
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/P2898/Solar-Farm-Watchman
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 vrushanksabale/yuva-security-fundamentals-assessment
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/vrushanksabale/yuva-security-fundamentals-assessment
+     📝 Yuva Internship - Security Fundamentals Assessment covering SOC operations, cybe…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 ppsrinivasan-cyber/agentwatch
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/ppsrinivasan-cyber/agentwatch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 arowhomvp/SOC-Analyst-Journey
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/arowhomvp/SOC-Analyst-Journey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 0x1nnx/linux-blueteam-triage-tool
+     ⭐ 0  🗣 Shell  📅 2026-10-30
+     🔗 https://github.com/0x1nnx/linux-blueteam-triage-tool
+     📝 A Linux Blue Team triage and security auditing tool for collecting system, netwo…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 love-code-yeyixiao/UIA-UF
+     ⭐ 1  🗣 C++  📅 2026-10-30
+     🔗 https://github.com/love-code-yeyixiao/UIA-UF
+     📝 用于支持多软件执行UIAccess权限提升的自动化统一管理框架
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 kumarbarupalsandeep-max/DeviceDesk
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/kumarbarupalsandeep-max/DeviceDesk
+     📝 DeviceDesk
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 SieBRUM/dotnetpacket
+     ⭐ 0  🗣 C#  📅 2026-10-29
+     🔗 https://github.com/SieBRUM/dotnetpacket
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 MRdark-ops/TheKiller
+     ⭐ 0  🗣 C  📅 2026-10-30
+     🔗 https://github.com/MRdark-ops/TheKiller
+     📝 Collection of reversed vulnerable drivers weaponized into process killers. PPL w…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 solidevil14/php2shell-detections
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/solidevil14/php2shell-detections
+     📝 Suricata rules + CI-proven regression suite for the php2shell PHP RCE chain (CVE…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 Harshmcodes/AI-Ransomware-Detection-System
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/Harshmcodes/AI-Ransomware-Detection-System
+     📝 AI-powered Ransomware Guard & EDR for Windows — Live behavioral burst detection,…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 Devops-de/ai-cybersecurity-threat-detection
+     ⭐ 0  🗣 TypeScript  📅 2026-10-30
+     🔗 https://github.com/Devops-de/ai-cybersecurity-threat-detection
+     📝 Enterprise AI-Powered Cybersecurity Threat Detection & Autonomous SOC Response P…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 SuhasJadhavSJ/soc-analyst-investigation-labs
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/SuhasJadhavSJ/soc-analyst-investigation-labs
+     📝 This is shows all the investigation performed on a real Monitoring Dashboard pro…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 siddhika96-hub/TNS_Cyber_T170800325
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/siddhika96-hub/TNS_Cyber_T170800325
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 aimiliya825/codex-desktop-zh-cn
+     ⭐ 0  🗣 PowerShell  📅 2026-10-30
+     🔗 https://github.com/aimiliya825/codex-desktop-zh-cn
+     📝 Codex Desktop 中文汉化工具：纯 PowerShell + Node 一键汉化，不修改 app.asar/WindowsApps，支持安全启动、还原…
+     🏷  chinese-localization, codex, electron, i18n, powershell, windows
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 quahd/detect_hook
+     ⭐ 0  🗣 XSLT  📅 2026-10-30
+     🔗 https://github.com/quahd/detect_hook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 harshongh4t/edrf-xclient-deploy
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/harshongh4t/edrf-xclient-deploy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 praveen-pravi6B/ghostwatch
+     ⭐ 0  🗣 JavaScript  📅 2026-10-30
+     🔗 https://github.com/praveen-pravi6B/ghostwatch
+     📝 Local-first AI investigation tool for unusual computer activity. Hacktoberfest 2…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 t0m-a/Semantic-RAG-Interactive-Knowledge-Base-Graph-Web-Application
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/t0m-a/Semantic-RAG-Interactive-Knowledge-Base-Graph-Web-Application
+     📝 Full-stack Hybrid Semantic RAG Knowledge Base & Interactive Force-Directed Topic…
+     🏷  cloudflare-d1, cloudflare-vectorize, cloudflare-workers, cmdb, fastapi, fts5, hybrid-search, knowledge-base, knowledge-graph, knowledge-management, llm, rag, reciprocal-rank-fusion, semantic-search, sqlite, workers-ai
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 mhd6192-jpg/cyber-risk-portfolio
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/mhd6192-jpg/cyber-risk-portfolio
+     📝 Power BI dashboard that manages cybersecurity as an investment portfolio: risk i…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 Investigator-S/Investigator-S
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/Investigator-S/Investigator-S
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 un-the-et-un-cafe/bastionglass
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/un-the-et-un-cafe/bastionglass
+     📝 BastionGlass: bounded, privacy-conscious workspace security observations with au…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 ahmedhany-cys/traceforge-digital-forensics
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/ahmedhany-cys/traceforge-digital-forensics
+     📝 TraceForge – Digital Forensics & Threat Investigation Platform: EVTX, browser, l…
+     🏷  chain-of-custody, cybersecurity, dfir, digital-forensics, evtx, fastapi, incident-response, malware-analysis, react, yara
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 Llunatics/llinea
+     ⭐ 0  🗣 JavaScript  📅 2026-10-30
+     🔗 https://github.com/Llunatics/llinea
+     📝 Incident / forensic timeline normalizer: multi-format, multi-timezone logs into …
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 JJF05-Cyber/CyberSecurity-Projects
+     ⭐ 0  🗣 N/A  📅 2026-10-29
+     🔗 https://github.com/JJF05-Cyber/CyberSecurity-Projects
+     📝 Hands-on cybersecurity labs and projects covering offensive and defensive securi…
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 tanvir-rayhan-akash/fb-brightness-fix-spes-repo.zip
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/tanvir-rayhan-akash/fb-brightness-fix-spes-repo.zip
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 tokkernceo/tokkernceo
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/tokkernceo/tokkernceo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 Zainab-Ali-Arain/SentinelOS
+     ⭐ 0  🗣 Python  📅 2026-10-29
+     🔗 https://github.com/Zainab-Ali-Arain/SentinelOS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 Gorstaks/Behavedr
+     ⭐ 0  🗣 C#  📅 2026-10-30
+     🔗 https://github.com/Gorstaks/Behavedr
+     📝 Behavioral EDR agent with real-time detection and configurable response.
+     🏷  behavioral-detection, cross-platform, edr, security, threat-detection
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 RajInderSinghGulati/K-Sentinel
+     ⭐ 0  🗣 C  📅 2026-10-30
+     🔗 https://github.com/RajInderSinghGulati/K-Sentinel
+     📝 K-Sentinel
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 theVugy/Training-Repo
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/theVugy/Training-Repo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [NEW]   🆕 📦 LoOp575/Exp
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/LoOp575/Exp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:50 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-10-30 12:18:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-30 12:18:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-30 12:18:52 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-30 12:18:52 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-10-30 12:18:52 UTC] [NEW]   🆕 📦 m01000xd/CVE-2024-30090
+     ⭐ 0  🗣 C  📅 2026-10-30
+     🔗 https://github.com/m01000xd/CVE-2024-30090
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:52 UTC] [NEW]   🆕 📦 Xenonesis/memclean
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/Xenonesis/memclean
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:52 UTC] [NEW]   🆕 📦 aucai/Redmi-K90-CVE-2026-64560
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/aucai/Redmi-K90-CVE-2026-64560
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:52 UTC] [NEW]   🆕 📦 martinowzel/2fe6a9c4b70f
+     ⭐ 0  🗣 Shell  📅 2026-10-30
+     🔗 https://github.com/martinowzel/2fe6a9c4b70f
+     📝 PS4 BD-JB and PS4 14.00 security research documentation
+     🏷  —
+[2026-10-30 12:18:52 UTC] [NEW]   🆕 📦 oldshafy-dot/ROBO-INDIA-TEST-1
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/oldshafy-dot/ROBO-INDIA-TEST-1
+     📝 .
+     🏷  —
+[2026-10-30 12:18:52 UTC] [NEW]   🆕 📦 Cyb3rCr0wCC/kernelsnitch_study
+     ⭐ 0  🗣 C  📅 2026-10-29
+     🔗 https://github.com/Cyb3rCr0wCC/kernelsnitch_study
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-30 12:18:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-30 12:18:52 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (1gg)
+[2026-10-30 12:18:52 UTC] [UPD]   📢 📦 brainztorm/zevbox
+     ⭐ 0  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/brainztorm/zevbox
+     📝 Run ACP agents (Claude, Antigravity, and local models through oMLX) for the Zed …
+     🏷  acp, agent-client-protocol, ai-agents, apple-container, claude-code, macos, rust, sandbox, zed, zed-editor
+     🔄 Motivo: repo recente (0gg)
+[2026-10-30 12:18:52 UTC] [INFO] ============================================================
+[2026-10-30 12:18:52 UTC] [INFO] Completato — 43 nuovi, 5 aggiornati, 0 errori
+[2026-10-30 12:18:52 UTC] [INFO] ============================================================
