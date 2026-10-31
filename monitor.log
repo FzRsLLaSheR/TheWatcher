@@ -126259,3 +126259,208 @@
 [2026-10-30 21:59:58 UTC] [INFO] ============================================================
 [2026-10-30 21:59:58 UTC] [INFO] Completato — 52 nuovi, 6 aggiornati, 0 errori
 [2026-10-30 21:59:58 UTC] [INFO] ============================================================
+[2026-10-31 04:32:51 UTC] [INFO] ============================================================
+[2026-10-31 04:32:51 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-31 04:32:51 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-31 04:32:51 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-31 04:32:51 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-31 04:32:51 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-31 04:32:51 UTC] [INFO] ============================================================
+[2026-10-31 04:32:51 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-31 04:32:51 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-31 04:32:53 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 04:32:53 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-10-31 04:32:53 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-31 04:32:53 UTC] [UPD]   📢 📦 maiconzeraxd/hyperv-console-mcp
+     ⭐ 0  🗣 Python  📅 2026-10-28
+     🔗 https://github.com/maiconzeraxd/hyperv-console-mcp
+     📝 Local MCP server for Hyper-V management, guest automation, console input, and Wi…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-31 04:32:53 UTC] [UPD]   📢 📦 emilbaecker1970/alibi-anticheat-scan-win
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/emilbaecker1970/alibi-anticheat-scan-win
+     📝 Alibi v2026: a read-only Windows forensic anti-cheat scanner for threat hunting …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 04:32:53 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-31 04:32:53 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-31 04:32:55 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 22 NUOVI repository:
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 annapurnalakshmi79-anu/Intelligent-Loan-Risk-Assessment-System
+     ⭐ 0  🗣 HTML  📅 2026-10-31
+     🔗 https://github.com/annapurnalakshmi79-anu/Intelligent-Loan-Risk-Assessment-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 JophielArevalo1998/tuskira-gateway-assessment
+     ⭐ 0  🗣 HTML  📅 2026-10-31
+     🔗 https://github.com/JophielArevalo1998/tuskira-gateway-assessment
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 Ju4n1337/Ju4n1337
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/Ju4n1337/Ju4n1337
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 CE47/sentinel
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/CE47/sentinel
+     📝 light-weight CLI EDR for windows / linux / mac
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 CE47/parent_checker
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/CE47/parent_checker
+     📝 light-weight cli EDR for windows in python
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 munpao/phis2evading
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/munpao/phis2evading
+     📝 Simulate Phishing Evading AV-AMSI to Reverseshell
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 Erikociber/Ransoware-keylogger-DIO
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Erikociber/Ransoware-keylogger-DIO
+     📝 Laboratório prático de cibersegurança com Python, simulando ransomware e keylogg…
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 9noel/file-pumper
+     ⭐ 1  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/9noel/file-pumper
+     📝 Exact-size file padding that doesn't corrupt the file, and a tool to detect it.
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 2m7sn/soc-ai-skills
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/2m7sn/soc-ai-skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 leanslk/simulador-malware-python
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/leanslk/simulador-malware-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 zgkn/satellite2
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/zgkn/satellite2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 ValtrofTheLeague12/DaOrcsEDR
+     ⭐ 0  🗣 HTML  📅 2026-10-31
+     🔗 https://github.com/ValtrofTheLeague12/DaOrcsEDR
+     📝 Windows EDR with agents and both dynamic and static analysis
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 p1la4r-8/soc-labs-P
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/p1la4r-8/soc-labs-P
+     📝 Public SOC & Incident Response Laboratories (Network Forensics, Threat Hunting &…
+     🏷  incident-response, malware-analysis, pcap-analysis, soc-analyst, threat-hunting, wireshark
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 Haneennalmalah/isms-starter-pack
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/Haneennalmalah/isms-starter-pack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 Priyacdhanne/SOC-Alert-Triage-System
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Priyacdhanne/SOC-Alert-Triage-System
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 Jecatatu99/projeto-seguranca-python
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/Jecatatu99/projeto-seguranca-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 osaasa/security-research-notes
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/osaasa/security-research-notes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 mrosa01/ioc-extractor
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/mrosa01/ioc-extractor
+     📝 SKILL - IOC extraction
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 schmitt-24/homelab-infrastructure
+     ⭐ 0  🗣 N/A  📅 2026-10-30
+     🔗 https://github.com/schmitt-24/homelab-infrastructure
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 ahmed35636/jev-triage
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/ahmed35636/jev-triage
+     📝 Windows event classification and confidence-aware review routing with TypeSafe J…
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 Xazratbek/cymatica
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/Xazratbek/cymatica
+     📝 Golden sand that dances to your music — a Chladni-figure always-on display for m…
+     🏷  —
+[2026-10-31 04:32:55 UTC] [NEW]   🆕 📦 root-vinicius/-projeto-malware-simulado---bootcamp-santander-dio
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/root-vinicius/-projeto-malware-simulado---bootcamp-santander-dio
+     📝 Simulação educacional de Ransomware e Keylogger em Python | Bootcamp Santander C…
+     🏷  —
+[2026-10-31 04:32:55 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-31 04:32:55 UTC] [UPD]   📢 📦 iamitgandhi/s20-ultra-5G_SM-G988N_Bluetooth-Disconnection-Fix
+     ⭐ 0  🗣 Shell  📅 2026-10-30
+     🔗 https://github.com/iamitgandhi/s20-ultra-5G_SM-G988N_Bluetooth-Disconnection-Fix
+     📝 Permanent fix for Bluetooth disconnections, Watch6 Classic RFCOMM drops, A2DP au…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 04:32:55 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-31 04:32:55 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-31 04:32:57 UTC] [INFO]   → 14 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 04:32:57 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-31 04:32:57 UTC] [NEW]   🆕 📦 jbjbjbj236-arch/PS4-WebKit-14.00
+     ⭐ 0  🗣 HTML  📅 2026-10-31
+     🔗 https://github.com/jbjbjbj236-arch/PS4-WebKit-14.00
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:57 UTC] [NEW]   🆕 📦 dowddd2022-dev/Bita
+     ⭐ 0  🗣 JavaScript  📅 2026-10-31
+     🔗 https://github.com/dowddd2022-dev/Bita
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 04:32:57 UTC] [UPD]   📢 7 repository AGGIORNATI:
+[2026-10-31 04:32:57 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (2gg)
+[2026-10-31 04:32:57 UTC] [UPD]   📢 📦 oniz93/ps5-14.10-research
+     ⭐ 1  🗣 HTML  📅 2026-10-29
+     🔗 https://github.com/oniz93/ps5-14.10-research
+     📝 PS5 boot-chain and WebKit research: firmware tooling, OSS source analysis, local…
+     🏷  firmware-analysis, ps5, reverse-engineering, security-research, webkit
+     🔄 Motivo: repo recente (1gg)
+[2026-10-31 04:32:57 UTC] [UPD]   📢 📦 Xenonesis/memclean
+     ⭐ 1  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/Xenonesis/memclean
+     📝 MemClean is a high-performance, open-source Windows memory optimization daemon a…
+     🏷  memory-management, tool, windows
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 04:32:57 UTC] [UPD]   📢 📦 Anti-Anti-Anit/awesome-ps5
+     ⭐ 8  🗣 JavaScript  📅 2026-10-29
+     🔗 https://github.com/Anti-Anti-Anit/awesome-ps5
+     📝 GitHub projects related to PS5 with star > 50: jailbreak, homebrew, emulators, s…
+     🏷  awesome-list, awesome-ps5, dualsense, emulator, homebrew, jailbreak, playstation-5, playstation5, ps5, ps5-emulator, ps5-homebrew, ps5-jailbreak, ps5-linux, ps5-payload, remote-play, streaming
+     🔄 Motivo: repo recente (1gg)
+[2026-10-31 04:32:57 UTC] [UPD]   📢 📦 RZ3M/secure-gpu-stack
+     ⭐ 0  🗣 Shell  📅 2026-10-29
+     🔗 https://github.com/RZ3M/secure-gpu-stack
+     📝 A security-first alternative to Lambda Stack: the same GPU/ML tools, safe defaul…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-31 04:32:57 UTC] [UPD]   📢 📦 axela7149-art/MACIELPROXYEXTERNAL
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/axela7149-art/MACIELPROXYEXTERNAL
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 04:32:57 UTC] [UPD]   📢 📦 quirecms/server
+     ⭐ 0  🗣 PHP  📅 2026-10-27
+     🔗 https://github.com/quirecms/server
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-31 04:32:57 UTC] [INFO] ============================================================
+[2026-10-31 04:32:57 UTC] [INFO] Completato — 24 nuovi, 10 aggiornati, 0 errori
+[2026-10-31 04:32:57 UTC] [INFO] ============================================================
