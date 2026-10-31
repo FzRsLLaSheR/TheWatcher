@@ -126974,3 +126974,221 @@
 [2026-10-31 16:57:09 UTC] [INFO] ============================================================
 [2026-10-31 16:57:09 UTC] [INFO] Completato — 37 nuovi, 9 aggiornati, 0 errori
 [2026-10-31 16:57:09 UTC] [INFO] ============================================================
+[2026-10-31 21:07:41 UTC] [INFO] ============================================================
+[2026-10-31 21:07:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-31 21:07:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-31 21:07:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-31 21:07:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-31 21:07:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-31 21:07:41 UTC] [INFO] ============================================================
+[2026-10-31 21:07:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-31 21:07:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-31 21:07:43 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 21:07:43 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-31 21:07:43 UTC] [NEW]   🆕 📦 overthinker1337/CypherDissect
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/overthinker1337/CypherDissect
+     📝 CypherDissect - Enterprise Malware Reverse Engineering & Threat Intelligence Sta…
+     🏷  —
+[2026-10-31 21:07:43 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-31 21:07:43 UTC] [UPD]   📢 📦 emilbaecker1970/alibi-anticheat-scan-win
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/emilbaecker1970/alibi-anticheat-scan-win
+     📝 Alibi v2026: a read-only Windows forensic anti-cheat scanner for threat hunting …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-31 21:07:43 UTC] [UPD]   📢 📦 Dornkimik/vigil
+     ⭐ 0  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/Dornkimik/vigil
+     📝 Lightweight Rust malware scanner for Windows that supplements Microsoft Defender…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-31 21:07:43 UTC] [UPD]   📢 📦 angelmisael-sec/security-homelab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-29
+     🔗 https://github.com/angelmisael-sec/security-homelab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-10-31 21:07:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-31 21:07:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-31 21:07:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cloud-Security-Threat-Detection
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Cloud-Security-Threat-Detection
+     📝 Top Cloud Security Threat Detection (Opensource)  Star if you like it! 
+     🏷  awesome-list, cloud-security, cnapp, cspm, curated-list, threat-detection
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 rudramodi005/Snaresight
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/rudramodi005/Snaresight
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 Suredials/SWEET-BERRY
+     ⭐ 1  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Suredials/SWEET-BERRY
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 jermainebailey03/Threat-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/jermainebailey03/Threat-Hunting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 kredoxi/architecture
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/kredoxi/architecture
+     📝 Kredoxi product architecture, requirements, threat model, and design decisions
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 Janice977/soc-n1-security-monitoring-lab
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Janice977/soc-n1-security-monitoring-lab
+     📝 Laboratório prático de SOC N1 com análise de logs, detecção de eventos suspeitos…
+     🏷  blue-team, cybersecurity, incident-response, log-analysis, python, security-monitoring, soc, soc-analyst
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 fredimrc007-ops/StichWizard
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/fredimrc007-ops/StichWizard
+     📝 StichWizard – Sticksoftware für Linux und Windows
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 overthinker1337/CypherDissect
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/overthinker1337/CypherDissect
+     📝 CypherDissect - Enterprise Malware Reverse Engineering & Threat Intelligence Sta…
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 nheradevs/soc2-incident-analyzer
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/nheradevs/soc2-incident-analyzer
+     📝 SOC L2 incident analyzer: deterministic detection over a SIEM Excel export, impa…
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 NikoRNK/phishscope
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/NikoRNK/phishscope
+     📝 Boîte à outils d'investigation de phishing pour analystes SOC : forensique d'en-…
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 kaiquetheo-star/dio-ransomware-keylogger-sim
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/kaiquetheo-star/dio-ransomware-keylogger-sim
+     📝 Ransomware e keylogger simulados em Python (Fernet + pynput) - lab educacional D…
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 erdmoks/blinder-tunnel-runtimebroker-analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/erdmoks/blinder-tunnel-runtimebroker-analysis
+     📝 BlinderTunnel Varyantı - RuntimeBroker.dll Analizi
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 Awmcybersec/AWM-SOC-Project
+     ⭐ 0  🗣 TypeScript  📅 2026-10-31
+     🔗 https://github.com/Awmcybersec/AWM-SOC-Project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 Sanku231/Endpoint-Ransomware-SOAR-Lab
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Sanku231/Endpoint-Ransomware-SOAR-Lab
+     📝 Python-based EDR simulation and SOAR framework that detects ransomware file muta…
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 bharathgaddam1712/TRACE
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/bharathgaddam1712/TRACE
+     📝 Demo Project
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 SAMEER-MLPROJECT/INV_TOOL
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/SAMEER-MLPROJECT/INV_TOOL
+     📝 INVESTIGATION_TOOL_02
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cloud-Native-Cybersecurity-Platform
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Cloud-Native-Cybersecurity-Platform
+     📝 Top Cloud Native Cybersecurity Platform (Opensource)  Star if you like it! 
+     🏷  awesome-list, cloud-native, cnapp, curated-list, cybersecurity, siem, xdr
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 mominabrarm/keylogger-simulator
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/mominabrarm/keylogger-simulator
+     📝 A Python-based Keylogger Simulator that demonstrates keyboard event handling and…
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 leptokaria/leptokaria
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/leptokaria/leptokaria
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 sunilnaidu265/vigil-mdr-showcase
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/sunilnaidu265/vigil-mdr-showcase
+     📝 Showcase of Vigil MDR, a personal detection and response lab. Screenshots use de…
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 bizidwassim-design/soc-detection-playbooks
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/bizidwassim-design/soc-detection-playbooks
+     📝 Sigma detection rules, SOC playbooks and MITRE ATT&CK mapping for SMB security t…
+     🏷  blue-team, cybersecurity, detection-engineering, incident-response, mitre-attack, playbooks, sigma, sigma-rules, soc
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 vardhanrote/CyberAgent
+     ⭐ 0  🗣 HTML  📅 2026-10-31
+     🔗 https://github.com/vardhanrote/CyberAgent
+     📝 Agent-Assisted Network Threat Detection and Investigation
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 arian-gravandnia/ShLoader256
+     ⭐ 0  🗣 C  📅 2026-10-31
+     🔗 https://github.com/arian-gravandnia/ShLoader256
+     📝 A C++ and Python-based Windows project exploring per-byte SHA-256 hashing, XOR-b…
+     🏷  —
+[2026-10-31 21:07:46 UTC] [NEW]   🆕 📦 Johnny-Wickky/Johnny-Wickky
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/Johnny-Wickky/Johnny-Wickky
+     📝 1NF0S3C / S0C / 0S1NT / 4I
+     🏷  —
+[2026-10-31 21:07:46 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-31 21:07:46 UTC] [UPD]   📢 📦 coldman07/SentinelForge
+     ⭐ 0  🗣 Rust  📅 2026-10-31
+     🔗 https://github.com/coldman07/SentinelForge
+     📝 Agentic AI-driven EDR framework for Windows & Linux: hybrid rule + UEBA detectio…
+     🏷  agentic-ai, blueteam, cybersecurity, edr, endpoint-security, fastapi, incident-response, linux, python, siem, threat-detection, ueba, windows
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 21:07:46 UTC] [UPD]   📢 📦 Avi007-debug/PathWarden
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Avi007-debug/PathWarden
+     📝 PathWarden - Evidence-Driven Cyber Attack Path Reconstruction & Threat Investiga…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 21:07:46 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-31 21:07:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-31 21:07:48 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 21:07:48 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-10-31 21:07:48 UTC] [NEW]   🆕 📦 gernottutner-net/ansible-agent-sandbox
+     ⭐ 0  🗣 Jinja  📅 2026-10-31
+     🔗 https://github.com/gernottutner-net/ansible-agent-sandbox
+     📝 A sandbox for agentic coding on VirtualBox
+     🏷  —
+[2026-10-31 21:07:48 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cloud-Security-Threat-Detection
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Cloud-Security-Threat-Detection
+     📝 Top Cloud Security Threat Detection (Opensource)  Star if you like it! 
+     🏷  awesome-list, cloud-security, cnapp, cspm, curated-list, threat-detection
+[2026-10-31 21:07:48 UTC] [NEW]   🆕 📦 ariszaharia/sandbox
+     ⭐ 0  🗣 Java  📅 2026-10-31
+     🔗 https://github.com/ariszaharia/sandbox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 21:07:48 UTC] [NEW]   🆕 📦 sifatnotes/secbyte-web-appsec-kernel-cve-cryptography-ctf-labs
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/sifatnotes/secbyte-web-appsec-kernel-cve-cryptography-ctf-labs
+     📝 A practical collection of cybersecurity CTF labs covering Web Application Securi…
+     🏷  —
+[2026-10-31 21:07:48 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-31 21:07:48 UTC] [UPD]   📢 📦 luanzzkribeirozzk-design/PAINEL-EXTERNAL-IOS-SNAPCHAT-ORIGINAL
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/luanzzkribeirozzk-design/PAINEL-EXTERNAL-IOS-SNAPCHAT-ORIGINAL
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 21:07:48 UTC] [UPD]   📢 📦 ElenaViewSynthesis/GymSIEGE
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/ElenaViewSynthesis/GymSIEGE
+     📝  ▎ Fleet-evaluation harness for security-agent benchmarks 𝗖𝘆𝗯𝗲𝗿𝗚𝘆𝗺-𝗘𝟮𝗘, 𝗘𝘅𝗽𝗹𝗼𝗶𝘁𝗚…
+     🏷  arvo, asan-global-buffer-overflow, aslr-entropy, audit-loop, binaries, cve, cybergym, docker, exploit-gym, futex, fuzzing, landlock, libdwarf, libxml2-uaf, msan, net-snmp, patch, qemu-kvm, rce, ubsan
+     🔄 Motivo: nuovi topic: landlock
+[2026-10-31 21:07:48 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (2gg)
+[2026-10-31 21:07:48 UTC] [INFO] ============================================================
+[2026-10-31 21:07:48 UTC] [INFO] Completato — 29 nuovi, 8 aggiornati, 0 errori
+[2026-10-31 21:07:48 UTC] [INFO] ============================================================
