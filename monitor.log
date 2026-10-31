@@ -126464,3 +126464,249 @@
 [2026-10-31 04:32:57 UTC] [INFO] ============================================================
 [2026-10-31 04:32:57 UTC] [INFO] Completato — 24 nuovi, 10 aggiornati, 0 errori
 [2026-10-31 04:32:57 UTC] [INFO] ============================================================
+[2026-10-31 11:49:56 UTC] [INFO] ============================================================
+[2026-10-31 11:49:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-31 11:49:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-31 11:49:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-31 11:49:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-31 11:49:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-31 11:49:56 UTC] [INFO] ============================================================
+[2026-10-31 11:49:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-31 11:49:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-31 11:49:58 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 11:49:58 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-31 11:49:58 UTC] [NEW]   🆕 📦 Vulndisclosure/Sharp-GuardKill
+     ⭐ 0  🗣 C#  📅 2026-10-31
+     🔗 https://github.com/Vulndisclosure/Sharp-GuardKill
+     📝 Disable Credential Guard in runtime without BYOVD and BSOD!
+     🏷  —
+[2026-10-31 11:49:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-10-31 11:49:58 UTC] [UPD]   📢 📦 emilbaecker1970/alibi-anticheat-scan-win
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/emilbaecker1970/alibi-anticheat-scan-win
+     📝 Alibi v2026: a read-only Windows forensic anti-cheat scanner for threat hunting …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-31 11:49:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-31 11:49:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-31 11:50:00 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 Bare009/cyberforge-kill-chain
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Bare009/cyberforge-kill-chain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 caijiye/embodied-data-relay
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/caijiye/embodied-data-relay
+     📝 具身数据驿｜边缘减量·冷热分层·弱网快传
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 Z3R0x7/TraceWeave
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Z3R0x7/TraceWeave
+     📝 Evidence-linked security log analysis engine and investigation application
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 aroh3006/Config-driven-security-integration-platform
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/aroh3006/Config-driven-security-integration-platform
+     📝 Connect a new data source by writing a config file, not code.
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 Avi007-debug/PathWarden
+     ⭐ 0  🗣 TypeScript  📅 2026-10-31
+     🔗 https://github.com/Avi007-debug/PathWarden
+     📝 PathWarden - Evidence-Driven Cyber Attack Path Reconstruction & Threat Investiga…
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 safwan447/chainsight-ai
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/safwan447/chainsight-ai
+     📝 AI-powered Kill Chain and Attack Path Reconstruction
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 shoaibakhtar77/malware-ioc-extractor
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/shoaibakhtar77/malware-ioc-extractor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 morethanwoman/powergridarchitecture
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/morethanwoman/powergridarchitecture
+     📝 Purdue Architecture
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 Ayazk726/ProxyProtocolAdapter
+     ⭐ 1  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Ayazk726/ProxyProtocolAdapter
+     📝 Proxy Protocol Adapter 是一个面向 Windows 的适配器基于Python，用于让不支持 PROXY protocol v2 协议的 U…
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 nuaw26/disaster-recovery-pricing
+     ⭐ 1  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/nuaw26/disaster-recovery-pricing
+     📝 disaster recovery as a service: What It Actually Costs, How Sharktech's $4/Month…
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 ygck93/acronis-cyberprotect-pricing
+     ⭐ 1  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ygck93/acronis-cyberprotect-pricing
+     📝 acronis cyberprotect：$4/月起的托管备份方案，小团队不用买许可证也能用上 Acronis
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 felipewatter/sentinel-fim
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/felipewatter/sentinel-fim
+     📝 Cross-platform file integrity monitoring tool with SHA-256, HMAC-authenticated b…
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 cuong-nguyenvan/tpgreg
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/cuong-nguyenvan/tpgreg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 SodiumHypo/chrome-auto-connect-win
+     ⭐ 0  🗣 JavaScript  📅 2026-10-31
+     🔗 https://github.com/SodiumHypo/chrome-auto-connect-win
+     📝 Windows port of chrome-auto-connect: automatically accepts Chrome's remote debug…
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 ErTapanJatakia/ErTapanJatakia
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ErTapanJatakia/ErTapanJatakia
+     📝 GitHub profile.
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 dobin/defender_observer
+     ⭐ 0  🗣 C#  📅 2026-10-31
+     🔗 https://github.com/dobin/defender_observer
+     📝 Collect Defender Telemetry/Logs
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 YogeshReddydev/PHANTOM
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/YogeshReddydev/PHANTOM
+     📝 Local-first AI-powered Windows endpoint security monitoring and investigation pl…
+     🏷  cybersecurity, endpoint-security, fastapi, incident-response, local-ai, ollama, python, threat-intelligence, windows-security
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 idexal/idexal-Assistant
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/idexal/idexal-Assistant
+     📝 idexal Smart AI Browser Assistant - official signed releases
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 gr33nwire/EDR-Sandbox
+     ⭐ 0  🗣 HTML  📅 2026-10-31
+     🔗 https://github.com/gr33nwire/EDR-Sandbox
+     📝 This is a simulated EDR Environment
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 kaandgnsh/Claude-Blue
+     ⭐ 1  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/kaandgnsh/Claude-Blue
+     📝 Defensive cybersecurity skill library for Claude Code: 253 task-specific skills …
+     🏷  agent-skills, blue-team, claude-code, claude-skills, cloud-security, cybersecurity, detection-engineering, dfir, incident-response, security-tools, sigma, soc, threat-hunting, yara
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 Eshan-R/CaseFile
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Eshan-R/CaseFile
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 iamthearafatkhan/khan-trapmind
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/iamthearafatkhan/khan-trapmind
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Security-Orchestration-Automation-Response-Soar
+     ⭐ 1  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Security-Orchestration-Automation-Response-Soar
+     📝 Top Security Orchestration Automation Response Soar (Opensource)  Star if you li…
+     🏷  awesome-list, curated-list, incident-response, security-automation, soar, soc
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 kelish205/ir-triage-powershell
+     ⭐ 0  🗣 PowerShell  📅 2026-10-31
+     🔗 https://github.com/kelish205/ir-triage-powershell
+     📝 Read-only PowerShell live response collection for Windows hosts
+     🏷  blue-team, dfir, incident-response, powershell, windows
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 Indravardhan1/Multi-Module-Cyberthreat-detection
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Indravardhan1/Multi-Module-Cyberthreat-detection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 vikash88-star/Trixar
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/vikash88-star/Trixar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Small-Business-Endpoint-Protection
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Small-Business-Endpoint-Protection
+     📝 Top Small Business Endpoint Protection (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, edr, endpoint-protection, endpoint-security
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 praveenakrishnamoorthy771-cmyk/trace-X
+     ⭐ 0  🗣 JavaScript  📅 2026-10-31
+     🔗 https://github.com/praveenakrishnamoorthy771-cmyk/trace-X
+     📝 TACTICAL RECONSTRUCTION AND CYBER EVIDENCE EXPLORER: A CYBERSECURITY INVESTIGATI…
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 sujithkdev/sam1
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/sujithkdev/sam1
+     📝 BehEDR behavioral endpoint detection research prototype
+     🏷  —
+[2026-10-31 11:50:00 UTC] [NEW]   🆕 📦 acseguin21/ai-data-exfil-detection
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/acseguin21/ai-data-exfil-detection
+     📝 Detection content for unsolicited network egress & data exfiltration by AI-agent…
+     🏷  ai-security, blue-team, cloud-security, detection-as-code, detection-engineering, dfir, egress, exfiltration, falco, llm-security, mitre-attack, sigma, sigma-rules, soc, threat-detection
+[2026-10-31 11:50:00 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-31 11:50:00 UTC] [UPD]   📢 📦 sorayuki/obs-bt2446
+     ⭐ 1  🗣 CMake  📅 2026-10-27
+     🔗 https://github.com/sorayuki/obs-bt2446
+     📝 hdr to sdr conversion plugin using bt.2446
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-10-31 11:50:00 UTC] [UPD]   📢 📦 chemharuka/photons
+     ⭐ 0  🗣 Swift  📅 2026-10-25
+     🔗 https://github.com/chemharuka/photons
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-10-31 11:50:00 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-31 11:50:00 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-31 11:50:02 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 11:50:02 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-10-31 11:50:02 UTC] [NEW]   🆕 📦 CosminMilica/statewall
+     ⭐ 0  🗣 Go  📅 2026-10-31
+     🔗 https://github.com/CosminMilica/statewall
+     📝 In-kernel, zero-allocation threat mitigation. Blocks multi-stage attacks before …
+     🏷  —
+[2026-10-31 11:50:02 UTC] [NEW]   🆕 📦 minhtruonggggg2000-sudo/proxyios
+     ⭐ 0  🗣 Swift  📅 2026-10-31
+     🔗 https://github.com/minhtruonggggg2000-sudo/proxyios
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:02 UTC] [NEW]   🆕 📦 vantacorehq/-route-void
+     ⭐ 0  🗣 Rust  📅 2026-10-31
+     🔗 https://github.com/vantacorehq/-route-void
+     📝 Autonomous BGP Hijacking Framework. Global traffic interception. The internet ro…
+     🏷  —
+[2026-10-31 11:50:02 UTC] [NEW]   🆕 📦 minhtruonggggg2000-sudo/suocproxy
+     ⭐ 0  🗣 Swift  📅 2026-10-31
+     🔗 https://github.com/minhtruonggggg2000-sudo/suocproxy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:02 UTC] [NEW]   🆕 📦 45h0kg/synapseos
+     ⭐ 0  🗣 Nix  📅 2026-10-31
+     🔗 https://github.com/45h0kg/synapseos
+     📝 Declarative, air-gapped AI red-teaming and network threat intelligence Linux dis…
+     🏷  —
+[2026-10-31 11:50:02 UTC] [NEW]   🆕 📦 xx19832300332/quickstart-evidence
+     ⭐ 1  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/xx19832300332/quickstart-evidence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 11:50:02 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-31 11:50:02 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (2gg)
+[2026-10-31 11:50:02 UTC] [UPD]   📢 📦 Xenonesis/memclean
+     ⭐ 1  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/Xenonesis/memclean
+     📝 MemClean is a high-performance, open-source Windows memory optimization daemon a…
+     🏷  memory-management, tool, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-10-31 11:50:02 UTC] [UPD]   📢 📦 oldshafy-dot/ROBO-INDIA-TEST-1
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/oldshafy-dot/ROBO-INDIA-TEST-1
+     📝 .
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-31 11:50:02 UTC] [INFO] ============================================================
+[2026-10-31 11:50:02 UTC] [INFO] Completato — 37 nuovi, 6 aggiornati, 0 errori
+[2026-10-31 11:50:02 UTC] [INFO] ============================================================
