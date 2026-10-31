@@ -126710,3 +126710,267 @@
 [2026-10-31 11:50:02 UTC] [INFO] ============================================================
 [2026-10-31 11:50:02 UTC] [INFO] Completato — 37 nuovi, 6 aggiornati, 0 errori
 [2026-10-31 11:50:02 UTC] [INFO] ============================================================
+[2026-10-31 16:57:02 UTC] [INFO] ============================================================
+[2026-10-31 16:57:02 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-10-31 16:57:02 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-10-31 16:57:02 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-10-31 16:57:02 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-10-31 16:57:02 UTC] [INFO] Token GitHub: ✓ presente
+[2026-10-31 16:57:02 UTC] [INFO] ============================================================
+[2026-10-31 16:57:02 UTC] [INFO] Query: 'byovd-killers'
+[2026-10-31 16:57:02 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-10-31 16:57:04 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 16:57:04 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-10-31 16:57:04 UTC] [NEW]   🆕 📦 levicecompte/win11cybersecure
+     ⭐ 0  🗣 PowerShell  📅 2026-10-31
+     🔗 https://github.com/levicecompte/win11cybersecure
+     📝 win11cybersecure
+     🏷  —
+[2026-10-31 16:57:04 UTC] [NEW]   🆕 📦 MacAwad/whatsapp-valleyrat-analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/MacAwad/whatsapp-valleyrat-analysis
+     📝 WhatsApp-delivered Winos 4.0 / ValleyRAT stager: DLL sideloading, BYOVD Defender…
+     🏷  byovd, dfir, malware-analysis, threat-intelligence, valleyrat
+[2026-10-31 16:57:04 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-10-31 16:57:04 UTC] [UPD]   📢 📦 emilbaecker1970/alibi-anticheat-scan-win
+     ⭐ 0  🗣 HTML  📅 2026-10-30
+     🔗 https://github.com/emilbaecker1970/alibi-anticheat-scan-win
+     📝 Alibi v2026: a read-only Windows forensic anti-cheat scanner for threat hunting …
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-31 16:57:04 UTC] [UPD]   📢 📦 skbskhud/p104-unlock-v3
+     ⭐ 11  🗣 C#  📅 2026-10-28
+     🔗 https://github.com/skbskhud/p104-unlock-v3
+     📝 P104-100 (GP104, Windows): live Gen2 x4 unlock (0 resets, ~3 s; 0.78 -> 1.57 GB/…
+     🏷  gen2, gp104, gpu, mining-card, nvidia, p104-100, p106-100, pcie, unlock, windows
+     🔄 Motivo: repo recente (3gg)
+[2026-10-31 16:57:04 UTC] [UPD]   📢 📦 bedrickov/bedrickov
+     ⭐ 0  🗣 N/A  📅 2026-10-25
+     🔗 https://github.com/bedrickov/bedrickov
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-10-31 16:57:04 UTC] [UPD]   📢 📦 bedrickov/byovd-auditor
+     ⭐ 0  🗣 Python  📅 2026-10-27
+     🔗 https://github.com/bedrickov/byovd-auditor
+     📝 Windows kernel driver enumerator and Bring-Your-Own-Vulnerable-Driver (BYOVD) se…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-10-31 16:57:04 UTC] [INFO] Query: 'edr-evasion'
+[2026-10-31 16:57:04 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-10-31 16:57:06 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 34 NUOVI repository:
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 ielderbazy/argus-edr-threat-hunting
+     ⭐ 0  🗣 JavaScript  📅 2026-10-31
+     🔗 https://github.com/ielderbazy/argus-edr-threat-hunting
+     📝 Initiated an AI-assisted educational cybersecurity prototype for endpoint threat…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 mahi80/BlueDefence
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/mahi80/BlueDefence
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 benoumessad-mohamed-el-amine/firewall-warden
+     ⭐ 0  🗣 JavaScript  📅 2026-10-31
+     🔗 https://github.com/benoumessad-mohamed-el-amine/firewall-warden
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 czxb7r/win-admin
+     ⭐ 0  🗣 PowerShell  📅 2026-10-31
+     🔗 https://github.com/czxb7r/win-admin
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 saanviinegii/SafeContain-AI
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/saanviinegii/SafeContain-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 vehpbkrby/security-playbook
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/vehpbkrby/security-playbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 iTaui/SpektraLab-Win
+     ⭐ 1  🗣 NSIS  📅 2026-10-31
+     🔗 https://github.com/iTaui/SpektraLab-Win
+     📝 SpektraLab 的 Windows 移植版 · 液态玻璃界面 · 内置 MCP 与 CLI
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 YIAN6557/x-hdr-video
+     ⭐ 0  🗣 Shell  📅 2026-10-31
+     🔗 https://github.com/YIAN6557/x-hdr-video
+     📝 在 X 上发 HDR 视频：4 次测试、8 个账号对照、正确编码方式和检查工具 · HDR video on X: tests, findings, the r…
+     🏷  ffmpeg, hdr, hlg, twitter, video-encoding, x
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 touidhasan/didlab-ibs
+     ⭐ 0  🗣 JavaScript  📅 2026-10-31
+     🔗 https://github.com/touidhasan/didlab-ibs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 kallayilaiswarya-code/elevance-cybersecurity-internship-portfolio-3.
+     ⭐ 0  🗣 Python  📅 2026-10-30
+     🔗 https://github.com/kallayilaiswarya-code/elevance-cybersecurity-internship-portfolio-3.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 rubivssingh281-lab/Edrath_baseArchi
+     ⭐ 0  🗣 C++  📅 2026-10-31
+     🔗 https://github.com/rubivssingh281-lab/Edrath_baseArchi
+     📝 Unreal Engine 5 (C++20) Open-World Dark Fantasy & Psychological Mystery Action R…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 AnfalAlkuraydis/internal-audit-manager
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/AnfalAlkuraydis/internal-audit-manager
+     📝 Phase 1-4 autonomous internal audit agent, connected React UI, simulated email a…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 sujithkdev/endpoint-behaviour-lab
+     ⭐ 0  🗣 JavaScript  📅 2026-10-31
+     🔗 https://github.com/sujithkdev/endpoint-behaviour-lab
+     📝 Windows-to-Linux endpoint telemetry lab with Wazuh collection, validated archive…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 Aadiii00/NullTrace
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Aadiii00/NullTrace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 MasterxNooh/soc-incident-report-phishing-ransomware
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/MasterxNooh/soc-incident-report-phishing-ransomware
+     📝 Comprehensive SOC Incident Response report for a phishing-to-ransomware scenario…
+     🏷  blueteam, cybersecurity, incident-response, mittre-attack, nist, phishing, soc
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 digitalpardoxxoo/LetsDefend-SOC-Investigations
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/digitalpardoxxoo/LetsDefend-SOC-Investigations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 Malohhwas/SOC-in-a-box
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/Malohhwas/SOC-in-a-box
+     📝 A virtual SOC homelab built on Proxmox VE featuring OPNsense, Wauzh, TheHive, an…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 Aakash9969/KillChain
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Aakash9969/KillChain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 kodedylf/dmi-mcp
+     ⭐ 0  🗣 C#  📅 2026-10-31
+     🔗 https://github.com/kodedylf/dmi-mcp
+     📝 MCP server til at hente DMI vejrdata
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 olinaive/DoppioDisplay
+     ⭐ 1  🗣 Swift  📅 2026-10-31
+     🔗 https://github.com/olinaive/DoppioDisplay
+     📝 Virtual displays, mirroring, picture in picture, brightness and XDR boost for ma…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 vantacorehq/ghost-loader
+     ⭐ 0  🗣 Rust  📅 2026-10-31
+     🔗 https://github.com/vantacorehq/ghost-loader
+     📝 Fileless Execution Engine. Bypassing EDR and antivirus by executing binaries dir…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 shuracodez/EdrianQuijano
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/shuracodez/EdrianQuijano
+     📝 learning to code
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 ar4vin6/ar4vin6
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ar4vin6/ar4vin6
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 security-br/threat-analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/security-br/threat-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 kira905/dsh-butler-install
+     ⭐ 0  🗣 JavaScript  📅 2026-10-30
+     🔗 https://github.com/kira905/dsh-butler-install
+     📝 Thin installer for the kira905 DSH butler suite (AGPL-3.0 + commercial license)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 doon10/DesertShade-Malware-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/doon10/DesertShade-Malware-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 vaaw481/sharktech-acronis-analysis
+     ⭐ 1  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/vaaw481/sharktech-acronis-analysis
+     📝 data backup software: what Sharktech's $4/month Acronis plan actually covers, wh…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 coldman07/SentinelForge
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/coldman07/SentinelForge
+     📝 Agentic AI-driven EDR framework for Windows & Linux: hybrid rule + UEBA detectio…
+     🏷  agentic-ai, blueteam, cybersecurity, edr, endpoint-security, fastapi, incident-response, linux, python, siem, threat-detection, ueba, windows
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 edragoring73/edragoring-site
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/edragoring73/edragoring-site
+     📝 Edragoring 的练习项目
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 kayzen-lyon/kayzen-lyon
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/kayzen-lyon/kayzen-lyon
+     📝 Profil GitHub de Tarek BELHADJ — KAYZEN LYON
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 FerosC101/NULL
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/FerosC101/NULL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 PierdCasa/DNS_tunnel
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/PierdCasa/DNS_tunnel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 LakshmiMuthavarapu/cybersecurity-incident-swarm
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/LakshmiMuthavarapu/cybersecurity-incident-swarm
+     📝 Full-stack multi-agent cybersecurity operations platform with MITRE ATT&CK corre…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [NEW]   🆕 📦 garima72/GraphOps
+     ⭐ 1  🗣 JavaScript  📅 2026-10-31
+     🔗 https://github.com/garima72/GraphOps
+     📝 Graph-based security analytics for blast radius exploration, attack path analysi…
+     🏷  —
+[2026-10-31 16:57:06 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-10-31 16:57:06 UTC] [UPD]   📢 📦 Bare009/cyberforge-kill-chain
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Bare009/cyberforge-kill-chain
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 16:57:06 UTC] [UPD]   📢 📦 anhvan1999/vstream
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/anhvan1999/vstream
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-10-31 16:57:06 UTC] [INFO] Query: 'kernel-exploit'
+[2026-10-31 16:57:06 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-10-31 16:57:09 UTC] [INFO]   → 21 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-10-31 16:57:09 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-10-31 16:57:09 UTC] [NEW]   🆕 📦 UjwalNetha/online-code-judge
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/UjwalNetha/online-code-judge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-10-31 16:57:09 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-10-31 16:57:09 UTC] [UPD]   📢 📦 luanzzkribeirozzk-design/PAINEL-EXTERNAL-IOS-SNAPCHAT-ORIGINAL
+     ⭐ 0  🗣 Swift  📅 2026-10-30
+     🔗 https://github.com/luanzzkribeirozzk-design/PAINEL-EXTERNAL-IOS-SNAPCHAT-ORIGINAL
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 16:57:09 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (2gg)
+[2026-10-31 16:57:09 UTC] [UPD]   📢 📦 CosminMilica/statewall
+     ⭐ 0  🗣 Go  📅 2026-10-31
+     🔗 https://github.com/CosminMilica/statewall
+     📝 In-kernel, zero-allocation threat mitigation. Blocks multi-stage attacks before …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-10-31 16:57:09 UTC] [INFO] ============================================================
+[2026-10-31 16:57:09 UTC] [INFO] Completato — 37 nuovi, 9 aggiornati, 0 errori
+[2026-10-31 16:57:09 UTC] [INFO] ============================================================
