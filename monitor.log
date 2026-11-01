@@ -127192,3 +127192,270 @@
 [2026-10-31 21:07:48 UTC] [INFO] ============================================================
 [2026-10-31 21:07:48 UTC] [INFO] Completato — 29 nuovi, 8 aggiornati, 0 errori
 [2026-10-31 21:07:48 UTC] [INFO] ============================================================
+[2026-11-01 04:53:24 UTC] [INFO] ============================================================
+[2026-11-01 04:53:24 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-01 04:53:24 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-01 04:53:24 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-01 04:53:24 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-01 04:53:24 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-01 04:53:24 UTC] [INFO] ============================================================
+[2026-11-01 04:53:24 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-01 04:53:24 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-01 04:53:26 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-01 04:53:26 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-01 04:53:26 UTC] [NEW]   🆕 📦 dotjuice2/ransomwareChecker
+     ⭐ 0  🗣 PowerShell  📅 2026-10-31
+     🔗 https://github.com/dotjuice2/ransomwareChecker
+     📝 Portable read-only Windows triage of persistence and post-exploitation artifacts…
+     🏷  —
+[2026-11-01 04:53:26 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-01 04:53:26 UTC] [UPD]   📢 📦 skbskhud/p104-unlock-v3
+     ⭐ 11  🗣 C#  📅 2026-10-28
+     🔗 https://github.com/skbskhud/p104-unlock-v3
+     📝 P104-100 (GP104, Windows): live Gen2 x4 unlock (0 resets, ~3 s; 0.78 -> 1.57 GB/…
+     🏷  gen2, gp104, gpu, mining-card, nvidia, p104-100, p106-100, pcie, unlock, windows
+     🔄 Motivo: repo recente (3gg)
+[2026-11-01 04:53:26 UTC] [UPD]   📢 📦 angelmisael-sec/security-homelab
+     ⭐ 0  🗣 PowerShell  📅 2026-10-29
+     🔗 https://github.com/angelmisael-sec/security-homelab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-01 04:53:26 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-01 04:53:26 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-01 04:53:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 2005-Aneeshdutt/ForgeTrace
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/2005-Aneeshdutt/ForgeTrace
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 kobokdong/ATMega128A-RC-
+     ⭐ 0  🗣 Makefile  📅 2026-11-01
+     🔗 https://github.com/kobokdong/ATMega128A-RC-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 swayamiitb/D3coy_Odysssey
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/swayamiitb/D3coy_Odysssey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 notrarba/KillChain
+     ⭐ 0  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/notrarba/KillChain
+     📝 From raw security logs to reconstructed attacks — explainable detection, interac…
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 akashrdj/NetChaos
+     ⭐ 0  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/akashrdj/NetChaos
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 Abinaya-Saras/CyberTrace
+     ⭐ 0  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Abinaya-Saras/CyberTrace
+     📝 Team cyb3rknight5 | Kill Chain and Attack Path Analysis
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 gitbilelx/katyusha-v32-writeup
+     ⭐ 1  🗣 YARA  📅 2026-11-01
+     🔗 https://github.com/gitbilelx/katyusha-v32-writeup
+     📝 Static analysis write-up, IOCs, and YARA rules for the Katyusha/v32 PowerBASIC R…
+     🏷  ioc, malware-analysis, reverse-engineering, threat-intelligence, yara
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 Sksamarth/KILLCHAIN
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/Sksamarth/KILLCHAIN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 e-nweke/autonomous-vehicle-forensics
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/e-nweke/autonomous-vehicle-forensics
+     📝 Research report on reconstructing events and establishing accountability in auto…
+     🏷  automotive-security, autonomous-vehicles, can-bus, cybersecurity, digital-forensics, incident-investigation
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 erchetansoni/Self-Signed-Certificate-Generator
+     ⭐ 0  🗣 Go  📅 2026-11-01
+     🔗 https://github.com/erchetansoni/Self-Signed-Certificate-Generator
+     📝 Automate the creation of self-signed SSL/TLS certificates and root CAs for local…
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 Santhosh121805/Code-driven-Aura-
+     ⭐ 0  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Santhosh121805/Code-driven-Aura-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 Stephenade/lipid-bilayer-md-toolkit
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-11-01
+     🔗 https://github.com/Stephenade/lipid-bilayer-md-toolkit
+     📝 Analysis toolkit for MD simulations of mixed lipid bilayers: area compressibilit…
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 amankICT-gif/amanict
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/amankICT-gif/amanict
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 heiheiheiheiheihei/MiniMario
+     ⭐ 0  🗣 C  📅 2026-11-01
+     🔗 https://github.com/heiheiheiheiheihei/MiniMario
+     📝 NES emulator firmware for the Waveshare ESP32-C6-LCD-1.47: nofrendo core, 60 fps…
+     🏷  esp-idf, esp32-c6, nes-emulator, nofrendo, retro-gaming, st7789, waveshare
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 Srishtee06/CyberForge_ThreatWeaver
+     ⭐ 0  🗣 HTML  📅 2026-11-01
+     🔗 https://github.com/Srishtee06/CyberForge_ThreatWeaver
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 braIntelligent/cloud-asset-inventory
+     ⭐ 0  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/braIntelligent/cloud-asset-inventory
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 dwgx/debugger-workstation-public
+     ⭐ 0  🗣 JavaScript  📅 2026-11-01
+     🔗 https://github.com/dwgx/debugger-workstation-public
+     📝 Portable reverse-engineering / security-analysis / debugging / MCP-automation wo…
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 heavennnyombi-del/aeon-security-suite
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/heavennnyombi-del/aeon-security-suite
+     📝 Security-Improvements: Scripts and tools for system hardening, privacy, and bloa…
+     🏷  debloater, hardening, performance-tweaks, privacy-tools, scripts, system-optimization, windows-11, windows-security
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 tujakdv/acronis-disaster-recovery-pricing
+     ⭐ 1  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/tujakdv/acronis-disaster-recovery-pricing
+     📝 Acronis disaster recovery: what it actually covers, what it costs, and how to ge…
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 xwyn11/rpo-rto-cost-321
+     ⭐ 1  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/xwyn11/rpo-rto-cost-321
+     📝 backup and disaster recovery: What RPO and RTO Actually Cost, and a 3-2-1 Setup …
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 gogogo-xixi/WindowTint
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/gogogo-xixi/WindowTint
+     📝 用一张本地图片，为 Windows 11 普通桌面窗口加入柔和玻璃背景。
+     🏷  desktop-customization, dll-injection, gdiplus, glassmorphism, python, tkinter, win32, windows-11
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cyber-Threat-Intelligence
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/ishandutta2007/Awesome-Cyber-Threat-Intelligence
+     📝 Top Cyber Threat Intelligence (Opensource)  Star if you like it! 
+     🏷  awesome-list, cti, curated-list, cyber-threat-intelligence, cybersecurity, infosec, threat-intelligence
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 Kuldeeps1505/kavach
+     ⭐ 0  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Kuldeeps1505/kavach
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 matarturo/Stentor
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/matarturo/Stentor
+     📝 Script forense de adquisición y triaje en sistemas Windows, para recolectar evid…
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Ransomware-Intelligence-Decryption-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Ransomware-Intelligence-Decryption-Analysis
+     📝 Top Ransomware Intelligence Decryption Analysis (Opensource)  Star if you like i…
+     🏷  awesome-list, curated-list, decryption, incident-response, malware-analysis, ransomware, threat-intelligence
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Real-Time-Endpoint-Query-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Real-Time-Endpoint-Query-Investigation
+     📝 Top Real Time Endpoint Query Investigation (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, dfir, endpoint-monitoring, endpoint-security, osquery, threat-hunting
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Real-Time-Vulnerability-Assessment
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Real-Time-Vulnerability-Assessment
+     📝 Top Real Time Vulnerability Assessment (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, vulnerability-assessment, vulnerability-management, vulnerability-scanner
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Remote-Incident-Remediation-Forensics
+     📝 Top Remote Incident Remediation Forensics (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, dfir, digital-forensics, endpoint-forensics, incident-response, threat-remediation
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Container-Security-Software
+     ⭐ 0  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Container-Security-Software
+     📝 Top Container Security Software (Opensource)  Star if you like it! 
+     🏷  awesome-list, container-security, curated-list, devsecops, kubernetes-security, vulnerability-scanner
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 sndstone/shopphoto
+     ⭐ 0  🗣 Rust  📅 2026-10-31
+     🔗 https://github.com/sndstone/shopphoto
+     📝 ShopPhoto — GPU-accelerated, non-destructive RAW photo editor in Rust (egui/wgpu…
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 kad123456/cyberforge
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/kad123456/cyberforge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 victoryeverest/witness
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/victoryeverest/witness
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 ImaMeijer/regen
+     ⭐ 0  🗣 JavaScript  📅 2026-10-31
+     🔗 https://github.com/ImaMeijer/regen
+     📝 Buienapp op KNMI HARMONIE-AROME met radar-nowcast
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 dotjuice2/ransomwareChecker
+     ⭐ 0  🗣 PowerShell  📅 2026-10-31
+     🔗 https://github.com/dotjuice2/ransomwareChecker
+     📝 Portable read-only Windows triage of persistence and post-exploitation artifacts…
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 whybutter/sc7731g-frame-linux
+     ⭐ 0  🗣 C  📅 2026-10-31
+     🔗 https://github.com/whybutter/sc7731g-frame-linux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:29 UTC] [NEW]   🆕 📦 chemsse576/AltitudeSquatter
+     ⭐ 0  🗣 C  📅 2026-10-31
+     🔗 https://github.com/chemsse576/AltitudeSquatter
+     📝 Minifilter altitude squatting — displace WdFilter/MsSecFlt
+     🏷  —
+[2026-11-01 04:53:29 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-01 04:53:29 UTC] [UPD]   📢 📦 rudramodi005/Snaresight
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/rudramodi005/Snaresight
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-01 04:53:29 UTC] [UPD]   📢 📦 mahi80/BlueDefence
+     ⭐ 0  🗣 Python  📅 2026-10-31
+     🔗 https://github.com/mahi80/BlueDefence
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-01 04:53:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-01 04:53:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-01 04:53:31 UTC] [INFO]   → 15 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-01 04:53:31 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-11-01 04:53:31 UTC] [NEW]   🆕 📦 stefanie-zhg/stefanie-zhg
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/stefanie-zhg/stefanie-zhg
+     📝 Cybersecurity student | Penetration testing, malware analysis & digital forensic…
+     🏷  —
+[2026-11-01 04:53:31 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cloud-Workload-Protection-Platform-CWPP
+     ⭐ 1  🗣 N/A  📅 2026-10-31
+     🔗 https://github.com/ishandutta2007/Awesome-Cloud-Workload-Protection-Platform-CWPP
+     📝 Top Cloud Workload Protection Platform CWPP (Opensource)  Star if you like it! 
+     🏷  awesome-list, cloud-security, container-security, curated-list, cwpp, kubernetes-security, runtime-protection
+[2026-11-01 04:53:31 UTC] [NEW]   🆕 📦 MexrlDev/BDJB1400
+     ⭐ 0  🗣 Java  📅 2026-10-31
+     🔗 https://github.com/MexrlDev/BDJB1400
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-01 04:53:31 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-01 04:53:31 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (3gg)
+[2026-11-01 04:53:31 UTC] [UPD]   📢 📦 oniz93/ps5-14.10-research
+     ⭐ 1  🗣 HTML  📅 2026-10-29
+     🔗 https://github.com/oniz93/ps5-14.10-research
+     📝 PS5 boot-chain and WebKit research: firmware tooling, OSS source analysis, local…
+     🏷  firmware-analysis, ps5, reverse-engineering, security-research, webkit
+     🔄 Motivo: repo recente (2gg)
+[2026-11-01 04:53:31 UTC] [UPD]   📢 📦 ElenaViewSynthesis/GymSIEGE
+     ⭐ 0  🗣 Python  📅 2026-08-31
+     🔗 https://github.com/ElenaViewSynthesis/GymSIEGE
+     📝  ▎ Fleet-evaluation harness for security-agent benchmarks 𝗖𝘆𝗯𝗲𝗿𝗚𝘆𝗺-𝗘𝟮𝗘, 𝗘𝘅𝗽𝗹𝗼𝗶𝘁𝗚…
+     🏷  arvo, asan-global-buffer-overflow, aslr-entropy, audit-loop, binaries, cve, cybergym, exploit-gym, futex, fuzzing, landlock, libdwarf, libxml2-uaf, msan, net-snmp, patch, qemu-kvm, rce, seccomp-bpf, ubsan
+     🔄 Motivo: nuovi topic: seccomp-bpf
+[2026-11-01 04:53:31 UTC] [INFO] ============================================================
+[2026-11-01 04:53:31 UTC] [INFO] Completato — 40 nuovi, 7 aggiornati, 0 errori
+[2026-11-01 04:53:31 UTC] [INFO] ============================================================
