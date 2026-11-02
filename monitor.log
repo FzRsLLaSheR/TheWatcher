@@ -128060,3 +128060,234 @@
 [2026-11-01 21:47:12 UTC] [INFO] ============================================================
 [2026-11-01 21:47:12 UTC] [INFO] Completato — 53 nuovi, 9 aggiornati, 0 errori
 [2026-11-01 21:47:12 UTC] [INFO] ============================================================
+[2026-11-02 04:54:18 UTC] [INFO] ============================================================
+[2026-11-02 04:54:18 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-02 04:54:18 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-02 04:54:18 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-02 04:54:18 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-02 04:54:18 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-02 04:54:18 UTC] [INFO] ============================================================
+[2026-11-02 04:54:18 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-02 04:54:18 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-02 04:54:20 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-02 04:54:20 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-11-02 04:54:20 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-02 04:54:20 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 2  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  ablation, ai-agents, backwards-engineering, claude-code, codex, cryptographic-analysis, decompiler, disassembler, firmware-analysis, hermes-agent, kimi, made-in-usa, malware-analysis, opencode, platform-analysis, protocol-analysis, reverse-engineering, runtime-analysis, security-research, software-analysis
+     🔄 Motivo: repo recente (0gg)
+[2026-11-02 04:54:20 UTC] [UPD]   📢 📦 herebedragonsio/damn-vulnerable-windows-driver
+     ⭐ 0  🗣 C  📅 2026-11-01
+     🔗 https://github.com/herebedragonsio/damn-vulnerable-windows-driver
+     📝 This is an intentionally vulnerable Windows driver.
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-02 04:54:20 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-02 04:54:20 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-02 04:54:23 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 29 NUOVI repository:
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 t-sumita/voice-fep
+     ⭐ 0  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/t-sumita/voice-fep
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Identity-Threat-Detection-Response-ITDR
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/ishandutta2007/Awesome-Identity-Threat-Detection-Response-ITDR
+     📝 Top Identity Threat Detection Response ITDR (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, identity-security, incident-response, itdr, threat-detection
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 NDY-A/malware-egress-blocklist
+     ⭐ 0  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/NDY-A/malware-egress-blocklist
+     📝 Host-level IOC blocklist against malware delivery sites and C2 egress: fake Deep…
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 sifatnotes/secbyte-bluetooth-ble-rfid-nfc-contactless-security-ctf-labs
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/sifatnotes/secbyte-bluetooth-ble-rfid-nfc-contactless-security-ctf-labs
+     📝 A practical collection of cybersecurity CTF labs covering Bluetooth Classic & Lo…
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-IT-Asset-Discovery-Hygiene
+     ⭐ 1  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/ishandutta2007/Awesome-IT-Asset-Discovery-Hygiene
+     📝 Top IT Asset Discovery Hygiene (Opensource)  Star if you like it! 
+     🏷  asset-discovery, asset-management, awesome-list, cmdb, curated-list, it-hygiene
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 proleeeeeeeeee/SpektraLab-Android
+     ⭐ 0  🗣 Kotlin  📅 2026-11-01
+     🔗 https://github.com/proleeeeeeeeee/SpektraLab-Android
+     📝 Unofficial offline Android port of SpektraLab: local Vulkan film processing, pap…
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 Ha113ab/Cybersecurity-Threat-Detection-Incident-Response-Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/Ha113ab/Cybersecurity-Threat-Detection-Incident-Response-Lab
+     📝 Simulated SOC Analyst lab (Sep-Nov 2025, 30 hours, coursework) — incident triage…
+     🏷  cybersecurity, incident-response, soc, wireshark
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Dedicated-Threat-Hunting-Services
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/ishandutta2007/Awesome-Dedicated-Threat-Hunting-Services
+     📝 Top Dedicated Threat Hunting Services (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, incident-response, soc, threat-hunting
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Data-Loss-Prevention-DLP
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/ishandutta2007/Awesome-Data-Loss-Prevention-DLP
+     📝 Top Data Loss Prevention DLP (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, data-loss-prevention, data-security, dlp, pii-detection
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Managed-Detection-Response-MDR
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/ishandutta2007/Awesome-Managed-Detection-Response-MDR
+     📝 Top Managed Detection Response MDR (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, edr, endpoint-protection, managed-detection-and-response
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 njuj/kira-scan
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/njuj/kira-scan
+     📝 Zero-dependency static malware triage: PE imports/exports, entropy, IOCs and sig…
+     🏷  blue-team, dfir, malware-analysis, pe-file, python, security, threat-hunting, triage
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 magnificaconsequatofficial1969-blip/edrianalabadan.github.io
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/magnificaconsequatofficial1969-blip/edrianalabadan.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ZequBackup/n4erc7jdxu5rdcir5utj4edrjhxy4e
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/ZequBackup/n4erc7jdxu5rdcir5utj4edrjhxy4e
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 rk-Hud/cyber-suraksha-2.0
+     ⭐ 0  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/rk-Hud/cyber-suraksha-2.0
+     📝 A student-led Python cybersecurity project for cyber-fraud awareness, prevention…
+     🏷  css, cyber-awareness, cyber-security, cybercrime-prevention, flask, fraud-detection, hackathon, html, incident-response, javascript, python, soc-investigation, social-impact, sqlite, zero-trust
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 Travis-ML/palisade
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/Travis-ML/palisade
+     📝 Palisade is the reference harness built across Engineering an Agentic AI Securit…
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 sujithkdev/ololo
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/sujithkdev/ololo
+     📝 BehEDR Linux server lab with authenticated dashboard and Docker quick start
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 artofhack01/SOC-L1
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/artofhack01/SOC-L1
+     📝 SOC-L1 CYBERSECURITY...
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 MartelHiemsouvanh/Threat-Hunting-Scenario-TOR
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/MartelHiemsouvanh/Threat-Hunting-Scenario-TOR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 bilalope11/bluetooth-dualboot-fix
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/bilalope11/bluetooth-dualboot-fix
+     📝 Fix Bluetooth devices needing re-pairing when switching between Windows and Linu…
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 vvs1off/awesome-red-team
+     ⭐ 1  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/vvs1off/awesome-red-team
+     📝 A curated list of red team and offensive security learning resources for authori…
+     🏷  awesome, awesome-list, infosec, mitre-attack, offensive-security, pentesting, red-team, security
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Managed-Threat-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/ishandutta2007/Awesome-Managed-Threat-Hunting
+     📝 Top Managed Threat Hunting (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, managed-detection-response, mdr, soc, threat-hunting
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Managed-Endpoint-Protection
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/ishandutta2007/Awesome-Managed-Endpoint-Protection
+     📝 Top Managed Endpoint Protection (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, edr, endpoint-protection, managed-detection-and-response, mdr, threat-hunting
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 Hecate-Org/.github
+     ⭐ 1  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/Hecate-Org/.github
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Next-Gen-SIEM-Security-Analytics
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/ishandutta2007/Awesome-Next-Gen-SIEM-Security-Analytics
+     📝 Top Next Gen SIEM Security Analytics (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, cybersecurity, next-gen-siem, security-analytics, siem, threat-detection
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Mobile-Threat-Defense-MTD
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/ishandutta2007/Awesome-Mobile-Threat-Defense-MTD
+     📝 Top Mobile Threat Defense MTD (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, endpoint-security, mobile-security, mobile-threat-defense, threat-detection
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 jagadishmazure-jpg/Jagadish-endpoint-defense-lab
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/jagadishmazure-jpg/Jagadish-endpoint-defense-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cybersecurity-Training-Certification
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/ishandutta2007/Awesome-Cybersecurity-Training-Certification
+     📝 Top Cybersecurity Training Certification (Opensource)  Star if you like it! 
+     🏷  awesome-list, certification, ctf, curated-list, cybersecurity, infosec, training
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cybersecurity-Application-Development-Platform
+     ⭐ 6  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/ishandutta2007/Awesome-Cybersecurity-Application-Development-Platform
+     📝 Top Cybersecurity Application Development Platform (Opensource)  Star if you lik…
+     🏷  application-development, awesome-list, curated-list, cybersecurity, devsecops, security-automation, soar
+[2026-11-02 04:54:23 UTC] [NEW]   🆕 📦 Maz9611/toolkit-inventory-client
+     ⭐ 0  🗣 PowerShell  📅 2026-11-01
+     🔗 https://github.com/Maz9611/toolkit-inventory-client
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:23 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-02 04:54:23 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-02 04:54:23 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-02 04:54:25 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-02 04:54:25 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-11-02 04:54:25 UTC] [NEW]   🆕 📦 chiranjib2001/Privilege-Escalation-Comprehensive-Guide
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/chiranjib2001/Privilege-Escalation-Comprehensive-Guide
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:25 UTC] [NEW]   🆕 📦 lf-za1/-_
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/lf-za1/-_
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:25 UTC] [NEW]   🆕 📦 zecoxao/BD-JB-Relapse
+     ⭐ 10  🗣 Java  📅 2026-11-01
+     🔗 https://github.com/zecoxao/BD-JB-Relapse
+     📝 BD-JB Relapse for 13.42 and below by zecoxao, EchoStretch and Claude
+     🏷  —
+[2026-11-02 04:54:25 UTC] [NEW]   🆕 📦 al4n4n/CVE-2026-98432
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/al4n4n/CVE-2026-98432
+     📝 CVE-2026-98432: Linux Kernel TCP/IPv4 Race Condition Use-After-Free (CVSS 9.8) —…
+     🏷  cve, cve-2026-98432, exploit, ipv4, kasan, linux-kernel, poc, pre-auth, proof-of-concept, race-condition, rce, security, tcp, use-after-free, vulnerability
+[2026-11-02 04:54:25 UTC] [NEW]   🆕 📦 pimentelabylio-png/Ps4silversuidsss
+     ⭐ 0  🗣 JavaScript  📅 2026-11-01
+     🔗 https://github.com/pimentelabylio-png/Ps4silversuidsss
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-02 04:54:25 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-11-02 04:54:25 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (4gg)
+[2026-11-02 04:54:25 UTC] [UPD]   📢 📦 oniz93/ps5-14.10-research
+     ⭐ 2  🗣 HTML  📅 2026-10-29
+     🔗 https://github.com/oniz93/ps5-14.10-research
+     📝 PS5 boot-chain and WebKit research: firmware tooling, OSS source analysis, local…
+     🏷  firmware-analysis, ps5, reverse-engineering, security-research, webkit
+     🔄 Motivo: repo recente (3gg)
+[2026-11-02 04:54:25 UTC] [UPD]   📢 📦 fucknima/airlift-ios
+     ⭐ 1  🗣 Swift  📅 2026-11-01
+     🔗 https://github.com/fucknima/airlift-ios
+     📝 iPhone-only AirLift transport: on-device RPPairing, loopback tunnel, RSD shims
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-02 04:54:25 UTC] [UPD]   📢 📦 grokovworkov-bit/weakforce2
+     ⭐ 0  🗣 Objective-C  📅 2026-11-01
+     🔗 https://github.com/grokovworkov-bit/weakforce2
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-02 04:54:25 UTC] [INFO] ============================================================
+[2026-11-02 04:54:25 UTC] [INFO] Completato — 34 nuovi, 6 aggiornati, 0 errori
+[2026-11-02 04:54:25 UTC] [INFO] ============================================================
