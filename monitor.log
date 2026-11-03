@@ -128955,3 +128955,370 @@
 [2026-11-03 00:40:14 UTC] [INFO] ============================================================
 [2026-11-03 00:40:14 UTC] [INFO] Completato — 60 nuovi, 3 aggiornati, 0 errori
 [2026-11-03 00:40:14 UTC] [INFO] ============================================================
+[2026-11-03 13:46:23 UTC] [INFO] ============================================================
+[2026-11-03 13:46:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-03 13:46:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-03 13:46:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-03 13:46:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-03 13:46:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-03 13:46:23 UTC] [INFO] ============================================================
+[2026-11-03 13:46:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-03 13:46:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-03 13:46:25 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-03 13:46:25 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-03 13:46:25 UTC] [NEW]   🆕 📦 ziluolan623-lgtm/dsh-forge
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/ziluolan623-lgtm/dsh-forge
+     📝 DeepSeek Harness plugin: prompt injection + reverse/game preset + refusal auto-r…
+     🏷  —
+[2026-11-03 13:46:25 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-03 13:46:25 UTC] [UPD]   📢 📦 hktalent/cve-scanner
+     ⭐ 2  🗣 Go  📅 2026-10-27
+     🔗 https://github.com/hktalent/cve-scanner
+     📝 RCE CVE（≧9.0） scanner
+     🏷  weblogic
+     🔄 Motivo: repo recente (7gg)
+[2026-11-03 13:46:25 UTC] [UPD]   📢 📦 d0tju1ce/ransomwareChecker
+     ⭐ 0  🗣 PowerShell  📅 2026-10-31
+     🔗 https://github.com/d0tju1ce/ransomwareChecker
+     📝 Portable read-only Windows triage of persistence and post-exploitation artifacts…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-03 13:46:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-03 13:46:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-03 13:46:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 43 NUOVI repository:
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 chinthakuntaakshay89-a11y/ECHO-CyberSecurity
+     ⭐ 0  🗣 TypeScript  📅 2026-11-03
+     🔗 https://github.com/chinthakuntaakshay89-a11y/ECHO-CyberSecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 ShoyonK/NIPAL
+     ⭐ 0  🗣 PowerShell  📅 2026-11-03
+     🔗 https://github.com/ShoyonK/NIPAL
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 PriyanshuVayadaa/atqor-security-experience-demo
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/PriyanshuVayadaa/atqor-security-experience-demo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 mars-ice-cream/glpimcp
+     ⭐ 0  🗣 PHP  📅 2026-11-02
+     🔗 https://github.com/mars-ice-cream/glpimcp
+     📝 serveur mcp pour glpi
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 vishalsingh332001-lang/AWS-Splunk-Threat-Detection
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/vishalsingh332001-lang/AWS-Splunk-Threat-Detection
+     📝 Simulated brute-force attack detection and incident response using AWS CloudTrai…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 scrybelab/win11-antimalware-evaluation
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/scrybelab/win11-antimalware-evaluation
+     📝 An independent evaluation framework for Windows 11 antimalware solutions. Analyz…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 SimpleSoftwareLTDA/hdr-conformance
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/SimpleSoftwareLTDA/hdr-conformance
+     📝 Cross-platform HDR conformance and benchmarking suite for Hyprland, KWin, Window…
+     🏷  benchmarking, color-management, hdr, linux, macos, wayland, windows
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 glassdfir/recap
+     ⭐ 0  🗣 HTML  📅 2026-11-03
+     🔗 https://github.com/glassdfir/recap
+     📝 Merge your logs into one timeline.
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 glassdfir/spoke
+     ⭐ 0  🗣 HTML  📅 2026-11-03
+     🔗 https://github.com/glassdfir/spoke
+     📝 See the relationships in your CSVs.
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 Mal-Verse/Home-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/Mal-Verse/Home-SOC-Lab
+     📝 Created my own SOC home lab demonstrating real Log monitoring,netowrk discoverie…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 ezebabs-tech/Natureforce-Incident-Report
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/ezebabs-tech/Natureforce-Incident-Report
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 yefu1681668/can-diagnostic-terminal
+     ⭐ 0  🗣 C  📅 2026-11-03
+     🔗 https://github.com/yefu1681668/can-diagnostic-terminal
+     📝 TM32F103 vehicle CAN bus data acquisition & UDS diagnostic terminal (ISO 14229 /…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 nafik-cs/antigravity-malware-sandbox
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/nafik-cs/antigravity-malware-sandbox
+     📝 A lightweight, agent-ready automated malware triage and behavioral sandbox engin…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 RedSideSecurity/ProcSnap
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/RedSideSecurity/ProcSnap
+     📝 Live incident-response triage for Linux: ~130 ATT&CK-mapped checks, collector, o…
+     🏷  blue-team, dfir, forensics, incident-response, linux, mitre-attack, security-tools, threat-hunting, triage, virustotal
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 owlsecx/owl-os
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/owlsecx/owl-os
+     📝 Owl OS: Debian-based cybersecurity OS with 275+ open-source offensive, defensive…
+     🏷  blue-team, cybersecurity, debian, hacking-tools, kali-alternative, linux-distribution, osint, pentesting, red-team, security
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 pedri77/security-manager-control
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/pedri77/security-manager-control
+     📝 Security Manager Control: NIS2, ENS, ISO 27001, SOC y vulnerabilidades en un cen…
+     🏷  ccn-cert, ciso, cli, compliance, cybersecurity, dora, ens, grc, iso27001, mitre-attack, nis2, python, security-manager, soc, vulnerability-management
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 iamjammie/HostHunt
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/iamjammie/HostHunt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 HikariRisser/Zapret2WinScrpt
+     ⭐ 0  🗣 C  📅 2026-11-03
+     🔗 https://github.com/HikariRisser/Zapret2WinScrpt
+     📝 Vibe-coded WIP frontend for bol-van/zapret2
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 Gabriel-temstet/Infra-ANSIBLE
+     ⭐ 0  🗣 Jinja  📅 2026-11-03
+     🔗 https://github.com/Gabriel-temstet/Infra-ANSIBLE
+     📝 NOVASEC est une infrastructure fictive de cybersécurité entièrement déployée ave…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 xiziphus/monctl
+     ⭐ 0  🗣 Kotlin  📅 2026-11-03
+     🔗 https://github.com/xiziphus/monctl
+     📝 DDC/CI control for an Acer KG281K from macOS: CLI, menu bar app, web panel, Andr…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 nihartandra/CD_AI_Usecases
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-11-03
+     🔗 https://github.com/nihartandra/CD_AI_Usecases
+     📝 CD_AI_Usecases
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 Akifulutas/Monaryum
+     ⭐ 0  🗣 Swift  📅 2026-11-03
+     🔗 https://github.com/Akifulutas/Monaryum
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 njuj/ghost-hunter
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/njuj/ghost-hunter
+     📝 Find code injected into running Windows processes: reflective DLLs, shellcode th…
+     🏷  blue-team, dfir, edr, malware, memory-forensics, process-injection, python, security, threat-hunting, windows
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 KmSlime/mac-cleaner
+     ⭐ 2  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/KmSlime/mac-cleaner
+     📝 Kiểm kê và dọn rác macOS an toàn — CLI, dashboard app, cài một lệnh, plugin Clau…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 andrebrunii/aftershock-lab
+     ⭐ 0  🗣 HTML  📅 2026-11-03
+     🔗 https://github.com/andrebrunii/aftershock-lab
+     📝 Laboratorio didattico di AI e cybersecurity con codice, test e documentazione de…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 kimeraf25-cpu/EDRINESPORTSCENTRE
+     ⭐ 0  🗣 HTML  📅 2026-11-03
+     🔗 https://github.com/kimeraf25-cpu/EDRINESPORTSCENTRE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 rainykarthick-crypto/agentic-soc
+     ⭐ 0  🗣 HTML  📅 2026-11-03
+     🔗 https://github.com/rainykarthick-crypto/agentic-soc
+     📝 A governed LLM security-operations agent: blast-radius gating, human approval fo…
+     🏷  ai-agent, approval-workflow, docker-compose, human-in-the-loop, llm, llm-agents, local-first, nginx, ollama, python, react-agent, rollback, secops, security-operations, self-hosted, soc
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 VeerDev-hub/NEXUS-SOC
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/VeerDev-hub/NEXUS-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 cihan-atas/siber-guvenlik-rehberleri
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/cihan-atas/siber-guvenlik-rehberleri
+     📝 Ofansif Güvenlik, Defansif Güvenlik (IDS/IPS & Hardening), Tersine Mühendislik, …
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 tarikul-cyber30/my-soc-assignments
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/tarikul-cyber30/my-soc-assignments
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 Armur-Ai/heramba
+     ⭐ 2  🗣 Go  📅 2026-11-02
+     🔗 https://github.com/Armur-Ai/heramba
+     📝 Protect your infra and network against autonomous attack agent swarms.
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 revo667/667-shield
+     ⭐ 0  🗣 Rust  📅 2026-11-03
+     🔗 https://github.com/revo667/667-shield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 unihit/overseas-stock-tax-helper
+     ⭐ 0  🗣 TypeScript  📅 2026-11-03
+     🔗 https://github.com/unihit/overseas-stock-tax-helper
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 ruchitajoshi0809-rgb/Threadline
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/ruchitajoshi0809-rgb/Threadline
+     📝 LLM-powered tool that turns raw security logs into a MITRE ATTACK-mapped attack …
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 RAdosSantosJanuario/wargame-presenter
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/RAdosSantosJanuario/wargame-presenter
+     📝 Build scenarios with injects, decisions and attributes, present them on the proj…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 TezzaMichael/colibri-triage
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/TezzaMichael/colibri-triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 joseph-03/soc-analyst-lab-reports
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/joseph-03/soc-analyst-lab-reports
+     📝 Hands-on SOC analyst lab reports: alert triage, SIEM, EDR, phishing and network …
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 mimi399/Skills4RedTeam
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/mimi399/Skills4RedTeam
+     📝 面向红队的Skills集合 —— Claude 技能系统安全技能与社区优秀安全技能推荐
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 j2jun/soc-detection-platform
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/j2jun/soc-detection-platform
+     📝 Mini SOC home lab: Sigma rules, Wazuh, Elastic Stack, and attack simulations map…
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 hariharanvj24-max/Hariharan-Portfolio
+     ⭐ 0  🗣 HTML  📅 2026-11-03
+     🔗 https://github.com/hariharanvj24-max/Hariharan-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 sree-git-tech/Gemini-jailbreak1
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/sree-git-tech/Gemini-jailbreak1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 jordannn02/MoMo-Display
+     ⭐ 0  🗣 Swift  📅 2026-11-03
+     🔗 https://github.com/jordannn02/MoMo-Display
+     📝 macOS menu bar brightness control with XDR boost and software dimming
+     🏷  —
+[2026-11-03 13:46:29 UTC] [NEW]   🆕 📦 KDocuritY/Threat-Intel-Detection-Hub
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/KDocuritY/Threat-Intel-Detection-Hub
+     📝 We empower Blue Teams with the complete defense stack—integrating curated OSINT …
+     🏷  —
+[2026-11-03 13:46:29 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-03 13:46:29 UTC] [UPD]   📢 📦 ftnt-dspille/fortinet-fortiedrv2
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/ftnt-dspille/fortinet-fortiedrv2
+     📝 FortiSOAR connector for Fortinet FortiEDR: activity-window ingestion fixed (re-d…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-03 13:46:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-03 13:46:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-03 13:46:32 UTC] [INFO]   → 38 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 Ibhamada0/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/Ibhamada0/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 minhtruonggggg2000-sudo/chanmemaydi
+     ⭐ 0  🗣 Swift  📅 2026-11-03
+     🔗 https://github.com/minhtruonggggg2000-sudo/chanmemaydi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 thiscitze/autoroot
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/thiscitze/autoroot
+     📝 One-command lab Linux privilege-escalation runner (disposable VMs only)
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 maitrik-makwana/PS5-14.10-Jailbreak-Research
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/maitrik-makwana/PS5-14.10-Jailbreak-Research
+     📝 PS5 14.10 jailbreak research: ScopedArguments OOB, APNG heap leak, kernel/hyperv…
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 RijulSb/Secure_Code_Review_Agent
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/RijulSb/Secure_Code_Review_Agent
+     📝 A single-file, dependency-free Python agent (`secure_code_review_agent.py`, Pyth…
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 dimbinirina/multiPS4_14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/dimbinirina/multiPS4_14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 Melodious-nub/GamerHackRev
+     ⭐ 4  🗣 HTML  📅 2026-11-02
+     🔗 https://github.com/Melodious-nub/GamerHackRev
+     📝 GamerHackRev - PS4 Exploit & GoldHEN Host for Firmwares 5.05 to 13.52. Enhanced …
+     🏷  exploit, gamerhack, gamerhackrev, goldhen, ps4, ps4-exploit, ps4-host, ps4-jailbreak, ps4jailbreak, ps4payload, psfree, webkit
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 gm13j/ps14j
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/gm13j/ps14j
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 PINGSERVICES/patch222
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/PINGSERVICES/patch222
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 ehsaniniataha-hub/JB1352ofline
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/ehsaniniataha-hub/JB1352ofline
+     📝 هاست افلاین ps4 تا 13.52 IRAN
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 sarmedpsx/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/sarmedpsx/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 sifatnotes/Cybersecurity-CTF-Labs-Collection-Linux-Systems-Security-Privilege-Escalation-Network-Infrastructure
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/sifatnotes/Cybersecurity-CTF-Labs-Collection-Linux-Systems-Security-Privilege-Escalation-Network-Infrastructure
+     📝 A curated, searchable index of hands-on CTF labs covering Linux fundamentals, fi…
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 aboragp2/oo
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/aboragp2/oo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 boomerf90777/boomerf90777-ps41400exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/boomerf90777/boomerf90777-ps41400exploit
+     📝 New method for 13.52/14.00 GoldHen/Hen + AIO Patch
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 AzozzALFiras/Phage
+     ⭐ 0  🗣 Go  📅 2026-11-02
+     🔗 https://github.com/AzozzALFiras/Phage
+     📝 An autonomous immune system for Linux servers — it contains what it can't yet pa…
+     🏷  —
+[2026-11-03 13:46:32 UTC] [NEW]   🆕 📦 Techland010/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/Techland010/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 13:46:32 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-11-03 13:46:32 UTC] [UPD]   📢 📦 gernottutner-net/ansible-agent-sandbox
+     ⭐ 0  🗣 Jinja  📅 2026-10-31
+     🔗 https://github.com/gernottutner-net/ansible-agent-sandbox
+     📝 A sandbox for agentic coding on VirtualBox
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-03 13:46:32 UTC] [UPD]   📢 📦 aladin2l/ps41400
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/aladin2l/ps41400
+     📝 PS4 Exploit from 14.00
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-03 13:46:32 UTC] [UPD]   📢 📦 well0nez/afterglow-web
+     ⭐ 19  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/well0nez/afterglow-web
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-03 13:46:32 UTC] [UPD]   📢 📦 al4n4n/CVE-2026-98432
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/al4n4n/CVE-2026-98432
+     📝 CVE-2026-98432: Linux Kernel TCP/IPv4 Race Condition Use-After-Free (CVSS 9.8) —…
+     🏷  cve, cve-2026-98432, exploit, ipv4, kasan, linux-kernel, poc, pre-auth, proof-of-concept, race-condition, rce, security, tcp, use-after-free, vulnerability
+     🔄 Motivo: repo recente (1gg)
+[2026-11-03 13:46:32 UTC] [INFO] ============================================================
+[2026-11-03 13:46:32 UTC] [INFO] Completato — 60 nuovi, 7 aggiornati, 0 errori
+[2026-11-03 13:46:32 UTC] [INFO] ============================================================
