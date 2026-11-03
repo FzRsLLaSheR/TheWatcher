@@ -128612,3 +128612,346 @@
 [2026-11-02 14:59:07 UTC] [INFO] ============================================================
 [2026-11-02 14:59:07 UTC] [INFO] Completato — 52 nuovi, 6 aggiornati, 0 errori
 [2026-11-02 14:59:07 UTC] [INFO] ============================================================
+[2026-11-03 00:40:06 UTC] [INFO] ============================================================
+[2026-11-03 00:40:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-03 00:40:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-03 00:40:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-03 00:40:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-03 00:40:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-03 00:40:06 UTC] [INFO] ============================================================
+[2026-11-03 00:40:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-03 00:40:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-03 00:40:08 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-03 00:40:08 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-11-03 00:40:08 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-03 00:40:08 UTC] [UPD]   📢 📦 hediondom/CLS_Curso_Reversing
+     ⭐ 0  🗣 HTML  📅 2026-10-27
+     🔗 https://github.com/hediondom/CLS_Curso_Reversing
+     📝 Curso en español sobre reversing de Windows
+     🏷  cybersecurity-education, ghidra, ida-pro, pe-format, reverse-engineering, spanish, windows, windows-internals, x64dbg
+     🔄 Motivo: repo recente (6gg)
+[2026-11-03 00:40:08 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 4  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 ABLⱯTION is an AI-assisted reverse engineering (AIARE) framework
+     🏷  a11y, cli, cryptographic-analysis, decompiler, disassembler, firmware-analysis, gui, inclusive-design, linux, macos, made-in-usa, malware-analysis, platform-analysis, protocol-analysis, reverse-engineering, runtime-analysis, security-research, software-analysis, windows
+     🔄 Motivo: repo recente (1gg) | nuovi topic: windows, cli, macos, linux, gui
+[2026-11-03 00:40:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-03 00:40:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-03 00:40:11 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 46 NUOVI repository:
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 edrei-portafolio/edrei-portafolio.github.io
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/edrei-portafolio/edrei-portafolio.github.io
+     📝 Proyectos de diseño 3D y simulación.
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 FarmhouseNetworking/Remove-DellBloat
+     ⭐ 0  🗣 PowerShell  📅 2026-11-03
+     🔗 https://github.com/FarmhouseNetworking/Remove-DellBloat
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 Edrei56/Edrei56.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/Edrei56/Edrei56.github.io
+     📝 Proyectos de diseño 3D y simulación.
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 rohitbhopal/rohitbhopal
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/rohitbhopal/rohitbhopal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 ftnt-dspille/fortinet-fortiedrv2
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/ftnt-dspille/fortinet-fortiedrv2
+     📝 FortiSOAR connector for Fortinet FortiEDR: activity-window ingestion fixed (re-d…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 Houssam-2021/Zoomify
+     ⭐ 0  🗣 Kotlin  📅 2026-11-02
+     🔗 https://github.com/Houssam-2021/Zoomify
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 sammonsempes/ostyr
+     ⭐ 0  🗣 Rust  📅 2026-11-02
+     🔗 https://github.com/sammonsempes/ostyr
+     📝 Ostyr is an open source, modular cyber defense platform written in Rust. EDR, SI…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 SALMA-ESSAOUD/salma-essaoud
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/SALMA-ESSAOUD/salma-essaoud
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 munifaomisi/SOC-L1-PHP2Shell-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/munifaomisi/SOC-L1-PHP2Shell-Investigation
+     📝 Hands-on SOC L1 investigation of a simulated PHP web shell and reverse shell att…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 Nikat0r/Nikat0r
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/Nikat0r/Nikat0r
+     📝 My profile :D
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 jflangtry75/Endpoint-Health-and-Security-Posture-Scanner
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/jflangtry75/Endpoint-Health-and-Security-Posture-Scanner
+     📝 Python endpoint scanner that audits Windows security posture against CIS Control…
+     🏷  cis-controls, cybersecurity, endpoint-security, python, windows-security
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 njuj/unwrap
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/njuj/unwrap
+     📝 Peel obfuscation off malicious PowerShell, JavaScript, VBScript and batch static…
+     🏷  blue-team, deobfuscation, dfir, incident-response, javascript, malware-analysis, mitre-attack, powershell, python, vbscript
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 gomezluisj/stadia-controller-re
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/gomezluisj/stadia-controller-re
+     📝 Reverse-engineering & security architecture reference for the Google Stadia Cont…
+     🏷  bluetooth-low-energy, firmware-analysis, ghidra, hardware-security, imxrt1050, reverse-engineering, stadia, stadia-controller
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 PranjalBan/Endpoint-Detection-and-Response
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/PranjalBan/Endpoint-Detection-and-Response
+     📝 A Python-based Endpoint Detection and Response system with telemetry collection,…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 soheil-mp/shoalscope
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/soheil-mp/shoalscope
+     📝 Fish monitoring with scientific echosounders: physics-based detection, tracking …
+     🏷  apache-iceberg, dagster, data-contracts, data-engineering, data-quality, dbt, devops, duckdb, echosounder, fish, fisheries-acoustics, icechunk, kubernetes, lakehouse, marine-ecology, nats, oceanography, python, sonar, zarr
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 Damoy/kilonote
+     ⭐ 1  🗣 TypeScript  📅 2026-11-02
+     🔗 https://github.com/Damoy/kilonote
+     📝 Light, keyboard-driven note-taking app with built-in task tracking (todo / ongoi…
+     🏷  codemirror, desktop-app, note-taking, notes, pixel-art, productivity, task-tracking, tauri, text-editor, todo
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 mrezwanulbari/mrezwanulbari
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/mrezwanulbari/mrezwanulbari
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 mauriciomholiveira/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-11-02
+     🔗 https://github.com/mauriciomholiveira/reverse-skill
+     📝 Arquitetura modular de roteamento de skills para Cibersegurança, Engenharia Reve…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 JACTyt/defense-in-depth
+     ⭐ 0  🗣 GDScript  📅 2026-11-02
+     🔗 https://github.com/JACTyt/defense-in-depth
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 sword0x00/SecOps-Autopilot
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/sword0x00/SecOps-Autopilot
+     📝 Tenable vulnerability-to-verified-fix pipeline with approval-gated containment a…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 furkan381/MRC
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/furkan381/MRC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 soheil-mp/flocklake
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/soheil-mp/flocklake
+     📝 Open radar-aeroecology lakehouse: turns public weather-radar data into quality-c…
+     🏷  aeroecology, bird-migration, dagster, data-contracts, data-engineering, data-quality, dbt, devops, duckdb, ducklake, lakehouse, nexrad, odim, open-data, ornithology, python, radar, weather-radar
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 jfpereirasantos4-arch/sintonisrp.lua
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/jfpereirasantos4-arch/sintonisrp.lua
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 nik1st/Midair
+     ⭐ 0  🗣 Swift  📅 2026-11-02
+     🔗 https://github.com/nik1st/Midair
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 11xNecronaut/sigma-rule-analyzer
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/11xNecronaut/sigma-rule-analyzer
+     📝 A Python-based detection intelligence tool for analysing Elastic-compatible NDJS…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 Zonaira-Rasheed/Virtual-screening-of-natural-flavonoids-against-Cyclin-dependent-kinase2-CDK2-in-cancer-therapy
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/Zonaira-Rasheed/Virtual-screening-of-natural-flavonoids-against-Cyclin-dependent-kinase2-CDK2-in-cancer-therapy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 KrishRaghuwanshi/Behenum-Ai
+     ⭐ 0  🗣 TypeScript  📅 2026-11-02
+     🔗 https://github.com/KrishRaghuwanshi/Behenum-Ai
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 SrikanthSrider/SrikanthSrider
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/SrikanthSrider/SrikanthSrider
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 crash101g/ChairPlayLinux
+     ⭐ 0  🗣 Kotlin  📅 2026-11-02
+     🔗 https://github.com/crash101g/ChairPlayLinux
+     📝 "ChairPlayLinux" is Wireless Apple CarPlay on your Linux PC. An unofficial port …
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 vinicius-omelo/Writeup-CTF-CorpWeb
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/vinicius-omelo/Writeup-CTF-CorpWeb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 ericeduardo69/desafio-malware-python
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/ericeduardo69/desafio-malware-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 FlorentLefort/Projet_DVF
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/FlorentLefort/Projet_DVF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 luishclaudino/rpa-framework
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/luishclaudino/rpa-framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 komalprasadpandey241-cyber/vanta-rk
+     ⭐ 0  🗣 C  📅 2026-11-02
+     🔗 https://github.com/komalprasadpandey241-cyber/vanta-rk
+     📝 it is my first rootkit project i am leaving it open source for further learning …
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 amitgupta2015/agentic-soc
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/amitgupta2015/agentic-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 kamaytech-co/kamay-ble-demo
+     ⭐ 0  🗣 C++  📅 2026-11-02
+     🔗 https://github.com/kamaytech-co/kamay-ble-demo
+     📝 Firmware abierto para ESP32 que se comporta como un sensor BLE estándar. Es el d…
+     🏷  ble, bluetooth-low-energy, esp32, iot, nimble, platformio, web-bluetooth
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 aliarain/nits
+     ⭐ 0  🗣 Swift  📅 2026-11-02
+     🔗 https://github.com/aliarain/nits
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 diegocraphael2015-tech/An-lise-Comportamental-de-Amea-as-Digitais-e-Estrat-gias-de-Defesa
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/diegocraphael2015-tech/An-lise-Comportamental-de-Amea-as-Digitais-e-Estrat-gias-de-Defesa
+     📝 Estudo prático e teórico sobre o funcionamento de ameaças digitais (Ransomware e…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 Armur-Ai/Dhantra
+     ⭐ 1  🗣 Go  📅 2026-11-02
+     🔗 https://github.com/Armur-Ai/Dhantra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 GRAYHATS-SL/grayhats-sentinelone-detection-library
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/GRAYHATS-SL/grayhats-sentinelone-detection-library
+     📝 Repositorio de reglas STAR de SentinelOne como código, mapeadas a MITRE ATT&CK
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 ayoubbakhii/edr-blind-spot-identity-detection
+     ⭐ 0  🗣 PowerShell  📅 2026-11-02
+     🔗 https://github.com/ayoubbakhii/edr-blind-spot-identity-detection
+     📝 EDR blocked 6/6 host attacks but saw 0/4 identity attacks: Elastic SIEM detectio…
+     🏷  active-directory, detection-engineering, elasticsearch, kerberos, kibana, mittre-attack, purple-team, siem, soar, soc
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 havnaroth/qextract
+     ⭐ 1  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/havnaroth/qextract
+     📝 Extract AV quarantines, AV logs and a detections timeline from disk images, driv…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 ssshah2131/Shuffle_CVE
+     ⭐ 0  🗣 Python  📅 2026-11-02
+     🔗 https://github.com/ssshah2131/Shuffle_CVE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 sifatnotes/Hands-on-MITRE-ATT-CK-Mapping-Threat-Intelligence-Operations-OSINT-IoC-Hunting-CTF-Labs-
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/sifatnotes/Hands-on-MITRE-ATT-CK-Mapping-Threat-Intelligence-Operations-OSINT-IoC-Hunting-CTF-Labs-
+     📝 A practical collection of cybersecurity CTF labs covering adversary behavior map…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 sifatnotes/Cybersecurity-CTF-Labs-Collection-Red-Purple-Team-Operations-Attack-Chain-Execution
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/sifatnotes/Cybersecurity-CTF-Labs-Collection-Red-Purple-Team-Operations-Attack-Chain-Execution
+     📝 A curated, searchable index of hands-on CTF labs covering initial access, privil…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [NEW]   🆕 📦 sifatnotes/Hands-on-Blue-Team-Operations-Detection-Engineering-Incident-Response-Red-Team-Tradecraft-CTF-Labs-
+     ⭐ 0  🗣 N/A  📅 2026-11-02
+     🔗 https://github.com/sifatnotes/Hands-on-Blue-Team-Operations-Detection-Engineering-Incident-Response-Red-Team-Tradecraft-CTF-Labs-
+     📝 A practical collection of cybersecurity CTF labs covering Security Operations Ce…
+     🏷  —
+[2026-11-03 00:40:11 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-03 00:40:11 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-03 00:40:11 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-03 00:40:14 UTC] [INFO]   → 22 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 14 NUOVI repository:
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 AgusOwner/Argen27
+     ⭐ 0  🗣 Swift  📅 2026-11-03
+     🔗 https://github.com/AgusOwner/Argen27
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 amine2-a11y/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/amine2-a11y/14
+     📝 14
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 shshsabvb/SARAN-FF-CLEAN
+     ⭐ 0  🗣 Swift  📅 2026-11-02
+     🔗 https://github.com/shshsabvb/SARAN-FF-CLEAN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 aladin2l/ps41400
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/aladin2l/ps41400
+     📝 PS4 Exploit from 14.00
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 w90008/01
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/w90008/01
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 shshsabvb/SARAN-FF-ACTIVATION-PROJECT-2026
+     ⭐ 0  🗣 Swift  📅 2026-11-02
+     🔗 https://github.com/shshsabvb/SARAN-FF-ACTIVATION-PROJECT-2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 Revengineoficial/Revengineoficial.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/Revengineoficial/Revengineoficial.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 well0nez/afterglow-web
+     ⭐ 3  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/well0nez/afterglow-web
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 rustamiya/sdfsd7fgh
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/rustamiya/sdfsd7fgh
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 NanospeedGamerYT/WebKitPS4Nano
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/NanospeedGamerYT/WebKitPS4Nano
+     📝 PS4 kernel exploit for firmware 14.00, run from the console's own browser - kern…
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 Ziko000/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/Ziko000/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 GamersRTG/GamersRTG12.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/GamersRTG/GamersRTG12.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 seregonwar/sprxdump
+     ⭐ 1  🗣 C  📅 2026-11-02
+     🔗 https://github.com/seregonwar/sprxdump
+     📝 Read-only PS5 process and decrypted module (SPRX/SELF) dumper with VA<->offset i…
+     🏷  —
+[2026-11-03 00:40:14 UTC] [NEW]   🆕 📦 Lucas1279/NebulaPs4
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/Lucas1279/NebulaPs4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-03 00:40:14 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-03 00:40:14 UTC] [UPD]   📢 📦 AgusOwner/ArgentKey
+     ⭐ 0  🗣 Swift  📅 2026-11-02
+     🔗 https://github.com/AgusOwner/ArgentKey
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-03 00:40:14 UTC] [INFO] ============================================================
+[2026-11-03 00:40:14 UTC] [INFO] Completato — 60 nuovi, 3 aggiornati, 0 errori
+[2026-11-03 00:40:14 UTC] [INFO] ============================================================
