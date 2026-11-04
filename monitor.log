@@ -129733,3 +129733,208 @@
 [2026-11-03 22:58:44 UTC] [INFO] ============================================================
 [2026-11-03 22:58:44 UTC] [INFO] Completato — 64 nuovi, 11 aggiornati, 0 errori
 [2026-11-03 22:58:44 UTC] [INFO] ============================================================
+[2026-11-04 05:16:19 UTC] [INFO] ============================================================
+[2026-11-04 05:16:19 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-04 05:16:19 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-04 05:16:19 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-04 05:16:19 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-04 05:16:19 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-04 05:16:19 UTC] [INFO] ============================================================
+[2026-11-04 05:16:19 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-04 05:16:19 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-04 05:16:21 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-04 05:16:21 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-04 05:16:21 UTC] [NEW]   🆕 📦 qays3/Forensic-Sample-Blueprint
+     ⭐ 1  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/qays3/Forensic-Sample-Blueprint
+     📝 A library of attack samples for DFIR practice. Each sample is a real artifact ma…
+     🏷  —
+[2026-11-04 05:16:21 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-04 05:16:21 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 1  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  a11y, gem, graphics-environment-manager, gui, linux, macos, made-in-usa, reverse-engineering, security-research, windows
+     🔄 Motivo: repo recente (2gg)
+[2026-11-04 05:16:21 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-04 05:16:21 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-04 05:16:24 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 20 NUOVI repository:
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 formula2028/SECOM-elite-eHRD-AutoPlayer
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/formula2028/SECOM-elite-eHRD-AutoPlayer
+     📝 讓訊連eHRD系統能夠自動掛機查看影片,PDF,投影片 讓使用者能夠節省時間專心工作
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 xanderlzy/prodisplay
+     ⭐ 0  🗣 Swift  📅 2026-11-03
+     🔗 https://github.com/xanderlzy/prodisplay
+     📝 Menu bar display manager for MacBook Pro XDR: resolutions, HiDPI scaling, extend…
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 eahii250602/ecg-fpga
+     ⭐ 0  🗣 Verilog  📅 2026-11-04
+     🔗 https://github.com/eahii250602/ecg-fpga
+     📝 Real-time ECG signal processing on PYNQ-Z2 (Zynq-7020): RTL notch/lowpass, Pan-T…
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 ben-lusdo/eDRS-release
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/ben-lusdo/eDRS-release
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 Cubewise-JoeCHK/activity-daemon
+     ⭐ 0  🗣 Rust  📅 2026-11-03
+     🔗 https://github.com/Cubewise-JoeCHK/activity-daemon
+     📝 Headless Windows activity recorder (Rust): window/AFK tracking, screen+OCR, meet…
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 pkdo7/sync-panel
+     ⭐ 0  🗣 Java  📅 2026-11-04
+     🔗 https://github.com/pkdo7/sync-panel
+     📝 sync-panel
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 NkzAyano/nkz-hunter-x
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/NkzAyano/nkz-hunter-x
+     📝 cybersecurity  threat-hunting  windows  python  endpoint-security  malware-detec…
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 qays3/Forensic-Sample-Blueprint
+     ⭐ 1  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/qays3/Forensic-Sample-Blueprint
+     📝 A library of attack samples for DFIR practice. Each sample is a real artifact ma…
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 conor-sometimes/yara-sensor
+     ⭐ 0  🗣 Rust  📅 2026-11-03
+     🔗 https://github.com/conor-sometimes/yara-sensor
+     📝 hitomi: a listener-only YARA content scanner for the banken EDR (fanotify, Rust,…
+     🏷  fanotify, linux, malware-detection, rust, security, sensor, yara
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 alexisreal/forensic_book
+     ⭐ 1  🗣 TeX  📅 2026-11-04
+     🔗 https://github.com/alexisreal/forensic_book
+     📝 Linux forensics book
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 tkeydll/cicd-sensor-manager
+     ⭐ 0  🗣 Go  📅 2026-11-04
+     🔗 https://github.com/tkeydll/cicd-sensor-manager
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 WallisonWS/tactical-rmm-enhanced
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/WallisonWS/tactical-rmm-enhanced
+     📝 Tactical RMM Enhanced Monorepo (Django API + Vue 3 Dashboard + Go Agent) — Model…
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 willimina8787/fw26-unit1-student-main
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/willimina8787/fw26-unit1-student-main
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 coolinger2019-wq/AI-SafeGuard
+     ⭐ 0  🗣 Rust  📅 2026-11-03
+     🔗 https://github.com/coolinger2019-wq/AI-SafeGuard
+     📝 主机侧诱捕 + 检测 + 处置工具
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 gabrielrtl/BOOTCAMP-DIO-03-11-2026-PART2
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/gabrielrtl/BOOTCAMP-DIO-03-11-2026-PART2
+     📝 estudo de caso - Digital Innovation One (DIO) - Ransomware e Keylogger
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 akramgassem/ws-creator
+     ⭐ 0  🗣 PowerShell  📅 2026-11-04
+     🔗 https://github.com/akramgassem/ws-creator
+     📝 Environnements WSL décrits par des dossiers : cloud-init, puis quelques scripts …
+     🏷  cloud-init, devenv, podman, powershell, windows, wsl
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 0xBerk0/api-unhooking
+     ⭐ 0  🗣 C  📅 2026-11-04
+     🔗 https://github.com/0xBerk0/api-unhooking
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 kodamaintheforest/Siem-log-triage-trainer
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/kodamaintheforest/Siem-log-triage-trainer
+     📝 Desktop app for practicing SOC alert triage, with 58 hand-written log scenarios …
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 tchair89/Test_Technique
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/tchair89/Test_Technique
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:24 UTC] [NEW]   🆕 📦 nasc-gabriel/desafio-malware-python
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/nasc-gabriel/desafio-malware-python
+     📝 Simulação de malwares
+     🏷  —
+[2026-11-04 05:16:24 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-04 05:16:24 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-04 05:16:24 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-04 05:16:26 UTC] [INFO]   → 40 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 📦 qays3/Forensic-Sample-Blueprint
+     ⭐ 1  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/qays3/Forensic-Sample-Blueprint
+     📝 A library of attack samples for DFIR practice. Each sample is a real artifact ma…
+     🏷  —
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 📦 CT7-BX/BX-CT7.github.io
+     ⭐ 0  🗣 CSS  📅 2026-11-04
+     🔗 https://github.com/CT7-BX/BX-CT7.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 📦 xiaomi-chagall-devs/android_fenrir
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/xiaomi-chagall-devs/android_fenrir
+     📝 Let's control MediaTek's bootchain
+     🏷  —
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 📦 chainwright/clean-room-intake
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/chainwright/clean-room-intake
+     📝 Open files from strangers without opening your business to them. Invoices opened…
+     🏷  —
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 📦 Trish7891/Totes
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/Trish7891/Totes
+     📝 Hermes agent
+     🏷  —
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 📦 ahmeedgamal/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/ahmeedgamal/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 📦 rodystore2/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/rodystore2/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 📦 aistoree/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/aistoree/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:26 UTC] [NEW]   🆕 📦 BigMegoo/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/BigMegoo/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 05:16:26 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-11-04 05:16:26 UTC] [UPD]   📢 📦 brstation/webkitty.ps4.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/brstation/webkitty.ps4.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-04 05:16:26 UTC] [UPD]   📢 📦 harnessix/omarchy-paddock
+     ⭐ 1  🗣 Rust  📅 2026-10-29
+     🔗 https://github.com/harnessix/omarchy-paddock
+     📝 Run coding-agent CLIs and desktop apps with full auto-approval in a sandbox. Oma…
+     🏷  bubblewrap, coding-agents, hyprland, omarchy, sandbox
+     🔄 Motivo: repo recente (6gg)
+[2026-11-04 05:16:26 UTC] [UPD]   📢 📦 Revengineoficial/Revengineoficial.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/Revengineoficial/Revengineoficial.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-04 05:16:26 UTC] [UPD]   📢 📦 chivmengsong/chivmengsong
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/chivmengsong/chivmengsong
+     📝 About Me
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-04 05:16:26 UTC] [INFO] ============================================================
+[2026-11-04 05:16:26 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
+[2026-11-04 05:16:26 UTC] [INFO] ============================================================
