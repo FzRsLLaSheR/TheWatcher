@@ -129938,3 +129938,359 @@
 [2026-11-04 05:16:26 UTC] [INFO] ============================================================
 [2026-11-04 05:16:26 UTC] [INFO] Completato — 30 nuovi, 5 aggiornati, 0 errori
 [2026-11-04 05:16:26 UTC] [INFO] ============================================================
+[2026-11-04 13:54:44 UTC] [INFO] ============================================================
+[2026-11-04 13:54:44 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-04 13:54:44 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-04 13:54:44 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-04 13:54:44 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-04 13:54:44 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-04 13:54:44 UTC] [INFO] ============================================================
+[2026-11-04 13:54:44 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-04 13:54:44 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-04 13:54:47 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-04 13:54:47 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-11-04 13:54:47 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-04 13:54:47 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-04 13:54:47 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-04 13:54:50 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 HugoJZN/Test-d-intrusion-par-ing-nierie-sociale-Entreprise-Fictive-
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/HugoJZN/Test-d-intrusion-par-ing-nierie-sociale-Entreprise-Fictive-
+     📝 Projet d'Ethical Hacking (ST2EH — EFREI). Compromission d'un poste de travail vi…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 yousfiyaplus-crypto/Depo
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/yousfiyaplus-crypto/Depo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 2746152175-beep/game-launcher-malware-scan
+     ⭐ 0  🗣 PowerShell  📅 2026-11-04
+     🔗 https://github.com/2746152175-beep/game-launcher-malware-scan
+     📝 🚨 NIKKE 等游戏启动器被投毒自查：一键检测启动器远程下发木马（k2f / LuaJIT 远控），只读、出报告、可回滚，支持任意游戏与目录 | Game L…
+     🏷  forensics, game-launcher, incident-response, malware-analysis, nikke, powershell, security-tools, supply-chain-attack, trojan, windows
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Calixo98/agente-s
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/Calixo98/agente-s
+     📝 Securitas (Agente S): agente de seguridad personal contra ataques a la cadena de…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 aegis-soc/aegis-soc
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/aegis-soc/aegis-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 yousfiyaplus-crypto/Alpa-z
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/yousfiyaplus-crypto/Alpa-z
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 thecase064/endpoint-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-11-04
+     🔗 https://github.com/thecase064/endpoint-toolkit
+     📝 PowerShell toolkit for MSP endpoint work: new-device build chain, OEM debloat, M…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 lederg001/lederg-antivir
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/lederg001/lederg-antivir
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Siteappsnl/KNMI-EDR-PHP
+     ⭐ 0  🗣 PHP  📅 2026-11-04
+     🔗 https://github.com/Siteappsnl/KNMI-EDR-PHP
+     📝 PHP SDK for KNMI EDR API
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 KarimShawkyEGY/project-detection-as-code
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/KarimShawkyEGY/project-detection-as-code
+     📝 Detection-as-code: 15 Atomic Red Team simulations, 12 Splunk SPL detections, CI/…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 mazhictr/dwly-9awg-sm2w-h8jq-e8nw-4pb1-l8wb-6nng-edrr-cp3t-fqg
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/mazhictr/dwly-9awg-sm2w-h8jq-e8nw-4pb1-l8wb-6nng-edrr-cp3t-fqg
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 AlirezaBahador/GhostTrace
+     ⭐ 0  🗣 Go  📅 2026-11-04
+     🔗 https://github.com/AlirezaBahador/GhostTrace
+     📝 Linux Runtime Threat Detection & Behavioral Monitoring powered by eBPF and Go
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Oniel99/pyramid-of-pain-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/Oniel99/pyramid-of-pain-detection-lab
+     📝 Pyramid of Pain mapped to SOC detections, tested in a Splunk + Sysmon home lab
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 ghost101-sec/payload-obfuscation-framework
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/ghost101-sec/payload-obfuscation-framework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 yybit/warden
+     ⭐ 1  🗣 Rust  📅 2026-11-04
+     🔗 https://github.com/yybit/warden
+     📝 Read-only host security scanner for macOS and Linux: persistence, privilege, lis…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Artem333333/CISO
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/Artem333333/CISO
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 SayujSujeev/tracker
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/SayujSujeev/tracker
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 tejaswini0111/Cybersecurity_Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/tejaswini0111/Cybersecurity_Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 ashine-gao/marshall-BLEGATT-keepalive
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/ashine-gao/marshall-BLEGATT-keepalive
+     📝 Keep Marshall Bluetooth speakers awake over their BLE control channel - CLI and …
+     🏷  ble, bluetooth, corebluetooth, keepalive, macos, marshall, speaker
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 cymylau/edr-test-lab
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/cymylau/edr-test-lab
+     📝 Selection of tools for testing EDR like solutions on endpoints, laptops, worksta…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 phyliciakirkmanforgeae/edrx-7s9t-zm8n-mn71-xjcj-as2x-e8k7-ho5f-u0wg-maui-4dn
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/phyliciakirkmanforgeae/edrx-7s9t-zm8n-mn71-xjcj-as2x-e8k7-ho5f-u0wg-maui-4dn
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Ojas37/nugen-soc-analyst-ai
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/Ojas37/nugen-soc-analyst-ai
+     📝 An AI-powered SOC Analyst Assistant built using Nugen's domain-aligned Llama 3.2…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 sebeaguele/sebeaguele
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/sebeaguele/sebeaguele
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 KevinX8/dusklight-hdr-mod
+     ⭐ 0  🗣 C++  📅 2026-11-03
+     🔗 https://github.com/KevinX8/dusklight-hdr-mod
+     📝 Special K-style HDR grade mod for Dusklight (Linux)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 techy-exn/HackTheBrewery-CTF
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/techy-exn/HackTheBrewery-CTF
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 dodat1905/nitboost
+     ⭐ 0  🗣 Swift  📅 2026-11-04
+     🔗 https://github.com/dodat1905/nitboost
+     📝 macOS menu-bar app: boost MacBook Pro XDR display brightness up to 1600 nits wit…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Jith0x/AI-Powered-Intrution-Detection-System
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/Jith0x/AI-Powered-Intrution-Detection-System
+     📝 Enterprise-grade AI Intrusion Detection System (IDS) and SOC dashboard. Features…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Dabat94/PyMalwareKiller
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/Dabat94/PyMalwareKiller
+     📝 Killer Malware
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 0xDTC/0xTCP2SHELL-Impact-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/0xDTC/0xTCP2SHELL-Impact-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Jith0x/ZeroTrustX
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/Jith0x/ZeroTrustX
+     📝 ZeroTrustX: Research-driven enterprise Zero Trust Architecture (NIST SP 800-207 …
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Tushig3531/Splunk-Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/Tushig3531/Splunk-Home-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 artofhack01/SOC-Advanced-Foundations
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/artofhack01/SOC-Advanced-Foundations
+     📝 A structured SOC learning project covering security operations, threats, vulnera…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 FlickerDampa/DeviceDossier
+     ⭐ 0  🗣 C#  📅 2026-11-04
+     🔗 https://github.com/FlickerDampa/DeviceDossier
+     📝 Portable Windows inventory and audit tool with Excel, HTML and XML reports. Read…
+     🏷  csharp, dotnet-framework, inventory, it-asset-management, security-audit, sysadmin, windows, wpf
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 edraq-edraq/edrak
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/edraq-edraq/edrak
+     📝 موقع ادراك
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Sania-S27/CyberScribe
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/Sania-S27/CyberScribe
+     📝 AI-Powered Multi-Agent Cyber Threat Intelligence, Automated Reporting, Vulnerabi…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 Trinityweb3/aave-v3-oracle-lag-arbitrage
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/Trinityweb3/aave-v3-oracle-lag-arbitrage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 TooMuchCraig/Radios
+     ⭐ 0  🗣 C  📅 2026-11-04
+     🔗 https://github.com/TooMuchCraig/Radios
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 S12cybersecurity/HyperLoader
+     ⭐ 11  🗣 C++  📅 2026-11-04
+     🔗 https://github.com/S12cybersecurity/HyperLoader
+     📝 Hypervisor isolated shellcode execution environment. Maps host process memory in…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 tang003/electrical-bom-extractor
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/tang003/electrical-bom-extractor
+     📝 根据pdf图纸提取物料并整理成BOM表
+     🏷  —
+[2026-11-04 13:54:50 UTC] [NEW]   🆕 📦 kkomazaw/soc-dashboard
+     ⭐ 0  🗣 TypeScript  📅 2026-11-04
+     🔗 https://github.com/kkomazaw/soc-dashboard
+     📝 Production-ready Security Operations Center dashboard for real-time vulnerabilit…
+     🏷  —
+[2026-11-04 13:54:50 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-04 13:54:50 UTC] [UPD]   📢 📦 Cubewise-JoeCHK/activity-daemon
+     ⭐ 0  🗣 Rust  📅 2026-11-03
+     🔗 https://github.com/Cubewise-JoeCHK/activity-daemon
+     📝 Headless Windows activity recorder (Rust): window/AFK tracking, screen+OCR, meet…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-04 13:54:50 UTC] [UPD]   📢 📦 LunaticPython2003/samsung-ssc-uhq-research
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/LunaticPython2003/samsung-ssc-uhq-research
+     📝 A research on the SSC UHQ codec's behaviour and possible clean room implementati…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-04 13:54:50 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-04 13:54:50 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-04 13:54:54 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 19 NUOVI repository:
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 PINGSERVICES/1400
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/PINGSERVICES/1400
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 SaouraGames/1400
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/SaouraGames/1400
+     📝 PS4 Jailbreak all
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 eetu/luoto
+     ⭐ 0  🗣 Rust  📅 2026-11-03
+     🔗 https://github.com/eetu/luoto
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 harnessix/paddock
+     ⭐ 0  🗣 Rust  📅 2026-11-04
+     🔗 https://github.com/harnessix/paddock
+     📝 A sandbox for coding agents on Linux and macOS
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 avologame/admiralgame-ps4-afterglow
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/avologame/admiralgame-ps4-afterglow
+     📝 Self-hosted Afterglow PS4 13.52/14.00 source snapshot for Admiral Game
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 uzairahm014/signforge
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/uzairahm014/signforge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 ps4a/p4
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/ps4a/p4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 balegh11/balegh11.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/balegh11/balegh11.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 evezme/airtendies-mac
+     ⭐ 1  🗣 Swift  📅 2026-11-04
+     🔗 https://github.com/evezme/airtendies-mac
+     📝 A native macOS app for installing .tendies PosterBoard wallpapers on an iPhone o…
+     🏷  airlfit, exploit, ios, macos, tendies, wallpaper
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 0xDTC/0xTCP2SHELL-Impact-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/0xDTC/0xTCP2SHELL-Impact-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 0xSoapSec/Kernel-Exploit-Development
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/0xSoapSec/Kernel-Exploit-Development
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 SutlabSol/Content-Extended-Additions
+     ⭐ 0  🗣 C  📅 2026-11-04
+     🔗 https://github.com/SutlabSol/Content-Extended-Additions
+     📝 Additions for Watanoge's Content Extended fork of OpenCE.
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 ghosthash9/Freedom-web
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/ghosthash9/Freedom-web
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 nhoxboo/ps4-exploit-host
+     ⭐ 0  🗣 HTML  📅 2026-11-04
+     🔗 https://github.com/nhoxboo/ps4-exploit-host
+     📝 PS4 Exploit Host VN: Bộ kích hoạt GoldHEN & Jailbreak đa phiên bản (5.05 - 14.00…
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 Edigax/relapse-host-autoload
+     ⭐ 1  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/Edigax/relapse-host-autoload
+     📝 PS5 relapse exploit host (FW 7.00–13.60). One button: jailbreak + PS5 WebKit Aut…
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 TooMuchCraig/docs
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/TooMuchCraig/docs
+     📝 Technical reference documentation, hardware reverse engineering specs, and syste…
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 blackkonsol/14.00
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/blackkonsol/14.00
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 lambertse/darksword-kexploit
+     ⭐ 0  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/lambertse/darksword-kexploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-04 13:54:54 UTC] [NEW]   🆕 📦 MOAZ-MED/ARABIAN.H
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/MOAZ-MED/ARABIAN.H
+     📝 The ARAB HOST FOR PS4 14.00 GOLDHEN INSTALL
+     🏷  —
+[2026-11-04 13:54:54 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-11-04 13:54:54 UTC] [UPD]   📢 📦 ItssJustAaron/PSN-HUB2
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/ItssJustAaron/PSN-HUB2
+     📝 PSN-HUBx2
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-04 13:54:54 UTC] [UPD]   📢 📦 CT7-BX/BX-CT7.github.io
+     ⭐ 0  🗣 CSS  📅 2026-11-04
+     🔗 https://github.com/CT7-BX/BX-CT7.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-04 13:54:54 UTC] [UPD]   📢 📦 scorpion511/ASAR-14.00
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/scorpion511/ASAR-14.00
+     📝 ASAR-PS4 FIRMWARE 14.00
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-04 13:54:54 UTC] [UPD]   📢 📦 dimbinirina/multiPS4_14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/dimbinirina/multiPS4_14
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-04 13:54:54 UTC] [INFO] ============================================================
+[2026-11-04 13:54:54 UTC] [INFO] Completato — 59 nuovi, 6 aggiornati, 0 errori
+[2026-11-04 13:54:54 UTC] [INFO] ============================================================
