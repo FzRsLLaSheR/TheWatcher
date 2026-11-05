@@ -130646,3 +130646,234 @@
 [2026-11-04 23:19:06 UTC] [INFO] ============================================================
 [2026-11-04 23:19:06 UTC] [INFO] Completato — 57 nuovi, 7 aggiornati, 0 errori
 [2026-11-04 23:19:06 UTC] [INFO] ============================================================
+[2026-11-05 05:37:24 UTC] [INFO] ============================================================
+[2026-11-05 05:37:24 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-05 05:37:24 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-05 05:37:24 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-05 05:37:24 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-05 05:37:24 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-05 05:37:24 UTC] [INFO] ============================================================
+[2026-11-05 05:37:24 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-05 05:37:24 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-05 05:37:26 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-05 05:37:26 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-05 05:37:26 UTC] [NEW]   🆕 📦 italosantosx6-prog/xczczx
+     ⭐ 0  🗣 C++  📅 2026-11-05
+     🔗 https://github.com/italosantosx6-prog/xczczx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 05:37:26 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-05 05:37:26 UTC] [UPD]   📢 📦 qays3/Forensic-Sample-Blueprint
+     ⭐ 7  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/qays3/Forensic-Sample-Blueprint
+     📝 A library of attack samples for DFIR practice. Each sample is a real artifact ma…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-05 05:37:26 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 1  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  a11y, made-in-usa, reverse-engineering
+     🔄 Motivo: repo recente (3gg)
+[2026-11-05 05:37:26 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-05 05:37:26 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-05 05:37:29 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 30 NUOVI repository:
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 edr-16/masroof
+     ⭐ 0  🗣 HTML  📅 2026-11-05
+     🔗 https://github.com/edr-16/masroof
+     📝 MASROOF Budget App
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 906351854/flow-music
+     ⭐ 0  🗣 Swift  📅 2026-11-05
+     🔗 https://github.com/906351854/flow-music
+     📝 iOS · SwiftUI 网易云音乐客户端：纵向 Cover Flow 首页 / 漫游歌单 / HDR 封面
+     🏷  coverflow, ios, music-player, netease, swiftui
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 brooklynkid707-cmd/windows-dfir-triage
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/brooklynkid707-cmd/windows-dfir-triage
+     📝 Windows endpoint forensic triage for Tier 2 SOC: parse KAPE/Eric Zimmerman tool …
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 Rey-CpuU/security
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/Rey-CpuU/security
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 vibinsam-008/edrawv2.1
+     ⭐ 0  🗣 TypeScript  📅 2026-11-05
+     🔗 https://github.com/vibinsam-008/edrawv2.1
+     📝 Bug fixed Version of edraw v2
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 BBS2013/ff_client
+     ⭐ 0  🗣 Go  📅 2026-11-05
+     🔗 https://github.com/BBS2013/ff_client
+     📝 hysteria2 + trojan 本地代理客户端（Go/Wails/Vue）。真实节点写在本地 config.yaml；仓库只带 config.exampl…
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 escanor155/detection-rules
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/escanor155/detection-rules
+     📝 Sigma rules and hunting queries derived from Hack The Box machines I've complete…
+     🏷  blue-team, detection-engineering, hackthebox, mitre-attack, sigma, soc, threat-detection
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 jay23606/OpsAcademy
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/jay23606/OpsAcademy
+     📝 OpsAcademy is an interactive, browser-based learning platform where users execut…
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 brooklynkid707-cmd/malware-triage-lab
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/brooklynkid707-cmd/malware-triage-lab
+     📝 Static malware triage for Tier 2 SOC: pure-Python PE parser + imphash, entropy, …
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 Dharshini-cmd/cyberion_threatshield
+     ⭐ 0  🗣 TypeScript  📅 2026-11-05
+     🔗 https://github.com/Dharshini-cmd/cyberion_threatshield
+     📝 A SOC dashboard for cybersecurity threat monitoring and incident visibility.
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 aimtoku/packet-lab
+     ⭐ 0  🗣 TypeScript  📅 2026-11-04
+     🔗 https://github.com/aimtoku/packet-lab
+     📝 情報処理安全確保支援士の範囲で、通信への攻撃と対策をパケット単位で図解する学習サイト
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 kainsk1/dnd-gym
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/kainsk1/dnd-gym
+     📝 Dungeons and Dragons MARL Environment
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 rikhbriegit/agentic-compliance-copilot
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/rikhbriegit/agentic-compliance-copilot
+     📝 Agentic compliance co-pilot: Muse Spark proposes claims, Muse Wonder challenges …
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 waxwingfactor/client-domain-check
+     ⭐ 0  🗣 PowerShell  📅 2026-11-04
+     🔗 https://github.com/waxwingfactor/client-domain-check
+     📝 Free PowerShell script that checks all your clients' domains every morning: regi…
+     🏷  dkim, dmarc, dns, domain-monitoring, msp, powershell, spf, ssl-certificates
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 OlumideOsuntuyi/capmo
+     ⭐ 0  🗣 Rust  📅 2026-11-05
+     🔗 https://github.com/OlumideOsuntuyi/capmo
+     📝 Fast, private, open-source photo editor for Android and iOS, written in Rust (Sl…
+     🏷  android, image-processing, ios, mobile, open-source, photo-editor, raw, rust, slint, wgpu
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 brenin210/simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/brenin210/simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger
+     📝 ulando um Malware de Captura de Dados Simples em Python e Aprendendo a se Proteg…
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 zhough20/ai-security-public
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/zhough20/ai-security-public
+     📝 12 vendor-agnostic SOC use cases for AI with a typed decision model (10 IT, 2 OT…
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 conor-sometimes/mayfly
+     ⭐ 0  🗣 Go  📅 2026-11-04
+     🔗 https://github.com/conor-sometimes/mayfly
+     📝 Spin up real Linux distros, test a binary on each, spin them down. The banken ED…
+     🏷  ci, linux, nix, qemu, testing
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 ValeriaTorresG/cosmic-web-viz
+     ⭐ 0  🗣 JavaScript  📅 2026-11-05
+     🔗 https://github.com/ValeriaTorresG/cosmic-web-viz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 Cyhelm-Vciso/LLM
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/Cyhelm-Vciso/LLM
+     📝 Build datasets, fine-tune, and evaluate open AI models as a CISO, cybersecurity …
+     🏷  ciso, claude-skills, cybersecurity, fine-tuning, llm, lora
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 franciscoacacio01-afk/laboratorio-cybersecurity-python
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/franciscoacacio01-afk/laboratorio-cybersecurity-python
+     📝 Laboratório prático de CyberSecurity utilizando Python, com estudos educacionais…
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 maheshvaikri-code/openguide
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/maheshvaikri-code/openguide
+     📝 A control plane for LLM inference trajectories — the last unmanaged layer of the…
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 alexiarstein/linaudit
+     ⭐ 0  🗣 Rust  📅 2026-11-05
+     🔗 https://github.com/alexiarstein/linaudit
+     📝 Audit tool for Linux Systems
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 GaoHaoSong/lan-proxy-tool
+     ⭐ 0  🗣 C#  📅 2026-11-05
+     🔗 https://github.com/GaoHaoSong/lan-proxy-tool
+     📝 一个用于扫描局域网内可用 HTTP/SOCKS5 代理、测试连通性与延迟、一键切换 Windows 系统代理的小工具
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 huseyn-mammadov/autonomous-soar-agent
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/huseyn-mammadov/autonomous-soar-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 adacsabadev/esp32-ble-sniffer
+     ⭐ 0  🗣 C  📅 2026-11-05
+     🔗 https://github.com/adacsabadev/esp32-ble-sniffer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 amenallah-u/zeroday-sentinel-agentic2
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/amenallah-u/zeroday-sentinel-agentic2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 Carol-zolet/malware-sim-edu
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/Carol-zolet/malware-sim-edu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 PrincetonBaker/PrincetonBaker
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/PrincetonBaker/PrincetonBaker
+     📝 Profile README
+     🏷  —
+[2026-11-05 05:37:29 UTC] [NEW]   🆕 📦 Cassandra-3/Secure-Architecture-Assessment-and-Recommendations
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/Cassandra-3/Secure-Architecture-Assessment-and-Recommendations
+     📝 NIST CSF 2.0-aligned current-state assessment, target architecture, gap analysis…
+     🏷  —
+[2026-11-05 05:37:29 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-05 05:37:29 UTC] [UPD]   📢 📦 VeerDev-hub/NEXUS-SOC
+     ⭐ 0  🗣 Python  📅 2026-11-03
+     🔗 https://github.com/VeerDev-hub/NEXUS-SOC
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-05 05:37:29 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-05 05:37:29 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-05 05:37:31 UTC] [INFO]   → 35 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-05 05:37:31 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-11-05 05:37:31 UTC] [NEW]   🆕 📦 mahmoudbile-sudo/albialle14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-05
+     🔗 https://github.com/mahmoudbile-sudo/albialle14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 05:37:31 UTC] [NEW]   🆕 📦 vfpx765/ubuntu-vps-pricing
+     ⭐ 1  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/vfpx765/ubuntu-vps-pricing
+     📝 ubuntu vps hosting: Developer-Focused Options, True Long-Term Costs, and How to …
+     🏷  —
+[2026-11-05 05:37:31 UTC] [NEW]   🆕 📦 shetos1991/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-05
+     🔗 https://github.com/shetos1991/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 05:37:31 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-05 05:37:31 UTC] [UPD]   📢 📦 qays3/Forensic-Sample-Blueprint
+     ⭐ 7  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/qays3/Forensic-Sample-Blueprint
+     📝 A library of attack samples for DFIR practice. Each sample is a real artifact ma…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-05 05:37:31 UTC] [UPD]   📢 📦 struttonpigeon/oscp-decision-tree
+     ⭐ 0  🗣 HTML  📅 2026-11-04
+     🔗 https://github.com/struttonpigeon/oscp-decision-tree
+     📝 Interactive OSCP exam decision tree. Methodology, privesc, AD attacks. Single of…
+     🏷  active-directory, cheatsheet, decision-tree, offensive-security, oscp, penetration-testing, privilege-escalation
+     🔄 Motivo: repo recente (0gg) | nuovi topic: privilege-escalation, penetration-testing, decision-tree, offensive-security, active-directory, oscp, cheatsheet
+[2026-11-05 05:37:31 UTC] [UPD]   📢 📦 CT7-BX/BX-CT7.github.io
+     ⭐ 0  🗣 CSS  📅 2026-11-04
+     🔗 https://github.com/CT7-BX/BX-CT7.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-05 05:37:31 UTC] [INFO] ============================================================
+[2026-11-05 05:37:31 UTC] [INFO] Completato — 34 nuovi, 6 aggiornati, 0 errori
+[2026-11-05 05:37:31 UTC] [INFO] ============================================================
