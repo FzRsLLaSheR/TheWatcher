@@ -130877,3 +130877,311 @@
 [2026-11-05 05:37:31 UTC] [INFO] ============================================================
 [2026-11-05 05:37:31 UTC] [INFO] Completato — 34 nuovi, 6 aggiornati, 0 errori
 [2026-11-05 05:37:31 UTC] [INFO] ============================================================
+[2026-11-05 14:10:57 UTC] [INFO] ============================================================
+[2026-11-05 14:10:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-05 14:10:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-05 14:10:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-05 14:10:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-05 14:10:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-05 14:10:57 UTC] [INFO] ============================================================
+[2026-11-05 14:10:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-05 14:10:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-05 14:10:59 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-05 14:10:59 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-05 14:10:59 UTC] [NEW]   🆕 📦 gabriel885656/WinSentinel
+     ⭐ 11  🗣 C#  📅 2026-11-05
+     🔗 https://github.com/gabriel885656/WinSentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:10:59 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-05 14:10:59 UTC] [UPD]   📢 📦 qays3/Forensic-Sample-Blueprint
+     ⭐ 7  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/qays3/Forensic-Sample-Blueprint
+     📝 A library of attack samples for DFIR practice. Each sample is a real artifact ma…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-05 14:10:59 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 1  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  a11y, made-in-usa, reverse-engineering
+     🔄 Motivo: repo recente (3gg)
+[2026-11-05 14:10:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-05 14:10:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-05 14:11:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 38 NUOVI repository:
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 cookechef/PatchSentinel
+     ⭐ 0  🗣 C#  📅 2026-11-05
+     🔗 https://github.com/cookechef/PatchSentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Nizar-Aderbaz/BlueTeam-Notes
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/Nizar-Aderbaz/BlueTeam-Notes
+     📝 A comprehensive blue team and SOC analyst guide covering email forensics, networ…
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 zxaman/mca
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/zxaman/mca
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 R3leant/R3leant
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/R3leant/R3leant
+     📝 Profile README
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Ray1270/dsh-restart
+     ⭐ 0  🗣 JavaScript  📅 2026-11-05
+     🔗 https://github.com/Ray1270/dsh-restart
+     📝 刷新 / 重启 —— DeepSeek Harness 桌面版顶栏的两个常驻按钮（refresh + one-click restart）
+     🏷  deepseek-harness, desktop, dsh, dsh-plugin, electron, powershell, refresh, restart
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 fengnaiouo/Tencent-Game-Audit
+     ⭐ 0  🗣 Go  📅 2026-11-05
+     🔗 https://github.com/fengnaiouo/Tencent-Game-Audit
+     📝 Read-only Windows security auditing and IOC triage for Tencent's global game eco…
+     🏷  cybersecurity, game-security, golang, incident-response, ioc, malware-analysis, security, windows
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 tristanrouxdev/Threat-Intel-RemusStealer-Aion2
+     ⭐ 0  🗣 HTML  📅 2026-11-05
+     🔗 https://github.com/tristanrouxdev/Threat-Intel-RemusStealer-Aion2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 brandonrubio/gatekeep
+     ⭐ 0  🗣 Go  📅 2026-11-05
+     🔗 https://github.com/brandonrubio/gatekeep
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 bayanilla/vulnscope_MAX
+     ⭐ 0  🗣 HTML  📅 2026-11-05
+     🔗 https://github.com/bayanilla/vulnscope_MAX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Gisele-Alencar/Lab-EDR
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/Gisele-Alencar/Lab-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 cokovali10-sketch/aegis-nexus
+     ⭐ 0  🗣 Java  📅 2026-11-05
+     🔗 https://github.com/cokovali10-sketch/aegis-nexus
+     📝 Unified Cyber Defense & Intelligence Platform combining EDR, Threat Intelligence…
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 N4th0wl/LandMine
+     ⭐ 0  🗣 Rust  📅 2026-11-05
+     🔗 https://github.com/N4th0wl/LandMine
+     📝 Rust-based Windows EDR-lite for detecting suspicious process execution and LOLBi…
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 secamin/secamin
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/secamin/secamin
+     📝 Profile README
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 shreyashdhale06-sketch/Hybrid-Cloud-Layered-Defense
+     ⭐ 0  🗣 HTML  📅 2026-11-05
+     🔗 https://github.com/shreyashdhale06-sketch/Hybrid-Cloud-Layered-Defense
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Jaris-Bravo/Agente-FortiEDR
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/Jaris-Bravo/Agente-FortiEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 eshginallahverdiyev/BlackBasta-Ransomware-Analysis-Lab
+     ⭐ 0  🗣 YARA  📅 2026-11-05
+     🔗 https://github.com/eshginallahverdiyev/BlackBasta-Ransomware-Analysis-Lab
+     📝 End-to-end Black Basta ransomware analysis in an isolated FLARE-VM lab: static a…
+     🏷  blackbasta, capa, cybersecurity, detection-engineering, dfir, dynamic-analysis, flare-vm, floss, kql, malware-analysis, mitre-attack, pestudio, procmon, ransomware, ransomware-analysis, sigma, static-analysis, threat-intelligence, virustotal, yara
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Caletlobo/CyberSecurity
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/Caletlobo/CyberSecurity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Poliakoff29/Pentest_Automation
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/Poliakoff29/Pentest_Automation
+     📝 IA de pentest 100 % locale (LM Studio + AnythingLLM) et automatisation pentest a…
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Skopetos/-merge
+     ⭐ 0  🗣 Go  📅 2026-11-05
+     🔗 https://github.com/Skopetos/-merge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 seliyyah/windows-dfir-collector
+     ⭐ 0  🗣 PowerShell  📅 2026-11-05
+     🔗 https://github.com/seliyyah/windows-dfir-collector
+     📝 Blue-team Windows DFIR live-response collector in PowerShell. Captures memory, v…
+     🏷  blue-team, dfir, digital-forensics, eric-zimmerman, forensics, incident-response, kape, live-response, memory-forensics, powershell, sysinternals, threat-hunting, triage, velociraptor, windows
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 0xlazorr/warden-edr
+     ⭐ 0  🗣 Rust  📅 2026-11-05
+     🔗 https://github.com/0xlazorr/warden-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 viralthaker15/WorldClock
+     ⭐ 0  🗣 Swift  📅 2026-11-05
+     🔗 https://github.com/viralthaker15/WorldClock
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 iancecil/Skills
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/iancecil/Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Anirudhhat61/ninjaone-alerting-skill
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/Anirudhhat61/ninjaone-alerting-skill
+     📝 Claude skill that reviews, designs and builds NinjaOne RMM monitoring conditions
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 sharmeennazz/Everyday-Roastery-Coffee-Foodpanda-Growth-Strategy
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/sharmeennazz/Everyday-Roastery-Coffee-Foodpanda-Growth-Strategy
+     📝 An MBA capstone project developed in collaboration with Foodpanda, focused on gr…
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Swashbuckler16/Kuyebiko
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/Swashbuckler16/Kuyebiko
+     📝 Explainable ransomware behavior monitoring and investigation for Windows. Sees e…
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 TneverD/mountshadow
+     ⭐ 0  🗣 C  📅 2026-11-05
+     🔗 https://github.com/TneverD/mountshadow
+     📝     MountShadow is a lightweight Linux diagnostic tool that reveals files hidden…
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 ChrisSub08/FilelessScorpius
+     ⭐ 0  🗣 C#  📅 2026-11-05
+     🔗 https://github.com/ChrisSub08/FilelessScorpius
+     📝 C# Ransomware for file exfiltration and encryption in the Orion Project 
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 bravest-cat/dsh-redteam-model
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/bravest-cat/dsh-redteam-model
+     📝 English translation of SeaOf0/dsh-redteam-model: Ten redteam security research m…
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 efernandesmateus/MITRE-ATTACK-Coverage-Heatmap
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/efernandesmateus/MITRE-ATTACK-Coverage-Heatmap
+     📝 Gera camadas do MITRE ATT&CK Navigator a partir de uma planilha de casos de uso …
+     🏷  attack-navigator, blue-team, blue-team-project, blue-team-tools, detection-engineering, mitre-attack, mitre-attack-framework, mitre-attack-mapping, mitre-attack-navigator, soc
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 maboud10/Hub
+     ⭐ 0  🗣 TypeScript  📅 2026-11-05
+     🔗 https://github.com/maboud10/Hub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Evsio0n/instantnoodle-xnu
+     ⭐ 0  🗣 C  📅 2026-11-04
+     🔗 https://github.com/Evsio0n/instantnoodle-xnu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 all1as/EDR
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/all1as/EDR
+     📝 Efficient dimension reduction by average derivative
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 xuebi-123/PAN_BLE_SLAVE
+     ⭐ 0  🗣 C  📅 2026-11-05
+     🔗 https://github.com/xuebi-123/PAN_BLE_SLAVE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 xyun2028/dbx-eyecare
+     ⭐ 0  🗣 Rust  📅 2026-11-05
+     🔗 https://github.com/xyun2028/dbx-eyecare
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 insistgang/edrms-archive-mcp
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/insistgang/edrms-archive-mcp
+     📝 EDRMS archive MCP adapter: implementation, tests, delivery workflow and requirem…
+     🏷  —
+[2026-11-05 14:11:03 UTC] [NEW]   🆕 📦 AltdarkAde/Altdarkade
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/AltdarkAde/Altdarkade
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:03 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-05 14:11:03 UTC] [UPD]   📢 📦 OlumideOsuntuyi/capmo
+     ⭐ 0  🗣 Rust  📅 2026-11-05
+     🔗 https://github.com/OlumideOsuntuyi/capmo
+     📝 Fast, private, open-source photo editor for Android and iOS, written in Rust (Sl…
+     🏷  android, image-processing, ios, mobile, open-source, photo-editor, raw, rust, slint, wgpu
+     🔄 Motivo: repo recente (0gg)
+[2026-11-05 14:11:03 UTC] [UPD]   📢 📦 adacsabadev/esp32-ble-sniffer
+     ⭐ 0  🗣 C  📅 2026-11-05
+     🔗 https://github.com/adacsabadev/esp32-ble-sniffer
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-05 14:11:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-05 14:11:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-05 14:11:06 UTC] [INFO]   → 43 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-05 14:11:06 UTC] [NEW]   🆕 8 NUOVI repository:
+[2026-11-05 14:11:06 UTC] [NEW]   🆕 📦 Ghost-Bx1/ghost-privesc
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/Ghost-Bx1/ghost-privesc
+     📝 Linux privilege escalation checker - SUID, sudo, cron, writable paths, capabilit…
+     🏷  ctf, linux, pentesting, post-exploitation, privilege-escalation, python
+[2026-11-05 14:11:06 UTC] [NEW]   🆕 📦 Catnip202X/ROG6D-Findings
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/Catnip202X/ROG6D-Findings
+     📝 Kernel exploitation research notes for ASUS ROG Phone 6D (MT6983, 5.10.218): env…
+     🏷  —
+[2026-11-05 14:11:06 UTC] [NEW]   🆕 📦 iancecil/Skills
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/iancecil/Skills
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:06 UTC] [NEW]   🆕 📦 zay448345045/halo-android2
+     ⭐ 0  🗣 C  📅 2026-11-05
+     🔗 https://github.com/zay448345045/halo-android2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-05 14:11:06 UTC] [NEW]   🆕 📦 ketankumarjha2007/CodeLab
+     ⭐ 0  🗣 JavaScript  📅 2026-11-04
+     🔗 https://github.com/ketankumarjha2007/CodeLab
+     📝 Online Compiler (AD free)
+     🏷  —
+[2026-11-05 14:11:06 UTC] [NEW]   🆕 📦 DesignMaster-Solutions/vol3-io-uring
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/DesignMaster-Solutions/vol3-io-uring
+     📝 io_uring visibility for Volatility 3: rings, decoded SQEs/CQEs, registered files…
+     🏷  —
+[2026-11-05 14:11:06 UTC] [NEW]   🆕 📦 Vaisah/ps4-14-afterglow
+     ⭐ 0  🗣 JavaScript  📅 2026-11-05
+     🔗 https://github.com/Vaisah/ps4-14-afterglow
+     📝 Kernel exploit for the PlayStation 4 on firmware 13.52 and 14.00, run from the c…
+     🏷  —
+[2026-11-05 14:11:06 UTC] [NEW]   🆕 📦 Darbness/Xbox-One-Research
+     ⭐ 0  🗣 N/A  📅 2026-11-05
+     🔗 https://github.com/Darbness/Xbox-One-Research
+     📝 My research into my 2018 era xbox one.
+     🏷  —
+[2026-11-05 14:11:06 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-11-05 14:11:06 UTC] [UPD]   📢 📦 nhoxboo/ps4-exploit-host
+     ⭐ 0  🗣 HTML  📅 2026-11-04
+     🔗 https://github.com/nhoxboo/ps4-exploit-host
+     📝 PS4 Exploit Host VN: Bộ kích hoạt GoldHEN & Jailbreak đa phiên bản (5.05 - 14.00…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-05 14:11:06 UTC] [UPD]   📢 📦 CT7-BX/BX-CT7.github.io
+     ⭐ 0  🗣 CSS  📅 2026-11-04
+     🔗 https://github.com/CT7-BX/BX-CT7.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-05 14:11:06 UTC] [UPD]   📢 📦 qays3/Forensic-Sample-Blueprint
+     ⭐ 7  🗣 N/A  📅 2026-11-03
+     🔗 https://github.com/qays3/Forensic-Sample-Blueprint
+     📝 A library of attack samples for DFIR practice. Each sample is a real artifact ma…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-05 14:11:06 UTC] [UPD]   📢 📦 0xDTC/0xTCP2SHELL-Impact-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-11-04
+     🔗 https://github.com/0xDTC/0xTCP2SHELL-Impact-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-05 14:11:06 UTC] [INFO] ============================================================
+[2026-11-05 14:11:06 UTC] [INFO] Completato — 47 nuovi, 8 aggiornati, 0 errori
+[2026-11-05 14:11:06 UTC] [INFO] ============================================================
