@@ -131855,3 +131855,345 @@
 [2026-11-06 13:52:32 UTC] [INFO] ============================================================
 [2026-11-06 13:52:32 UTC] [INFO] Completato — 55 nuovi, 4 aggiornati, 0 errori
 [2026-11-06 13:52:32 UTC] [INFO] ============================================================
+[2026-11-06 22:47:43 UTC] [INFO] ============================================================
+[2026-11-06 22:47:43 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-06 22:47:43 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-06 22:47:43 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-06 22:47:43 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-06 22:47:43 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-06 22:47:43 UTC] [INFO] ============================================================
+[2026-11-06 22:47:43 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-06 22:47:43 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-06 22:47:45 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-06 22:47:45 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-06 22:47:45 UTC] [NEW]   🆕 📦 seliyyah/windows-dfir-collector
+     ⭐ 0  🗣 PowerShell  📅 2026-11-05
+     🔗 https://github.com/seliyyah/windows-dfir-collector
+     📝 Blue-team Windows DFIR live-response collector in PowerShell. Captures memory, v…
+     🏷  blue-team, dfir, digital-forensics, eric-zimmerman, forensics, incident-response, kape, live-response, memory-forensics, powershell, sysinternals, threat-hunting, triage, velociraptor, windows
+[2026-11-06 22:47:45 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-06 22:47:45 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 3  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  a11y, made-in-usa, reverse-engineering
+     🔄 Motivo: repo recente (5gg)
+[2026-11-06 22:47:45 UTC] [UPD]   📢 📦 medhatsaif010/horus-intel
+     ⭐ 0  🗣 Python  📅 2026-11-04
+     🔗 https://github.com/medhatsaif010/horus-intel
+     📝 Signed threat-intel pack for Horus (CISA KEV, NVD, endoflife.date, Windows build…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-06 22:47:45 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-06 22:47:45 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-06 22:47:48 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 43 NUOVI repository:
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 wonderhoy-labs/saki
+     ⭐ 0  🗣 Rust  📅 2026-11-06
+     🔗 https://github.com/wonderhoy-labs/saki
+     📝 Full-duplex networking over Bluetooth.
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 vampireLibrarianMonk/secure-coding-principles
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/vampireLibrarianMonk/secure-coding-principles
+     📝 A collection of reusable tools and guides that help AI coding assistants write c…
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 ernimen7/esp32-p4-c6-le-audio
+     ⭐ 1  🗣 C  📅 2026-11-06
+     🔗 https://github.com/ernimen7/esp32-p4-c6-le-audio
+     📝 Bluetooth LE Audio (stereo, LC3) on ESP32-P4 + ESP32-C6: a CIS link layer on the…
+     🏷  bluetooth-le-audio, bluetooth-low-energy, cyberdeck, esp-idf, esp32, esp32-c6, esp32-p4, lc3, le-audio, m5stack, m5stack-tab5
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 seccontrol/seccontrol-sentinel
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/seccontrol/seccontrol-sentinel
+     📝 SecControl Sentinel - Open-Source Endpoint Security, Behavioral Antivirus & Peri…
+     🏷  antivirus, cybersecurity, easm, edr, endpoint-security, file-integrity-monitoring, malware-analysis, nis2-compliance, python, soc-tools, threat-intelligence
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 agentsecuritylab/agentwatch-lite
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/agentsecuritylab/agentwatch-lite
+     📝 Claude code local security dashboard with ollama alert summary 
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 Hazelnut965/SOC-Security-Monitoring-Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-06
+     🔗 https://github.com/Hazelnut965/SOC-Security-Monitoring-Lab
+     📝 Hands-on SOC lab covering Windows and Linux authentication monitoring, security …
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 Quenton-Horton/NOAA_NODD
+     ⭐ 0  🗣 Go  📅 2026-11-06
+     🔗 https://github.com/Quenton-Horton/NOAA_NODD
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 Merit-Legal/mcp-ukrainian-law
+     ⭐ 0  🗣 N/A  📅 2026-11-06
+     🔗 https://github.com/Merit-Legal/mcp-ukrainian-law
+     📝 MCP for Ukrainian Law & Registers
+     🏷  legal-ai, legal-tech, mcp, mcp-server, ukrainian-law
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 royrupp/driftnet
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/royrupp/driftnet
+     📝 Local macOS EDR - real-time alerts, MITRE ATT&CK rules, on-device LLM investigat…
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 Gursimran555/northstar-intrusion-analysis
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/Gursimran555/northstar-intrusion-analysis
+     📝 Intelligence-led analysis of a simulated healthcare intrusion: ACH tool that fin…
+     🏷  cybersecurity, incident-response, intelligence-analysis, kql, microsoft-sentinel, mitre-attack, threat-hunting, threat-intelligence
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 kridsadar357/vswarm
+     ⭐ 0  🗣 TypeScript  📅 2026-11-05
+     🔗 https://github.com/kridsadar357/vswarm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 VicenteVJ/simulando_Malware_Desafio_dio
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/VicenteVJ/simulando_Malware_Desafio_dio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 dfjkly7f/kms-research-tool
+     ⭐ 0  🗣 HTML  📅 2026-11-06
+     🔗 https://github.com/dfjkly7f/kms-research-tool
+     📝 Open-source Windows KMS setup research tool for controlled laboratory study
+     🏷  activator, kms, kms-activator, kmsactivator, windows
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 techkush/eo-link-simulator
+     ⭐ 0  🗣 TypeScript  📅 2026-11-06
+     🔗 https://github.com/techkush/eo-link-simulator
+     📝 3D Earth-observation link simulator: real satellites and ground stations, link b…
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 prince-sernine/charlier
+     ⭐ 0  🗣 TypeScript  📅 2026-11-06
+     🔗 https://github.com/prince-sernine/charlier
+     📝 Instant, zero-dependency multi-account switcher, profile vault, and live model q…
+     🏷  account-switcher, ai-ide, antigravity, antigravity-ide, google-antigravity, multi-account, openvsx, quota-monitor, vscode-extension
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 edrisdeanstub/edrisdeanstub-snippets
+     ⭐ 0  🗣 N/A  📅 2026-11-06
+     🔗 https://github.com/edrisdeanstub/edrisdeanstub-snippets
+     📝 Edrisdeanstub 的练习项目
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 TiQHUB/tiqhub-links-library
+     ⭐ 0  🗣 HTML  📅 2026-11-06
+     🔗 https://github.com/TiQHUB/tiqhub-links-library
+     📝 Contains all the link's based on the research we had done so far.
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 myenglishclass172pvh/daydream-ble
+     ⭐ 0  🗣 Kotlin  📅 2026-11-06
+     🔗 https://github.com/myenglishclass172pvh/daydream-ble
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 amanzargari/esp32-2.4ghz-sdr
+     ⭐ 1  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/amanzargari/esp32-2.4ghz-sdr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 ManoAlee/santander-ciberseguranca-desafio-malware
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/ManoAlee/santander-ciberseguranca-desafio-malware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 levilansing/anti-burn-mac
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/levilansing/anti-burn-mac
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 Leocam04/generador-de-reportes-de-seguridad
+     ⭐ 0  🗣 C#  📅 2026-11-06
+     🔗 https://github.com/Leocam04/generador-de-reportes-de-seguridad
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 TanimSec/Tasnim_Rahman_Tanim-Resume
+     ⭐ 0  🗣 N/A  📅 2026-11-06
+     🔗 https://github.com/TanimSec/Tasnim_Rahman_Tanim-Resume
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 Hika-sec/Bof-All-The-Things
+     ⭐ 0  🗣 C  📅 2026-11-06
+     🔗 https://github.com/Hika-sec/Bof-All-The-Things
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 jfisay/earlybird-detection-lab
+     ⭐ 0  🗣 C  📅 2026-11-06
+     🔗 https://github.com/jfisay/earlybird-detection-lab
+     📝 Early Bird APC injection (T1055.004) detection lab — what Sysmon and Defender ac…
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 aleenakotadiya16/dfir-toolkit-incident-response-and-ai-systems-forensics
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/aleenakotadiya16/dfir-toolkit-incident-response-and-ai-systems-forensics
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 zghstart/feilian-control
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/zghstart/feilian-control
+     📝 macOS one-click stop/restore for FeiLian (CorpLink), with a Touch ID-gated root …
+     🏷  applescript, corplink, feilian, launchd, macos, swift, touch-id
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 vitoriabalestrini/Desafio-Malware-Python-Dio.me
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/vitoriabalestrini/Desafio-Malware-Python-Dio.me
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 Bbc-X-Twitter/edre
+     ⭐ 0  🗣 HTML  📅 2026-11-06
+     🔗 https://github.com/Bbc-X-Twitter/edre
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 cyber-minded/Veytrix-v.1.2
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/cyber-minded/Veytrix-v.1.2
+     📝 **Veytrix V1.2** is a cybersecurity monitoring and threat detection tool designe…
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 SkidGod4444/editmax
+     ⭐ 1  🗣 Swift  📅 2026-11-05
+     🔗 https://github.com/SkidGod4444/editmax
+     📝 A native macOS video editor your coding agent can drive: cut, grade, caption and…
+     🏷  agentic, ai-agents, avfoundation, claude-code, macos, mcp, mcp-server, swift, swiftui, video-editing, video-editor
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 tmlorrifeatherstone/edra-ml
+     ⭐ 0  🗣 N/A  📅 2026-11-06
+     🔗 https://github.com/tmlorrifeatherstone/edra-ml
+     📝 learning by building
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 jaira875/infosec-analyst-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-11-06
+     🔗 https://github.com/jaira875/infosec-analyst-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 ibrahimdericioglu-rgb/Ibrahim-dericio-lu
+     ⭐ 0  🗣 Kotlin  📅 2026-11-06
+     🔗 https://github.com/ibrahimdericioglu-rgb/Ibrahim-dericio-lu
+     📝 kalkan anrodid
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 l330-c/CTos
+     ⭐ 0  🗣 HTML  📅 2026-11-05
+     🔗 https://github.com/l330-c/CTos
+     📝 PAINEL DE TESTE DE CARGA - apenas para fins educativos, estudos e pesquisa
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 zawky62/CACyber-agent
+     ⭐ 0  🗣 Go  📅 2026-11-06
+     🔗 https://github.com/zawky62/CACyber-agent
+     📝 CACyber Agent — audit de cybersécurité en lecture seule, autorisé par mandat (Ap…
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 nikhilswayam16-cmyk/aegisnet-soc
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/nikhilswayam16-cmyk/aegisnet-soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 cyber-minded/Veytrix
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/cyber-minded/Veytrix
+     📝 **Veytrix V1.0** is a cybersecurity monitoring and threat detection tool designe…
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 arnzg/tenable-attack-path-firewall
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/arnzg/tenable-attack-path-firewall
+     📝 Validate Tenable One attack paths against your firewall rulebase — surface the p…
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 Wilfredo-Arahuiza/Wazuh-Ransomware-Mitigation
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/Wilfredo-Arahuiza/Wazuh-Ransomware-Mitigation
+     📝 Automated Ransomware Detection and Mitigation using Wazuh SIEM Active Response
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 louishoang711/Purple-team-SOC-Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-06
+     🔗 https://github.com/louishoang711/Purple-team-SOC-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 zahid225o/veytrix
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/zahid225o/veytrix
+     📝 Offline suspicious-process detection for Windows 10/11 and Kali Linux. Rule-base…
+     🏷  —
+[2026-11-06 22:47:48 UTC] [NEW]   🆕 📦 hhduong882-ux/wazuh-edr-powershell-t1059
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/hhduong882-ux/wazuh-edr-powershell-t1059
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:48 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-06 22:47:48 UTC] [UPD]   📢 📦 izikipizi/nizlo-msp-operations-resources
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/izikipizi/nizlo-msp-operations-resources
+     📝 Free MSP and RMM ROI/payback calculators, pricing data, vendor due diligence, au…
+     🏷  api-security, checklists, cost-calculator, due-diligence, endpoint-management, incident-response, it-operations, managed-service-provider, migration-planning, msp, msp-tools, patch-management, pricing-transparency, remote-monitoring-and-management, rmm, rmm-pricing, rmm-software, roi-calculator, third-party-risk, vendor-risk-management
+     🔄 Motivo: repo recente (5gg)
+[2026-11-06 22:47:48 UTC] [UPD]   📢 📦 Cubewise-JoeCHK/activity-daemon
+     ⭐ 0  🗣 Rust  📅 2026-11-03
+     🔗 https://github.com/Cubewise-JoeCHK/activity-daemon
+     📝 Headless Windows activity recorder (Rust): window/AFK tracking, screen+OCR, meet…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-11-06 22:47:48 UTC] [UPD]   📢 📦 estul-lachin/uig-lab
+     ⭐ 0  🗣 Shell  📅 2026-11-01
+     🔗 https://github.com/estul-lachin/uig-lab
+     📝 Every IT skill I learn, turned into a resettable Docker lab with automated check…
+     🏷  bash, cybersecurity, docker, github-pages, homelab, it-support, linux
+     🔄 Motivo: repo recente (5gg)
+[2026-11-06 22:47:48 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-06 22:47:48 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-06 22:47:52 UTC] [INFO]   → 49 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 AgusOwner/ZonaCheats
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/AgusOwner/ZonaCheats
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 well0nez/nnke-08ad43
+     ⭐ 0  🗣 JavaScript  📅 2026-11-06
+     🔗 https://github.com/well0nez/nnke-08ad43
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 gboxvip4-del/no-3444
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/gboxvip4-del/no-3444
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 gboxvip4-del/xoiissss
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/gboxvip4-del/xoiissss
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 gboxvip4-del/NOVO-VERDE-
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/gboxvip4-del/NOVO-VERDE-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 alan-maguire/agentcracker
+     ⭐ 0  🗣 Rust  📅 2026-11-06
+     🔗 https://github.com/alan-maguire/agentcracker
+     📝 Run coding agents in disposable Firecracker microVMs, then review their changes …
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 GamersRTG/GamersRTG.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-06
+     🔗 https://github.com/GamersRTG/GamersRTG.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 Hika-sec/Bof-All-The-Things
+     ⭐ 0  🗣 C  📅 2026-11-06
+     🔗 https://github.com/Hika-sec/Bof-All-The-Things
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 ggnicchen0x/Porky3105
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/ggnicchen0x/Porky3105
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 aj89000/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-06
+     🔗 https://github.com/aj89000/14
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [NEW]   🆕 📦 sp10e/15
+     ⭐ 0  🗣 JavaScript  📅 2026-11-06
+     🔗 https://github.com/sp10e/15
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-06 22:47:52 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-06 22:47:52 UTC] [UPD]   📢 📦 ahmedishtar/14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-06
+     🔗 https://github.com/ahmedishtar/14
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-06 22:47:52 UTC] [UPD]   📢 📦 Ghost-Bx1/ghost-privesc
+     ⭐ 0  🗣 Python  📅 2026-11-05
+     🔗 https://github.com/Ghost-Bx1/ghost-privesc
+     📝 Linux privilege escalation checker - SUID, sudo, cron, writable paths, capabilit…
+     🏷  linux, offensive-security, pentest, privilege-escalation, python, red-team, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-11-06 22:47:52 UTC] [INFO] ============================================================
+[2026-11-06 22:47:52 UTC] [INFO] Completato — 55 nuovi, 7 aggiornati, 0 errori
+[2026-11-06 22:47:52 UTC] [INFO] ============================================================
