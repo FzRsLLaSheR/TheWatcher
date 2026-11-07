@@ -132197,3 +132197,229 @@
 [2026-11-06 22:47:52 UTC] [INFO] ============================================================
 [2026-11-06 22:47:52 UTC] [INFO] Completato — 55 nuovi, 7 aggiornati, 0 errori
 [2026-11-06 22:47:52 UTC] [INFO] ============================================================
+[2026-11-07 05:01:35 UTC] [INFO] ============================================================
+[2026-11-07 05:01:35 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-07 05:01:35 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-07 05:01:35 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-07 05:01:35 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-07 05:01:35 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-07 05:01:35 UTC] [INFO] ============================================================
+[2026-11-07 05:01:35 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-07 05:01:35 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-07 05:01:37 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-07 05:01:37 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-11-07 05:01:37 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-07 05:01:37 UTC] [UPD]   📢 📦 seliyyah/windows-dfir-collector
+     ⭐ 0  🗣 PowerShell  📅 2026-11-05
+     🔗 https://github.com/seliyyah/windows-dfir-collector
+     📝 Blue-team Windows DFIR live-response collector in PowerShell. Captures memory, v…
+     🏷  blue-team, dfir, digital-forensics, eric-zimmerman, forensics, incident-response, kape, live-response, memory-forensics, powershell, sysinternals, threat-hunting, triage, velociraptor, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-11-07 05:01:37 UTC] [UPD]   📢 📦 Ablation-Tool/ablation
+     ⭐ 3  🗣 Python  📅 2026-11-01
+     🔗 https://github.com/Ablation-Tool/ablation
+     📝 Ablation is an AI-assisted reverse engineering (AIARE) framework
+     🏷  a11y, made-in-usa, reverse-engineering
+     🔄 Motivo: repo recente (5gg)
+[2026-11-07 05:01:37 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-07 05:01:37 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-07 05:01:40 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 glucas1864/Projeto-de-simula-o-de-malware
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/glucas1864/Projeto-de-simula-o-de-malware
+     📝 Projeto de simulação de malware em ambiente seguro, desenvolvido em Python. Fora…
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 dravidmurugavel/Defender-EDR-Threat-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/dravidmurugavel/Defender-EDR-Threat-Hunting
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 worldcybereyes-blip/SOC-Dashboard
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/worldcybereyes-blip/SOC-Dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 Eddyll1/soc-ia-analyzer
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/Eddyll1/soc-ia-analyzer
+     📝 Programa para analizar eventos desde un SIEM
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 Mastermegamind/megamind-security-agent
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/Mastermegamind/megamind-security-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 NoizeBoy/DIO-Simulando-um-Malware-em-Python-e-Aprendendo-a-se-Proteger
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/NoizeBoy/DIO-Simulando-um-Malware-em-Python-e-Aprendendo-a-se-Proteger
+     📝 Simulando um Malware de Captura de Dados Simples em Python e Aprendendo a se Pro…
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 Ronaldo94-cf/Criando-Ransomware-e-Keylogger-teste-aula-Ciberseguranca-
+     ⭐ 0  🗣 N/A  📅 2026-11-06
+     🔗 https://github.com/Ronaldo94-cf/Criando-Ransomware-e-Keylogger-teste-aula-Ciberseguranca-
+     📝 Desenvolver, documentar e compartilhar um projeto em Python que simule malwares …
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 j-curreri/mini-soc
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/j-curreri/mini-soc
+     📝 SOC alert-triage agent benchmark: custom loop vs LangGraph+AutoGen vs Codex/Gemi…
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 ghostparticle404/cybersecurity-visual-study-guides
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/ghostparticle404/cybersecurity-visual-study-guides
+     📝 Visual cybersecurity study guides explaining networking, cryptography, security …
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 org-morluto/rea-skills4redteam
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-skills4redteam
+     📝 Mirror of morluto/rea-skills4redteam
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 org-morluto/rea-redteam-reversing-tools
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-redteam-reversing-tools
+     📝 Mirror of morluto/rea-redteam-reversing-tools
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 org-morluto/rea-otto-ai-security
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-otto-ai-security
+     📝 Mirror of morluto/rea-otto-ai-security
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 cloud-secure-ai/Building-a-Defender-Security-Dashboard
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/cloud-secure-ai/Building-a-Defender-Security-Dashboard
+     📝 Microsoft Defender portal workbook and KQL queries for sensor health, Tier 0 cov…
+     🏷  kql, microsoft-defender, security, workbooks
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 org-morluto/rea-gmh-skills
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-gmh-skills
+     📝 Mirror of morluto/rea-gmh-skills
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 org-morluto/rea-gmh-ai-security
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-gmh-ai-security
+     📝 Mirror of morluto/rea-gmh-ai-security
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 org-morluto/rea-all-defense
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-all-defense
+     📝 Mirror of morluto/rea-all-defense
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 wasay-bit/detection-engineering-lab
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/wasay-bit/detection-engineering-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 tobiasGuta/TraceForge
+     ⭐ 0  🗣 JavaScript  📅 2026-11-07
+     🔗 https://github.com/tobiasGuta/TraceForge
+     📝 A self-hosted web platform for Windows forensic analysis, threat hunting, incide…
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 GustavoAzvdo/DIO_Bootcamp_Project_2
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/GustavoAzvdo/DIO_Bootcamp_Project_2
+     📝 Simulação prática e didática de malwares (Ransomware e Keylogger) desenvolvida e…
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 edracole62/edracole-notes
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/edracole62/edracole-notes
+     📝 个人笔记与练习
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 JoaoHenriqueJPG/cloud-infra-advisor
+     ⭐ 0  🗣 HTML  📅 2026-11-06
+     🔗 https://github.com/JoaoHenriqueJPG/cloud-infra-advisor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 darthruver007/diagnostico_transformacao_digital
+     ⭐ 0  🗣 HTML  📅 2026-11-07
+     🔗 https://github.com/darthruver007/diagnostico_transformacao_digital
+     📝 Projeto acadêmico de diagnóstico e transformação digital, focado em modernização…
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 qmmughal/iisguard
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/qmmughal/iisguard
+     📝 Free MIT-licensed web-server defense toolkit: audit, detect, block, fix, share r…
+     🏷  cisa-kev, iis, security, waf
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 Ret2Voidx/Ret2Voidx.github.io
+     ⭐ 0  🗣 HTML  📅 2026-11-06
+     🔗 https://github.com/Ret2Voidx/Ret2Voidx.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:40 UTC] [NEW]   🆕 📦 nowireless/v100-k8s
+     ⭐ 0  🗣 Dockerfile  📅 2026-11-06
+     🔗 https://github.com/nowireless/v100-k8s
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:40 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-07 05:01:40 UTC] [UPD]   📢 📦 domvid2005/WXPlane
+     ⭐ 0  🗣 C++  📅 2026-10-30
+     🔗 https://github.com/domvid2005/WXPlane
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-11-07 05:01:40 UTC] [UPD]   📢 📦 izikipizi/nizlo-msp-operations-resources
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/izikipizi/nizlo-msp-operations-resources
+     📝 Free MSP and RMM troubleshooting guides, endpoint-identity checklists, pricing d…
+     🏷  api-security, checklists, due-diligence, endpoint-identity, endpoint-management, incident-response, it-operations, managed-service-provider, migration-planning, msp, msp-tools, patch-management, pricing-transparency, remote-monitoring-and-management, rmm, rmm-pricing, rmm-software, rmm-troubleshooting, roi-calculator, vendor-risk-management
+     🔄 Motivo: repo recente (5gg) | nuovi topic: endpoint-identity, rmm-troubleshooting
+[2026-11-07 05:01:40 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-07 05:01:40 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-07 05:01:42 UTC] [INFO]   → 32 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-07 05:01:42 UTC] [NEW]   🆕 8 NUOVI repository:
+[2026-11-07 05:01:42 UTC] [NEW]   🆕 📦 samuelroyal/sealgate
+     ⭐ 0  🗣 TypeScript  📅 2026-11-07
+     🔗 https://github.com/samuelroyal/sealgate
+     📝 The future of AI security.
+     🏷  —
+[2026-11-07 05:01:42 UTC] [NEW]   🆕 📦 dungleioshax-droid/LienQuanDS
+     ⭐ 0  🗣 C  📅 2026-11-07
+     🔗 https://github.com/dungleioshax-droid/LienQuanDS
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:42 UTC] [NEW]   🆕 📦 org-morluto/rea-redteam-reversing-tools
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-redteam-reversing-tools
+     📝 Mirror of morluto/rea-redteam-reversing-tools
+     🏷  —
+[2026-11-07 05:01:42 UTC] [NEW]   🆕 📦 org-morluto/rea-grimoire-docs-source
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-grimoire-docs-source
+     📝 Mirror of morluto/rea-grimoire-docs-source
+     🏷  —
+[2026-11-07 05:01:42 UTC] [NEW]   🆕 📦 v4ipe/starrybreak
+     ⭐ 0  🗣 JavaScript  📅 2026-11-07
+     🔗 https://github.com/v4ipe/starrybreak
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:42 UTC] [NEW]   🆕 📦 djihane19/link-detonator
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/djihane19/link-detonator
+     📝 AI agent that investigates hostile web pages inside a verified sandbox on Vultr
+     🏷  —
+[2026-11-07 05:01:42 UTC] [NEW]   🆕 📦 AgusOwner/Ackerman
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/AgusOwner/Ackerman
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:42 UTC] [NEW]   🆕 📦 gboxvip4-del/436666666
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/gboxvip4-del/436666666
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 05:01:42 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-07 05:01:42 UTC] [UPD]   📢 📦 K0stIa/local-model-bench
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/K0stIa/local-model-bench
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-07 05:01:42 UTC] [UPD]   📢 📦 well0nez/afterglow-web
+     ⭐ 44  🗣 JavaScript  📅 2026-11-02
+     🔗 https://github.com/well0nez/afterglow-web
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-11-07 05:01:42 UTC] [INFO] ============================================================
+[2026-11-07 05:01:42 UTC] [INFO] Completato — 33 nuovi, 6 aggiornati, 0 errori
+[2026-11-07 05:01:42 UTC] [INFO] ============================================================
