@@ -132423,3 +132423,277 @@
 [2026-11-07 05:01:42 UTC] [INFO] ============================================================
 [2026-11-07 05:01:42 UTC] [INFO] Completato — 33 nuovi, 6 aggiornati, 0 errori
 [2026-11-07 05:01:42 UTC] [INFO] ============================================================
+[2026-11-07 12:37:03 UTC] [INFO] ============================================================
+[2026-11-07 12:37:03 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-07 12:37:03 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-07 12:37:03 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-07 12:37:03 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-07 12:37:03 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-07 12:37:03 UTC] [INFO] ============================================================
+[2026-11-07 12:37:03 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-07 12:37:03 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-07 12:37:05 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-07 12:37:05 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-07 12:37:05 UTC] [NEW]   🆕 📦 njuj/driver-guard
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/njuj/driver-guard
+     📝 Find vulnerable and malicious kernel drivers (BYOVD) on Windows: LOLDrivers by f…
+     🏷  blue-team, byovd, dfir, kernel-driver, loldrivers, windows-security
+[2026-11-07 12:37:05 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-07 12:37:05 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-07 12:37:05 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-07 12:37:07 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 34 NUOVI repository:
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 jarufino/desafio-ransoware-keylogger
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/jarufino/desafio-ransoware-keylogger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 marcderialp/Prompt-Pray
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/marcderialp/Prompt-Pray
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 vyrxone/Sentinal
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/vyrxone/Sentinal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 ibadrather/tech-art
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/ibadrather/tech-art
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 Rootexploiter5/DEFENz
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/Rootexploiter5/DEFENz
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 Abdelrahman-Elzein/LimaCharlie-Tines-SOAR-EDR-Automation
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/Abdelrahman-Elzein/LimaCharlie-Tines-SOAR-EDR-Automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 gattsnloyb/edrmbe
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/gattsnloyb/edrmbe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 1Reemah/Botnet-C2-Detection-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/1Reemah/Botnet-C2-Detection-Analysis
+     📝 Blue-team analysis of a C2/botnet lab simulation — network IOCs, MITRE ATT&CK ma…
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 jp101216/ITriage
+     ⭐ 0  🗣 Rust  📅 2026-11-07
+     🔗 https://github.com/jp101216/ITriage
+     📝 IT triage tool
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 joe-haddad3/joe-haddad3
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/joe-haddad3/joe-haddad3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 Edris-Bahram/edris.dev
+     ⭐ 0  🗣 HTML  📅 2026-11-07
+     🔗 https://github.com/Edris-Bahram/edris.dev
+     📝 My clone repository
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 thannasudhir9/AI-MonitorEngine-Spyware
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/thannasudhir9/AI-MonitorEngine-Spyware
+     📝 AI-MonitorEngine-Spyware-AGravity-07.11.2026
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 afer00t/incident-desk
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/afer00t/incident-desk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 darrenhnr06/edrian-rhea-wedding-invitation
+     ⭐ 0  🗣 HTML  📅 2026-11-07
+     🔗 https://github.com/darrenhnr06/edrian-rhea-wedding-invitation
+     📝 An immersive interactive wedding invitation for Edrian and Rhea
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 nagendrasiddi95-max/elementary-dbt-data-quality-monitoring-v2
+     ⭐ 1  🗣 N/A  📅 2026-11-06
+     🔗 https://github.com/nagendrasiddi95-max/elementary-dbt-data-quality-monitoring-v2
+     📝 Data quality monitoring using dbt, Elementary, and ClickHouse.
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 sych2/opencti-intel
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/sych2/opencti-intel
+     📝 Self-hosted OpenCTI threat intelligence platform via Docker Compose.
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 grimh3xx/pe-binaries
+     ⭐ 1  🗣 C++  📅 2026-11-07
+     🔗 https://github.com/grimh3xx/pe-binaries
+     📝 EDR-evasion artifact detector for Windows PE binaries, in portable C++17. Flags …
+     🏷  blue-team, cpp, edr, malware-analysis, pe, reverse-engineering, security
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 org-morluto/rea-gmh-game-security
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-gmh-game-security
+     📝 Mirror of morluto/rea-gmh-game-security
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 Maverickk96/Autonomous-SOC-Agent
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/Maverickk96/Autonomous-SOC-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 edrisfisheresv/edrisfisheresv-notes
+     ⭐ 0  🗣 Go  📅 2026-11-07
+     🔗 https://github.com/edrisfisheresv/edrisfisheresv-notes
+     📝 Cloud engineer · Pulumi and TypeScript
+     🏷  cli, minimal
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 Shreya-01-Cyber/Windows-Service-Process-Monitor
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/Shreya-01-Cyber/Windows-Service-Process-Monitor
+     📝 Python-based Windows service and process monitoring agent with security auditing…
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 phamhoa205/NCKH_Blockchain_ICTU
+     ⭐ 0  🗣 JavaScript  📅 2026-11-07
+     🔗 https://github.com/phamhoa205/NCKH_Blockchain_ICTU
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 didiergrimaldi-ai/SOC_2
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/didiergrimaldi-ai/SOC_2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 dutchmantrooper/ciberseguridad
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/dutchmantrooper/ciberseguridad
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 abhi-302-e/CyberGuard-AI
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/abhi-302-e/CyberGuard-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 didiergrimaldi-ai/SOC
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/didiergrimaldi-ai/SOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 didiergrimaldi-ai/sesion_3
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/didiergrimaldi-ai/sesion_3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 Arjundhanush/Network-Anomaly-and-Beaconing-Detector-
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-11-07
+     🔗 https://github.com/Arjundhanush/Network-Anomaly-and-Beaconing-Detector-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 cidkageno4444-coder/aotr
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/cidkageno4444-coder/aotr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 wanderermonk/Defender
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/wanderermonk/Defender
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 Richard8695847/SystemHelper
+     ⭐ 1  🗣 HTML  📅 2026-11-07
+     🔗 https://github.com/Richard8695847/SystemHelper
+     📝 Preinstalled Android component com.mobiletools.systemhelper: what it collects, w…
+     🏷  android, china-unicom, malware-analysis, preinstalled-apps, privacy, reverse-engineering, telemetry
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 amsidik17/Attendance
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/amsidik17/Attendance
+     📝 EDR dan Training
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 TSS-ARO/ShizukuGuard
+     ⭐ 1  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/TSS-ARO/ShizukuGuard
+     📝 Powerful Android antivirus software that requires shizuku/root
+     🏷  —
+[2026-11-07 12:37:07 UTC] [NEW]   🆕 📦 UtzXimnUspAp6319/edr-agent-10492
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/UtzXimnUspAp6319/edr-agent-10492
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:07 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-07 12:37:07 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-07 12:37:07 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-07 12:37:09 UTC] [INFO]   → 39 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 10 NUOVI repository:
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 d3vin4/ZaLG
+     ⭐ 0  🗣 Swift  📅 2026-11-06
+     🔗 https://github.com/d3vin4/ZaLG
+     📝 Zalo Liquid Glass — documented, reproducible Liquid Glass UI customization for a…
+     🏷  —
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 techdevfun/cellrun
+     ⭐ 0  🗣 TypeScript  📅 2026-11-07
+     🔗 https://github.com/techdevfun/cellrun
+     📝 Run one agent task in a fresh, disposable cell - scrubbed environment, network o…
+     🏷  ai-agents, cli, devtools, isolation, mcp, prompt-injection, sandbox, security
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 BlxckJack0/LondonBridge-writeup
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/BlxckJack0/LondonBridge-writeup
+     📝 LondonBridge writeup
+     🏷  burp-suite, firefox, kernelexploit, nmap, privilege-escalation, rce, reconnaissance, rootshell, ssrf, ssrf-detection-, ssrf-exploit
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 ahmedantarAi/PatchPilot
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/ahmedantarAi/PatchPilot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 a17163/ioswallets
+     ⭐ 0  🗣 Swift  📅 2026-11-07
+     🔗 https://github.com/a17163/ioswallets
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 a78c7/w25-cve-2026-43499-notes
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/a78c7/w25-cve-2026-43499-notes
+     📝 Field notes: CVE-2026-43499 on Samsung Galaxy W25 (SM-W9025, CHC) - offsets, fai…
+     🏷  —
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 org-morluto/rea-gmh-game-security
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/org-morluto/rea-gmh-game-security
+     📝 Mirror of morluto/rea-gmh-game-security
+     🏷  —
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 exesep/afterglow-web
+     ⭐ 0  🗣 JavaScript  📅 2026-11-07
+     🔗 https://github.com/exesep/afterglow-web
+     📝 Nothing 
+     🏷  —
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 Smithdonna837/kernel-exploit-67291
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/Smithdonna837/kernel-exploit-67291
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-07 12:37:09 UTC] [NEW]   🆕 📦 njuj/driver-guard
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/njuj/driver-guard
+     📝 Find vulnerable and malicious kernel drivers (BYOVD) on Windows: LOLDrivers by f…
+     🏷  blue-team, byovd, dfir, kernel-driver, loldrivers, windows-security
+[2026-11-07 12:37:09 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-11-07 12:37:09 UTC] [UPD]   📢 📦 alan-maguire/agentcracker
+     ⭐ 0  🗣 Rust  📅 2026-11-06
+     🔗 https://github.com/alan-maguire/agentcracker
+     📝 Run coding agents in disposable Firecracker microVMs, then review their changes …
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-07 12:37:09 UTC] [UPD]   📢 📦 dungleioshax-droid/LienQuanDS
+     ⭐ 0  🗣 C  📅 2026-11-07
+     🔗 https://github.com/dungleioshax-droid/LienQuanDS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-07 12:37:09 UTC] [UPD]   📢 📦 CT7-BX/BX-CT7.github.io
+     ⭐ 0  🗣 CSS  📅 2026-11-04
+     🔗 https://github.com/CT7-BX/BX-CT7.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-11-07 12:37:09 UTC] [UPD]   📢 📦 K0stIa/local-model-bench
+     ⭐ 0  🗣 Python  📅 2026-11-06
+     🔗 https://github.com/K0stIa/local-model-bench
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-07 12:37:09 UTC] [INFO] ============================================================
+[2026-11-07 12:37:09 UTC] [INFO] Completato — 45 nuovi, 4 aggiornati, 0 errori
+[2026-11-07 12:37:09 UTC] [INFO] ============================================================
