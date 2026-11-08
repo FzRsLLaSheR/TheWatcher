@@ -133542,3 +133542,297 @@
 [2026-11-08 12:54:18 UTC] [INFO] ============================================================
 [2026-11-08 12:54:18 UTC] [INFO] Completato — 46 nuovi, 6 aggiornati, 0 errori
 [2026-11-08 12:54:18 UTC] [INFO] ============================================================
+[2026-11-08 21:47:23 UTC] [INFO] ============================================================
+[2026-11-08 21:47:23 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-08 21:47:23 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-08 21:47:23 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-08 21:47:23 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-08 21:47:23 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-08 21:47:23 UTC] [INFO] ============================================================
+[2026-11-08 21:47:23 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-08 21:47:23 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-08 21:47:25 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-08 21:47:25 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-08 21:47:25 UTC] [NEW]   🆕 📦 xaynn/grind-scanner
+     ⭐ 4  🗣 Rust  📅 2026-11-07
+     🔗 https://github.com/xaynn/grind-scanner
+     📝 High-performance native forensic & memory anticheat scanner for Minecraft screen…
+     🏷  —
+[2026-11-08 21:47:25 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-08 21:47:25 UTC] [UPD]   📢 📦 seliyyah/windows-dfir-collector
+     ⭐ 0  🗣 PowerShell  📅 2026-11-05
+     🔗 https://github.com/seliyyah/windows-dfir-collector
+     📝 Blue-team Windows DFIR live-response collector in PowerShell. Captures memory, v…
+     🏷  blue-team, dfir, digital-forensics, eric-zimmerman, forensics, incident-response, kape, live-response, memory-forensics, powershell, sysinternals, threat-hunting, triage, velociraptor, windows
+     🔄 Motivo: repo recente (3gg)
+[2026-11-08 21:47:25 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-08 21:47:25 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-08 21:47:27 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 37 NUOVI repository:
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 leosesinyi/edr
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/leosesinyi/edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 heindall92/bluejr
+     ⭐ 0  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/heindall92/bluejr
+     📝 BlueJr: tu primer turno como analista SOC antes de tu primer empleo. Simulador l…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 synthaea-lab/scenarios
+     ⭐ 0  🗣 Shell  📅 2026-11-08
+     🔗 https://github.com/synthaea-lab/scenarios
+     📝 Synthaea — benign attack scenarios that validate the agent's detections end to e…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 nickbitzis/zero-trust-gate
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/nickbitzis/zero-trust-gate
+     📝 An identity-aware access proxy in the zero trust style: per-request decisions on…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 StNick/sendspin-bt-bridge-esp32
+     ⭐ 0  🗣 C++  📅 2026-11-08
+     🔗 https://github.com/StNick/sendspin-bt-bridge-esp32
+     📝 ESP32-S31 firmware port of sendspin-bt-bridge: a Music Assistant Sendspin player…
+     🏷  a2dp, bluetooth, esp-idf, esp32, esp32-s31, music-assistant, platformio, sendspin
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 SparklyBird/AetherEDR
+     ⭐ 1  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/SparklyBird/AetherEDR
+     📝 Standalone endpoint detection and response. Process lineage, memory inspection, …
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 dynamotech001/soc-m365-phishing-investigation
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/dynamotech001/soc-m365-phishing-investigation
+     📝 SOC Tier 1 investigation of a simulated Microsoft 365 account compromise using S…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 ToritsejuBoyo/macos-mdm-triage
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/ToritsejuBoyo/macos-mdm-triage
+     📝 macOS MDM & Jamf Profile Troubleshooter. Diagnoses install.log PackageKit errors…
+     🏷  agent-skills, apple-device-management, configuration-profiles, intune-macos, jamf-pro, kandji, macos, mdm, packagekit, troubleshooting
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 ajaykauthale1/mitochondria
+     ⭐ 0  🗣 NSIS  📅 2026-11-08
+     🔗 https://github.com/ajaykauthale1/mitochondria
+     📝 The powerhouse of local defense — lightweight, behavior-aware AI endpoint securi…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 heyethan/macattacc
+     ⭐ 0  🗣 Swift  📅 2026-11-08
+     🔗 https://github.com/heyethan/macattacc
+     📝 Defensive code-protection toolkit for Swift/macOS apps you own: build hardening,…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 aniknohan/soc-l2-incident-response-lab
+     ⭐ 1  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/aniknohan/soc-l2-incident-response-lab
+     📝 Tier 2 SOC incident response lab: five escalated incidents scoped, contained and…
+     🏷  blue-team, cybersecurity, cybersecurity-portfolio, detection-engineering, dfir, incident-response, kql, microsoft-sentinel, mitre-attack, siem, sigma-rules, soc-analyst, splunk, threat-hunting
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 Szastak/Proyecto-SOC2
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/Szastak/Proyecto-SOC2
+     📝 Proyecto Final de mi Bootcamp
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 Arik-Abdullah/wazuh-soc-lab
+     ⭐ 1  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/Arik-Abdullah/wazuh-soc-lab
+     📝 Lab guide, report templates and an example custom rule
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 wormy638/SABRE
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/wormy638/SABRE
+     📝 SABRE: Static Artifact & Binary Rule Engine - Self-contained static binary analy…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 ToritsejuBoyo/user-connectivity-triage
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/ToritsejuBoyo/user-connectivity-triage
+     📝 Level 1 Help Desk connectivity triage engine. Diagnoses Wi-Fi, DHCP, DNS, Captiv…
+     🏷  agent-skills, connectivity-troubleshooting, dns-diagnostics, endpoint-support, helpdesk, network-triage, powershell, service-desk, vpn-troubleshooting, wifi-triage
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 sashko2000/bluetooth-switcher
+     ⭐ 0  🗣 C#  📅 2026-11-08
+     🔗 https://github.com/sashko2000/bluetooth-switcher
+     📝 Windows tray app: switch a Bluetooth keyboard or speaker to this PC in one click…
+     🏷  bluetooth, magic-keyboard
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 sanawar-imran-securityengineer/CCNA-Enterprise-Networking-Labs
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/sanawar-imran-securityengineer/CCNA-Enterprise-Networking-Labs
+     📝 A comprehensive CCNA Enterprise Networking Lab built with Cisco Packet Tracer, f…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 prim0-sda1/Kojira
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/prim0-sda1/Kojira
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 lydianb79/Metroid
+     ⭐ 0  🗣 Swift  📅 2026-11-08
+     🔗 https://github.com/lydianb79/Metroid
+     📝 Metroid NES Recomp with 2026 Graphics and Sound
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 negg0s/vmemscan
+     ⭐ 1  🗣 C++  📅 2026-11-08
+     🔗 https://github.com/negg0s/vmemscan
+     📝 Windows Virtual Memory and Process Injection Forensics CLI
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 akatetron/ad-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/akatetron/ad-detection-lab
+     📝 Lab-based detection engineering: AD credential theft to lateral movement. Sigma …
+     🏷  active-directory, blue-team, detection-engineering, kql, microsoft-sentinel, mitre-attack, sigma, splunk
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 varun70/cyberarc
+     ⭐ 0  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/varun70/cyberarc
+     📝 Attack Description 
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 JoaquinHernandez/ZMSF
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/JoaquinHernandez/ZMSF
+     📝 **Zero Meaning Security Framework (ZMSF)**
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 0xk212/tryhackme-free-roadmap
+     ⭐ 3  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/0xk212/tryhackme-free-roadmap
+     📝 A curated, verified roadmap of 739 free TryHackMe rooms across 14 progressive st…
+     🏷  beginner-friendly, beginner-friendly-project, blue-team, cybersecurity, ethical-hacking, free, learning-path, learning-path-generator, learning-pathway, learning-pathways, penetration-testing, red-team, roadmap, tryhackme, tryhackme-ctf, tryhackme-module, tryhackme-walkthroughs, tryhackme-writeup
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 AmitxHack/Windows-Monitoring-Agent
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/AmitxHack/Windows-Monitoring-Agent
+     📝 Python-based Windows Process and Service Security Monitoring Agent
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 lnb2x/earfun-studio
+     ⭐ 0  🗣 Rust  📅 2026-11-07
+     🔗 https://github.com/lnb2x/earfun-studio
+     📝 Ứng dụng GTK 4 tiếng Việt điều khiển EarFun Air Pro 4 trên Ubuntu qua Bluetooth …
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 chemsse576/KernelReaper
+     ⭐ 0  🗣 PowerShell  📅 2026-11-08
+     🔗 https://github.com/chemsse576/KernelReaper
+     📝 Kernel-level EDR evasion toolkit using WHQL-signed driver for direct kernel R/W.…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 ksiddhartha2008-ux/security-system-
+     ⭐ 1  🗣 TypeScript  📅 2026-11-08
+     🔗 https://github.com/ksiddhartha2008-ux/security-system-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/ishandutta2007/Awesome-Unified-SaaS-Data-Protection-Platform
+     📝 Top Unified SaaS Data Protection Platform (Opensource)  Star if you like it! 
+     🏷  awesome-list, cloud-backup, curated-list, data-protection, disaster-recovery, ransomware-protection, saas-backup
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 Archymedes-Lab/jarvis-origin
+     ⭐ 1  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/Archymedes-Lab/jarvis-origin
+     📝 Where ARGUS-1 began: a dependency-free host monitor for WSL2 + Windows — injecte…
+     🏷  blue-team, host-monitoring, mitre-attack, python, security, threat-intelligence, windows, wsl2
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 libre-devops/ansible-role-mde-linux
+     ⭐ 0  🗣 Just  📅 2026-11-08
+     🔗 https://github.com/libre-devops/ansible-role-mde-linux
+     📝 🛡️ Ansible role for Microsoft Defender for Endpoint on Linux: install from the s…
+     🏷  ansible, ansible-role, defender-for-endpoint, linux, mdatp, microsoft-defender, security
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 zero-abd/claura
+     ⭐ 0  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/zero-abd/claura
+     📝 Claura: agentic incident response for AI data centers. Seal the breach before it…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 ademerdogan2008/hackUTD2026
+     ⭐ 0  🗣 TypeScript  📅 2026-11-07
+     🔗 https://github.com/ademerdogan2008/hackUTD2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 NotKornFlakes/playbook-defense
+     ⭐ 0  🗣 HCL  📅 2026-11-08
+     🔗 https://github.com/NotKornFlakes/playbook-defense
+     📝 Turns honeypot findings into defense: Sigma alerts for each IoT botnet step, a G…
+     🏷  deception, detection-engineering, firewall, gcp, iot-security, mitre-attack, sigma, terraform
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 MuhammadFaizan-prog/fixproof
+     ⭐ 0  🗣 TypeScript  📅 2026-11-07
+     🔗 https://github.com/MuhammadFaizan-prog/fixproof
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 MariMecucci/dio-python-malware-defense-lab
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/MariMecucci/dio-python-malware-defense-lab
+     📝 Educational Python malware behavior simulation and defensive security lab — DIO …
+     🏷  —
+[2026-11-08 21:47:27 UTC] [NEW]   🆕 📦 IronsideXXVI/omarchy-j604
+     ⭐ 0  🗣 Shell  📅 2026-11-08
+     🔗 https://github.com/IronsideXXVI/omarchy-j604
+     📝 Omarchy on the MacBook Pro 14-inch (M4, J604): patch series and recipes on the o…
+     🏷  —
+[2026-11-08 21:47:27 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-08 21:47:27 UTC] [UPD]   📢 📦 sammonsempes/ostyr
+     ⭐ 0  🗣 Rust  📅 2026-11-02
+     🔗 https://github.com/sammonsempes/ostyr
+     📝 Ostyr is an open source, modular cyber defense platform written in Rust. EDR, SI…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-11-08 21:47:27 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-08 21:47:27 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-08 21:47:29 UTC] [INFO]   → 43 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 sasobhabha/Gester
+     ⭐ 0  🗣 Objective-C  📅 2026-11-08
+     🔗 https://github.com/sasobhabha/Gester
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 AgusOwner/GalaxyX
+     ⭐ 0  🗣 Swift  📅 2026-11-08
+     🔗 https://github.com/AgusOwner/GalaxyX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 transdeveloper/oct26-and-c2
+     ⭐ 0  🗣 Rust  📅 2026-11-08
+     🔗 https://github.com/transdeveloper/oct26-and-c2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 MocLG/Time-My-Galaxy
+     ⭐ 1  🗣 C  📅 2026-11-08
+     🔗 https://github.com/MocLG/Time-My-Galaxy
+     📝 CVE-2026-98260 timerfd exploit and Shizuku launcher for the Samsung
+     🏷  —
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 iosvipgbox-coder/dxx
+     ⭐ 0  🗣 Swift  📅 2026-11-08
+     🔗 https://github.com/iosvipgbox-coder/dxx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 murk-sus/kamui-escape
+     ⭐ 27  🗣 Objective-C  📅 2026-11-08
+     🔗 https://github.com/murk-sus/kamui-escape
+     📝 KAMUI (神威) — iOS 27.x sandbox escape + MobileGestalt editor. MIT licensed, free …
+     🏷  ios, jailbreak, mit-license, mobilegestalt, sandbox-escape
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 anyhows/SwarmAlignment26
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/anyhows/SwarmAlignment26
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 Ziko000/13.60
+     ⭐ 0  🗣 JavaScript  📅 2026-11-08
+     🔗 https://github.com/Ziko000/13.60
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 minhducdepzai111-ctrl/3105-Build-MducXios
+     ⭐ 0  🗣 Swift  📅 2026-11-08
+     🔗 https://github.com/minhducdepzai111-ctrl/3105-Build-MducXios
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 outusuke/sbx
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/outusuke/sbx
+     📝 Firejail-style sandbox on bubblewrap, with a GTK4 settings editor
+     🏷  bubblewrap, bwrap, firejail-alternative, gtk4, libadwaita, linux, namespaces, python, sandbox, seccomp, security, wayland
+[2026-11-08 21:47:29 UTC] [NEW]   🆕 📦 zekog/wristlock
+     ⭐ 0  🗣 C  📅 2026-11-08
+     🔗 https://github.com/zekog/wristlock
+     📝 Kernel exploitation research on OnePlus Watch 3 (OPWWE251, Snapdragon W5+): Ghos…
+     🏷  —
+[2026-11-08 21:47:29 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-08 21:47:29 UTC] [UPD]   📢 📦 LazurNiko/CAVulnlabs
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/LazurNiko/CAVulnlabs
+     📝 Step-by-step walkthroughs of vulnerable VMs and CTF challenges (VulnHub): recon,…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-08 21:47:29 UTC] [UPD]   📢 📦 0xshijn/0xshijn
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/0xshijn/0xshijn
+     📝 GitHub Profile — Phước Toàn (0xshijn)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-08 21:47:29 UTC] [INFO] ============================================================
+[2026-11-08 21:47:29 UTC] [INFO] Completato — 49 nuovi, 4 aggiornati, 0 errori
+[2026-11-08 21:47:29 UTC] [INFO] ============================================================
