@@ -133019,3 +133019,235 @@
 [2026-11-07 21:32:37 UTC] [INFO] ============================================================
 [2026-11-07 21:32:37 UTC] [INFO] Completato — 51 nuovi, 7 aggiornati, 0 errori
 [2026-11-07 21:32:37 UTC] [INFO] ============================================================
+[2026-11-08 04:56:59 UTC] [INFO] ============================================================
+[2026-11-08 04:56:59 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-08 04:56:59 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-08 04:56:59 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-08 04:56:59 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-08 04:56:59 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-08 04:56:59 UTC] [INFO] ============================================================
+[2026-11-08 04:56:59 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-08 04:56:59 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-08 04:57:01 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-08 04:57:01 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-08 04:57:01 UTC] [NEW]   🆕 📦 Silvicultori/A-fan-speed-and-performance-control-program-developed-for-the-K3502ZA
+     ⭐ 0  🗣 C#  📅 2026-11-08
+     🔗 https://github.com/Silvicultori/A-fan-speed-and-performance-control-program-developed-for-the-K3502ZA
+     📝 为华硕K3502ZA开发的风扇转速与性能控制程序，由AI 创建
+     🏷  —
+[2026-11-08 04:57:01 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-08 04:57:01 UTC] [UPD]   📢 📦 seliyyah/windows-dfir-collector
+     ⭐ 0  🗣 PowerShell  📅 2026-11-05
+     🔗 https://github.com/seliyyah/windows-dfir-collector
+     📝 Blue-team Windows DFIR live-response collector in PowerShell. Captures memory, v…
+     🏷  blue-team, dfir, digital-forensics, eric-zimmerman, forensics, incident-response, kape, live-response, memory-forensics, powershell, sysinternals, threat-hunting, triage, velociraptor, windows
+     🔄 Motivo: repo recente (2gg)
+[2026-11-08 04:57:01 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-08 04:57:01 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-08 04:57:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 26 NUOVI repository:
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 BharathwajM/soc-portfolio-lab
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/BharathwajM/soc-portfolio-lab
+     📝 SOC lab: Microsoft Sentinel detections (KQL), a 12-hour internet RDP honeypot wi…
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 anccaz/TheKnightAgents
+     ⭐ 2  🗣 TypeScript  📅 2026-11-07
+     🔗 https://github.com/anccaz/TheKnightAgents
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-AI-Predictive-Insights-Recommendations
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/ishandutta2007/Awesome-AI-Predictive-Insights-Recommendations
+     📝 Top AI Predictive Insights Recommendations (Opensource)  Star if you like it! 
+     🏷  anomaly-detection, awesome-list, curated-list, machine-learning, predictive-analytics, recommendation-system
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 porucznikswext-source/AdvancedRansomwareAnalysis-ReverseEngineering
+     ⭐ 1  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/porucznikswext-source/AdvancedRansomwareAnalysis-ReverseEngineering
+     📝 Advanced Ransomware Analysis & Reverse Engineering: Polymorphic Malware Architec…
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 porucznikswext-source/AdvancedMalwareEngineeringReverseEngineeringLinuxWipersCodeVirtualizationandThreatDetection
+     ⭐ 1  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/porucznikswext-source/AdvancedMalwareEngineeringReverseEngineeringLinuxWipersCodeVirtualizationandThreatDetection
+     📝 Advanced Malware Engineering & Reverse Engineering: Linux Wipers, Code Virtualiz…
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 eucesar/keylogger_bootcamp
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/eucesar/keylogger_bootcamp
+     📝 keylogger_bootcamp
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-AI-Driven-Security-Operations-Hub
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/ishandutta2007/Awesome-AI-Driven-Security-Operations-Hub
+     📝 Top AI Driven Security Operations Hub (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 aphroditynp/checklist-skripsi-edrones
+     ⭐ 0  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/aphroditynp/checklist-skripsi-edrones
+     📝 Checklist skripsi Edrones: terbang sampai sidang
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 Cursed271/Cursed271
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/Cursed271/Cursed271
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 exh555/PSRPM
+     ⭐ 0  🗣 PowerShell  📅 2026-11-07
+     🔗 https://github.com/exh555/PSRPM
+     📝 Enterprise-grade, ultra-low-overhead, fileless remote and local process monitori…
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 warmada-jobs/marketing-jobs
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/warmada-jobs/marketing-jobs
+     📝 Open marketing roles at US employers, rebuilt daily from public Greenhouse, Ashb…
+     🏷  hiring, job-board, job-search, jobs, marketing, marketing-jobs, us-jobs
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 Kannan1255720/REC
+     ⭐ 0  🗣 PowerShell  📅 2026-11-08
+     🔗 https://github.com/Kannan1255720/REC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 overgrowncarrot1/Kerberos-U2U-PA-FOR-USER-SPN-Requirement-Bypass-and-Protected-Users-Circumvention
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/overgrowncarrot1/Kerberos-U2U-PA-FOR-USER-SPN-Requirement-Bypass-and-Protected-Users-Circumvention
+     📝 Retrieve PAC of any user including Protected Users to see who is in Protected Us…
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 semantic-craft/szu-securelink-lite
+     ⭐ 0  🗣 Swift  📅 2026-11-07
+     🔗 https://github.com/semantic-craft/szu-securelink-lite
+     📝 SZU SecureLink Lite — native macOS campus zero-trust client for Shenzhen Univers…
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 ToritsejuBoyo/rvtools-migration-planner
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/ToritsejuBoyo/rvtools-migration-planner
+     📝 VMware vSphere RVTools to Proxmox VE & Hyper-V migration assessment, blocker aud…
+     🏷  agent-skills, broadcom, capacity-planning, hyper-v, migration, proxmox, rvtools, sre, virtualization, vmware
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 hiheyok/DeepColor
+     ⭐ 0  🗣 Java  📅 2026-11-07
+     🔗 https://github.com/hiheyok/DeepColor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 Jody2905/cyber-shift
+     ⭐ 0  🗣 JavaScript  📅 2026-11-08
+     🔗 https://github.com/Jody2905/cyber-shift
+     📝 A cybersecurity training game in your browser: triage SOC alerts, spot phishing,…
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 Saumya-Patel-10/SentinelZero
+     ⭐ 0  🗣 TypeScript  📅 2026-11-07
+     🔗 https://github.com/Saumya-Patel-10/SentinelZero
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 Lex0xF0C/incident-chronology-studio
+     ⭐ 0  🗣 HTML  📅 2026-11-07
+     🔗 https://github.com/Lex0xF0C/incident-chronology-studio
+     📝 A privacy-first, 100% local browser-only tool for incident response chronology &…
+     🏷  csirt, cybersecurity, cybersecurity-tools, dfir, github-pages, incident-management, incident-response, incident-timeline, offline-first, privacy-first, security-tools, soc, timeline, vanilla-javascript
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 AdityaTamakuwala/sentinel-ir
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/AdityaTamakuwala/sentinel-ir
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 ibekwejude-alt/ibekwejude-alt
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/ibekwejude-alt/ibekwejude-alt
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 ReyesJ8/Automation-Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/ReyesJ8/Automation-Lab
+     📝 Automated SecOps CVE Alert & Enrichment Pipeline
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 amulyapenki/CyberIncidentResponse
+     ⭐ 0  🗣 JavaScript  📅 2026-11-07
+     🔗 https://github.com/amulyapenki/CyberIncidentResponse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 joelmulala/soc-alert-triage-lab
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/joelmulala/soc-alert-triage-lab
+     📝 SOC Investigation Case Study: Analyzing and Containing SSH Brute-Force Authentic…
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 gitcich/itsim
+     ⭐ 0  🗣 HTML  📅 2026-11-07
+     🔗 https://github.com/gitcich/itsim
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:03 UTC] [NEW]   🆕 📦 ToritsejuBoyo/msgraph-ps-migrator
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/ToritsejuBoyo/msgraph-ps-migrator
+     📝 Deterministic AzureAD and MSOnline to Microsoft Graph PowerShell migration engin…
+     🏷  agent-skills, azuread, least-privilege, microsoft-graph, migration, msgraph, msonline, powershell
+[2026-11-08 04:57:03 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-11-08 04:57:03 UTC] [UPD]   📢 📦 Edreszz/Edris-Ocampo
+     ⭐ 0  🗣 CSS  📅 2026-11-06
+     🔗 https://github.com/Edreszz/Edris-Ocampo
+     📝 Personal Portfolio 
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-08 04:57:03 UTC] [UPD]   📢 📦 izikipizi/nizlo-msp-operations-resources
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/izikipizi/nizlo-msp-operations-resources
+     📝 Free MSP and RMM troubleshooting guides, software-deployment checklists, pricing…
+     🏷  checklists, due-diligence, endpoint-management, help-desk, incident-response, it-operations, managed-service-provider, migration-planning, msp, msp-tools, patch-management, remote-monitoring-and-management, rmm, rmm-pricing, rmm-software, rmm-troubleshooting, roi-calculator, service-desk, software-deployment, vendor-risk-management
+     🔄 Motivo: repo recente (6gg)
+[2026-11-08 04:57:03 UTC] [UPD]   📢 📦 SkidGod4444/editmax
+     ⭐ 2  🗣 Swift  📅 2026-11-05
+     🔗 https://github.com/SkidGod4444/editmax
+     📝 A native macOS video editor your coding agent can drive: cut, grade, caption and…
+     🏷  agentic, ai-agents, avfoundation, claude-code, macos, mcp, mcp-server, swift, swiftui, video-editing, video-editor
+     🔄 Motivo: repo recente (2gg)
+[2026-11-08 04:57:03 UTC] [UPD]   📢 📦 bukantarci88-cpu/TryHackMe-Security-Engineer-Path
+     ⭐ 0  🗣 N/A  📅 2026-11-07
+     🔗 https://github.com/bukantarci88-cpu/TryHackMe-Security-Engineer-Path
+     📝 Personal notes, write-ups, and hands-on labs for the TryHackMe Security Engineer…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-08 04:57:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-08 04:57:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-08 04:57:05 UTC] [INFO]   → 24 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-08 04:57:05 UTC] [NEW]   🆕 6 NUOVI repository:
+[2026-11-08 04:57:05 UTC] [NEW]   🆕 📦 buihien224/OCB
+     ⭐ 0  🗣 Java  📅 2026-11-08
+     🔗 https://github.com/buihien224/OCB
+     📝 A/B OTA installer for Android 17
+     🏷  —
+[2026-11-08 04:57:05 UTC] [NEW]   🆕 📦 rayjosediaz-dev/panthe
+     ⭐ 0  🗣 Swift  📅 2026-11-08
+     🔗 https://github.com/rayjosediaz-dev/panthe
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:05 UTC] [NEW]   🆕 📦 kienhho/Solarium
+     ⭐ 0  🗣 Swift  📅 2026-11-07
+     🔗 https://github.com/kienhho/Solarium
+     📝 An object-oriented Swift implementation of CVE-2023-41974
+     🏷  —
+[2026-11-08 04:57:05 UTC] [NEW]   🆕 📦 mambisi/crazy-bastard
+     ⭐ 0  🗣 Rust  📅 2026-11-07
+     🔗 https://github.com/mambisi/crazy-bastard
+     📝 Experimental Rust CLI for single-process macOS isolation: private sessions, expl…
+     🏷  —
+[2026-11-08 04:57:05 UTC] [NEW]   🆕 📦 0xDokkaebi/supervooc-fix
+     ⭐ 0  🗣 Shell  📅 2026-11-07
+     🔗 https://github.com/0xDokkaebi/supervooc-fix
+     📝 SUPERVOOC 80W charging fix for OnePlus 15R (CPH2769) on ColorOS 17
+     🏷  —
+[2026-11-08 04:57:05 UTC] [NEW]   🆕 📦 GamersRTG/GamersRTG.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-07
+     🔗 https://github.com/GamersRTG/GamersRTG.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 04:57:05 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-08 04:57:05 UTC] [UPD]   📢 📦 dungleioshax-droid/LienQuanDS
+     ⭐ 0  🗣 C  📅 2026-11-07
+     🔗 https://github.com/dungleioshax-droid/LienQuanDS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-08 04:57:05 UTC] [UPD]   📢 📦 a78c7/w25-cve-2026-43499-notes
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/a78c7/w25-cve-2026-43499-notes
+     📝 Field notes: CVE-2026-43499 on Samsung Galaxy W25 (SM-W9025, CHC) - offsets, fai…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-08 04:57:05 UTC] [INFO] ============================================================
+[2026-11-08 04:57:05 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
+[2026-11-08 04:57:05 UTC] [INFO] ============================================================
