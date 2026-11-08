@@ -133251,3 +133251,294 @@
 [2026-11-08 04:57:05 UTC] [INFO] ============================================================
 [2026-11-08 04:57:05 UTC] [INFO] Completato — 33 nuovi, 7 aggiornati, 0 errori
 [2026-11-08 04:57:05 UTC] [INFO] ============================================================
+[2026-11-08 12:54:12 UTC] [INFO] ============================================================
+[2026-11-08 12:54:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-08 12:54:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-08 12:54:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-08 12:54:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-08 12:54:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-08 12:54:12 UTC] [INFO] ============================================================
+[2026-11-08 12:54:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-08 12:54:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-08 12:54:14 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-08 12:54:14 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-08 12:54:14 UTC] [NEW]   🆕 📦 llr-xxhh/logwarden
+     ⭐ 1  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/llr-xxhh/logwarden
+     📝 中文应急响应日志排查工作台 · DuckDB 引擎 · 证据清单驱动 · AI 可直接操盘
+     🏷  blue-team, chinese, dfir, digital-forensics, duckdb, incident-response, log-analysis, security-tools
+[2026-11-08 12:54:14 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-08 12:54:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-08 12:54:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-08 12:54:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 36 NUOVI repository:
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 gharbiramzi/Microsoft-Defender-XDR-fonctionnement-global-EDR
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/gharbiramzi/Microsoft-Defender-XDR-fonctionnement-global-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 tmaetasit/pdpa-leak-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/tmaetasit/pdpa-leak-detection-lab
+     📝 Home lab that detects Thai personal data (national IDs) leaving an endpoint via …
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 synthaea-lab/edr-ml
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/synthaea-lab/edr-ml
+     📝 Synthaea EDR/XDR — ML pipeline: datasets, training, calibration, evaluation, mod…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 synthaea-lab/edr-server
+     ⭐ 0  🗣 TypeScript  📅 2026-11-08
+     🔗 https://github.com/synthaea-lab/edr-server
+     📝 Synthaea EDR/XDR — control plane (Next.js + PostgreSQL).
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 Tanapat-SL/EDR-project-396
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/Tanapat-SL/EDR-project-396
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 RV-CHATAY/ssssss
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/RV-CHATAY/ssssss
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 swc188/self_heal_kit
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/swc188/self_heal_kit
+     📝 self_heal_kit
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 gameboyduck/dio-python-malware-lab
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/gameboyduck/dio-python-malware-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 croco32/Farrada
+     ⭐ 0  🗣 JavaScript  📅 2026-11-08
+     🔗 https://github.com/croco32/Farrada
+     📝 Farrada: an out-of-band, encrypted command center for cyber incident response. B…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 synthaea-lab/edr-agent
+     ⭐ 0  🗣 Rust  📅 2026-11-08
+     🔗 https://github.com/synthaea-lab/edr-agent
+     📝 Synthaea EDR/XDR — Rust endpoint agent: sensors, detection engines, response, tr…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 coolchenK/LG-gram-16Z90RS-Hackintosh
+     ⭐ 0  🗣 ASL  📅 2026-11-07
+     🔗 https://github.com/coolchenK/LG-gram-16Z90RS-Hackintosh
+     📝 OpenCore 1.0.8 EFI for LG gram Style 16 (16Z90RS, i5-1340P, Iris Xe) running mac…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 seniru-ekanayake/seniru-ekanayake
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/seniru-ekanayake/seniru-ekanayake
+     📝 Profile README
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 synthaea-lab/edr-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-11-08
+     🔗 https://github.com/synthaea-lab/edr-lab
+     📝 Synthaea EDR/XDR — test lab: machine matrix, VM harnesses, attack scenarios.
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 advieriramos/soc
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/advieriramos/soc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 Zauro25/scripting-iocs
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/Zauro25/scripting-iocs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 synthaea-lab/edr-rules
+     ⭐ 0  🗣 YARA  📅 2026-11-08
+     🔗 https://github.com/synthaea-lab/edr-rules
+     📝 Synthaea EDR/XDR — detection content: Sigma, YARA, IOC feeds.
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 naazswe/Sentinova-ThreatLens
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/naazswe/Sentinova-ThreatLens
+     📝 Sentinova ThreatLens is a Python-based Cyber Threat Intelligence (CTI) platform …
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 perepages/hackathondeloitte
+     ⭐ 0  🗣 Python  📅 2026-11-07
+     🔗 https://github.com/perepages/hackathondeloitte
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 T-Hieu312/EDR-Agent
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/T-Hieu312/EDR-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 onlymash/enco-x4-lc3
+     ⭐ 0  🗣 PowerShell  📅 2026-11-08
+     🔗 https://github.com/onlymash/enco-x4-lc3
+     📝 OPPO Enco X4 × ColorOS 17：自定义 LC3 / LE Audio 白名单
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 T-Hieu312/XDR-Server
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/T-Hieu312/XDR-Server
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 edralinjustin123-art/EDRALIN_SEMIFINAL_PIT
+     ⭐ 0  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/edralinjustin123-art/EDRALIN_SEMIFINAL_PIT
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 elcasis/SEG_ARQUI_TEMA_8_juego
+     ⭐ 0  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/elcasis/SEG_ARQUI_TEMA_8_juego
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 covermagic/Advanced-Process-Injector
+     ⭐ 0  🗣 C++  📅 2026-11-08
+     🔗 https://github.com/covermagic/Advanced-Process-Injector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 alirezarahmani-cyber/wireshark-network-threat-investigation
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/alirezarahmani-cyber/wireshark-network-threat-investigation
+     📝 SOC Tier 1 network traffic investigation using Wireshark, featuring suspicious H…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 Raja-Muhammad-Bilal-Arshad/ARTP-AutoPent
+     ⭐ 0  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/Raja-Muhammad-Bilal-Arshad/ARTP-AutoPent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 dionnacu9888/edrawmax-ai
+     ⭐ 0  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/dionnacu9888/edrawmax-ai
+     📝 Wondershare EdrawMax combines editable diagrams, symbol libraries, and templates…
+     🏷  diagram, diagrams, documentation, drawing, flowchart, mindmap, productivity, uml-diagrams, visualization, whiteboard
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 VpSanta33/OpenEDR
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/VpSanta33/OpenEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 Elechun/Breathless-but-Not-Blind
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/Elechun/Breathless-but-Not-Blind
+     📝 Interpreting Multi-Signal Patterns of Sleep Apnea with a Sensor-Robust Periphera…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 priyadarshini116/CyberTrace-AI
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/priyadarshini116/CyberTrace-AI
+     📝 AI-powered Security Operations Center (AI-SOC) for intelligent threat detection,…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 BK-ops-spec/SOC-Investigation-Analysis-Report
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/BK-ops-spec/SOC-Investigation-Analysis-Report
+     📝 Completed SOC investigation of the Golden Invoice spearphishing incident (INC-20…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 DeyversonLima/simulador-malwares-python
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/DeyversonLima/simulador-malwares-python
+     📝 Laboratório educacional de simulação de ransomware e keylogger com Python e foco…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 ToritsejuBoyo/it-runbook-builder
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/ToritsejuBoyo/it-runbook-builder
+     📝 Automated IT Runbook and SOP generator. Converts terminal history, PowerShell se…
+     🏷  agent-skills, bash, devops, it-documentation, itsm, powershell, runbook, sop-generator, sre, standard-operating-procedure, sysadmin
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 minecraft1024a/novel-reader-gt2
+     ⭐ 0  🗣 JavaScript  📅 2026-11-08
+     🔗 https://github.com/minecraft1024a/novel-reader-gt2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 miserymart58-del/system-scanner-cyber-command
+     ⭐ 1  🗣 HTML  📅 2026-11-08
+     🔗 https://github.com/miserymart58-del/system-scanner-cyber-command
+     📝 A local-first, consent-based Windows PC health and security diagnostics dashboar…
+     🏷  —
+[2026-11-08 12:54:16 UTC] [NEW]   🆕 📦 llr-xxhh/logwarden
+     ⭐ 1  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/llr-xxhh/logwarden
+     📝 中文应急响应日志排查工作台 · DuckDB 引擎 · 证据清单驱动 · AI 可直接操盘
+     🏷  blue-team, chinese, dfir, digital-forensics, duckdb, incident-response, log-analysis, security-tools
+[2026-11-08 12:54:16 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-08 12:54:16 UTC] [UPD]   📢 📦 sammonsempes/ostyr
+     ⭐ 0  🗣 Rust  📅 2026-11-02
+     🔗 https://github.com/sammonsempes/ostyr
+     📝 Ostyr is an open source, modular cyber defense platform written in Rust. EDR, SI…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-11-08 12:54:16 UTC] [UPD]   📢 📦 izikipizi/nizlo-msp-operations-resources
+     ⭐ 0  🗣 N/A  📅 2026-11-01
+     🔗 https://github.com/izikipizi/nizlo-msp-operations-resources
+     📝 Free MSP and RMM troubleshooting guides, software-deployment checklists, pricing…
+     🏷  checklists, due-diligence, endpoint-management, help-desk, incident-response, it-operations, managed-service-provider, migration-planning, msp, msp-tools, patch-management, remote-monitoring-and-management, rmm, rmm-pricing, rmm-software, rmm-troubleshooting, roi-calculator, service-desk, software-deployment, vendor-risk-management
+     🔄 Motivo: repo recente (7gg)
+[2026-11-08 12:54:16 UTC] [UPD]   📢 📦 yonaimer24palma-collab/Sorpresa-para-edreis
+     ⭐ 0  🗣 HTML  📅 2026-11-07
+     🔗 https://github.com/yonaimer24palma-collab/Sorpresa-para-edreis
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-08 12:54:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-08 12:54:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-08 12:54:18 UTC] [INFO]   → 32 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 📦 XiaoDao-Fish/GhostLock-HonorFne
+     ⭐ 0  🗣 Java  📅 2026-11-08
+     🔗 https://github.com/XiaoDao-Fish/GhostLock-HonorFne
+     📝 GhostLock-HonorFne-main
+     🏷  —
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 📦 boupi99/-ps5-1360-kernel-daemon
+     ⭐ 1  🗣 C  📅 2026-11-08
+     🔗 https://github.com/boupi99/-ps5-1360-kernel-daemon
+     📝 Persistent PS5 FPKG Kernel Daemon for FW 13.60. Researched 100% on iOS via iSH.
+     🏷  —
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 📦 madanisora/Security-learning-roadmap
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/madanisora/Security-learning-roadmap
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 📦 pscenter-lab/pscenterkity
+     ⭐ 0  🗣 JavaScript  📅 2026-11-08
+     🔗 https://github.com/pscenter-lab/pscenterkity
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 📦 YarBurArt/kishirika
+     ⭐ 0  🗣 N/A  📅 2026-11-08
+     🔗 https://github.com/YarBurArt/kishirika
+     📝 This tool checks the practical functionality of linux kernel exploits & hardenin…
+     🏷  —
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 📦 0xDokkaebi/supervooc-fix
+     ⭐ 0  🗣 Shell  📅 2026-11-08
+     🔗 https://github.com/0xDokkaebi/supervooc-fix
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 📦 Ethan-da-Tech-Wizard/deterministic-doc-forge
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/Ethan-da-Tech-Wizard/deterministic-doc-forge
+     📝 Zero-dependency deterministic technical documentation engine for generating arch…
+     🏷  adr, architecture, documentation, interview-prep, stride, whitepaper, zero-dependencies
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 📦 Avijit07x/baitbox
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/Avijit07x/baitbox
+     📝 Malware scanner and sandbox for untrusted Node.js projects.
+     🏷  bubblewrap, malware, nodejs, npm, sandbox, security, strace, supply-chain-security
+[2026-11-08 12:54:18 UTC] [NEW]   🆕 📦 0xshijn/0xshijn
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/0xshijn/0xshijn
+     📝 GitHub Profile — Phước Toàn (0xshijn)
+     🏷  —
+[2026-11-08 12:54:18 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-08 12:54:18 UTC] [UPD]   📢 📦 dungleioshax-droid/LienQuanDS
+     ⭐ 0  🗣 C  📅 2026-11-07
+     🔗 https://github.com/dungleioshax-droid/LienQuanDS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-08 12:54:18 UTC] [UPD]   📢 📦 CT7-BX/BX-CT7.github.io
+     ⭐ 0  🗣 CSS  📅 2026-11-04
+     🔗 https://github.com/CT7-BX/BX-CT7.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-11-08 12:54:18 UTC] [UPD]   📢 📦 buihien224/OCB
+     ⭐ 2  🗣 Java  📅 2026-11-08
+     🔗 https://github.com/buihien224/OCB
+     📝 A/B OTA installer for Android 17
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-08 12:54:18 UTC] [INFO] ============================================================
+[2026-11-08 12:54:18 UTC] [INFO] Completato — 46 nuovi, 6 aggiornati, 0 errori
+[2026-11-08 12:54:18 UTC] [INFO] ============================================================
