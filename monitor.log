@@ -134408,3 +134408,362 @@
 [2026-11-09 15:28:45 UTC] [INFO] ============================================================
 [2026-11-09 15:28:45 UTC] [INFO] Completato — 52 nuovi, 5 aggiornati, 0 errori
 [2026-11-09 15:28:45 UTC] [INFO] ============================================================
+[2026-11-10 01:16:12 UTC] [INFO] ============================================================
+[2026-11-10 01:16:12 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-10 01:16:12 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-10 01:16:12 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-10 01:16:12 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-10 01:16:12 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-10 01:16:12 UTC] [INFO] ============================================================
+[2026-11-10 01:16:12 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-10 01:16:12 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-10 01:16:14 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-10 01:16:14 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-11-10 01:16:14 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-10 01:16:14 UTC] [UPD]   📢 📦 seliyyah/windows-dfir-collector
+     ⭐ 0  🗣 PowerShell  📅 2026-11-05
+     🔗 https://github.com/seliyyah/windows-dfir-collector
+     📝 Blue-team Windows DFIR live-response collector in PowerShell. Captures memory, v…
+     🏷  blue-team, dfir, digital-forensics, eric-zimmerman, forensics, incident-response, kape, live-response, memory-forensics, powershell, sysinternals, threat-hunting, triage, velociraptor, windows
+     🔄 Motivo: repo recente (4gg)
+[2026-11-10 01:16:14 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-10 01:16:14 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-10 01:16:18 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 48 NUOVI repository:
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 DayuHwang/atv-macos
+     ⭐ 0  🗣 Swift  📅 2026-11-09
+     🔗 https://github.com/DayuHwang/atv-macos
+     📝 Run a virtual Mac on Apple TV 4K (3rd gen) as a headless remote host — tvOS shel…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 DasekCommits/bastion
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/DasekCommits/bastion
+     📝 Purple-team training game: build a defense, switch sides, break it.
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 Andrew-Barker/ds4-light-lab
+     ⭐ 0  🗣 C  📅 2026-11-10
+     🔗 https://github.com/Andrew-Barker/ds4-light-lab
+     📝 Bluepad32 ESP-IDF firmware for DualShock 4 light-bar play, multi-controller effe…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 uint82/syscall-engine
+     ⭐ 0  🗣 C++  📅 2026-11-09
+     🔗 https://github.com/uint82/syscall-engine
+     📝 Direct and indirect syscall engine for Windows x64 with Halo's Gate SSN resoluti…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 WillyBilly06/samsung-ssc-encoder
+     ⭐ 1  🗣 C  📅 2026-11-10
+     🔗 https://github.com/WillyBilly06/samsung-ssc-encoder
+     📝 Open-source encoder for Samsung Scalable Codec / Samsung Seamless Codec (SSC): a…
+     🏷  a2dp, audio-codec, bluetooth, celt, encoder, galaxy-buds, hi-res-audio, opus, reverse-engineering, samsung-scalable-codec, samsung-seamless-codec, ssc
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 josephchitalu2/chitalu-security-operations
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/josephchitalu2/chitalu-security-operations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 glavil/valoris-threat-simulation
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/glavil/valoris-threat-simulation
+     📝 Mapeamento de maturidade defensiva e threat simulation da Valoris Financial Plat…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 ricardobotelho/desafio_malware
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/ricardobotelho/desafio_malware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 GeneralFire/cn_search
+     ⭐ 0  🗣 TypeScript  📅 2026-11-09
+     🔗 https://github.com/GeneralFire/cn_search
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 AndrewJLockhart/DesktopMonitor
+     ⭐ 0  🗣 PowerShell  📅 2026-11-09
+     🔗 https://github.com/AndrewJLockhart/DesktopMonitor
+     📝 PowerShell scripts to monitor machine performance
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 AbidAzamy1/AbidAzamy1
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/AbidAzamy1/AbidAzamy1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 girovago/c-gui-quick-bilayer-builder
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/girovago/c-gui-quick-bilayer-builder
+     📝 C-gui Quick Bilayer Builder v1.0-alpha — local all-atom bilayer builder (GROMACS…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 jeremygordon6-hue/tenantcheck365
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/jeremygordon6-hue/tenantcheck365
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 AndrewPrice98/NetGuard
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/AndrewPrice98/NetGuard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 gledach/leash
+     ⭐ 0  🗣 Rust  📅 2026-11-09
+     🔗 https://github.com/gledach/leash
+     📝 Shows what changed on your PC while an AI coding agent ran (system-wide in v0.1;…
+     🏷  ai-agents, claude-code, local-first, ntfs, rust, security, usn-journal, windows
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 johniliad/QuickRisk
+     ⭐ 0  🗣 PHP  📅 2026-11-09
+     🔗 https://github.com/johniliad/QuickRisk
+     📝 Express cyber exposure as a range of possible loss rather than a single, mislead…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 xMalekk/windows-internals-and-EDR-evasion
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/xMalekk/windows-internals-and-EDR-evasion
+     📝 Windows internals, EDR architecture, evasion techniques, and exploit development…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 NizarKarroud/argos_edr
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/NizarKarroud/argos_edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 Mizumot00/dio-malware-soc-lab
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/Mizumot00/dio-malware-soc-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 rohanjain1648/airlock-clocked
+     ⭐ 0  🗣 TypeScript  📅 2026-11-09
+     🔗 https://github.com/rohanjain1648/airlock-clocked
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 jamesbacigalupo/jamesbacigalupo
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/jamesbacigalupo/jamesbacigalupo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 Lupo-SysAdmin/JALTRIX
+     ⭐ 1  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/Lupo-SysAdmin/JALTRIX
+     📝 Native Linux investigation console for Snort 3. ES/EN desktop app by Jan Herrera…
+     🏷  cybersecurity, ids, linux, pyside6, snort
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 spekofc/Aegis-AV
+     ⭐ 0  🗣 Rust  📅 2026-11-09
+     🔗 https://github.com/spekofc/Aegis-AV
+     📝 Antivirus open-source em rust.
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 KunakaDK/SOCForge
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/KunakaDK/SOCForge
+     📝 SOCForge is a defensive, locally runnable security operations laboratory for a c…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 tabishsyed777/WarRoom-Sentinel
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/tabishsyed777/WarRoom-Sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 pjcampbe11/ARTEX-Detection-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/pjcampbe11/ARTEX-Detection-Playbook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 Emilelu/Hackintosh-EFI-HP-15s-dy0xxx
+     ⭐ 0  🗣 ASL  📅 2026-11-09
+     🔗 https://github.com/Emilelu/Hackintosh-EFI-HP-15s-dy0xxx
+     📝 OpenCore EFI & technical notes for HP 15s-dy0xxx (i7-8565U / UHD 620) on macOS T…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 bulgariamitko/viber-claude-skill
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/bulgariamitko/viber-claude-skill
+     📝 Unofficial Claude skill to read & reply to your own Viber messages locally on ma…
+     🏷  claude, claude-code, claude-skill, macos, transcription, viber, whisper
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 seeking-eureka/FAIR-loss-exceedance-curve-builder
+     ⭐ 0  🗣 JavaScript  📅 2026-11-09
+     🔗 https://github.com/seeking-eureka/FAIR-loss-exceedance-curve-builder
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 init1Security/Cuban-Eight
+     ⭐ 0  🗣 C  📅 2026-11-09
+     🔗 https://github.com/init1Security/Cuban-Eight
+     📝 Cuban Eight - WSL distro packager that builds minimal .wsl files with embedded P…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 xoajasmanwal-web/threat-landscape-analysis-2026
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/xoajasmanwal-web/threat-landscape-analysis-2026
+     📝 This report presents a comprehensive analysis of the 2026 global cybersecurity t…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 homelabber/agent-under-watch
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/homelabber/agent-under-watch
+     📝 PREVIEW | AI-agent threat analytics for Microsoft Sentinel. Your agents have too…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 xTanTHaix/TAUHAULITY
+     ⭐ 1  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/xTanTHaix/TAUHAULITY
+     📝 🪷Daily developer security utility & Scans secret leaks, tampered venvs, supply-c…
+     🏷  cyber-security, cybersecurity-tools, dependency-audit, developer-tools, mitre-attack, owasp-top-10, python, ransomware, security, static-analysis, supply-chain-security, zero-dependencies
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 lfnbravo/SOC-Junior-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/lfnbravo/SOC-Junior-portfolio
+     📝 Roadmap y laboratorio práctico hacia SOC Analyst Junior: redes, Windows, Linux, …
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 GURUPADAYYAODEYAR/CYBERSEC-AEGIS-OPS-AI
+     ⭐ 0  🗣 JavaScript  📅 2026-11-09
+     🔗 https://github.com/GURUPADAYYAODEYAR/CYBERSEC-AEGIS-OPS-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 libre-devops/ansible-role-entra-device-groups
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/libre-devops/ansible-role-entra-device-groups
+     📝 👥 Ansible role to keep Entra ID group membership of devices in step with a JSON …
+     🏷  ansible, ansible-role, azure-ad, devices, entra-id, groups, microsoft-graph
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 ruigengzhang/tradelink-security-operations
+     ⭐ 1  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/ruigengzhang/tradelink-security-operations
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 RedSideSecurity/ReD-Pot
+     ⭐ 1  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/RedSideSecurity/ReD-Pot
+     📝 Internal-network deception by RedSide Security: realistic decoy servers (file se…
+     🏷  active-directory, blue-team, cybersecurity, deception, deception-technology, docker, honeypot, honeytoken, intrusion-detection, kerberoasting, lateral-movement, soc, t-pot-alternative, threat-detection
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 anvin483/NEXTGUARD-AI
+     ⭐ 0  🗣 JavaScript  📅 2026-11-09
+     🔗 https://github.com/anvin483/NEXTGUARD-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 WwwZMing/ldac-win-bridge
+     ⭐ 0  🗣 C++  📅 2026-11-09
+     🔗 https://github.com/WwwZMing/ldac-win-bridge
+     📝 LDAC 330/660/990 kbps and AAC 128 kbps CBR A2DP source for Windows: kernel WDM/P…
+     🏷  a2dp, audio-driver, bluetooth, ldac, portcls, windows
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 lorimer/birdwatching
+     ⭐ 0  🗣 C  📅 2026-11-09
+     🔗 https://github.com/lorimer/birdwatching
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 s4njee/streetlight
+     ⭐ 0  🗣 Rust  📅 2026-11-09
+     🔗 https://github.com/s4njee/streetlight
+     📝 Low-latency game and desktop streaming from KDE Plasma (KWin, Wayland, AMD VA-AP…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 sprostebii/Network-Traffic-Analysis-Wireshark
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/sprostebii/Network-Traffic-Analysis-Wireshark
+     📝 Hands-on network traffic investigation using Wireshark: DNS analysis, TCP three-…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 anirudhmanhas/SOC-Copilot
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/anirudhmanhas/SOC-Copilot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 nehalidas0411-cmyk/apnea-detector
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/nehalidas0411-cmyk/apnea-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 tylerjimenez120/edr-powershell-sysmon
+     ⭐ 0  🗣 PowerShell  📅 2026-11-09
+     🔗 https://github.com/tylerjimenez120/edr-powershell-sysmon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 luckrootsdy/vibe-mote
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/luckrootsdy/vibe-mote
+     📝 VibeMote: use a Google TV / Chromecast Bluetooth remote as a Windows voice + key…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [NEW]   🆕 📦 ananthasudeesh/cybersecurity-fundamentals
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/ananthasudeesh/cybersecurity-fundamentals
+     📝 A beginner-friendly guide to cybersecurity fundamentals: core concepts, common t…
+     🏷  —
+[2026-11-10 01:16:18 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-10 01:16:18 UTC] [UPD]   📢 📦 DonJone/Donby
+     ⭐ 0  🗣 Swift  📅 2026-11-07
+     🔗 https://github.com/DonJone/Donby
+     📝 专为 macOS 打造的原生 Emby / UHDNow 4K HDR 播放器 (Metal + VideoToolbox)
+     🏷  emby, hdr, macos, metal, player, swiftui, uhdnow, videotoolbox
+     🔄 Motivo: repo recente (2gg)
+[2026-11-10 01:16:18 UTC] [UPD]   📢 📦 ishandutta2007/Awesome-Automated-Threat-Anomaly-Detection
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/ishandutta2007/Awesome-Automated-Threat-Anomaly-Detection
+     📝 Top Automated Threat Anomaly Detection (Opensource)  Star if you like it! 
+     🏷  anomaly-detection, awesome-list, curated-list, cybersecurity, edr, threat-detection
+     🔄 Motivo: repo recente (0gg) | nuovi topic: anomaly-detection, cybersecurity, threat-detection, edr
+[2026-11-10 01:16:18 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-10 01:16:18 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-10 01:16:20 UTC] [INFO]   → 23 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-10 01:16:20 UTC] [NEW]   🆕 8 NUOVI repository:
+[2026-11-10 01:16:20 UTC] [NEW]   🆕 📦 xMalekk/windows-internals-and-EDR-evasion
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/xMalekk/windows-internals-and-EDR-evasion
+     📝 Windows internals, EDR architecture, evasion techniques, and exploit development…
+     🏷  —
+[2026-11-10 01:16:20 UTC] [NEW]   🆕 📦 orldev/Snail.MCP.Sandbox
+     ⭐ 0  🗣 C#  📅 2026-11-09
+     🔗 https://github.com/orldev/Snail.MCP.Sandbox
+     📝 MCP server that runs Python a model wrote, or a project's build and tests, in a …
+     🏷  ai-agents, csharp, docker, dotnet, gvisor, mcp, mcp-server, model-context-protocol, native-aot, nuget, sandbox
+[2026-11-10 01:16:20 UTC] [NEW]   🆕 📦 fsminecrafter/Llamacluster
+     ⭐ 0  🗣 HTML  📅 2026-11-09
+     🔗 https://github.com/fsminecrafter/Llamacluster
+     📝 A cluster managment and chat tool to use multiple computers to run ai models.
+     🏷  —
+[2026-11-10 01:16:20 UTC] [NEW]   🆕 📦 xyxx-egx/xyxx-egx
+     ⭐ 0  🗣 N/A  📅 2026-11-09
+     🔗 https://github.com/xyxx-egx/xyxx-egx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:20 UTC] [NEW]   🆕 📦 zaidanfaiz/nyx16
+     ⭐ 0  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/zaidanfaiz/nyx16
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:20 UTC] [NEW]   🆕 📦 eremaprivat7-arch/vintage-lite
+     ⭐ 0  🗣 Swift  📅 2026-11-09
+     🔗 https://github.com/eremaprivat7-arch/vintage-lite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-10 01:16:20 UTC] [NEW]   🆕 📦 StefanF1047/Y2JB-OnionHEN
+     ⭐ 1  🗣 Python  📅 2026-11-09
+     🔗 https://github.com/StefanF1047/Y2JB-OnionHEN
+     📝 Y2JB with my own custom version of OnionHEN
+     🏷  —
+[2026-11-10 01:16:20 UTC] [NEW]   🆕 📦 minhdepzailaocai2010-bit/YanDevin-Mobile-Gestatls
+     ⭐ 1  🗣 Swift  📅 2026-11-09
+     🔗 https://github.com/minhdepzailaocai2010-bit/YanDevin-Mobile-Gestatls
+     📝 YanDevin — Derivative Notice YanDevin 1.0 is derived from GestaltX and developed…
+     🏷  —
+[2026-11-10 01:16:20 UTC] [UPD]   📢 6 repository AGGIORNATI:
+[2026-11-10 01:16:20 UTC] [UPD]   📢 📦 kolbicz/WQFiles
+     ⭐ 203  🗣 Objective-C  📅 2026-11-09
+     🔗 https://github.com/kolbicz/WQFiles
+     📝 File browser, app data manager and cache cleaner for iOS 27 (worse_query, no jai…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-10 01:16:20 UTC] [UPD]   📢 📦 MocLG/Time-My-Galaxy
+     ⭐ 5  🗣 C  📅 2026-11-08
+     🔗 https://github.com/MocLG/Time-My-Galaxy
+     📝 CVE-2026-98260 timerfd exploit and Shizuku launcher for the Samsung
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-10 01:16:20 UTC] [UPD]   📢 📦 CT7-BX/BX-CT7.github.io
+     ⭐ 0  🗣 CSS  📅 2026-11-04
+     🔗 https://github.com/CT7-BX/BX-CT7.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-11-10 01:16:20 UTC] [UPD]   📢 📦 alan-maguire/agentcracker
+     ⭐ 0  🗣 Rust  📅 2026-11-06
+     🔗 https://github.com/alan-maguire/agentcracker
+     📝 Run coding agents in disposable Firecracker microVMs, then review their changes …
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-11-10 01:16:20 UTC] [UPD]   📢 📦 0xshijn/0xshijn
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/0xshijn/0xshijn
+     📝 GitHub Profile — Phước Toàn (0xshijn)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-10 01:16:20 UTC] [UPD]   📢 📦 murk-sus/kamui-escape
+     ⭐ 66  🗣 Objective-C  📅 2026-11-08
+     🔗 https://github.com/murk-sus/kamui-escape
+     📝 KAMUI (神威) — iOS 27.x sandbox escape + MobileGestalt editor. MIT licensed, free …
+     🏷  ios, jailbreak, mit-license, mobilegestalt, sandbox-escape
+     🔄 Motivo: repo recente (1gg)
+[2026-11-10 01:16:20 UTC] [INFO] ============================================================
+[2026-11-10 01:16:20 UTC] [INFO] Completato — 56 nuovi, 9 aggiornati, 0 errori
+[2026-11-10 01:16:20 UTC] [INFO] ============================================================
