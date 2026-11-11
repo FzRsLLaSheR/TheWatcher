@@ -135438,3 +135438,200 @@
 [2026-11-10 22:55:59 UTC] [INFO] ============================================================
 [2026-11-10 22:55:59 UTC] [INFO] Completato — 55 nuovi, 4 aggiornati, 0 errori
 [2026-11-10 22:55:59 UTC] [INFO] ============================================================
+[2026-11-11 05:07:11 UTC] [INFO] ============================================================
+[2026-11-11 05:07:11 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-11 05:07:11 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-11 05:07:11 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-11 05:07:11 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-11 05:07:11 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-11 05:07:11 UTC] [INFO] ============================================================
+[2026-11-11 05:07:11 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-11 05:07:11 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-11 05:07:13 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-11 05:07:13 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-11-11 05:07:13 UTC] [NEW]   🆕 📦 MicrosoftARMAssembler/CVE-2026-2039819-PoC
+     ⭐ 1  🗣 C++  📅 2026-11-10
+     🔗 https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC
+     📝 CVE-2026-2039819 is a BYOVD PoC for HWiNFO (HWiNFO_x64_216.sys)
+     🏷  —
+[2026-11-11 05:07:13 UTC] [NEW]   🆕 📦 enestaha0434/sec-suit
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/enestaha0434/sec-suit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:13 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-11 05:07:13 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-11 05:07:13 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-11 05:07:16 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 17 NUOVI repository:
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 rickgat/sentinelx
+     ⭐ 0  🗣 Rust  📅 2026-11-11
+     🔗 https://github.com/rickgat/sentinelx
+     📝 Security assessment and operations platform: vulnerability management, pentest o…
+     🏷  attack-graph, attack-surface-management, axum, breach-attack-simulation, cloud-security, compliance, cspm, cybersecurity, hexagonal-architecture, iso27001, mitre-attack, modular-monolith, nextjs, rust, security-platform, siem, soc2, threat-intelligence, typescript, vulnerability-management
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 mannykappos/apg-stage1-private
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/mannykappos/apg-stage1-private
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 BaptisteFaisy/ambre
+     ⭐ 0  🗣 C  📅 2026-11-11
+     🔗 https://github.com/BaptisteFaisy/ambre
+     📝 Ambre — an Event Data Recorder (automotive black box) for QNX 8.0 that makes the…
+     🏷  automotive, crash-resilience, edr, embedded, event-data-recorder, hackathon, qnx, real-time
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 sudo-rzk/red-blue-team-lab
+     ⭐ 0  🗣 N/A  📅 2026-11-10
+     🔗 https://github.com/sudo-rzk/red-blue-team-lab
+     📝 A practical Red & Blue Team cybersecurity lab focused on network security, web a…
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 stulss/nexus-guard-portfolio
+     ⭐ 0  🗣 HTML  📅 2026-11-11
+     🔗 https://github.com/stulss/nexus-guard-portfolio
+     📝 🌐 Official Interactive Enterprise Web Portfolio for NEXUS-GUARD (Hong Juhyeong)
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 stulss/nexus-guard
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/stulss/nexus-guard
+     📝 NEXUS-GUARD: AI-Powered Enterprise Active Defense Security Suite & Desktop SOC C…
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 GastonFolio/cyber-csft-academy
+     ⭐ 0  🗣 TypeScript  📅 2026-11-11
+     🔗 https://github.com/GastonFolio/cyber-csft-academy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 edradamicaela-cmyk/edrada-website
+     ⭐ 0  🗣 HTML  📅 2026-11-11
+     🔗 https://github.com/edradamicaela-cmyk/edrada-website
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 YahyaElkhal/hybrid-av
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/YahyaElkhal/hybrid-av
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 leonardoSO/dio-cybersec-malware-lab
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/leonardoSO/dio-cybersec-malware-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 askahung0702/GuardDesk
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/askahung0702/GuardDesk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 EnkiduX325/tamper_scan
+     ⭐ 0  🗣 Python  📅 2026-11-10
+     🔗 https://github.com/EnkiduX325/tamper_scan
+     📝 Windows anti-tamper scanner
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 MSNightmare/SignDrop
+     ⭐ 38  🗣 C  📅 2026-11-10
+     🔗 https://github.com/MSNightmare/SignDrop
+     📝 Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vul…
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 moyinoluwa16/Meridianpay-Incident-Response-Resilience-Privacy
+     ⭐ 0  🗣 N/A  📅 2026-11-10
+     🔗 https://github.com/moyinoluwa16/Meridianpay-Incident-Response-Resilience-Privacy
+     📝 A collaborative GRC advisory project developing an integrated incident response,…
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 marek-ne/mcp-shield
+     ⭐ 0  🗣 Rust  📅 2026-11-10
+     🔗 https://github.com/marek-ne/mcp-shield
+     📝 Enterprise Local-First MCP Runtime Security Shim, Secret Broker & Policy Enforce…
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 ceciliawea/Turbulence-Forecast-Accuracy
+     ⭐ 1  🗣 N/A  📅 2026-11-10
+     🔗 https://github.com/ceciliawea/Turbulence-Forecast-Accuracy
+     📝 Research paper of passenger perception of turbulence risk with forecast accuracy…
+     🏷  —
+[2026-11-11 05:07:16 UTC] [NEW]   🆕 📦 JosimarioA7X/simulando-malware-python
+     ⭐ 0  🗣 N/A  📅 2026-11-10
+     🔗 https://github.com/JosimarioA7X/simulando-malware-python
+     📝 Estudo defensivo sobre malwares (Ransomware e Keylogger) e estratégias de mitiga…
+     🏷  —
+[2026-11-11 05:07:16 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-11 05:07:16 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-11 05:07:16 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-11 05:07:19 UTC] [INFO]   → 34 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-11 05:07:19 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-11-11 05:07:19 UTC] [NEW]   🆕 📦 Vish-TechOps/ai-agent-sandboxing
+     ⭐ 0  🗣 N/A  📅 2026-11-10
+     🔗 https://github.com/Vish-TechOps/ai-agent-sandboxing
+     📝 This repository is to understand the problems of standard Docker containers not …
+     🏷  —
+[2026-11-11 05:07:19 UTC] [NEW]   🆕 📦 DarkDevil-937/make-it-root
+     ⭐ 1  🗣 C  📅 2026-11-11
+     🔗 https://github.com/DarkDevil-937/make-it-root
+     📝 One-tap temporary root for the Amazon Fire TV Stick 3rd gen (sheldonp), wrapping…
+     🏷  —
+[2026-11-11 05:07:19 UTC] [NEW]   🆕 📦 Sploit-arch/sploithen14.02
+     ⭐ 0  🗣 JavaScript  📅 2026-11-10
+     🔗 https://github.com/Sploit-arch/sploithen14.02
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:19 UTC] [NEW]   🆕 📦 Jfkkfjzkz/Diag
+     ⭐ 0  🗣 JavaScript  📅 2026-11-11
+     🔗 https://github.com/Jfkkfjzkz/Diag
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:19 UTC] [NEW]   🆕 📦 Diam0naz/fuzzforge
+     ⭐ 0  🗣 Rust  📅 2026-11-10
+     🔗 https://github.com/Diam0naz/fuzzforge
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:19 UTC] [NEW]   🆕 📦 fascettob-collab/atv3-untethered-linux
+     ⭐ 0  🗣 Python  📅 2026-11-10
+     🔗 https://github.com/fascettob-collab/atv3-untethered-linux
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-11 05:07:19 UTC] [NEW]   🆕 📦 Jfkkfjzkz/ps4-akatsuki-jailbreak
+     ⭐ 10  🗣 JavaScript  📅 2026-11-10
+     🔗 https://github.com/Jfkkfjzkz/ps4-akatsuki-jailbreak
+     📝 PS4 14.00/14.02 jailbreak host
+     🏷  —
+[2026-11-11 05:07:19 UTC] [UPD]   📢 7 repository AGGIORNATI:
+[2026-11-11 05:07:19 UTC] [UPD]   📢 📦 minhdepzailaocai2010-bit/YanDevin
+     ⭐ 1  🗣 Swift  📅 2026-11-10
+     🔗 https://github.com/minhdepzailaocai2010-bit/YanDevin
+     📝 Edit Mobile Gestatls  Tool YanDevin
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-11 05:07:19 UTC] [UPD]   📢 📦 idntusemodz/ps4-akatsuki-jailbreak
+     ⭐ 0  🗣 JavaScript  📅 2026-11-10
+     🔗 https://github.com/idntusemodz/ps4-akatsuki-jailbreak
+     📝 PS4 14.00/14.02 jailbreak host
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-11 05:07:19 UTC] [UPD]   📢 📦 quickky1/quicks14.02
+     ⭐ 0  🗣 JavaScript  📅 2026-11-10
+     🔗 https://github.com/quickky1/quicks14.02
+     📝 Public static test mirror of the PS4 14.02 
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-11 05:07:19 UTC] [UPD]   📢 📦 zake1god/CVE-2026-98432
+     ⭐ 0  🗣 Shell  📅 2026-11-10
+     🔗 https://github.com/zake1god/CVE-2026-98432
+     📝 Safe user-space ASan model of the CVE-2026-98432 Linux IPv4 TCP RCU use-after-fr…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-11 05:07:19 UTC] [UPD]   📢 📦 pysio2007/rootback
+     ⭐ 0  🗣 Shell  📅 2026-11-10
+     🔗 https://github.com/pysio2007/rootback
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-11 05:07:19 UTC] [UPD]   📢 📦 CriticalThinkingHorizon/S2-Help
+     ⭐ 0  🗣 JavaScript  📅 2026-11-03
+     🔗 https://github.com/CriticalThinkingHorizon/S2-Help
+     📝 A small project to answer some questions.
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-11-11 05:07:19 UTC] [UPD]   📢 📦 alexghirelli/airlock
+     ⭐ 0  🗣 Go  📅 2026-11-10
+     🔗 https://github.com/alexghirelli/airlock
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-11 05:07:19 UTC] [INFO] ============================================================
+[2026-11-11 05:07:19 UTC] [INFO] Completato — 26 nuovi, 7 aggiornati, 0 errori
+[2026-11-11 05:07:19 UTC] [INFO] ============================================================
