@@ -136760,3 +136760,292 @@
 [2026-11-12 14:46:28 UTC] [INFO] ============================================================
 [2026-11-12 14:46:28 UTC] [INFO] Completato — 68 nuovi, 5 aggiornati, 0 errori
 [2026-11-12 14:46:28 UTC] [INFO] ============================================================
+[2026-11-12 23:16:47 UTC] [INFO] ============================================================
+[2026-11-12 23:16:47 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-12 23:16:47 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-12 23:16:47 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-12 23:16:47 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-12 23:16:47 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-12 23:16:47 UTC] [INFO] ============================================================
+[2026-11-12 23:16:47 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-12 23:16:47 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-12 23:16:50 UTC] [INFO]   → 7 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-12 23:16:50 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-12 23:16:50 UTC] [NEW]   🆕 📦 10fax01/LenWinRing0
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/10fax01/LenWinRing0
+     📝 LenWinRing0, a Lenovo WinRing0 Clone BYOVD
+     🏷  —
+[2026-11-12 23:16:50 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-12 23:16:50 UTC] [UPD]   📢 📦 sg-scale/Harden-Windows-Security--HardenSystemSecurity-v1.0.36.0
+     ⭐ 0  🗣 C#  📅 2026-11-11
+     🔗 https://github.com/sg-scale/Harden-Windows-Security--HardenSystemSecurity-v1.0.36.0
+     📝 Mirror of https://github.com/HotCakeX/Harden-Windows-Security at HardenSystemSec…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-12 23:16:50 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-12 23:16:50 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-12 23:16:53 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 38 NUOVI repository:
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 spearschristopher8/edrrwb
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/spearschristopher8/edrrwb
+     📝 Daily digest notes
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 Taha2045/iocscan
+     ⭐ 0  🗣 C++  📅 2026-11-12
+     🔗 https://github.com/Taha2045/iocscan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 Taha2045/fileguard
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/Taha2045/fileguard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 mouhebjouili90-lgtm/soc-coverage-compass
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/mouhebjouili90-lgtm/soc-coverage-compass
+     📝 Outil d'evaluation de couverture SOC (Security Operations Center), detection d'a…
+     🏷  blue-team, cybersecurity, edr, fastapi, incident-response, maturity-assessment, python, security-operations, siem, soc
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 Alyx-ML/Prototype-MacOS-Metal
+     ⭐ 0  🗣 C  📅 2026-11-12
+     🔗 https://github.com/Alyx-ML/Prototype-MacOS-Metal
+     📝 A static recompilation of Prototypee 2008 to MacOS 
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 madsondeluna/SHAKER
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/madsondeluna/SHAKER
+     📝 Stochastic High-throughput Assembly Kit for Ensemble Replicas: seeded Martini 3 …
+     🏷  antimicrobial-peptides, bioinformatics, cli, coarse-grained, gromacs, lipid-bilayer, martini, membrane, molecular-dynamics, self-assembly
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 eugenehp/emotibit-rs
+     ⭐ 0  🗣 Rust  📅 2026-11-12
+     🔗 https://github.com/eugenehp/emotibit-rs
+     📝 EmotiBit over WiFi (stock firmware) or Bluetooth (the emotibit-ble firmware): CL…
+     🏷  biosignals, bluetooth-low-energy, eda, embedded-rust, emotibit, esp32, imu, lab-streaming-layer, no-std, osc, oscilloscope, physiological-signals, ppg, rust, wasm, web-bluetooth
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 LOLMANREX/jeux-bac-pro-ciel
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/LOLMANREX/jeux-bac-pro-ciel
+     📝 Jeu 3D educatif BAC PRO CIEL avec M. Fortin, 5 mini-jeux et serveur multijoueur
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 akhileshmanda21/Breach-Autopsy
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/akhileshmanda21/Breach-Autopsy
+     📝 Real-world breach analysis covering attack vectors, vulnerability assessment, CI…
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 leeo70/recuva-fake-screenconnect
+     ⭐ 0  🗣 YARA  📅 2026-11-12
+     🔗 https://github.com/leeo70/recuva-fake-screenconnect
+     📝 Análise: instalador falso do Recuva distribui RAT abusando de RMM ScreenConnect
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 ProAdmin007/every-it-euro
+     ⭐ 0  🗣 HTML  📅 2026-11-12
+     🔗 https://github.com/ProAdmin007/every-it-euro
+     📝 Every IT euro is also a strategic choice — evidence-based guide to European IT &…
+     🏷  cybersecurity, digital-sovereignty, european-union, github-pages, procurement
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 kevinskey/gleembroidery
+     ⭐ 0  🗣 TypeScript  📅 2026-11-12
+     🔗 https://github.com/kevinskey/gleembroidery
+     📝 Embroidery digitizing: SVG in, Tajima DST out. Built for the BAI commercial mach…
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 mdapiio/mdapi.io
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/mdapiio/mdapi.io
+     📝 mdapi.io - Minimal Data API I/O: a content transformation layer primitive for AI…
+     🏷  a2a, acp, agent, ai, api, autonomous-agents, layer, markdown, mcp, mdapi, minimal, openai-compatible, openclaw, primitive, skills, solana, transformation, usdc, web4, x402
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 echooexp/JournalRoller
+     ⭐ 0  🗣 C  📅 2026-11-12
+     🔗 https://github.com/echooexp/JournalRoller
+     📝 JournalRoller — Reference implementation of NTFS USN Change Journal roll-forward…
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 HederGVD/malware-estudo-defesa
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/HederGVD/malware-estudo-defesa
+     📝 Documentacao de estudo sobre ransomware e keylogger, com foco em deteccao e defe…
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 brzRaven01001/ransomware-keylogger-DIO
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/brzRaven01001/ransomware-keylogger-DIO
+     📝 Desafio proposto durante a trilha: Santander - Cibersegurança do Zero a prática
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 Jrhowrey/Automate
+     ⭐ 0  🗣 PowerShell  📅 2026-11-12
+     🔗 https://github.com/Jrhowrey/Automate
+     📝 Cw automate scripts
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 ninad2209/TraceChain
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/ninad2209/TraceChain
+     📝 A cybersecurity prototype that analyzes process telemetry with explainable, rule…
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 Edryck/Edryck
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/Edryck/Edryck
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 BerkanCicekli/Network-Fundamentals
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/BerkanCicekli/Network-Fundamentals
+     📝 Visual guide to network fundamentals for SOC and NOC work
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 Epsilon0xCell/build-your-own-security-tool
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/Epsilon0xCell/build-your-own-security-tool
+     📝 Learn security tooling by building it: 30 from-scratch Python builds, from a por…
+     🏷  build-your-own, curriculum, cybersecurity, dns, from-scratch, fuzzing, hash-cracker, http-proxy, learn-security, network-security, offensive-security, pcap, pentesting, port-scanner, python, red-team, security, security-tools
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 xsignon-secure/Honeypot-MCP
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/xsignon-secure/Honeypot-MCP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 SaamNoLimits/black-october-2026
+     ⭐ 1  🗣 Rust  📅 2026-11-12
+     🔗 https://github.com/SaamNoLimits/black-october-2026
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 rndadhdman/device-advisor
+     ⭐ 0  🗣 C#  📅 2026-11-12
+     🔗 https://github.com/rndadhdman/device-advisor
+     📝 Windows hardware, software and security audit tool: inventory, security findings…
+     🏷  belarc-alternative, dotnet, inventory, security-audit, system-information, windows, wpf
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 Ismagulovne/ad-laps
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Ismagulovne/ad-laps
+     📝 Портал паролей LAPS с журналом просмотров для Active Directory
+     🏷  active-directory, audit-log, intranet, laps, ldap, nodejs, password-management, self-hosted, windows-laps
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 gabrielwilliam12w/estudo-caso-netsupport-rat
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/gabrielwilliam12w/estudo-caso-netsupport-rat
+     📝 Investigação de Infecção por NetSupport RAT
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 DistributedIT/SCKit-IOC-Finder
+     ⭐ 0  🗣 PowerShell  📅 2026-11-12
+     🔗 https://github.com/DistributedIT/SCKit-IOC-Finder
+     📝 Detects various IOCs that are potentially or definitely indicative of the SCKit …
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 gelvicnsk/product-data-hub
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/gelvicnsk/product-data-hub
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 jvch0512/policy-rag
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/jvch0512/policy-rag
+     📝 Grounded Q&A over security policies with citations, BM25 retrieval, refusal guar…
+     🏷  bm25, evaluation, llm, python, rag, retrieval, security-policy
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 edrickejs8/edrickejs8
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/edrickejs8/edrickejs8
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 mixua/sleep-helper
+     ⭐ 0  🗣 PowerShell  📅 2026-11-12
+     🔗 https://github.com/mixua/sleep-helper
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 rajsenyadav/PRAHARI-SOC-Detection-Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/rajsenyadav/PRAHARI-SOC-Detection-Lab
+     📝 SOC Detection Lab using Wazuh, Sysmon, Windows Event Logs, MITRE ATT&CK, inciden…
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 Risma2025/Risma2025
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/Risma2025/Risma2025
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 CLOUDY2006/Pheonix-x
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/CLOUDY2006/Pheonix-x
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 jason-moore-io/Threat-Hunt-PHP2Shell-The-Hartwell-Breach
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/jason-moore-io/Threat-Hunt-PHP2Shell-The-Hartwell-Breach
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 wolfyy-art/echo-mayank-only
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/wolfyy-art/echo-mayank-only
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 deqingLv/dsh-privacy-mode
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/deqingLv/dsh-privacy-mode
+     📝 DSH 原生插件：默认关闭五条已核验的官方上报通道（非网络防火墙，非离线模式）
+     🏷  deepseek-harness, dsh-plugin, privacy, telemetry
+[2026-11-12 23:16:53 UTC] [NEW]   🆕 📦 elnx/scan2enc
+     ⭐ 0  🗣 TypeScript  📅 2026-11-12
+     🔗 https://github.com/elnx/scan2enc
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:53 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-12 23:16:53 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-12 23:16:53 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-12 23:16:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 📦 ballerleodennis/aio
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/ballerleodennis/aio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 📦 maesfahani/leashcheck
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/maesfahani/leashcheck
+     📝 can my agent hurt me?
+     🏷  —
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 📦 Roslaan001/terraform-aws-eks-nitro-sandboxes
+     ⭐ 0  🗣 HCL  📅 2026-11-12
+     🔗 https://github.com/Roslaan001/terraform-aws-eks-nitro-sandboxes
+     📝 Production-Ready AWS Nitro Sandboxes on Amazon EKS Auto Mode
+     🏷  —
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 📦 lf-za1/Andrew2.2
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/lf-za1/Andrew2.2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 📦 Sploit-arch/crackedhen
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Sploit-arch/crackedhen
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 📦 ballerleodennis/Ps4-Ghostwalk-14.02-webkit-exploit
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/ballerleodennis/Ps4-Ghostwalk-14.02-webkit-exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 📦 Popyza1234/app
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/Popyza1234/app
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 📦 Jfkkfjzkz/K
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Jfkkfjzkz/K
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:56 UTC] [NEW]   🆕 📦 Jfkkfjzkz/L
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Jfkkfjzkz/L
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 23:16:56 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-12 23:16:56 UTC] [UPD]   📢 📦 neoautomata/agbox
+     ⭐ 0  🗣 Go  📅 2026-11-11
+     🔗 https://github.com/neoautomata/agbox
+     📝 `agbox` runs AI coding agents (opencode.ai or antigravity.google) inside ephemer…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-12 23:16:56 UTC] [UPD]   📢 📦 outusuke/sbx
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/outusuke/sbx
+     📝 Firejail-style sandbox on bubblewrap, with a GTK4 settings editor
+     🏷  bubblewrap, bwrap, firejail-alternative, gtk4, libadwaita, linux, namespaces, python, sandbox, seccomp, security, wayland
+     🔄 Motivo: repo recente (4gg)
+[2026-11-12 23:16:56 UTC] [UPD]   📢 📦 thejswaggart/ps5-gamepad-bridge
+     ⭐ 0  🗣 C  📅 2026-11-11
+     🔗 https://github.com/thejswaggart/ps5-gamepad-bridge
+     📝 GhostPad: turn an Android phone into a PS5 gamepad over LAN (TCP), with auto pho…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-12 23:16:56 UTC] [INFO] ============================================================
+[2026-11-12 23:16:56 UTC] [INFO] Completato — 48 nuovi, 4 aggiornati, 0 errori
+[2026-11-12 23:16:56 UTC] [INFO] ============================================================
