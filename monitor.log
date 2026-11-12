@@ -136365,3 +136365,398 @@
 [2026-11-12 00:10:32 UTC] [INFO] ============================================================
 [2026-11-12 00:10:32 UTC] [INFO] Completato — 61 nuovi, 5 aggiornati, 0 errori
 [2026-11-12 00:10:32 UTC] [INFO] ============================================================
+[2026-11-12 14:46:19 UTC] [INFO] ============================================================
+[2026-11-12 14:46:19 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-12 14:46:19 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-12 14:46:19 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-12 14:46:19 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-12 14:46:19 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-12 14:46:19 UTC] [INFO] ============================================================
+[2026-11-12 14:46:19 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-12 14:46:19 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-12 14:46:21 UTC] [INFO]   → 6 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-12 14:46:21 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-12 14:46:21 UTC] [NEW]   🆕 📦 marcostolosa/hollow
+     ⭐ 1  🗣 C++  📅 2026-11-12
+     🔗 https://github.com/marcostolosa/hollow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:21 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-12 14:46:21 UTC] [UPD]   📢 📦 MicrosoftARMAssembler/CVE-2026-2039819-PoC
+     ⭐ 3  🗣 C++  📅 2026-11-10
+     🔗 https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC
+     📝 CVE-2026-2039819 is a BYOVD PoC for HWiNFO (HWiNFO_x64_216.sys)
+     🏷  byovd, cve, cve-2026-2039819, cves, exposure-surface, kernel, kernel-driver, poc, vulnerable-driver, vulnerable-drivers
+     🔄 Motivo: repo recente (2gg) | nuovi topic: kernel, kernel-driver
+[2026-11-12 14:46:21 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-12 14:46:21 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-12 14:46:25 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 43 NUOVI repository:
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 building-leo/trutta_os
+     ⭐ 0  🗣 JavaScript  📅 2026-11-11
+     🔗 https://github.com/building-leo/trutta_os
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 marcostolosa/hollow
+     ⭐ 1  🗣 C++  📅 2026-11-12
+     🔗 https://github.com/marcostolosa/hollow
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 vishakhsec/SOC-Analyst-Writeups
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/vishakhsec/SOC-Analyst-Writeups
+     📝 Hands-on SOC alert investigations, SIEM log analysis, threat intelligence, and i…
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 arafatmalikind/soc-reference-architecture
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/arafatmalikind/soc-reference-architecture
+     📝 Reference SOC architecture for industrial operators: design documents and archit…
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 qianchuan-ai/wechat-channels-video-grabber
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/qianchuan-ai/wechat-channels-video-grabber
+     📝 WeChat Channels (shipinhao) video grabber for Windows: read-only process-memory …
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 sonam129btit25/ZeroTrustX-Fullstack
+     ⭐ 0  🗣 TypeScript  📅 2026-11-12
+     🔗 https://github.com/sonam129btit25/ZeroTrustX-Fullstack
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 stasia-bmp/phishing-investigation-report
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/stasia-bmp/phishing-investigation-report
+     📝 Malicious Resume Attachment
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 fahruddinhasan/edrives-firmware
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/fahruddinhasan/edrives-firmware
+     📝 Firmware OTA tiang deteksi benturan E-Drives
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 stasia-bmp/pcap-malware-traffic-analysis
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/stasia-bmp/pcap-malware-traffic-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 zyvorai/zyvor-kavach
+     ⭐ 1  🗣 Go  📅 2026-11-12
+     🔗 https://github.com/zyvorai/zyvor-kavach
+     📝 Kavach — observation-only EDR/XDR by Zyvor (Falcon-parity modules, Netra XDR, En…
+     🏷  cybersecurity, ebpf, edr, golang, kubernetes, siem, threat-hunting, xdr
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 vinitrami-Soc/owltriage
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/vinitrami-Soc/owltriage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 Beyain-Corp/Jebin_Portfolio
+     ⭐ 0  🗣 HTML  📅 2026-11-12
+     🔗 https://github.com/Beyain-Corp/Jebin_Portfolio
+     📝 My Personal Portfolio
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 medyabi/windows-server2025-Hybrid-lab
+     ⭐ 0  🗣 PowerShell  📅 2026-11-12
+     🔗 https://github.com/medyabi/windows-server2025-Hybrid-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 qberengo/iso27001-smsi-biomarket
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/qberengo/iso27001-smsi-biomarket
+     📝 Mise en place d'un SMSI ISO 27001 : PSSI, analyse de risques EBIOS RM, PCA et pl…
+     🏷  business-continuity, cybersecurity, ebios-rm, gdpr, governance, iam, isms, iso27001, risk-analysis, security-policy
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 princefrank0/Frank-Chisom-Emmanuel
+     ⭐ 0  🗣 HTML  📅 2026-11-12
+     🔗 https://github.com/princefrank0/Frank-Chisom-Emmanuel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 flemixyt/Practic-1
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/flemixyt/Practic-1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 othmanehousni/Sunbar
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/othmanehousni/Sunbar
+     📝 Native XDR brightness for MacBook Pro, across Mission Control and Spaces.
+     🏷  apple-silicon, brightness, macos, menu-bar, swift, swiftui, xdr
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 davidvnvn276/david-enygma-change-recovery-study
+     ⭐ 0  🗣 HTML  📅 2026-11-12
+     🔗 https://github.com/davidvnvn276/david-enygma-change-recovery-study
+     📝 Reproducible local study of Rayls Enygma withdrawal-change recovery, with 40 tes…
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 GOP963/RedTeam
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/GOP963/RedTeam
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 nobynobes/hackrf-bluetooth-jammer
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/nobynobes/hackrf-bluetooth-jammer
+     📝 Bluetooth/BLE jammer for HackRF One with a measurement harness that proves the e…
+     🏷  ble, bluetooth, hackrf, jamming, pentesting, python, rf, sdr, security, soapy
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 bakhishovism/Vyrulix
+     ⭐ 2  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/bakhishovism/Vyrulix
+     📝 Open-source, bare-metal desktop malware triage and static threat intelligence wo…
+     🏷  capstone, dfir, infosec, malware-analysis, mitre-attack, pe-parser, python, reverse-engineering-, static-analysis, threat-intelligence, windows-sandbox, yara
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 maartenplieger/3d-edr-viewer
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/maartenplieger/3d-edr-viewer
+     📝 A proof of concept 3d viewer on 3d edr cube data
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 KamenRiderW/dsh-cookie-cleanup
+     ⭐ 0  🗣 PowerShell  📅 2026-11-12
+     🔗 https://github.com/KamenRiderW/dsh-cookie-cleanup
+     📝 Unofficial Windows workaround for DeepSeek Harness cookie accumulation: cleans l…
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 BaptisteFaisy/veille
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/BaptisteFaisy/veille
+     📝 Veille — moniteur patient QNX 8.0 à latence d'alarme bornée et prouvée par explo…
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 datartist0909/Signal_Trace
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/datartist0909/Signal_Trace
+     📝 Autonomous AI Cybercrime Investigation Room – Multi-Agent Digital Forensics Syst…
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 cabinw/kkremote
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/cabinw/kkremote
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 aamirpali/zhaoxuya520-reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-11-12
+     🔗 https://github.com/aamirpali/zhaoxuya520-reverse-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 oneot/m365-edu-sso-poc
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/oneot/m365-edu-sso-poc
+     📝 학교별 Microsoft 365 테넌트 SSO PoC: SAML 2.0 도메인 페더레이션 테스트 IdP·로그인 화면·Graph 스크립트
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 actions-marketplace-validations/Mihirajmera_agent-access-review
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/actions-marketplace-validations/Mihirajmera_agent-access-review
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 wesmar/WireScope
+     ⭐ 0  🗣 C++  📅 2026-11-12
+     🔗 https://github.com/wesmar/WireScope
+     📝 High-performance C++23 network analyzer, packet sniffer, process monitor, kernel…
+     🏷  clumsy-alternative, cpp23, direct2d, firewall, latency-simulator, ndis-driver, network-analyzer, network-simulator, packet-capture, packet-loss, packet-sniffer, pcap, simplewall, windows-11, winpkfilter, wireshark-alternative
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 Xhasher/Netrunning_APP
+     ⭐ 0  🗣 TypeScript  📅 2026-11-12
+     🔗 https://github.com/Xhasher/Netrunning_APP
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 Komenan2021/soc-home-lab-detection-reponse
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/Komenan2021/soc-home-lab-detection-reponse
+     📝 SOC Home Lab : détection & réponse aux incidents avec LimaCharlie (EDR), OpenSea…
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 Komenan2021/Komenan2021
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/Komenan2021/Komenan2021
+     📝 Profil de Kouakou François Komenan — Analyste SOC, Technicien Réseau & Formateur…
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 torsh4rk/crypto-malware-research-agent
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/torsh4rk/crypto-malware-research-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 trungminhdo4-glitch/rmm-sentinel
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/trungminhdo4-glitch/rmm-sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 info-moed/Lumora
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/info-moed/Lumora
+     📝 Native macOS app that grades and converts video between SDR and HDR: HDR10, HLG,…
+     🏷  av1, dolby-vision, hdr, hevc, macos, metal, swift, swiftui, video, video-encoding
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 n2nalex12-droid/blemon-xconnection
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/n2nalex12-droid/blemon-xconnection
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 yahyeataa/yahyeataa
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/yahyeataa/yahyeataa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 code9grey/Phishing-Email-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/code9grey/Phishing-Email-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 d-clz/helmscope
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/d-clz/helmscope
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 edragreene28/edragreene-notes
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/edragreene28/edragreene-notes
+     📝 learning by building
+     🏷  —
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Cloud-Workload-Protection-CWPP
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/ishandutta2007/Awesome-Cloud-Workload-Protection-CWPP
+     📝 Top Cloud Workload Protection CWPP (Opensource)  Star if you like it! 
+     🏷  awesome-list, cloud-security, cloud-workload-protection, cnapp, curated-list, cwpp, kubernetes-security
+[2026-11-12 14:46:25 UTC] [NEW]   🆕 📦 ankeet-panda/unifetch
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/ankeet-panda/unifetch
+     📝 One fetch() over five web-retrieval tools, escalating from cheap to expensive on…
+     🏷  python, web-scraping
+[2026-11-12 14:46:25 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-12 14:46:25 UTC] [UPD]   📢 📦 Mohit2647-png/SOAR-EDR-Automation-project-
+     ⭐ 0  🗣 HTML  📅 2026-11-11
+     🔗 https://github.com/Mohit2647-png/SOAR-EDR-Automation-project-
+     📝 SOAR EDR Automation with Tines , Slack, LaZagne Hacktool & LimaCharlie for askin…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-12 14:46:25 UTC] [UPD]   📢 📦 alex24106429/EtwTiViewer
+     ⭐ 0  🗣 C++  📅 2026-11-11
+     🔗 https://github.com/alex24106429/EtwTiViewer
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-12 14:46:25 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-12 14:46:25 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-12 14:46:28 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 exotic-Siddharth/arbiter
+     ⭐ 0  🗣 TypeScript  📅 2026-11-12
+     🔗 https://github.com/exotic-Siddharth/arbiter
+     📝 Online judge with live contests: untrusted C++/Python/Java/JS code judged in har…
+     🏷  bullmq, competitive-programming, docker, express, nodejs, online-judge, postgresql, prisma, react, redis, sandbox, socket-io, typescript
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 mimwawgaming/MW15
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/mimwawgaming/MW15
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 melvinsh/worse_finder
+     ⭐ 16  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/melvinsh/worse_finder
+     📝 Browse and export the data containers of every app on an iPhone, via the worse_q…
+     🏷  ios, objective-c, sandbox-escape, security-research, swift
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 vksrtmd/cocon
+     ⭐ 1  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/vksrtmd/cocon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 Elmo7tarf0/1
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Elmo7tarf0/1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 akwesi324/cloister
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/akwesi324/cloister
+     📝 Qubes-style compartmentalised pentest, SOC and forensics workstation that runs b…
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 vignesh-chaturvedi/convergence
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/vignesh-chaturvedi/convergence
+     📝 Least-privilege sandboxing for AI agent tools on Linux: Landlock and seccomp pol…
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 liliansouza1490-alt/3105-ios-primeiro-projeto-atualizado-2.0.1
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/liliansouza1490-alt/3105-ios-primeiro-projeto-atualizado-2.0.1
+     📝 3105-primeiro-projeto-atualizado iOS source with unsigned IPA build on GitHub ma…
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 liliansouza1490-alt/3105-ios-external-system-updated-4-2.0.1
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/liliansouza1490-alt/3105-ios-external-system-updated-4-2.0.1
+     📝 EXTERNAL_SYSTEM_updated iOS source with unsigned IPA build on GitHub macOS Actio…
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 liliansouza1490-alt/3105-ios-external-system-updated-3-2.0.1
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/liliansouza1490-alt/3105-ios-external-system-updated-3-2.0.1
+     📝 EXTERNAL_SYSTEM_updated-3 iOS source with unsigned IPA build on GitHub macOS Act…
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 liliansouza1490-alt/3105-ios-external-system-updated-1-2.0.1
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/liliansouza1490-alt/3105-ios-external-system-updated-1-2.0.1
+     📝 EXTERNAL_SYSTEM_updated-1 iOS source with unsigned IPA build on GitHub macOS Act…
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 liliansouza1490-alt/3105-ios-external-system-updated-rev2-2.0.1
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/liliansouza1490-alt/3105-ios-external-system-updated-rev2-2.0.1
+     📝 Second EXTERNAL_SYSTEM_updated revision with unsigned IPA build on GitHub macOS …
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 liliansouza1490-alt/3105-ios-external-system-updated-2.0.1
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/liliansouza1490-alt/3105-ios-external-system-updated-2.0.1
+     📝 3105 EXTERNAL_SYSTEM_updated source with unsigned IPA build on GitHub macOS Acti…
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 liliansouza1490-alt/31058iwi
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/liliansouza1490-alt/31058iwi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 Jfkkfjzkz/E
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Jfkkfjzkz/E
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 NEOVA666/axljb
+     ⭐ 0  🗣 JavaScript  📅 2026-11-11
+     🔗 https://github.com/NEOVA666/axljb
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 DontCryidkx/testps4
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/DontCryidkx/testps4
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 liliansouza1490-alt/3105-ios-full-all-versions-2.0.1
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/liliansouza1490-alt/3105-ios-full-all-versions-2.0.1
+     📝 3105 iOS all-versions source with unsigned IPA build on GitHub macOS Actions
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 liliansouza1490-alt/3105-ios-worse-query-2.0.1
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/liliansouza1490-alt/3105-ios-worse-query-2.0.1
+     📝 3105 iOS app source (2.0.1) with unsigned IPA build on GitHub macOS Actions
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 Macwindux/ps4-lapse
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Macwindux/ps4-lapse
+     📝 PS4 Lapse
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 Jfkkfjzkz/sploithen14.02
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Jfkkfjzkz/sploithen14.02
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 Sploit-arch/fork-test
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Sploit-arch/fork-test
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 Stevenfromsomewhere/Stevenfromsomewhere.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Stevenfromsomewhere/Stevenfromsomewhere.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-12 14:46:28 UTC] [NEW]   🆕 📦 thejswaggart/ps5-gamepad-bridge
+     ⭐ 0  🗣 C  📅 2026-11-11
+     🔗 https://github.com/thejswaggart/ps5-gamepad-bridge
+     📝 GhostPad: turn an Android phone into a PS5 gamepad over LAN (TCP), with auto pho…
+     🏷  —
+[2026-11-12 14:46:28 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-12 14:46:28 UTC] [UPD]   📢 📦 Roslaan001/terraform-aws-eks-nitro-sandboxes
+     ⭐ 0  🗣 HCL  📅 2026-11-11
+     🔗 https://github.com/Roslaan001/terraform-aws-eks-nitro-sandboxes
+     📝 Production-Ready AWS Nitro Sandboxes on Amazon EKS Auto Mode
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-12 14:46:28 UTC] [UPD]   📢 📦 PalanBanana/ios27-a17pro-jailbreak-tracker
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/PalanBanana/ios27-a17pro-jailbreak-tracker
+     📝 Independent research and compatibility tracker for the iPhone 15 Pro Max (A17 Pr…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-12 14:46:28 UTC] [INFO] ============================================================
+[2026-11-12 14:46:28 UTC] [INFO] Completato — 68 nuovi, 5 aggiornati, 0 errori
+[2026-11-12 14:46:28 UTC] [INFO] ============================================================
