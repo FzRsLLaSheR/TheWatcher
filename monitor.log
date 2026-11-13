@@ -137049,3 +137049,231 @@
 [2026-11-12 23:16:56 UTC] [INFO] ============================================================
 [2026-11-12 23:16:56 UTC] [INFO] Completato — 48 nuovi, 4 aggiornati, 0 errori
 [2026-11-12 23:16:56 UTC] [INFO] ============================================================
+[2026-11-13 05:32:50 UTC] [INFO] ============================================================
+[2026-11-13 05:32:50 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-13 05:32:50 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-13 05:32:50 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-13 05:32:50 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-13 05:32:50 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-13 05:32:50 UTC] [INFO] ============================================================
+[2026-11-13 05:32:50 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-13 05:32:50 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-13 05:32:52 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-13 05:32:52 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-13 05:32:52 UTC] [NEW]   🆕 📦 grimh3xx/drvaudit
+     ⭐ 1  🗣 Rust  📅 2026-11-13
+     🔗 https://github.com/grimh3xx/drvaudit
+     📝 Read-only kernel driver auditor: LOLDrivers + Microsoft blocklist (Authenticode)…
+     🏷  authenticode, blue-team, byovd, kernel-drivers, loldrivers, rootkit-detection, rust
+[2026-11-13 05:32:52 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-13 05:32:52 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-13 05:32:52 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-13 05:32:56 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 29 NUOVI repository:
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 mindwalker-ai/.github
+     ⭐ 0  🗣 N/A  📅 2026-11-13
+     🔗 https://github.com/mindwalker-ai/.github
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 DSchermer/Fisher
+     ⭐ 0  🗣 Python  📅 2026-11-13
+     🔗 https://github.com/DSchermer/Fisher
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 shep95/aureon-hardware
+     ⭐ 0  🗣 Python  📅 2026-11-13
+     🔗 https://github.com/shep95/aureon-hardware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Remote-Workforce-Mobile-Protection
+     ⭐ 0  🗣 N/A  📅 2026-11-13
+     🔗 https://github.com/ishandutta2007/Awesome-Remote-Workforce-Mobile-Protection
+     📝 Top Remote Workforce Mobile Protection (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, endpoint-protection, mobile-security, remote-workforce, zero-trust, ztna
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 akchhat1211/akchhat-security-research
+     ⭐ 0  🗣 N/A  📅 2026-11-13
+     🔗 https://github.com/akchhat1211/akchhat-security-research
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 NabeelOG/syncX
+     ⭐ 0  🗣 Rust  📅 2026-11-13
+     🔗 https://github.com/NabeelOG/syncX
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 rizkicuwi/cve-telegram-bot-rizki
+     ⭐ 0  🗣 Python  📅 2026-11-13
+     🔗 https://github.com/rizkicuwi/cve-telegram-bot-rizki
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 KamenRiderW/dsh-cookie-cleanup
+     ⭐ 0  🗣 PowerShell  📅 2026-11-13
+     🔗 https://github.com/KamenRiderW/dsh-cookie-cleanup
+     📝 Unofficial Windows workaround for DeepSeek Harness cookie accumulation: cleans l…
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 iypeep/smb-job-channel
+     ⭐ 0  🗣 Python  📅 2026-11-13
+     🔗 https://github.com/iypeep/smb-job-channel
+     📝 SMB share as control plane: signed+encrypted job channel for machines with no in…
+     🏷  air-gapped, automation, dpapi, file-share, hkdf, job-queue, powershell, python, smb
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 Ayushshuklai/research-library
+     ⭐ 0  🗣 N/A  📅 2026-11-13
+     🔗 https://github.com/Ayushshuklai/research-library
+     📝 A curated, categorised library of the open-source projects I study — AI agents, …
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 vitorosouza/dio-lab-desafio-simulando_malware
+     ⭐ 0  🗣 Python  📅 2026-11-13
+     🔗 https://github.com/vitorosouza/dio-lab-desafio-simulando_malware
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 Richardmarnez/caderno-estudos-ciber
+     ⭐ 0  🗣 N/A  📅 2026-11-13
+     🔗 https://github.com/Richardmarnez/caderno-estudos-ciber
+     📝 Caderno de estudos público e portfólio de cibersegurança, documentando cursos, l…
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 edradamicaela-cmyk/edrada
+     ⭐ 0  🗣 N/A  📅 2026-11-13
+     🔗 https://github.com/edradamicaela-cmyk/edrada
+     📝 For educational purpose only
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 SolitudeZY/OpinionLens
+     ⭐ 1  🗣 Python  📅 2026-11-13
+     🔗 https://github.com/SolitudeZY/OpinionLens
+     📝 舆见 OpinionLens · 社媒舆情监测与 AI 报告桌面端（Electron + FastAPI sidecar + MediaCrawler 运行时包…
+     🏷  ai-report, crawler, electron, fastapi, llm, media-crawler, open-source, opinion-monitoring, privacy, public-opinion, social-media, windows-desktop
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 RaihanStark/scamctl
+     ⭐ 0  🗣 Go  📅 2026-11-13
+     🔗 https://github.com/RaihanStark/scamctl
+     📝 AI-powered CLI tool to detect scams, phishing, and malicious attachments before …
+     🏷  antigravity, attachment-scanner, cli, cybersecurity, forensics, freelance-safety, gemini, golang, infostealer, malware-detection, phishing-detection, scam-detector, upwork-scams
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 Edro08/edro-mcp
+     ⭐ 0  🗣 Go  📅 2026-11-12
+     🔗 https://github.com/Edro08/edro-mcp
+     📝 Catálogo de servidores MCP e instalador multi-agente basado en perfiles.
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 NecroSynder/Phylogenetic_AgentAuditorFramework
+     ⭐ 0  🗣 Python  📅 2026-11-12
+     🔗 https://github.com/NecroSynder/Phylogenetic_AgentAuditorFramework
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 siedysoes/csix-blue-team
+     ⭐ 0  🗣 JavaScript  📅 2026-11-13
+     🔗 https://github.com/siedysoes/csix-blue-team
+     📝 Free bilingual (EN/ID) blue team learning base - security operations, SIEM, Sigm…
+     🏷  bilingual, blue-team, cybersecurity, detection-engineering, education, incident-response, siem, soc
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 mickfluxrobotics/Edrawing-Viewer
+     ⭐ 0  🗣 JavaScript  📅 2026-11-13
+     🔗 https://github.com/mickfluxrobotics/Edrawing-Viewer
+     📝 edrawing viewer for chromebook
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 jaeseong90/pc-health-agent
+     ⭐ 0  🗣 C#  📅 2026-11-12
+     🔗 https://github.com/jaeseong90/pc-health-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-CSAT-Customer-Feedback-Management
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/ishandutta2007/Awesome-CSAT-Customer-Feedback-Management
+     📝 Top CSAT Customer Feedback Management (Opensource)  Star if you like it! 
+     🏷  awesome-list, csat, curated-list, customer-experience, customer-feedback, nps, surveys
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 tearbu/incident-response-tracker
+     ⭐ 0  🗣 Python  📅 2026-11-13
+     🔗 https://github.com/tearbu/incident-response-tracker
+     📝 Python and SQLite incident response tracker CLI: log incidents, track severity a…
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 Ny-dia/memoria-viva-mapa
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-11-13
+     🔗 https://github.com/Ny-dia/memoria-viva-mapa
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 zlyuancn/Threadline
+     ⭐ 0  🗣 Rust  📅 2026-11-12
+     🔗 https://github.com/zlyuancn/Threadline
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 jvch0512/incident-timeline
+     ⭐ 0  🗣 Go  📅 2026-11-13
+     🔗 https://github.com/jvch0512/incident-timeline
+     📝 Go tool that merges incident evidence from several sources and computes time to …
+     🏷  cli, dfir, go, incident-response, security
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 Kariiem/cablemouse
+     ⭐ 0  🗣 Kotlin  📅 2026-11-12
+     🔗 https://github.com/Kariiem/cablemouse
+     📝 Use your Android phone as a mouse over the USB cable (USB-MIDI), with a portable…
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 Felipehnasci/soc-lab-wazuh-suricata-dfir-iris
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/Felipehnasci/soc-lab-wazuh-suricata-dfir-iris
+     📝 TCC: laboratório de SOC com Wazuh, Suricata, Auditd e DFIR-IRIS. Detecção, telem…
+     🏷  —
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 ihavenoram/rdp-toolkit
+     ⭐ 0  🗣 PowerShell  📅 2026-11-12
+     🔗 https://github.com/ihavenoram/rdp-toolkit
+     📝 PowerShell 5.1 GUI for Remote Desktop tickets on both ends: why the host refuses…
+     🏷  brute-force, firewall, hardening, msp, powershell, rdp, remote-desktop, terminal-server, winforms
+[2026-11-13 05:32:56 UTC] [NEW]   🆕 📦 eucesar/Roadmap_Cyber_Seguranca
+     ⭐ 0  🗣 N/A  📅 2026-11-12
+     🔗 https://github.com/eucesar/Roadmap_Cyber_Seguranca
+     📝 Roadmap_Cyber_Seguranca
+     🏷  —
+[2026-11-13 05:32:56 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-13 05:32:56 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-13 05:32:56 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-13 05:32:58 UTC] [INFO]   → 35 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-13 05:32:58 UTC] [NEW]   🆕 7 NUOVI repository:
+[2026-11-13 05:32:58 UTC] [NEW]   🆕 📦 bts2019amo-ctrl/WQFiles-Patches
+     ⭐ 0  🗣 Objective-C  📅 2026-11-13
+     🔗 https://github.com/bts2019amo-ctrl/WQFiles-Patches
+     📝 WQ Files v0.7 with a native reversible WQPatch toggle system
+     🏷  —
+[2026-11-13 05:32:58 UTC] [NEW]   🆕 📦 AgusOwner/CesarFoxRank
+     ⭐ 0  🗣 Swift  📅 2026-11-13
+     🔗 https://github.com/AgusOwner/CesarFoxRank
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:58 UTC] [NEW]   🆕 📦 AgusOwner/Reparacion
+     ⭐ 0  🗣 Swift  📅 2026-11-13
+     🔗 https://github.com/AgusOwner/Reparacion
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:58 UTC] [NEW]   🆕 📦 AgusOwner/CesarFox
+     ⭐ 0  🗣 Swift  📅 2026-11-13
+     🔗 https://github.com/AgusOwner/CesarFox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:58 UTC] [NEW]   🆕 📦 eremaprivat7-arch/vintagelite-ui-preview
+     ⭐ 0  🗣 Swift  📅 2026-11-13
+     🔗 https://github.com/eremaprivat7-arch/vintagelite-ui-preview
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-13 05:32:58 UTC] [NEW]   🆕 📦 darielzva/TESTVEEX1
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/darielzva/TESTVEEX1
+     📝 xd
+     🏷  —
+[2026-11-13 05:32:58 UTC] [NEW]   🆕 📦 ps5xploit/relapse
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/ps5xploit/relapse
+     📝 relapse
+     🏷  —
+[2026-11-13 05:32:58 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-13 05:32:58 UTC] [UPD]   📢 📦 Popyza1234/app
+     ⭐ 0  🗣 Swift  📅 2026-11-12
+     🔗 https://github.com/Popyza1234/app
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-13 05:32:58 UTC] [UPD]   📢 📦 vignesh-chaturvedi/convergence
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/vignesh-chaturvedi/convergence
+     📝 Least-privilege sandboxing for AI agent tools on Linux: Landlock and seccomp pol…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-13 05:32:58 UTC] [UPD]   📢 📦 outusuke/sbx
+     ⭐ 0  🗣 Python  📅 2026-11-08
+     🔗 https://github.com/outusuke/sbx
+     📝 Firejail-style sandbox on bubblewrap, with a GTK4 settings editor
+     🏷  bubblewrap, bwrap, firejail-alternative, gtk4, libadwaita, linux, namespaces, python, sandbox, seccomp, security, wayland
+     🔄 Motivo: repo recente (4gg)
+[2026-11-13 05:32:58 UTC] [INFO] ============================================================
+[2026-11-13 05:32:58 UTC] [INFO] Completato — 37 nuovi, 3 aggiornati, 0 errori
+[2026-11-13 05:32:58 UTC] [INFO] ============================================================
