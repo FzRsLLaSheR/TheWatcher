@@ -138048,3 +138048,250 @@
 [2026-11-14 05:24:29 UTC] [INFO] ============================================================
 [2026-11-14 05:24:29 UTC] [INFO] Completato — 25 nuovi, 12 aggiornati, 0 errori
 [2026-11-14 05:24:29 UTC] [INFO] ============================================================
+[2026-11-14 13:06:53 UTC] [INFO] ============================================================
+[2026-11-14 13:06:53 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-14 13:06:53 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-14 13:06:53 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-14 13:06:53 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-14 13:06:53 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-14 13:06:53 UTC] [INFO] ============================================================
+[2026-11-14 13:06:53 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-14 13:06:53 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-14 13:06:55 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-14 13:06:55 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-11-14 13:06:55 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-14 13:06:55 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-14 13:06:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-14 13:06:57 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 24 NUOVI repository:
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 ya-chang/spear-skill
+     ⭐ 0  🗣 N/A  📅 2026-11-14
+     🔗 https://github.com/ya-chang/spear-skill
+     📝 长枪 spear — 整合逆向+渗透的一体化技能包（由四个技能包整合）
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 LeonardoOMZ/esp32-weather-station
+     ⭐ 0  🗣 C++  📅 2026-11-14
+     🔗 https://github.com/LeonardoOMZ/esp32-weather-station
+     📝 🌡️ ESP32 + DHT22 mini weather station with a real-time local web dashboard | Min…
+     🏷  arduino, cpp, dht22, esp32, iot, weather-station, web-server
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 venglin/bluetooth-sniffer
+     ⭐ 0  🗣 Rust  📅 2026-11-14
+     🔗 https://github.com/venglin/bluetooth-sniffer
+     📝 Bluetooth LE and Classic (BR) sniffer for the HackRF One with PCAP/PCAPNG output…
+     🏷  ble, bluetooth, bluetooth-classic, bluetooth-low-energy, dsp, extcap, hackrf, hackrf-one, packet-sniffer, pcap, pcapng, rf, rust, sdr, sniffer, software-defined-radio, wireless-security, wireshark
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 CyVeeru/ThreatLens
+     ⭐ 0  🗣 TypeScript  📅 2026-11-14
+     🔗 https://github.com/CyVeeru/ThreatLens
+     📝 Open-source CTI workstation: org-aware threat intel, Sigma/YARA detection librar…
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 mrsradulescu/overboost-edrive-id7
+     ⭐ 0  🗣 JavaScript  📅 2026-11-14
+     🔗 https://github.com/mrsradulescu/overboost-edrive-id7
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 ZachGSnow/ad-health-check
+     ⭐ 0  🗣 PowerShell  📅 2026-11-14
+     🔗 https://github.com/ZachGSnow/ad-health-check
+     📝 Read-only Active Directory health check for MSP client reviews: PASS/WARN/FAIL f…
+     🏷  active-directory, health-check, msp, powershell, security-audit, windows-server
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 awvmeijer/flight-brief
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/awvmeijer/flight-brief
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 meerhmza0-hue/windows-logs-gap-assessment-skill
+     ⭐ 0  🗣 N/A  📅 2026-11-14
+     🔗 https://github.com/meerhmza0-hue/windows-logs-gap-assessment-skill
+     📝 An AI skill that scores the Windows telemetry you collect today and shows how mu…
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 poq79/zedr
+     ⭐ 1  🗣 Go  📅 2026-11-14
+     🔗 https://github.com/poq79/zedr
+     📝 Open-source EDR for Windows & Linux: user-mode agents, ATT&CK-mapped detection, …
+     🏷  blue-team, cyber-security, edr, endpoint-security, golang, linux, security-tools, threat-detection, threat-hunting, windows
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 sameer448/Firebreak
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/sameer448/Firebreak
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 edusouzamarques/grc-lab
+     ⭐ 0  🗣 HTML  📅 2026-11-14
+     🔗 https://github.com/edusouzamarques/grc-lab
+     📝 Enterprise GRC & Security Assurance Lab — NIST CSF 2.0, ISO/IEC 27001:2022, SOC …
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 phamhoa205/ictu-blockchain
+     ⭐ 0  🗣 JavaScript  📅 2026-11-14
+     🔗 https://github.com/phamhoa205/ictu-blockchain
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 Deimos2002/alert2attack-agent
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/Deimos2002/alert2attack-agent
+     📝 EDR investigation agent: sourced case files from security alerts, with a determi…
+     🏷  edr, evaluation, langgraph, llm-agents, mitre-attack, security
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 miqsoft/volatility3-io_uring
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/miqsoft/volatility3-io_uring
+     📝 Volatility 3 plugins for io_uring state in Linux memory images: rings, hidden fi…
+     🏷  dfir, io-uring, linux, memory-forensics, volatility3
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 TAIMOURMUSHTAQ/TechFusion-Hackathon-26
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/TAIMOURMUSHTAQ/TechFusion-Hackathon-26
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 bytebandit-07/orbit-incident-triage
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/bytebandit-07/orbit-incident-triage
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 Eizi0/OpenCVEC
+     ⭐ 0  🗣 Go  📅 2026-11-14
+     🔗 https://github.com/Eizi0/OpenCVEC
+     📝 Self-hosted CVE checker: proves exposure with canaries (DNS/HTTP/file) on owned …
+     🏷  blue-team, canary, cve, dns, golang, honeytoken, security-tools, self-hosted, vulnerability-scanner
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 Fallen-leaves089/highwall-release-validation-20261114
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/Fallen-leaves089/highwall-release-validation-20261114
+     📝 Temporary HighWall release workflow validation; delete after verification
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 girrj/defensive-ai-security
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/girrj/defensive-ai-security
+     📝 Blue-team portfolio: AI coding agent guardrails, detection engineering (Sigma / …
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 brazil830/sentinel
+     ⭐ 0  🗣 TypeScript  📅 2026-11-14
+     🔗 https://github.com/brazil830/sentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 tanay4T/EV_sentinal
+     ⭐ 0  🗣 AGS Script  📅 2026-11-14
+     🔗 https://github.com/tanay4T/EV_sentinal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 tushar-ux/tushar-ux
+     ⭐ 0  🗣 N/A  📅 2026-11-14
+     🔗 https://github.com/tushar-ux/tushar-ux
+     📝 Readme File
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 MMSHBA/CEBB-Backend-contribution-
+     ⭐ 0  🗣 N/A  📅 2026-11-14
+     🔗 https://github.com/MMSHBA/CEBB-Backend-contribution-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [NEW]   🆕 📦 vanderken/Lessonfy-Bucog-KenEdrian-G1
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/vanderken/Lessonfy-Bucog-KenEdrian-G1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:06:57 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-11-14 13:06:57 UTC] [UPD]   📢 📦 bastivanconsulting/Nexashield-Abuse-IP
+     ⭐ 1  🗣 JavaScript  📅 2026-11-13
+     🔗 https://github.com/bastivanconsulting/Nexashield-Abuse-IP
+     📝 Les IP que NexaShield détectent comme dangereuses
+     🏷  cyber, cyber-analytics, cyber-security, cybersecurity, cybersecurity-tools
+     🔄 Motivo: repo recente (0gg)
+[2026-11-14 13:06:57 UTC] [UPD]   📢 📦 daniyyell-dev/rapid-threat-intel
+     ⭐ 5  🗣 HTML  📅 2026-11-10
+     🔗 https://github.com/daniyyell-dev/rapid-threat-intel
+     📝 Move fast with threat intel from different sources: daily blockable IOCs (IPs, d…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-11-14 13:06:57 UTC] [UPD]   📢 📦 ctkqiang/NezhaEDRAndroid
+     ⭐ 0  🗣 Kotlin  📅 2026-11-13
+     🔗 https://github.com/ctkqiang/NezhaEDRAndroid
+     📝 哪吒 EDR (NezhaCyberEDR) 是一款面向 Android 终端的轻量级、零遥测（Zero-Telemetry）、高性能终端检测与响应（EDR）防…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-14 13:06:57 UTC] [UPD]   📢 📦 sudo-rzk/red-blue-team-lab
+     ⭐ 0  🗣 N/A  📅 2026-11-10
+     🔗 https://github.com/sudo-rzk/red-blue-team-lab
+     📝 A practical Red & Blue Team cybersecurity lab focused on network security, web a…
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-11-14 13:06:57 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-14 13:06:57 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-14 13:07:00 UTC] [INFO]   → 37 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 12 NUOVI repository:
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 praveenkumar2014/GUIDESOFTBUILDER
+     ⭐ 0  🗣 N/A  📅 2026-11-14
+     🔗 https://github.com/praveenkumar2014/GUIDESOFTBUILDER
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 Beneking102/pkgsnitch
+     ⭐ 0  🗣 Rust  📅 2026-11-14
+     🔗 https://github.com/Beneking102/pkgsnitch
+     📝 Behavioral diff and patch management for package updates: see what a new npm ver…
+     🏷  cli, dependency-management, npm, patch-management, rust, sandbox, security, strace, supply-chain-security
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 dinhhavan443-del/3105-Th--Nghi-m
+     ⭐ 0  🗣 Swift  📅 2026-11-14
+     🔗 https://github.com/dinhhavan443-del/3105-Th--Nghi-m
+     📝 Hỗ trợ iOS 18.7.10
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 infosamoud/1402
+     ⭐ 0  🗣 JavaScript  📅 2026-11-14
+     🔗 https://github.com/infosamoud/1402
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 LinkPass888/CarCanvas
+     ⭐ 0  🗣 Swift  📅 2026-11-14
+     🔗 https://github.com/LinkPass888/CarCanvas
+     📝 Overwrite CarPlay wallpaper caches with your own images.
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 mchalkiadakis/Offensive-Security-Portfolio
+     ⭐ 1  🗣 N/A  📅 2026-11-14
+     🔗 https://github.com/mchalkiadakis/Offensive-Security-Portfolio
+     📝 Penetration testing reports and methodology notes. Demonstrating practical explo…
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 xungirl/cella
+     ⭐ 0  🗣 Go  📅 2026-11-14
+     🔗 https://github.com/xungirl/cella
+     📝 Kubernetes-native sandbox platform for AI agents: Go operator, warm pools, gViso…
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 rodystore2/1402
+     ⭐ 0  🗣 JavaScript  📅 2026-11-14
+     🔗 https://github.com/rodystore2/1402
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 boupi99/KERNELKATIOFPKG
+     ⭐ 10  🗣 C  📅 2026-11-14
+     🔗 https://github.com/boupi99/KERNELKATIOFPKG
+     📝 A Python/Unicorn-based emulator and exploit research framework for the PS5 A53 (…
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 isenlink/thor-pearl-miner
+     ⭐ 0  🗣 Rust  📅 2026-11-14
+     🔗 https://github.com/isenlink/thor-pearl-miner
+     📝 Spark Pearl Miner GEN5 UMMA port for NVIDIA DRIVE Thor (Tegra264) — 101 T-MAC/s,…
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 Salil16440/HomeLab
+     ⭐ 0  🗣 N/A  📅 2026-11-14
+     🔗 https://github.com/Salil16440/HomeLab
+     📝 CyberSecurity Homelab
+     🏷  —
+[2026-11-14 13:07:00 UTC] [NEW]   🆕 📦 userpc5661-png/FilesN
+     ⭐ 0  🗣 Objective-C  📅 2026-11-14
+     🔗 https://github.com/userpc5661-png/FilesN
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-14 13:07:00 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-14 13:07:00 UTC] [UPD]   📢 📦 dungleioshax-droid/LienQuanDS
+     ⭐ 0  🗣 C  📅 2026-11-07
+     🔗 https://github.com/dungleioshax-droid/LienQuanDS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-11-14 13:07:00 UTC] [UPD]   📢 📦 ramonburf/Tims-Cooked
+     ⭐ 0  🗣 Swift  📅 2026-11-09
+     🔗 https://github.com/ramonburf/Tims-Cooked
+     📝 iOS 27.0.1 jailbreak research — IOSurface kernel surface exploitation on iPhone …
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-11-14 13:07:00 UTC] [UPD]   📢 📦 BigMegoo/1402
+     ⭐ 0  🗣 JavaScript  📅 2026-11-13
+     🔗 https://github.com/BigMegoo/1402
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-14 13:07:00 UTC] [INFO] ============================================================
+[2026-11-14 13:07:00 UTC] [INFO] Completato — 36 nuovi, 7 aggiornati, 0 errori
+[2026-11-14 13:07:00 UTC] [INFO] ============================================================
