@@ -139160,3 +139160,265 @@
 [2026-11-15 13:36:35 UTC] [INFO] ============================================================
 [2026-11-15 13:36:35 UTC] [INFO] Completato — 42 nuovi, 5 aggiornati, 0 errori
 [2026-11-15 13:36:35 UTC] [INFO] ============================================================
+[2026-11-15 22:34:06 UTC] [INFO] ============================================================
+[2026-11-15 22:34:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-15 22:34:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-15 22:34:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-15 22:34:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-15 22:34:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-15 22:34:06 UTC] [INFO] ============================================================
+[2026-11-15 22:34:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-15 22:34:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-15 22:34:08 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-15 22:34:08 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-15 22:34:08 UTC] [NEW]   🆕 📦 kernullist/kndbgx
+     ⭐ 1  🗣 C++  📅 2026-11-15
+     🔗 https://github.com/kernullist/kndbgx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:08 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-15 22:34:08 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-15 22:34:08 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-15 22:34:10 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 39 NUOVI repository:
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 egor-zvyagin/cyber-ops-security-onion-wireshark
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/egor-zvyagin/cyber-ops-security-onion-wireshark
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 libre-devops/ansible-role-mde-linux-checks
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/libre-devops/ansible-role-mde-linux-checks
+     📝 🛡️ Ansible role to test Microsoft Defender for Endpoint on Linux the way a relea…
+     🏷  ansible, ansible-role, defender, linux, mdatp, security, testing
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 tarikatmaca/soc-incident-management-dashboard
+     ⭐ 0  🗣 JavaScript  📅 2026-11-15
+     🔗 https://github.com/tarikatmaca/soc-incident-management-dashboard
+     📝 A modern SOC Incident Management Dashboard built with React and Vite.
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 Alien0ne/ShadowGuardian
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/Alien0ne/ShadowGuardian
+     📝 Content protection toolkit for web platforms — detects and defends against CDP s…
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 vinitomasi/vinitomasi
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/vinitomasi/vinitomasi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 Yasine-Khamassi/memscope-detect
+     ⭐ 0  🗣 C++  📅 2026-11-15
+     🔗 https://github.com/Yasine-Khamassi/memscope-detect
+     📝 Read-only Windows memory scanner that flags unbacked executable memory, PE heade…
+     🏷  blue-team, cpp, detection-engineering, edr, memory-forensics, process-injection, security, windows
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 MaximeLEAL/tool_DC-arsenal
+     ⭐ 0  🗣 HTML  📅 2026-11-15
+     🔗 https://github.com/MaximeLEAL/tool_DC-arsenal
+     📝 ⚡ Arsenal DC — 26 kits · ~240 tools · powered by Maxime Leal
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 simon-verzity/EdgeControl
+     ⭐ 0  🗣 Swift  📅 2026-11-15
+     🔗 https://github.com/simon-verzity/EdgeControl
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 Rutger505/workstation-connect
+     ⭐ 0  🗣 Rust  📅 2026-11-14
+     🔗 https://github.com/Rutger505/workstation-connect
+     📝 Phone ↔ laptop link (Pixel ↔ Arch/Hyprland): auto hotspot over BLE, KDE Connect …
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 lomello2013-star/agent-shield
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/lomello2013-star/agent-shield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 webgisman/helpme
+     ⭐ 0  🗣 Go  📅 2026-11-15
+     🔗 https://github.com/webgisman/helpme
+     📝 Free, open-source remote help: end-to-end encrypted, nothing to install for the …
+     🏷  end-to-end-encryption, go, open-source, remote-desktop, remote-support, webcodecs, windows
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 Ozer0x777/DarknetOperator
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/Ozer0x777/DarknetOperator
+     📝 Jeu solo Darknet Operator : bureau Godot, terminal simulé et campagne narrative.
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 AhmadZubayer/EDRMS-Frontend-NextJS-WebDevL2-A7
+     ⭐ 0  🗣 TypeScript  📅 2026-11-15
+     🔗 https://github.com/AhmadZubayer/EDRMS-Frontend-NextJS-WebDevL2-A7
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 nildeby/canva-pro-alt-access-tool
+     ⭐ 0  🗣 JavaScript  📅 2026-11-15
+     🔗 https://github.com/nildeby/canva-pro-alt-access-tool
+     📝 Canva Pro 2026 — Full Working Installer with All Professional Tools
+     🏷  automation, canva-app, canva-bulk-create, canva-bypass, canva-editor-tools, canva-export-tools, canva-free, canva-full, canva-pro, canva-pro-for-life-time, canva-pro-team-2026, developer-tools, figma-design, followers-ig, open-source, python, scripts, social-media-app, social-media-design, software-engineering
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 shii9/Wazuh_Suricata_IDS_Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/shii9/Wazuh_Suricata_IDS_Lab
+     📝 Suricata Network IDS with the Wazuh SIEM Platform.
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 Adir-html/Adir-html
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/Adir-html/Adir-html
+     📝 A little about me
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 boss-defender/Maldev-copy
+     ⭐ 0  🗣 C  📅 2026-11-15
+     🔗 https://github.com/boss-defender/Maldev-copy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 suad-dreskovic/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/suad-dreskovic/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 welchjrmxshtr/audiosync
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/welchjrmxshtr/audiosync
+     📝 Sample-locked audio between machines on a local network, built on Snapcast
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 Salma-Naaouache/Automatic-Mapping-of-Security-Alerts-to-MITRE-ATT-CK
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/Salma-Naaouache/Automatic-Mapping-of-Security-Alerts-to-MITRE-ATT-CK
+     📝 NLP pipeline that automatically maps SIEM alerts, security logs and CTI reports …
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 NamePantrer/NamePantrer
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/NamePantrer/NamePantrer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 loseys/awesome-c2-frameworks
+     ⭐ 3  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/loseys/awesome-c2-frameworks
+     📝 The best C2 tools of 2026 for Red Team operations.
+     🏷  adversary-emulation, awesome, awesome-list, c2, c2-framework, command-and-control, info-sec, offensive-security, penetration-testing, pentesting, post-exploitation, red-team, red-teaming, security-tools
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 jardibulle/octopus
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/jardibulle/octopus
+     📝 Multiroom audio on a Raspberry Pi: Music Assistant + squeezelite to play Spotify…
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 kurisu-code/coding-agent-audit
+     ⭐ 0  🗣 JavaScript  📅 2026-11-15
+     🔗 https://github.com/kurisu-code/coding-agent-audit
+     📝 An open-source explanation layer for AI coding agent SOC alerts
+     🏷  ai-coding-agent, alert-triage, deepseek-harness, devsecops, false-positive-reduction, security, siem, soc
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 ainunizhar/Singapore-Partner-Intelligence
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/ainunizhar/Singapore-Partner-Intelligence
+     📝 152 Singapore cybersecurity services firms researched as channel partners: 1-5 p…
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 ainunizhar/Malaysia-Partner-Intelligence
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/ainunizhar/Malaysia-Partner-Intelligence
+     📝 193 IT and cybersecurity firms in Malaysia researched as channel partners: segme…
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 ainunizhar/EMEA-Partner-Activation
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/ainunizhar/EMEA-Partner-Activation
+     📝 Partner-activation dashboard for 2,572 security partners in 75 EMEA countries: t…
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 tejashwinimmykala/controlmap
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/tejashwinimmykala/controlmap
+     📝 SOC 2 evidence automation that collects exports from GitHub, AWS, identity and H…
+     🏷  iso-27001-annex-a, jinja, python, sha-256-evidence-store, soc-2-tsc, yaml-control-library
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 calebifechidere/securebank-mini-edr-class-project
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/calebifechidere/securebank-mini-edr-class-project
+     📝 Collaborative development of a Python-based Endpoint Detection and Response (EDR…
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 nayakabinash009/-sentinel-sih
+     ⭐ 0  🗣 TypeScript  📅 2026-11-15
+     🔗 https://github.com/nayakabinash009/-sentinel-sih
+     📝 An AI-powered project developed for Smart India Hackathon (SIH), focused on buil…
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 IbrahimAlsulwi/IbrahimAlsulwi
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/IbrahimAlsulwi/IbrahimAlsulwi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 N371/metasploitable2-hanson_keylogger
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/N371/metasploitable2-hanson_keylogger
+     📝 Repositório com código em python para keylogger e hansonware avaliaveis.  - vers…
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 philip-euste/NASA-Martian-Map
+     ⭐ 0  🗣 TypeScript  📅 2026-11-14
+     🔗 https://github.com/philip-euste/NASA-Martian-Map
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 rootdz1337/-FakeAUMIDKIT
+     ⭐ 0  🗣 C++  📅 2026-11-15
+     🔗 https://github.com/rootdz1337/-FakeAUMIDKIT
+     📝  Fake AUMID — phishing/spoofing Kit
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 Bejaoui-Med-Bayrem/Bejaoui-Med-Bayrem
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/Bejaoui-Med-Bayrem/Bejaoui-Med-Bayrem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 boniyeamincse/soc-boni-learning-path
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/boniyeamincse/soc-boni-learning-path
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 Morris343/AxisGuard-X
+     ⭐ 1  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/Morris343/AxisGuard-X
+     📝  My own personal EDR - Detect. Alert. Kill. Log.
+     🏷  —
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 sandeepgopu/S-squad_after-the-signal
+     ⭐ 0  🗣 JavaScript  📅 2026-11-15
+     🔗 https://github.com/sandeepgopu/S-squad_after-the-signal
+     📝 After the Signal: interactive Mars/Moon mission atlas (NASA Space Apps 2026). Ru…
+     🏷  cesiumjs, mars, moon, nasa-space-apps, spice, threejs
+[2026-11-15 22:34:10 UTC] [NEW]   🆕 📦 zenitium/zenitium-onboarding
+     ⭐ 0  🗣 PowerShell  📅 2026-11-15
+     🔗 https://github.com/zenitium/zenitium-onboarding
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:10 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-15 22:34:10 UTC] [UPD]   📢 📦 ntars/Wacmin
+     ⭐ 0  🗣 JavaScript  📅 2026-11-14
+     🔗 https://github.com/ntars/Wacmin
+     📝 Wacmin —— 打破 macOS 与 Windows 的架构限制，四个方向实现双向互通（mac2win / exeonmac / win2mac / app…
+     🏷  apple-silicon, arm64, cross-compilation, cross-compile, developer-tools, electron, exe, ia32, interop, macos, nsis, nwjs, packaging, tauri, windows, windows-installer, wine, x86
+     🔄 Motivo: repo recente (1gg)
+[2026-11-15 22:34:10 UTC] [UPD]   📢 📦 bastivanconsulting/Nexashield-Abuse-IP
+     ⭐ 2  🗣 RouterOS Script  📅 2026-11-13
+     🔗 https://github.com/bastivanconsulting/Nexashield-Abuse-IP
+     📝 Les IP que NexaShield détectent comme dangereuses
+     🏷  ai, cisco, cyber, cyber-analytics, cyber-security, cybersecurity, cybersecurity-projects, cybersecurity-tools, edr, fortigate, list, lists, mdr, ndr, security, siem, xdr
+     🔄 Motivo: repo recente (2gg)
+[2026-11-15 22:34:10 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-15 22:34:10 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-15 22:34:13 UTC] [INFO]   → 43 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-15 22:34:13 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-11-15 22:34:13 UTC] [NEW]   🆕 📦 GamersRTG/GamersRTG.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-15
+     🔗 https://github.com/GamersRTG/GamersRTG.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:13 UTC] [NEW]   🆕 📦 actions-marketplace-validations/Beneking102_pkgsnitch
+     ⭐ 0  🗣 Rust  📅 2026-11-15
+     🔗 https://github.com/actions-marketplace-validations/Beneking102_pkgsnitch
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:13 UTC] [NEW]   🆕 📦 mynex-ios-alt/NeoTweaksFixed
+     ⭐ 0  🗣 Objective-C  📅 2026-11-15
+     🔗 https://github.com/mynex-ios-alt/NeoTweaksFixed
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:13 UTC] [NEW]   🆕 📦 AyoubAydi/Cybersecurity-Projects
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/AyoubAydi/Cybersecurity-Projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-15 22:34:13 UTC] [NEW]   🆕 📦 iampdt/codepilot
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/iampdt/codepilot
+     📝 An autonomous coding agent that plans, writes, runs and debugs code inside an is…
+     🏷  —
+[2026-11-15 22:34:13 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-15 22:34:13 UTC] [INFO] ============================================================
+[2026-11-15 22:34:13 UTC] [INFO] Completato — 45 nuovi, 2 aggiornati, 0 errori
+[2026-11-15 22:34:13 UTC] [INFO] ============================================================
