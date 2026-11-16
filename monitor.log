@@ -139422,3 +139422,207 @@
 [2026-11-15 22:34:13 UTC] [INFO] ============================================================
 [2026-11-15 22:34:13 UTC] [INFO] Completato — 45 nuovi, 2 aggiornati, 0 errori
 [2026-11-15 22:34:13 UTC] [INFO] ============================================================
+[2026-11-16 05:18:41 UTC] [INFO] ============================================================
+[2026-11-16 05:18:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-16 05:18:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-16 05:18:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-16 05:18:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-16 05:18:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-16 05:18:41 UTC] [INFO] ============================================================
+[2026-11-16 05:18:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-16 05:18:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-16 05:18:43 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-16 05:18:43 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-11-16 05:18:43 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-16 05:18:43 UTC] [UPD]   📢 📦 sidharth-v-s/AdaptixBOFKit
+     ⭐ 0  🗣 C  📅 2026-11-15
+     🔗 https://github.com/sidharth-v-s/AdaptixBOFKit
+     📝 AdaptixBOFKit
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-16 05:18:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-16 05:18:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-16 05:18:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 25 NUOVI repository:
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 fwordnvidia/IosAutoHDR
+     ⭐ 0  🗣 C  📅 2026-11-16
+     🔗 https://github.com/fwordnvidia/IosAutoHDR
+     📝 could autoly open HDR on IOS
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 linuxopt/nfsmw-linux
+     ⭐ 0  🗣 C++  📅 2026-11-15
+     🔗 https://github.com/linuxopt/nfsmw-linux
+     📝 SpeedBreaker (NFS Most Wanted 2005, Xbox 360 recomp) for Linux: one AppImage wit…
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 sai-sri94/aegis-zero-edr
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/sai-sri94/aegis-zero-edr
+     📝 new resume
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 Gowrish31/hackathon-project
+     ⭐ 0  🗣 JavaScript  📅 2026-11-16
+     🔗 https://github.com/Gowrish31/hackathon-project
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 JuniorAndChill/ICS_Rail_Testbed
+     ⭐ 0  🗣 C++  📅 2026-11-16
+     🔗 https://github.com/JuniorAndChill/ICS_Rail_Testbed
+     📝 Cyber-physical ICS/SCADA security testbed modeling IT/OT lateral movement in rai…
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 itsnomad07/Mini---EDR
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/itsnomad07/Mini---EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 duynhat326/SentinelX-Hybrid-AI-powered-Security-Operations-Platform
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/duynhat326/SentinelX-Hybrid-AI-powered-Security-Operations-Platform
+     📝 SentinelX - Hybrid AI-powered Security Operations Platform
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 worldcybereyes-blip/Agentic-AI-Security-Operations-SecOps-
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/worldcybereyes-blip/Agentic-AI-Security-Operations-SecOps-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 LimitlessCode/ratd
+     ⭐ 0  🗣 Rust  📅 2026-11-16
+     🔗 https://github.com/LimitlessCode/ratd
+     📝 Self-hosted SSH/SFTP remote administration console: host inventory, shell + file…
+     🏷  axum, remote-administration, rust, self-hosted, sftp, ssh, sysadmin
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 worldcybereyes-blip/Continuous-Controls-Monitoring-CCM-Evidence-Automation
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/worldcybereyes-blip/Continuous-Controls-Monitoring-CCM-Evidence-Automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 bestK/XDRScreen
+     ⭐ 0  🗣 Swift  📅 2026-11-16
+     🔗 https://github.com/bestK/XDRScreen
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 asrafulshaheed-oss/Maldev-copy
+     ⭐ 0  🗣 C  📅 2026-11-16
+     🔗 https://github.com/asrafulshaheed-oss/Maldev-copy
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 Josue-Quiroa/linux-hardening
+     ⭐ 0  🗣 Shell  📅 2026-11-16
+     🔗 https://github.com/Josue-Quiroa/linux-hardening
+     📝 Script modular de hardening para Linux (Ubuntu/Debian y RHEL/Rocky) con 4 nivele…
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 Wahayu26/resume-projects
+     ⭐ 0  🗣 TypeScript  📅 2026-11-16
+     🔗 https://github.com/Wahayu26/resume-projects
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 scully06/oplus-high-brightness
+     ⭐ 0  🗣 Java  📅 2026-11-16
+     🔗 https://github.com/scully06/oplus-high-brightness
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 JMMT18/Aurora-Health-Monitor
+     ⭐ 0  🗣 JavaScript  📅 2026-11-16
+     🔗 https://github.com/JMMT18/Aurora-Health-Monitor
+     📝 This is our project to give a solution to the 2026 NASA Space Apps Challenge
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 edrisbrowne50/edrisbrowne-projects-74
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/edrisbrowne50/edrisbrowne-projects-74
+     📝 个人笔记与练习
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 br-rgtt/esp32-universal-xinput-pc-dongle
+     ⭐ 0  🗣 C++  📅 2026-11-16
+     🔗 https://github.com/br-rgtt/esp32-universal-xinput-pc-dongle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 WeekAhrin/traceql
+     ⭐ 0  🗣 C++  📅 2026-11-16
+     🔗 https://github.com/WeekAhrin/traceql
+     📝 C++20 behavioral analysis tool for EDR/anti-cheat profiling and pattern generati…
+     🏷  anti-cheat, cplusplus, edr, security, static-analysis
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 hugolee-wan/edr
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/hugolee-wan/edr
+     📝 无特征主机安全防护
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 Victorchibuzor0/threat-hunting-scenario-tor
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/Victorchibuzor0/threat-hunting-scenario-tor
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 azoz70/azoz70
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/azoz70/azoz70
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 EsmailAlansi/Windows-Threat-Hunting-Scripts
+     ⭐ 0  🗣 PowerShell  📅 2026-11-16
+     🔗 https://github.com/EsmailAlansi/Windows-Threat-Hunting-Scripts
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 shrutimalik123/cyber-security-week-6
+     ⭐ 0  🗣 Rich Text Format  📅 2026-11-16
+     🔗 https://github.com/shrutimalik123/cyber-security-week-6
+     📝 Week 6: Malware Analysis Using AI Sandboxing — IAS5201 Capella University
+     🏷  —
+[2026-11-16 05:18:46 UTC] [NEW]   🆕 📦 AnshKhanna7503/splunk-botsv1-threat-hunting
+     ⭐ 0  🗣 N/A  📅 2026-11-15
+     🔗 https://github.com/AnshKhanna7503/splunk-botsv1-threat-hunting
+     📝 End-to-End SOC L1 Threat Hunting & Incident Response Investigation on the Splunk…
+     🏷  —
+[2026-11-16 05:18:46 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-11-16 05:18:46 UTC] [UPD]   📢 📦 egor-zvyagin/cyber-ops-security-onion-wireshark
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/egor-zvyagin/cyber-ops-security-onion-wireshark
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-16 05:18:46 UTC] [UPD]   📢 📦 SaulGoodMan154/sentinel-dac-lab
+     ⭐ 0  🗣 Python  📅 2026-11-15
+     🔗 https://github.com/SaulGoodMan154/sentinel-dac-lab
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-16 05:18:46 UTC] [UPD]   📢 📦 daniyyell-dev/rapid-threat-intel
+     ⭐ 6  🗣 HTML  📅 2026-11-10
+     🔗 https://github.com/daniyyell-dev/rapid-threat-intel
+     📝 Move fast with threat intel from different sources: daily blockable IOCs (IPs, d…
+     🏷  —
+     🔄 Motivo: repo recente (5gg)
+[2026-11-16 05:18:46 UTC] [UPD]   📢 📦 graineo/graineo
+     ⭐ 0  🗣 Rust  📅 2026-11-14
+     🔗 https://github.com/graineo/graineo
+     📝 Free, open-source photo library, RAW developer and film darkroom (macOS, Windows…
+     🏷  color-management, darkroom, film-simulation, foveon, macos, photo-editor, photo-library, photography, raw, raw-processing, rust, wgpu
+     🔄 Motivo: repo recente (1gg) | nuovi topic: wgpu, macos, rust, foveon, darkroom, photo-library, photo-editor, photography, color-management, raw, raw-processing, film-simulation
+[2026-11-16 05:18:46 UTC] [UPD]   📢 📦 bastivanconsulting/Nexashield-Abuse-IP
+     ⭐ 2  🗣 RouterOS Script  📅 2026-11-13
+     🔗 https://github.com/bastivanconsulting/Nexashield-Abuse-IP
+     📝 Les IP que NexaShield détectent comme dangereuses
+     🏷  ai, cisco, cyber, cyber-analytics, cyber-security, cybersecurity, cybersecurity-projects, cybersecurity-tools, edr, fortigate, list, lists, mdr, ndr, security, siem, xdr
+     🔄 Motivo: repo recente (2gg)
+[2026-11-16 05:18:46 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-16 05:18:46 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-16 05:18:48 UTC] [INFO]   → 19 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-16 05:18:48 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-11-16 05:18:48 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-16 05:18:48 UTC] [UPD]   📢 📦 BangShou1st/cowbox
+     ⭐ 1  🗣 Rust  📅 2026-11-15
+     🔗 https://github.com/BangShou1st/cowbox
+     📝 Millisecond Copy-on-Write sandboxes for AI coding agents. Undo any step, keep th…
+     🏷  ai-agents, cli, codex, copy-on-write, developer-tools, landlock, overlayfs, rust, sandbox
+     🔄 Motivo: repo recente (1gg)
+[2026-11-16 05:18:48 UTC] [UPD]   📢 📦 kolbicz/WQFiles
+     ⭐ 944  🗣 Objective-C  📅 2026-11-09
+     🔗 https://github.com/kolbicz/WQFiles
+     📝 File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query,…
+     🏷  —
+     🔄 Motivo: repo recente (6gg)
+[2026-11-16 05:18:48 UTC] [UPD]   📢 📦 Sploit-arch/splotitester
+     ⭐ 0  🗣 JavaScript  📅 2026-11-12
+     🔗 https://github.com/Sploit-arch/splotitester
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-11-16 05:18:48 UTC] [INFO] ============================================================
+[2026-11-16 05:18:48 UTC] [INFO] Completato — 25 nuovi, 9 aggiornati, 0 errori
+[2026-11-16 05:18:48 UTC] [INFO] ============================================================
