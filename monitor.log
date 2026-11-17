@@ -139977,3 +139977,337 @@
 [2026-11-16 15:06:34 UTC] [INFO] ============================================================
 [2026-11-16 15:06:34 UTC] [INFO] Completato — 58 nuovi, 6 aggiornati, 0 errori
 [2026-11-16 15:06:34 UTC] [INFO] ============================================================
+[2026-11-17 01:41:29 UTC] [INFO] ============================================================
+[2026-11-17 01:41:29 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-17 01:41:29 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-17 01:41:29 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-17 01:41:29 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-17 01:41:29 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-17 01:41:29 UTC] [INFO] ============================================================
+[2026-11-17 01:41:29 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-17 01:41:29 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-17 01:41:31 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-17 01:41:31 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-11-17 01:41:31 UTC] [NEW]   🆕 📦 269s/Vuln-Driver-Mapper
+     ⭐ 0  🗣 C++  📅 2026-11-16
+     🔗 https://github.com/269s/Vuln-Driver-Mapper
+     📝 CVE-2026-38194 Documented Vuln
+     🏷  —
+[2026-11-17 01:41:31 UTC] [NEW]   🆕 📦 CJam76/KAC-Demonstrator-
+     ⭐ 0  🗣 C++  📅 2026-11-16
+     🔗 https://github.com/CJam76/KAC-Demonstrator-
+     📝 Simple Kernel Level Anticheat demonstrator for class project, made with google a…
+     🏷  —
+[2026-11-17 01:41:31 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-17 01:41:31 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-17 01:41:31 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-17 01:41:33 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 45 NUOVI repository:
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 BryanM76/EDRViewer
+     ⭐ 0  🗣 Pascal  📅 2026-11-17
+     🔗 https://github.com/BryanM76/EDRViewer
+     📝 An application capable of processing PDS, SFDU and other files containing EDR (E…
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 JoeHun0/azure-edr-inventory
+     ⭐ 0  🗣 Shell  📅 2026-11-17
+     🔗 https://github.com/JoeHun0/azure-edr-inventory
+     📝 Read-only Bash/az CLI script that finds Azure VMs, scale sets and Arc servers wi…
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 ddagunts/ha-echo-button
+     ⭐ 2  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/ddagunts/ha-echo-button
+     📝 Use the Amazon Echo Button (2017 Alexa game buzzer) with Home Assistant: toggle …
+     🏷  alexa-gadgets, bluetooth, bluez, echo-button, hacs, hacs-integration, home-assistant, home-assistant-custom-component, reverse-engineering
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 e20etools/archone-diagrams
+     ⭐ 0  🗣 TypeScript  📅 2026-11-16
+     🔗 https://github.com/e20etools/archone-diagrams
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 Fawzi-othman/fawzi-othman
+     ⭐ 0  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/Fawzi-othman/fawzi-othman
+     📝 | SOC Analyst Portfolio | Networking & Security Labs |
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 EricTeixeir/dio-create-virus
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/EricTeixeir/dio-create-virus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 teamcobleio-cyber/Peptide-Chemistry-Toolkit
+     ⭐ 0  🗣 TypeScript  📅 2026-11-17
+     🔗 https://github.com/teamcobleio-cyber/Peptide-Chemistry-Toolkit
+     📝 Peptide Chemistry Toolkit: average and monoisotopic mass, pI, net charge, A280, …
+     🏷  bioinformatics, chemistry, isoelectric-point, mass-spectrometry, molecular-weight, peptide, proteomics, typescript
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 gigremoto-a11y/bootcamp-cybersecurity-2
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/gigremoto-a11y/bootcamp-cybersecurity-2
+     📝 Desafio 2 do Bootcamp Cyberseucirty
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 rohitraj-837-maker/Horus
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/rohitraj-837-maker/Horus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 edr-16/tajer-profit-bot
+     ⭐ 0  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/edr-16/tajer-profit-bot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 walker5555/Ahmed-Moaz
+     ⭐ 0  🗣 HTML  📅 2026-11-16
+     🔗 https://github.com/walker5555/Ahmed-Moaz
+     📝 DFIR
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 phr4nky/agent-trace
+     ⭐ 1  🗣 Rust  📅 2026-11-16
+     🔗 https://github.com/phr4nky/agent-trace
+     📝 Local-first security trace recorder and forensic explorer for AI agents and MCP …
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 jacobbibat/agentic-ai-edr
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/jacobbibat/agentic-ai-edr
+     📝 A Python-based endpoint detection and response system with AI-assisted security …
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 sl0wz3r/blueboot
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/sl0wz3r/blueboot
+     📝 Load Realtek RTL8761B Bluetooth firmware from macOS so a USB dongle actually wor…
+     🏷  arm64, bluetooth, firmware, macos, parallels, realtek, rtl8761b, windows-on-arm
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 zacmero/mero-esp
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/zacmero/mero-esp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 MahaanManda/MahaanManda
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/MahaanManda/MahaanManda
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 toor11/Cyber-LLM-Skills
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/toor11/Cyber-LLM-Skills
+     📝 Full-spectrum AI-agent security skill bundle — 84 skills + 15 slash commands: bu…
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 sjgant80-hub/kar-irhelper
+     ⭐ 0  🗣 JavaScript  📅 2026-11-16
+     🔗 https://github.com/sjgant80-hub/kar-irhelper
+     📝 Incident response for hosts you own: authorized, read-only evidence; ten rules; …
+     🏷  incident-response, mutation-testing, security, sovereign
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 teremuhamblin/helpDeskJAVA
+     ⭐ 0  🗣 Java  📅 2026-11-16
+     🔗 https://github.com/teremuhamblin/helpDeskJAVA
+     📝 🛠️ 𝐇𝐄𝐋𝐏𝐃𝐄𝐒𝐊, 𝐆𝐄𝐒𝐓𝐈𝐎𝐍 𝐃𝐄 𝐏𝐀𝐑𝐂 𝐈𝐓 . Solution Java moderne de gestion d'actifs info…
+     🏷  helpdesk, helpdesk-automation, helpdesk-system, helpdesk-ticketing, helpdesk-tools
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 yunuskayax/USBLens
+     ⭐ 8  🗣 TypeScript  📅 2026-11-16
+     🔗 https://github.com/yunuskayax/USBLens
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 Davis16/soc-home-lab
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/Davis16/soc-home-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 Labrujuladeian/Eos-Planetary-System
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/Labrujuladeian/Eos-Planetary-System
+     📝 A custom planetary system mod for Kerbal Space Program 1.12.5
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 sjgant80-hub/kar-alerttriage
+     ⭐ 0  🗣 JavaScript  📅 2026-11-16
+     🔗 https://github.com/sjgant80-hub/kar-alerttriage
+     📝 A flood of SIEM / EDR / IDS alerts in, a short ranked list of incidents out. Det…
+     🏷  alert-triage, security, siem, suricata, wazuh
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 jszalko27/quant-insurance-portfolio
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/jszalko27/quant-insurance-portfolio
+     📝 My corner of the internet for learning by building. Python models of cyber insur…
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 Auditware/zedr
+     ⭐ 0  🗣 Rust  📅 2026-11-16
+     🔗 https://github.com/Auditware/zedr
+     📝 Privacy EDR for Web3 teams powered by ZK Proofs
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 apreviato/openshell-native-kernel
+     ⭐ 0  🗣 Rust  📅 2026-11-16
+     🔗 https://github.com/apreviato/openshell-native-kernel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 diegoasalvador/pentest.ransoware
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/diegoasalvador/pentest.ransoware
+     📝 Projeto Laboratório 
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 joseook/WinCareEnterprise
+     ⭐ 1  🗣 PowerShell  📅 2026-11-16
+     🔗 https://github.com/joseook/WinCareEnterprise
+     📝 Diagnóstico e manutenção do Windows para técnicos e ambientes corporativos — Pow…
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 AnaeleEmmanuel/AI-SOAR_Pipeline_Wazuh_SIEM-Gemini_Telegram_Active_Response
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/AnaeleEmmanuel/AI-SOAR_Pipeline_Wazuh_SIEM-Gemini_Telegram_Active_Response
+     📝 An end-to-end Security Orchestration, Automation, and Response (SOAR) pipeline t…
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 c2server-hub/rat-rust
+     ⭐ 0  🗣 Rust  📅 2026-11-16
+     🔗 https://github.com/c2server-hub/rat-rust
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 SynkEngine/security-operations-center
+     ⭐ 0  🗣 PHP  📅 2026-11-16
+     🔗 https://github.com/SynkEngine/security-operations-center
+     📝 Self-hosted, open-source console for the Blue Team's daily operations: OSINT, e-…
+     🏷  blue-team, cybersecurity, osint, php, security-tools, self-hosted, soc, sqlite
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 nickzq7/Combinatorial-Weight-Superposition
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/nickzq7/Combinatorial-Weight-Superposition
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 gharkz/PsiUserClass
+     ⭐ 0  🗣 C#  📅 2026-11-16
+     🔗 https://github.com/gharkz/PsiUserClass
+     📝 Elin mod: adds the Psion, a PSI user class. Beta.
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 mhmdalkhlydy942-bit/LetsDefend-SOC-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/mhmdalkhlydy942-bit/LetsDefend-SOC-Portfolio
+     📝 Hands-On SOC Analyst & Incident Response Portfolio on LetsDefend: 14 Detailed SI…
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 269s/Vuln-Driver-Mapper
+     ⭐ 0  🗣 C++  📅 2026-11-16
+     🔗 https://github.com/269s/Vuln-Driver-Mapper
+     📝 CVE-2026-38194 Documented Vuln
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 kayode721/gromacs-peptide-pipeline
+     ⭐ 0  🗣 Shell  📅 2026-11-16
+     🔗 https://github.com/kayode721/gromacs-peptide-pipeline
+     📝 Automate GROMACS peptide simulations from prepared input files to production XTC…
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 chundefined/DEP
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/chundefined/DEP
+     📝 Detection-as-code CLI to document, validate and version SIEM detection rules (Se…
+     🏷  cli, detection-as-code, detection-engineering, python
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 Vineyard-Intelligence/pluginpack-host-artifacts
+     ⭐ 0  🗣 TypeScript  📅 2026-11-16
+     🔗 https://github.com/Vineyard-Intelligence/pluginpack-host-artifacts
+     📝 Host Artifacts plugin pack for VINEYARD
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 mzguardit/mzguardit
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/mzguardit/mzguardit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 jvch0512/yara-lint
+     ⭐ 0  🗣 Haskell  📅 2026-11-16
+     🔗 https://github.com/jvch0512/yara-lint
+     📝 Lints YARA rule files for missing conditions, unreferenced and undefined strings…
+     🏷  detection-engineering, haskell, linter, malware, threat-hunting, yara
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 manchalarushika/SENTRIX-AI
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/manchalarushika/SENTRIX-AI
+     📝 AI-Powered Cybersecurity Platform
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 mrpickles007/boa
+     ⭐ 1  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/mrpickles007/boa
+     📝 Agent skill that runs a software project like a team: a lead agent plus builder,…
+     🏷  agent-memory, agent-skills, agentic-ai, ai-agents, ai-coding, autonomous-agents, bm25, claude, claude-code, claude-skills, code-review, codex, coding-agent, context-engineering, developer-tools, gemini-cli, llm, multi-agent, opencode, semantic-search
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 Pawan07009/Pawan07009
+     ⭐ 0  🗣 N/A  📅 2026-11-16
+     🔗 https://github.com/Pawan07009/Pawan07009
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 joaooliveiratech/MonoHub
+     ⭐ 0  🗣 Swift  📅 2026-11-16
+     🔗 https://github.com/joaooliveiratech/MonoHub
+     📝 Unified native macOS utility hub with Dynamic Notch, Window Switcher, Tiling, Sy…
+     🏷  —
+[2026-11-17 01:41:33 UTC] [NEW]   🆕 📦 ayuxsh009/threat-intel-aggregator
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/ayuxsh009/threat-intel-aggregator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:33 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-17 01:41:33 UTC] [UPD]   📢 📦 PauloHAndrade93/antivirus-python
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/PauloHAndrade93/antivirus-python
+     📝 AV-Py: antivirus defensivo em Python (EDR leve) com hash scanner, YARA e monitor…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-17 01:41:33 UTC] [UPD]   📢 📦 bastivanconsulting/Nexashield-Abuse-IP
+     ⭐ 2  🗣 RouterOS Script  📅 2026-11-13
+     🔗 https://github.com/bastivanconsulting/Nexashield-Abuse-IP
+     📝 Les IP que NexaShield détectent comme dangereuses
+     🏷  ai, cisco, cyber, cyber-analytics, cyber-security, cybersecurity, cybersecurity-projects, cybersecurity-tools, edr, fortigate, list, lists, mdr, ndr, security, siem, xdr
+     🔄 Motivo: repo recente (3gg)
+[2026-11-17 01:41:33 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-17 01:41:33 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-17 01:41:36 UTC] [INFO]   → 25 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 10 NUOVI repository:
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 tiraotadeo-wq/27
+     ⭐ 0  🗣 Swift  📅 2026-11-17
+     🔗 https://github.com/tiraotadeo-wq/27
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 PILOFACE123456789/matino-x-build
+     ⭐ 0  🗣 Swift  📅 2026-11-16
+     🔗 https://github.com/PILOFACE123456789/matino-x-build
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 Chammin00/ai-defense-firewall
+     ⭐ 0  🗣 JavaScript  📅 2026-11-17
+     🔗 https://github.com/Chammin00/ai-defense-firewall
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 OpenClawLinda/ps5-14.22-PS5FREEDOMJJ
+     ⭐ 0  🗣 C++  📅 2026-11-16
+     🔗 https://github.com/OpenClawLinda/ps5-14.22-PS5FREEDOMJJ
+     📝 PS5 FREEDOM JJ - browser-to-kernel research on PS5 14.22, in the open. 32 vector…
+     🏷  jailbreak, playstation, ps5, ps5-jailbreak, security-research
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 gotay2423-sys/Lonely-host
+     ⭐ 0  🗣 JavaScript  📅 2026-11-16
+     🔗 https://github.com/gotay2423-sys/Lonely-host
+     📝 PS5 RELAPSE
+     🏷  —
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 aoxzh/cve-2026-98260-vivo-x200-ultra-temproot
+     ⭐ 1  🗣 Kotlin  📅 2026-11-16
+     🔗 https://github.com/aoxzh/cve-2026-98260-vivo-x200-ultra-temproot
+     📝 CVE-2026-98260 · 一键临时 Root vivo X200 Ultra（V2454A/PD2454）+ KernelSU LKM 晚加载；不解锁 …
+     🏷  android-17, android-root, bootloader-locked, cve-2026-98260, kernel-exploit, kernelsu, lkm, originos, pd2454, posix-timers, security-research, sm8750, temporary-root, temproot, use-after-free, vivo-x200-ultra
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 GamersRTG/GamersRTG.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-16
+     🔗 https://github.com/GamersRTG/GamersRTG.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 sherifps5/14.2
+     ⭐ 0  🗣 JavaScript  📅 2026-11-16
+     🔗 https://github.com/sherifps5/14.2
+     📝 14.2
+     🏷  —
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 kanekikkenn242/V
+     ⭐ 0  🗣 Swift  📅 2026-11-16
+     🔗 https://github.com/kanekikkenn242/V
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 01:41:36 UTC] [NEW]   🆕 📦 RknDEV1/3105Chz
+     ⭐ 0  🗣 Swift  📅 2026-11-16
+     🔗 https://github.com/RknDEV1/3105Chz
+     📝 Native iOS app-data browser, portable patch manager, limited cleaner, and Poster…
+     🏷  —
+[2026-11-17 01:41:36 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-17 01:41:36 UTC] [UPD]   📢 📦 kolbicz/WQFiles
+     ⭐ 1061  🗣 Objective-C  📅 2026-11-09
+     🔗 https://github.com/kolbicz/WQFiles
+     📝 File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query,…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-11-17 01:41:36 UTC] [UPD]   📢 📦 manynames3/k8s-sandbox-control-plane
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/manynames3/k8s-sandbox-control-plane
+     📝 Small, self-hostable reference implementation of the isolation and cleanup layer…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-17 01:41:36 UTC] [INFO] ============================================================
+[2026-11-17 01:41:36 UTC] [INFO] Completato — 57 nuovi, 4 aggiornati, 0 errori
+[2026-11-17 01:41:36 UTC] [INFO] ============================================================
