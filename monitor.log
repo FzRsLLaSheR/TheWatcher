@@ -140311,3 +140311,319 @@
 [2026-11-17 01:41:36 UTC] [INFO] ============================================================
 [2026-11-17 01:41:36 UTC] [INFO] Completato — 57 nuovi, 4 aggiornati, 0 errori
 [2026-11-17 01:41:36 UTC] [INFO] ============================================================
+[2026-11-17 15:38:25 UTC] [INFO] ============================================================
+[2026-11-17 15:38:25 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-17 15:38:25 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-17 15:38:25 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-17 15:38:25 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-17 15:38:25 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-17 15:38:25 UTC] [INFO] ============================================================
+[2026-11-17 15:38:25 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-17 15:38:25 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-17 15:38:27 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-17 15:38:27 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-11-17 15:38:27 UTC] [NEW]   🆕 📦 huncho416/hv-research
+     ⭐ 0  🗣 C  📅 2026-11-17
+     🔗 https://github.com/huncho416/hv-research
+     📝 Hypervisor research and documentation.
+     🏷  —
+[2026-11-17 15:38:27 UTC] [NEW]   🆕 📦 0xGunrunner/bangluong-APT
+     ⭐ 0  🗣 PowerShell  📅 2026-11-17
+     🔗 https://github.com/0xGunrunner/bangluong-APT
+     📝 bangluong malware iocs, yara, and check.ps1 script
+     🏷  —
+[2026-11-17 15:38:27 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-17 15:38:27 UTC] [UPD]   📢 📦 jhon2f/fortnite-ac-reversal
+     ⭐ 4  🗣 C  📅 2026-11-16
+     🔗 https://github.com/jhon2f/fortnite-ac-reversal
+     📝 Reverse-engineering notes on Fortnite's full anti-cheat stack: EAC (classic + EO…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-17 15:38:27 UTC] [UPD]   📢 📦 sidharth-v-s/AdaptixBOFKit
+     ⭐ 3  🗣 C  📅 2026-11-15
+     🔗 https://github.com/sidharth-v-s/AdaptixBOFKit
+     📝 AdaptixBOFKit
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-17 15:38:27 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-17 15:38:27 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-17 15:38:31 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 38 NUOVI repository:
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 CollinsKamauMbugua/Cybersecurity-Portfolio
+     ⭐ 0  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/CollinsKamauMbugua/Cybersecurity-Portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 Jamsux/ataques-simulados-edr
+     ⭐ 0  🗣 Batchfile  📅 2026-11-17
+     🔗 https://github.com/Jamsux/ataques-simulados-edr
+     📝 Laboratorio didatico para validar a deteccao de EDR usando apenas ferramentas na…
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 mohammad-safwan-v90/RDRS-Ransomware-Detection-Response-System
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/mohammad-safwan-v90/RDRS-Ransomware-Detection-Response-System
+     📝 Python-based Ransomware Detection and Response System with threat monitoring, de…
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 samuelhermann/detection-test-corpus
+     ⭐ 0  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/samuelhermann/detection-test-corpus
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 veersec/veersec-pentest
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/veersec/veersec-pentest
+     📝 OpenCode-native pentest, bug bounty and red team plugin: 204 attack skills, 24 p…
+     🏷  ai-security, bug-bounty, cve, mcp-security, offensive-security, opencode, opencode-plugin, penetration-testing, pentest, recon, red-team, security-tools
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 SomaxSoma/swarmrisk
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/SomaxSoma/swarmrisk
+     📝 Predicts breach, infrastructure damage, collapse and recovery time for a company…
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 p8mpkin-sketch/Paoding
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/p8mpkin-sketch/Paoding
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 ElfariaKensington/TrueHDR-Safari
+     ⭐ 0  🗣 JavaScript  📅 2026-11-17
+     🔗 https://github.com/ElfariaKensington/TrueHDR-Safari
+     📝 WebGPU HDR inverse tone-mapping & AI super-resolution for Safari on macOS
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 Danmal03/StayShield
+     ⭐ 0  🗣 TypeScript  📅 2026-11-17
+     🔗 https://github.com/Danmal03/StayShield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 CDSosobist/ProblemBook
+     ⭐ 0  🗣 JavaScript  📅 2026-11-17
+     🔗 https://github.com/CDSosobist/ProblemBook
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 NPCmillionaire/super-awesome-tools-list
+     ⭐ 1  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/NPCmillionaire/super-awesome-tools-list
+     📝 An opinionated, rated field guide to 200+ OSINT, recon, and pentest tools — awes…
+     🏷  awesome-list, bug-bounty, cybersecurity, ethical-hacking, hacking-tools, infosec, kali-linux, osint, osint-tools, pentest, pentesting, recon, reconnaissance, red-team, security-tools
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 JonathanThangadurai/Ferrywellco-Engine
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/JonathanThangadurai/Ferrywellco-Engine
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 akshayakairi/Sentinal-AI
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/akshayakairi/Sentinal-AI
+     📝 AI-Powered Intelligent Cybersecurity Assistant
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 Fox13g/Pengente
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/Fox13g/Pengente
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 heyun17/edr-ai-triage-lab-team4
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/heyun17/edr-ai-triage-lab-team4
+     📝 SeSAC EDR AI Triage Lab - Team 4
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 roleitor/mint-bspwm
+     ⭐ 0  🗣 Shell  📅 2026-11-17
+     🔗 https://github.com/roleitor/mint-bspwm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 Joel-Mathew-Cyber/Joel-Mathew-Cyber
+     ⭐ 0  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/Joel-Mathew-Cyber/Joel-Mathew-Cyber
+     📝 Hello World
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 edr-16/sindbad-game
+     ⭐ 0  🗣 HTML  📅 2026-11-17
+     🔗 https://github.com/edr-16/sindbad-game
+     📝 SINDBAD Arabic Puzzle Adventure
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 ftnt-dspille/fsr-agentic-assistant-connector
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/ftnt-dspille/fsr-agentic-assistant-connector
+     📝 FortiSOAR Agentic Assistant connector (imports the fsr-playbooks framework from …
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 AlcsPower/cercano
+     ⭐ 0  🗣 Rust  📅 2026-11-17
+     🔗 https://github.com/AlcsPower/cercano
+     📝 Soporte remoto corporativo, seguro y auditable
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 eliemehintookou/medisoft-soc-project
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/eliemehintookou/medisoft-soc-project
+     📝 Projet SOC complet : supervision, détection et réponse aux incidents pour un édi…
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 splunk-soar-connectors/arcannaai
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/splunk-soar-connectors/arcannaai
+     📝 Arcanna.ai — trustworthy AI for security operations. Arcanna is an AI platform f…
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 yahyayevparviz/splunk-soar-mcp
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/yahyayevparviz/splunk-soar-mcp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 GabrielAvelinoJob/Projeto-Olist
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/GabrielAvelinoJob/Projeto-Olist
+     📝 Projeto Airflow/DBT
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 CorentinJAMMES/mini_EDR
+     ⭐ 1  🗣 C  📅 2026-11-17
+     🔗 https://github.com/CorentinJAMMES/mini_EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 vanderken/AssetTrack-Bucog-KenEdrian-G1
+     ⭐ 0  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/vanderken/AssetTrack-Bucog-KenEdrian-G1
+     📝 AssetTrack is a web-based system that manages company IT equipment like laptops,…
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 finyt8715-jpg/itinfraSugham
+     ⭐ 0  🗣 HTML  📅 2026-11-17
+     🔗 https://github.com/finyt8715-jpg/itinfraSugham
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 CPSDomain/ServerDocumentationTool
+     ⭐ 0  🗣 PowerShell  📅 2026-11-16
+     🔗 https://github.com/CPSDomain/ServerDocumentationTool
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 ozmvege/ozmvege
+     ⭐ 0  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/ozmvege/ozmvege
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 KshitijS3481/Acetone-Production-via-IPA-Dehydrogenation
+     ⭐ 0  🗣 Mathematical Programming System  📅 2026-11-17
+     🔗 https://github.com/KshitijS3481/Acetone-Production-via-IPA-Dehydrogenation
+     📝 Process design, Aspen Plus simulation, and techno-economic analysis of a continu…
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 Rodrigo-Pavao/shadowia
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/Rodrigo-Pavao/shadowia
+     📝 Projeto App para detecção de ShadowIA
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 Lukacastro-PowerDev/VoiceSave
+     ⭐ 0  🗣 JavaScript  📅 2026-11-17
+     🔗 https://github.com/Lukacastro-PowerDev/VoiceSave
+     📝 ⚡ Grave reuniões do Teams, Zoom e Meet no Windows (sem admin) e gere transcrição…
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 erd-ai-team3/edr-ai-triage-team3
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/erd-ai-team3/edr-ai-triage-team3
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 renge1145141919810/NTD
+     ⭐ 0  🗣 Python  📅 2026-11-16
+     🔗 https://github.com/renge1145141919810/NTD
+     📝 NTD是一个用于发送数据包的可视化工具，支持发送部分用户层，网络层，工控协议数据包。名字和图标灵感来源于《机动战士高达UC》的NT-D系统。
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 7D2/wvresp
+     ⭐ 0  🗣 C#  📅 2026-11-17
+     🔗 https://github.com/7D2/wvresp
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 Hyoko-Mos/alioth-armada
+     ⭐ 0  🗣 Shell  📅 2026-11-17
+     🔗 https://github.com/Hyoko-Mos/alioth-armada
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 mayur160222/Enterprise-SOC-SOAR-Dashboard
+     ⭐ 0  🗣 TypeScript  📅 2026-11-17
+     🔗 https://github.com/mayur160222/Enterprise-SOC-SOAR-Dashboard
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [NEW]   🆕 📦 MunyendoDarren/Ransomware-detector
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/MunyendoDarren/Ransomware-detector
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:31 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-17 15:38:31 UTC] [UPD]   📢 📦 bastivanconsulting/Nexashield-Abuse-IP
+     ⭐ 2  🗣 RouterOS Script  📅 2026-11-13
+     🔗 https://github.com/bastivanconsulting/Nexashield-Abuse-IP
+     📝 Les IP que NexaShield détectent comme dangereuses
+     🏷  ai, cisco, cyber, cyber-analytics, cyber-security, cybersecurity, cybersecurity-projects, cybersecurity-tools, edr, fortigate, list, lists, mdr, ndr, security, siem, xdr
+     🔄 Motivo: repo recente (3gg)
+[2026-11-17 15:38:31 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-17 15:38:31 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-17 15:38:34 UTC] [INFO]   → 35 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 11 NUOVI repository:
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 olixx22/AI-monkey
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/olixx22/AI-monkey
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 scottgardner777/ninja-sandbox
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/scottgardner777/ninja-sandbox
+     📝 Free malware detonation range + Raz0r edge sensor + Adversary DNA. Self-hosted, …
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 Booda0119/1
+     ⭐ 0  🗣 JavaScript  📅 2026-11-17
+     🔗 https://github.com/Booda0119/1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 thisisunusername/Dopamine-Android
+     ⭐ 0  🗣 Kotlin  📅 2026-11-17
+     🔗 https://github.com/thisisunusername/Dopamine-Android
+     📝 A iOS Dopamine Jailbreak Fake UI on the Android.Just a UI,NO JAILBREAK,NO ROOT
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 biojaiv/t1-701u-remote-linux
+     ⭐ 0  🗣 C  📅 2026-11-17
+     🔗 https://github.com/biojaiv/t1-701u-remote-linux
+     📝 Unofficial hobby project: turns a Huawei MediaPad T1 7.0 (T1-701u) into a touch …
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 Relapse-PlayStation-5/.github
+     ⭐ 0  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/Relapse-PlayStation-5/.github
+     📝 (Relapse is a jailbreak for PlayStation 5 covering firmware versions 7.00 throug…
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 nosnekcuLleoN/SYNAPSE-OS-Terminal
+     ⭐ 0  🗣 HTML  📅 2026-11-17
+     🔗 https://github.com/nosnekcuLleoN/SYNAPSE-OS-Terminal
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 Bhavish-S/Bhavish-S
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/Bhavish-S/Bhavish-S
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 collabray/ray-agent
+     ⭐ 1  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/collabray/ray-agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 aboragp2/ooo
+     ⭐ 0  🗣 HTML  📅 2026-11-17
+     🔗 https://github.com/aboragp2/ooo
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-17 15:38:34 UTC] [NEW]   🆕 📦 Anahel5/cloud-isolation-framework
+     ⭐ 0  🗣 Python  📅 2026-11-17
+     🔗 https://github.com/Anahel5/cloud-isolation-framework
+     📝 Reproducible multi-tenant cloud security testbed with mTLS/JWT tenant binding, n…
+     🏷  —
+[2026-11-17 15:38:34 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-17 15:38:34 UTC] [UPD]   📢 📦 Sthmpe/Neuron
+     ⭐ 0  🗣 Python  📅 2026-11-14
+     🔗 https://github.com/Sthmpe/Neuron
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-17 15:38:34 UTC] [UPD]   📢 📦 Majeedomran/majeedomran.github.io
+     ⭐ 0  🗣 HTML  📅 2026-11-13
+     🔗 https://github.com/Majeedomran/majeedomran.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-11-17 15:38:34 UTC] [UPD]   📢 📦 LinuxFromGod/DopamineTroll18
+     ⭐ 0  🗣 Objective-C  📅 2026-11-16
+     🔗 https://github.com/LinuxFromGod/DopamineTroll18
+     📝 Visual-only Dopamine-inspired jailbreak simulation; no jailbreak functionality o…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-17 15:38:34 UTC] [INFO] ============================================================
+[2026-11-17 15:38:34 UTC] [INFO] Completato — 51 nuovi, 6 aggiornati, 0 errori
+[2026-11-17 15:38:34 UTC] [INFO] ============================================================
