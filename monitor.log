@@ -141998,3 +141998,332 @@
 [2026-11-19 07:09:39 UTC] [INFO] ============================================================
 [2026-11-19 07:09:39 UTC] [INFO] Completato — 33 nuovi, 10 aggiornati, 0 errori
 [2026-11-19 07:09:39 UTC] [INFO] ============================================================
+[2026-11-19 20:05:37 UTC] [INFO] ============================================================
+[2026-11-19 20:05:37 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-19 20:05:37 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-19 20:05:37 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-19 20:05:37 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-19 20:05:37 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-19 20:05:37 UTC] [INFO] ============================================================
+[2026-11-19 20:05:37 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-19 20:05:37 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-19 20:05:39 UTC] [INFO]   → 2 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-19 20:05:39 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-19 20:05:39 UTC] [NEW]   🆕 📦 lgfire093/L4G-Undetected
+     ⭐ 0  🗣 C++  📅 2026-11-19
+     🔗 https://github.com/lgfire093/L4G-Undetected
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:39 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-19 20:05:39 UTC] [UPD]   📢 📦 PseudoSyntax/Sudo-Z
+     ⭐ 0  🗣 JavaScript  📅 2026-11-17
+     🔗 https://github.com/PseudoSyntax/Sudo-Z
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-19 20:05:39 UTC] [UPD]   📢 📦 jhon2f/fortnite-ac-reversal
+     ⭐ 4  🗣 C  📅 2026-11-16
+     🔗 https://github.com/jhon2f/fortnite-ac-reversal
+     📝 Reverse-engineering notes on Fortnite's full anti-cheat stack: EAC (classic + EO…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-11-19 20:05:39 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-19 20:05:39 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-19 20:05:42 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 Krlos0007542/asg-security-guardian
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/Krlos0007542/asg-security-guardian
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 v4quero/v4quero
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/v4quero/v4quero
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 larperforce/MrDump
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/larperforce/MrDump
+     📝 Advanced defensive security inspection tool for malware analysis PE/ZIP inspecti…
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 MateusRD7/MALWARE-RD7
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/MateusRD7/MALWARE-RD7
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 Abraam318/BadUSB
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/Abraam318/BadUSB
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 soraxa-dev/plant-the-flag
+     ⭐ 0  🗣 Rust  📅 2026-11-19
+     🔗 https://github.com/soraxa-dev/plant-the-flag
+     📝 White-hat security research: file transfer, remote shell and a clientless browse…
+     🏷  command-and-control, deep-packet-inspection, grpc-web, http-tunneling, http3, network-security, offensive-security, penetration-testing, quic, red-team, rust, security-research, suricata, wasm, websocket
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 ps3ud0h4ck3r/secmox
+     ⭐ 0  🗣 HTML  📅 2026-11-19
+     🔗 https://github.com/ps3ud0h4ck3r/secmox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 alok-kul5/security-alert-triage-agent
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/alok-kul5/security-alert-triage-agent
+     📝 AI security alert triage agent on a free local LLM (Ollama): tool-based investig…
+     🏷  fastapi, incident-response, llm-agent, mitre-attack, ollama, security, soc
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 edrinmarven-lgtm/Edrin-Marven
+     ⭐ 0  🗣 TypeScript  📅 2026-11-19
+     🔗 https://github.com/edrinmarven-lgtm/Edrin-Marven
+     📝 Seo
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 zuukaisme/twsync
+     ⭐ 0  🗣 Kotlin  📅 2026-11-19
+     🔗 https://github.com/zuukaisme/twsync
+     📝 Ear bud helper app
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 Obed-sketch/SOC-Alert-Enrichment-AND-Incident-Response-web-app
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/Obed-sketch/SOC-Alert-Enrichment-AND-Incident-Response-web-app
+     📝 SOC Automation & Intelligent Incident Response Platform is a Python-powered cybe…
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 DelRoos/Cyber-School
+     ⭐ 0  🗣 TypeScript  📅 2026-11-19
+     🔗 https://github.com/DelRoos/Cyber-School
+     📝 plateforme de formation en cyber securite
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 febin-ani/cybersecurity-knowledge-framework
+     ⭐ 1  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/febin-ani/cybersecurity-knowledge-framework
+     📝 The Cybersecurity Professional's Top 50 Knowledge Framework — 50 capability area…
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 mryasharma/AegisEDR
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/mryasharma/AegisEDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 OsandaMalith/MemHeat
+     ⭐ 2  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/OsandaMalith/MemHeat
+     📝 Process memory entropy radar for Windows, written in pure x86 assembly (MASM32).
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 WHAIT666/windows-internals-sandbox
+     ⭐ 0  🗣 C++  📅 2026-11-19
+     🔗 https://github.com/WHAIT666/windows-internals-sandbox
+     📝 Sandbox for exploring Windows internals: userland memory primitives, PE parsing,…
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 indocanadian416/CyberDetect
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/indocanadian416/CyberDetect
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 ahnafaf/iterm2-modified-hdr
+     ⭐ 0  🗣 Shell  📅 2026-11-19
+     🔗 https://github.com/ahnafaf/iterm2-modified-hdr
+     📝 HDR text for iTerm2: a patch and build script that draw the focused pane's text …
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 gabalmighty/1bis-witchdog
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/gabalmighty/1bis-witchdog
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 yuliazagumennova1976/executive-decision-room
+     ⭐ 0  🗣 TypeScript  📅 2026-11-19
+     🔗 https://github.com/yuliazagumennova1976/executive-decision-room
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 mnrtechnologies/MNR-Quantumbitlab
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/mnrtechnologies/MNR-Quantumbitlab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 freedomfighter-007/ARTEX-Defensive-Detection
+     ⭐ 0  🗣 YARA  📅 2026-11-19
+     🔗 https://github.com/freedomfighter-007/ARTEX-Defensive-Detection
+     📝 Defensive tools to detect and combat ARTEX AI platform.
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 D4nielG0mez/madero
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/D4nielG0mez/madero
+     📝 Despliegue EDR Acronis
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 alexsp10/mini-siem
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/alexsp10/mini-siem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 allcsnotes/Cybersecurity_Course
+     ⭐ 0  🗣 Shell  📅 2026-11-19
+     🔗 https://github.com/allcsnotes/Cybersecurity_Course
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 alvaroramosf/wiimote-pico-mouse
+     ⭐ 0  🗣 C  📅 2026-11-19
+     🔗 https://github.com/alvaroramosf/wiimote-pico-mouse
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 edristhurlinggj/edristhurlinggj-projects
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/edristhurlinggj/edristhurlinggj-projects
+     📝 small tools I use daily
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 TheHecker0122/lessons_glitch
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/TheHecker0122/lessons_glitch
+     📝 План и темы занятий в GLITCH 
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 zainn-007/zainn-007
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/zainn-007/zainn-007
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 hackrange/ctem
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/hackrange/ctem
+     📝 CTEM (Continuous Threat Exposure Management) is an ongoing cybersecurity program…
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 zainpewpewpew/Lab_Control
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/zainpewpewpew/Lab_Control
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 VishalJangid138/Adaptive-Cyber-Defense
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/VishalJangid138/Adaptive-Cyber-Defense
+     📝 Real-Time Network Monitoring and Rule-Based Intrusion Response Platform
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 zainn-007/oci-wazuh-suricata-soar
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/zainn-007/oci-wazuh-suricata-soar
+     📝 Cloud-hosted SOC & SOAR pipeline on OCI combining Wazuh SIEM, Suricata IDS/IPS, …
+     🏷  cybersecurity, cybersecurity-projects, docker, mitre-attack, n8n, oracle-cloud, security, securityoperationscenter, seim, soar, soc, suricata, wazuh
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 silviot/voice-recorder-hw-bt-usb
+     ⭐ 0  🗣 C  📅 2026-11-19
+     🔗 https://github.com/silviot/voice-recorder-hw-bt-usb
+     📝 Hardware analysis, Linux USB disconnect fix (udev + exFAT boundary), and Bluetoo…
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 zaraalfarabi/5027251021_ethack_modul11
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/zaraalfarabi/5027251021_ethack_modul11
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 Joshua1w/DFIR-insider-threat-investigation-methodology-case-study
+     ⭐ 0  🗣 PowerShell  📅 2026-11-19
+     🔗 https://github.com/Joshua1w/DFIR-insider-threat-investigation-methodology-case-study
+     📝 DFIR methodology case study: investigating suspected insider data exfiltration o…
+     🏷  blue-team, chain-of-custody, dfir, digital-forensics, incident-response, insider-threat, kql, microsoft-365, threat-hunting, windows-forensics
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 0xDTC/0xRUBY2SHELL-Impact-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/0xDTC/0xRUBY2SHELL-Impact-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 HaydenKraus/CoreTuner
+     ⭐ 0  🗣 Rust  📅 2026-11-19
+     🔗 https://github.com/HaydenKraus/CoreTuner
+     📝 CPU affinity & priority manager for Windows 10/11: profiles, auto-apply, tray
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 JuggeM/KapeAnalyser.WPF
+     ⭐ 0  🗣 C#  📅 2026-11-19
+     🔗 https://github.com/JuggeM/KapeAnalyser.WPF
+     📝 Windows DFIR triage: turns KAPE / EZ Tools module output from DFIR ORC collectio…
+     🏷  —
+[2026-11-19 20:05:42 UTC] [NEW]   🆕 📦 Bhavya2-4/optimjack-detection-engineering
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/Bhavya2-4/optimjack-detection-engineering
+     📝 Detection engineering for the Nov 2026 Optimizely (OPTIMJACK) JavaScript supply-…
+     🏷  blue-team, content-security-policy, detection-as-code, detection-engineering, elastic-security, eql, esql, javascript-security, kql, mitre-attack, soc, stix, supply-chain-security, threat-detection, threat-hunting
+[2026-11-19 20:05:42 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-19 20:05:42 UTC] [UPD]   📢 📦 Rodrigo-Vectus/Alerta-temprana
+     ⭐ 0  🗣 Python  📅 2026-11-18
+     🔗 https://github.com/Rodrigo-Vectus/Alerta-temprana
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-19 20:05:42 UTC] [UPD]   📢 📦 bastivanconsulting/Nexashield-Abuse-IP
+     ⭐ 2  🗣 RouterOS Script  📅 2026-11-13
+     🔗 https://github.com/bastivanconsulting/Nexashield-Abuse-IP
+     📝 Les IP que NexaShield détectent comme dangereuses
+     🏷  ai, cisco, cyber, cyber-analytics, cyber-security, cybersecurity, cybersecurity-projects, cybersecurity-tools, edr, fortigate, list, lists, mdr, ndr, security, siem, xdr
+     🔄 Motivo: repo recente (6gg)
+[2026-11-19 20:05:42 UTC] [UPD]   📢 📦 TravisMa07/ResponseForge
+     ⭐ 0  🗣 Python  📅 2026-11-18
+     🔗 https://github.com/TravisMa07/ResponseForge
+     📝 SOAR-first incident response platform: offline replay, Shuffle workflows, and pl…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-19 20:05:42 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-19 20:05:42 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-19 20:05:46 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 9 NUOVI repository:
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 📦 akkayaburak286-max/Jailbreak-14.02
+     ⭐ 0  🗣 HTML  📅 2026-11-19
+     🔗 https://github.com/akkayaburak286-max/Jailbreak-14.02
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 📦 HalilAlb/42inception
+     ⭐ 0  🗣 Shell  📅 2026-11-19
+     🔗 https://github.com/HalilAlb/42inception
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 📦 mauricioveloz2007-pixel/proyecto-filza-wq
+     ⭐ 0  🗣 Objective-C  📅 2026-11-19
+     🔗 https://github.com/mauricioveloz2007-pixel/proyecto-filza-wq
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 📦 deymejiamejia-commits/3105-RECUPERACION-DE-CODIGO-
+     ⭐ 0  🗣 Swift  📅 2026-11-19
+     🔗 https://github.com/deymejiamejia-commits/3105-RECUPERACION-DE-CODIGO-
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 📦 furkuki-dev/CART3R-Toolbox
+     ⭐ 0  🗣 Swift  📅 2026-11-19
+     🔗 https://github.com/furkuki-dev/CART3R-Toolbox
+     📝 CART3R TOOLBOX — Advanced iOS customization toolkit featuring MobileGestalt edit…
+     🏷  —
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 📦 DukeCaesar/models-rewrite-own-weights
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/DukeCaesar/models-rewrite-own-weights
+     📝 An independent implementation of the arXiv:2611.21885 paper
+     🏷  —
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 📦 KernelPanica/AgentBox
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/KernelPanica/AgentBox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 📦 ms6719987-spec/fff
+     ⭐ 0  🗣 Swift  📅 2026-11-19
+     🔗 https://github.com/ms6719987-spec/fff
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:46 UTC] [NEW]   🆕 📦 lgfire093/L4G-Undetected
+     ⭐ 0  🗣 C++  📅 2026-11-19
+     🔗 https://github.com/lgfire093/L4G-Undetected
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 20:05:46 UTC] [UPD]   📢 4 repository AGGIORNATI:
+[2026-11-19 20:05:46 UTC] [UPD]   📢 📦 velozmauricio921-ship-it/proyecto-wq
+     ⭐ 0  🗣 Objective-C  📅 2026-11-18
+     🔗 https://github.com/velozmauricio921-ship-it/proyecto-wq
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-19 20:05:46 UTC] [UPD]   📢 📦 gotay2423-sys/Lonely-host
+     ⭐ 1  🗣 JavaScript  📅 2026-11-16
+     🔗 https://github.com/gotay2423-sys/Lonely-host
+     📝 PS5 RELAPSE
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-19 20:05:46 UTC] [UPD]   📢 📦 GZ-920/lara-02-m3-fix
+     ⭐ 0  🗣 Swift  📅 2026-11-18
+     🔗 https://github.com/GZ-920/lara-02-m3-fix
+     📝 Lara 0.2 with 1.2 kernel exploit stack backported (M3 iPad)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-19 20:05:46 UTC] [UPD]   📢 📦 MacLeodTech/runner-scaling
+     ⭐ 0  🗣 Go  📅 2026-11-18
+     🔗 https://github.com/MacLeodTech/runner-scaling
+     📝 Ephemeral, autoscaled GitHub Actions runners on a single Docker host, with a no-…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-19 20:05:46 UTC] [INFO] ============================================================
+[2026-11-19 20:05:46 UTC] [INFO] Completato — 50 nuovi, 9 aggiornati, 0 errori
+[2026-11-19 20:05:46 UTC] [INFO] ============================================================
