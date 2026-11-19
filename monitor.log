@@ -141748,3 +141748,253 @@
 [2026-11-18 23:58:58 UTC] [INFO] ============================================================
 [2026-11-18 23:58:58 UTC] [INFO] Completato — 63 nuovi, 4 aggiornati, 0 errori
 [2026-11-18 23:58:58 UTC] [INFO] ============================================================
+[2026-11-19 07:09:30 UTC] [INFO] ============================================================
+[2026-11-19 07:09:30 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-19 07:09:30 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-19 07:09:30 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-19 07:09:30 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-19 07:09:30 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-19 07:09:30 UTC] [INFO] ============================================================
+[2026-11-19 07:09:30 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-19 07:09:30 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-19 07:09:32 UTC] [INFO]   → 1 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-19 07:09:32 UTC] [INFO]   ✓ Nessun repo nuovo
+[2026-11-19 07:09:32 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-19 07:09:32 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-19 07:09:32 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-19 07:09:35 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 28 NUOVI repository:
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 1276486/ZERO-X-PoJia-Evasion-Shellcode
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/1276486/ZERO-X-PoJia-Evasion-Shellcode
+     📝 ZERO-X 破甲 · 免杀 Antivirus Evasion / Shellcode / Webshell / EDR 绕过 / 反调试 / 反虚拟机 / …
+     🏷  ai-jailbreak, antivirus-evasion, codex, cve, edr-bypass, electron, internal-pentest, llm-security, malware-analysis, memory-loader, penetration-testing, poc, privilege-escalation, prompt-injection, rce, red-team, reverse-engineering, shellcode, webshell, windows
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 spundone/padbridge
+     ⭐ 0  🗣 Kotlin  📅 2026-11-19
+     🔗 https://github.com/spundone/padbridge
+     📝 Turn your Android phone into a Bluetooth trackpad, keyboard, TV remote and gamep…
+     🏷  android, bluetooth, gamepad, hid, jetpack-compose, keyboard, material3, trackpad
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 byreiis/dio-malware-simulation
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/byreiis/dio-malware-simulation
+     📝 Simulação de Ransomware e Keylogger em ambiente controlado com foco em Defesa e …
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-AI-Cybersecurity-Automated-Threat-Defense
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/ishandutta2007/Awesome-AI-Cybersecurity-Automated-Threat-Defense
+     📝 Top AI Cybersecurity Automated Threat Defense (Opensource)  Star if you like it!…
+     🏷  ai-cybersecurity, awesome-list, curated-list, incident-response, soc-automation, threat-defense, threat-detection
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 haalahouwaat87-maker/Aboubacar
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/haalahouwaat87-maker/Aboubacar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 0xDTC/0xNGINX2SHELL-Impact-Analysis
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/0xDTC/0xNGINX2SHELL-Impact-Analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 Kur1sulab/atfield
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/Kur1sulab/atfield
+     📝 心之壁 AT Field · 终端安全态势融合平台（EDR + HIDS + UEBA + NDR + 诱饵 + SOAR）
+     🏷  edr, endpoint-security, hids, macos, ndr, security, soar, threat-detection, ueba
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 Chris-Lorys/soar-incident-response
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-11-19
+     🔗 https://github.com/Chris-Lorys/soar-incident-response
+     📝 Plateforme SOAR qui automatise la réponse aux incidents : webhooks SIEM, Wazuh e…
+     🏷  ai-security, cybersecurity, fastapi, incident-response, python, soar, soc
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 Timboslice003/prediction-market-trade-reporting
+     ⭐ 1  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/Timboslice003/prediction-market-trade-reporting
+     📝 Regulatory-style trade reporting for a prediction-market maker on dbt + DuckDB: …
+     🏷  dagster, data-quality, dbt, duckdb, fixml, prediction-markets, regulatory-reporting
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 jawavia/dsh-desktop-hands
+     ⭐ 0  🗣 JavaScript  📅 2026-11-19
+     🔗 https://github.com/jawavia/dsh-desktop-hands
+     📝 One bundle, three hands: pixel, UIA and stroke engines behind one authorization …
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 jeffschafer/BIGFIX-Microsoft-Agent-Framework-PyPI-Supply-Chain-Attack-Detection
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/jeffschafer/BIGFIX-Microsoft-Agent-Framework-PyPI-Supply-Chain-Attack-Detection
+     📝 BigFix Analysis for detecting the compromised agent-framework PyPI releases 1.26…
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 25dominic/comp-triage
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/25dominic/comp-triage
+     📝 Python tool that automates SOC alert triage by checking IPs, domains, URLs and f…
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 Gokulramms/ai-threat-intel
+     ⭐ 0  🗣 TypeScript  📅 2026-11-19
+     🔗 https://github.com/Gokulramms/ai-threat-intel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 silverlinegames/sl-info
+     ⭐ 0  🗣 TypeScript  📅 2026-11-19
+     🔗 https://github.com/silverlinegames/sl-info
+     📝 sl-info
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 LLCForge/CVE-2026-128134
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/LLCForge/CVE-2026-128134
+     📝 NLTK — dot2img runs Graphviz outside trusted-exec check, enabling local code exe…
+     🏷  cve, cve-2026, cwe-427, nltk, path-hijacking, poc, python, security-research, vulnerability
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 LLCForge/CVE-2026-130001
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/LLCForge/CVE-2026-130001
+     📝 Mustache for Ruby — RCE via built-in method access in template rendering. Critic…
+     🏷  cve, cve-2026, cwe-94, mustache, poc, rce, ruby, security-research, template-injection, vulnerability
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 LLCForge/CVE-2026-75521
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/LLCForge/CVE-2026-75521
+     📝 Miren Runtime (Go) — Unverified TLS client certs in RPC layer grant cluster supe…
+     🏷  auth-bypass, cve, cve-2026, cwe-306, miren, poc, rce, security-research, vulnerability
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 LLCForge/CVE-2026-116448
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/LLCForge/CVE-2026-116448
+     📝 Dell PowerStore SDNAS — Unauthenticated OS command injection via REST API yields…
+     🏷  command-injection, cve, cve-2026, cwe-78, dell, poc, powerstore, rce, security-research, vulnerability
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 edreed/edreed.github.io
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/edreed/edreed.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 aakashraman/usbhawk
+     ⭐ 0  🗣 Python  📅 2026-11-18
+     🔗 https://github.com/aakashraman/usbhawk
+     📝 USB forensics for threat hunting & incident response: exfil session scoring, USB…
+     🏷  detection-engineering, dfir, forensics, incident-response, sigma, threat-hunting, usb, windows-forensics
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 qpkhdivuyczliyhw/hardhat-edr-ignition-62958
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/qpkhdivuyczliyhw/hardhat-edr-ignition-62958
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 Rodrigo-Vectus/Alerta-temprana
+     ⭐ 0  🗣 Python  📅 2026-11-18
+     🔗 https://github.com/Rodrigo-Vectus/Alerta-temprana
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 jaspalthakur/jaspalthakur
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/jaspalthakur/jaspalthakur
+     📝 My GitHub profile README
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 annatchijova/fracture
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/annatchijova/fracture
+     📝 DFIR intentionality engine for SIFT. Verdicts sealed before any LLM sees the evi…
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 Calana2/dll-injector
+     ⭐ 0  🗣 C++  📅 2026-11-19
+     🔗 https://github.com/Calana2/dll-injector
+     📝 Just another DLL injection tool
+     🏷  dll-injection, windows
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 Ruler-Dev/inc-bench
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/Ruler-Dev/inc-bench
+     📝 inc-bench: harness e benchmark per la classificazione di incidenti SOC con model…
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 altavista21/saragosa
+     ⭐ 0  🗣 Go  📅 2026-11-19
+     🔗 https://github.com/altavista21/saragosa
+     📝 Ids/ips
+     🏷  —
+[2026-11-19 07:09:35 UTC] [NEW]   🆕 📦 sunsum24/Payload-Obfuscator-Toolkit
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/sunsum24/Payload-Obfuscator-Toolkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:35 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-19 07:09:35 UTC] [UPD]   📢 📦 pedro1714/portfolio
+     ⭐ 0  🗣 N/A  📅 2026-11-17
+     🔗 https://github.com/pedro1714/portfolio
+     📝 Projects in information security, IT support and AI automation — built and in pr…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-19 07:09:35 UTC] [UPD]   📢 📦 bastivanconsulting/Nexashield-Abuse-IP
+     ⭐ 2  🗣 RouterOS Script  📅 2026-11-13
+     🔗 https://github.com/bastivanconsulting/Nexashield-Abuse-IP
+     📝 Les IP que NexaShield détectent comme dangereuses
+     🏷  ai, cisco, cyber, cyber-analytics, cyber-security, cybersecurity, cybersecurity-projects, cybersecurity-tools, edr, fortigate, list, lists, mdr, ndr, security, siem, xdr
+     🔄 Motivo: repo recente (5gg)
+[2026-11-19 07:09:35 UTC] [UPD]   📢 📦 jimwang2050/pcie-sim
+     ⭐ 0  🗣 HTML  📅 2026-11-17
+     🔗 https://github.com/jimwang2050/pcie-sim
+     📝 PCIe teaching simulator: LTSSM / PHY / PM / ordering models (pure frontend)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-19 07:09:35 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-19 07:09:35 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-19 07:09:38 UTC] [INFO]   → 47 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-19 07:09:38 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-11-19 07:09:38 UTC] [NEW]   🆕 📦 Booda0119/1
+     ⭐ 0  🗣 JavaScript  📅 2026-11-19
+     🔗 https://github.com/Booda0119/1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:38 UTC] [NEW]   🆕 📦 haianhyeuem0401-lang/Gavivip
+     ⭐ 0  🗣 Swift  📅 2026-11-19
+     🔗 https://github.com/haianhyeuem0401-lang/Gavivip
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:38 UTC] [NEW]   🆕 📦 VIPniuma/wqfiles-gate
+     ⭐ 0  🗣 Objective-C  📅 2026-11-18
+     🔗 https://github.com/VIPniuma/wqfiles-gate
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:38 UTC] [NEW]   🆕 📦 Farn2000/aov-ios-menu
+     ⭐ 0  🗣 Python  📅 2026-11-19
+     🔗 https://github.com/Farn2000/aov-ios-menu
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:38 UTC] [NEW]   🆕 📦 haianhyeuem0401-lang/Ga-vi
+     ⭐ 0  🗣 Swift  📅 2026-11-18
+     🔗 https://github.com/haianhyeuem0401-lang/Ga-vi
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-19 07:09:38 UTC] [UPD]   📢 7 repository AGGIORNATI:
+[2026-11-19 07:09:38 UTC] [UPD]   📢 📦 gminegg150-cell/matino-x
+     ⭐ 0  🗣 Swift  📅 2026-11-18
+     🔗 https://github.com/gminegg150-cell/matino-x
+     📝 MATINO X
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-19 07:09:38 UTC] [UPD]   📢 📦 velozmauricio921-ship-it/proyecto-wq
+     ⭐ 0  🗣 Objective-C  📅 2026-11-18
+     🔗 https://github.com/velozmauricio921-ship-it/proyecto-wq
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-19 07:09:38 UTC] [UPD]   📢 📦 Censys-Research/nginx2root
+     ⭐ 2  🗣 Python  📅 2026-11-18
+     🔗 https://github.com/Censys-Research/nginx2root
+     📝 Censys Research's isolated-lab reproductions of the five nginx2root vulnerabilit…
+     🏷  nginx2root, poc
+     🔄 Motivo: repo recente (0gg) | nuovi topic: poc, nginx2root
+[2026-11-19 07:09:38 UTC] [UPD]   📢 📦 phase06/dev2test
+     ⭐ 0  🗣 TypeScript  📅 2026-11-18
+     🔗 https://github.com/phase06/dev2test
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-19 07:09:38 UTC] [UPD]   📢 📦 01rabbit/METIS
+     ⭐ 0  🗣 Python  📅 2026-11-11
+     🔗 https://github.com/01rabbit/METIS
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-11-19 07:09:38 UTC] [UPD]   📢 📦 tff68484-lab/matino-x
+     ⭐ 0  🗣 Swift  📅 2026-11-18
+     🔗 https://github.com/tff68484-lab/matino-x
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-19 07:09:38 UTC] [UPD]   📢 📦 temp-latif07/ps5-yt-uploader
+     ⭐ 1  🗣 C  📅 2026-11-18
+     🔗 https://github.com/temp-latif07/ps5-yt-uploader
+     📝 PS5 YouTube Uploader: Direct console-to-YouTube gameplay captures uploader for j…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-19 07:09:39 UTC] [INFO] ============================================================
+[2026-11-19 07:09:39 UTC] [INFO] Completato — 33 nuovi, 10 aggiornati, 0 errori
+[2026-11-19 07:09:39 UTC] [INFO] ============================================================
