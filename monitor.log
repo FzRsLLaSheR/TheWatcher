@@ -142676,3 +142676,372 @@
 [2026-11-20 06:09:30 UTC] [INFO] ============================================================
 [2026-11-20 06:09:30 UTC] [INFO] Completato — 54 nuovi, 9 aggiornati, 0 errori
 [2026-11-20 06:09:30 UTC] [INFO] ============================================================
+[2026-11-20 19:42:06 UTC] [INFO] ============================================================
+[2026-11-20 19:42:06 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-20 19:42:06 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-20 19:42:06 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-20 19:42:06 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-20 19:42:06 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-20 19:42:06 UTC] [INFO] ============================================================
+[2026-11-20 19:42:06 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-20 19:42:06 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-20 19:42:09 UTC] [INFO]   → 4 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-20 19:42:09 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-11-20 19:42:09 UTC] [NEW]   🆕 📦 mamanwhide/Batitong
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/mamanwhide/Batitong
+     📝 Batitong is the open-source reference implementation of the Proof-Gated Reliabil…
+     🏷  —
+[2026-11-20 19:42:09 UTC] [NEW]   🆕 📦 LostInShibuya/BYOVD-Eac
+     ⭐ 0  🗣 C++  📅 2026-11-20
+     🔗 https://github.com/LostInShibuya/BYOVD-Eac
+     📝 Working signed drv with poc 
+     🏷  —
+[2026-11-20 19:42:09 UTC] [NEW]   🆕 📦 0sint-user/drv-ioctl-audit
+     ⭐ 0  🗣 C++  📅 2026-11-20
+     🔗 https://github.com/0sint-user/drv-ioctl-audit
+     📝 Static PE32/PE32+ auditor for Windows kernel drivers (.sys): dangerous imports a…
+     🏷  —
+[2026-11-20 19:42:09 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-20 19:42:09 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-20 19:42:09 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-20 19:42:12 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 45 NUOVI repository:
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 varun25293/Enterprise-Defender-Endpoint-EDR-Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-20
+     🔗 https://github.com/varun25293/Enterprise-Defender-Endpoint-EDR-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 salmanabuawad/endpoint-control
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/salmanabuawad/endpoint-control
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 jaikraghavan/Threatledger
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/jaikraghavan/Threatledger
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 Yeray-jim/origin-warden
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/Yeray-jim/origin-warden
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 jcssws123456/artex-zh
+     ⭐ 0  🗣 Go  📅 2026-11-20
+     🔗 https://github.com/jcssws123456/artex-zh
+     📝 ARTEX 中文版 · 自主渗透测试 AI 代理的界面汉化（基于 BaaRai/ARTEX v0.6.0，AGPL-3.0）
+     🏷  agpl-3-0, ai, artex, chinese, localization, penetration-testing, pentest, security
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 ignacioaguayluz/edr
+     ⭐ 0  🗣 Go  📅 2026-11-20
+     🔗 https://github.com/ignacioaguayluz/edr
+     📝 Minimal Linux EDR agent: eBPF CO-RE telemetry, YAML detection rules, and kill re…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 kashvim26/Windows-Service-Process-Monitoring-Agent
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/kashvim26/Windows-Service-Process-Monitoring-Agent
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 Solokvng/solomonSOC
+     ⭐ 0  🗣 N/A  📅 2026-11-20
+     🔗 https://github.com/Solokvng/solomonSOC
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 b0dea/fortkeep
+     ⭐ 1  🗣 Shell  📅 2026-11-19
+     🔗 https://github.com/b0dea/fortkeep
+     📝 A security checkup for developer Macs, run through your coding agent
+     🏷  claude-code, codex, coding-agents, developer-tools, hardening, macos, malware-detection, opencode, security, supply-chain-security
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 snk-git-hub/EDR
+     ⭐ 0  🗣 C  📅 2026-11-20
+     🔗 https://github.com/snk-git-hub/EDR
+     📝 The concept of Black Box is mainly heard by us in case of Aero-planes. Upon a ca…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 alenjacob2310/openAI_Hackathon
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/alenjacob2310/openAI_Hackathon
+     📝 This repository is created for OpenAI Hackathon challenge
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 mariot/staticfire
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/mariot/staticfire
+     📝 End-to-end tests of OpenAEV injectors and collectors and OpenCTI connectors agai…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 CSTHUESP/argos-defense
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/CSTHUESP/argos-defense
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 kongali1720/tanzania-digital-sovereignty-framework
+     ⭐ 0  🗣 JavaScript  📅 2026-11-20
+     🔗 https://github.com/kongali1720/tanzania-digital-sovereignty-framework
+     📝 Strategic policy & technical architecture blueprint for Tanzania's Digital Publi…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 sys-alderson-root/scan_malware_elliot.py
+     ⭐ 1  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/sys-alderson-root/scan_malware_elliot.py
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 rickjoeantony/python-cybersecurity-education-lab
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/rickjoeantony/python-cybersecurity-education-lab
+     📝 Educational Python project: keylogger internals, screen capture, webcam, email e…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 SjoenH/defender-watch
+     ⭐ 0  🗣 Rust  📅 2026-11-20
+     🔗 https://github.com/SjoenH/defender-watch
+     📝 See what Microsoft Defender for Endpoint and Intune do on your Mac, and what you…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 GM4saken/py-hash-scanner
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/GM4saken/py-hash-scanner
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 Fl0sec/Fl0sec
+     ⭐ 0  🗣 JavaScript  📅 2026-11-20
+     🔗 https://github.com/Fl0sec/Fl0sec
+     📝 fl0sec profile: offensive security, down to ring 0
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 Stintik-123/HeadphoneGuard
+     ⭐ 0  🗣 C#  📅 2026-11-20
+     🔗 https://github.com/Stintik-123/HeadphoneGuard
+     📝 Silences the annoying low-battery voice on your Bluetooth headphones — by muting…
+     🏷  audio, bluetooth, dotnet, headphones, tray, windows
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 scott1028/bt_hid_kvm
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/scott1028/bt_hid_kvm
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 Bymelsoftware/NousEDR-V3-
+     ⭐ 0  🗣 N/A  📅 2026-11-20
+     🔗 https://github.com/Bymelsoftware/NousEDR-V3-
+     📝 En gelişmiş endpoint protection and response
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 StanESmith/ha-galaxy-fit3
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/StanESmith/ha-galaxy-fit3
+     📝 Samsung Galaxy Fit 3 integration with home assistant.
+     🏷  galaxy-watch, hacs, homeassistant, homeassistant-custom-component, homeassistant-integration
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 mamanwhide/Batitong
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/mamanwhide/Batitong
+     📝 Batitong is the open-source reference implementation of the Proof-Gated Reliabil…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 rafay35349/SentinelGuard
+     ⭐ 0  🗣 C++  📅 2026-11-19
+     🔗 https://github.com/rafay35349/SentinelGuard
+     📝 A native C++20 Windows privacy and activity monitoring system featuring real-tim…
+     🏷  cmake, cplusplus, cpp, directx11, imgui, network-monitoring, privacy, systems-programming, win32-api, windows
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 sanuthmee1578/home-soc-detection-lab
+     ⭐ 0  🗣 N/A  📅 2026-11-20
+     🔗 https://github.com/sanuthmee1578/home-soc-detection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 furydarkknight/GraphOps1
+     ⭐ 0  🗣 TypeScript  📅 2026-11-20
+     🔗 https://github.com/furydarkknight/GraphOps1
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 deblanco/PlayFX
+     ⭐ 2  🗣 Swift  📅 2026-11-20
+     🔗 https://github.com/deblanco/PlayFX
+     📝 PS5/PS4 Remote Play client for macOS
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 malportao/chamuko-c2
+     ⭐ 0  🗣 Rust  📅 2026-11-20
+     🔗 https://github.com/malportao/chamuko-c2
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 rjarry/csb-perf
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/rjarry/csb-perf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 Gigix88/Gigix88
+     ⭐ 0  🗣 N/A  📅 2026-11-20
+     🔗 https://github.com/Gigix88/Gigix88
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 Joaquincuevas/resility-zentris-analysis
+     ⭐ 0  🗣 TeX  📅 2026-11-20
+     🔗 https://github.com/Joaquincuevas/resility-zentris-analysis
+     📝 Análisis técnico de seguridad e IA de Resility/Zentris (OSINT pasivo)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 GUNGUN699/PromptWars
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/GUNGUN699/PromptWars
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 azizou-houssem-eddine/laptop-inspect
+     ⭐ 0  🗣 PowerShell  📅 2026-11-20
+     🔗 https://github.com/azizou-houssem-eddine/laptop-inspect
+     📝 Fast zero-dependency Windows laptop pre-purchase diagnostic, corporate lock audi…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 Vb-777/Tobira
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/Vb-777/Tobira
+     📝 Zero-trust private access lab with mTLS, device-bound identity, posture enforcem…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 imgunjantomer/PromptWars
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/imgunjantomer/PromptWars
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 cypriansinachi/CyberShield
+     ⭐ 0  🗣 TypeScript  📅 2026-11-19
+     🔗 https://github.com/cypriansinachi/CyberShield
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 atillanadim/SentinelIoT
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/atillanadim/SentinelIoT
+     📝 Agente defensivo local com honeypots para laboratorios de IoT
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 thakkarriya/AI-Powered-EDR-Malware-Detection
+     ⭐ 0  🗣 C++  📅 2026-11-20
+     🔗 https://github.com/thakkarriya/AI-Powered-EDR-Malware-Detection
+     📝 Offline-first AI-Powered Malware Detection & EDR System built with custom DSA, W…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 JasenkoC/nvidia-ssd-write-watch
+     ⭐ 0  🗣 PowerShell  📅 2026-11-20
+     🔗 https://github.com/JasenkoC/nvidia-ssd-write-watch
+     📝 Scheduled Windows watchdog for the NVIDIA 621.14/621.24 nvlog.nvlgstg bug, which…
+     🏷  diagnostics, driver-bug, monitoring, nvdisplay, nvidia, powershell, ssd, windows
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 diyism/ring-con-webhid
+     ⭐ 0  🗣 TypeScript  📅 2026-11-19
+     🔗 https://github.com/diyism/ring-con-webhid
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 lowlevellearner/iot
+     ⭐ 0  🗣 N/A  📅 2026-11-20
+     🔗 https://github.com/lowlevellearner/iot
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 sfrangulov/pippin
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/sfrangulov/pippin
+     📝 Tiny agent harness for Apple's on-device model (apfel): tools, skills and MCP in…
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 6G-DALI/ml-pipeline-sdk
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/6G-DALI/ml-pipeline-sdk
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:12 UTC] [NEW]   🆕 📦 katikolesnik78-afk/analysis-of-security-events
+     ⭐ 0  🗣 N/A  📅 2026-11-20
+     🔗 https://github.com/katikolesnik78-afk/analysis-of-security-events
+     📝 Учебный анализ 37 записей журнала событий информационной безопасности.
+     🏷  —
+[2026-11-20 19:42:12 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-20 19:42:12 UTC] [UPD]   📢 📦 1276486/ZERO-X-PoJia-Evasion-Shellcode
+     ⭐ 0  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/1276486/ZERO-X-PoJia-Evasion-Shellcode
+     📝 ZERO-X 破甲 · 免杀 Antivirus Evasion / Shellcode / Webshell / EDR 绕过 / 反调试 / 反虚拟机 / …
+     🏷  ai-jailbreak, antivirus-evasion, codex, cve, edr-bypass, electron, internal-pentest, llm-security, malware-analysis, memory-loader, penetration-testing, poc, privilege-escalation, prompt-injection, rce, red-team, reverse-engineering, shellcode, webshell, windows
+     🔄 Motivo: repo recente (1gg)
+[2026-11-20 19:42:12 UTC] [UPD]   📢 📦 bastivanconsulting/Nexashield-Abuse-IP
+     ⭐ 2  🗣 RouterOS Script  📅 2026-11-13
+     🔗 https://github.com/bastivanconsulting/Nexashield-Abuse-IP
+     📝 Les IP que NexaShield détectent comme dangereuses
+     🏷  ai, cisco, cyber, cyber-analytics, cyber-security, cybersecurity, cybersecurity-projects, cybersecurity-tools, edr, fortigate, list, lists, mdr, ndr, security, siem, xdr
+     🔄 Motivo: repo recente (7gg)
+[2026-11-20 19:42:12 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-20 19:42:12 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-20 19:42:15 UTC] [INFO]   → 37 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 16 NUOVI repository:
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 Real-Fruit-Snacks/pwn-playbooks
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/Real-Fruit-Snacks/pwn-playbooks
+     📝 Playbooks for pwn-broker: read into the note, fill in, run
+     🏷  hackthebox, oscp, playbooks, pwn-broker, vim
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 horneysifu-cmd/dylib
+     ⭐ 0  🗣 Swift  📅 2026-11-20
+     🔗 https://github.com/horneysifu-cmd/dylib
+     📝 its me sifu
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 mastersword64/Byepervisor-Awake
+     ⭐ 4  🗣 C  📅 2026-11-20
+     🔗 https://github.com/mastersword64/Byepervisor-Awake
+     📝 Byepervisor Awake
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 GamersRTG/GamersRTG.github.io
+     ⭐ 0  🗣 JavaScript  📅 2026-11-20
+     🔗 https://github.com/GamersRTG/GamersRTG.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 medoelmansy/Mansy_JB
+     ⭐ 0  🗣 JavaScript  📅 2026-11-20
+     🔗 https://github.com/medoelmansy/Mansy_JB
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 bobisme/playpen
+     ⭐ 0  🗣 Rust  📅 2026-11-20
+     🔗 https://github.com/bobisme/playpen
+     📝 Run a command on Linux with network egress limited to approved addresses, ports,…
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 CrystalXYN/OpenRoot
+     ⭐ 0  🗣 C  📅 2026-11-20
+     🔗 https://github.com/CrystalXYN/OpenRoot
+     📝 A fork of hexo141/OpenRoot — Android wireless-debug privilege escalation app, wi…
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 oussssama/o14
+     ⭐ 0  🗣 JavaScript  📅 2026-11-20
+     🔗 https://github.com/oussssama/o14
+     📝 JB 14.02
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 hatixntsoa/tryhackme
+     ⭐ 1  🗣 PowerShell  📅 2026-11-20
+     🔗 https://github.com/hatixntsoa/tryhackme
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 nukoe-labs/stillsuit
+     ⭐ 0  🗣 TypeScript  📅 2026-11-20
+     🔗 https://github.com/nukoe-labs/stillsuit
+     📝 Run Claude Code or Codex in a container with one command: deny-by-default networ…
+     🏷  ai-agents, ai-security, allowlist, claude-code, codex, coding-agents, devsecops, docker, egress-filtering, miasma, prompt-injection, sandbox, secrets-management, security, shai-hulud, supply-chain-security
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 phucvoipa/3105-app
+     ⭐ 0  🗣 Swift  📅 2026-11-20
+     🔗 https://github.com/phucvoipa/3105-app
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 araizcorp/linux-privilege-escalation-playbook
+     ⭐ 0  🗣 N/A  📅 2026-11-20
+     🔗 https://github.com/araizcorp/linux-privilege-escalation-playbook
+     📝 Production-grade Linux Privilege Escalation & Post-Exploitation Playbook (GTFOBi…
+     🏷  gtfobins, linux-privilege-escalation, linux-security, offensive-security, oscp, pentesting, privilege-escalation, red-team, sudo-misconfiguration, suid
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 ballerleodennis/Game-Loader-Plugins
+     ⭐ 0  🗣 N/A  📅 2026-11-20
+     🔗 https://github.com/ballerleodennis/Game-Loader-Plugins
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 NourEst/Ps4-jailbreak-
+     ⭐ 0  🗣 JavaScript  📅 2026-11-20
+     🔗 https://github.com/NourEst/Ps4-jailbreak-
+     📝 Wobkot-v1 
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 emdzej/sony-bravia-mtk-root
+     ⭐ 0  🗣 C  📅 2026-11-20
+     🔗 https://github.com/emdzej/sony-bravia-mtk-root
+     📝 Sony Bravia MT5891 (KD-55XE9005) Android TV research: one-command RAM-only root …
+     🏷  —
+[2026-11-20 19:42:15 UTC] [NEW]   🆕 📦 odiecay/pwn
+     ⭐ 0  🗣 JavaScript  📅 2026-11-20
+     🔗 https://github.com/odiecay/pwn
+     📝 PS4 14.02 WebKit exploit host: Wobkot browser primitive + Afterglow kernel, Gold…
+     🏷  —
+[2026-11-20 19:42:15 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-20 19:42:15 UTC] [UPD]   📢 📦 MacLeodTech/runner-scaling
+     ⭐ 0  🗣 Go  📅 2026-11-18
+     🔗 https://github.com/MacLeodTech/runner-scaling
+     📝 Ephemeral, autoscaled GitHub Actions runners on a single Docker host, with a no-…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-20 19:42:15 UTC] [UPD]   📢 📦 GZ-920/lara-02-m3-fix
+     ⭐ 0  🗣 Swift  📅 2026-11-18
+     🔗 https://github.com/GZ-920/lara-02-m3-fix
+     📝 Lara 0.2 with 1.2 kernel exploit stack backported (M3 iPad)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-20 19:42:15 UTC] [INFO] ============================================================
+[2026-11-20 19:42:15 UTC] [INFO] Completato — 64 nuovi, 4 aggiornati, 0 errori
+[2026-11-20 19:42:15 UTC] [INFO] ============================================================
