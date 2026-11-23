@@ -144520,3 +144520,231 @@
 [2026-11-22 23:20:32 UTC] [INFO] ============================================================
 [2026-11-22 23:20:32 UTC] [INFO] Completato — 38 nuovi, 3 aggiornati, 0 errori
 [2026-11-22 23:20:32 UTC] [INFO] ============================================================
+[2026-11-23 06:17:56 UTC] [INFO] ============================================================
+[2026-11-23 06:17:56 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-23 06:17:56 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-23 06:17:56 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-23 06:17:56 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-23 06:17:56 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-23 06:17:56 UTC] [INFO] ============================================================
+[2026-11-23 06:17:56 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-23 06:17:56 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-23 06:17:58 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-23 06:17:58 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-11-23 06:17:58 UTC] [NEW]   🆕 📦 hexreys/hexreys
+     ⭐ 0  🗣 N/A  📅 2026-11-23
+     🔗 https://github.com/hexreys/hexreys
+     📝 Windows reverse engineering · Devirtualization · Anti-cheat research
+     🏷  —
+[2026-11-23 06:17:58 UTC] [NEW]   🆕 📦 hexreys/libwasys-driver-research
+     ⭐ 0  🗣 C  📅 2026-11-23
+     🔗 https://github.com/hexreys/libwasys-driver-research
+     📝 Signed Windows driver reverse engineering · IOCTL 0x22E00C · BYOVD process termi…
+     🏷  —
+[2026-11-23 06:17:58 UTC] [NEW]   🆕 📦 AgustinCblls/Hacking_Etico_Espa-ol
+     ⭐ 0  🗣 HTML  📅 2026-11-22
+     🔗 https://github.com/AgustinCblls/Hacking_Etico_Espa-ol
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:17:58 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-23 06:17:58 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-23 06:17:58 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-23 06:18:01 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 23 NUOVI repository:
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 shrivastavaii/hackle
+     ⭐ 0  🗣 HTML  📅 2026-11-23
+     🔗 https://github.com/shrivastavaii/hackle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 hexreys/libwasys-driver-research
+     ⭐ 0  🗣 C  📅 2026-11-23
+     🔗 https://github.com/hexreys/libwasys-driver-research
+     📝 Signed Windows driver reverse engineering · IOCTL 0x22E00C · BYOVD process termi…
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 hackrange/ctem
+     ⭐ 1  🗣 Python  📅 2026-11-22
+     🔗 https://github.com/hackrange/ctem
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 FajarMelfiano/wrecon-field-console
+     ⭐ 0  🗣 C++  📅 2026-11-23
+     🔗 https://github.com/FajarMelfiano/wrecon-field-console
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 lissa-edriana/lissa-edriana
+     ⭐ 0  🗣 N/A  📅 2026-11-23
+     🔗 https://github.com/lissa-edriana/lissa-edriana
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 Sayed-Edrees/SayedEdrees.github.io
+     ⭐ 0  🗣 HTML  📅 2026-11-23
+     🔗 https://github.com/Sayed-Edrees/SayedEdrees.github.io
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 AgustinCblls/Hacking_Etico_Espa-ol
+     ⭐ 0  🗣 HTML  📅 2026-11-22
+     🔗 https://github.com/AgustinCblls/Hacking_Etico_Espa-ol
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 awildang/Hak5Payload-SlipperyPickle
+     ⭐ 0  🗣 Shell  📅 2026-11-23
+     🔗 https://github.com/awildang/Hak5Payload-SlipperyPickle
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 raufzen/Claude-BugHunter
+     ⭐ 0  🗣 Python  📅 2026-11-23
+     🔗 https://github.com/raufzen/Claude-BugHunter
+     📝 A self-contained Claude skill bundle for bug hunting and external red-team work
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 badabing1285/https-github.com-smartworldarafath-REA_Skill
+     ⭐ 0  🗣 Python  📅 2026-11-23
+     🔗 https://github.com/badabing1285/https-github.com-smartworldarafath-REA_Skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 499K/sophos_portfolio_vn
+     ⭐ 1  🗣 JavaScript  📅 2026-11-23
+     🔗 https://github.com/499K/sophos_portfolio_vn
+     📝 Sophos portfolio for presentation 
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 Shermoh/threat-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-11-22
+     🔗 https://github.com/Shermoh/threat-detection-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 cesar-villalobos/claude-code-remoto
+     ⭐ 0  🗣 Python  📅 2026-11-23
+     🔗 https://github.com/cesar-villalobos/claude-code-remoto
+     📝 Control Claude Code from your phone over your LAN — for API and corporate gatewa…
+     🏷  ai-gateway, claude-code, lan, remote-control, self-hosted
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 EdRauber/portifolio-EdRauber
+     ⭐ 1  🗣 JavaScript  📅 2026-11-23
+     🔗 https://github.com/EdRauber/portifolio-EdRauber
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 Djalmajunior23/winlinx
+     ⭐ 0  🗣 TypeScript  📅 2026-11-23
+     🔗 https://github.com/Djalmajunior23/winlinx
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 JuicyPasta/jetcalm-data
+     ⭐ 0  🗣 Python  📅 2026-11-23
+     🔗 https://github.com/JuicyPasta/jetcalm-data
+     📝 Turbulence forecast tiles for Jetcalm, built hourly from public NOAA data (WAFS …
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 varsha1290/Smart_Vehicle_Black_Box
+     ⭐ 0  🗣 Python  📅 2026-11-23
+     🔗 https://github.com/varsha1290/Smart_Vehicle_Black_Box
+     📝 Black box for  bike 
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 Tekush1/narayanastra
+     ⭐ 0  🗣 Rust  📅 2026-11-22
+     🔗 https://github.com/Tekush1/narayanastra
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 Enzoevbs/keylogger
+     ⭐ 0  🗣 N/A  📅 2026-11-23
+     🔗 https://github.com/Enzoevbs/keylogger
+     📝 Um breve conhecimento sobre keylogger e ransomware
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 adamweiler1/Security-Projects-
+     ⭐ 0  🗣 N/A  📅 2026-11-23
+     🔗 https://github.com/adamweiler1/Security-Projects-
+     📝 Hands on cybersecurity labs covering Active Directory, Splunk, incident response…
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 ShibaDeku99/threat-intelligence-automation
+     ⭐ 0  🗣 Python  📅 2026-11-23
+     🔗 https://github.com/ShibaDeku99/threat-intelligence-automation
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 Seif-Abdelhamid/threat-hunt-lab
+     ⭐ 0  🗣 Python  📅 2026-11-23
+     🔗 https://github.com/Seif-Abdelhamid/threat-hunt-lab
+     📝 ATT&CK threat hunts and Isolation Forest anomaly ranking, measured on 24 public …
+     🏷  anomaly-detection, blue-team, detection-engineering, mitre-attack, python, scikit-learn, soc, sysmon, threat-hunting
+[2026-11-23 06:18:01 UTC] [NEW]   🆕 📦 quarkswimmerdepot/edrgytgf
+     ⭐ 0  🗣 N/A  📅 2026-11-22
+     🔗 https://github.com/quarkswimmerdepot/edrgytgf
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:01 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-23 06:18:01 UTC] [UPD]   📢 📦 LiamCarPer/enterprise-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-11-22
+     🔗 https://github.com/LiamCarPer/enterprise-detection-lab
+     📝 Production-like enterprise detection engineering lab: identity, endpoint, cloud,…
+     🏷  blue-team, cloud-security, detection-engineering, incident-response, security-automation, security-engineering, siem, sigma, threat-detection
+     🔄 Motivo: repo recente (1gg)
+[2026-11-23 06:18:01 UTC] [UPD]   📢 📦 1276486/ZERO-X-PoJia-Evasion-Shellcode
+     ⭐ 2  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/1276486/ZERO-X-PoJia-Evasion-Shellcode
+     📝 ZERO-X 破甲 · 免杀 Antivirus Evasion / Shellcode / Webshell / EDR 绕过 / 反调试 / 反虚拟机 / …
+     🏷  ai-jailbreak, antivirus-evasion, codex, cve, edr-bypass, electron, internal-pentest, llm-security, malware-analysis, memory-loader, penetration-testing, poc, privilege-escalation, prompt-injection, rce, red-team, reverse-engineering, shellcode, webshell, windows
+     🔄 Motivo: repo recente (3gg)
+[2026-11-23 06:18:01 UTC] [UPD]   📢 📦 agentic-threat-defense/artex-defense
+     ⭐ 0  🗣 Python  📅 2026-11-21
+     🔗 https://github.com/agentic-threat-defense/artex-defense
+     📝 Offline Zero-IOC behavioral detection engine, DFIR triage workbench, and 8-SIEM …
+     🏷  agentic-ai, artex, cloudtrail, crowdstrike, detection-engineering, dfir, esql, ipfix, ja4, kql, purple-team, siem, sigma-rules, splunk, suricata, threat-hunting, yara, zeek
+     🔄 Motivo: repo recente (1gg)
+[2026-11-23 06:18:01 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-23 06:18:01 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-23 06:18:04 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-23 06:18:04 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-11-23 06:18:04 UTC] [NEW]   🆕 📦 AkshayKochale/ps4Exploit
+     ⭐ 0  🗣 JavaScript  📅 2026-11-23
+     🔗 https://github.com/AkshayKochale/ps4Exploit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:04 UTC] [NEW]   🆕 📦 maniory/WebKitty
+     ⭐ 0  🗣 JavaScript  📅 2026-11-23
+     🔗 https://github.com/maniory/WebKitty
+     📝 PS4Exploit
+     🏷  —
+[2026-11-23 06:18:04 UTC] [NEW]   🆕 📦 FelipeFares/ps5-webkit-linux-autoloader
+     ⭐ 0  🗣 JavaScript  📅 2026-11-23
+     🔗 https://github.com/FelipeFares/ps5-webkit-linux-autoloader
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:04 UTC] [NEW]   🆕 📦 wkdwlsdyd0801-pixel/binary-hardening-lab
+     ⭐ 0  🗣 Python  📅 2026-11-23
+     🔗 https://github.com/wkdwlsdyd0801-pixel/binary-hardening-lab
+     📝 Measured effect and cost of Linux exploit mitigations (NX, PIE/ASLR, canary, REL…
+     🏷  —
+[2026-11-23 06:18:04 UTC] [NEW]   🆕 📦 aoagovla-eng/External-Reloaded
+     ⭐ 0  🗣 C  📅 2026-11-22
+     🔗 https://github.com/aoagovla-eng/External-Reloaded
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-23 06:18:04 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-11-23 06:18:04 UTC] [UPD]   📢 📦 bobisme/playpen
+     ⭐ 0  🗣 Rust  📅 2026-11-20
+     🔗 https://github.com/bobisme/playpen
+     📝 Run a command on Linux with network egress limited to approved addresses, ports,…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-23 06:18:04 UTC] [UPD]   📢 📦 dbabi/agentbox
+     ⭐ 0  🗣 Go  📅 2026-11-20
+     🔗 https://github.com/dbabi/agentbox
+     📝 Safe home for AI agents: a headless Ubuntu Server OS for AI coding agents (early…
+     🏷  ai-agents, golang, headless, operating-system, security, ubuntu
+     🔄 Motivo: repo recente (2gg)
+[2026-11-23 06:18:04 UTC] [UPD]   📢 📦 a1-tools/black-box
+     ⭐ 0  🗣 Java  📅 2026-11-22
+     🔗 https://github.com/a1-tools/black-box
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-23 06:18:04 UTC] [UPD]   📢 📦 Real-Fruit-Snacks/pwn-playbooks
+     ⭐ 0  🗣 Python  📅 2026-11-20
+     🔗 https://github.com/Real-Fruit-Snacks/pwn-playbooks
+     📝 Playbooks for pwn-broker: read into the note, fill in, run
+     🏷  hackthebox, kali-linux, markdown, pentesting, playbooks, pwn-broker
+     🔄 Motivo: repo recente (2gg) | nuovi topic: markdown
+[2026-11-23 06:18:04 UTC] [UPD]   📢 📦 24rukesh/pixel10-pro-xl-tmobile-sim-unlock
+     ⭐ 1  🗣 Java  📅 2026-11-22
+     🔗 https://github.com/24rukesh/pixel10-pro-xl-tmobile-sim-unlock
+     📝 Permanent SIM unlock for T-Mobile-locked Pixel 10 Pro XL (mustang) on a locked b…
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-23 06:18:04 UTC] [INFO] ============================================================
+[2026-11-23 06:18:04 UTC] [INFO] Completato — 31 nuovi, 8 aggiornati, 0 errori
+[2026-11-23 06:18:04 UTC] [INFO] ============================================================
