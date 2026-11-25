@@ -146056,3 +146056,306 @@
 [2026-11-25 07:28:07 UTC] [INFO] ============================================================
 [2026-11-25 07:28:07 UTC] [INFO] Completato — 49 nuovi, 7 aggiornati, 0 errori
 [2026-11-25 07:28:07 UTC] [INFO] ============================================================
+[2026-11-25 21:13:53 UTC] [INFO] ============================================================
+[2026-11-25 21:13:53 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-25 21:13:53 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-25 21:13:53 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-25 21:13:53 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-25 21:13:53 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-25 21:13:53 UTC] [INFO] ============================================================
+[2026-11-25 21:13:53 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-25 21:13:53 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-25 21:13:55 UTC] [INFO]   → 3 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-25 21:13:55 UTC] [NEW]   🆕 1 NUOVI repository:
+[2026-11-25 21:13:55 UTC] [NEW]   🆕 📦 kjm0719/AegisSentinel
+     ⭐ 0  🗣 C#  📅 2026-11-25
+     🔗 https://github.com/kjm0719/AegisSentinel
+     📝 Windows 10/11 통합 EDR · 랜섬웨어 방어 · 공급망 DLL 사이드로딩 탐지 · MZK 6단계 심층 백신 (.NET 10 / WPF…
+     🏷  —
+[2026-11-25 21:13:55 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-25 21:13:55 UTC] [UPD]   📢 📦 Lafferrr/Mythosaur
+     ⭐ 11  🗣 N/A  📅 2026-11-23
+     🔗 https://github.com/Lafferrr/Mythosaur
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-25 21:13:55 UTC] [UPD]   📢 📦 didntchooseaname/loldrivers-database
+     ⭐ 11  🗣 TypeScript  📅 2025-07-30
+     🔗 https://github.com/didntchooseaname/loldrivers-database
+     📝 LolDrivers Database is a project based on loldrivers.io with enhanced filtering,…
+     🏷  byod, byovd, cetp, driver, ioctl, kernel, rootkit, virustotal, vulnerable
+     🔄 Motivo: nuovi topic: ioctl, byovd, cetp, kernel, virustotal, vulnerable, rootkit, byod
+[2026-11-25 21:13:55 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-25 21:13:55 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-25 21:13:58 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 40 NUOVI repository:
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 velocityzen/Plays
+     ⭐ 0  🗣 Rust  📅 2026-11-25
+     🔗 https://github.com/velocityzen/Plays
+     📝 A video and audio player for macOS and Linux
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 geforester/lumen-hdr
+     ⭐ 0  🗣 Swift  📅 2026-11-25
+     🔗 https://github.com/geforester/lumen-hdr
+     📝 SDR → HDR с gain map для macOS: своё ядро буста, живое EDR-превью, экспорт JPEG/…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 masonhain14-a11y/ServerKeyZ
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/masonhain14-a11y/ServerKeyZ
+     📝 ServerKeyZ turns your Linux server’s physical keyboard into a wireless Bluetooth…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 tall1on/clubify
+     ⭐ 1  🗣 TypeScript  📅 2026-11-25
+     🔗 https://github.com/tall1on/clubify
+     📝 Make Spotify sound like it's playing in a nightclub. A Windows tray app that cap…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 stmz009/cybersecurity-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/stmz009/cybersecurity-portfolio
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 Batman-Priv/mantis
+     ⭐ 0  🗣 Go  📅 2026-11-25
+     🔗 https://github.com/Batman-Priv/mantis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 dntaskmehow/OutLawRootkit
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/dntaskmehow/OutLawRootkit
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 kbanaian/MSA-LFPR
+     ⭐ 0  🗣 R  📅 2026-11-25
+     🔗 https://github.com/kbanaian/MSA-LFPR
+     📝 Recreating Jason Furman's Econvitals' labor force participation analysis but wit…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 ZvMartin/security-engineering-portfolio
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/ZvMartin/security-engineering-portfolio
+     📝 Sanitized cybersecurity whitepapers, Linux/Windows log & SQL threat analysis, ze…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 skbellevue/invariant-defense
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/skbellevue/invariant-defense
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 liendomaho-wq/aura-defens-V2.0.0
+     ⭐ 0  🗣 Kotlin  📅 2026-11-25
+     🔗 https://github.com/liendomaho-wq/aura-defens-V2.0.0
+     📝 aura defens v2.0.0
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 rkinginflux/influxdb3-edr
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/rkinginflux/influxdb3-edr
+     📝 Straightforward Kubernetes setup guide and portable configuration examples for I…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 Batman-Priv/SysPeek
+     ⭐ 0  🗣 Go  📅 2026-11-25
+     🔗 https://github.com/Batman-Priv/SysPeek
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 sambitcreate/rune-editor
+     ⭐ 0  🗣 Rust  📅 2026-11-25
+     🔗 https://github.com/sambitcreate/rune-editor
+     📝 Mac-first, GPU-accelerated Capture One / Lightroom-style RAW photo editor built …
+     🏷  gpu, macos, metal, photo-editor, raw, rune, rust, wgpu
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 oncloud-public/adminbyrequest-tools
+     ⭐ 0  🗣 PowerShell  📅 2026-11-25
+     🔗 https://github.com/oncloud-public/adminbyrequest-tools
+     📝 Community tools for Admin By Request by OnCloud. Not an official Admin By Reques…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 Nero7991/esp32-WoLviaBT
+     ⭐ 0  🗣 C  📅 2026-11-25
+     🔗 https://github.com/Nero7991/esp32-WoLviaBT
+     📝 ESP32 Ethernet board firmware: wake a BC-250 gaming box on a PS controller butto…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 RaphaelLopes12/datadog-pup-kit
+     ⭐ 0  🗣 JavaScript  📅 2026-11-25
+     🔗 https://github.com/RaphaelLopes12/datadog-pup-kit
+     📝 Windows kit for using the Datadog pup CLI with Cursor: user-scope install, OAuth…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 Leo-Galli/keld
+     ⭐ 0  🗣 Rust  📅 2026-11-25
+     🔗 https://github.com/Leo-Galli/keld
+     📝 Authorized recon, audit and report toolkit (CLI + TUI)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 BajanBob/BlackSwan
+     ⭐ 0  🗣 JavaScript  📅 2026-11-24
+     🔗 https://github.com/BajanBob/BlackSwan
+     📝 Computer protector
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 ZvMartin/ZvMartin
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/ZvMartin/ZvMartin
+     📝 GitHub profile overview for Zachary V. Martin, CC — Linux/Windows administration…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 mericorhay/havit-nc01h-control
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/mericorhay/havit-nc01h-control
+     📝 Desktop controller (CLI + Web UI) for HAVIT LIFE NC01H / H668BT headphones over …
+     🏷  anc, bluetooth, equalizer, h668bt, havit, jieli, nc01h, python, rcsp, reverse-engineering
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 thevidocq/mentis
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/thevidocq/mentis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 Avinash-aj01/SentinelX-AI
+     ⭐ 0  🗣 TypeScript  📅 2026-11-25
+     🔗 https://github.com/Avinash-aj01/SentinelX-AI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 mayur-04-05/sentinelx-edr
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/mayur-04-05/sentinelx-edr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 billm/netprobe
+     ⭐ 0  🗣 PowerShell  📅 2026-11-25
+     🔗 https://github.com/billm/netprobe
+     📝 No-admin network discovery (ping, TCP connect, UDP probes) for Windows PowerShel…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 JoycePaz95/guardai-purple-ops
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/JoycePaz95/guardai-purple-ops
+     📝 Agente de IA Multi-Especialista para Ciberseguranca (Red Team, Blue Team e Peric…
+     🏷  ai-agents, blue-team, cybersecurity, dfir, incident-response, mitre-attack, purple-team, red-team
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 ayslans/vtx-detection-lab
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/ayslans/vtx-detection-lab
+     📝 Detection-as-Code lab for Blue Team & SOC combining YAML/Wazuh rules, MITRE ATT&…
+     🏷  blue-team, detection-as-code, detection-engineering, devsecops, incident-response, mitre-attack, pci-dss, python, soc, sysmon, wazuh
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 Anish-Kanna/Shadow_Hound
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/Anish-Kanna/Shadow_Hound
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 victorherculini/ai-cyber-duel
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/victorherculini/ai-cyber-duel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 inquisitive-entity/Splunk_Utilities
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/inquisitive-entity/Splunk_Utilities
+     📝 Useful splunk searches
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 Ryugai-grey/Threat-Intelligence-Aggregator
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/Ryugai-grey/Threat-Intelligence-Aggregator
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 Rea1Felix/sdf-edge-aurora-ui
+     ⭐ 0  🗣 Shell  📅 2026-11-25
+     🔗 https://github.com/Rea1Felix/sdf-edge-aurora-ui
+     📝 Antigravity Skill: 60/120fps SDF Inner Screen-Edge Aurora Glow (WebGL2 + SwiftUI…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 abinayafranciscaep/threat-intel-enrichment
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/abinayafranciscaep/threat-intel-enrichment
+     📝 Automated threat-intelligence enrichment pipeline for SOC alert triage: IOC repu…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 secops-tools/threat-intelligence-tools
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/secops-tools/threat-intelligence-tools
+     📝 A curated and automatically updated directory of threat intelligence tools, plat…
+     🏷  cybersecurity, ioc, misp, opencti, osint, secops, soc, stix, threat-intelligence, threat-intelligence-feeds, threat-intelligence-platform, threat-intelligence-tools
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 ysbellahcen/cyberfast-os
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/ysbellahcen/cyberfast-os
+     📝 Cyberfast Community : gestion de la surface d'attaque externe (EASM), gratuit, a…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 iboguslavsky/esp32s31-bt-internet-radio
+     ⭐ 0  🗣 C  📅 2026-11-25
+     🔗 https://github.com/iboguslavsky/esp32s31-bt-internet-radio
+     📝 Standalone Wi-Fi 6 to Classic Bluetooth (A2DP Source + AVRCP) Internet Radio for…
+     🏷  aac, bluetooth-a2dp, esp-idf, esp32s31, internet-radio, mp3, platformio, riscv, waveshare
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 wanaditactical/tepuy-airgap-bridge
+     ⭐ 1  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/wanaditactical/tepuy-airgap-bridge
+     📝 Tepuy Core™ Air-Gap Bridge (Tier 1 Client Kit) — Passive read-only collector & R…
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 mohith257/cyber-forge-hackathon
+     ⭐ 0  🗣 Go  📅 2026-11-24
+     🔗 https://github.com/mohith257/cyber-forge-hackathon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 sousaa-dev/sdev-infosec-fieldnotes
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/sousaa-dev/sdev-infosec-fieldnotes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [NEW]   🆕 📦 ramaaaashka/SIEM-AI-Project
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-11-25
+     🔗 https://github.com/ramaaaashka/SIEM-AI-Project
+     📝 Інтелектуальна система моніторингу та виявлення кіберзагроз (SIEM + ШІ)
+     🏷  —
+[2026-11-25 21:13:58 UTC] [UPD]   📢 1 repository AGGIORNATI:
+[2026-11-25 21:13:58 UTC] [UPD]   📢 📦 1276486/ZERO-X-PoJia-Evasion-Shellcode
+     ⭐ 6  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/1276486/ZERO-X-PoJia-Evasion-Shellcode
+     📝 ZERO-X 破甲 · 免杀 Antivirus Evasion / Shellcode / Webshell / EDR 绕过 / 反调试 / 反虚拟机 / …
+     🏷  ai-jailbreak, antivirus-evasion, codex, cve, edr-bypass, electron, internal-pentest, llm-security, malware-analysis, memory-loader, penetration-testing, poc, privilege-escalation, prompt-injection, rce, red-team, reverse-engineering, shellcode, webshell, windows
+     🔄 Motivo: repo recente (6gg)
+[2026-11-25 21:13:58 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-25 21:13:58 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-25 21:14:01 UTC] [INFO]   → 23 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-25 21:14:01 UTC] [NEW]   🆕 5 NUOVI repository:
+[2026-11-25 21:14:01 UTC] [NEW]   🆕 📦 z0sh22/woooork
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/z0sh22/woooork
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:14:01 UTC] [NEW]   🆕 📦 DeloNest/hisn
+     ⭐ 0  🗣 Rust  📅 2026-11-25
+     🔗 https://github.com/DeloNest/hisn
+     📝 Scan and run untrusted programs in isolation on Windows 11
+     🏷  —
+[2026-11-25 21:14:01 UTC] [NEW]   🆕 📦 d4ytox/CVE-2021-33200
+     ⭐ 1  🗣 C  📅 2026-11-24
+     🔗 https://github.com/d4ytox/CVE-2021-33200
+     📝 Local root in the Linux kernel eBPF verifier (5.4.116-5.4.122, 5.10.33-5.10.40, …
+     🏷  bpf, bpf-verifier, c, cve-2021-33200, cwe-787, cybersecurity, ebpf, exploit, infosec, kaslr-bypass, kernel-exploitation, linux-kernel, local-privilege-escalation, lpe, out-of-bounds-read, out-of-bounds-write, poc, privilege-escalation, proof-of-concept, redteam
+[2026-11-25 21:14:01 UTC] [NEW]   🆕 📦 mondk32/mshbox
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/mondk32/mshbox
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-25 21:14:01 UTC] [NEW]   🆕 📦 Kevin6giao/work2
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/Kevin6giao/work2
+     📝 个人自用的资料仓库：加固静态还原 / 提示词研究 / 安全测试 skills / 协议脚本，自用为主，随手整理
+     🏷  ai-agents, claude-code, markdown, pentest, playbooks, security, skills
+[2026-11-25 21:14:01 UTC] [UPD]   📢 5 repository AGGIORNATI:
+[2026-11-25 21:14:01 UTC] [UPD]   📢 📦 dmrolfs/hamster-ball
+     ⭐ 0  🗣 Rust  📅 2026-11-18
+     🔗 https://github.com/dmrolfs/hamster-ball
+     📝 Run AI coding agents in a macOS Seatbelt sandbox, configured per project in TOML…
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-11-25 21:14:01 UTC] [UPD]   📢 📦 dbabi/agentbox
+     ⭐ 0  🗣 Go  📅 2026-11-20
+     🔗 https://github.com/dbabi/agentbox
+     📝 Safe home for AI agents: a headless Ubuntu Server OS for AI coding agents (early…
+     🏷  ai-agents, golang, headless, operating-system, security, ubuntu
+     🔄 Motivo: repo recente (5gg)
+[2026-11-25 21:14:01 UTC] [UPD]   📢 📦 org-004/org
+     ⭐ 0  🗣 Python  📅 2026-11-22
+     🔗 https://github.com/org-004/org
+     📝 A product manager and autonomous engineers built on Claude Code: specs, dispatch…
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-25 21:14:01 UTC] [UPD]   📢 📦 KrishnadevN/agentbox
+     ⭐ 0  🗣 Shell  📅 2026-11-25
+     🔗 https://github.com/KrishnadevN/agentbox
+     📝 Run Claude Code, Codex, Antigravity and Copilot CLI in yolo mode without giving …
+     🏷  ai-agents, ai-coding, ai-security, claude-code, codex, coding-agents, dev-environment, dev-tools, developer-tools, gvisor, linux, podman, sandbox, sandbox-environment, sandboxing, security, security-tools
+     🔄 Motivo: repo recente (0gg)
+[2026-11-25 21:14:01 UTC] [UPD]   📢 📦 idntusemodz/PhantomHEN-Webkit
+     ⭐ 1  🗣 JavaScript  📅 2026-11-24
+     🔗 https://github.com/idntusemodz/PhantomHEN-Webkit
+     📝 14.02 Webkit with Custom Exploit
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-25 21:14:01 UTC] [INFO] ============================================================
+[2026-11-25 21:14:01 UTC] [INFO] Completato — 46 nuovi, 8 aggiornati, 0 errori
+[2026-11-25 21:14:01 UTC] [INFO] ============================================================
