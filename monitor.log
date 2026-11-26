@@ -146359,3 +146359,263 @@
 [2026-11-25 21:14:01 UTC] [INFO] ============================================================
 [2026-11-25 21:14:01 UTC] [INFO] Completato — 46 nuovi, 8 aggiornati, 0 errori
 [2026-11-25 21:14:01 UTC] [INFO] ============================================================
+[2026-11-26 07:16:57 UTC] [INFO] ============================================================
+[2026-11-26 07:16:57 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-26 07:16:57 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-26 07:16:57 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-26 07:16:57 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-26 07:16:57 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-26 07:16:57 UTC] [INFO] ============================================================
+[2026-11-26 07:16:57 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-26 07:16:57 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-26 07:16:59 UTC] [INFO]   → 5 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-26 07:16:59 UTC] [NEW]   🆕 3 NUOVI repository:
+[2026-11-26 07:16:59 UTC] [NEW]   🆕 📦 ddukbg/devsecops.kr
+     ⭐ 0  🗣 Shell  📅 2026-11-26
+     🔗 https://github.com/ddukbg/devsecops.kr
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:16:59 UTC] [NEW]   🆕 📦 18891617377-sudo/chesuntoy
+     ⭐ 0  🗣 C#  📅 2026-11-25
+     🔗 https://github.com/18891617377-sudo/chesuntoy
+     📝 Windows 深度卸载与驱动清理
+     🏷  —
+[2026-11-26 07:16:59 UTC] [NEW]   🆕 📦 melihkochan/kochansentinel
+     ⭐ 0  🗣 C#  📅 2026-11-25
+     🔗 https://github.com/melihkochan/kochansentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:16:59 UTC] [INFO]   ✓ Nessun aggiornamento rilevante
+[2026-11-26 07:16:59 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-26 07:16:59 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-26 07:17:03 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 34 NUOVI repository:
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 yaukacheung/malware-analysis
+     ⭐ 0  🗣 N/A  📅 2026-11-26
+     🔗 https://github.com/yaukacheung/malware-analysis
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 fumoctl/RStream
+     ⭐ 0  🗣 Rust  📅 2026-11-25
+     🔗 https://github.com/fumoctl/RStream
+     📝 Fast, native cross-platform media player & library for Linux, Windows and Androi…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 romitawagh21-lab/Cybersecurity-Risk-Assessment
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/romitawagh21-lab/Cybersecurity-Risk-Assessment
+     📝 A Python-based cybersecurity risk assessment tool for identifying common securit…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 carlosbudiman/Titan
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/carlosbudiman/Titan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 sha5p/Australians-identified-mineral-resources
+     ⭐ 0  🗣 N/A  📅 2026-11-26
+     🔗 https://github.com/sha5p/Australians-identified-mineral-resources
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 yeungtuzi/metalhdr
+     ⭐ 0  🗣 JavaScript  📅 2026-11-26
+     🔗 https://github.com/yeungtuzi/metalhdr
+     📝 macOS 网页 SDR 视频实时转 HDR：自动读取屏幕亮度上限，软肩滚降不裁切。油猴脚本 + Safari/Chromium 扩展
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 srivatsa-08/NexusSentinel
+     ⭐ 0  🗣 JavaScript  📅 2026-11-26
+     🔗 https://github.com/srivatsa-08/NexusSentinel
+     📝 Nexus Sentinel is an AI-powered cybersecurity prototype for FinTech, combining b…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 RadicalNinja420/ai-alert-triage
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/RadicalNinja420/ai-alert-triage
+     📝 Local-first AI agent that triages SIEM alerts: a local LLM (Ollama) extracts IOC…
+     🏷  agentic-ai, ai-agents, alert-triage, cybersecurity, human-in-the-loop, llm, local-llm, mitre-attack, ollama, prompt-injection, pydantic, python, security-operations, siem, soc, streamlit, threat-intelligence
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 ishandutta2007/Awesome-Mobile-Forensics-Spyware-Detection
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/ishandutta2007/Awesome-Mobile-Forensics-Spyware-Detection
+     📝 Top Mobile Forensics Spyware Detection (Opensource)  Star if you like it! 
+     🏷  awesome-list, curated-list, dfir, digital-forensics, mobile-forensics, spyware-detection
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 ashish-allatone/RadisDocs
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/ashish-allatone/RadisDocs
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 ciTy1504/ACMASIACSS_Submission
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/ciTy1504/ACMASIACSS_Submission
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 smart-dev-arch/reverse-skill
+     ⭐ 0  🗣 PowerShell  📅 2026-11-26
+     🔗 https://github.com/smart-dev-arch/reverse-skill
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 glassdfir/prism-cdp
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/glassdfir/prism-cdp
+     📝 Prism highlighting on every page you visit in Microsoft Edge or Google Chrome, d…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 notducttape01/ColorOS-V6-Standalone-Mods
+     ⭐ 0  🗣 N/A  📅 2026-11-26
+     🔗 https://github.com/notducttape01/ColorOS-V6-Standalone-Mods
+     📝 Self-contained rootless standalone mod suite, verified base-V6 patches, prebuilt…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 ampereforest/ColorOS-V6-Standalone-Mods
+     ⭐ 0  🗣 Kotlin  📅 2026-11-26
+     🔗 https://github.com/ampereforest/ColorOS-V6-Standalone-Mods
+     📝 Self-contained rootless standalone mod suite, verified base-V6 patches, prebuilt…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 nburns/denon-500-series-home-assistant
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/nburns/denon-500-series-home-assistant
+     📝 Home Assistant integration for Denon 500 series receivers (AVR-S510BT) over Blue…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 leopimentaveloso/lab-ransomware-python
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/leopimentaveloso/lab-ransomware-python
+     📝 Simulação prática de ransomware em Python e análise defensiva (Blue Team/DFIR): …
+     🏷  aes, blue-team, cibersecurity, cryptography, dfir, dio, incident-response, kali-linux, mitre-attack, python, ransomware, sha256
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 toblergabriel/RANSOWARE
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/toblergabriel/RANSOWARE
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 Kevin6giao/work2
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/Kevin6giao/work2
+     📝 个人自用的资料仓库：加固静态还原 / 提示词研究 / 安全测试 skills / 协议脚本，自用为主，随手整理
+     🏷  ai-agents, claude-code, markdown, pentest, playbooks, reverse-engineering, security, skills
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 jordancsar17-art/simulacao-ransomware-keylogger-python
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/jordancsar17-art/simulacao-ransomware-keylogger-python
+     📝 Simulação educacional de Ransomware e Keylogger em Python, em ambiente de labora…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 gizlet/otg-device
+     ⭐ 0  🗣 C  📅 2026-11-25
+     🔗 https://github.com/gizlet/otg-device
+     📝 GizOS-based USB accessory for Wi-Fi, BLE, and target firmware updates
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 matlevi/Ransomware_e_Keylogger
+     ⭐ 0  🗣 N/A  📅 2026-11-26
+     🔗 https://github.com/matlevi/Ransomware_e_Keylogger
+     📝 Desafio DIO
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 rahulbscys015/itsolera-soc-task-04-agent-tesla-analysis
+     ⭐ 0  🗣 YARA  📅 2026-11-26
+     🔗 https://github.com/rahulbscys015/itsolera-soc-task-04-agent-tesla-analysis
+     📝 ITSOLERA SOC internship Task 04 - Agent Tesla static, dynamic and hybrid malware…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 RPSWorks/intuneguard-studio
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/RPSWorks/intuneguard-studio
+     📝 Learn -> Clean -> Govern: Guided Microsoft Intune cleanup tracks, Tenant Context…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 muss4610/Game-Memory-Manipulation
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/muss4610/Game-Memory-Manipulation
+     📝 Used Cheat Engine to find and manipulate memory values in a game (health, ammo, …
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 zompinc/bt-classic
+     ⭐ 0  🗣 Rust  📅 2026-11-25
+     🔗 https://github.com/zompinc/bt-classic
+     📝 Bluetooth Classic (BR/EDR) host stack for no_std Rust: L2CAP, SDP and RFCOMM ove…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 H-32/SmartLab-Showcase
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/H-32/SmartLab-Showcase
+     📝 Intelligent Computer Laboratory Management & Security Monitoring System | Univer…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 Ximo-ph/raiju-te-legacy-pin-release
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/Ximo-ph/raiju-te-legacy-pin-release
+     📝 Experimental firmware patch for the Raiju Tournament Edition legacy Bluetooth PI…
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 Abdelhalim11/yellow-rat-lab
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/Abdelhalim11/yellow-rat-lab
+     📝 Blue-team write-up of the Yellow RAT lab: tracing Yellow Cockatoo (SolarMarker) …
+     🏷  cyberdefenders, incident-response, malware-analysis, soc, threat-intelligence, virustotal
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 Cataliniwis/shuffle-soar-alta-disponibilidad
+     ⭐ 1  🗣 Shell  📅 2026-11-25
+     🔗 https://github.com/Cataliniwis/shuffle-soar-alta-disponibilidad
+     📝 Proyecto de título: plataforma SOAR (Shuffle) con alta disponibilidad (Keepalive…
+     🏷  cibersecurity, harden, hardened, hardening, kali-linux, pfsense, pfsense-api, pfsense-firewall, rocky-linux, soar-automation
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 NatMartines/cartola-fc
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/NatMartines/cartola-fc
+     📝 Cartola FC 2022–2026: ingestão em Python, modelagem com dbt no Snowflake (increm…
+     🏷  analytics-engineering, cartola-fc, data-engineering, dbt, elementary, python, snowflake, streamlit
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 geoli2021/dio-malware-simulation-python
+     ⭐ 0  🗣 Python  📅 2026-11-25
+     🔗 https://github.com/geoli2021/dio-malware-simulation-python
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 melihkochan/kochansentinel
+     ⭐ 0  🗣 C#  📅 2026-11-25
+     🔗 https://github.com/melihkochan/kochansentinel
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:03 UTC] [NEW]   🆕 📦 exploiter-taz/ransomware-dissection
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/exploiter-taz/ransomware-dissection
+     📝 Dissecting Ransomware piece by piece from Windows internals and cryptography to …
+     🏷  —
+[2026-11-26 07:17:03 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-26 07:17:03 UTC] [UPD]   📢 📦 CK-NOMI/idea
+     ⭐ 1  🗣 Python  📅 2026-11-24
+     🔗 https://github.com/CK-NOMI/idea
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (2gg)
+[2026-11-26 07:17:03 UTC] [UPD]   📢 📦 1276486/ZERO-X-PoJia-Evasion-Shellcode
+     ⭐ 6  🗣 N/A  📅 2026-11-19
+     🔗 https://github.com/1276486/ZERO-X-PoJia-Evasion-Shellcode
+     📝 ZERO-X 破甲 · 免杀 Antivirus Evasion / Shellcode / Webshell / EDR 绕过 / 反调试 / 反虚拟机 / …
+     🏷  ai-jailbreak, antivirus-evasion, codex, cve, edr-bypass, electron, internal-pentest, llm-security, malware-analysis, memory-loader, penetration-testing, poc, privilege-escalation, prompt-injection, rce, red-team, reverse-engineering, shellcode, webshell, windows
+     🔄 Motivo: repo recente (7gg)
+[2026-11-26 07:17:03 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-26 07:17:03 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-26 07:17:05 UTC] [INFO]   → 9 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-26 07:17:05 UTC] [NEW]   🆕 4 NUOVI repository:
+[2026-11-26 07:17:05 UTC] [NEW]   🆕 📦 jaycetheog081-ux/gat0r
+     ⭐ 0  🗣 Swift  📅 2026-11-26
+     🔗 https://github.com/jaycetheog081-ux/gat0r
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-26 07:17:05 UTC] [NEW]   🆕 📦 Kevin6giao/work2
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/Kevin6giao/work2
+     📝 个人自用的资料仓库：加固静态还原 / 提示词研究 / 安全测试 skills / 协议脚本，自用为主，随手整理
+     🏷  ai-agents, claude-code, markdown, pentest, playbooks, reverse-engineering, security, skills
+[2026-11-26 07:17:05 UTC] [NEW]   🆕 📦 EDDINE401/access-control
+     ⭐ 0  🗣 N/A  📅 2026-11-25
+     🔗 https://github.com/EDDINE401/access-control
+     📝 Linux Access Control CTF write-up
+     🏷  —
+[2026-11-26 07:17:05 UTC] [NEW]   🆕 📦 garymathews/Relapse-Exploit
+     ⭐ 0  🗣 N/A  📅 2026-11-26
+     🔗 https://github.com/garymathews/Relapse-Exploit
+     📝 Exploit chain for PS5 7.00 - 13.60
+     🏷  —
+[2026-11-26 07:17:05 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-26 07:17:05 UTC] [UPD]   📢 📦 org-004/org
+     ⭐ 0  🗣 Python  📅 2026-11-22
+     🔗 https://github.com/org-004/org
+     📝 A product manager and autonomous engineers built on Claude Code: specs, dispatch…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-11-26 07:17:05 UTC] [UPD]   📢 📦 dbabi/agentbox
+     ⭐ 0  🗣 Go  📅 2026-11-20
+     🔗 https://github.com/dbabi/agentbox
+     📝 Safe home for AI agents: a headless Ubuntu Server OS for AI coding agents (early…
+     🏷  ai-agents, golang, headless, operating-system, security, ubuntu
+     🔄 Motivo: repo recente (5gg)
+[2026-11-26 07:17:05 UTC] [UPD]   📢 📦 KrishnadevN/agentbox
+     ⭐ 0  🗣 Shell  📅 2026-11-25
+     🔗 https://github.com/KrishnadevN/agentbox
+     📝 Run Claude Code, Codex, Antigravity and Copilot CLI in yolo mode without giving …
+     🏷  ai-agents, ai-coding, ai-security, claude-code, codex, coding-agents, dev-environment, dev-tools, developer-tools, gvisor, linux, podman, sandbox, sandbox-environment, sandboxing, security, security-tools
+     🔄 Motivo: repo recente (1gg)
+[2026-11-26 07:17:05 UTC] [INFO] ============================================================
+[2026-11-26 07:17:05 UTC] [INFO] Completato — 41 nuovi, 5 aggiornati, 0 errori
+[2026-11-26 07:17:05 UTC] [INFO] ============================================================
