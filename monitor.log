@@ -147274,3 +147274,345 @@
 [2026-11-27 07:13:33 UTC] [INFO] ============================================================
 [2026-11-27 07:13:33 UTC] [INFO] Completato — 49 nuovi, 6 aggiornati, 0 errori
 [2026-11-27 07:13:33 UTC] [INFO] ============================================================
+[2026-11-27 20:47:41 UTC] [INFO] ============================================================
+[2026-11-27 20:47:41 UTC] [INFO] GitHub Keyword Watcher avviato
+[2026-11-27 20:47:41 UTC] [INFO] Query monitorate: byovd-killers, edr-evasion, kernel-exploit
+[2026-11-27 20:47:41 UTC] [INFO] Nuovi repo: ultimi 1 giorni
+[2026-11-27 20:47:41 UTC] [INFO] Aggiornamenti: ultimi 30 giorni
+[2026-11-27 20:47:41 UTC] [INFO] Token GitHub: ✓ presente
+[2026-11-27 20:47:41 UTC] [INFO] ============================================================
+[2026-11-27 20:47:41 UTC] [INFO] Query: 'byovd-killers'
+[2026-11-27 20:47:41 UTC] [INFO]   ↳ "BYOVD" AND (kill OR antiav OR antiedr) in:name,description,readme
+[2026-11-27 20:47:43 UTC] [INFO]   → 10 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-27 20:47:43 UTC] [NEW]   🆕 2 NUOVI repository:
+[2026-11-27 20:47:43 UTC] [NEW]   🆕 📦 excelle1000-pixel/MCGuard
+     ⭐ 0  🗣 C#  📅 2026-11-27
+     🔗 https://github.com/excelle1000-pixel/MCGuard
+     📝 Clean-room external anticheat for Minecraft: Java Edition
+     🏷  —
+[2026-11-27 20:47:43 UTC] [NEW]   🆕 📦 nithishgupta-cys/byovd-irp-dispatch-overwrite
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/nithishgupta-cys/byovd-irp-dispatch-overwrite
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:43 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-27 20:47:43 UTC] [UPD]   📢 📦 Djalmajunior23/winlinx
+     ⭐ 0  🗣 TypeScript  📅 2026-11-23
+     🔗 https://github.com/Djalmajunior23/winlinx
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (4gg)
+[2026-11-27 20:47:43 UTC] [UPD]   📢 📦 rizwancyberlock-svg/soc-triage-playbooks
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/rizwancyberlock-svg/soc-triage-playbooks
+     📝 90 SOC triage playbooks + a printable SOC IR Field Guide: AD, identity, cloud, A…
+     🏷  blue-team, detection-engineering, dfir, field-guide, google-secops, incident-response, kql, microsoft-sentinel, mitre-attack, playbooks, security-operations, soc, soc-playbooks, threat-hunting, triage
+     🔄 Motivo: repo recente (1gg)
+[2026-11-27 20:47:43 UTC] [INFO] Query: 'edr-evasion'
+[2026-11-27 20:47:43 UTC] [INFO]   ↳ "EDR" AND (evasion OR bypass OR kill) in:name,description,readme
+[2026-11-27 20:47:47 UTC] [INFO]   → 50 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 43 NUOVI repository:
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 syedsulaimanashrafi/ssh-log-attack-classification
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-11-27
+     🔗 https://github.com/syedsulaimanashrafi/ssh-log-attack-classification
+     📝 Fine-tuned BERT and UniXcoder to tag attacker SSH commands with MITRE ATT&CK tac…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 dotrungquan/dotrungquan
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/dotrungquan/dotrungquan
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 mohoamerakram-tech/RFASS-001
+     ⭐ 0  🗣 Shell  📅 2026-11-27
+     🔗 https://github.com/mohoamerakram-tech/RFASS-001
+     📝 Self-hosted AI operator platform for authorized security testing: hardened conta…
+     🏷  ai-agent, docker, mitre, red-team, threat-modeling
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 lucas-galdino-aho/Omegamon
+     ⭐ 0  🗣 C#  📅 2026-11-27
+     🔗 https://github.com/lucas-galdino-aho/Omegamon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 dusansijacicic/raf-cyber-lab
+     ⭐ 0  🗣 TypeScript  📅 2026-11-27
+     🔗 https://github.com/dusansijacicic/raf-cyber-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 Desprometido/edracoes
+     ⭐ 0  🗣 HTML  📅 2026-11-27
+     🔗 https://github.com/Desprometido/edracoes
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 EdenEdri9893/EdenEdri9893
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/EdenEdri9893/EdenEdri9893
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 mehmetali-edr/whitedon
+     ⭐ 0  🗣 TypeScript  📅 2026-11-27
+     🔗 https://github.com/mehmetali-edr/whitedon
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 RenTechLabs/Simulated-SOC-investigation-of-a-Microsoft-365-phishing-compromise
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/RenTechLabs/Simulated-SOC-investigation-of-a-Microsoft-365-phishing-compromise
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 sparrowendpoint/edris-api-2014
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/sparrowendpoint/edris-api-2014
+     📝 keeping track of what I learn about data
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 vorsyghta/Vorsyghta
+     ⭐ 0  🗣 Python  📅 2026-11-26
+     🔗 https://github.com/vorsyghta/Vorsyghta
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 Marvvv26/Malify
+     ⭐ 0  🗣 Python  📅 2026-11-27
+     🔗 https://github.com/Marvvv26/Malify
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 Abdalaziz-Altrkawi/Cybersecurity-Labs
+     ⭐ 1  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/Abdalaziz-Altrkawi/Cybersecurity-Labs
+     📝 Hands-on Cybersecurity labs & PDF write-ups covering Blue Team, Red Team, Networ…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 rawan03-ron/Linux-File-Transfer-and-Privilege-Escalation-LinPEAS
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/rawan03-ron/Linux-File-Transfer-and-Privilege-Escalation-LinPEAS
+     📝 Linux Post-Exploitation & Privilege Escalation Assessment (Debian 2.6.32): repro…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 gitanetteawt/edris-design
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/gitanetteawt/edris-design
+     📝 personal notes and practice (linux)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 PietHugen/temperatuur
+     ⭐ 0  🗣 Python  📅 2026-11-27
+     🔗 https://github.com/PietHugen/temperatuur
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 andersonmartinscyber/malware-defense-lab
+     ⭐ 0  🗣 Python  📅 2026-11-27
+     🔗 https://github.com/andersonmartinscyber/malware-defense-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 khalid-sketch/Home-Lab
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/khalid-sketch/Home-Lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 DavidMuniz08/desafio-malware-educacional
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/DavidMuniz08/desafio-malware-educacional
+     📝 Estudo e documentação técnica de Ransomware e Keylogger, com demo seguro de crip…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 Dutchosintguy/osint-black-friday-2026
+     ⭐ 3  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/Dutchosintguy/osint-black-friday-2026
+     📝 Curated, vendor-verified OSINT Black Friday and Cyber Monday 2026 deals.
+     🏷  black-friday, cyber-monday, deals, infosec, osint
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 tylerjimenez120/IOT_ALL
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/tylerjimenez120/IOT_ALL
+     📝 Embedded Systems & IoT knowledge hub featuring firmware tutorials, practical lab…
+     🏷  edge-ai, embedded-linux, embedded-security, embedded-systems, esp32, firmware, freertos, industrial-iot, iot, knowledge-sharing, stm32, zephyr
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 Abdalaziz-Altrkawi/Computer-System-Penetration-Testing
+     ⭐ 1  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/Abdalaziz-Altrkawi/Computer-System-Penetration-Testing
+     📝 End-to-end grey-box penetration testing simulation across Linux servers and Wind…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 rawan03-ron/Bazaarjo-Lumma-Stealer-CTI-Threat-Hunting
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/rawan03-ron/Bazaarjo-Lumma-Stealer-CTI-Threat-Hunting
+     📝 Cyber Threat Intelligence (CTI) & Threat Hunting Report on Lumma Stealer: 20 pri…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 RedaSarhani/cloud-soc-engineering-lab
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/RedaSarhani/cloud-soc-engineering-lab
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 EH-CyberSecurity/Caldera_Custom_Payload
+     ⭐ 0  🗣 Python  📅 2026-11-27
+     🔗 https://github.com/EH-CyberSecurity/Caldera_Custom_Payload
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 rawan03-ron/Bazaarjo-Memory-Forensics-Volatility3-Investigation
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/rawan03-ron/Bazaarjo-Memory-Forensics-Volatility3-Investigation
+     📝 Volatile Memory Forensics Investigation (dump.raw) using Volatility 3: uncoverin…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 iamaanahmad/bughunter-skills
+     ⭐ 0  🗣 Python  📅 2026-11-27
+     🔗 https://github.com/iamaanahmad/bughunter-skills
+     📝 Agentic bug hunter skills for every AI coding agent - 85 bug bounty and pentest …
+     🏷  agent-skills, agentic-ai, ai-security, antigravity, bug-bounty, bug-bounty-tools, bughunter, claude-code, codex, kiro, opencode, pentest, red-team, security-tools, windsurf
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 oZep/Salt-Typhoon-Playbook-NG
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/oZep/Salt-Typhoon-Playbook-NG
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 YNU-LiuSiman/self-evolving-data-cleaning-agent
+     ⭐ 0  🗣 Python  📅 2026-11-27
+     🔗 https://github.com/YNU-LiuSiman/self-evolving-data-cleaning-agent
+     📝 Self-Evolving Cross-Task Memory Data Cleaning Agent with Safety Guardrails & Ver…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 XPrismOrg/xserver
+     ⭐ 0  🗣 C  📅 2026-11-26
+     🔗 https://github.com/XPrismOrg/xserver
+     📝 XPrism: a secure X11 display server for Linux and the BSDs, based on XLibre
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 mimamofficial1/MHD.AJK-EDR
+     ⭐ 0  🗣 Python  📅 2026-11-27
+     🔗 https://github.com/mimamofficial1/MHD.AJK-EDR
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 JUMPO-UX/mcp-tool-integrity-harness-showcase
+     ⭐ 0  🗣 Python  📅 2026-11-27
+     🔗 https://github.com/JUMPO-UX/mcp-tool-integrity-harness-showcase
+     📝 Showcase: MCP tool-integrity and prompt-injection defenses for AI agents (portfo…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 efe-gucluturk/cyber-journey
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/efe-gucluturk/cyber-journey
+     📝 Daily English study notes on my way from zero to a junior SOC analyst role.
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 IamIshrar/IamIshrar
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/IamIshrar/IamIshrar
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 xEstiwen/unmask
+     ⭐ 0  🗣 Go  📅 2026-11-27
+     🔗 https://github.com/xEstiwen/unmask
+     📝 Statically peel obfuscation off PowerShell command lines and list the indicators…
+     🏷  blue-team, deobfuscation, golang, incident-response, malware-analysis, powershell
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 Brily-web/uts-Threat-Hunting-CTI
+     ⭐ 0  🗣 Jupyter Notebook  📅 2026-11-27
+     🔗 https://github.com/Brily-web/uts-Threat-Hunting-CTI
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 efe-gucluturk/siber-rota
+     ⭐ 0  🗣 HTML  📅 2026-11-27
+     🔗 https://github.com/efe-gucluturk/siber-rota
+     📝 Daily study planner: 80 WPM typing, 40-week junior SOC roadmap, English practice…
+     🏷  cybersecurity, learning-roadmap, soc-analyst, study-planner, typing-test
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 rawan03-ron/CityWorks-Ransomware-First-24-Hours-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/rawan03-ron/CityWorks-Ransomware-First-24-Hours-Playbook
+     📝 First 24-Hour Enterprise Ransomware Incident Response Playbook for CityWorks Uti…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 rawan03-ron/Bazaarjo-NCSC-Notification-IR-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/rawan03-ron/Bazaarjo-NCSC-Notification-IR-Playbook
+     📝 24-Hour Crisis & Incident Response Playbook triggered by NCSC data-sale notifica…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 edriskhanmalikzada882-source/Edris-khan-Malik-zade
+     ⭐ 0  🗣 HTML  📅 2026-11-27
+     🔗 https://github.com/edriskhanmalikzada882-source/Edris-khan-Malik-zade
+     📝 Edris khan Malik zada
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 rawan03-ron/MediBridge-Healthcare-Incident-Response-Playbook
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/rawan03-ron/MediBridge-Healthcare-Incident-Response-Playbook
+     📝 First 24-Hour Healthcare Incident Response Plan (Case HD-11829): Phishing-to-Pow…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 rawan03-ron/Bazaarjo-Breach-Incident-Response-D3FEND
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/rawan03-ron/Bazaarjo-Breach-Incident-Response-D3FEND
+     📝 Incident Response & Defensive Architecture Case Study: Mapping a Phishing-to-Clo…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [NEW]   🆕 📦 rawan03-ron/Lumma-Stealer-Malware-Analysis-MITRE-ATTACK
+     ⭐ 0  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/rawan03-ron/Lumma-Stealer-Malware-Analysis-MITRE-ATTACK
+     📝 Threat Intelligence & Malware Analysis of Lumma Stealer: ClickFix/Malvertising d…
+     🏷  —
+[2026-11-27 20:47:47 UTC] [UPD]   📢 3 repository AGGIORNATI:
+[2026-11-27 20:47:47 UTC] [UPD]   📢 📦 itrimble/escape-from-butcher-bay
+     ⭐ 0  🗣 C  📅 2026-11-27
+     🔗 https://github.com/itrimble/escape-from-butcher-bay
+     📝 Native macOS (Metal / MetalFX / Hybrid RT) & POSIX recompilation runtime for The…
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-27 20:47:47 UTC] [UPD]   📢 📦 Homura8/celestia-mc-metal
+     ⭐ 0  🗣 Java  📅 2026-11-26
+     🔗 https://github.com/Homura8/celestia-mc-metal
+     📝 An Apple Silicon-first rendering engine for Minecraft: Java Edition.
+     🏷  —
+     🔄 Motivo: repo recente (1gg)
+[2026-11-27 20:47:47 UTC] [UPD]   📢 📦 PowerBeef/fm4-metal4
+     ⭐ 0  🗣 Objective-C++  📅 2026-11-24
+     🔗 https://github.com/PowerBeef/fm4-metal4
+     📝 Native Apple Silicon (arm64) & Metal 4.1 engine port of Forza Motorsport 4 (clea…
+     🏷  —
+     🔄 Motivo: repo recente (3gg)
+[2026-11-27 20:47:47 UTC] [INFO] Query: 'kernel-exploit'
+[2026-11-27 20:47:47 UTC] [INFO]   ↳ "kernel exploit" AND (windows OR driver) in:name,description,readme
+[2026-11-27 20:47:49 UTC] [INFO]   → 20 repo nella finestra 'nuovi', 50 nella finestra 'aggiornati'
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 10 NUOVI repository:
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 qwecvw/ps5-unix
+     ⭐ 0  🗣 HTML  📅 2026-11-27
+     🔗 https://github.com/qwecvw/ps5-unix
+     📝 PS5 FW 14.23 Linux research - WebKit Canvas UAF exploit (CVE-2026-43720)
+     🏷  —
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 ninjudd/multipass
+     ⭐ 0  🗣 Rust  📅 2026-11-26
+     🔗 https://github.com/ninjudd/multipass
+     📝 A small single-user password manager: one passphrase, one age-encrypted file
+     🏷  —
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 joazinhojaoo96-blip/BreakDumper
+     ⭐ 0  🗣 Swift  📅 2026-11-27
+     🔗 https://github.com/joazinhojaoo96-blip/BreakDumper
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 SnoopyTools/Filefixer
+     ⭐ 0  🗣 Objective-C  📅 2026-11-27
+     🔗 https://github.com/SnoopyTools/Filefixer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 Plutana-eng-hash/PKGYUH
+     ⭐ 0  🗣 C++  📅 2026-11-27
+     🔗 https://github.com/Plutana-eng-hash/PKGYUH
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 Dutchosintguy/osint-black-friday-2026
+     ⭐ 3  🗣 N/A  📅 2026-11-27
+     🔗 https://github.com/Dutchosintguy/osint-black-friday-2026
+     📝 Curated, vendor-verified OSINT Black Friday and Cyber Monday 2026 deals.
+     🏷  black-friday, cyber-monday, deals, infosec, osint
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 XiaoDao-Fish/GhostLock-HonorFne-main
+     ⭐ 0  🗣 Java  📅 2026-11-27
+     🔗 https://github.com/XiaoDao-Fish/GhostLock-HonorFne-main
+     📝 HonorRoot 最终源码与适配资料归档（停更说明见根目录）
+     🏷  —
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 hjm98-rgb/mst-ts-installer
+     ⭐ 0  🗣 C  📅 2026-11-27
+     🔗 https://github.com/hjm98-rgb/mst-ts-installer
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 hjm98-rgb/mst-installer-tool
+     ⭐ 0  🗣 C  📅 2026-11-27
+     🔗 https://github.com/hjm98-rgb/mst-installer-tool
+     📝 iOS installer helper tool
+     🏷  —
+[2026-11-27 20:47:49 UTC] [NEW]   🆕 📦 santosclients/SANTO-CLIENTS.
+     ⭐ 0  🗣 Objective-C  📅 2026-11-27
+     🔗 https://github.com/santosclients/SANTO-CLIENTS.
+     📝 (nessuna descrizione)
+     🏷  —
+[2026-11-27 20:47:49 UTC] [UPD]   📢 2 repository AGGIORNATI:
+[2026-11-27 20:47:49 UTC] [UPD]   📢 📦 rayjosediaz-dev/Panther-ios-para-ir-mofificando-con-chat-gpt
+     ⭐ 0  🗣 Swift  📅 2026-11-20
+     🔗 https://github.com/rayjosediaz-dev/Panther-ios-para-ir-mofificando-con-chat-gpt
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (7gg)
+[2026-11-27 20:47:49 UTC] [UPD]   📢 📦 nari2122mh-design/matino-x
+     ⭐ 0  🗣 Swift  📅 2026-11-27
+     🔗 https://github.com/nari2122mh-design/matino-x
+     📝 (nessuna descrizione)
+     🏷  —
+     🔄 Motivo: repo recente (0gg)
+[2026-11-27 20:47:49 UTC] [INFO] ============================================================
+[2026-11-27 20:47:49 UTC] [INFO] Completato — 55 nuovi, 7 aggiornati, 0 errori
+[2026-11-27 20:47:49 UTC] [INFO] ============================================================
